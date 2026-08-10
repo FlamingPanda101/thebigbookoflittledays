@@ -1,0 +1,194 @@
+# CONTINUATION SPEC
+### Read this first if you're picking up *The Big Book of Little Days*
+
+---
+
+## ⚠️ RULE ZERO
+
+**Never overwrite the working file.** Commit to git before any bulk edit. Never use `.` with the DOTALL flag inside a repeated group in a regex — a single one destroyed a completed version of this book. Parse the document into blocks and reassemble rather than doing regex surgery on the whole file. After every scripted pass, assert the day count is still correct and refuse to save if not.
+
+---
+
+## THE FAMILY
+
+| Person | Role | Notes |
+|---|---|---|
+| **Brooklyn** | Mom — the book's reader | Birthday **Dec 29** → Day 363 |
+| **Joseph** | Dad — the book's author | Birthday **Sep 13** → Day 256 |
+| **Azlyn** | Primary learner, girl, he/she: **she** | Turns **4 on Dec 20** → Day 354 |
+| **Kreston** | Secondary, boy, **he/him** | Turned **1 on June 5** → Day 156 |
+
+Use their names throughout. Never "your child" or "the baby."
+
+---
+
+## CALENDAR
+
+**Day 1 = Friday, January 1, 2027. Day 365 = Friday, December 31, 2027.**
+
+Every day header carries its real date. Every week header carries its date range.
+
+### Remaining holidays (verify by search before writing)
+
+| Day | Date | Holiday |
+|---|---|---|
+| 249 | Sep 6 | Labor Day *(bonus note)* |
+| **256** | **Sep 13** | **🎈 Joseph's birthday — full day** |
+| 284 | Oct 11 | Columbus / Indigenous Peoples' Day *(bonus note)* |
+| 302 | Oct 29 | 🪔 Diwali — full day |
+| 304 | Oct 31 | 🎃 Halloween — full day |
+| 305 | Nov 1 | 💀 Día de los Muertos — full day |
+| 315 | Nov 11 | Veterans Day *(bonus note)* |
+| 329 | Nov 25 | 🦃 Thanksgiving — full day |
+| **354** | **Dec 20** | **🎈 Azlyn turns 4 — full day** |
+| 358 | Dec 24 | 🕎 Hanukkah begins — full day |
+| 359 | Dec 25 | 🎄 Christmas — full day |
+| **363** | **Dec 29** | **🎈 Brooklyn's birthday — full day, she gets the day off** |
+| 365 | Dec 31 | 🎂 Grand Finale + New Year's Eve |
+
+---
+
+## REMAINING WEEK THEMES
+
+| Wk | Days | Theme |
+|---|---|---|
+| 34 | 232–238 | Backyard Carnival |
+| 35 | 239–245 | Music & Movement |
+| 36 | 246–252 | Community Helpers *(Labor Day)* |
+| 37 | 253–259 | Backyard Explorers *(Joseph's birthday)* |
+| 38 | 260–266 | Colors & Shapes Studio |
+| 39 | 267–273 | Letters & Sounds |
+| 40 | 274–280 | Numbers & Counting |
+| 41 | 281–287 | Things That Go *(Columbus/IPD)* |
+| 42 | 288–294 | Space Explorers |
+| 43 | 295–301 | Insects & Minibeasts |
+| 44 | 302–308 | Dinosaur Discovery *(Diwali, Halloween, Muertos)* |
+| 45 | 309–315 | On the Farm *(Veterans Day)* |
+| 46 | 316–322 | Weather & Rainbows |
+| 47 | 323–329 | Seasons & Nature Cycles *(Thanksgiving)* |
+| 48 | 330–336 | Kitchen Helpers |
+| 49 | 337–343 | Storybook Village |
+| 50 | 344–350 | Animal Kingdom |
+| 51 | 351–357 | Water & Weather Wonders |
+| 52 | 358–364 | Reflection & Winter Holidays *(Hanukkah, Christmas)* |
+| — | 365 | Grand Finale |
+
+---
+
+## DAILY PAGE FORMAT
+
+Every day follows this structure exactly:
+
+```markdown
+<a id="day-N"></a>
+
+## 🌟 Day N: [Title] 🌟
+**📅 [Weekday, Month D, YYYY]**
+**Theme:** [week theme]
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- [...through to] **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: [name]
+**🧰 Complete Materials List:**
+- [every item, with quantities]
+
+**📝 Step-by-Step Instructions:**
+1. [self-contained — never link out]
+
+> 💡 **Tip:** [the practical "what actually helps" note]
+
+### 🌳 Get Outside: [specific named activity]
+[2–3 sentences]
+
+> 👶 **Infant Integration:** [Kreston, at his real age that week]
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **[Bold claim as a headline.]**
+> [~100 words. Framed as "here's why what you already do works," never corrective.
+> Real developmental content. Must not repeat an earlier insight.]
+
+> 💛 **From Joseph:** [one line, specific and warm — never generic praise]
+
+<div style="page-break-after: always;"></div>
+```
+
+### Hard requirements
+
+- **Every Main Event unique** across all 365 days.
+- **Every Get Outside is a specific named activity** — never generic "Park Trip." Season-matched.
+- **One 🌍 Around the World box per week**, attached to one day. Fact + ✨ Try it (food-forward) + *Did you know?*
+- **Insight count and love-note count must equal the day count** in each file.
+- Tone: warm, practical, never preachy. Written to a competent adult.
+
+---
+
+## KRESTON'S AGE BANDS
+
+| Days | Age | Capability |
+|---|---|---|
+| 226–285 | 14–16 mo | Toddling confidently, scribbling, first words |
+| 286–345 | 16–18 mo | Running, climbing, playing alongside his sister |
+| 346–365 | 18–19 mo | Full participant — follows directions, copies everything |
+
+Each week header opens with his approximate age and what it means. By this stage he is **not** "watching from a blanket" — he has his own materials and real one-step jobs. Water-safety language stays firm.
+
+---
+
+## BOOKLET STRUCTURE
+
+Twelve printable booklets, split by whole weeks:
+
+Jan 1–5 · Feb 6–9 · Mar 10–13 · Apr 14–18 · May 19–22 · Jun 23–26 · Jul 27–31 · Aug 32–35 · Sep 36–39 · Oct 40–44 · Nov 45–48 · Dec 49–52 + Day 365
+
+Each booklet opens with:
+1. `<a id="booklet-[month]"></a>` + cover (title, "Booklet N of 12", date range, dedication)
+2. **This Month** contents with links
+3. Kreston's age note
+4. **🛍️ Worth Buying** / **🏠 Probably Already Have** — split shopping list
+5. **⚠️ Quick Safety Reminders** — season-specific
+
+Each booklet **ends** with a backup section:
+- `<a id="backup-[month]"></a>`
+- **2 Bad Weather Days** — full day plans, written for *that month's* actual weather
+- **2 Sick Days** — no outdoor section; a rest/wind-down block instead; vague schedules ("whenever she wakes")
+- **1 Extra Ideas page** — split into 🎲 Alternative Activities and 🎨 Alternative Arts & Crafts, ~11 each, plus a "Kreston's Turn" entry
+- Anchors: `[mon]-weather-1`, `[mon]-weather-2`, `[mon]-sick-1`, `[mon]-sick-2`, `[mon]-extras`
+- Backup days carry insights and love notes too
+
+---
+
+## NAVIGATION
+
+Use **explicit HTML anchors**, not auto-generated heading IDs — emoji in headings break slug generation in most markdown→PDF converters.
+
+- `<a id="day-N"></a>` before every day header
+- `<a id="week-N"></a>` before every week header
+- `<a id="booklet-month"></a>` before every booklet cover
+- `<div style="page-break-after: always;"></div>` after every day and every booklet
+
+---
+
+## STILL TO BUILD (back matter)
+
+Once Day 365 is done, three things remain:
+
+1. **Master Activity Index** — every backup day and extra-ideas entry across all 12 booklets, indexed by *need*: messy / no-mess / 10 minutes / burns energy / calms them down / cardboard box only / teaches letters / teaches counting. Each entry links **and** gives a human-readable location (`🌧️ January · Bad Weather Day 1`). Anchor: `<a id="index"></a>`
+2. **Keepsake Tracker** — time capsule (Day 1, opened Day 365), growth chart, memory jar (Day 132), season journals, handprint art, birthday interviews. Anchor: `<a id="keepsake"></a>`
+3. **Closing note** — short sign-off, ending on the line about how on the days when nothing gets done, they still got her all day, and that was always the actual curriculum.
+
+Also update the front-matter TOC in `months/00-front.md` if any structure changes.
+
+---
+
+## WORKFLOW
+
+1. Write each week-block to its own file in `months/`.
+2. Reassemble with `cat`.
+3. Validate day count, gaps, insight count, love-note count.
+4. **Commit and push.**
+
+Never edit the assembled file directly — it's generated.
