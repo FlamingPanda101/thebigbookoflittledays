@@ -73,8 +73,6 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 1 packet yeast
 - [ ] Coins or chocolate coins
 - [ ] 3 cups flour (plus extra for dusting)
@@ -99,9 +97,6 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 - [ ] Muffin tin, rolling pin, plastic knife
 - [ ] Ingredients for simple muffins or banana bread
 - [ ] Muffin tin and liners
-
-**🎨 Craft & supplies**
-
 - [ ] 1 loaf pan or baking sheet
 - [ ] Red paper or cardstock
 - [ ] Gold or yellow marker

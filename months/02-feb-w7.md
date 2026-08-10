@@ -39,8 +39,6 @@ Presidents' Day follows immediately on Day 46.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Doilies, heart stickers
 - [ ] Large beads, or cut drinking straws into short segments
 - [ ] 1 apple
@@ -49,9 +47,6 @@ Presidents' Day follows immediately on Day 46.
 - [ ] Pretzel sticks (a large handful)
 - [ ] Peanut butter or frosting (as mortar)
 - [ ] A butter knife or craft stick
-
-**🎨 Craft & supplies**
-
 - [ ] Yarn or string
 - [ ] Elastic cord or a pipe cleaner
 - [ ] A small dish to hold beads

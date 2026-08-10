@@ -72,17 +72,12 @@ It's also the opening week of the year, so Day 1 sets up the time capsule you'll
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 2 tbsp cream of tartar
 - [ ] Food coloring
 - [ ] 2 cups flour
 - [ ] ½ cup salt
 - [ ] 2 tbsp vegetable oil
 - [ ] 1½ cups boiling water (adult only)
-
-**🎨 Craft & supplies**
-
 - [ ] Painter's tape
 - [ ] 3 kitchen sponges, cut into a circle, square, and triangle
 - [ ] Clothespins or binder clips (far better than tucking)

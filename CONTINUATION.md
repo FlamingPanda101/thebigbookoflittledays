@@ -106,11 +106,7 @@ Every week begins with a briefing page before the first day:
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-- [ ] [every food/kitchen item from that week's Materials Lists, deduped]
-
-**🎨 Craft & supplies**
-- [ ] [everything else]
+- [ ] [every item from that week's Materials Lists, deduped, one flat list]
 
 ---
 
@@ -121,7 +117,7 @@ Every week begins with a briefing page before the first day:
 
 **Rules:**
 - Lists are drawn from the week's seven days only — **not** the backup days, which are optional.
-- Lists are complete, including things she probably owns, so she can check stock before Monday.
+- One flat list — **no buy/already-have split.** Complete, including things she probably owns, so she can check stock before Monday.
 - There is **no monthly shopping list.** Booklet covers go straight from contents to safety reminders.
 
 ---

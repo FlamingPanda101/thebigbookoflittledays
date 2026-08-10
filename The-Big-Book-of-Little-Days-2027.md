@@ -543,17 +543,12 @@ It's also the opening week of the year, so Day 1 sets up the time capsule you'll
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 2 tbsp cream of tartar
 - [ ] Food coloring
 - [ ] 2 cups flour
 - [ ] ½ cup salt
 - [ ] 2 tbsp vegetable oil
 - [ ] 1½ cups boiling water (adult only)
-
-**🎨 Craft & supplies**
-
 - [ ] Painter's tape
 - [ ] 3 kitchen sponges, cut into a circle, square, and triangle
 - [ ] Clothespins or binder clips (far better than tucking)
@@ -956,16 +951,11 @@ Expect a great deal of repetition. That's not the week failing to progress; repe
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 1 sheet white paper, cut into a large egg shape
 - [ ] 2–3 small plastic bottles or empty spice jars with tight lids
 - [ ] Dry rice, dry beans, and pasta (¼ cup each)
 - [ ] Orange paper scraps (beaks and feet)
 - [ ] A designated "stage" — a rug, a taped square, a cleared corner
-
-**🎨 Craft & supplies**
-
 - [ ] Black paint or black tissue paper
 - [ ] 1 small flashlight
 - [ ] Googly eyes (or drawn-on eyes)
@@ -1365,15 +1355,10 @@ MLK Day falls on Day 18 and fits the week naturally.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Carrots, celery, onion, potatoes
 - [ ] Broth (boxed is fine)
 - [ ] A child-safe knife or a butter knife
 - [ ] One shared snack bowl
-
-**🎨 Craft & supplies**
-
 - [ ] A timer or sand timer
 - [ ] 4–5 smooth rocks (collect on a walk, or buy a bag)
 - [ ] Acrylic or washable paint, bright colors
@@ -1767,16 +1752,11 @@ Several activities this week are designed to fail on the first attempt. That's d
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Any two or three kinds of small objects — buttons, blocks, cereal, pasta, coins
 - [ ] Cardboard or a cereal box panel
 - [ ] A muffin tin or several bowls
 - [ ] A small prize or snack for the end
 - [ ] A small "treasure" — a snack, a sticker sheet, a little toy
-
-**🎨 Craft & supplies**
-
 - [ ] Painter's tape
 - [ ] A printed family photo, or one of her own drawings
 - [ ] Glue stick
@@ -2166,15 +2146,10 @@ Groundhog Day lands on Day 33 and brings shadows into it.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Peanut butter or sunflower seed butter
 - [ ] Birdseed
 - [ ] 1 potato, halved (adult carves the shapes)
 - [ ] A butter knife or craft stick
-
-**🎨 Craft & supplies**
-
 - [ ] Googly eyes
 - [ ] String or yarn
 - [ ] Clothespins
@@ -2866,8 +2841,6 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 1 packet yeast
 - [ ] Coins or chocolate coins
 - [ ] 3 cups flour (plus extra for dusting)
@@ -2892,9 +2865,6 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 - [ ] Muffin tin, rolling pin, plastic knife
 - [ ] Ingredients for simple muffins or banana bread
 - [ ] Muffin tin and liners
-
-**🎨 Craft & supplies**
-
 - [ ] 1 loaf pan or baking sheet
 - [ ] Red paper or cardstock
 - [ ] Gold or yellow marker
@@ -3288,8 +3258,6 @@ Presidents' Day follows immediately on Day 46.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Doilies, heart stickers
 - [ ] Large beads, or cut drinking straws into short segments
 - [ ] 1 apple
@@ -3298,9 +3266,6 @@ Presidents' Day follows immediately on Day 46.
 - [ ] Pretzel sticks (a large handful)
 - [ ] Peanut butter or frosting (as mortar)
 - [ ] A butter knife or craft stick
-
-**🎨 Craft & supplies**
-
 - [ ] Yarn or string
 - [ ] Elastic cord or a pipe cleaner
 - [ ] A small dish to hold beads
@@ -3694,15 +3659,10 @@ The week ends with her curating her own gallery.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] A small cup of water and a paintbrush, or a spray bottle
 - [ ] Aluminum foil (a roll)
 - [ ] Playdough
 - [ ] A halved potato, celery end, or cookie cutter
-
-**🎨 Craft & supplies**
-
 - [ ] Coffee filters (flattened)
 - [ ] Bubble wrap
 - [ ] String and clothespins, or tape
@@ -4100,13 +4060,8 @@ The self-portrait on Day 63 is worth keeping and repeating.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Textured materials: sandpaper, cotton ball, foil, fabric scrap, bubble wrap, ribbon, a bit of sponge
 - [ ] Three fillings, two containers each: rice, coins, dried beans
-
-**🎨 Craft & supplies**
-
 - [ ] Yarn for hair
 - [ ] Yarn, buttons, fabric scraps
 - [ ] 1 large sheet of paper, divided into five sections
@@ -4790,15 +4745,10 @@ The tent goes up on Day 64 and stays up all week. Eid al-Fitr falls on Day 68.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Dates (soft, pitted)
 - [ ] Simple shortbread or butter cookie ingredients
 - [ ] Powdered sugar
 - [ ] Popcorn
-
-**🎨 Craft & supplies**
-
 - [ ] Clothespins
 - [ ] Ribbon or crepe streamers
 - [ ] Painter's tape, as an alternative
@@ -5199,8 +5149,6 @@ This is the week the outdoor half of the day starts getting easier again.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Potting soil
 - [ ] Bean or sunflower seeds (fast, forgiving, dramatic)
 - [ ] Green food coloring + 1 tbsp vinegar
@@ -5213,9 +5161,6 @@ This is the week the outdoor half of the day starts getting easier again.
 - [ ] ½ tsp baking soda
 - [ ] ½ tsp salt
 - [ ] ¾ cup buttermilk (or milk with a squeeze of lemon, left five minutes)
-
-**🎨 Craft & supplies**
-
 - [ ] Clear plastic cups (one per seed — clear so the roots are visible)
 - [ ] A ziplock bag for dyeing
 - [ ] Paint or torn tissue paper in rainbow colors
@@ -5615,8 +5560,6 @@ The growth chart starts on Day 83.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Lentils or wheat berries
 - [ ] Cornstarch (2 boxes)
 - [ ] Food coloring
@@ -5625,9 +5568,6 @@ The growth chart starts on Day 83.
 - [ ] Water
 - [ ] Optional: squirt bottles of colored water
 - [ ] A few small plastic or paper eggs
-
-**🎨 Craft & supplies**
-
 - [ ] White chalk or crayon
 - [ ] Googly eyes
 - [ ] Black or dark construction paper
@@ -6039,8 +5979,6 @@ The naked egg starts on Day 89 and is revealed on Day 91.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Food coloring, white vinegar, hot water
 - [ ] Friday's dyed eggs
 - [ ] Plastic eggs, filled
@@ -6052,9 +5990,6 @@ The naked egg starts on Day 89 and is revealed on Day 91.
 - [ ] 2 raw eggs
 - [ ] Salt (about 6 tbsp)
 - [ ] A jar and white vinegar (for the naked egg — start today, reveal in two days)
-
-**🎨 Craft & supplies**
-
 - [ ] Ribbon or paper strips for weaving
 - [ ] The seed cups from Day 71 and the sabzeh from Day 80
 - [ ] Googly eyes (a whole pack)
@@ -6745,8 +6680,6 @@ The week ends with her presenting her own science fair.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Clean, dry eggshells (saved from the week's cooking)
 - [ ] Food coloring or paint, if dyeing them
 - [ ] Food coloring: red, yellow, blue
@@ -6760,9 +6693,6 @@ The week ends with her presenting her own science fair.
 - [ ] Small cups for colored vinegar
 - [ ] Sugar and warm water
 - [ ] This week's leftovers: the walking water cups, the mosaic, drawings, the density jar
-
-**🎨 Craft & supplies**
-
 - [ ] A flashlight
 - [ ] Cotton balls, fabric scraps, bubble wrap, tissue paper
 - [ ] A tray with a lip
@@ -7163,8 +7093,6 @@ Day 100 lands here. Vaisakhi is on Day 104.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Potting soil
 - [ ] Seeds: sunflower, bean, and a fast flower
 - [ ] A child-sized trowel and watering can
@@ -7173,9 +7101,6 @@ Day 100 lands here. Vaisakhi is on Day 104.
 - [ ] Fresh herbs: mint, basil, rosemary, thyme
 - [ ] Ingredients for something simple to share — rice and lentils, or flatbread
 - [ ] 2–3 celery stalks with leaves
-
-**🎨 Craft & supplies**
-
 - [ ] A magnifying glass
 - [ ] A garden bed, a raised box, or 3–4 large pots
 - [ ] Craft sticks and a marker for labels
@@ -7576,8 +7501,6 @@ Passover begins on Day 111.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Potting soil
 - [ ] A watering can
 - [ ] A cup or yogurt pot to stand it in
@@ -7586,9 +7509,6 @@ Passover begins on Day 111.
 - [ ] Matzah or plain crackers
 - [ ] 1 apple, cinnamon, honey (for *charoset*)
 - [ ] A small bowl of salt water
-
-**🎨 Craft & supplies**
-
 - [ ] Grass seed
 - [ ] Googly eyes and a marker
 - [ ] Moss, a small plant, or a few seedlings
@@ -7998,15 +7918,10 @@ Day 119 requires something genuinely broken.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Clean boxes of various sizes, cardboard tubes, egg cartons, bottle caps
 - [ ] Aluminum foil
 - [ ] Scrap paper, torn small (newspaper, junk mail, egg cartons)
 - [ ] Warm water
-
-**🎨 Craft & supplies**
-
 - [ ] 2 buckets and a sponge or cup, for the relay
 - [ ] Towels and a sponge
 - [ ] Something genuinely broken: a torn book, a toy missing a wheel, a button off a shirt
@@ -8410,13 +8325,8 @@ Insects and pollination are met by acting them out rather than being told.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Optional: dried pasta — orzo for eggs, spiral for caterpillar, shell for chrysalis, bowtie for butterfly
 - [ ] Warm water
-
-**🎨 Craft & supplies**
-
 - [ ] A magnifying glass
 - [ ] A brad fastener (or a button and string)
 - [ ] Paper straws, hollow stems, or tightly rolled paper tubes
@@ -9116,12 +9026,6 @@ The memory jar starts on Day 132 and gets read on Day 365.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
-- [ ] *None this week.*
-
-**🎨 Craft & supplies**
-
 - [ ] Ink pad or a plate of green paint
 - [ ] 1 large sheet of paper
 - [ ] Brown paint or marker (the trunk)
@@ -9528,8 +9432,6 @@ Vesak falls on Day 140 and closes the week quietly.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 2 cups cornstarch
 - [ ] Food coloring (optional)
 - [ ] Playdough, mud, or sand to build the cone
@@ -9544,9 +9446,6 @@ Vesak falls on Day 140 and closes the week quietly.
 - [ ] A tub or bucket of water
 - [ ] Foil, and small weights (coins or pebbles)
 - [ ] A cup of water with a paperclip in it
-
-**🎨 Craft & supplies**
-
 - [ ] Wands: pipe cleaners bent into shapes, a slotted spoon, a plastic cup with the bottom cut out, two straws and a loop of string
 - [ ] Sidewalk chalk
 - [ ] Battery tea lights
@@ -9943,14 +9842,9 @@ Real-life helpers get thanked on Day 143.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] A jug of water and a cup (pouring)
 - [ ] A phone, switched off, for practicing
 - [ ] Markers, stickers, foil
-
-**🎨 Craft & supplies**
-
 - [ ] Fabric markers or fabric paint
 - [ ] Ribbon for ties
 - [ ] Chalk
@@ -10355,12 +10249,7 @@ Real fire safety is rehearsed on Day 152, inside the play.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] A spray bottle of water
-
-**🎨 Craft & supplies**
-
 - [ ] Red tissue paper or red cardstock
 - [ ] Green pipe cleaners or paper for stems
 - [ ] Chalk
@@ -11063,13 +10952,8 @@ Kreston turns one on Day 156.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Fruit and vegetables in as many colors as you can manage — strawberry, orange, yellow pepper, cucumber, blueberry, purple grape
 - [ ] Ice cube tray, frozen the night before with colored water
-
-**🎨 Craft & supplies**
-
 - [ ] Hole punch and ribbon
 - [ ] Fabric dye, or washable markers + rubbing alcohol for a simpler version
 - [ ] 7 sheets of cardstock (one per letter of K-R-E-S-T-O-N)
@@ -11473,8 +11357,6 @@ Kreston is a walking one-year-old now, which changes the risk entirely.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 2–3 pool noodles
 - [ ] A bowl of water and a straw
 - [ ] A hose or watering can for rinsing
@@ -11484,9 +11366,6 @@ Kreston is a walking one-year-old now, which changes the risk entirely.
 - [ ] Warm water in a squeeze bottle
 - [ ] Salt in a shaker
 - [ ] A bucket of soapy water
-
-**🎨 Craft & supplies**
-
 - [ ] A properly fitted life jacket for each child
 - [ ] Cork, sponge pieces, plastic lids, craft sticks
 - [ ] Straws and paper for sails
@@ -11893,13 +11772,8 @@ A family recipe gets written down and recorded on Day 172.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Red fruit for tomorrow: strawberries, watermelon, cherries
 - [ ] Red fruit and red drink
-
-**🎨 Craft & supplies**
-
 - [ ] Ice pop molds
 - [ ] Yesterday's bunting and ice pops
 - [ ] Ribbon wands or scarves
@@ -12305,13 +12179,8 @@ Day 182 is the halfway point of the year.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] 1 whole watermelon, with seeds if you can find one
 - [ ] Red, white, blue, and gold paint, thinned with a little water
-
-**🎨 Craft & supplies**
-
 - [ ] Straws
 - [ ] Chalk
 - [ ] Star stickers, or stars cut from cardstock
@@ -13015,16 +12884,11 @@ Ribbon wands stand in for sparklers all week.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Strawberries, yogurt, blueberries
 - [ ] Food coloring, several colors
 - [ ] Orange, yellow, and red tissue paper
 - [ ] A tall clear jar or glass, filled with warm water
 - [ ] 3 tbsp cooking oil in a separate cup
-
-**🎨 Craft & supplies**
-
 - [ ] Craft sticks or straws
 - [ ] Red, white, and blue streamers
 - [ ] This week's flags and ribbon wands
@@ -13429,8 +13293,6 @@ The noodle water run from Day 195 will get used all summer.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Blue food coloring
 - [ ] Pool noodles cut in half lengthways (adult, serrated knife)
 - [ ] This week's sand bin, water bin, wave bottles, sand art
@@ -13440,9 +13302,6 @@ The noodle water run from Day 195 will get used all summer.
 - [ ] Water
 - [ ] Cooking oil or baby oil
 - [ ] Tropical fruit
-
-**🎨 Craft & supplies**
-
 - [ ] A large bin or a sandbox, with play sand
 - [ ] Shells, if you have them
 - [ ] Sunscreen and hats
@@ -13855,8 +13714,6 @@ Day 200 lands here, with two hundred-grids side by side.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Pom-poms as sprinkles
 - [ ] Blended strawberry or raspberry
 - [ ] 200 small identical things: stickers, pom-poms, cereal, dot-marker prints
@@ -13875,9 +13732,6 @@ Day 200 lands here, with two hundred-grids side by side.
 - [ ] A yogurt dip
 - [ ] Ice cream (Day 197's, or shop-bought)
 - [ ] Small bowls of toppings: fruit, sprinkles, crushed biscuit, sauce, whipped cream
-
-**🎨 Craft & supplies**
-
 - [ ] Ice pop molds
 - [ ] Blunt wooden skewers, or reusable silicone sticks
 - [ ] Ice, enough to fill the large bag
@@ -14278,13 +14132,8 @@ Day 209 pairs a pretend ocean clean-up with a real litter walk.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] A large bin with a few inches of water, blue food coloring
 - [ ] Paint in coral colors — orange, pink, purple, yellow
-
-**🎨 Craft & supplies**
-
 - [ ] Sand or small stones for the floor
 - [ ] Shells, plastic sea creatures
 - [ ] Blue cellophane or a strip of fabric (the surface)
@@ -14707,17 +14556,12 @@ Stargazing on Day 216, weather permitting.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Red, orange, and yellow tissue paper
 - [ ] Graham crackers, chocolate, marshmallows
 - [ ] Bowls of: round cereal, pretzels, raisins, dried fruit, small crackers
 - [ ] A tea bag, steeped and cooled (to age the paper)
 - [ ] A small treasure — a snack, a coin, a small toy
 - [ ] Breakfast — fruit, muffins, cereal in cups
-
-**🎨 Craft & supplies**
-
 - [ ] A small tent, or a large sheet and rope between two points
 - [ ] A torch each
 - [ ] A battery tea light or torch
@@ -15159,14 +15003,9 @@ She designs the obstacle course herself on Day 223.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] Cardstock circles, foil, ribbon
 - [ ] A beanbag or small book to balance on her head
 - [ ] A little water or sand in each for stability
-
-**🎨 Craft & supplies**
-
 - [ ] Chalk for the running track
 - [ ] A laundry basket, bucket, and a hula hoop
 - [ ] Chalk
@@ -15567,8 +15406,6 @@ The map goes up on Day 225 and stays up.
 
 > *Everything the week's activities call for. Check what you've already got before Monday.*
 
-**🍎 Food & kitchen**
-
 - [ ] An ink pad and a small stamp (or a potato stamp)
 - [ ] Large beads or cut drinking straws
 - [ ] Colored rice or chalk
@@ -15576,9 +15413,6 @@ The map goes up on Day 225 and stays up.
 - [ ] Tortillas and cheese
 - [ ] Small bowls of mild spices: cinnamon, cardamom, turmeric, cumin
 - [ ] Flour, yogurt, baking powder for naan
-
-**🎨 Craft & supplies**
-
 - [ ] A world map or globe
 - [ ] Pink tissue paper
 - [ ] Bright tissue paper squares
