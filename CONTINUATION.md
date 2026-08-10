@@ -75,6 +75,57 @@ Every day header carries its real date. Every week header carries its date range
 
 ---
 
+## WEEK OPENER FORMAT
+
+Every week begins with a briefing page before the first day:
+
+```markdown
+<a id="week-N"></a>
+
+## Week N: [Theme] [emoji]
+**📅 [Month D – Month D, YYYY]**
+
+---
+
+### 🎯 What This Week Is About
+[2 short paragraphs: the through-line of the week, and any holiday landing in it.]
+
+---
+
+### 🧒 What Azlyn Will Learn
+- [5 bullets. Concrete skills, bolded lead-in, plain explanation after.]
+
+---
+
+### 👩 What You'll Learn
+- [The 7 insight headlines from that week's days, listed verbatim minus the full stop.]
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+- [ ] [every food/kitchen item from that week's Materials Lists, deduped]
+
+**🎨 Craft & supplies**
+- [ ] [everything else]
+
+---
+
+> 👶 **Kreston is around N months this week** — [capability].
+
+---
+```
+
+**Rules:**
+- Lists are drawn from the week's seven days only — **not** the backup days, which are optional.
+- Lists are complete, including things she probably owns, so she can check stock before Monday.
+- There is **no monthly shopping list.** Booklet covers go straight from contents to safety reminders.
+
+---
+
 ## DAILY PAGE FORMAT
 
 Every day follows this structure exactly:
@@ -148,7 +199,7 @@ Each booklet opens with:
 1. `<a id="booklet-[month]"></a>` + cover (title, "Booklet N of 12", date range, dedication)
 2. **This Month** contents with links
 3. Kreston's age note
-4. **🛍️ Worth Buying** / **🏠 Probably Already Have** — split shopping list
+4. *(No monthly shopping list — each week carries its own)*
 5. **⚠️ Quick Safety Reminders** — season-specific
 
 Each booklet **ends** with a backup section:

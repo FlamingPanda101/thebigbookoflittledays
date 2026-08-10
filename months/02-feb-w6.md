@@ -23,34 +23,6 @@
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] Red paper and red envelopes (or make them — Lunar New Year)
-- [ ] Doilies (paper, 1 pack — Valentine's)
-- [ ] Heart stickers
-- [ ] Watercolor paints (1 set)
-- [ ] Coffee filters (1 pack — they're a craft supply, not just for coffee)
-- [ ] Tissue paper (assorted colors)
-- [ ] Yeast (1 packet — bread week)
-- [ ] Chocolate coins (Lunar New Year red envelopes)
-- [ ] Oranges (a bag — Lunar New Year)
-- [ ] Dates (Eid, and they're a great snack)
-- [ ] Cotton swabs (for dot painting)
-- [ ] Pretzel sticks (Presidents' Day log cabin)
-- [ ] A hand mirror (if you don't have a low one)
-
-## 🏠 Probably Already Have
-
-- [ ] Flour · sugar · salt · yogurt · baking powder · butter · honey
-- [ ] Construction paper · cardstock · paper plates · index cards
-- [ ] Paint · brushes · crayons · markers · glue · child scissors
-- [ ] Ziplock bags · foil · plastic wrap · muffin tin · rolling pin
-- [ ] Old socks · fabric scraps · buttons · yarn · ribbon
-- [ ] Noodles (long ones — Lunar New Year)
-- [ ] Peanut butter · applesauce · apples · cinnamon
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **Small parts** — buttons, coins, beads. Kreston is crawling now and everything goes in his mouth. Count pieces back in and sweep the floor after.
@@ -64,6 +36,84 @@
 
 ## Week 6: Little Bakery 🥐
 **📅 February 5 – February 11, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Bread, butter, dough, and the kitchen as a classroom. Measuring, pouring, kneading, and waiting — practical life skills that happen to be full of maths and chemistry.
+
+Lunar New Year falls on Day 37, and long noodles are involved.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Measuring and pouring** — early volume and quantity.
+- **Cause and effect she can taste**: yeast makes it rise, soda makes it fizz.
+- **Waiting for a result**, with bread as the most patient teacher there is.
+- **Hand strength** through kneading, which is also genuinely calming.
+- **That food is made by someone**, not simply bought.
+
+---
+
+### 👩 What You'll Learn
+
+- Waiting for dough to rise is a better lesson than the bread
+- Celebrating other people's holidays does something specific
+- Ugly is fine. Actually, ugly is better
+- Persistence is built by seeing the finish line
+- Handling food is how picky eating loosens
+- Pretend play is where numbers stop being recitation
+- Naming the recipient at the start changes the whole activity
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 1 packet yeast
+- [ ] Coins or chocolate coins
+- [ ] 3 cups flour (plus extra for dusting)
+- [ ] 1 tsp salt
+- [ ] 1 tbsp sugar
+- [ ] 1¼ cups warm water
+- [ ] Oranges
+- [ ] Long noodles for lunch
+- [ ] Sugar cookie dough (homemade or store-bought — no shame either way)
+- [ ] Cookie cutters
+- [ ] Icing (a simple mix of powdered sugar and a little milk)
+- [ ] Sprinkles
+- [ ] ½ cup heavy whipping cream, at room temperature
+- [ ] A pinch of salt
+- [ ] Bread or crackers for serving
+- [ ] 2 English muffins, halved (or naan from Day 36)
+- [ ] Pizza sauce
+- [ ] Shredded mozzarella
+- [ ] Toppings for faces: pepperoni, olives, bell pepper strips, corn
+- [ ] Playdough (from Day 5, or a fresh batch)
+- [ ] Paper for a sign, price tags, and money
+- [ ] Muffin tin, rolling pin, plastic knife
+- [ ] Ingredients for simple muffins or banana bread
+- [ ] Muffin tin and liners
+
+**🎨 Craft & supplies**
+
+- [ ] 1 loaf pan or baking sheet
+- [ ] Red paper or cardstock
+- [ ] Gold or yellow marker
+- [ ] Glue or tape
+- [ ] Rolling pin
+- [ ] 1 small jar with a tight lid
+- [ ] A small table or counter
+- [ ] A dish towel apron
+- [ ] A box or paper bag for delivery
+- [ ] Paper and crayons for a card
+
+---
 
 > 👶 **Kreston is around 8 months this week** — crawling fast, pulling up to stand, and nothing low is safe from him.
 

@@ -493,37 +493,6 @@ Floor picnic on a blanket. Everything tastes better and no one has to sit up at 
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-> *A quick store run at the start of the month means no day gets derailed by a missing supply.*
-
-- [ ] Contact paper (clear, 1 roll)
-- [ ] Googly eyes (assorted)
-- [ ] Pom-poms (assorted colors)
-- [ ] Food coloring (4 colors)
-- [ ] Painter's tape (2 rolls — you'll use more than you think)
-- [ ] Washable paint (red, blue, yellow, green, black, white)
-- [ ] Cotton balls (1 bag)
-- [ ] Craft sticks (1 pack)
-- [ ] Pipe cleaners (1 pack)
-- [ ] Cream of tartar (for playdough)
-- [ ] Yarn (1 skein, any color)
-- [ ] Buttons (large, 1 bag)
-- [ ] Sidewalk chalk (for the thaw days)
-
-## 🏠 Probably Already Have
-
-- [ ] Paper plates · construction paper · cardstock · plain paper
-- [ ] Crayons · markers · child-safe scissors · glue stick
-- [ ] Flour · salt · vegetable oil · baking soda · vinegar
-- [ ] Cardboard boxes (start saving now — you'll want three or four)
-- [ ] Muffin tin · mixing bowls · measuring cups · wooden spoons
-- [ ] Ziplock bags · aluminum foil · masking tape
-- [ ] Old socks · fabric scraps · blankets · pillows
-- [ ] Flashlight · mirror · magnifying glass (if you have one)
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **Small parts** — buttons, pom-poms, beads. Choking risk for *both* kids. Count them back in when you finish.
@@ -537,6 +506,79 @@ Floor picnic on a blanket. Everything tastes better and no one has to sit up at 
 
 ## Week 1: Shape Engineers & Building 🏗️
 **📅 January 1 – January 7, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Building — towers, bridges, houses, forts. Everything this week asks the same question in different forms: **what makes a structure stand up, and what makes it fall down?** She'll build seven things, knock most of them over, and rebuild them better. That cycle is the point.
+
+It's also the opening week of the year, so Day 1 sets up the time capsule you'll open on Day 365.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Structures need a base.** Wide bottoms hold; narrow ones topple.
+- **Shape names in use** — circle, square, triangle — attached to real objects, not flashcards.
+- **Trial and error as a method.** Build, watch it fail, change one thing, build again.
+- **Hand strength and control** through kneading, stamping, and stacking.
+- **That she can make a real thing** that stays in the house and gets used.
+
+---
+
+### 👩 What You'll Learn
+
+- Why writing down her exact words matters more than you'd think
+- The cardboard box beats the expensive toy, and there's a reason
+- Narrating beats quizzing — every time
+- Knocking it down *is* the science
+- Why kneading dough calms a wound-up kid down
+- The pause before you help
+- Why small enclosed spaces are so appealing right now
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 2 tbsp cream of tartar
+- [ ] Food coloring
+- [ ] 2 cups flour
+- [ ] ½ cup salt
+- [ ] 2 tbsp vegetable oil
+- [ ] 1½ cups boiling water (adult only)
+
+**🎨 Craft & supplies**
+
+- [ ] Painter's tape
+- [ ] 3 kitchen sponges, cut into a circle, square, and triangle
+- [ ] Clothespins or binder clips (far better than tucking)
+- [ ] A flashlight
+- [ ] 1 shoebox or coffee can with a lid
+- [ ] Paper and crayons
+- [ ] Washable paint (for handprints)
+- [ ] A measuring tape
+- [ ] Tape and a marker
+- [ ] 1 large cardboard box
+- [ ] Box cutter (adult only)
+- [ ] Washable paint or markers
+- [ ] 1 paper plate (as a palette)
+- [ ] 2–3 sheets of plain paper
+- [ ] Building blocks, plastic cups, or empty boxes — whatever you have
+- [ ] Paper to record the record
+- [ ] Airtight container for storage
+- [ ] Craft sticks, blocks, or cardboard strips
+- [ ] 2 stacks of books (the riverbanks)
+- [ ] 1 small toy car (the tester)
+- [ ] 2–3 blankets or bedsheets
+- [ ] Dining chairs, a table, or a couch
+- [ ] Pillows and cushions
+
+---
 
 > 👶 **Kreston is around 7 months this week** — sitting up solid, starting to crawl, and grabbing for everything within reach.
 
@@ -878,6 +920,78 @@ Stand still on the porch or by a window and count birds for five minutes. Winter
 ## Week 2: Nursery Rhymes & Rhythm 🎶
 **📅 January 8 – January 14, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Rhymes, songs, and rhythm. Every activity this week attaches words to a beat — because hearing the beats inside a word is the same skill that later lets a child hear the sounds inside one.
+
+Expect a great deal of repetition. That's not the week failing to progress; repetition is how the pattern gets locked in.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Rhythm and beat** — clapping, shaking, and marching in time.
+- **Rhyming pairs**, which is early phonological awareness.
+- **Counting down** from five, which gets far less practice than counting up.
+- **Sequencing a story** through verses that happen in order.
+- **Inventing her own verses** — creativity inside a fixed structure.
+
+---
+
+### 👩 What You'll Learn
+
+- Why she wants the same rhyme forty times
+- Rhythm and reading are more connected than they look
+- Why a wind-down object works better than a wind-down instruction
+- Counting words come long before counting means anything
+- Why moving together matters more than moving
+- Verses she invents are worth more than verses she repeats
+- Performing for one person is enough
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 1 sheet white paper, cut into a large egg shape
+- [ ] 2–3 small plastic bottles or empty spice jars with tight lids
+- [ ] Dry rice, dry beans, and pasta (¼ cup each)
+- [ ] Orange paper scraps (beaks and feet)
+- [ ] A designated "stage" — a rug, a taped square, a cleared corner
+
+**🎨 Craft & supplies**
+
+- [ ] Black paint or black tissue paper
+- [ ] 1 small flashlight
+- [ ] Googly eyes (or drawn-on eyes)
+- [ ] Blue fabric, a blue sheet, or blue paper streamers
+- [ ] Markers or crayons
+- [ ] Red and brown construction paper (for bricks)
+- [ ] Glue stick
+- [ ] 1 craft stick
+- [ ] Strong tape
+- [ ] Stickers or paint for decorating
+- [ ] 1 clean glass or plastic jar with a lid
+- [ ] A toothpick or thumbtack (adult only)
+- [ ] Yellow construction paper
+- [ ] 5 craft sticks
+- [ ] 1 laundry basket
+- [ ] 2 wooden spoons or paper towel tubes (oars)
+- [ ] A few stuffed animals (passengers)
+- [ ] 4 dining chairs in a row
+- [ ] 1 paper plate (steering wheel)
+- [ ] Paper and markers (tickets)
+- [ ] A pot lid or tambourine (the bell)
+- [ ] This week's shakers, duck puppets, and Humpty
+- [ ] Paper for tickets and a program
+
+---
+
 > 👶 **Kreston is around 7 months this week** — sitting up solid, starting to crawl, and grabbing for everything within reach.
 
 ---
@@ -1215,6 +1329,73 @@ Find something bare, something evergreen, something frozen, something red, and s
 ## Week 3: Kindness & Community 💛
 **📅 January 15 – January 21, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Kindness, made concrete. A 4-year-old can't act on "be nice" — it's too abstract. So this week turns kindness into objects and actions she can hold: painted rocks left for strangers, soup delivered to a neighbor, cards posted to real people.
+
+MLK Day falls on Day 18 and fits the week naturally.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That her actions affect other people's feelings**, visibly and immediately.
+- **Helping as a real job**, not a pretend one.
+- **Turn-taking**, which is achievable at four in a way that spontaneous sharing isn't.
+- **Naming what she appreciates** about specific people.
+- **Early gratitude** — noticing that a person chose to do something for her.
+
+---
+
+### 👩 What You'll Learn
+
+- Kindness has to be visible before it can be learned
+- The age where they want to help is right now, and it's brief
+- Giving feels good only when the child does the giving
+- Children notice difference early, and silence teaches something
+- Gratitude is a skill, and it starts with noticing
+- Sharing and turn-taking are different skills, and one is much easier
+- Being told what someone loves about you is different from being praised
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Carrots, celery, onion, potatoes
+- [ ] Broth (boxed is fine)
+- [ ] A child-safe knife or a butter knife
+- [ ] One shared snack bowl
+
+**🎨 Craft & supplies**
+
+- [ ] A timer or sand timer
+- [ ] 4–5 smooth rocks (collect on a walk, or buy a bag)
+- [ ] Acrylic or washable paint, bright colors
+- [ ] Paintbrush
+- [ ] A fine-tip marker (for words, written by you)
+- [ ] 1 sheet posterboard or large paper
+- [ ] Markers
+- [ ] Stickers
+- [ ] Tape
+- [ ] A large pot
+- [ ] A container with a lid (for delivery)
+- [ ] Blue paper
+- [ ] White paper (for the cloud) and cotton balls
+- [ ] Glue stick
+- [ ] Cardstock, folded into cards
+- [ ] Crayons and markers
+- [ ] Envelopes and stamps
+- [ ] A simple board game, or a die and some counters
+- [ ] Construction paper, cut into hearts (one per family member)
+
+---
+
 > 👶 **Kreston is around 7–8 months this week** — sitting solid, army-crawling or just starting to crawl, and grabbing for absolutely everything.
 
 ---
@@ -1550,6 +1731,73 @@ Draw in the frost on a window or car with a fingertip. Draw a heart for someone.
 ## Week 4: Puzzles & Problem Solving 🧩
 **📅 January 22 – January 28, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Puzzles, patterns, and problems with more than one route to a solution. The theme underneath is *cognitive flexibility* — being able to try something, find it doesn't work, and change approach without falling apart.
+
+Several activities this week are designed to fail on the first attempt. That's deliberate.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Spatial reasoning** — how pieces fit, rotate, and relate.
+- **Working memory**, held and stretched through matching games.
+- **Sorting the same objects two different ways**, which is a genuine leap.
+- **Continuing a pattern**, not just copying one.
+- **That a dead end means turn around**, not stop.
+
+---
+
+### 👩 What You'll Learn
+
+- Puzzles build a skill that has nothing to do with puzzles
+- Working memory is the thing she's actually building
+- Classification is quiet, invisible math
+- Describing before guessing is the whole skill
+- Dead ends are the point of a maze
+- Patterns are the beginning of algebra, genuinely
+- Explaining to someone else is how understanding gets locked in
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Any two or three kinds of small objects — buttons, blocks, cereal, pasta, coins
+- [ ] Cardboard or a cereal box panel
+- [ ] A muffin tin or several bowls
+- [ ] A small prize or snack for the end
+- [ ] A small "treasure" — a snack, a sticker sheet, a little toy
+
+**🎨 Craft & supplies**
+
+- [ ] Painter's tape
+- [ ] A printed family photo, or one of her own drawings
+- [ ] Glue stick
+- [ ] Scissors (adult only for cutting the pieces)
+- [ ] A large envelope for storage
+- [ ] 10 index cards (or cardstock cut into squares)
+- [ ] Markers or stickers
+- [ ] A flat playing surface
+- [ ] The Tupperware cupboard, or a basket of mixed household objects
+- [ ] Optional: tongs, for a fine-motor challenge
+- [ ] A tray
+- [ ] 5–6 familiar household objects
+- [ ] A tea towel
+- [ ] A pillowcase (for the mystery bag)
+- [ ] A hallway or open floor
+- [ ] Optional: a toy car, to drive the route first
+- [ ] A strip of paper or a tray to lay them on
+- [ ] Markers
+
+---
+
 > 👶 **Kreston is around 7–8 months this week** — sitting solid, starting to crawl, and grabbing for absolutely everything.
 
 ---
@@ -1881,6 +2129,77 @@ If it's mild, run the last two clues outside. Otherwise draw a treasure map in t
 
 ## Week 5: Forest Friends 🌲
 **📅 January 29 – February 4, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+The winter woods. Everything is bare, which makes this the easiest season to actually see things — nests, tracks, bark, birds. The week is built on close looking and quiet.
+
+Groundhog Day lands on Day 33 and brings shadows into it.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Observation before action** — looking properly before touching.
+- **Reading evidence**: tracks mean an animal was here, going that way.
+- **Caring for something outside herself** through the bird feeder.
+- **Waiting for a slow result** and checking daily.
+- **Listening as a skill**, separate from hearing.
+
+---
+
+### 👩 What You'll Learn
+
+- Loose parts beat finished toys
+- Evidence and inference — a genuinely big idea, learnable at three
+- Delayed payoff is a muscle, and this is a gentle way to work it
+- Pretending to sleep is real self-regulation practice
+- Shadows are confusing at three, and the confusion is worth exploring
+- Auditory attention is trainable, and it underpins reading
+- Dictated stories are the bridge to real literacy
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Peanut butter or sunflower seed butter
+- [ ] Birdseed
+- [ ] 1 potato, halved (adult carves the shapes)
+- [ ] A butter knife or craft stick
+
+**🎨 Craft & supplies**
+
+- [ ] Googly eyes
+- [ ] String or yarn
+- [ ] Clothespins
+- [ ] A flashlight or lamp
+- [ ] Optional: chalk, if it's dry outside
+- [ ] 1–2 pinecones (collect them, or buy a bag)
+- [ ] Felt or construction paper scraps (wings, ears)
+- [ ] Glue
+- [ ] Washable paint, brown or black
+- [ ] Paper
+- [ ] A paper plate for paint
+- [ ] 1 large pinecone
+- [ ] A large blanket
+- [ ] The couch, a table, or chairs
+- [ ] Pillows and a soft blanket for the floor
+- [ ] Stuffed animals
+- [ ] A blank wall
+- [ ] Paper, a craft stick, and scissors (for a groundhog puppet)
+- [ ] 1 sheet paper
+- [ ] Crayons
+- [ ] A clipboard or piece of cardboard to lean on
+- [ ] This week's pinecone owl, plus any collected sticks and stones
+- [ ] 3–4 sheets of paper, folded and stapled into a booklet
+
+---
 
 > 👶 **Kreston is around 8 months this week** — crawling or close to it, pulling up on things, and nothing on a low surface is safe from him.
 
@@ -2497,34 +2816,6 @@ Everyone naps — patients included. Tuck the animals in around her.
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] Red paper and red envelopes (or make them — Lunar New Year)
-- [ ] Doilies (paper, 1 pack — Valentine's)
-- [ ] Heart stickers
-- [ ] Watercolor paints (1 set)
-- [ ] Coffee filters (1 pack — they're a craft supply, not just for coffee)
-- [ ] Tissue paper (assorted colors)
-- [ ] Yeast (1 packet — bread week)
-- [ ] Chocolate coins (Lunar New Year red envelopes)
-- [ ] Oranges (a bag — Lunar New Year)
-- [ ] Dates (Eid, and they're a great snack)
-- [ ] Cotton swabs (for dot painting)
-- [ ] Pretzel sticks (Presidents' Day log cabin)
-- [ ] A hand mirror (if you don't have a low one)
-
-## 🏠 Probably Already Have
-
-- [ ] Flour · sugar · salt · yogurt · baking powder · butter · honey
-- [ ] Construction paper · cardstock · paper plates · index cards
-- [ ] Paint · brushes · crayons · markers · glue · child scissors
-- [ ] Ziplock bags · foil · plastic wrap · muffin tin · rolling pin
-- [ ] Old socks · fabric scraps · buttons · yarn · ribbon
-- [ ] Noodles (long ones — Lunar New Year)
-- [ ] Peanut butter · applesauce · apples · cinnamon
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **Small parts** — buttons, coins, beads. Kreston is crawling now and everything goes in his mouth. Count pieces back in and sweep the floor after.
@@ -2538,6 +2829,84 @@ Everyone naps — patients included. Tuck the animals in around her.
 
 ## Week 6: Little Bakery 🥐
 **📅 February 5 – February 11, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Bread, butter, dough, and the kitchen as a classroom. Measuring, pouring, kneading, and waiting — practical life skills that happen to be full of maths and chemistry.
+
+Lunar New Year falls on Day 37, and long noodles are involved.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Measuring and pouring** — early volume and quantity.
+- **Cause and effect she can taste**: yeast makes it rise, soda makes it fizz.
+- **Waiting for a result**, with bread as the most patient teacher there is.
+- **Hand strength** through kneading, which is also genuinely calming.
+- **That food is made by someone**, not simply bought.
+
+---
+
+### 👩 What You'll Learn
+
+- Waiting for dough to rise is a better lesson than the bread
+- Celebrating other people's holidays does something specific
+- Ugly is fine. Actually, ugly is better
+- Persistence is built by seeing the finish line
+- Handling food is how picky eating loosens
+- Pretend play is where numbers stop being recitation
+- Naming the recipient at the start changes the whole activity
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 1 packet yeast
+- [ ] Coins or chocolate coins
+- [ ] 3 cups flour (plus extra for dusting)
+- [ ] 1 tsp salt
+- [ ] 1 tbsp sugar
+- [ ] 1¼ cups warm water
+- [ ] Oranges
+- [ ] Long noodles for lunch
+- [ ] Sugar cookie dough (homemade or store-bought — no shame either way)
+- [ ] Cookie cutters
+- [ ] Icing (a simple mix of powdered sugar and a little milk)
+- [ ] Sprinkles
+- [ ] ½ cup heavy whipping cream, at room temperature
+- [ ] A pinch of salt
+- [ ] Bread or crackers for serving
+- [ ] 2 English muffins, halved (or naan from Day 36)
+- [ ] Pizza sauce
+- [ ] Shredded mozzarella
+- [ ] Toppings for faces: pepperoni, olives, bell pepper strips, corn
+- [ ] Playdough (from Day 5, or a fresh batch)
+- [ ] Paper for a sign, price tags, and money
+- [ ] Muffin tin, rolling pin, plastic knife
+- [ ] Ingredients for simple muffins or banana bread
+- [ ] Muffin tin and liners
+
+**🎨 Craft & supplies**
+
+- [ ] 1 loaf pan or baking sheet
+- [ ] Red paper or cardstock
+- [ ] Gold or yellow marker
+- [ ] Glue or tape
+- [ ] Rolling pin
+- [ ] 1 small jar with a tight lid
+- [ ] A small table or counter
+- [ ] A dish towel apron
+- [ ] A box or paper bag for delivery
+- [ ] Paper and crayons for a card
+
+---
 
 > 👶 **Kreston is around 8 months this week** — crawling fast, pulling up to stand, and nothing low is safe from him.
 
@@ -2883,6 +3252,77 @@ Walk it over. Let her knock, hand it over, and say what it is — even if she sa
 ## Week 7: Love & Friendship 💌
 **📅 February 12 – February 18, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Love, friendship, and giving. The week builds across three days toward Valentine's — apple stamps become cards, cards go in a homemade mailbox, the mailbox gets opened on Day 45.
+
+Presidents' Day follows immediately on Day 46.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Making something specifically for another person.**
+- **More precise emotion words** than the single word *love*.
+- **Fine motor precision** through threading, folding, and stuffing envelopes.
+- **Anticipating someone else's feelings** — hiding a note for a future finder.
+- **Patterning**, through beads and paper chains.
+
+---
+
+### 👩 What You'll Learn
+
+- Discovery beats demonstration
+- Posting things through slots is a real developmental stage
+- Love is a word she's still working out the size of
+- "A long time ago" is as much history as she can hold
+- Threading is fine motor work that pays off at six
+- Children need to see the effect of their kindness
+- Anticipating someone else's future feeling is a big cognitive leap
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Doilies, heart stickers
+- [ ] Large beads, or cut drinking straws into short segments
+- [ ] 1 apple
+- [ ] 1 shoebox or cereal box
+- [ ] Yesterday's apple-stamped sheets
+- [ ] Pretzel sticks (a large handful)
+- [ ] Peanut butter or frosting (as mortar)
+- [ ] A butter knife or craft stick
+
+**🎨 Craft & supplies**
+
+- [ ] Yarn or string
+- [ ] Elastic cord or a pipe cleaner
+- [ ] A small dish to hold beads
+- [ ] Red and pink washable paint
+- [ ] Paper plate (as a palette)
+- [ ] Several sheets of paper
+- [ ] Red and pink paper
+- [ ] Glue, tape, markers
+- [ ] Scissors (adult cuts the slot)
+- [ ] Yesterday's mailbox and cards
+- [ ] Red, pink, and white paper hearts (pre-cut, 10–12)
+- [ ] Tape or a hole punch
+- [ ] Markers
+- [ ] 1 square of cardboard (base)
+- [ ] 5 small slips of paper
+- [ ] A stapler
+- [ ] Small paper squares or sticky notes
+- [ ] Markers and stickers
+- [ ] The week's leftover hearts
+
+---
+
 > 👶 **Kreston is around 8 months this week** — crawling fast, pulling up, and reaching for whatever his sister has.
 
 ---
@@ -3218,6 +3658,77 @@ Make a trail and follow each other's tracks. Hide a note under a rock by the doo
 ## Week 8: Art Masters Studio 🎨
 **📅 February 19 – February 25, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Art as process rather than product. Nothing this week has a correct outcome — swirls, dots, symmetry, printmaking, sculpture. When there's no right answer a child experiments more, persists longer, and stops looking to you for approval.
+
+The week ends with her curating her own gallery.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Big-arm movement**, which is the foundation handwriting later sits on.
+- **Colour mixing** discovered rather than told.
+- **Symmetry**, met as a surprise before it's a concept.
+- **That materials behave differently** — sponge, brush, bubble wrap, foil.
+- **Naming and choosing her own work**, which is the beginning of taste.
+
+---
+
+### 👩 What You'll Learn
+
+- Big movements come before small ones
+- Repetitive, contained tasks are surprisingly regulating
+- The gasp is the learning
+- Process art versus product art
+- Three dimensions are harder than two, and worth the time
+- Testing before committing is a habit worth encouraging
+- "What is it?" is the question to stop asking
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] A small cup of water and a paintbrush, or a spray bottle
+- [ ] Aluminum foil (a roll)
+- [ ] Playdough
+- [ ] A halved potato, celery end, or cookie cutter
+
+**🎨 Craft & supplies**
+
+- [ ] Coffee filters (flattened)
+- [ ] Bubble wrap
+- [ ] String and clothespins, or tape
+- [ ] Dark blue or black construction paper
+- [ ] Blue, yellow, and white paint
+- [ ] Thick brush and cotton swabs
+- [ ] A picture of a swirly night-sky painting to look at (a phone screen is fine)
+- [ ] Cotton swabs, or pencils with clean erasers
+- [ ] Paint in 4–5 colors, in small shallow dishes
+- [ ] Paper with a simple bold outline drawn on it (a flower, a heart, her initial)
+- [ ] Paper, folded in half and opened flat
+- [ ] Runny paint in several colors
+- [ ] A spoon or brush for dolloping
+- [ ] Washable markers (the more colors the better)
+- [ ] A tray or baking sheet to contain it
+- [ ] Collected sticks, stones, and pinecones from January
+- [ ] A tray as a base
+- [ ] Cardboard tubes (pinched into shapes)
+- [ ] Paint on a flat plate
+- [ ] Paper
+- [ ] This week's paintings, prints, and sculptures
+- [ ] Index cards for titles
+- [ ] Markers
+
+---
+
 > 👶 **Kreston is around 8–9 months this week** — crawling fast, pulling up on furniture, and grabbing at whatever is on the table edge.
 
 ---
@@ -3552,6 +4063,71 @@ Quick race before the opening. She should be markedly faster than she was six we
 
 ## Week 9: My Body & Senses 🖐️
 **📅 February 26 – March 4, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Her own body — senses, movement, feelings, and where she is in space. Half the week is about noticing things from the outside; the other half is about noticing things from the inside.
+
+The self-portrait on Day 63 is worth keeping and repeating.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **The five senses**, used deliberately rather than passively.
+- **Descriptive vocabulary** — rough, smooth, sharp, faint.
+- **Naming feelings**, which measurably reduces their intensity.
+- **Body awareness** and where her edges are.
+- **That her heart changes speed**, and that she can watch it settle.
+
+---
+
+### 👩 What You'll Learn
+
+- Interoception — the sense nobody lists
+- Adjectives are the scaffolding for thinking
+- Auditory discrimination is the reading skill nobody mentions
+- Body awareness is a sense too
+- Naming a feeling reduces its intensity — measurably
+- Teaching a child to notice her own body settling is a lifelong tool
+- What a self-portrait tells you about her thinking
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Textured materials: sandpaper, cotton ball, foil, fabric scrap, bubble wrap, ribbon, a bit of sponge
+- [ ] Three fillings, two containers each: rice, coins, dried beans
+
+**🎨 Craft & supplies**
+
+- [ ] Yarn for hair
+- [ ] Yarn, buttons, fabric scraps
+- [ ] 1 large sheet of paper, divided into five sections
+- [ ] Markers and crayons
+- [ ] Glue (for anything collected)
+- [ ] 1 piece of cardboard
+- [ ] A scarf or tea towel (blindfold)
+- [ ] 6 identical small opaque containers with tight lids
+- [ ] Strong tape
+- [ ] A roll of paper, or several large sheets taped together
+- [ ] Measuring tape
+- [ ] 6 paper plates or index cards
+- [ ] Markers
+- [ ] A hand mirror
+- [ ] Craft sticks (optional, to make them into masks)
+- [ ] A cardboard tube (a stethoscope) or just hands
+- [ ] A timer or clock
+- [ ] A mirror she can see herself in while seated
+- [ ] Paper and crayons or markers
+
+---
 
 > 👶 **Kreston is around 9 months this week** — crawling everywhere, pulling to stand, and starting to cruise along furniture.
 
@@ -4163,33 +4739,6 @@ Floor picnic by the window where she can see the beans and the sky.
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] Dates (Eid — and a genuinely good toddler snack)
-- [ ] Green food coloring + green paper (St. Patrick's)
-- [ ] Cornstarch (for Holi color powder — 2 boxes)
-- [ ] Lentils or wheat berries (Nowruz sprouting)
-- [ ] Egg dye kit, or you can use vinegar + food coloring
-- [ ] Plastic eggs (1 bag)
-- [ ] Gold chocolate coins (St. Patrick's)
-- [ ] Cotton balls (large bag — lamb crafts)
-- [ ] Yellow pom-poms (ducklings)
-- [ ] Potting soil + fast-sprouting seeds (beans or sunflowers)
-- [ ] Small clear plastic cups (for seed planting — you want to see the roots)
-- [ ] Shortbread or butter cookie ingredients (Eid)
-
-## 🏠 Probably Already Have
-
-- [ ] Paper plates · construction paper · cardstock · index cards
-- [ ] Paint · brushes · glue · child scissors · crayons · markers
-- [ ] Flour · salt · sugar · oil · vinegar · food coloring
-- [ ] Eggs (a lot of them this month)
-- [ ] Hula hoop · rope or long scarf · ribbon · yarn
-- [ ] Paper cups · paper bags · egg cartons · cardboard tubes
-- [ ] Old socks · fabric scraps · googly eyes · pipe cleaners
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **Cruising baby** — Kreston can pull up on low tables now. Anything on a coffee table is within his reach. Check surfaces before you set craft materials down.
@@ -4204,6 +4753,78 @@ Floor picnic by the window where she can see the beans and the sky.
 
 ## Week 10: Circus Adventures 🎪
 **📅 March 5 – March 11, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Circus skills — balance, juggling, performance, and being in charge. Most of the week is physical, and most of it is genuinely difficult, which is the appeal.
+
+The tent goes up on Day 64 and stays up all week. Eid al-Fitr falls on Day 68.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Balance**, through heel-to-toe walking and a floor-level tightrope.
+- **Tracking and catching**, made achievable with slow-falling scarves.
+- **Performing for an audience**, and the confidence that follows.
+- **Directing others**, which is the first draft of directing herself.
+- **That practice visibly improves a skill** within a single week.
+
+---
+
+### 👩 What You'll Learn
+
+- A play structure that stays up gets richer, not staler
+- Catching is harder than it looks, and slower is the fix
+- The vestibular system, and why she spins until she falls over
+- Silliness is real social work
+- Children understand fairness before they understand generosity
+- Directing others is how a child rehearses being in charge of herself
+- Choosing three from seven is real cognitive work
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Dates (soft, pitted)
+- [ ] Simple shortbread or butter cookie ingredients
+- [ ] Powdered sugar
+- [ ] Popcorn
+
+**🎨 Craft & supplies**
+
+- [ ] Clothespins
+- [ ] Ribbon or crepe streamers
+- [ ] Painter's tape, as an alternative
+- [ ] A ribbon wand or scarf to hold for balance
+- [ ] Red pom-poms (large)
+- [ ] Face paint, if you have it (optional)
+- [ ] A hula hoop
+- [ ] This week's tent, scarves, rope, clown nose, hoop, ringmaster hat
+- [ ] 1 bedsheet (striped, if you happen to have one)
+- [ ] Dining chairs or a table
+- [ ] Paper for flags, tape
+- [ ] 2–3 lightweight scarves, or squares of tulle or thin fabric
+- [ ] Open floor space
+- [ ] A rope, jump rope, or long scarf laid on the floor
+- [ ] Cushions on either side
+- [ ] Elastic string or a hair tie
+- [ ] A hand mirror
+- [ ] Oversized clothes from your wardrobe
+- [ ] A plate or box for giving away
+- [ ] Stuffed animals
+- [ ] Cushions and a low stool
+- [ ] Paper for a ringmaster's hat, or a real hat
+- [ ] A cardboard tube (megaphone)
+- [ ] Paper for tickets and a program
+
+---
 
 > 👶 **Kreston is around 9 months this week** — crawling fast, pulling up, and starting to cruise along the furniture.
 
@@ -4541,6 +5162,82 @@ Compare the mud to Monday. It's changing fast now — that's spring arriving.
 
 ## Week 11: St. Patrick's Day & Springtime Beginnings 🍀
 **📅 March 12 – March 18, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+The first real signs of spring, plus St. Patrick's Day on Day 76. Seeds go in on Day 71 and get checked every morning from here to the end of the year.
+
+This is the week the outdoor half of the day starts getting easier again.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That plants grow from seeds**, watched daily through a clear cup.
+- **Prediction** — guessing what will happen, then checking.
+- **Colour and rainbow order.**
+- **Patience for a slow result**, and a daily ritual of checking.
+- **That a story can be fun without being literally true.**
+
+---
+
+### 👩 What You'll Learn
+
+- A daily ritual of checking teaches more than the plant does
+- Let her hold a wrong theory for a while
+- Sensory bins buy focus, and it's not just novelty
+- Magical thinking peaks right about now, and it's healthy
+- Chemical reactions she can see are the best first science
+- Anticipation is a bigger pleasure than the payoff
+- Prediction is the beginning of scientific thinking
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Potting soil
+- [ ] Bean or sunflower seeds (fast, forgiving, dramatic)
+- [ ] Green food coloring + 1 tbsp vinegar
+- [ ] Gold chocolate coins, or yellow paper circles
+- [ ] A small scoop and a watering cup
+- [ ] A clear glass of water
+- [ ] 2 cups dry rice or pasta
+- [ ] Gold-painted pasta, gold stickers, or yellow paper circles
+- [ ] 2 cups flour
+- [ ] ½ tsp baking soda
+- [ ] ½ tsp salt
+- [ ] ¾ cup buttermilk (or milk with a squeeze of lemon, left five minutes)
+
+**🎨 Craft & supplies**
+
+- [ ] Clear plastic cups (one per seed — clear so the roots are visible)
+- [ ] A ziplock bag for dyeing
+- [ ] Paint or torn tissue paper in rainbow colors
+- [ ] The seed cup from Day 71
+- [ ] A marker for labeling
+- [ ] A small mirror that fits inside it
+- [ ] White paper
+- [ ] A sunny window
+- [ ] Paint or crayons for recording it
+- [ ] A large bin or tray
+- [ ] Scoops, cups, funnels, small green objects to bury
+- [ ] 1 large sheet of paper
+- [ ] Black paper (for the pot)
+- [ ] Glue
+- [ ] A baking sheet
+- [ ] Green washable marker or a green stamp pad
+- [ ] A small pot or cup (for the treasure)
+- [ ] Green clothes for everyone
+- [ ] 1 sheet paper or a bound notebook
+- [ ] Crayons
+
+---
 
 > 👶 **Kreston is around 9–10 months this week** — cruising the furniture confidently and getting bolder about letting go.
 
@@ -4881,6 +5578,83 @@ Hunt for evidence that spring is starting: buds on branches, green shoots, birds
 
 ## Week 12: Baby Animals & New Beginnings 🐣
 **📅 March 19 – March 25, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Baby animals and new beginnings, which sits neatly alongside a baby brother who is learning to walk. Nowruz falls on Day 80 and Holi on Day 81 — two spring new years in one week.
+
+The growth chart starts on Day 83.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Baby animal names** — lamb, calf, foal, chick — and the pattern underneath them.
+- **Pairing parents with young**, a relationship-based sort rather than a visual one.
+- **That she has grown**, with evidence on a doorframe.
+- **Building something a bird could actually use.**
+- **That not everyone starts the year in January.**
+
+---
+
+### 👩 What You'll Learn
+
+- Category words are a bigger deal than they look
+- Lining things up is a developmental stage, not a red flag
+- Two new years in one book is a genuinely useful idea
+- Sanctioned rule-breaking is genuinely good for a rule-following child
+- Trying and failing at something an animal does easily builds real respect
+- Children can't perceive their own growth, and showing it matters
+- Sorting into families is a more advanced move than sorting by color
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Lentils or wheat berries
+- [ ] Cornstarch (2 boxes)
+- [ ] Food coloring
+- [ ] Egg carton, cut into individual cups
+- [ ] Orange paper (beaks and feet)
+- [ ] Water
+- [ ] Optional: squirt bottles of colored water
+- [ ] A few small plastic or paper eggs
+
+**🎨 Craft & supplies**
+
+- [ ] White chalk or crayon
+- [ ] Googly eyes
+- [ ] Black or dark construction paper
+- [ ] Cotton balls (a lot)
+- [ ] Black paper scraps (head and legs)
+- [ ] Glue
+- [ ] Yellow paint
+- [ ] A shallow dish
+- [ ] Cotton balls or a paper towel
+- [ ] Seven small items she chooses
+- [ ] A tray or small table
+- [ ] Small bowls, one per color
+- [ ] Old clothes you don't care about
+- [ ] A hose or bucket for rinsing
+- [ ] Everything collected on the walk
+- [ ] A paper bowl as a base (optional)
+- [ ] Mud or glue to hold it together
+- [ ] A doorframe, or a long strip of paper taped to a wall
+- [ ] A pencil and a marker
+- [ ] Measuring tape
+- [ ] The January time capsule measurements, if you noted them
+- [ ] This week's lambs, ducklings, and nest
+- [ ] Stuffed animals
+- [ ] Index cards for labels
+- [ ] Blocks or boxes to make enclosures
+
+---
 
 > 👶 **Kreston is around 10 months this week** — cruising confidently, standing alone for a second or two, and very close to walking.
 
@@ -5228,6 +6002,80 @@ Two weeks of watching the same tree now. There should be visible change. Take a 
 
 ## Week 13: Easter & April Fools' Fun 🐰
 **📅 March 26 – April 1, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Easter on Day 87 and April Fools' on Day 91, with egg science running underneath. The week alternates between careful work — dyeing, weaving — and complete silliness.
+
+The naked egg starts on Day 89 and is revealed on Day 91.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Resist techniques** — that wax repels dye, which recurs all year.
+- **Searching systematically** rather than randomly.
+- **Weaving over-under**, which is real bilateral coordination.
+- **Holding a secret** — attempted, probably unsuccessfully.
+- **That routines can be deliberately broken**, and put back.
+
+---
+
+### 👩 What You'll Learn
+
+- Resist techniques teach a real idea: some things repel others
+- Doing your own version beside her beats helping with hers
+- Searching is a skill, and it's more systematic than it looks
+- Comparing quantities without numbers is where measurement starts
+- "What do you think will happen?" before every single experiment
+- A joke requires knowing what someone else expects
+- Reversals help a child see the pattern she's been living inside
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Food coloring, white vinegar, hot water
+- [ ] Friday's dyed eggs
+- [ ] Plastic eggs, filled
+- [ ] Food coloring
+- [ ] Hard-boiled eggs (a dozen — some will break)
+- [ ] A spoon or wire egg-dipper
+- [ ] A drying rack or egg carton
+- [ ] A spoon (for the egg-and-spoon race)
+- [ ] 2 raw eggs
+- [ ] Salt (about 6 tbsp)
+- [ ] A jar and white vinegar (for the naked egg — start today, reveal in two days)
+
+**🎨 Craft & supplies**
+
+- [ ] Ribbon or paper strips for weaving
+- [ ] The seed cups from Day 71 and the sabzeh from Day 80
+- [ ] Googly eyes (a whole pack)
+- [ ] Mugs or cups, one per color
+- [ ] White crayon (optional, for resist patterns)
+- [ ] A strip of cardstock for a headband
+- [ ] Pink and white paper (ear shapes)
+- [ ] 1 paper plate with slits cut around the rim
+- [ ] Stapler, glue, tape
+- [ ] Her basket and bunny ears from yesterday
+- [ ] A ruler or a strip of paper for measuring
+- [ ] Paper and crayons
+- [ ] A marker
+- [ ] 2 clear glasses
+- [ ] Paper and markers
+- [ ] Whatever is around the house
+- [ ] Yesterday's prepared pranks
+- [ ] Clothes, worn backwards
+- [ ] Whatever's needed for a backwards breakfast
+
+---
 
 > 👶 **Kreston is around 10 months this week** — standing alone, cruising fast, and possibly taking his first real steps any day now.
 
@@ -5847,32 +6695,6 @@ Floor picnic beside the nature table. Look at things through the magnifying glas
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] Potting soil (a bag — you'll use it all)
-- [ ] Seeds: sunflower, bean, and a fast flower like marigold or zinnia
-- [ ] Small pots or reuse yogurt containers
-- [ ] A child-sized trowel and watering can
-- [ ] Matzah or plain crackers (Passover)
-- [ ] Parsley and apples (Passover seder plate)
-- [ ] Magnifying glass (if you don't have one — used all month)
-- [ ] Bug-viewing jar or a clear container with a lid
-- [ ] Vinegar (a large bottle — egg science and cleaning)
-- [ ] Baking soda (a large box)
-- [ ] Coffee filters (more — they're endlessly useful)
-- [ ] A young tree, shrub, or large potted plant (Earth Day)
-
-## 🏠 Probably Already Have
-
-- [ ] Eggs · flour · salt · sugar · oil · food coloring
-- [ ] Clear cups and jars · muffin tin · trays · bowls
-- [ ] Paint · brushes · glue · scissors · crayons · markers
-- [ ] Egg cartons · cardboard tubes · cereal boxes · plastic bottles
-- [ ] String · yarn · ribbon · pipe cleaners · googly eyes
-- [ ] Old toothbrush · sponges · spray bottle
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **He's about to walk.** Once Kreston is upright, everything at toddler height is reachable. Do a fresh sweep this month — outlets, cords, cleaning products, low shelves, and the stairs.
@@ -5886,6 +6708,82 @@ Floor picnic beside the nature table. Look at things through the magnifying glas
 
 ## Week 14: Egg-cellent Science 🥚
 **📅 April 2 – April 8, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Egg science, and the beginning of proper experiments: predict, test, record, repeat. Several activities span hours or days, which teaches that processes continue when you're not watching.
+
+The week ends with her presenting her own science fair.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Making a prediction before testing** — every single time.
+- **That being wrong is normal, interesting, and survivable.**
+- **Describing accurately**, which matters more at four than explaining.
+- **Iteration** — build, fail, change one thing, rebuild.
+- **That some things change while you're not looking.**
+
+---
+
+### 👩 What You'll Learn
+
+- Predicting the breaking point is real experimental thinking
+- Destruction before construction is a legitimate sequence
+- "What could we change?" is the most useful question in this book
+- Leaving and coming back is its own lesson
+- Repetition means she's still getting information
+- Some things she'll only understand years later, and that's fine
+- Describing accurately is the real preschool science skill
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Clean, dry eggshells (saved from the week's cooking)
+- [ ] Food coloring or paint, if dyeing them
+- [ ] Food coloring: red, yellow, blue
+- [ ] Food coloring
+- [ ] The naked egg from last week (or start a fresh one: raw egg in vinegar, 48 hours)
+- [ ] 2–3 hard-boiled eggs (safer than raw)
+- [ ] A small box, cup, or berry container
+- [ ] Water
+- [ ] Baking soda (a full box)
+- [ ] White vinegar
+- [ ] Small cups for colored vinegar
+- [ ] Sugar and warm water
+- [ ] This week's leftovers: the walking water cups, the mosaic, drawings, the density jar
+
+**🎨 Craft & supplies**
+
+- [ ] A flashlight
+- [ ] Cotton balls, fabric scraps, bubble wrap, tissue paper
+- [ ] A tray with a lip
+- [ ] A ruler
+- [ ] Paper and crayons for recording
+- [ ] A ziplock bag
+- [ ] Cardstock with a simple bold outline drawn
+- [ ] Glue
+- [ ] Tape and rubber bands
+- [ ] 5–7 clear cups or jars
+- [ ] Paper towels, folded into long strips
+- [ ] A tray with a lip, or a baking dish
+- [ ] Pipettes, droppers, or small spoons
+- [ ] A tall clear glass or jar
+- [ ] 4 cups for mixing
+- [ ] A spoon or turkey baster
+- [ ] Index cards for labels
+- [ ] A table
+- [ ] Materials to re-run one favorite experiment live
+
+---
 
 > 👶 **Kreston is around 10 months this week** — standing alone for a few seconds and cruising everywhere.
 
@@ -6229,6 +7127,80 @@ Walk to the end of the block as slowly as possible. Notice everything. It's a ge
 ## Week 15: Garden Discovery 🌱
 **📅 April 9 – April 15, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+A real garden, genuinely hers — marked edges, her own trowel, her own watering job. Ownership is what makes a child stick with something over weeks.
+
+Day 100 lands here. Vaisakhi is on Day 104.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Responsibility for a living thing** that depends on her.
+- **Roots, water, and how plants drink** — made visible with celery.
+- **Measuring by comparison**, using paper strips rather than numbers.
+- **A hundred as ten tens**, arranged so she can see it.
+- **Recording change over weeks** in a journal.
+
+---
+
+### 👩 What You'll Learn
+
+- Ownership is what makes a child stick with something
+- Grouping by ten is the foundation of the whole number system
+- Making the invisible visible is the core trick of good science teaching
+- Building for an animal reframes the relationship
+- Smell is wired directly to memory in a way the other senses aren't
+- Fairness is the strongest moral instinct a 4-year-old has
+- A record makes slow change perceptible
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Potting soil
+- [ ] Seeds: sunflower, bean, and a fast flower
+- [ ] A child-sized trowel and watering can
+- [ ] 100 small identical things: cereal, stickers, pom-poms, buttons, dried beans
+- [ ] Water and food coloring (red or blue shows best)
+- [ ] Fresh herbs: mint, basil, rosemary, thyme
+- [ ] Ingredients for something simple to share — rice and lentils, or flatbread
+- [ ] 2–3 celery stalks with leaves
+
+**🎨 Craft & supplies**
+
+- [ ] A magnifying glass
+- [ ] A garden bed, a raised box, or 3–4 large pots
+- [ ] Craft sticks and a marker for labels
+- [ ] A large sheet of paper or posterboard
+- [ ] Glue
+- [ ] A marker
+- [ ] Clear cups
+- [ ] A knife (adult)
+- [ ] White flowers, if you have them — carnations work brilliantly
+- [ ] A tin can, small box, or a plastic bottle cut in half
+- [ ] Hollow stems, cardboard tubes cut short, twigs, dry leaves, pinecones
+- [ ] String for hanging
+- [ ] 4–5 small jars or opaque cups
+- [ ] Cotton balls
+- [ ] A scarf for a blindfold (optional)
+- [ ] A container for giving away
+- [ ] Music with a strong drum beat
+- [ ] A blanket for floor seating
+- [ ] A notebook, or sheets stapled together
+- [ ] Crayons and a pencil
+- [ ] Paper strips for measuring
+- [ ] Glue, for anything collected
+
+---
+
 > 👶 **Kreston is around 10–11 months this week** — standing alone, cruising fast, and taking experimental steps.
 
 ---
@@ -6567,6 +7539,84 @@ Check every planted thing. Anything up yet? Measure with a paper strip. Look for
 
 ## Week 16: Earth Day & Wildlife 🌎
 **📅 April 16 – April 22, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Wildlife, habitats, and Earth Day on Day 112. The environmental message is deliberately kept small, local, and doable — a bug hotel, a bird count, a tree planted in the garden.
+
+Passover begins on Day 111.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That animals need homes**, and that homes can be made.
+- **Tallying** — a mark standing for a thing that happened.
+- **Stillness**, which is what makes birds arrive.
+- **The water cycle**, in a sealed jar she can hold.
+- **That she can do something useful** about a problem.
+
+---
+
+### 👩 What You'll Learn
+
+- Keep environmental talk local and hopeful at this age
+- Giving something a face changes how a child treats it
+- Tally marks are her first taste of representing data
+- A closed system is a big idea in a small jar
+- Tools shape what a child notices
+- The seder is possibly the oldest child-centered teaching ritual on earth
+- Rituals that repeat annually do something one-off events can't
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Potting soil
+- [ ] A watering can
+- [ ] A cup or yogurt pot to stand it in
+- [ ] Soil
+- [ ] A spray bottle of water
+- [ ] Matzah or plain crackers
+- [ ] 1 apple, cinnamon, honey (for *charoset*)
+- [ ] A small bowl of salt water
+
+**🎨 Craft & supplies**
+
+- [ ] Grass seed
+- [ ] Googly eyes and a marker
+- [ ] Moss, a small plant, or a few seedlings
+- [ ] A spade and her child-sized trowel
+- [ ] Large paper
+- [ ] Paint and brushes
+- [ ] Crayons for detail
+- [ ] A picture of her chosen animal to look at
+- [ ] An old stocking or the foot of a knee-high sock
+- [ ] Rubber band or string
+- [ ] 2 cardboard tubes
+- [ ] Tape and string
+- [ ] Paint or paper to cover them
+- [ ] A sheet of paper for the tally chart
+- [ ] Crayons
+- [ ] A large clear jar with a lid, or a clear plastic bottle cut in half
+- [ ] Small stones
+- [ ] Sticks
+- [ ] Rubber bands or string
+- [ ] Collected leaves, needles, grass, feathers
+- [ ] Paint and large paper
+- [ ] Parsley
+- [ ] A cushion or pillow
+- [ ] A young tree, shrub, or a large potted plant if you have no ground
+- [ ] A stone or marker to label the spot
+- [ ] Paint, for a handprint marker
+
+---
 
 > 👶 **Kreston is around 11 months this week** — standing alone, letting go on purpose, and taking real steps. Re-check the whole house at his new height.
 
@@ -6912,6 +7962,80 @@ Gloves on. Walk the street and pick up litter. It's a small, visible, completely
 ## Week 17: Recycling & Earth Care ♻️
 **📅 April 23 – April 29, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Recycling and repair. The week's real argument is that things are *made*, and can therefore be remade, mended, and reused — which is a bigger idea than sorting bins.
+
+Day 119 requires something genuinely broken.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Sorting by material**, which requires investigating rather than looking.
+- **That rubbish can become something worth keeping.**
+- **That paper is manufactured**, by making some.
+- **That broken things can be fixed.**
+- **Conserving water**, through a game with a real endpoint.
+
+---
+
+### 👩 What You'll Learn
+
+- Sorting by material is harder than sorting by color
+- "Waste" is a concept, and it's teachable through objects
+- Abundance of choice produces better work than the perfect kit
+- Heavy work is the most reliable regulation tool you have
+- Making the thing you use every day is a genuine revelation
+- Solar energy, demonstrated without a word of explanation
+- Repair teaches something disposal can't
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Clean boxes of various sizes, cardboard tubes, egg cartons, bottle caps
+- [ ] Aluminum foil
+- [ ] Scrap paper, torn small (newspaper, junk mail, egg cartons)
+- [ ] Warm water
+
+**🎨 Craft & supplies**
+
+- [ ] 2 buckets and a sponge or cup, for the relay
+- [ ] Towels and a sponge
+- [ ] Something genuinely broken: a torn book, a toy missing a wheel, a button off a shirt
+- [ ] 3 boxes or bins
+- [ ] Paper and markers for labels
+- [ ] A pile of clean recyclables: paper, a plastic bottle, a can, cardboard
+- [ ] Tape
+- [ ] Clean plastic bottle caps in assorted colors (start collecting now if you haven't)
+- [ ] Sturdy cardboard as a base
+- [ ] Strong glue
+- [ ] A marker for the outline
+- [ ] Strong tape and glue
+- [ ] Markers
+- [ ] A large bucket
+- [ ] A measuring jug
+- [ ] A timer
+- [ ] A bowl and a whisk, or a blender (adult)
+- [ ] A flat mesh — a splatter guard, a sieve, or a frame with mesh taped on
+- [ ] Optional: flower petals or thread to embed
+- [ ] Dark construction paper (blue or black fades most)
+- [ ] Flat objects: leaves, keys, scissors, cut paper shapes, a fork
+- [ ] A sunny spot outside or on a windowsill
+- [ ] Small stones to weigh things down
+- [ ] Tape, glue, needle and thread, string
+- [ ] A screwdriver, if something needs opening
+- [ ] A cloth to lay tools out on
+
+---
+
 > 👶 **Kreston is around 11 months this week** — walking or nearly, and able to reach anything on a low table by pulling up.
 
 ---
@@ -7249,6 +8373,81 @@ Last litter walk of the month. Compare to Day 113 — is the street cleaner?
 
 ## Week 18: Bugs & Blooms 🌷
 **📅 April 30 – May 6, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Bugs and flowers, close up. A magnifying glass, a bug hotel, a bee hotel, and a lot of careful looking. This is the week the garden planted in March starts genuinely rewarding attention.
+
+Insects and pollination are met by acting them out rather than being told.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Counting legs before drawing** — observation before representation.
+- **Symmetry as a rule she produces**, not just notices.
+- **Life cycles**, which are harder than sequences because they don't end.
+- **Pollination**, performed physically rather than explained.
+- **That living things can be handled gently and put back.**
+
+---
+
+### 👩 What You'll Learn
+
+- Careful observation is a skill, and it's mostly about slowing down
+- Symmetry is one of the first patterns children can produce, not just notice
+- Cycles are harder than sequences
+- Acting out a process beats being told it
+- Preservation is a surprisingly big idea
+- Combining two past activities is a real cognitive step
+- Marking the end of something matters
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Optional: dried pasta — orzo for eggs, spiral for caterpillar, shell for chrysalis, bowtie for butterfly
+- [ ] Warm water
+
+**🎨 Craft & supplies**
+
+- [ ] A magnifying glass
+- [ ] A brad fastener (or a button and string)
+- [ ] Paper straws, hollow stems, or tightly rolled paper tubes
+- [ ] Yellow pom-poms and pipe cleaners (for the pollination game)
+- [ ] Clear contact paper
+- [ ] Wildflower seeds
+- [ ] Paper and pencils or crayons
+- [ ] The bug jar, if anyone's still visiting
+- [ ] Smooth rocks, washed and dried
+- [ ] Red and black paint
+- [ ] A thin brush, or a cotton swab for the dots
+- [ ] Clear nail polish to seal (optional)
+- [ ] 2 paper plates
+- [ ] Markers
+- [ ] Scissors (adult cuts the window)
+- [ ] A tin can or a section of plastic bottle
+- [ ] String
+- [ ] Collected flowers and leaves
+- [ ] Heavy books
+- [ ] Paper towels
+- [ ] Cardstock for a frame
+- [ ] Scrap paper, torn small (or leftover pulp from Day 117)
+- [ ] A bowl
+- [ ] A tray for drying
+- [ ] A strip of cardstock, sized to her head
+- [ ] Real flowers, or paper ones
+- [ ] Tape and glue
+- [ ] Green paper for leaves
+- [ ] A smaller strip for Kreston
+
+---
 
 > 👶 **Kreston is around 11 months this week** — walking now, or within days of it. Everything is a handhold and everything is reachable.
 
@@ -7867,32 +9066,6 @@ If she's well enough, a blanket in the shade outside for twenty minutes. Fresh a
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] Cardstock in several colors (cards and capes)
-- [ ] A plain fabric square or old pillowcase (superhero cape)
-- [ ] Fabric markers or fabric paint
-- [ ] Baking soda + vinegar (large — science week)
-- [ ] Cornstarch (oobleck)
-- [ ] Food coloring
-- [ ] Balloons (a bag)
-- [ ] Bubble solution, or dish soap and glycerin to make your own
-- [ ] Battery tea lights (Vesak lanterns)
-- [ ] Red paper (poppies, Memorial Day)
-- [ ] Sidewalk chalk (restock — it's chalk season now)
-- [ ] Ice pop molds
-
-## 🏠 Probably Already Have
-
-- [ ] Paint · brushes · glue · scissors · crayons · markers
-- [ ] Flour · salt · sugar · oil · dish soap
-- [ ] Clear jars and cups · trays · muffin tin · measuring spoons
-- [ ] Cardboard boxes · tubes · egg cartons · foil
-- [ ] String · yarn · ribbon · pipe cleaners · clothespins
-- [ ] A hose, buckets, and a watering can
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **He walks now.** Kreston can reach counters by pulling up and can follow her anywhere. Latch what needs latching and re-check the stairs.
@@ -7906,6 +9079,78 @@ If she's well enough, a blanket in the shade outside for twenty minutes. Fresh a
 
 ## Week 19: Mother's Day & Family Love 💐
 **📅 May 7 – May 13, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Family, and Mother's Day on Day 129 — which Joseph runs from start to finish. The week is about naming what people mean to each other out loud.
+
+The memory jar starts on Day 132 and gets read on Day 365.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Who is in her family**, and how they connect to each other.
+- **Acts of service** — giving effort rather than objects.
+- **Appreciation**, which is different from praise.
+- **That her parents are people** with their own likes and histories.
+- **Recording good moments** so they can be revisited.
+
+---
+
+### 👩 What You'll Learn
+
+- Family structure is genuinely confusing at four, and worth being explicit about
+- Secrets are cognitively demanding, and she will probably fail
+- Children can't yet imagine their parents as separate people
+- Acts of service are the hardest gift for a young child to conceive of
+- Video calls are hard for young children, and that's not rudeness
+- Children don't have autobiographical memory the way we assume
+- Appreciation is different from praise, and children need more of the first
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] *None this week.*
+
+**🎨 Craft & supplies**
+
+- [ ] Ink pad or a plate of green paint
+- [ ] 1 large sheet of paper
+- [ ] Brown paint or marker (the trunk)
+- [ ] Fine marker for names
+- [ ] Photos, if you have small ones to glue on
+- [ ] Paint in several colors
+- [ ] A green marker for stems
+- [ ] A vase-shaped piece of colored paper
+- [ ] An envelope or wrapping
+- [ ] Paper and a pen — *Joseph writes*
+- [ ] Yesterday's handprint bouquet
+- [ ] The real flowers
+- [ ] 6 slips of paper
+- [ ] Markers
+- [ ] A stapler
+- [ ] Cardstock
+- [ ] Crayons and markers
+- [ ] A pressed flower from Day 124, if ready
+- [ ] An envelope and stamp
+- [ ] A large jar
+- [ ] Paper slips, cut and stacked beside it
+- [ ] A pen kept with the jar
+- [ ] Paint or paper for decorating
+- [ ] Cardstock folded into place cards
+- [ ] Markers and stickers
+- [ ] Flowers from the garden for the table
+- [ ] A candle, if you like
+
+---
 
 > 👶 **Kreston is around 11 months this week** — walking, and following his sister everywhere she goes.
 
@@ -8247,6 +9492,82 @@ Check the sunflowers. Mid-May growth is dramatic — measure and update the jour
 ## Week 20: Backyard Science Lab 🔬
 **📅 May 14 – May 20, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+The backyard science lab — oobleck, volcanoes, giant bubbles, shadows, magnets. Every activity this week is chosen because it *breaks a rule* she thought she knew.
+
+Vesak falls on Day 140 and closes the week quietly.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That some things don't fit her existing categories** — and that's interesting.
+- **Changing one variable at a time.**
+- **Invisible forces**, met through magnets.
+- **That an object's shape changes what it does** — foil flat versus foil folded.
+- **One minute of deliberate stillness.**
+
+---
+
+### 👩 What You'll Learn
+
+- Things that break the rules are the best teachers
+- Repeating an experiment is what makes it an experiment
+- "Why is it always round?" is a question worth leaving open
+- Same object, different result, and the variable is time
+- Being wrong in public is a skill, and it's built cheaply here
+- Invisible forces are a big conceptual step
+- Stillness has to be taught, and one minute is the right dose
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 2 cups cornstarch
+- [ ] Food coloring (optional)
+- [ ] Playdough, mud, or sand to build the cone
+- [ ] Red food coloring
+- [ ] 6 cups water, ½ cup dish soap, ½ cup cornstarch, 1 tbsp baking powder
+- [ ] 8–10 household objects: cork, spoon, stone, leaf, coin, sponge, plastic lid, apple
+- [ ] A basket of mixed objects: spoon, coin, paperclip, plastic lid, wooden block, foil, key, button
+- [ ] Birdseed, and a shallow dish for water
+- [ ] 1 cup water
+- [ ] Baking soda (½ cup)
+- [ ] Vinegar (1 cup)
+- [ ] A tub or bucket of water
+- [ ] Foil, and small weights (coins or pebbles)
+- [ ] A cup of water with a paperclip in it
+
+**🎨 Craft & supplies**
+
+- [ ] Wands: pipe cleaners bent into shapes, a slotted spoon, a plastic cup with the bottom cut out, two straws and a loop of string
+- [ ] Sidewalk chalk
+- [ ] Battery tea lights
+- [ ] A large tray or shallow bin
+- [ ] Spoons, cups, small toys
+- [ ] A small plastic bottle or cup
+- [ ] A squirt of dish soap (makes the foam last)
+- [ ] A tray
+- [ ] A shallow tray or bin
+- [ ] A jug for mixing
+- [ ] A sunny patch of driveway or pavement
+- [ ] A stick or a garden gnome — something that stays put all day
+- [ ] Paper divided into two columns
+- [ ] A strong fridge magnet, or a magnet wand
+- [ ] Two bowls, labeled "sticks" and "doesn't"
+- [ ] Paper (colored, if you have it)
+- [ ] Scissors and tape
+- [ ] String for hanging
+
+---
+
 > 👶 **Kreston is around 11–12 months this week** — walking steadily and climbing anything he can get a foot onto.
 
 ---
@@ -8586,6 +9907,80 @@ Choose the spot together and leave it undisturbed. Check tomorrow to see who cam
 ## Week 21: Superheroes & Helpers 🦸
 **📅 May 21 – May 27, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Superheroes, and what power is actually for. Rather than banning power fantasy, the week aims it — every activity asks who she's helping and what problem she's solving.
+
+Real-life helpers get thanked on Day 143.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That her real strengths can be named** as powers.
+- **Problem-solving under a story**, which makes hard things easier.
+- **Making rules**, which is more advanced than following them.
+- **Sorting kind and unkind choices**, and explaining why.
+- **That knowing the right thing and doing it are different.**
+
+---
+
+### 👩 What You'll Learn
+
+- Invented powers tell you what she values
+- Bridging imaginary heroes to real ones is worth doing deliberately
+- Pretend urgency produces real problem-solving
+- Moral reasoning develops faster through discussion than through rules
+- Making rules is a different skill from following them
+- Competence is the most reliable source of confidence
+- Specific recognition beats general praise, every time
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] A jug of water and a cup (pouring)
+- [ ] A phone, switched off, for practicing
+- [ ] Markers, stickers, foil
+
+**🎨 Craft & supplies**
+
+- [ ] Fabric markers or fabric paint
+- [ ] Ribbon for ties
+- [ ] Chalk
+- [ ] Clothespins
+- [ ] A flashlight
+- [ ] Ribbon
+- [ ] An old pillowcase or a square of fabric
+- [ ] Scissors (adult)
+- [ ] A small square of fabric for Kreston's
+- [ ] Cardstock, folded
+- [ ] Crayons and markers
+- [ ] Stickers
+- [ ] Tape or an envelope
+- [ ] 5–6 stuffed animals
+- [ ] String, a small bucket, a stick
+- [ ] Her cape from Day 141
+- [ ] 8–10 index cards
+- [ ] Markers
+- [ ] Two bowls or hoops on the floor
+- [ ] Blankets and sheets
+- [ ] Chairs, a table, or a couch
+- [ ] Cushions
+- [ ] Paper for a sign and a "no entry" rule list
+- [ ] Bandaids and a cloth (first aid)
+- [ ] A dustpan and brush
+- [ ] Cardstock circles
+- [ ] A hole punch
+
+---
+
 > 👶 **Kreston is around 12 months this week** — walking properly, climbing, and about to turn one.
 
 ---
@@ -8923,6 +10318,80 @@ Unstructured yard time before the ceremony. Nothing planned.
 
 ## Week 22: Memorial Day & Community Heroes 🎖️
 **📅 May 28 – June 3, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Community heroes, and Memorial Day on Day 151 — the most solemn day in this book. It's handled with one short honest moment followed by a genuinely joyful family day.
+
+Real fire safety is rehearsed on Day 152, inside the play.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **What various community workers actually do for us.**
+- **Plain, honest language about death**, at a level she can hold.
+- **The family fire meeting point**, rehearsed as a physical action.
+- **Matching by relationship** — firefighter to hose, vet to dog.
+- **That solemn and happy can share a day.**
+
+---
+
+### 👩 What You'll Learn
+
+- Answer exactly what's asked about death, and no more
+- Maps are a major abstraction, and home is the way in
+- Children need external evidence of their own change
+- Holding two moods in one day is a real skill
+- Rehearsed safety knowledge survives panic; explained knowledge doesn't
+- Rehearsing a frightening scenario reduces the fear of it
+- Processions and parades do something specific for children
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] A spray bottle of water
+
+**🎨 Craft & supplies**
+
+- [ ] Red tissue paper or red cardstock
+- [ ] Green pipe cleaners or paper for stems
+- [ ] Chalk
+- [ ] Streamers and ribbon
+- [ ] Black paper or a black marker for the centers
+- [ ] Glue and scissors
+- [ ] A large sheet of paper
+- [ ] Markers and crayons
+- [ ] Small paper squares for buildings
+- [ ] Glue
+- [ ] This book
+- [ ] The garden journal, the memory jar, the growth chart
+- [ ] Saved artwork from the year
+- [ ] Paper and crayons
+- [ ] Friday's paper poppies
+- [ ] A jar or vase
+- [ ] Picnic and cookout food
+- [ ] Red cardstock
+- [ ] Yellow paper for the badge
+- [ ] Stapler and marker
+- [ ] Bandaids, cotton balls, a cloth
+- [ ] A cardboard tube (stethoscope) or a real toy one
+- [ ] Paper for patient charts
+- [ ] Stuffed animals
+- [ ] A tea towel for the exam table
+- [ ] This week's hats, cape, medals, and poppies
+- [ ] A wagon, trike, or stroller to decorate
+- [ ] Shakers or a pot and spoon
+- [ ] Paper for flags
+
+---
 
 > 👶 **Kreston is around 12 months this week** — walking confidently, and turning one on Saturday.
 
@@ -9544,31 +11013,6 @@ Audio story or quiet music on the blanket. Let her doze out there if she will.
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] Birthday candles and a small smash cake (Day 156)
-- [ ] A cheap sprinkler, or a water table
-- [ ] Life jacket for Kreston — properly fitted, before any water outings
-- [ ] Pool noodles (2–3, they become a dozen things)
-- [ ] Water balloons
-- [ ] Sponges (a pack — for frozen sponge balls)
-- [ ] Ice pop molds
-- [ ] Red, white & blue paper and streamers
-- [ ] Sidewalk chalk (restock)
-- [ ] Sunscreen and two sun hats
-- [ ] Watermelon (Day 178)
-
-## 🏠 Probably Already Have
-
-- [ ] Paint · brushes · glue · scissors · crayons · markers
-- [ ] Buckets, cups, funnels, a colander, spray bottles
-- [ ] Old towels and swimsuits
-- [ ] Cardboard boxes and tubes
-- [ ] Cornstarch, food coloring, baking soda, vinegar
-- [ ] String, ribbon, clothespins
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **Water is this month's big risk.** Kreston is a walking one-year-old. He can drown in a bucket, a paddling pool, or a water table. **Arm's reach, always, and empty every container the moment you finish.**
@@ -9582,6 +11026,80 @@ Audio story or quiet music on the blanket. Let her doze out there if she will.
 
 ## Week 23: Colors of Summer ☀️
 **📅 June 4 – June 10, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Colour, everywhere. Ice cube painting, colour hunts, tie-dye, sun prints. Primary colours only in several activities, so secondary ones have to be discovered rather than handed over.
+
+Kreston turns one on Day 156.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Mixing primaries** to make secondaries, by doing it.
+- **Close looking**, forced by a colour-matching hunt.
+- **That the sun changes materials** over time.
+- **Making something she can wear**, which is a different kind of pride.
+- **Sorting food by colour**, and eating a wider range of it.
+
+---
+
+### 👩 What You'll Learn
+
+- A sibling's birthday is genuinely hard, and preparation helps more than correction
+- One-year-olds don't understand birthdays, and that's fine
+- Discovery requires an incomplete set
+- Pointing and giving are the foundations of conversation
+- Making something she wears is a different order of pride
+- Repeating an activity across seasons produces a comparison she can actually make
+- Involvement predicts eating better than persuasion does
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Fruit and vegetables in as many colors as you can manage — strawberry, orange, yellow pepper, cucumber, blueberry, purple grape
+- [ ] Ice cube tray, frozen the night before with colored water
+
+**🎨 Craft & supplies**
+
+- [ ] Hole punch and ribbon
+- [ ] Fabric dye, or washable markers + rubbing alcohol for a simpler version
+- [ ] 7 sheets of cardstock (one per letter of K-R-E-S-T-O-N)
+- [ ] Markers, stickers, glitter glue
+- [ ] Monthly photos of Kreston from his first year, if you have them
+- [ ] Yesterday's banner
+- [ ] Photos from across his first year
+- [ ] A long strip of paper
+- [ ] Tape and markers
+- [ ] A measuring tape
+- [ ] Craft sticks frozen in as handles
+- [ ] Thick white paper
+- [ ] A tray to catch drips
+- [ ] Cardstock strips, one per color
+- [ ] Double-sided tape, or a loop of regular tape per strip
+- [ ] Crayons to color the strips
+- [ ] A basket
+- [ ] 2 plain white cotton shirts (one hers, one Kreston's)
+- [ ] Rubber bands
+- [ ] A tray and gloves
+- [ ] Ziplock bags
+- [ ] Dark construction paper (blue or black)
+- [ ] Flat objects: leaves, cut paper shapes, keys, a fork, her name in letters
+- [ ] Small stones to weigh the edges
+- [ ] A very sunny spot
+- [ ] A large platter
+- [ ] Small bowls
+- [ ] A blanket for the picnic
+
+---
 
 > 👶 **Kreston turns one this week** — walking, pointing at everything, and starting to make himself understood.
 
@@ -9918,6 +11436,81 @@ Eat the rainbow outside, in the garden she planted. Check the sunflowers while y
 
 ## Week 24: Water Safety & Swimming Fun 🏊
 **📅 June 11 – June 17, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Water — safety first, then fun, in that order all week. Three rules are established on Day 162 and repeated in identical wording every time.
+
+Kreston is a walking one-year-old now, which changes the risk entirely.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Three water rules**, retrievable under pressure.
+- **Blowing bubbles with her face near water** — the key pre-swimming skill.
+- **That shape changes whether something floats.**
+- **Testing three tools** and judging which works best.
+- **That her body settles when she blows out slowly.**
+
+---
+
+### 👩 What You'll Learn
+
+- Three rules, repeated forever, beats twenty rules said once
+- Same material, different shape, opposite result
+- Open-ended materials outperform toys, and cheap ones outperform expensive ones
+- Slow exhalation is the body's own calming switch
+- Give three tools and let her choose
+- Visible results are what sustain a child's effort
+- Competition at four works when everyone wins something real
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 2–3 pool noodles
+- [ ] A bowl of water and a straw
+- [ ] A hose or watering can for rinsing
+- [ ] This week's noodles, boats, sponges, buckets
+- [ ] Foil squares
+- [ ] A tub of water
+- [ ] Warm water in a squeeze bottle
+- [ ] Salt in a shaker
+- [ ] A bucket of soapy water
+
+**🎨 Craft & supplies**
+
+- [ ] A properly fitted life jacket for each child
+- [ ] Cork, sponge pieces, plastic lids, craft sticks
+- [ ] Straws and paper for sails
+- [ ] Cotton balls and a straw
+- [ ] Bubble solution
+- [ ] Wet sponges, frozen in a bag (for the outdoor game)
+- [ ] Sponges, an old toothbrush, cloths
+- [ ] A sponge and two buckets (transfer race)
+- [ ] Cardstock and ribbon for medals
+- [ ] Posterboard
+- [ ] Markers
+- [ ] Coins or pebbles as cargo
+- [ ] A serrated knife (adult only)
+- [ ] Duct tape
+- [ ] Golf tees or craft sticks (as connectors)
+- [ ] String
+- [ ] A tray
+- [ ] A large bowl or bucket, frozen overnight with small toys inside
+- [ ] A plastic spoon or mallet
+- [ ] Towels for drying
+- [ ] Every wheeled toy you own — trikes, ride-ons, toy cars, the buggy
+- [ ] Cups with a small hole in the bottom (leaky cup race)
+
+---
 
 > 👶 **Kreston is 12 months** — walking fast, fearless, and completely unaware that water is dangerous. This is the week to establish the rules.
 
@@ -10264,6 +11857,76 @@ The whole morning. Sunscreen, hats, and plenty of drinking water.
 ## Week 25: Juneteenth & Father's Day 🕊️
 **📅 June 18 – June 24, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Juneteenth on Day 170 and Father's Day on Day 171, back to back. Both are handled as celebrations — food, music, dancing, family — rather than as lessons.
+
+A family recipe gets written down and recorded on Day 172.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That people celebrate freedom**, and why that's worth celebrating.
+- **Where a family recipe came from**, and who taught it.
+- **Naming someone she admires**, and why.
+- **That moving in time with someone** feels good and brings people together.
+- **Gratitude aimed at a person**, not a thing.
+
+---
+
+### 👩 What You'll Learn
+
+- Historical injustice, explained honestly and simply, doesn't damage a four-year-old
+- Celebration is a legitimate way to teach history
+- Children describe parents by what they *do*, not who they are
+- Food is the most durable carrier of family memory
+- Admiration is how children choose which traits to grow
+- Moving in time with someone builds connection, measurably
+- Gratitude needs a target before it needs a feeling
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Red fruit for tomorrow: strawberries, watermelon, cherries
+- [ ] Red fruit and red drink
+
+**🎨 Craft & supplies**
+
+- [ ] Ice pop molds
+- [ ] Yesterday's bunting and ice pops
+- [ ] Ribbon wands or scarves
+- [ ] Chalk, to mark a dance floor
+- [ ] Red, black, and green paper (or any bright colors)
+- [ ] String and tape
+- [ ] Markers
+- [ ] Food for a cookout
+- [ ] Music — a speaker outside
+- [ ] Paper and crayons
+- [ ] Folded cardstock
+- [ ] Paint for handprints (both kids)
+- [ ] Paper for the interview
+- [ ] Ingredients for a dish with genuine family history
+- [ ] A recipe card and pen
+- [ ] A phone, to call whoever it came from
+- [ ] Large paper
+- [ ] Crayons and markers
+- [ ] Photos of family members, if useful
+- [ ] A speaker
+- [ ] Shakers from earlier in the year
+- [ ] Paper hearts or circles, one per family member
+- [ ] A blanket for the picnic
+- [ ] The memory jar from Day 132
+
+---
+
 > 👶 **Kreston is 12 months** — walking everywhere, pointing at everything, and starting to copy words.
 
 ---
@@ -10605,6 +12268,80 @@ Blanket, food, everyone sitting at the same level. Read the hearts out there.
 
 ## Week 26: Red, White & Blue Countdown 🎇
 **📅 June 25 – July 1, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+The run-up to the Fourth — a countdown chain, firework painting, star stencils, and ribbon wands instead of sparklers. The week deliberately front-loads the anticipation.
+
+Day 182 is the halfway point of the year.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Counting down** with a chain that physically shrinks.
+- **Three different techniques** for the same result.
+- **Measuring by comparison** — weighing a melon by weighing herself.
+- **Resist painting**, recognised as the same idea as the Easter eggs.
+- **That she has changed** since January, with evidence.
+
+---
+
+### 👩 What You'll Learn
+
+- Waiting is easier when it's visible and shrinking
+- Three techniques for one outcome teaches technique as a concept
+- Measuring by comparison comes before measuring by number
+- Recognizing the same principle in new clothes is real understanding
+- Big arm movements are still building the hand that will write
+- Repeating an activity across the year makes growth visible
+- The halfway point is worth marking for you, not just for her
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 1 whole watermelon, with seeds if you can find one
+- [ ] Red, white, blue, and gold paint, thinned with a little water
+
+**🎨 Craft & supplies**
+
+- [ ] Straws
+- [ ] Chalk
+- [ ] Star stickers, or stars cut from cardstock
+- [ ] A sponge or wide brush
+- [ ] Red, white, and blue ribbon or crepe streamers
+- [ ] Sidewalk chalk
+- [ ] Red, white, and blue paper cut into strips
+- [ ] Glue stick or tape
+- [ ] A marker
+- [ ] Black paper
+- [ ] An old toothbrush
+- [ ] Cardboard tubes with one end cut into strips and fanned out
+- [ ] A large knife (adult only)
+- [ ] A cutting board
+- [ ] A measuring tape
+- [ ] White paper
+- [ ] Red and blue paint, thinned
+- [ ] Wooden dowels, sticks, or unsharpened pencils
+- [ ] Strong tape
+- [ ] A speaker for music
+- [ ] Smooth rocks, washed and dried
+- [ ] Red, white, and blue paint
+- [ ] Fine brushes and cotton swabs
+- [ ] Clear nail polish to seal
+- [ ] This book
+- [ ] The garden journal, memory jar, growth chart
+- [ ] January's time capsule photos
+- [ ] Paper and crayons
+
+---
 
 > 👶 **Kreston is 12–13 months** — walking confidently, carrying things around, and beginning to imitate everything Azlyn does.
 
@@ -11228,31 +12965,6 @@ Audio story in the shade tent. Let her doze there if she will.
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] Sand, or a bag of play sand for a sandbox or bin
-- [ ] Seashells (a craft bag, if you're not near a beach)
-- [ ] Blue food coloring and clear plastic bottles (ocean bottles)
-- [ ] Ice pop molds (more — you'll use them constantly)
-- [ ] Heavy cream (ice cream in a bag)
-- [ ] A cheap tent, or a large sheet for a fort
-- [ ] Flashlights, one per child
-- [ ] Glow sticks
-- [ ] Marshmallows and graham crackers
-- [ ] Bubble solution (restock)
-- [ ] Sunscreen (restock)
-
-## 🏠 Probably Already Have
-
-- [ ] Paint · brushes · glue · scissors · crayons · markers
-- [ ] Paper plates · cardboard tubes · boxes · egg cartons
-- [ ] Ziplock bags · foil · plastic wrap · ice cube trays
-- [ ] Buckets, cups, funnels, colander, spray bottles
-- [ ] Blankets, pillows, clothespins
-- [ ] Salt, sugar, cornstarch, vinegar, baking soda
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **Heat is the main risk this month.** Water breaks every twenty minutes, hats, shade, and watch Kreston especially — a 13-month-old overheats fast and won't tell you.
@@ -11266,6 +12978,81 @@ Audio story in the shade tent. Let her doze there if she will.
 
 ## Week 27: Independence Day Celebration 🎆
 **📅 July 2 – July 8, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Independence Day on Day 185, with a backyard parade in the morning before anyone is overtired. Flags, bells, and a family flag she designs herself.
+
+Ribbon wands stand in for sparklers all week.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That a symbol can stand for something** too big to see.
+- **Sorting by sound**, which requires acting on an object to find out.
+- **Freezing on cue**, which is genuine impulse control.
+- **That oil and water refuse to mix** — the same idea as wax and dye.
+- **Choosing what to leave out**, which needs an explicit reason.
+
+---
+
+### 👩 What You'll Learn
+
+- Symbols are a big abstraction, and flags are the easiest entry point
+- The day before is often better than the day itself
+- Big days are frequently too big, and the fix is leaving early
+- Sorting by an invisible property is a step up
+- Oil and water is the same lesson as the wax crayon and the sticker resist
+- Freezing on cue is one of the best self-control exercises there is
+- Choosing what to leave out is harder than choosing what to include
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Strawberries, yogurt, blueberries
+- [ ] Food coloring, several colors
+- [ ] Orange, yellow, and red tissue paper
+- [ ] A tall clear jar or glass, filled with warm water
+- [ ] 3 tbsp cooking oil in a separate cup
+
+**🎨 Craft & supplies**
+
+- [ ] Craft sticks or straws
+- [ ] Red, white, and blue streamers
+- [ ] This week's flags and ribbon wands
+- [ ] Ice pop molds
+- [ ] Yesterday's ice pops
+- [ ] String and a large bead or button for the clapper
+- [ ] White paper or cardstock
+- [ ] Red, blue, green, yellow, black paint or markers
+- [ ] Tape
+- [ ] Pictures of a few flags to look at
+- [ ] The last link of the countdown chain from Day 176
+- [ ] The decorated trike and buggy
+- [ ] Shakers and a drum
+- [ ] Music
+- [ ] A paper cup or small terracotta pot
+- [ ] Gold or brown paint
+- [ ] A collection of things that ring: a glass, a metal bowl, a spoon, a pot lid
+- [ ] A fork
+- [ ] Green cardstock
+- [ ] A cardboard tube
+- [ ] Tape and glue
+- [ ] A stapler
+- [ ] A large sheet of paper or posterboard
+- [ ] This week's flags, splatter paintings, and leftover scraps
+- [ ] Photos from the Fourth, if printed
+- [ ] Glue and markers
+
+---
 
 > 👶 **Kreston is around 13 months** — walking, climbing, and copying everything his sister does.
 
@@ -11605,6 +13392,87 @@ Whatever water thing worked best this week. Repeat the winner.
 
 ## Week 28: Beach & Water Fun 🏖️
 **📅 July 9 – July 15, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Sand and water, side by side, with her controlling how much of one goes into the other. Wet sand and dry sand behave completely differently, and finding the right amount is the week's real lesson.
+
+The noodle water run from Day 195 will get used all summer.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That there's an optimum** — too dry crumbles, too wet slumps.
+- **Re-sorting a collection** by a second and third rule.
+- **That the same material behaves differently** depending on shape.
+- **Predicting a race result**, then testing it.
+- **Volume, pouring, and capacity**, through constant repetition.
+
+---
+
+### 👩 What You'll Learn
+
+- Sand is one of the best materials there is, and it's the resistance that makes it good
+- "Too much" and "not enough" is a real concept, and it's rarely taught
+- Asking for her rule is better than checking her answer
+- Sensory bottles work as a calming tool, and it's worth keeping one
+- Making the material is part of the activity
+- Changing one thing at a time is real experimental method
+- Water play is unusually complete developmental work
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Blue food coloring
+- [ ] Pool noodles cut in half lengthways (adult, serrated knife)
+- [ ] This week's sand bin, water bin, wave bottles, sand art
+- [ ] A second bin or paddling pool with water (the sea)
+- [ ] Water in a jug
+- [ ] A muffin tin or egg carton for sorting
+- [ ] Water
+- [ ] Cooking oil or baby oil
+- [ ] Tropical fruit
+
+**🎨 Craft & supplies**
+
+- [ ] A large bin or a sandbox, with play sand
+- [ ] Shells, if you have them
+- [ ] Sunscreen and hats
+- [ ] The sand bin
+- [ ] Shells of assorted sizes and types
+- [ ] A magnifying glass
+- [ ] Glitter, small shells, tiny plastic sea creatures
+- [ ] Dry sand
+- [ ] Chalk, or powdered paint, to color it
+- [ ] Buckets, spades, cups, a sieve, a colander
+- [ ] Beach towels and a sun umbrella or shade
+- [ ] Cups and buckets of several sizes
+- [ ] A ruler or a stick for measuring
+- [ ] Craft sticks and paper for flags
+- [ ] Smooth stones and sea glass, if you have any
+- [ ] Paper and crayons
+- [ ] Clear plastic bottles with tight lids, one per child
+- [ ] Ziplock bags
+- [ ] Cardstock
+- [ ] Glue in a squeezy bottle
+- [ ] A tray to catch the excess
+- [ ] Duct tape
+- [ ] Buckets and a step or chair to prop it on
+- [ ] A hose
+- [ ] Things to race: ping pong balls, ice cubes, small toys, leaves
+- [ ] Towels and shade
+- [ ] Music
+- [ ] Any beach toys you have
+
+---
 
 > 👶 **Kreston is around 13 months** — walking fast, fascinated by water, and with no sense of danger whatsoever.
 
@@ -11951,6 +13819,84 @@ The full morning. Sunscreen, reapplied. Shade breaks. Plenty of drinking water.
 ## Week 29: Ice Cream & Summer Treats 🍦
 **📅 July 16 – July 22, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Ice cream, ice pops, and a shop. Food she makes herself tastes better — that's a measurable effect, and it's the lever behind most of this week.
+
+Day 200 lands here, with two hundred-grids side by side.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That salt makes ice colder**, discovered by making ice cream.
+- **Money exchange and counting** in a shop she runs.
+- **That waiting produces visible stripes**, and rushing produces mud.
+- **AABB patterns**, a step up from alternating ones.
+- **Building something to someone else's specification.**
+
+---
+
+### 👩 What You'll Learn
+
+- Effort makes food taste better, and that's a measurable effect
+- Shop play is the most efficient math practice available at four
+- Distinct layers only form if you wait, and that's a visible lesson
+- Doubling is visible before it's calculable
+- An AABB pattern is much harder than ABAB, and it's the right next step
+- Making something to someone else's specification is a real cognitive step
+- Serving other people is one of the fastest routes to competence
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Pom-poms as sprinkles
+- [ ] Blended strawberry or raspberry
+- [ ] 200 small identical things: stickers, pom-poms, cereal, dot-marker prints
+- [ ] Real ice cream or ice pops
+- [ ] ½ cup heavy cream, 1 tbsp sugar, ¼ tsp vanilla
+- [ ] 1 small ziplock bag (the cream) and 1 large one (the ice)
+- [ ] 6 tbsp salt
+- [ ] Playdough in several colors (the ice cream)
+- [ ] Muffin tin as a display case
+- [ ] Paper for a menu, price list, and money
+- [ ] An ice cream scoop
+- [ ] Plain or vanilla yogurt
+- [ ] Blended blueberry or blackberry
+- [ ] Soft fruit in several colors, cut into chunks
+- [ ] Small bowls, one per fruit
+- [ ] A yogurt dip
+- [ ] Ice cream (Day 197's, or shop-bought)
+- [ ] Small bowls of toppings: fruit, sprinkles, crushed biscuit, sauce, whipped cream
+
+**🎨 Craft & supplies**
+
+- [ ] Ice pop molds
+- [ ] Blunt wooden skewers, or reusable silicone sticks
+- [ ] Ice, enough to fill the large bag
+- [ ] A towel or gloves — the bag gets *very* cold
+- [ ] Paper cones rolled from cardstock, or real cones
+- [ ] A jug for pouring
+- [ ] Craft sticks
+- [ ] Large posterboard
+- [ ] Markers
+- [ ] The Day 100 poster from April, if you kept it
+- [ ] Bowls and spoons
+- [ ] Paper for a "topping menu"
+- [ ] This week's shop setup, menu, and paper money
+- [ ] Toppings in bowls
+- [ ] Paper for invitations
+- [ ] A table outside and shade
+
+---
+
 > 👶 **Kreston is around 13–14 months** — feeding himself, saying a few words, and wanting whatever Azlyn has.
 
 ---
@@ -12295,6 +14241,87 @@ Full morning outside in the shade. Sunscreen and water alongside.
 
 ## Week 30: Under the Sea 🌊
 **📅 July 23 – July 29, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Under the sea — jellyfish, octopuses, ocean layers, and a shoebox aquarium. Several activities work in three dimensions rather than flat on a page.
+
+Day 209 pairs a pretend ocean clean-up with a real litter walk.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Depth and vertical space**, which is harder than horizontal.
+- **Numerals attached to real objects** she's physically caught.
+- **That she can do something real** about a problem she's heard about.
+- **Explaining what she knows to someone else**, which consolidates it.
+- **Spatial vocabulary** — deeper, higher, beneath, above.
+
+---
+
+### 👩 What You'll Learn
+
+- Habitat is a more advanced idea than category
+- Passive movement is a strange idea, and worth sitting with
+- Noticing a mismatch is worth more than getting the answer
+- Numeral recognition is separate from counting
+- Darkness is worth practicing when it isn't bedtime
+- A large collaborative piece teaches something a small one can't
+- Giving a tour is the best test of understanding there is
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] A large bin with a few inches of water, blue food coloring
+- [ ] Paint in coral colors — orange, pink, purple, yellow
+
+**🎨 Craft & supplies**
+
+- [ ] Sand or small stones for the floor
+- [ ] Shells, plastic sea creatures
+- [ ] Blue cellophane or a strip of fabric (the surface)
+- [ ] Crepe streamers, ribbon, or strips of tissue paper
+- [ ] Googly eyes
+- [ ] Glow sticks
+- [ ] A flashlight
+- [ ] Blue cellophane over the torch, if you have it
+- [ ] Paper and glow-in-the-dark or white crayons on black paper
+- [ ] Bubble wrap
+- [ ] Forks, sponges, cotton swabs
+- [ ] Blue cellophane or blue tissue paper
+- [ ] A small net or slotted spoon
+- [ ] Paper plates
+- [ ] Paint or markers
+- [ ] Hole punch
+- [ ] String for hanging
+- [ ] Paint
+- [ ] Large paper
+- [ ] Cotton swabs (for suckers)
+- [ ] A marker
+- [ ] Card, cut into fish shapes (8–10)
+- [ ] Paperclips
+- [ ] A stick or dowel
+- [ ] String
+- [ ] A strong magnet
+- [ ] Markers, and a number written on each fish
+- [ ] A blanket fort, or a dark room
+- [ ] A large sheet of paper or the back of wrapping paper
+- [ ] This week's jellyfish and octopus, to add on
+- [ ] A shoebox
+- [ ] String and tape
+- [ ] This week's crafts, plus new paper fish
+- [ ] Index cards for labels
+- [ ] Scissors (adult, for the viewing window)
+
+---
 
 > 👶 **Kreston is around 14 months** — walking everywhere, climbing on things, and pointing at pictures in books.
 
@@ -12643,6 +14670,82 @@ Cool off. Late July is usually the hottest stretch.
 
 ## Week 31: Camping Adventures ⛺
 **📅 July 30 – August 5, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Camping, in the garden, with the tent up all week. Pitching it, cooking at it, sleeping in it, and packing it away — the full shape of an activity rather than just the fun part.
+
+Stargazing on Day 216, weather permitting.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Doing the real job**, badly, rather than watching it done well.
+- **Sorting sticks by function** — tinder, kindling, logs.
+- **That shadows change size** with distance from the light.
+- **Drawing a map**, which means imagining the yard from above.
+- **Leaving a place better than she found it.**
+
+---
+
+### 👩 What You'll Learn
+
+- Real tools and real jobs beat toy versions, every time
+- Sitting in a circle changes how a group talks
+- She's met shadows three times now, and each time added something
+- Carrying her own pack changes the walk
+- A map is a shift from being *in* a space to seeing it from above
+- Breaking the routine deliberately makes a memory
+- Endings need marking, and packing up does it
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Red, orange, and yellow tissue paper
+- [ ] Graham crackers, chocolate, marshmallows
+- [ ] Bowls of: round cereal, pretzels, raisins, dried fruit, small crackers
+- [ ] A tea bag, steeped and cooled (to age the paper)
+- [ ] A small treasure — a snack, a coin, a small toy
+- [ ] Breakfast — fruit, muffins, cereal in cups
+
+**🎨 Craft & supplies**
+
+- [ ] A small tent, or a large sheet and rope between two points
+- [ ] A torch each
+- [ ] A battery tea light or torch
+- [ ] A torch
+- [ ] Star stickers
+- [ ] A picnic blanket inside the tent
+- [ ] The week's map, puppets, and torch
+- [ ] Sleeping bags or blankets, pillows
+- [ ] A crate as a camp table
+- [ ] Paper and markers for a camp sign
+- [ ] Sticks collected from the garden
+- [ ] A ring of stones
+- [ ] Black card
+- [ ] Craft sticks
+- [ ] Scissors (adult for detailed cuts)
+- [ ] A white sheet, or a blank wall
+- [ ] A large mixing bowl
+- [ ] A measuring scoop
+- [ ] Small bags or containers
+- [ ] A backpack
+- [ ] Paper
+- [ ] Markers and crayons
+- [ ] A container to bury or hide it in
+- [ ] A jar covered in black paper, with holes punched through (from Day 10, or make a fresh one)
+- [ ] Black card and a pin or toothpick (adult)
+- [ ] A bag for packing up
+
+---
 
 > 👶 **Kreston is around 14 months** — walking confidently, climbing, and beginning to use a few words purposefully.
 
@@ -13006,31 +15109,6 @@ The full pack-down. Check the grass for anything dropped.
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-- [ ] A soft ball or two (foam or fabric, indoor-safe)
-- [ ] A cheap hula hoop
-- [ ] Beanbags, or fabric + rice to make them
-- [ ] A world map or globe (even a printed one)
-- [ ] Passport-sized notebook, or make one
-- [ ] Ink pad (for passport stamps)
-- [ ] Face paint (carnival)
-- [ ] Tickets, or make them from paper
-- [ ] Ribbon and dowels (restock for wands)
-- [ ] Ingredients for one dish from another country
-- [ ] Sidewalk chalk (restock again)
-
-## 🏠 Probably Already Have
-
-- [ ] Paint · brushes · glue · scissors · crayons · markers
-- [ ] Paper plates · cardboard tubes · boxes · plastic bottles
-- [ ] Socks (for indoor balls), laundry basket, cushions
-- [ ] Pots, pans, wooden spoons, rice, dried beans
-- [ ] String, tape, clothespins, blankets
-- [ ] A speaker or phone for music
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **He climbs now.** Kreston is 14 months and will scale furniture, steps, and anything stacked. Re-check what's climbable and what's above it.
@@ -13044,6 +15122,78 @@ The full pack-down. Check the grass for anything dropped.
 
 ## Week 32: Sports & Team Play ⚽
 **📅 August 6 – August 12, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+A week-long home Olympics — one event a day, a scoreboard, and medals awarded at the end for things other than winning. Losing gracefully isn't developmentally available yet, so the week is designed around that.
+
+She designs the obstacle course herself on Day 223.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Throwing, running, balancing, and aiming**, through sheer quantity.
+- **Beating her own previous time**, rather than another person.
+- **Cooperation**, which is harder than competition and less practised.
+- **Planning on paper**, then executing the plan.
+- **Subtraction in disguise** — ten pins, three fell, how many left?
+
+---
+
+### 👩 What You'll Learn
+
+- Losing is a skill that isn't ready yet, and designing around that is not coddling
+- Throwing develops in a predictable order, and rushing it doesn't help
+- Balance is trained by being slightly off it
+- Subtraction makes sense long before the symbols do
+- Cooperation is harder than competition, and it needs the same practice
+- Planning before doing is a real developmental leap
+- Deciding what deserves recognition is more advanced than receiving it
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Cardstock circles, foil, ribbon
+- [ ] A beanbag or small book to balance on her head
+- [ ] A little water or sand in each for stability
+
+**🎨 Craft & supplies**
+
+- [ ] Chalk for the running track
+- [ ] A laundry basket, bucket, and a hula hoop
+- [ ] Chalk
+- [ ] Chalk, or a rope laid on the ground
+- [ ] A hula hoop
+- [ ] Hula hoop, cushions, chalk, a rope, buckets, a blanket
+- [ ] Ribbon wands or streamers
+- [ ] A podium — a step, a box, or a chalk circle
+- [ ] A large sheet of paper for the scoreboard
+- [ ] Markers and stickers
+- [ ] Old socks, rolled into balls
+- [ ] Paper for target point values
+- [ ] Cushions or stepping stones
+- [ ] 6–10 empty plastic bottles
+- [ ] Paint or paper to decorate
+- [ ] A ball
+- [ ] Paper for scoring
+- [ ] A cardboard tube, decorated (the baton)
+- [ ] Paper and sticks for two team flags
+- [ ] A spoon and a small ball, for a variant
+- [ ] Paper and crayons for the plan
+- [ ] A stopwatch or phone timer
+- [ ] The medals from Day 218
+- [ ] The scoreboard
+- [ ] Music
+
+---
 
 > 👶 **Kreston is around 14 months** — walking, throwing, and desperate to be included in whatever's happening.
 
@@ -13380,6 +15530,86 @@ Outside, loud, with music. Take a photo of everyone on the podium.
 
 ## Week 33: Pretend Passport World Adventure 🌍
 **📅 August 13 – August 19, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Five countries in five days, with a passport stamped each time. Every stop involves something eaten, something said, and something made — the combination that actually sticks at four.
+
+The map goes up on Day 225 and stays up.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That a map represents real places** she could travel to.
+- **Greetings in several languages.**
+- **Symmetry through folding**, discovered by unfolding.
+- **Repeating pattern units** — two red, one blue, again.
+- **That different and wrong are separate ideas.**
+
+---
+
+### 👩 What You'll Learn
+
+- A map is an abstraction she has to be taught to read
+- Food is the most memorable route into a culture at this age
+- Symmetry through folding is discovered, not explained
+- Repeating units are a genuine step up from alternating patterns
+- Impermanence is easier to accept when it's built into the design
+- Jumping with both feet is a genuine milestone and it comes later than most parents expect
+- "Different" and "wrong" are separate ideas, and this week teaches the difference
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] An ink pad and a small stamp (or a potato stamp)
+- [ ] Large beads or cut drinking straws
+- [ ] Colored rice or chalk
+- [ ] Rice, for onigiri
+- [ ] Tortillas and cheese
+- [ ] Small bowls of mild spices: cinnamon, cardamom, turmeric, cumin
+- [ ] Flour, yogurt, baking powder for naan
+
+**🎨 Craft & supplies**
+
+- [ ] A world map or globe
+- [ ] Pink tissue paper
+- [ ] Bright tissue paper squares
+- [ ] Pipe cleaners or elastic cord
+- [ ] Cardboard tubes and sponges for print-making
+- [ ] Paper folded and stapled into small booklets
+- [ ] A photo of each child, or she draws a self-portrait
+- [ ] Stickers or pins for the map
+- [ ] Brown paper or a real twig
+- [ ] Glue
+- [ ] Square paper for origami
+- [ ] Chopsticks (or child chopsticks)
+- [ ] Child-safe scissors
+- [ ] String
+- [ ] Paper and bright paints or markers
+- [ ] Paper and paint
+- [ ] Binoculars from Day 108, if you still have them
+- [ ] A tray
+- [ ] A skillet
+- [ ] Cotton swabs
+- [ ] Paint in earth colors — red, ochre, black, white
+- [ ] Paper or a smooth stone
+- [ ] A brown paper bag
+- [ ] Construction paper for ears and a pouch
+- [ ] The passports, full of stamps
+- [ ] The wall map with stickers
+- [ ] This week's crafts, all displayed
+- [ ] A little food from each country
+- [ ] Music from each country
+
+---
 
 > 👶 **Kreston is around 15 months** — imitating sounds, trying new words, and eating most of what everyone else eats.
 

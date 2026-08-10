@@ -22,37 +22,6 @@
 
 ---
 
-## 🛍️ Worth Buying This Month
-
-> *A quick store run at the start of the month means no day gets derailed by a missing supply.*
-
-- [ ] Contact paper (clear, 1 roll)
-- [ ] Googly eyes (assorted)
-- [ ] Pom-poms (assorted colors)
-- [ ] Food coloring (4 colors)
-- [ ] Painter's tape (2 rolls — you'll use more than you think)
-- [ ] Washable paint (red, blue, yellow, green, black, white)
-- [ ] Cotton balls (1 bag)
-- [ ] Craft sticks (1 pack)
-- [ ] Pipe cleaners (1 pack)
-- [ ] Cream of tartar (for playdough)
-- [ ] Yarn (1 skein, any color)
-- [ ] Buttons (large, 1 bag)
-- [ ] Sidewalk chalk (for the thaw days)
-
-## 🏠 Probably Already Have
-
-- [ ] Paper plates · construction paper · cardstock · plain paper
-- [ ] Crayons · markers · child-safe scissors · glue stick
-- [ ] Flour · salt · vegetable oil · baking soda · vinegar
-- [ ] Cardboard boxes (start saving now — you'll want three or four)
-- [ ] Muffin tin · mixing bowls · measuring cups · wooden spoons
-- [ ] Ziplock bags · aluminum foil · masking tape
-- [ ] Old socks · fabric scraps · blankets · pillows
-- [ ] Flashlight · mirror · magnifying glass (if you have one)
-
----
-
 ## ⚠️ Quick Safety Reminders
 
 - **Small parts** — buttons, pom-poms, beads. Choking risk for *both* kids. Count them back in when you finish.
@@ -66,6 +35,79 @@
 
 ## Week 1: Shape Engineers & Building 🏗️
 **📅 January 1 – January 7, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Building — towers, bridges, houses, forts. Everything this week asks the same question in different forms: **what makes a structure stand up, and what makes it fall down?** She'll build seven things, knock most of them over, and rebuild them better. That cycle is the point.
+
+It's also the opening week of the year, so Day 1 sets up the time capsule you'll open on Day 365.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Structures need a base.** Wide bottoms hold; narrow ones topple.
+- **Shape names in use** — circle, square, triangle — attached to real objects, not flashcards.
+- **Trial and error as a method.** Build, watch it fail, change one thing, build again.
+- **Hand strength and control** through kneading, stamping, and stacking.
+- **That she can make a real thing** that stays in the house and gets used.
+
+---
+
+### 👩 What You'll Learn
+
+- Why writing down her exact words matters more than you'd think
+- The cardboard box beats the expensive toy, and there's a reason
+- Narrating beats quizzing — every time
+- Knocking it down *is* the science
+- Why kneading dough calms a wound-up kid down
+- The pause before you help
+- Why small enclosed spaces are so appealing right now
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] 2 tbsp cream of tartar
+- [ ] Food coloring
+- [ ] 2 cups flour
+- [ ] ½ cup salt
+- [ ] 2 tbsp vegetable oil
+- [ ] 1½ cups boiling water (adult only)
+
+**🎨 Craft & supplies**
+
+- [ ] Painter's tape
+- [ ] 3 kitchen sponges, cut into a circle, square, and triangle
+- [ ] Clothespins or binder clips (far better than tucking)
+- [ ] A flashlight
+- [ ] 1 shoebox or coffee can with a lid
+- [ ] Paper and crayons
+- [ ] Washable paint (for handprints)
+- [ ] A measuring tape
+- [ ] Tape and a marker
+- [ ] 1 large cardboard box
+- [ ] Box cutter (adult only)
+- [ ] Washable paint or markers
+- [ ] 1 paper plate (as a palette)
+- [ ] 2–3 sheets of plain paper
+- [ ] Building blocks, plastic cups, or empty boxes — whatever you have
+- [ ] Paper to record the record
+- [ ] Airtight container for storage
+- [ ] Craft sticks, blocks, or cardboard strips
+- [ ] 2 stacks of books (the riverbanks)
+- [ ] 1 small toy car (the tester)
+- [ ] 2–3 blankets or bedsheets
+- [ ] Dining chairs, a table, or a couch
+- [ ] Pillows and cushions
+
+---
 
 > 👶 **Kreston is around 7 months this week** — sitting up solid, starting to crawl, and grabbing for everything within reach.
 

@@ -3,6 +3,77 @@
 ## Week 7: Love & Friendship 💌
 **📅 February 12 – February 18, 2027**
 
+---
+
+### 🎯 What This Week Is About
+
+Love, friendship, and giving. The week builds across three days toward Valentine's — apple stamps become cards, cards go in a homemade mailbox, the mailbox gets opened on Day 45.
+
+Presidents' Day follows immediately on Day 46.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Making something specifically for another person.**
+- **More precise emotion words** than the single word *love*.
+- **Fine motor precision** through threading, folding, and stuffing envelopes.
+- **Anticipating someone else's feelings** — hiding a note for a future finder.
+- **Patterning**, through beads and paper chains.
+
+---
+
+### 👩 What You'll Learn
+
+- Discovery beats demonstration
+- Posting things through slots is a real developmental stage
+- Love is a word she's still working out the size of
+- "A long time ago" is as much history as she can hold
+- Threading is fine motor work that pays off at six
+- Children need to see the effect of their kindness
+- Anticipating someone else's future feeling is a big cognitive leap
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+**🍎 Food & kitchen**
+
+- [ ] Doilies, heart stickers
+- [ ] Large beads, or cut drinking straws into short segments
+- [ ] 1 apple
+- [ ] 1 shoebox or cereal box
+- [ ] Yesterday's apple-stamped sheets
+- [ ] Pretzel sticks (a large handful)
+- [ ] Peanut butter or frosting (as mortar)
+- [ ] A butter knife or craft stick
+
+**🎨 Craft & supplies**
+
+- [ ] Yarn or string
+- [ ] Elastic cord or a pipe cleaner
+- [ ] A small dish to hold beads
+- [ ] Red and pink washable paint
+- [ ] Paper plate (as a palette)
+- [ ] Several sheets of paper
+- [ ] Red and pink paper
+- [ ] Glue, tape, markers
+- [ ] Scissors (adult cuts the slot)
+- [ ] Yesterday's mailbox and cards
+- [ ] Red, pink, and white paper hearts (pre-cut, 10–12)
+- [ ] Tape or a hole punch
+- [ ] Markers
+- [ ] 1 square of cardboard (base)
+- [ ] 5 small slips of paper
+- [ ] A stapler
+- [ ] Small paper squares or sticky notes
+- [ ] Markers and stickers
+- [ ] The week's leftover hearts
+
+---
+
 > 👶 **Kreston is around 8 months this week** — crawling fast, pulling up, and reaching for whatever his sister has.
 
 ---
