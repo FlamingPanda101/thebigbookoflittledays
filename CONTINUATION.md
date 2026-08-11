@@ -48,6 +48,27 @@ Every day header carries its real date. Every week header carries its date range
 
 ---
 
+## ⚡ PRE-WRITTEN HOLIDAY DAYS
+
+`drafts/holiday-days.md` already contains finished blocks for the dated
+holidays, written ahead so they don't get rushed:
+
+- **Bonus notes:** Day 284 (Columbus / Indigenous Peoples' Day), Day 315 (Veterans Day)
+- **Full days:** 302 Diwali · 304 Halloween · 305 Día de los Muertos · 329 Thanksgiving · 354 Azlyn turns 4 · 358 Hanukkah · 359 Christmas · 363 Brooklyn's birthday · 365 Grand Finale
+
+When writing the week that contains one, **cut the block out of
+`drafts/` and paste it into the week file at the right position**, then
+delete it from drafts. Two things to do on the way in:
+
+1. Add that day's insight headline to the week opener's **What You'll Learn** list, in day order.
+2. Days 302 and 305 carry their own cultural content — put Week 44's 🌍 Around the World box on one of the other five days.
+
+`drafts/` is outside the `cat` glob, so nothing there reaches the
+assembled book. Dates for Diwali and Hanukkah were verified by search
+against the table above.
+
+---
+
 ## REMAINING WEEK THEMES
 
 | Wk | Days | Theme |
