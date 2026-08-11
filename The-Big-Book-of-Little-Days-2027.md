@@ -20274,3 +20274,441 @@ Do the second half outside if you can — a hedge, a corner of the garden, or th
 > 💛 **From Joseph:** Seven pages of moon, in order, in her own hand. Keep that one — she'll want it when she's twenty.
 
 <div style="page-break-after: always;"></div>
+<a id="week-43"></a>
+
+## Week 43: Insects & Minibeasts 🐛
+
+**📅 October 22 – October 28, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Late October is the wrong time of year for insects, and that's exactly why it's a good week to do them. The butterflies have gone, the flowers are over, and the interesting question becomes *where is everybody?* — which turns the hunt into a proper search: under logs, under stones, in the leaf litter, in the corners of the shed.
+
+There's one rule the whole week runs on, and it's worth saying on Friday morning and every day after: **everything goes back exactly where it came from.**
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Where to look** — under, inside, beneath, rather than out in the open.
+- **Handling gently**, and putting things back the way they were.
+- **Six legs or eight**, and that it matters.
+- **Camouflage**, by trying to hide something and watching it fail.
+- **That a handful of leaves is full of things** she'd never have seen.
+
+---
+
+### 👩 What You'll Learn
+
+- Putting it back exactly is part of the lesson
+- A creature she has watched is much harder to squash
+- Symmetry and spirals turn up in her drawing once she's looked at a web
+- Following something rather than catching it is a different kind of attention
+- Hiding something well means imagining another creature's point of view
+- Sorting living things is harder than sorting objects, because they move
+- Making it enormous is how she checks she knows the parts
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] A magnifying glass, and a second one if you have it
+- [ ] Small clear pots or jam jars with lids
+- [ ] A soft paintbrush, for moving things gently
+- [ ] A white sheet, pillowcase, or large white tray
+- [ ] Plastic tweezers or a teaspoon
+- [ ] A clipboard, paper, and pencils
+- [ ] A large clear jar, for the worm farm
+- [ ] Soil and sand
+- [ ] Old leaves and vegetable scraps
+- [ ] A dark cloth or black paper, and a rubber band
+- [ ] A spray bottle of water
+- [ ] Wool or string, in a light colour
+- [ ] Sticky tape
+- [ ] Sugar, honey, and a few crumbs
+- [ ] Coloured paper in greens, browns, and bright colours
+- [ ] Scissors and glue
+- [ ] Pipe cleaners and googly eyes
+- [ ] Cardboard boxes, newspaper, and an old pair of tights
+- [ ] Paint and thick markers
+- [ ] Rubber gloves
+
+---
+
+> 👶 **Kreston is around 17 months this week** — he grabs first and looks second, so every jar has a lid and every creature is looked at rather than held.
+
+---
+
+<a id="day-295"></a>
+
+## 🌟 Day 295: The Minibeast Hunt 🌟
+**📅 Friday, October 22, 2027**
+**Theme:** Insects & Minibeasts
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Where Is Everybody? (15 min)
+- **9:15–10:00 AM** — Main Event: Make the Field Guide (45 min)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:45 AM** — Get Outside: **The Log-Rolling Hunt** (90 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Make the Field Guide
+**🧰 Complete Materials List:**
+- Paper folded into a small book, or a clipboard and loose sheets
+- Pencils and crayons
+- A magnifying glass
+- Small clear pots with lids
+- A soft paintbrush
+- A teaspoon
+- A picture chart of common minibeasts, drawn or printed
+
+**📝 Step-by-Step Instructions:**
+1. **Make the chart together first** — eight boxes, one each for woodlouse, worm, snail, slug, spider, ant, beetle, centipede. **You draw, she colours.**
+2. **A tally column next to each.** That's what gets filled in outside.
+3. **Then the handling rules, said out loud and demonstrated:**
+   - **Look before you touch.**
+   - **Move it with the brush, never with fingers.**
+   - **One at a time in the pot, lid on, and back within a few minutes.**
+   - **Put the log back exactly how it was.**
+4. Practise with the paintbrush on something that isn't alive — a crumb, a leaf — so the gentleness is learned before it matters.
+5. **Then straight outside.** The hunt is the main event today and the schedule is built for it.
+6. Back in, count the tallies. **Which was most? Which did you not see at all?**
+7. Ask where the ones you didn't find have gone. Take her theories seriously and write them down.
+
+> 💡 **Tip:** Go for the damp, dark, undisturbed places — under logs, under stones, under plant pots, in the compost, in the corner of the shed. Open ground in late October is empty and disappointing.
+
+### 🌳 Get Outside: The Log-Rolling Hunt
+Ninety minutes of lifting and looking. **Lift the log towards you** so anything underneath runs away from her hands, look, tally, and **put it back down exactly where it was.** Do six or seven sites. The best one is always the one you nearly didn't bother with.
+
+> 👶 **Infant Integration:** Kreston is around 17 months and will grab. Give him a closed pot with a woodlouse in it to look at, and take it back after a minute. He gets to look, not to hold.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Putting it back exactly is part of the lesson.**
+> The temptation at the end of a hunt is to tip everything out and go in. Insisting that each log goes back the way it was, each stone the right way up, each creature to the spot it came from, changes what the morning was about.
+> It teaches that the place she's been rummaging in is somebody's home, and that looking at something shouldn't cost it anything. That's a more useful early conservation lesson than any amount of talk about the planet, because it's the exact size of her actual power over the world right now. She can lift a log or not, and she can put it back properly or not, and both of those are real choices she's making.
+
+> 💛 **From Joseph:** She told me off for putting a stone back the wrong way round. She was right, and I'd said the rule ten minutes earlier.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-296"></a>
+
+## 🌟 Day 296: The Worm Farm 🌟
+**📅 Saturday, October 23, 2027**
+**Theme:** Insects & Minibeasts
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Worm Farm (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **Charming the Worms** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Worm Farm
+**🧰 Complete Materials List:**
+- A large clear jar or a clear plastic tub
+- Soil and sand, enough for several layers
+- Old leaves and a few vegetable scraps
+- 3–4 worms, dug up together
+- A spray bottle of water
+- A dark cloth or black paper, and a rubber band
+- A marker, to mark the tunnels on the glass
+- Rubber gloves, if she'd rather
+
+**📝 Step-by-Step Instructions:**
+1. **Layer the jar** — soil, then sand, then soil, then sand, each layer a few centimetres. **The stripes are the whole point**, because that's how the tunnels become visible.
+2. **Damp, not wet.** Spray each layer as it goes in. A waterlogged jar kills the worms.
+3. **Dig for worms together.** Somewhere damp and shady. **Lift them with a spoon or with her whole flat hand**, not pinched between fingers.
+4. Put them on top and watch. **They'll start going down within a minute**, which is the best bit of the morning.
+5. Leaves and scraps on the surface — that's the food.
+6. **Cover the whole jar with the dark cloth.** Worms avoid light and won't tunnel near the glass unless it's dark. **The cloth only comes off to look.**
+7. **Mark the tunnels on the glass with the marker each day**, in a different colour. By Thursday the layers will have mixed and the marks will show how far they got.
+8. **Release them all back where they came from on the last day of the week.** Say that on day one so it's expected.
+
+> ⚠️ **Keep it cool, out of the sun, and damp.** A jar on a sunny windowsill kills everything in it in an afternoon.
+
+> 💡 **Tip:** Four worms is plenty. A jar with twenty in it doesn't work better and it's much harder to release them all at the end.
+
+### 🌳 Get Outside: Charming the Worms
+**Worm charming is a real thing.** Water a patch of lawn thoroughly, then tap the ground rhythmically with a stick or stamp gently for a few minutes, and worms come up. Nobody is entirely sure why. **Count what surfaces**, then leave them be.
+
+> 👶 **Infant Integration:** Kreston watches the jar and will want to shake it, so it lives up high. Give him a tub of soil and a spoon at his own level and let him dig in that.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A creature she has watched is much harder to squash.**
+> Small children step on things, poke things, and pull the legs off things, and it's usually curiosity rather than cruelty — a woodlouse is an object until it's been observed long enough to become a someone.
+> Sustained watching is what does the converting. Four worms in a jar that she feeds, sprays, and checks on for a week stop being generic worms; they become *the* worms, with tunnels she's marked in her own colours. That transfer generalises surprisingly well — a child who has looked after four worms treats the next woodlouse differently. It's cheaper and more effective than any instruction about being kind to animals.
+
+> 💛 **From Joseph:** She's named all four. Two of them are called Kreston. I've stopped asking.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-297"></a>
+
+## 🌟 Day 297: Webs 🌟
+**📅 Sunday, October 24, 2027**
+**Theme:** Insects & Minibeasts
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:00 AM** — Get Outside: **The Web Walk** (45 min, early)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:45 AM** — Main Event: Weave a Web (90 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Weave a Web
+**🧰 Complete Materials List:**
+- A ball of wool or string, light-coloured
+- Sticky tape
+- A doorway, or a corner of two walls, or a chair back
+- Scissors
+- Paper and pencils, for the web drawings
+- A spray bottle
+- Something to be the flies — scrunched paper balls or pompoms
+
+**📝 Step-by-Step Instructions:**
+1. **Draw a real web first**, from a photo or from what you found outside. **The spokes first, then the spiral.** Do one yourself alongside hers.
+2. **Then build a giant one in a doorway.** Tape the spokes first — from the middle out to the frame, like the spokes of a wheel. Six or eight of them.
+3. **Then the spiral.** She winds the wool round and round, going outwards, taping it where it crosses each spoke. **This takes ages and it's the good part.**
+4. **Note the order out loud** — spokes first, then round and round. That's how the spider does it too.
+5. **Throw the paper flies at it** and see which stick and which fall through. **Then add more spiral** to the gaps and try again.
+6. **Talk about what a web is *for*** while she's building — not decoration, a trap, and one the spider has to rebuild constantly.
+7. Leave it up. She'll play in it all week.
+
+> 💡 **Tip:** Tape the spokes yourself and hand her the spiral. The spokes are fiddly and frustrating; the spiral is repetitive and satisfying, and it's where the whole hour is.
+
+### 🌳 Get Outside: The Web Walk
+**Early morning, before the dew burns off.** Take the spray bottle. **A fine mist on an invisible web makes it appear**, which is a genuinely magical thing to show a four-year-old. Look along hedges, fences, gates, and gorse. Count them. Draw the best one.
+
+> 👶 **Infant Integration:** Kreston will walk straight through the wool web and pull it down. Build it in a doorway he can be kept out of, and give him a length of wool of his own to drag around the house.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Symmetry and spirals turn up in her drawing once she's looked at a web.**
+> Children draw what they have schemas for, and those schemas expand by looking closely at real things. A child who has spent twenty minutes examining an orb web — spokes radiating from a centre, a spiral crossing them — tends to start producing radial and spiral patterns in unrelated drawings for weeks afterwards.
+> That's worth knowing because it's how looking pays off, and it's invisible if you're only judging the drawing she does today. Close observation of one structured natural thing — a web, a shell, a fern, a snowflake — quietly upgrades her whole visual vocabulary. Which is a good argument for spending the morning on one web rather than twenty minutes each on five different creatures.
+
+> 💛 **From Joseph:** She's put spokes and a spiral into a drawing of a house. It's a very strange house and I like it enormously.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-298"></a>
+
+## 🌟 Day 298: The Ant Trail 🌟
+**📅 Monday, October 25, 2027**
+**Theme:** Insects & Minibeasts
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:30 AM** — Get Outside: **Follow the Trail** (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Main Event: The Trail Map (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Trail Map
+**🧰 Complete Materials List:**
+- A clipboard, paper, and pencils
+- A magnifying glass
+- A teaspoon of sugar, a smear of honey, and a few crumbs, on separate bits of card
+- A stopwatch or a phone timer
+- Chalk, to mark the route outside
+- A long piece of string
+
+**📝 Step-by-Step Instructions:**
+1. **Outside first today** — the trail has to be found before there's anything to map.
+2. **Put the three baits down** at the start of the outdoor session, well apart, and leave them while you look for the nest.
+3. **Follow a trail without touching it.** Where does it start? Where does it end? **Chalk a line alongside it as you go** so the route becomes visible.
+4. **Check the baits after half an hour.** Which one won? Sugar usually. **Count how many are on each.**
+5. **Back inside, draw the map.** The nest, the trail, the bait, the wall, the crack. **She dictates, you label.**
+6. **Time one ant** if you can keep track of it — from the bait to the nest. She'll lose it. Everyone loses it.
+7. If the weather has finished the ants for the year, **run the whole thing indoors with the leaf litter tray** from Wednesday brought forward, and map that instead.
+
+> 💡 **Tip:** Late October is late for ants. Check the site the day before — if there's nothing running, swap this day with Wednesday and don't lose a morning to an empty path.
+
+### 🌳 Get Outside: Follow the Trail
+Seventy-five minutes on hands and knees along a wall. **The instruction is: follow, don't catch.** Where do they go, what are they carrying, what happens when two meet? **Ants touch antennae when they pass**, and spotting that is the moment of the day.
+
+> 👶 **Infant Integration:** Kreston will stamp on the trail. Put him on the other side of you with his own chalk and a stretch of path, and accept that supervision here is a two-adult job or a nap-time activity.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Following something rather than catching it is a different kind of attention.**
+> Catching is a burst — spot, grab, over. Following is sustained, requires her to keep track of one small thing among many identical ones, and produces nothing at the end except what she noticed. Most four-year-olds default hard to catching.
+> Which is why it's worth naming the rule explicitly and holding it. Tracking one ant along a wall is genuinely demanding attention work — selective, sustained, and self-directed — and it's the same capacity she'll need for reading a line of text without losing her place. It also produces better observations. Nobody has ever learned what ants do by holding one.
+
+> 💛 **From Joseph:** She followed one for eleven minutes and then declared it had gone home for lunch. I have no evidence against this.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-299"></a>
+
+## 🌟 Day 299: The Camouflage Challenge 🌟
+**📅 Tuesday, October 26, 2027**
+**Theme:** Insects & Minibeasts
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: Make the Paper Bugs (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:45 AM** — Get Outside: **The Hide and the Hunt** (70 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Make the Paper Bugs
+**🧰 Complete Materials List:**
+- Coloured paper — greens, browns, greys, plus red, yellow, and bright blue
+- Scissors
+- Markers
+- Pipe cleaners and googly eyes, optional
+- A basket, to carry them out
+- A timer
+
+**📝 Step-by-Step Instructions:**
+1. **Cut twenty simple bug shapes** — a fat oval body, six legs, that's all. She cuts what she can; you do the rest. **Speed matters more than quality here.**
+2. **Ten in bright colours, ten in greens, browns, and greys.** Say nothing yet about why.
+3. She decorates them. **Let the bright ones be as loud as she likes.**
+4. **Outside: she hides all twenty** in one agreed area — on bark, in grass, on a fence, among leaves. **You don't watch.**
+5. **Then you hunt, on a timer.** Two minutes. **Shout each one as you find it and she keeps the tally.**
+6. **Count what's left.** It will be almost entirely the green and brown ones, and she'll spot the pattern herself before you say anything.
+7. **Then swap over** — you hide, she hunts — and let her feel it from the other side.
+8. **Then the real version:** go and find something actually camouflaged outside. A moth on bark, a stick insect shape, a snail matching a stone.
+
+> 💡 **Tip:** Don't explain camouflage first. The whole activity is designed so she works it out from the tally, and telling her in advance removes the only interesting thing about it.
+
+### 🌳 Get Outside: The Hide and the Hunt
+The hiding and hunting is the outdoor block. **Run it three or four times** in different places — grass, bark, gravel, leaf litter — because a bug that's invisible on bark is obvious on gravel, and that's the second half of the idea.
+
+> 👶 **Infant Integration:** Kreston finds the bright ones. Genuinely — he's around 17 months, high-contrast colours are what he spots, and he'll happily be the one who collects the red ones while she works the greens.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Hiding something well means imagining another creature's point of view.**
+> To hide a paper bug properly she has to think about what *you* will see — not what she knows is there. That's perspective-taking, and it's genuinely difficult at four; it's why small children hide behind curtains with their feet showing and are astonished to be found.
+> Hide-and-seek games are one of the few places this gets practised with immediate feedback. She hides it, you find it in four seconds, and she gets information about the gap between her view and yours. Over a morning, the hiding gets markedly better. That improvement is a social-cognitive skill developing in real time, dressed up as a game about bugs.
+
+> 💛 **From Joseph:** Her last hiding place took me the full two minutes and she watched me the entire time with her arms folded.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-300"></a>
+
+## 🌟 Day 300: The Leaf Litter Tray 🌟
+**📅 Wednesday, October 27, 2027**
+**Theme:** Insects & Minibeasts
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:00 AM** — Get Outside: **The Litter Collection** (45 min)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:45 AM** — Main Event: The Leaf Litter Tray (90 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Leaf Litter Tray
+**🧰 Complete Materials List:**
+- A white sheet, pillowcase, or large white tray
+- A bucket of leaf litter — the damp, half-rotted stuff from underneath, not dry leaves off the top
+- Plastic tweezers and a teaspoon
+- Small pots with lids
+- Two magnifying glasses
+- The field guide chart from Day 295
+- A pencil and paper
+
+**📝 Step-by-Step Instructions:**
+1. **Collect the litter outside first**, from under a hedge or a tree. **Take the bottom layer** — dark, damp, and breaking down. That's where everything lives.
+2. **Tip a handful onto the white sheet.** White is essential; everything shows against it and nothing does against brown.
+3. **Wait.** Twenty or thirty seconds of stillness and things start moving. **This is the whole trick of the day and it needs her to sit still, which is the harder half.**
+4. **Sort as you go**, using the tweezers and the spoon: things that move into pots, things that don't into a pile.
+5. **Tally against the chart.** Springtails, mites, woodlice, tiny worms, a beetle if she's lucky. **Most of it will be smaller than she expects.**
+6. **Count the total.** One handful usually beats a whole morning's hunting, and comparing the two numbers is the point.
+7. **Everything, all of it, goes back under the same hedge before lunch.**
+
+> 💡 **Tip:** Do this on a sheet on the floor or on a table outdoors. Half of it ends up off the tray, and being relaxed about that is what lets you do three handfuls instead of one.
+
+### 🌳 Get Outside: The Litter Collection
+A bucket and a trowel, and a hunt for the best spot — under a hedge, in a ditch, under a pile that's been there a while. **Ask her to predict how many creatures are in the bucket** before you tip it out. She'll guess low.
+
+> 👶 **Infant Integration:** Kreston gets a tray of dry leaves with nothing living in it, to crunch and throw. The litter tray has small living things and he is 17 months old — those two facts don't mix.
+
+> 🌍 **Around the World — Eating Insects, Everywhere**
+> Around **two billion people** eat insects regularly, and it's normal food rather than a dare. In **Mexico**, *chapulines* — grasshoppers toasted with lime, chilli and garlic — are sold by the bagful in markets in Oaxaca. In **Thailand**, fried crickets and silkworms are ordinary street food. In **Uganda**, grasshopper season is a genuine event, with the catch cooked and sold everywhere for the few weeks it lasts.
+> **✨ Try it:** Cricket flour is sold online and in some health shops — bake it into biscuits and don't make a fuss about it. If that's a step too far, **make something with honey instead** and talk about the fact that this, too, is food made by an insect, and nobody thinks twice about it.
+> *Did you know?* Insects are far more efficient to farm than cattle — a fraction of the land, water and feed for the same amount of protein.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Sorting living things is harder than sorting objects, because they move.**
+> She's had plenty of practice sorting buttons and blocks. Sorting a tray of leaf litter is a different job: the categories are unfamiliar, the specimens are tiny, several look nearly identical, and — crucially — they don't stay where she puts them.
+> That combination forces a real step up. She has to hold a category in mind while chasing something across a sheet, decide fast, and revise when the thing she called a beetle turns out to have too many legs. It's messy, error-strewn classification under time pressure, which is what actual field biology is. And the count at the end — thirty-odd creatures out of one handful — reliably resets her sense of what's around her.
+
+> 💛 **From Joseph:** Thirty-four things in one handful of leaves. She keeps telling people. So do I, honestly.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-301"></a>
+
+## 🌟 Day 301: The Giant Minibeast 🌟
+**📅 Thursday, October 28, 2027**
+**Theme:** Insects & Minibeasts — *Week 43 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:20 AM** — Morning Meeting: **Choose the Creature** (20 min)
+- **9:20–10:45 AM** — Main Event: The Giant Minibeast (85 min)
+- **10:45–11:00 AM** — Snack (15 min)
+- **11:00–11:45 AM** — Get Outside: **The Release** (45 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Giant Minibeast
+**🧰 Complete Materials List:**
+- Cardboard boxes, several
+- Newspaper, for stuffing
+- An old pair of tights, for a segmented body
+- Pipe cleaners, garden canes, or rolled newspaper for legs
+- Paint and thick markers
+- Tape, string, and glue
+- Card for the labels
+- The field guide chart and the week's drawings
+
+**📝 Step-by-Step Instructions:**
+1. **She picks one creature from the week** — the one she liked best, or the one she saw most.
+2. **Look at it properly first**, from her drawings and the chart. **Count the parts out loud: how many body sections? How many legs? Antennae? Eyes? Wings?**
+3. **Write the numbers on a card and stick it on the wall.** That card is the specification and the build has to match it.
+4. **Build it big.** Body from boxes or stuffed tights, legs from rolled newspaper or canes taped on. **The legs go on the middle section, not the back one**, and she can check that against her drawing.
+5. Paint it. Add eyes, antennae, wings, markings.
+6. **Then the audit.** Walk round it with the card and count everything. **Six legs? Are they in the right place?** Fix what's wrong.
+7. **Label it** and stand it somewhere it will be in the way, which it deserves to be.
+
+> 💡 **Tip:** The counting audit at the end is the actual learning and it's the step most likely to get dropped when everyone's tired. Do it even if it's brief — finding that the model has eight legs and the drawing has six is worth the whole morning.
+
+### 🌳 Get Outside: The Release
+**The worms go back**, to the exact place they were dug from. Everything in every pot goes back. **Then one last short hunt** — check under the same logs from Friday and see if anyone's still there.
+
+> 👶 **Infant Integration:** Kreston helps paint, badly, on a section you've decided doesn't matter. Give him the underside. At 17 months, painting something enormous is a very good time.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Making it enormous is how she checks she knows the parts.**
+> A drawing lets her skip things. A model the size of a dog does not — every leg has to be attached somewhere specific, and the question *where do the legs go?* can't be dodged with a scribble. Building big forces the details into the open.
+> That's why the specification card and the audit matter more than the craft. She's not making a sculpture; she's testing a description against a build and finding the gaps. It's the same move as proofreading, or checking a sum, and it's a genuinely difficult habit to start — going back to look at your own work on purpose, expecting to find something wrong.
+
+> 💛 **From Joseph:** It has six legs, three body parts, and two antennae, and she counted every one of them twice. It's currently blocking the hallway.
+
+<div style="page-break-after: always;"></div>
