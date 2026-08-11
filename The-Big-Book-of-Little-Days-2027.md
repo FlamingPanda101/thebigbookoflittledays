@@ -215,260 +215,6 @@ Every week includes a **🌍 Around the World** box — one window into how anot
 - [**Keepsake Tracker**](#keepsake) — the things worth saving, and when to revisit them
 
 <div style="page-break-after: always;"></div>
-<a id="backup-january"></a>
-
-# 🌧️ January Backup Days
-## *For when the plan doesn't survive the morning*
-
-**January's version of a bad day:** it's dark by five, it's too cold to be out for more than ten minutes, and the walls are closing in. These four days are built for that. Nobody has to go outside. Nothing here needs a store run.
-
----
-
-<a id="jan-weather-1"></a>
-
-## ❄️ Bad Weather Day 1: The Indoor Snowstorm
-**Use when:** It's genuinely too cold or icy to go out, and everyone is already restless by 9 a.m.
-
-### ⏰ At-a-Glance Schedule
-- **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:00 AM** — Main Event: Fake Snow & Snowball Fight (45 min)
-- **10:00–10:15 AM** — Snack: Hot Chocolate (15 min)
-- **10:15–11:00 AM** — Indoor Movement: Living Room Snow Day (45 min)
-- **11:00–11:45 AM** — Quiet Play (45 min)
-- **12:00 PM** — Lunch & Nap Prep
-
-### 🎨 The Main Event: Fake Snow & Indoor Snowballs
-**🧰 Complete Materials List:**
-- 3 cups baking soda
-- ½ cup hair conditioner (any kind)
-- 1 large bin or baking tray
-- Small scoops, cups, toy animals
-- White paper (for the snowballs)
-
-**📝 Step-by-Step Instructions:**
-1. Mix baking soda and conditioner with your hands until it holds a shape when squeezed. It's cold to the touch, moldable, and smells nice.
-2. Let her build tiny snowmen, bury toy animals, and pack it into cups.
-3. Separately, crumple sheets of white paper into "snowballs" — twenty or so.
-4. Have a paper snowball fight. Then a cleanup race to see who can gather the most.
-
-> 💡 **Tip:** The fake snow keeps for a few days in a sealed container. Make it once, use it three times this month.
-
-### 🏃 Indoor Movement: Living Room Snow Day
-Pillows become ice floes — the floor is freezing water and she has to cross without touching it. Rearrange the floes and go again.
-
-> 👶 **Infant Integration:** Baking soda in the mouth is genuinely unpleasant, so keep the bin up on a table. Give Kreston a bowl of crumpled paper balls to grab and drop — at 7 months, that's a legitimately great forty minutes.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Cabin fever is a real physiological thing, not a bad attitude.**
-> Young children need roughly three hours of movement a day, and a good chunk of that needs to be vigorous. When weather takes that away, the energy doesn't evaporate — it comes out as whining, clinginess, and conflict by mid-morning. That behavior isn't defiance, it's an unmet physical need wearing a costume.
-> Which means the fastest fix on a housebound day usually isn't a calmer activity. It's a *harder* one. Ten minutes of crossing pillows, jumping, or crashing into cushions will buy you more peace than an hour of quietly redirecting.
-
-> 💛 **From Joseph:** Cooped-up days are the hardest ones and you handle them better than I would. I mean that.
-
-<div style="page-break-after: always;"></div>
-
-<a id="jan-weather-2"></a>
-
-## 🌨️ Bad Weather Day 2: The Restaurant
-**Use when:** It's grey, it's endless, and she needs something that lasts more than twenty minutes.
-
-### ⏰ At-a-Glance Schedule
-- **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Build the Restaurant (60 min)
-- **10:15–10:30 AM** — Snack *(served by her)* (15 min)
-- **10:30–11:15 AM** — Indoor Movement: Delivery Service (45 min)
-- **11:15 AM–12:00 PM** — Open for Business (45 min)
-- **12:00 PM** — Lunch *(she serves it)*
-
-### 🎨 The Main Event: Build the Restaurant
-**🧰 Complete Materials List:**
-- Paper and crayons (menus)
-- A small notepad (order pad)
-- A tablecloth or towel
-- Play food, or real snack items
-- An apron or dish towel tied on
-
-**📝 Step-by-Step Instructions:**
-1. Make menus together. She draws the food; you write the words underneath as she dictates.
-2. Set one table properly — napkin, cup, the works. Setting a table is real practical-life work.
-3. She takes your order on the notepad in scribbles, then "reads" it back to you.
-4. She serves the real snack.
-5. Swap roles. Being the customer is much less interesting to her, which is itself informative.
-
-> 💡 **Tip:** Order something ridiculous — "I'll have one purple sandwich with worms" — and watch her decide whether to correct you or just go get it. Either answer is delightful.
-
-### 🏃 Indoor Movement: Delivery Service
-She has to deliver each "order" to a different room, walking fast without dropping it. Add a tray once she's confident.
-
-> 👶 **Infant Integration:** Kreston is the restaurant's first customer, in the high chair with his own snack. Let Azlyn hand it to him — she'll take the job seriously and he'll be thrilled she's the one doing it.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Pretend play is where self-control is actually built.**
-> This looks like the least academic activity in the book, and it may be the most valuable. When a child plays a role, she voluntarily follows rules she invented — a waitress doesn't eat the customer's food, doesn't wander off mid-order. Holding herself to that takes real effort.
-> That capacity, holding a rule in mind and inhibiting an impulse, is *executive function*, and it predicts later school success more reliably than early letter recognition does. Studies of children in extended pretend play consistently find they self-regulate longer there than in almost any other setting.
-> So on a day when you feel like you accomplished nothing but playing restaurant: that was the good stuff.
-
-> 💛 **From Joseph:** You make ordinary days feel like something. That's not a small talent — it's most of what a childhood actually is.
-
-<div style="page-break-after: always;"></div>
-
-<a id="jan-sick-1"></a>
-
-## 🤒 Sick Day 1: The Couch Nest
-**Use when:** She's genuinely unwell — feverish, tired, low. Zero standing up required.
-
-### ⏰ At-a-Glance Schedule
-- **Whenever she wakes** — Build the Nest (20 min)
-- **Mid-morning** — Main Event: Sticker Story (30 min, in bursts)
-- **Snack** — Something cold and easy
-- **Late morning** — Read-aloud pile
-- **Nap early.** Sick kids need it and the day doesn't matter.
-
-### 🎨 The Main Event: The Sticker Story
-**🧰 Complete Materials List:**
-- Stickers (any kind)
-- Paper or a cheap notebook
-- Crayons
-
-**📝 Step-by-Step Instructions:**
-1. Build the nest first — pillows, her blanket, water within reach, a towel under her just in case.
-2. Give her a sheet of stickers and paper. Peeling stickers is the perfect sick-day task: fine motor, satisfying, requires no energy.
-3. As she places each one, ask who it is and what they're doing. Write her answer next to it.
-4. By the end you have a story she dictated while lying down. Read it back to her.
-5. Stop the moment she's done. Sick-day activities should end early, not be finished.
-
-> 💡 **Tip:** A cookie sheet across her lap makes a stable surface for a kid who won't sit up. It's the single most useful sick-day tool in the house.
-
-### 🧸 Rest & Wind-Down
-Read the same book as many times as she asks. Familiarity is comforting when a body feels wrong — this is not the day for new stories.
-
-> 👶 **Infant Integration:** If Kreston is well, he needs something and you have no hands. Set him in a contained spot within your sight with three or four new-to-him safe objects — a wooden spoon, a silicone cup, a scarf. Rotating novelty buys more time than a familiar toy will.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Regression during illness is expected, not a setback.**
-> A sick 3-year-old often slides backward — wants to be carried, wants the bottle she gave up, forgets words she had. It can feel alarming, like losing ground. It isn't. When a child's body is under stress, the newest skills are the first to go offline, because they're the least automatic. They come back within days of feeling well.
-> The useful response is to let her have it. Meeting the regression — carrying her, babying her a little — actually shortens it. Holding the line on independence while she's sick tends to stretch it out, because now she's fighting for reassurance on top of being ill.
-
-> 💛 **From Joseph:** Sick days are long and thankless and nobody sees them but you. I see them.
-
-<div style="page-break-after: always;"></div>
-
-<a id="jan-sick-2"></a>
-
-## 🤧 Sick Day 2: The Window Watch
-**Use when:** She's on the mend — bored and cranky, but not up to much.
-
-### ⏰ At-a-Glance Schedule
-- **Slow start** — No schedule. Let her set the pace.
-- **Mid-morning** — Main Event: Window Watching & Window Art (30–40 min)
-- **Snack** — Warm and simple
-- **Midday** — Blanket picnic on the floor
-- **Rest** — Audio story or quiet music
-
-### 🎨 The Main Event: Window Watching & Window Art
-**🧰 Complete Materials List:**
-- Window markers or dry-erase markers (they wipe off glass cleanly)
-- A blanket and pillow by the window
-- Paper and crayons
-
-**📝 Step-by-Step Instructions:**
-1. Set her up on a chair or cushions at the window with a blanket.
-2. Watch together for a while. Count cars. Look for birds. Name the colors of everything that moves.
-3. Let her draw directly on the glass with a window marker — tracing what she sees outside, or just decorating.
-4. If she wants, draw a bird feeder's worth of birdseed on the sill in marker and pretend.
-5. Wipe it off together at the end, or leave it up for a few days.
-
-> 💡 **Tip:** Drawing on the window is such a novelty that it holds a low-energy kid far longer than paper would. Test the marker on a corner first.
-
-### 🧸 Rest & Wind-Down
-Floor picnic on a blanket. Everything tastes better and no one has to sit up at a table.
-
-> 👶 **Infant Integration:** Prop Kreston beside her at the window. At 7 months, moving cars and swaying branches are legitimately absorbing — this is one of the few activities where they can genuinely do the same thing at the same time.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Boredom on the mend is a good sign, and a useful one.**
-> The transition from *too sick to care* to *bored and irritable* is usually the first reliable signal of recovery. It's also the hardest stretch of the illness for you — she has energy for complaint but not for activity.
-> Something worth knowing here: boredom itself is not a problem to be solved immediately. Children who are occasionally left to be bored show more inventive play afterward. The pause where she has nothing to do is where she starts generating ideas. You do not have to fill every gap. On a recovery day, a slightly under-stimulating morning is closer to right than a packed one.
-
-> 💛 **From Joseph:** You never once make them feel like being sick is an inconvenience. I hope somebody did that for you when you were small.
-
-<div style="page-break-after: always;"></div>
-
-<a id="jan-extras"></a>
-
-## ✨ January — Extra Ideas
-### *When you just need one more thing*
-
----
-
-### 🎲 Alternative Activities
-
-**Sock Basketball** — Rolled socks, laundry basket. Move the basket further after each score. The best indoor energy burner there is.
-
-**The Mystery Bag** — Five objects in a pillowcase. She reaches in and guesses by feel. Then she fills it for you.
-
-**Frozen Treasure** — Freeze small toys in a bowl of water overnight. Warm water and a spoon to rescue them. Buys thirty focused minutes.
-
-**Indoor Bowling** — Six plastic bottles, one soft ball. Add a little water to the bottles so they don't tip too easily.
-
-**Flashlight Hide-and-Seek** — Turn the lights off, hide a stuffed animal, and search with a flashlight. Thrilling at this age.
-
-**Match the Lids** — Empty the Tupperware cupboard and match every lid to its container. Real sorting practice, and your cupboard ends up organized.
-
-**Balloon Keep-Up** — Don't let it touch the floor. Then hands only. Then feet only. Then heads.
-
-**Laundry Sort** — Sort by color, then by whose it is, then by size. She thinks it's a game.
-
-**Obstacle Course** — Cushions, a chair to crawl under, a taped line to balance along. Rearrange it and run it again.
-
-**Yes Hour** — For one hour, she decides everything. What you play, what order, what you wear on your head. Costs you nothing and means an enormous amount.
-
-**Teach Kreston Something** — Give her a real job: teach her brother to clap, or wave, or stack two blocks. Being the expert is very good for a big sister.
-
----
-
-### 🎨 Alternative Arts & Crafts
-
-**Paint With Water** — A brush and a cup of water on dark construction paper. Marks appear, then slowly vanish. Zero mess, weirdly mesmerizing.
-
-**The Sticky Wall** — Contact paper taped sticky-side-out at her height, plus a bowl of scraps to press on. She'll rearrange it for an hour.
-
-**Salt Tray Writing** — A baking sheet with a layer of salt. Trace letters, shapes, and squiggles with a finger. Shake flat and start again.
-
-**Torn Paper Collage** — No scissors needed. Tearing paper is excellent hand-strengthening, and the ragged edges look great glued down.
-
-**Cotton Ball Snow Scene** — Blue paper, glue, cotton balls pulled thin. A snowy hill, a snowman, a sky.
-
-**Foil Sculpture** — A roll of aluminum foil and nothing else. Squeeze it into animals, people, towers. Endlessly re-formable.
-
-**Coffee Filter Color Bloom** — Draw on a coffee filter with washable markers, then touch a wet brush to it and watch the colors spread.
-
-**Cardboard Tube Stamps** — Pinch the end of a toilet paper tube into a heart, teardrop, or square, dip in paint, and stamp.
-
-**Sticker Resist** — Stick stickers on paper, paint over everything, peel the stickers off when dry. The shapes appear underneath.
-
-**Egg Carton Anything** — Cut into cups: caterpillars, flowers, little creatures with pipe-cleaner legs. One carton, a dozen possibilities.
-
-**Big Paper Day** — Tape the biggest paper you have to the floor and leave it there all day. Both kids add to it between other things.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **On the days you use this page instead of the plan.**
-> There's a well-documented finding that children benefit less from the *quality* of a given activity than from the predictability of the relationship around it. A day where you abandoned the plan, handed her a bag of socks, and laughed on the floor for twenty minutes registers as a good day to her — because you were available and warm, which is the actual active ingredient.
-> The plan is a convenience for you, not a curriculum she's owed. Pages like this one exist so that on the days you've got nothing left, the bar is already where it should be: low, warm, and together.
-
-> 💛 **From Joseph:** This page exists because I know some days you're running on empty. On those days you're still exactly the mom they need.
-
-<div style="page-break-after: always;"></div>
 <a id="booklet-january"></a>
 
 # 📘 January
@@ -2506,264 +2252,258 @@ Last winter scavenger of the month. Something bare, evergreen, frozen, red, and 
 > 💛 **From Joseph:** One month down. Thirty-five days of you showing up for them, and it's only the beginning of the year. I'm proud of you.
 
 <div style="page-break-after: always;"></div>
-<a id="backup-february"></a>
+<a id="backup-january"></a>
 
-# 🌧️ February Backup Days
+# 🌧️ January Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**February's version of a bad day:** the novelty of winter has completely worn off, it's grey, everything is damp rather than pretty, and everyone has been indoors since November. This is the month cabin fever actually bites. These four days are built for the slog.
+**January's version of a bad day:** it's dark by five, it's too cold to be out for more than ten minutes, and the walls are closing in. These four days are built for that. Nobody has to go outside. Nothing here needs a store run.
 
 ---
 
-<a id="feb-weather-1"></a>
+<a id="jan-weather-1"></a>
 
-## 🌫️ Bad Weather Day 1: The Indoor Beach
-**Use when:** It's grey and freezing and everyone needs to remember that warmth exists.
-
-### ⏰ At-a-Glance Schedule
-- **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Build the Beach (60 min)
-- **10:15–10:30 AM** — Snack: Something Tropical (15 min)
-- **10:30–11:15 AM** — Indoor Movement: The Floor Is Water (45 min)
-- **11:15 AM–12:00 PM** — Beach Play (45 min)
-- **12:00 PM** — Lunch *(picnic on the towel)*
-
-### 🎨 The Main Event: Build the Beach
-**🧰 Complete Materials List:**
-- Beach towels
-- A bin of dry rice or dry oats (the sand)
-- Cups, scoops, small containers
-- Sunglasses, sun hats, swimsuits if she wants
-- A lamp, angled at the towels
-- Blue fabric or a blue sheet (the sea)
-
-**📝 Step-by-Step Instructions:**
-1. Lay towels out in the warmest room. Angle a lamp at them for "sun." Turn the heat up a notch.
-2. Put the rice bin at the edge as sand — scooping, pouring, burying things.
-3. Spread the blue sheet as the ocean.
-4. Everyone changes into summer clothes. This is deeply funny in February and completely worth it.
-5. Have snack and lunch on the towels. Tropical fruit if you have it.
-
-> 💡 **Tip:** Put the rice bin inside a bedsheet with the corners raised. When you're done, gather the corners and pour it straight back in. Saves twenty minutes of sweeping.
-
-### 🏃 Indoor Movement: The Floor Is Water
-Cushions become islands. Cross the room without touching the "ocean." Rearrange the islands and go again, further apart each time.
-
-> 👶 **Infant Integration:** Rice is a choking hazard for a 9-month-old — keep the bin raised on a low table she can reach and he can't. Give Kreston his own towel with a few large safe beach toys, and put him in a sun hat for the photo.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Novelty is a genuine intervention, not a frivolity.**
-> By February, the house has become entirely predictable to a 3-year-old — she knows every room, every toy, every routine. Novelty drives dopamine, which drives engagement, and its absence is a real part of why late winter days feel so long and so whiny.
-> The useful insight is that novelty doesn't require new things. Changing the *context* works nearly as well: eating lunch on the floor, playing in a different room, swimsuits in February, sleeping the wrong way round in bed. Cheap, instant, and often the difference between a hard afternoon and an easy one.
-
-> 💛 **From Joseph:** February is the long one. You get through it every year and I don't think anyone ever says thank you for that.
-
-<div style="page-break-after: always;"></div>
-
-<a id="feb-weather-2"></a>
-
-## 🌧️ Bad Weather Day 2: The Museum
-**Use when:** It's a write-off outside and she needs something with structure and dignity to it.
+## ❄️ Bad Weather Day 1: The Indoor Snowstorm
+**Use when:** It's genuinely too cold or icy to go out, and everyone is already restless by 9 a.m.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Curate the Museum (60 min)
-- **10:15–10:30 AM** — Snack: Museum Café (15 min)
-- **10:30–11:15 AM** — Indoor Movement: Statue Gallery (45 min)
-- **11:15 AM–12:00 PM** — Give Tours (45 min)
+- **9:15–10:00 AM** — Main Event: Fake Snow & Snowball Fight (45 min)
+- **10:00–10:15 AM** — Snack: Hot Chocolate (15 min)
+- **10:15–11:00 AM** — Indoor Movement: Living Room Snow Day (45 min)
+- **11:00–11:45 AM** — Quiet Play (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Curate the Museum
+### 🎨 The Main Event: Fake Snow & Indoor Snowballs
 **🧰 Complete Materials List:**
-- Objects from around the house — her collections, rocks, shells, favorite toys, this month's crafts
-- Index cards and markers (labels)
-- A table, shelf, or windowsill
-- Paper for tickets
+- 3 cups baking soda
+- ½ cup hair conditioner (any kind)
+- 1 large bin or baking tray
+- Small scoops, cups, toy animals
+- White paper (for the snowballs)
 
 **📝 Step-by-Step Instructions:**
-1. She chooses the exhibits. Anything counts — a rock, a good stick, a toy dinosaur, a photo.
-2. Arrange them in a row with space between. Space is what makes it a museum instead of a pile.
-3. Make a label for each: she dictates, you write. *"Rock. Found at the park. It is very smooth."*
-4. Make tickets. Everyone in the house has to have one to enter.
-5. She gives the tour. Ask real questions about each object.
+1. Mix baking soda and conditioner with your hands until it holds a shape when squeezed. It's cold to the touch, moldable, and smells nice.
+2. Let her build tiny snowmen, bury toy animals, and pack it into cups.
+3. Separately, crumple sheets of white paper into "snowballs" — twenty or so.
+4. Have a paper snowball fight. Then a cleanup race to see who can gather the most.
 
-> 💡 **Tip:** Take the labels seriously and write exactly what she says. Grave, formal labels on absurd objects is the entire charm of this activity.
+> 💡 **Tip:** The fake snow keeps for a few days in a sealed container. Make it once, use it three times this month.
 
-### 🏃 Indoor Movement: Statue Gallery
-You're both statues. When the music plays you move; when it stops you freeze in a pose. Take turns being the visitor who walks around and inspects the statues.
+### 🏃 Indoor Movement: Living Room Snow Day
+Pillows become ice floes — the floor is freezing water and she has to cross without touching it. Rearrange the floes and go again.
 
-> 👶 **Infant Integration:** Kreston gets a ticket and a tour. Hold him at each exhibit while Azlyn explains. Give him one soft object as a "hands-on exhibit" so he isn't grabbing the real ones.
+> 👶 **Infant Integration:** Baking soda in the mouth is genuinely unpleasant, so keep the bin up on a table. Give Kreston a bowl of crumpled paper balls to grab and drop — at 7 months, that's a legitimately great forty minutes.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Collecting and categorizing peaks around now.**
-> Somewhere between three and six, most children develop a real drive to gather, sort, and organize — rocks, stickers, bottle caps, small plastic anything. It looks like hoarding. It's actually the same categorical thinking that underpins mathematics and science, expressed as a hobby.
-> Two things help. First, give the collection a home — a box, a shelf, a tin — because a collection with nowhere to live gets thrown out and that genuinely stings. Second, ask her to explain her sorting rule. It's often not the one you'd guess, and the reasoning is usually more interesting than the objects.
+> **Cabin fever is a real physiological thing, not a bad attitude.**
+> Young children need roughly three hours of movement a day, and a good chunk of that needs to be vigorous. When weather takes that away, the energy doesn't evaporate — it comes out as whining, clinginess, and conflict by mid-morning. That behavior isn't defiance, it's an unmet physical need wearing a costume.
+> Which means the fastest fix on a housebound day usually isn't a calmer activity. It's a *harder* one. Ten minutes of crossing pillows, jumping, or crashing into cushions will buy you more peace than an hour of quietly redirecting.
 
-> 💛 **From Joseph:** You keep their rocks. There's a jar in the kitchen full of rocks that mean nothing to anyone but them, and you've never once emptied it.
+> 💛 **From Joseph:** Cooped-up days are the hardest ones and you handle them better than I would. I mean that.
 
 <div style="page-break-after: always;"></div>
 
-<a id="feb-sick-1"></a>
+<a id="jan-weather-2"></a>
 
-## 🤒 Sick Day 1: The Blanket Boat
-**Use when:** She's properly unwell — feverish, tired, floppy. Everything happens horizontally.
+## 🌨️ Bad Weather Day 2: The Restaurant
+**Use when:** It's grey, it's endless, and she needs something that lasts more than twenty minutes.
 
 ### ⏰ At-a-Glance Schedule
-- **Whenever she wakes** — Build the boat (20 min)
-- **Mid-morning** — Main Event: Sail Somewhere (20–30 min, in bursts)
-- **Snack** — Cold and simple
-- **Late morning** — Books in the boat
-- **Nap early.** Don't fight it.
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Build the Restaurant (60 min)
+- **10:15–10:30 AM** — Snack *(served by her)* (15 min)
+- **10:30–11:15 AM** — Indoor Movement: Delivery Service (45 min)
+- **11:15 AM–12:00 PM** — Open for Business (45 min)
+- **12:00 PM** — Lunch *(she serves it)*
 
-### 🎨 The Main Event: Sail Somewhere
+### 🎨 The Main Event: Build the Restaurant
 **🧰 Complete Materials List:**
-- Couch cushions or her bed
-- Blankets and pillows
-- A cardboard tube (telescope)
-- Paper and crayons on a cookie sheet
-- A blue blanket, if you have one
+- Paper and crayons (menus)
+- A small notepad (order pad)
+- A tablecloth or towel
+- Play food, or real snack items
+- An apron or dish towel tied on
 
 **📝 Step-by-Step Instructions:**
-1. Build a boat around her where she already is. Cushions as sides, blue blanket as sea. She doesn't move.
-2. Give her the telescope. Ask what she can see from the boat.
-3. "Sail" somewhere — an island, the North Pole, a place she invents. Describe it out loud together.
-4. If she has any energy, draw a map of where you went on the cookie sheet.
-5. If she doesn't, just narrate it to her while she lies there. That counts.
+1. Make menus together. She draws the food; you write the words underneath as she dictates.
+2. Set one table properly — napkin, cup, the works. Setting a table is real practical-life work.
+3. She takes your order on the notepad in scribbles, then "reads" it back to you.
+4. She serves the real snack.
+5. Swap roles. Being the customer is much less interesting to her, which is itself informative.
 
-> 💡 **Tip:** The whole activity is designed so it works even if she contributes nothing. On a genuinely rough day, you telling her a story about where the boat is going *is* the activity.
+> 💡 **Tip:** Order something ridiculous — "I'll have one purple sandwich with worms" — and watch her decide whether to correct you or just go get it. Either answer is delightful.
 
-### 🧸 Rest & Wind-Down
-Books in the boat. Same book repeatedly if that's what she wants — familiarity is what a sick body wants.
+### 🏃 Indoor Movement: Delivery Service
+She has to deliver each "order" to a different room, walking fast without dropping it. Add a tray once she's confident.
 
-> 👶 **Infant Integration:** If Kreston is well, this is a hard combination — a mobile 9-month-old and a sick preschooler. Set up a contained safe zone in the same room where you can see both, and rotate three or four objects through it. Getting through the day is the goal; nothing else.
+> 👶 **Infant Integration:** Kreston is the restaurant's first customer, in the high chair with his own snack. Let Azlyn hand it to him — she'll take the job seriously and he'll be thrilled she's the one doing it.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Sick days need less input, not more.**
-> The instinct is to entertain a miserable child. But an unwell body is already working hard, and stimulation costs energy that isn't spare. Most sick children do better with a quiet room, dim light, one familiar activity, and a parent nearby than with a rotating program.
-> There's also something worth knowing about presence: for a young child, *being near you* is regulating in itself — heart rate and stress hormones settle in the presence of a calm caregiver. So sitting on the floor next to her doing nothing is not a wasted morning. It's the active ingredient.
+> **Pretend play is where self-control is actually built.**
+> This looks like the least academic activity in the book, and it may be the most valuable. When a child plays a role, she voluntarily follows rules she invented — a waitress doesn't eat the customer's food, doesn't wander off mid-order. Holding herself to that takes real effort.
+> That capacity, holding a rule in mind and inhibiting an impulse, is *executive function*, and it predicts later school success more reliably than early letter recognition does. Studies of children in extended pretend play consistently find they self-regulate longer there than in almost any other setting.
+> So on a day when you feel like you accomplished nothing but playing restaurant: that was the good stuff.
 
-> 💛 **From Joseph:** On the days you feel like you did nothing, you were there the whole time. That was the thing that was needed.
+> 💛 **From Joseph:** You make ordinary days feel like something. That's not a small talent — it's most of what a childhood actually is.
 
 <div style="page-break-after: always;"></div>
 
-<a id="feb-sick-2"></a>
+<a id="jan-sick-1"></a>
 
-## 🤧 Sick Day 2: The Sticker Hospital
-**Use when:** She's recovering — bored, cranky, low energy, tired of lying down.
+## 🤒 Sick Day 1: The Couch Nest
+**Use when:** She's genuinely unwell — feverish, tired, low. Zero standing up required.
 
 ### ⏰ At-a-Glance Schedule
-- **Slow start** — Let her set the pace
-- **Mid-morning** — Main Event: The Animal Hospital (30–40 min)
-- **Snack** — Warm and easy
-- **Midday** — Floor picnic
-- **Rest** — Quiet music or an audio story
+- **Whenever she wakes** — Build the Nest (20 min)
+- **Mid-morning** — Main Event: Sticker Story (30 min, in bursts)
+- **Snack** — Something cold and easy
+- **Late morning** — Read-aloud pile
+- **Nap early.** Sick kids need it and the day doesn't matter.
 
-### 🎨 The Main Event: The Animal Hospital
+### 🎨 The Main Event: The Sticker Story
 **🧰 Complete Materials List:**
-- Stuffed animals
-- Bandaids (a whole box — this is the point)
-- Cotton balls
-- A tea towel (blanket for patients)
-- Paper for charts, and a crayon
+- Stickers (any kind)
+- Paper or a cheap notebook
+- Crayons
 
 **📝 Step-by-Step Instructions:**
-1. All the stuffed animals are unwell. She's the doctor. She stays on the couch; the patients come to her.
-2. Give her the box of bandaids and let her use as many as she wants. This is the whole appeal, and rationing them ruins it.
-3. Cotton balls for cleaning. A tea towel to tuck patients in.
-4. Make a chart for each patient — she scribbles, you write down her diagnosis.
-5. Ask her what each animal needs to feel better. Her answers will tell you exactly what she wants from you.
+1. Build the nest first — pillows, her blanket, water within reach, a towel under her just in case.
+2. Give her a sheet of stickers and paper. Peeling stickers is the perfect sick-day task: fine motor, satisfying, requires no energy.
+3. As she places each one, ask who it is and what they're doing. Write her answer next to it.
+4. By the end you have a story she dictated while lying down. Read it back to her.
+5. Stop the moment she's done. Sick-day activities should end early, not be finished.
 
-> 💡 **Tip:** Listen closely to how she talks to the patients. A child who's been sick often plays out her own care, and you'll hear your own phrases coming back at you.
+> 💡 **Tip:** A cookie sheet across her lap makes a stable surface for a kid who won't sit up. It's the single most useful sick-day tool in the house.
 
 ### 🧸 Rest & Wind-Down
-Everyone naps — patients included. Tuck the animals in around her.
+Read the same book as many times as she asks. Familiarity is comforting when a body feels wrong — this is not the day for new stories.
 
-> 👶 **Infant Integration:** Kreston can be a patient. Azlyn will put a bandaid on him with enormous seriousness. Peel it off once she's moved on — bandaids and 9-month-olds don't mix.
+> 👶 **Infant Integration:** If Kreston is well, he needs something and you have no hands. Set him in a contained spot within your sight with three or four new-to-him safe objects — a wooden spoon, a silicone cup, a scarf. Rotating novelty buys more time than a familiar toy will.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Play is how children process what's happened to them.**
-> After a doctor's visit, an illness, or anything frightening, children often replay it — repeatedly, sometimes obsessively. This isn't distress; it's the main way a preschooler works through experience. In play she's in control of a situation where she wasn't.
-> The most useful thing you can do is let it run without steering it, and follow her lead if invited. If she gives a patient a scary diagnosis, don't soften it. She's testing an idea. Children who are allowed to play out difficult experiences tend to recover from them faster than children who are distracted away from them.
+> **Regression during illness is expected, not a setback.**
+> A sick 3-year-old often slides backward — wants to be carried, wants the bottle she gave up, forgets words she had. It can feel alarming, like losing ground. It isn't. When a child's body is under stress, the newest skills are the first to go offline, because they're the least automatic. They come back within days of feeling well.
+> The useful response is to let her have it. Meeting the regression — carrying her, babying her a little — actually shortens it. Holding the line on independence while she's sick tends to stretch it out, because now she's fighting for reassurance on top of being ill.
 
-> 💛 **From Joseph:** She's going to grow up gentle because of how you take care of her when she's sick. That's where kids learn it.
+> 💛 **From Joseph:** Sick days are long and thankless and nobody sees them but you. I see them.
 
 <div style="page-break-after: always;"></div>
 
-<a id="feb-extras"></a>
+<a id="jan-sick-2"></a>
 
-## ✨ February — Extra Ideas
+## 🤧 Sick Day 2: The Window Watch
+**Use when:** She's on the mend — bored and cranky, but not up to much.
+
+### ⏰ At-a-Glance Schedule
+- **Slow start** — No schedule. Let her set the pace.
+- **Mid-morning** — Main Event: Window Watching & Window Art (30–40 min)
+- **Snack** — Warm and simple
+- **Midday** — Blanket picnic on the floor
+- **Rest** — Audio story or quiet music
+
+### 🎨 The Main Event: Window Watching & Window Art
+**🧰 Complete Materials List:**
+- Window markers or dry-erase markers (they wipe off glass cleanly)
+- A blanket and pillow by the window
+- Paper and crayons
+
+**📝 Step-by-Step Instructions:**
+1. Set her up on a chair or cushions at the window with a blanket.
+2. Watch together for a while. Count cars. Look for birds. Name the colors of everything that moves.
+3. Let her draw directly on the glass with a window marker — tracing what she sees outside, or just decorating.
+4. If she wants, draw a bird feeder's worth of birdseed on the sill in marker and pretend.
+5. Wipe it off together at the end, or leave it up for a few days.
+
+> 💡 **Tip:** Drawing on the window is such a novelty that it holds a low-energy kid far longer than paper would. Test the marker on a corner first.
+
+### 🧸 Rest & Wind-Down
+Floor picnic on a blanket. Everything tastes better and no one has to sit up at a table.
+
+> 👶 **Infant Integration:** Prop Kreston beside her at the window. At 7 months, moving cars and swaying branches are legitimately absorbing — this is one of the few activities where they can genuinely do the same thing at the same time.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Boredom on the mend is a good sign, and a useful one.**
+> The transition from *too sick to care* to *bored and irritable* is usually the first reliable signal of recovery. It's also the hardest stretch of the illness for you — she has energy for complaint but not for activity.
+> Something worth knowing here: boredom itself is not a problem to be solved immediately. Children who are occasionally left to be bored show more inventive play afterward. The pause where she has nothing to do is where she starts generating ideas. You do not have to fill every gap. On a recovery day, a slightly under-stimulating morning is closer to right than a packed one.
+
+> 💛 **From Joseph:** You never once make them feel like being sick is an inconvenience. I hope somebody did that for you when you were small.
+
+<div style="page-break-after: always;"></div>
+
+<a id="jan-extras"></a>
+
+## ✨ January — Extra Ideas
 ### *When you just need one more thing*
 
 ---
 
 ### 🎲 Alternative Activities
 
-**Indoor Snowball Fight** — Crumple twenty sheets of paper. Two teams, thirty seconds, then a cleanup race to see who gathers most.
+**Sock Basketball** — Rolled socks, laundry basket. Move the basket further after each score. The best indoor energy burner there is.
 
-**Hot Chocolate Shop** — She takes orders, adds marshmallows, delivers to everyone in the house. Real drinks, real customers.
+**The Mystery Bag** — Five objects in a pillowcase. She reaches in and guesses by feel. Then she fills it for you.
 
-**The Freeze Game** — Music on, dance. Music off, freeze. Add rules: freeze on one foot, freeze like an animal, freeze low.
+**Frozen Treasure** — Freeze small toys in a bowl of water overnight. Warm water and a spoon to rescue them. Buys thirty focused minutes.
 
-**Hide the Heart** — Hide a paper heart somewhere in the room. Warmer/colder as she searches. Then she hides it for you.
+**Indoor Bowling** — Six plastic bottles, one soft ball. Add a little water to the bottles so they don't tip too easily.
 
-**Sock Match Race** — Dump the clean socks and race to pair them. Genuinely useful and genuinely fun.
+**Flashlight Hide-and-Seek** — Turn the lights off, hide a stuffed animal, and search with a flashlight. Thrilling at this age.
 
-**Pillow Path** — Cushions across the floor as stepping stones. The floor is lava, ice, or ocean. Move them further apart each round.
+**Match the Lids** — Empty the Tupperware cupboard and match every lid to its container. Real sorting practice, and your cupboard ends up organized.
 
-**Flashlight Tag** — Lights off, shine a flashlight, she has to step on the light spot before it moves.
+**Balloon Keep-Up** — Don't let it touch the floor. Then hands only. Then feet only. Then heads.
 
-**Restaurant** — Menus, an order pad, and a tea-towel apron. Runs longer than almost anything else in this list.
+**Laundry Sort** — Sort by color, then by whose it is, then by size. She thinks it's a game.
 
-**Marching Band** — Pots, wooden spoons, and this month's shakers. March through every room in the house.
+**Obstacle Course** — Cushions, a chair to crawl under, a taped line to balance along. Rearrange it and run it again.
 
-**Balloon Volleyball** — A taped line on the floor, one balloon, don't let it land. Slow enough that she can actually succeed.
+**Yes Hour** — For one hour, she decides everything. What you play, what order, what you wear on your head. Costs you nothing and means an enormous amount.
 
-**The Long Hug Contest** — Who can hug longest. Silly, and it's deep-pressure input that calms a frayed kid down fast.
-
-**Kreston's Turn** — Post objects into a box with a slot, empty a basket and refill it, or crawl through a cushion tunnel. Twenty solid minutes for a 9-month-old.
+**Teach Kreston Something** — Give her a real job: teach her brother to clap, or wave, or stack two blocks. Being the expert is very good for a big sister.
 
 ---
 
 ### 🎨 Alternative Arts & Crafts
 
-**Doily Snowflakes** — Fold a paper doily and cut shapes. The pattern is already there so it looks impressive with no skill.
+**Paint With Water** — A brush and a cup of water on dark construction paper. Marks appear, then slowly vanish. Zero mess, weirdly mesmerizing.
 
-**Heart Chain Garland** — Strips of red and pink paper looped and glued into a chain. Counting practice hiding inside a decoration.
+**The Sticky Wall** — Contact paper taped sticky-side-out at her height, plus a bowl of scraps to press on. She'll rearrange it for an hour.
 
-**Coffee Filter Flowers** — Marker on a filter, spritz with water, dry, then pinch the middle and twist a pipe cleaner around it.
+**Salt Tray Writing** — A baking sheet with a layer of salt. Trace letters, shapes, and squiggles with a finger. Shake flat and start again.
 
-**Foil Sculpture** — A roll of foil, nothing else. Squeeze into animals and towers. Undo and start again.
+**Torn Paper Collage** — No scissors needed. Tearing paper is excellent hand-strengthening, and the ragged edges look great glued down.
 
-**Cotton Ball Sheep** — Black paper, a drawn outline, cotton balls glued in to fill it. Simple and satisfying.
+**Cotton Ball Snow Scene** — Blue paper, glue, cotton balls pulled thin. A snowy hill, a snowman, a sky.
 
-**Tissue Paper Stained Glass** — Contact paper sticky-side-out, tissue squares pressed on, sealed with a second sheet. Tape to a window.
+**Foil Sculpture** — A roll of aluminum foil and nothing else. Squeeze it into animals, people, towers. Endlessly re-formable.
 
-**Salt Painting** — Draw with glue, pour salt over it, shake off the excess, then touch watercolor to the salt lines and watch it travel.
+**Coffee Filter Color Bloom** — Draw on a coffee filter with washable markers, then touch a wet brush to it and watch the colors spread.
 
-**Paper Bag Puppets** — A lunch bag, a face, and yarn hair. The fold in the bag becomes the moving mouth.
+**Cardboard Tube Stamps** — Pinch the end of a toilet paper tube into a heart, teardrop, or square, dip in paint, and stamp.
 
-**Button Collage** — Glue buttons onto card in a pattern, a shape, or a picture. Great pincer practice.
+**Sticker Resist** — Stick stickers on paper, paint over everything, peel the stickers off when dry. The shapes appear underneath.
 
-**Marble Painting** — Paper in a box lid, blobs of paint, one marble. Tilt the lid and let it roll. Supervise closely — marbles are a serious hazard.
+**Egg Carton Anything** — Cut into cups: caterpillars, flowers, little creatures with pipe-cleaner legs. One carton, a dozen possibilities.
 
-**Handprint Anything** — Handprints are the whole craft. A heart from two prints, a tree, a bird. Date every one.
+**Big Paper Day** — Tape the biggest paper you have to the floor and leave it there all day. Both kids add to it between other things.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **The best activity is the one you actually have energy for.**
-> An enthusiastic parent doing something simple beats a depleted parent doing something elaborate. Children read affect far more accurately than adults assume — they know when you're going through the motions, and a resentfully-executed craft doesn't land as warmth.
-> So the honest calculus on a hard day isn't "what's the best activity" — it's "what can I do without running myself down." Twenty minutes of sock matching where you're actually present is worth more than an hour of a project you're gritting your teeth through. Pick down the list, not up it.
+> **On the days you use this page instead of the plan.**
+> There's a well-documented finding that children benefit less from the *quality* of a given activity than from the predictability of the relationship around it. A day where you abandoned the plan, handed her a bag of socks, and laughed on the floor for twenty minutes registers as a good day to her — because you were available and warm, which is the actual active ingredient.
+> The plan is a convenience for you, not a curriculum she's owed. Pages like this one exist so that on the days you've got nothing left, the bar is already where it should be: low, warm, and together.
 
-> 💛 **From Joseph:** Pick the easy one. Nobody's grading you and I'd rather have you rested than impressive.
+> 💛 **From Joseph:** This page exists because I know some days you're running on empty. On those days you're still exactly the mom they need.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-february"></a>
@@ -4410,263 +4150,264 @@ Last winter scavenger — spring is close now. Note what's changed since January
 > 💛 **From Joseph:** Two months in. Sixty-three days of showing up. I hope you're keeping her drawings — I'd like to see all of them someday, in a row.
 
 <div style="page-break-after: always;"></div>
-<a id="backup-march"></a>
+<a id="backup-february"></a>
 
-# 🌧️ March Backup Days
+# 🌧️ February Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**March's version of a bad day:** cold rain rather than pretty snow, mud everywhere, wind that makes going out miserable, and the frustrating in-between where it's *nearly* spring but not enough to actually enjoy. These four days are built for the transition.
+**February's version of a bad day:** the novelty of winter has completely worn off, it's grey, everything is damp rather than pretty, and everyone has been indoors since November. This is the month cabin fever actually bites. These four days are built for the slog.
 
 ---
 
-<a id="mar-weather-1"></a>
+<a id="feb-weather-1"></a>
 
-## 🌧️ Bad Weather Day 1: The Indoor Rain Day
-**Use when:** It's pouring, it's cold rain rather than fun rain, and going out means everyone's soaked and miserable.
+## 🌫️ Bad Weather Day 1: The Indoor Beach
+**Use when:** It's grey and freezing and everyone needs to remember that warmth exists.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Rain in a Jar & Rain Music (60 min)
-- **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — Indoor Movement: Jump the Puddles (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
-- **12:00 PM** — Lunch & Nap Prep
+- **9:15–10:15 AM** — Main Event: Build the Beach (60 min)
+- **10:15–10:30 AM** — Snack: Something Tropical (15 min)
+- **10:30–11:15 AM** — Indoor Movement: The Floor Is Water (45 min)
+- **11:15 AM–12:00 PM** — Beach Play (45 min)
+- **12:00 PM** — Lunch *(picnic on the towel)*
 
-### 🎨 The Main Event: Rain in a Jar & Rain Music
+### 🎨 The Main Event: Build the Beach
 **🧰 Complete Materials List:**
-- A clear jar, water, shaving cream
-- Blue food coloring in a cup, plus a pipette or spoon
-- Pots, pans, a metal tray, a plastic tub
-- Wooden spoons
+- Beach towels
+- A bin of dry rice or dry oats (the sand)
+- Cups, scoops, small containers
+- Sunglasses, sun hats, swimsuits if she wants
+- A lamp, angled at the towels
+- Blue fabric or a blue sheet (the sea)
 
 **📝 Step-by-Step Instructions:**
-1. **Rain cloud in a jar:** fill the jar ¾ with water, top with a thick layer of shaving cream as the cloud.
-2. She drips blue colored water onto the cloud a drop at a time. Nothing happens, then suddenly it "rains" down through into the water.
-3. Explain simply: *"The cloud fills up until it can't hold any more, and then it rains."*
-4. **Rain music:** set up pots and pans and make rain sounds — light drizzle with fingertips, heavy downpour with spoons, thunder on the big pot.
-5. Go to the window and compare your rain to the real rain.
+1. Lay towels out in the warmest room. Angle a lamp at them for "sun." Turn the heat up a notch.
+2. Put the rice bin at the edge as sand — scooping, pouring, burying things.
+3. Spread the blue sheet as the ocean.
+4. Everyone changes into summer clothes. This is deeply funny in February and completely worth it.
+5. Have snack and lunch on the towels. Tropical fruit if you have it.
 
-> 💡 **Tip:** The waiting is the good bit. Add drops slowly and let her be surprised when it finally breaks through — adding them fast ruins the effect.
+> 💡 **Tip:** Put the rice bin inside a bedsheet with the corners raised. When you're done, gather the corners and pour it straight back in. Saves twenty minutes of sweeping.
 
-### 🏃 Indoor Movement: Jump the Puddles
-Paper plates or cushions on the floor as puddles. Jump from one to the next without touching the floor. Move them further apart each round.
+### 🏃 Indoor Movement: The Floor Is Water
+Cushions become islands. Cross the room without touching the "ocean." Rearrange the islands and go again, further apart each time.
 
-> 👶 **Infant Integration:** Shaving cream is not for a 10-month-old's mouth. Keep the jar high. Give Kreston a metal bowl and a wooden spoon — he'll happily provide the thunder section.
+> 👶 **Infant Integration:** Rice is a choking hazard for a 9-month-old — keep the bin raised on a low table she can reach and he can't. Give Kreston his own towel with a few large safe beach toys, and put him in a sun hat for the photo.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Weather is one of the best first sciences, because it's already happening.**
-> A child sees weather every day, has opinions about it, and is affected by it. That existing relationship makes it a far better entry point than something abstract. And a jar demonstration works because it maps a huge invisible process onto a small visible one.
-> The key move is connecting the model back to the real thing immediately: do the jar, then go and look out the window. Without that step it's a fun trick; with it, she has a mental model she can apply every time it rains for the rest of her life.
+> **Novelty is a genuine intervention, not a frivolity.**
+> By February, the house has become entirely predictable to a 3-year-old — she knows every room, every toy, every routine. Novelty drives dopamine, which drives engagement, and its absence is a real part of why late winter days feel so long and so whiny.
+> The useful insight is that novelty doesn't require new things. Changing the *context* works nearly as well: eating lunch on the floor, playing in a different room, swimsuits in February, sleeping the wrong way round in bed. Cheap, instant, and often the difference between a hard afternoon and an easy one.
 
-> 💛 **From Joseph:** You never let a rainy day be a wasted one. I don't know how you keep finding the angle.
+> 💛 **From Joseph:** February is the long one. You get through it every year and I don't think anyone ever says thank you for that.
 
 <div style="page-break-after: always;"></div>
 
-<a id="mar-weather-2"></a>
+<a id="feb-weather-2"></a>
 
-## 💨 Bad Weather Day 2: The Wind Day
-**Use when:** It's dry but wild — March wind, too blustery to be pleasant, everything blowing over.
+## 🌧️ Bad Weather Day 2: The Museum
+**Use when:** It's a write-off outside and she needs something with structure and dignity to it.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Make a Wind Catcher & a Kite (60 min)
-- **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — Brief Outside: Wind Test (45 min, short bursts)
-- **11:15 AM–12:00 PM** — Indoor Blowing Games (45 min)
+- **9:15–10:15 AM** — Main Event: Curate the Museum (60 min)
+- **10:15–10:30 AM** — Snack: Museum Café (15 min)
+- **10:30–11:15 AM** — Indoor Movement: Statue Gallery (45 min)
+- **11:15 AM–12:00 PM** — Give Tours (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Wind Catcher & Bag Kite
+### 🎨 The Main Event: Curate the Museum
 **🧰 Complete Materials List:**
-- A paper or plastic cup with the bottom removed
-- Crepe streamers or ribbon
-- String
-- A plastic grocery bag (the kite)
-- Straws and cotton balls (blowing games)
+- Objects from around the house — her collections, rocks, shells, favorite toys, this month's crafts
+- Index cards and markers (labels)
+- A table, shelf, or windowsill
+- Paper for tickets
 
 **📝 Step-by-Step Instructions:**
-1. **Wind sock:** decorate the cup, tape streamers around the open bottom, thread string through the top to hang.
-2. **Bag kite:** tie string to the two handles of a grocery bag. That's it — it flies remarkably well in real wind.
-3. Go out briefly and test both. March wind will do all the work.
-4. Come back in when hands get cold. Hang the wind sock where she can see it from a window.
-5. **Blowing games indoors:** race cotton balls across the table by blowing through straws.
+1. She chooses the exhibits. Anything counts — a rock, a good stick, a toy dinosaur, a photo.
+2. Arrange them in a row with space between. Space is what makes it a museum instead of a pile.
+3. Make a label for each: she dictates, you write. *"Rock. Found at the park. It is very smooth."*
+4. Make tickets. Everyone in the house has to have one to enter.
+5. She gives the tour. Ask real questions about each object.
 
-> 💡 **Tip:** The bag kite is genuinely better than a shop-bought one for a 4-year-old. No assembly, no tangling, and it flies at walking pace.
+> 💡 **Tip:** Take the labels seriously and write exactly what she says. Grave, formal labels on absurd objects is the entire charm of this activity.
 
-### 🏃 Indoor Movement: Straw Races
-Cotton ball races on the table, blown through straws. Then feathers, then a crumpled paper ball. Which is hardest to move?
+### 🏃 Indoor Movement: Statue Gallery
+You're both statues. When the music plays you move; when it stops you freeze in a pose. Take turns being the visitor who walks around and inspects the statues.
 
-> 👶 **Infant Integration:** Plastic bags are a suffocation risk — the kite stays with an adult, always, and is put away out of reach the moment you're done. Give Kreston a ribbon to wave instead.
+> 👶 **Infant Integration:** Kreston gets a ticket and a tour. Hold him at each exhibit while Azlyn explains. Give him one soft object as a "hands-on exhibit" so he isn't grabbing the real ones.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Blowing games do more than entertain.**
-> Controlled blowing through a straw uses the same oral motor coordination that speech depends on, and it requires sustained, graded breath control — which is genuinely hard for a preschooler.
-> There's a bonus: slow, extended exhalation activates the body's calming system. This is why blowing bubbles, blowing out candles, or blowing a cotton ball across a table often settles an agitated child faster than asking her to take deep breaths. "Blow this across the table" is an instruction a 4-year-old can follow; "calm down and breathe" is not.
+> **Collecting and categorizing peaks around now.**
+> Somewhere between three and six, most children develop a real drive to gather, sort, and organize — rocks, stickers, bottle caps, small plastic anything. It looks like hoarding. It's actually the same categorical thinking that underpins mathematics and science, expressed as a hobby.
+> Two things help. First, give the collection a home — a box, a shelf, a tin — because a collection with nowhere to live gets thrown out and that genuinely stings. Second, ask her to explain her sorting rule. It's often not the one you'd guess, and the reasoning is usually more interesting than the objects.
 
-> 💛 **From Joseph:** You have a hundred tricks for turning a meltdown around and you invented most of them yourself.
+> 💛 **From Joseph:** You keep their rocks. There's a jar in the kitchen full of rocks that mean nothing to anyone but them, and you've never once emptied it.
 
 <div style="page-break-after: always;"></div>
 
-<a id="mar-sick-1"></a>
+<a id="feb-sick-1"></a>
 
-## 🤒 Sick Day 1: The Cloud Nest
-**Use when:** She's genuinely unwell. Everything happens lying down.
+## 🤒 Sick Day 1: The Blanket Boat
+**Use when:** She's properly unwell — feverish, tired, floppy. Everything happens horizontally.
 
 ### ⏰ At-a-Glance Schedule
-- **Whenever she wakes** — Build the nest (20 min)
-- **Mid-morning** — Main Event: Cloud Watching, Indoors (20–30 min in bursts)
+- **Whenever she wakes** — Build the boat (20 min)
+- **Mid-morning** — Main Event: Sail Somewhere (20–30 min, in bursts)
 - **Snack** — Cold and simple
-- **Late morning** — Story pile
-- **Nap early.** Let the day be short.
+- **Late morning** — Books in the boat
+- **Nap early.** Don't fight it.
 
-### 🎨 The Main Event: Cloud Watching, Indoors
+### 🎨 The Main Event: Sail Somewhere
 **🧰 Complete Materials List:**
-- Cotton balls
-- Blue paper
-- Glue
-- A cookie sheet as a lap tray
-- A window with sky visible
+- Couch cushions or her bed
+- Blankets and pillows
+- A cardboard tube (telescope)
+- Paper and crayons on a cookie sheet
+- A blue blanket, if you have one
 
 **📝 Step-by-Step Instructions:**
-1. Build the nest around her — pillows, blanket, water in reach.
-2. Set her up facing a window. Watch real clouds for a while and name their shapes. This requires nothing from her but looking.
-3. On the cookie sheet, give her blue paper, cotton balls, and glue. She makes her own sky.
-4. Pull the cotton balls into shapes — a dragon, a rabbit, a blob.
-5. Stop when she's done, not when it's finished.
+1. Build a boat around her where she already is. Cushions as sides, blue blanket as sea. She doesn't move.
+2. Give her the telescope. Ask what she can see from the boat.
+3. "Sail" somewhere — an island, the North Pole, a place she invents. Describe it out loud together.
+4. If she has any energy, draw a map of where you went on the cookie sheet.
+5. If she doesn't, just narrate it to her while she lies there. That counts.
 
-> 💡 **Tip:** A cookie sheet on her lap turns any surface into a workspace and stops everything sliding off the blanket. Best sick-day tool in the house.
+> 💡 **Tip:** The whole activity is designed so it works even if she contributes nothing. On a genuinely rough day, you telling her a story about where the boat is going *is* the activity.
 
 ### 🧸 Rest & Wind-Down
-Books, the same ones repeatedly. Familiar stories ask nothing of a tired brain.
+Books in the boat. Same book repeatedly if that's what she wants — familiarity is what a sick body wants.
 
-> 👶 **Infant Integration:** If Kreston is well and she's not, this is the hardest combination in the book. Set up a contained safe area in the same room, rotate three or four objects through it, and lower every other standard for the day. Surviving it *is* the goal.
+> 👶 **Infant Integration:** If Kreston is well, this is a hard combination — a mobile 9-month-old and a sick preschooler. Set up a contained safe zone in the same room where you can see both, and rotate three or four objects through it. Getting through the day is the goal; nothing else.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Looking out a window counts as an activity.**
-> There's a persistent feeling that a child needs to be *doing* something. But sustained, undirected looking is genuinely restorative — attention researchers distinguish between the focused attention that depletes us and the soft, wandering attention that natural scenes invite, which restores.
-> A sick child at a window is not wasting the morning. She's doing close to the ideal thing for a depleted system. Sitting with her, saying almost nothing, is a complete and legitimate activity — and probably better for her than the craft you feel guilty for not doing.
+> **Sick days need less input, not more.**
+> The instinct is to entertain a miserable child. But an unwell body is already working hard, and stimulation costs energy that isn't spare. Most sick children do better with a quiet room, dim light, one familiar activity, and a parent nearby than with a rotating program.
+> There's also something worth knowing about presence: for a young child, *being near you* is regulating in itself — heart rate and stress hormones settle in the presence of a calm caregiver. So sitting on the floor next to her doing nothing is not a wasted morning. It's the active ingredient.
 
-> 💛 **From Joseph:** Sitting next to her doing nothing is not nothing. It's the most of it.
+> 💛 **From Joseph:** On the days you feel like you did nothing, you were there the whole time. That was the thing that was needed.
 
 <div style="page-break-after: always;"></div>
 
-<a id="mar-sick-2"></a>
+<a id="feb-sick-2"></a>
 
-## 🤧 Sick Day 2: The Seed Watch
-**Use when:** She's on the mend — bored, whiny, low energy, tired of being horizontal.
+## 🤧 Sick Day 2: The Sticker Hospital
+**Use when:** She's recovering — bored, cranky, low energy, tired of lying down.
 
 ### ⏰ At-a-Glance Schedule
-- **Slow start** — Her pace entirely
-- **Mid-morning** — Main Event: Plant Something (30 min)
-- **Snack** — Warm and simple
-- **Midday** — Floor picnic by the window
-- **Rest** — Audio story or quiet music
+- **Slow start** — Let her set the pace
+- **Mid-morning** — Main Event: The Animal Hospital (30–40 min)
+- **Snack** — Warm and easy
+- **Midday** — Floor picnic
+- **Rest** — Quiet music or an audio story
 
-### 🎨 The Main Event: Plant Something
+### 🎨 The Main Event: The Animal Hospital
 **🧰 Complete Materials List:**
-- A clear cup or jar
-- Cotton balls or a paper towel
-- Dried beans from the pantry
-- Water
-- Paper and crayons
+- Stuffed animals
+- Bandaids (a whole box — this is the point)
+- Cotton balls
+- A tea towel (blanket for patients)
+- Paper for charts, and a crayon
 
 **📝 Step-by-Step Instructions:**
-1. Line the cup with wet cotton and tuck two or three dried beans against the side, where they can be seen.
-2. Put it on the windowsill next to her nest.
-3. Draw a picture of the beans today, on day one. Nothing has happened. That's the record.
-4. Over the next days she checks and draws again. Roots come first, then the shoot.
-5. Beans from a bag of dried beans work fine — no need for seed packets.
+1. All the stuffed animals are unwell. She's the doctor. She stays on the couch; the patients come to her.
+2. Give her the box of bandaids and let her use as many as she wants. This is the whole appeal, and rationing them ruins it.
+3. Cotton balls for cleaning. A tea towel to tuck patients in.
+4. Make a chart for each patient — she scribbles, you write down her diagnosis.
+5. Ask her what each animal needs to feel better. Her answers will tell you exactly what she wants from you.
 
-> 💡 **Tip:** This is the ideal recovery-day activity: five minutes of effort, then something to check on for a week. It gives a bored, low-energy child a reason to get up.
+> 💡 **Tip:** Listen closely to how she talks to the patients. A child who's been sick often plays out her own care, and you'll hear your own phrases coming back at you.
 
 ### 🧸 Rest & Wind-Down
-Floor picnic by the window where she can see the beans and the sky.
+Everyone naps — patients included. Tuck the animals in around her.
 
-> 👶 **Infant Integration:** Dried beans are a serious choking hazard. The cup goes on a high sill, not the coffee table, and count the beans into it.
+> 👶 **Infant Integration:** Kreston can be a patient. Azlyn will put a bandaid on him with enormous seriousness. Peel it off once she's moved on — bandaids and 9-month-olds don't mix.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Recovery days are the right time to start something slow.**
-> A child on the mend has low energy but returning curiosity — a poor match for anything active, and a great match for something that begins today and pays off over a week. It gives her a thread to hold onto across several dull days.
-> This is also worth knowing generally: the things children remember most fondly from childhood are often long-running, low-intensity threads rather than big events. A bean on a windowsill checked every morning for two weeks can outlast a trip to a theme park in memory, and it costs a handful of dried beans.
+> **Play is how children process what's happened to them.**
+> After a doctor's visit, an illness, or anything frightening, children often replay it — repeatedly, sometimes obsessively. This isn't distress; it's the main way a preschooler works through experience. In play she's in control of a situation where she wasn't.
+> The most useful thing you can do is let it run without steering it, and follow her lead if invited. If she gives a patient a scary diagnosis, don't soften it. She's testing an idea. Children who are allowed to play out difficult experiences tend to recover from them faster than children who are distracted away from them.
 
-> 💛 **From Joseph:** The small ordinary things are the ones they'll remember. You've always known that instinctively.
+> 💛 **From Joseph:** She's going to grow up gentle because of how you take care of her when she's sick. That's where kids learn it.
 
 <div style="page-break-after: always;"></div>
 
-<a id="mar-extras"></a>
+<a id="feb-extras"></a>
 
-## ✨ March — Extra Ideas
+## ✨ February — Extra Ideas
 ### *When you just need one more thing*
 
 ---
 
 ### 🎲 Alternative Activities
 
-**Mud Kitchen** — A bowl, a spoon, and permission. Mud soup, mud cakes, mud pancakes. The best free activity of the entire spring.
+**Indoor Snowball Fight** — Crumple twenty sheets of paper. Two teams, thirty seconds, then a cleanup race to see who gathers most.
 
-**Worm Patrol** — After rain, move stranded worms off the pavement back to soil. A real job with a real point.
+**Hot Chocolate Shop** — She takes orders, adds marshmallows, delivers to everyone in the house. Real drinks, real customers.
 
-**Puddle Ranking** — Find every puddle on the street. Rank by size, depth, and splash quality. Test each one properly.
+**The Freeze Game** — Music on, dance. Music off, freeze. Add rules: freeze on one foot, freeze like an animal, freeze low.
 
-**Umbrella Parade** — Everyone takes an umbrella and marches around the block, rain or not.
+**Hide the Heart** — Hide a paper heart somewhere in the room. Warmer/colder as she searches. Then she hides it for you.
 
-**Boat Races** — Leaves, sticks, or folded paper boats in a gutter stream or a big puddle. Whose goes furthest?
+**Sock Match Race** — Dump the clean socks and race to pair them. Genuinely useful and genuinely fun.
 
-**The Slowest Walk Ever** — Walk to the end of the block as slowly as humanly possible. You'll see things you've never noticed.
+**Pillow Path** — Cushions across the floor as stepping stones. The floor is lava, ice, or ocean. Move them further apart each round.
 
-**Wind Chase** — Blow bubbles into the March wind and chase them. The wind does all the work.
+**Flashlight Tag** — Lights off, shine a flashlight, she has to step on the light spot before it moves.
 
-**Bud Watch** — Adopt one tree. Visit it every few days. Photograph it each time. Spring happens fast now.
+**Restaurant** — Menus, an order pad, and a tea-towel apron. Runs longer than almost anything else in this list.
 
-**Sock Skating** — Socks on a smooth floor. Slide, glide, spin. Great energy burn with zero setup.
+**Marching Band** — Pots, wooden spoons, and this month's shakers. March through every room in the house.
 
-**Indoor Hopscotch** — Painter's tape grid on the floor. Numbers 1 to 5. A beanbag or rolled sock as the marker.
+**Balloon Volleyball** — A taped line on the floor, one balloon, don't let it land. Slow enough that she can actually succeed.
 
-**Big Sister School** — Azlyn "teaches" Kreston something: clapping, waving, stacking two blocks. Being the expert is very good for her.
+**The Long Hug Contest** — Who can hug longest. Silly, and it's deep-pressure input that calms a frayed kid down fast.
 
-**Kreston's Turn** — Cruising practice along the couch with a toy at the far end, a cushion tunnel to crawl through, or a low box to pull up on. He's nearly walking; give him reasons to.
+**Kreston's Turn** — Post objects into a box with a slot, empty a basket and refill it, or crawl through a cushion tunnel. Twenty solid minutes for a 9-month-old.
 
 ---
 
 ### 🎨 Alternative Arts & Crafts
 
-**Rain Painting** — Blob washable paint on paper, put it out in light rain for thirty seconds, bring it back in. The rain does the painting.
+**Doily Snowflakes** — Fold a paper doily and cut shapes. The pattern is already there so it looks impressive with no skill.
 
-**Mud Prints** — Press hands, leaves, or toy animal feet into a tray of mud. Let it dry hard in the sun.
+**Heart Chain Garland** — Strips of red and pink paper looped and glued into a chain. Counting practice hiding inside a decoration.
 
-**Coffee Filter Rainbows** — Marker on a filter, spritz with water, watch the colors bloom and spread.
+**Coffee Filter Flowers** — Marker on a filter, spritz with water, dry, then pinch the middle and twist a pipe cleaner around it.
 
-**Egg Carton Everything** — Cut into cups: ducklings, caterpillars, flowers, little creatures. One carton, a dozen options.
+**Foil Sculpture** — A roll of foil, nothing else. Squeeze into animals and towers. Undo and start again.
 
-**Cotton Ball Clouds** — Blue paper, cotton pulled thin, glued into cloud shapes. Add a paper sun or a rainbow.
+**Cotton Ball Sheep** — Black paper, a drawn outline, cotton balls glued in to fill it. Simple and satisfying.
 
-**Paper Plate Weaving** — Slits cut round the rim, ribbon woven over-under. Becomes a basket, a nest, or a sun.
+**Tissue Paper Stained Glass** — Contact paper sticky-side-out, tissue squares pressed on, sealed with a second sheet. Tape to a window.
 
-**Seed Mosaic** — Glue dried beans, lentils, and rice into a pattern on card. Excellent pincer practice.
+**Salt Painting** — Draw with glue, pour salt over it, shake off the excess, then touch watercolor to the salt lines and watch it travel.
 
-**Nature Rubbings** — Leaves and bark under paper, rubbed with the side of a peeled crayon.
+**Paper Bag Puppets** — A lunch bag, a face, and yarn hair. The fold in the bag becomes the moving mouth.
 
-**Sponge Rain Clouds** — A grey sponge cloud stamped at the top, then blue fingerprint raindrops falling beneath it.
+**Button Collage** — Glue buttons onto card in a pattern, a shape, or a picture. Great pincer practice.
 
-**Handprint Tulips** — Handprints as the flower head, green stems drawn beneath. Date it.
+**Marble Painting** — Paper in a box lid, blobs of paint, one marble. Tilt the lid and let it roll. Supervise closely — marbles are a serious hazard.
 
-**Salt Painting** — Draw with glue, cover with salt, shake off the excess, then touch a wet paintbrush to it and watch the color run along the lines.
+**Handprint Anything** — Handprints are the whole craft. A heart from two prints, a tree, a bird. Date every one.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **The transition seasons are the hardest, and it isn't just the weather.**
-> Late winter into early spring is a genuinely difficult stretch for young children: routines are stale, outdoor time is unpredictable, illnesses are still circulating, and daylight is changing fast enough to unsettle sleep. If March feels harder than it should, that's a real pattern rather than a personal failing.
-> The thing that helps most is lowering the bar on purpose rather than by accident. Fewer plans, more repeats of things that already work, and a deliberate decision that a hard month gets an easier standard. April will be easier. It genuinely will.
+> **The best activity is the one you actually have energy for.**
+> An enthusiastic parent doing something simple beats a depleted parent doing something elaborate. Children read affect far more accurately than adults assume — they know when you're going through the motions, and a resentfully-executed craft doesn't land as warmth.
+> So the honest calculus on a hard day isn't "what's the best activity" — it's "what can I do without running myself down." Twenty minutes of sock matching where you're actually present is worth more than an hour of a project you're gritting your teeth through. Pick down the list, not up it.
 
-> 💛 **From Joseph:** March is a slog. It's a slog every year. You get us all through it and I notice, even when I don't say so.
+> 💛 **From Joseph:** Pick the easy one. Nobody's grading you and I'd rather have you rested than impressive.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-march"></a>
@@ -6346,262 +6087,263 @@ Walk the usual route in the opposite direction. Notice what looks different goin
 > 💛 **From Joseph:** Thirteen weeks and a quarter of the year. Backwards day, mud kitchens, and a bouncy egg. This is a good childhood you're building.
 
 <div style="page-break-after: always;"></div>
-<a id="backup-april"></a>
+<a id="backup-march"></a>
 
-# 🌧️ April Backup Days
+# 🌧️ March Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**April's version of a bad day:** proper rain — the kind that soaks through in four minutes. It's warm enough that being out isn't dangerous, just wet and miserable, and the garden you just planted is turning into a swamp. Two of these days lean *into* the rain rather than hiding from it, because April rain is genuinely the fun kind.
+**March's version of a bad day:** cold rain rather than pretty snow, mud everywhere, wind that makes going out miserable, and the frustrating in-between where it's *nearly* spring but not enough to actually enjoy. These four days are built for the transition.
 
 ---
 
-<a id="apr-weather-1"></a>
+<a id="mar-weather-1"></a>
 
-## 🌧️ Bad Weather Day 1: The Rain Day *(Go Out In It)*
-**Use when:** It's raining hard but it's mild. This is the day to get properly soaked on purpose.
-
-### ⏰ At-a-Glance Schedule
-- **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:00 AM** — Main Event: Rain Painting & Rain Gauge (45 min)
-- **10:00–10:15 AM** — Snack (15 min)
-- **10:15–11:15 AM** — Get Outside: **The Deliberate Soaking** (60 min)
-- **11:15 AM–12:00 PM** — Warm Bath & Dry Clothes (45 min)
-- **12:00 PM** — Lunch & Nap Prep
-
-### 🎨 The Main Event: Rain Painting & Rain Gauge
-**🧰 Complete Materials List:**
-- Thick paper or cardstock
-- Washable paint or powdered drink mix
-- A clear straight-sided jar
-- A ruler and a marker
-- Waterproofs and boots
-
-**📝 Step-by-Step Instructions:**
-1. **Rain painting:** blob paint onto thick paper, put it outside in the rain for thirty seconds, bring it back. The rain does the painting.
-2. **Rain gauge:** mark measurements up the side of a straight jar with a marker. Set it outside somewhere open.
-3. Check it at the end of the morning. How much fell?
-4. Then go out and get wet properly — no attempt at staying dry.
-5. Warm bath and dry clothes after. The contrast is half the pleasure.
-
-> 💡 **Tip:** Powdered drink mix sprinkled on wet paper makes astonishing colors and smells like fruit. Better than paint for this, and cheaper.
-
-### 🌳 Get Outside: The Deliberate Soaking
-Puddle jumping with no attempt at dryness. Catch raindrops. Stand under a drainpipe. Let it be an event rather than an inconvenience.
-
-> 👶 **Infant Integration:** Kreston is walking — a few minutes in the rain in waterproofs is genuinely novel for him. Keep it short, get him dry fast, and watch for cold hands.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Being uncomfortable on purpose is a useful experience.**
-> Children who are only ever taken out in good weather learn that discomfort is to be avoided. Children who occasionally get deliberately soaked, cold, or muddy — and then warm and dry again — learn something more useful: that discomfort is temporary and survivable, and sometimes fun.
-> The essential part is the recovery. Wet and cold with no warm bath afterward is just miserable. Wet and cold followed by a hot bath and dry pajamas is an adventure. The contrast is what makes it a good memory rather than a bad one.
-
-> 💛 **From Joseph:** You take them out in the rain. Most people wouldn't. They're going to be the kind of adults who go outside anyway.
-
-<div style="page-break-after: always;"></div>
-
-<a id="apr-weather-2"></a>
-
-## ⛈️ Bad Weather Day 2: The Storm Day
-**Use when:** It's genuinely too wild to go out — thunder, high wind, driving rain.
+## 🌧️ Bad Weather Day 1: The Indoor Rain Day
+**Use when:** It's pouring, it's cold rain rather than fun rain, and going out means everyone's soaked and miserable.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Storm in a Jar & Thunder Music (60 min)
+- **9:15–10:15 AM** — Main Event: Rain in a Jar & Rain Music (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — Indoor Movement: The Storm Dance (45 min)
-- **11:15 AM–12:00 PM** — Storm Watching (45 min)
+- **10:30–11:15 AM** — Indoor Movement: Jump the Puddles (45 min)
+- **11:15 AM–12:00 PM** — Free Play (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Storm in a Jar & Thunder Music
+### 🎨 The Main Event: Rain in a Jar & Rain Music
 **🧰 Complete Materials List:**
-- A clear jar, water, shaving cream, blue food coloring, a pipette
-- A metal baking sheet
-- Rice and a plastic tub
-- A flashlight
+- A clear jar, water, shaving cream
+- Blue food coloring in a cup, plus a pipette or spoon
+- Pots, pans, a metal tray, a plastic tub
+- Wooden spoons
 
 **📝 Step-by-Step Instructions:**
-1. **Rain cloud in a jar:** water three-quarters full, shaving cream cloud on top, blue drops added until it breaks through and rains down.
-2. **Thunder:** wobble a metal baking sheet. It's a genuinely convincing thunder sound.
-3. **Rain sound:** rice poured slowly into a plastic tub, or fingertips drumming on a table.
-4. **Lightning:** flash the flashlight, then wobble the sheet a moment later.
-5. Talk about counting the gap between flash and rumble — and then count it for real at the window.
+1. **Rain cloud in a jar:** fill the jar ¾ with water, top with a thick layer of shaving cream as the cloud.
+2. She drips blue colored water onto the cloud a drop at a time. Nothing happens, then suddenly it "rains" down through into the water.
+3. Explain simply: *"The cloud fills up until it can't hold any more, and then it rains."*
+4. **Rain music:** set up pots and pans and make rain sounds — light drizzle with fingertips, heavy downpour with spoons, thunder on the big pot.
+5. Go to the window and compare your rain to the real rain.
 
-> 💡 **Tip:** Counting between lightning and thunder is the classic anxiety-defuser for a frightened child. It gives her a job, and it makes the storm measurable rather than mysterious.
+> 💡 **Tip:** The waiting is the good bit. Add drops slowly and let her be surprised when it finally breaks through — adding them fast ruins the effect.
 
-### 🏃 Indoor Movement: The Storm Dance
-Be the weather. Drizzle is tiptoes, wind is spinning, thunder is stomping, calm is lying flat. Call out weather and she becomes it — and end on calm.
+### 🏃 Indoor Movement: Jump the Puddles
+Paper plates or cushions on the floor as puddles. Jump from one to the next without touching the floor. Move them further apart each round.
 
-> 👶 **Infant Integration:** Loud thunder frightens many babies. If Kreston is unsettled, hold him — physical closeness regulates him faster than anything else. Keep the thunder-sheet quiet while he's in the room.
+> 👶 **Infant Integration:** Shaving cream is not for a 10-month-old's mouth. Keep the jar high. Give Kreston a metal bowl and a wooden spoon — he'll happily provide the thunder section.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Understanding a frightening thing shrinks it.**
-> Fear of thunder is extremely common at this age, and reassurance alone rarely resolves it — *"it can't hurt you"* doesn't land against a loud noise. What works better is explanation plus control: what thunder is, that it follows lightning, that you can count the gap and tell how far away it is.
-> Giving her a task during the scary thing is the mechanism. Counting converts a passive experience into an active one, and active is less frightening than passive. The same trick works for the doctor, the dark, and the vacuum cleaner.
+> **Weather is one of the best first sciences, because it's already happening.**
+> A child sees weather every day, has opinions about it, and is affected by it. That existing relationship makes it a far better entry point than something abstract. And a jar demonstration works because it maps a huge invisible process onto a small visible one.
+> The key move is connecting the model back to the real thing immediately: do the jar, then go and look out the window. Without that step it's a fun trick; with it, she has a mental model she can apply every time it rains for the rest of her life.
 
-> 💛 **From Joseph:** You explain things instead of just saying it's fine. She trusts you because you've never told her something wasn't scary when it was.
+> 💛 **From Joseph:** You never let a rainy day be a wasted one. I don't know how you keep finding the angle.
 
 <div style="page-break-after: always;"></div>
 
-<a id="apr-sick-1"></a>
+<a id="mar-weather-2"></a>
 
-## 🤒 Sick Day 1: The Window Garden
-**Use when:** She's genuinely unwell. Low light, low demand, low energy.
+## 💨 Bad Weather Day 2: The Wind Day
+**Use when:** It's dry but wild — March wind, too blustery to be pleasant, everything blowing over.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Make a Wind Catcher & a Kite (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Brief Outside: Wind Test (45 min, short bursts)
+- **11:15 AM–12:00 PM** — Indoor Blowing Games (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Wind Catcher & Bag Kite
+**🧰 Complete Materials List:**
+- A paper or plastic cup with the bottom removed
+- Crepe streamers or ribbon
+- String
+- A plastic grocery bag (the kite)
+- Straws and cotton balls (blowing games)
+
+**📝 Step-by-Step Instructions:**
+1. **Wind sock:** decorate the cup, tape streamers around the open bottom, thread string through the top to hang.
+2. **Bag kite:** tie string to the two handles of a grocery bag. That's it — it flies remarkably well in real wind.
+3. Go out briefly and test both. March wind will do all the work.
+4. Come back in when hands get cold. Hang the wind sock where she can see it from a window.
+5. **Blowing games indoors:** race cotton balls across the table by blowing through straws.
+
+> 💡 **Tip:** The bag kite is genuinely better than a shop-bought one for a 4-year-old. No assembly, no tangling, and it flies at walking pace.
+
+### 🏃 Indoor Movement: Straw Races
+Cotton ball races on the table, blown through straws. Then feathers, then a crumpled paper ball. Which is hardest to move?
+
+> 👶 **Infant Integration:** Plastic bags are a suffocation risk — the kite stays with an adult, always, and is put away out of reach the moment you're done. Give Kreston a ribbon to wave instead.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Blowing games do more than entertain.**
+> Controlled blowing through a straw uses the same oral motor coordination that speech depends on, and it requires sustained, graded breath control — which is genuinely hard for a preschooler.
+> There's a bonus: slow, extended exhalation activates the body's calming system. This is why blowing bubbles, blowing out candles, or blowing a cotton ball across a table often settles an agitated child faster than asking her to take deep breaths. "Blow this across the table" is an instruction a 4-year-old can follow; "calm down and breathe" is not.
+
+> 💛 **From Joseph:** You have a hundred tricks for turning a meltdown around and you invented most of them yourself.
+
+<div style="page-break-after: always;"></div>
+
+<a id="mar-sick-1"></a>
+
+## 🤒 Sick Day 1: The Cloud Nest
+**Use when:** She's genuinely unwell. Everything happens lying down.
 
 ### ⏰ At-a-Glance Schedule
 - **Whenever she wakes** — Build the nest (20 min)
-- **Mid-morning** — Main Event: The Windowsill Garden (20–30 min in bursts)
-- **Snack** — Cold and easy
-- **Late morning** — Stories
-- **Nap early.**
+- **Mid-morning** — Main Event: Cloud Watching, Indoors (20–30 min in bursts)
+- **Snack** — Cold and simple
+- **Late morning** — Story pile
+- **Nap early.** Let the day be short.
 
-### 🎨 The Main Event: The Windowsill Garden
+### 🎨 The Main Event: Cloud Watching, Indoors
 **🧰 Complete Materials List:**
-- A clear cup, cotton balls, dried beans
-- A carrot top or the base of a celery stalk
-- A shallow dish with a little water
+- Cotton balls
+- Blue paper
+- Glue
 - A cookie sheet as a lap tray
+- A window with sky visible
+
+**📝 Step-by-Step Instructions:**
+1. Build the nest around her — pillows, blanket, water in reach.
+2. Set her up facing a window. Watch real clouds for a while and name their shapes. This requires nothing from her but looking.
+3. On the cookie sheet, give her blue paper, cotton balls, and glue. She makes her own sky.
+4. Pull the cotton balls into shapes — a dragon, a rabbit, a blob.
+5. Stop when she's done, not when it's finished.
+
+> 💡 **Tip:** A cookie sheet on her lap turns any surface into a workspace and stops everything sliding off the blanket. Best sick-day tool in the house.
+
+### 🧸 Rest & Wind-Down
+Books, the same ones repeatedly. Familiar stories ask nothing of a tired brain.
+
+> 👶 **Infant Integration:** If Kreston is well and she's not, this is the hardest combination in the book. Set up a contained safe area in the same room, rotate three or four objects through it, and lower every other standard for the day. Surviving it *is* the goal.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Looking out a window counts as an activity.**
+> There's a persistent feeling that a child needs to be *doing* something. But sustained, undirected looking is genuinely restorative — attention researchers distinguish between the focused attention that depletes us and the soft, wandering attention that natural scenes invite, which restores.
+> A sick child at a window is not wasting the morning. She's doing close to the ideal thing for a depleted system. Sitting with her, saying almost nothing, is a complete and legitimate activity — and probably better for her than the craft you feel guilty for not doing.
+
+> 💛 **From Joseph:** Sitting next to her doing nothing is not nothing. It's the most of it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="mar-sick-2"></a>
+
+## 🤧 Sick Day 2: The Seed Watch
+**Use when:** She's on the mend — bored, whiny, low energy, tired of being horizontal.
+
+### ⏰ At-a-Glance Schedule
+- **Slow start** — Her pace entirely
+- **Mid-morning** — Main Event: Plant Something (30 min)
+- **Snack** — Warm and simple
+- **Midday** — Floor picnic by the window
+- **Rest** — Audio story or quiet music
+
+### 🎨 The Main Event: Plant Something
+**🧰 Complete Materials List:**
+- A clear cup or jar
+- Cotton balls or a paper towel
+- Dried beans from the pantry
+- Water
 - Paper and crayons
 
 **📝 Step-by-Step Instructions:**
-1. Set her up by a window with the nest built around her.
-2. **Bean in a cup:** wet cotton, beans tucked against the glass so the roots are visible.
-3. **Carrot top:** sit the cut top of a carrot in a shallow dish of water. It regrows green fronds within days.
-4. **Celery base:** same idea, in water. New growth appears from the middle.
-5. Draw all three on day one. Nothing has happened. That's the record.
+1. Line the cup with wet cotton and tuck two or three dried beans against the side, where they can be seen.
+2. Put it on the windowsill next to her nest.
+3. Draw a picture of the beans today, on day one. Nothing has happened. That's the record.
+4. Over the next days she checks and draws again. Roots come first, then the shoot.
+5. Beans from a bag of dried beans work fine — no need for seed packets.
 
-> 💡 **Tip:** A carrot top in water is the best sick-day plant there is — it visibly changes within two days, which is exactly the timescale of a mild illness.
+> 💡 **Tip:** This is the ideal recovery-day activity: five minutes of effort, then something to check on for a week. It gives a bored, low-energy child a reason to get up.
 
 ### 🧸 Rest & Wind-Down
-Books by the window. Same one repeatedly if that's what she wants.
+Floor picnic by the window where she can see the beans and the sky.
 
-> 👶 **Infant Integration:** Dried beans are a serious choking hazard and Kreston is walking now. The whole setup goes on a high windowsill, not the coffee table.
+> 👶 **Infant Integration:** Dried beans are a serious choking hazard. The cup goes on a high sill, not the coffee table, and count the beans into it.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Sick days shrink a child's world, and that's part of what's hard.**
-> Illness removes agency. She can't choose to go outside, can't do what she wants, can't control her own body. A good deal of sick-day misery is that loss of control rather than the symptoms themselves.
-> Which is why very small choices help disproportionately: which cup, which book, which windowsill plant is hers. It costs nothing to offer two options instead of one, and it gives back a scrap of the autonomy the illness took. Watch how much a genuinely trivial choice can settle her.
+> **Recovery days are the right time to start something slow.**
+> A child on the mend has low energy but returning curiosity — a poor match for anything active, and a great match for something that begins today and pays off over a week. It gives her a thread to hold onto across several dull days.
+> This is also worth knowing generally: the things children remember most fondly from childhood are often long-running, low-intensity threads rather than big events. A bean on a windowsill checked every morning for two weeks can outlast a trip to a theme park in memory, and it costs a handful of dried beans.
 
-> 💛 **From Joseph:** You give them choices even when it makes everything slower. On the bad days it's the thing that helps most.
-
-<div style="page-break-after: always;"></div>
-
-<a id="apr-sick-2"></a>
-
-## 🤧 Sick Day 2: The Nature Table
-**Use when:** She's recovering — restless, bored, not up to going out.
-
-### ⏰ At-a-Glance Schedule
-- **Slow start** — Her pace
-- **Mid-morning** — Main Event: Build a Nature Table (30–40 min)
-- **Snack** — Warm and simple
-- **Midday** — Floor picnic
-- **Rest** — Audio story
-
-### 🎨 The Main Event: Build a Nature Table
-**🧰 Complete Materials List:**
-- A tray or small table she can reach from the couch
-- Things collected on past walks: rocks, pinecones, feathers, shells, seed pods
-- A magnifying glass
-- Index cards and a crayon for labels
-
-**📝 Step-by-Step Instructions:**
-1. Bring the collection box to her. She doesn't have to move.
-2. She sorts everything — by type, size, color, or a rule of her own invention.
-3. Arrange it on the tray with space between items, like a museum.
-4. Label each one. She dictates; you write.
-5. Leave it up. She'll rearrange it over the following days as she gets better.
-
-> 💡 **Tip:** Ask what her sorting rule is. It's frequently not the one you'd guess, and the reasoning is usually more interesting than the arrangement.
-
-### 🧸 Rest & Wind-Down
-Floor picnic beside the nature table. Look at things through the magnifying glass lying down.
-
-> 👶 **Infant Integration:** Small natural objects and a walking baby don't mix. Keep the tray up on a table, and let him look from your arms.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Recovery boredom is the right time for collections.**
-> A child on the mend has curiosity returning but no stamina — and sorting a collection is close to the ideal match. It's absorbing, requires no physical effort, can be done sitting still, and can be abandoned and returned to.
-> There's a bonus: collections build a sense of continuity across time. These are the things she picked up in January, March, last week. Handling them again links her present self to her past self, which is a subtle but genuine part of how a child builds an identity.
-
-> 💛 **From Joseph:** That box of rocks has been in three rooms of this house. You've never suggested we throw it out.
+> 💛 **From Joseph:** The small ordinary things are the ones they'll remember. You've always known that instinctively.
 
 <div style="page-break-after: always;"></div>
 
-<a id="apr-extras"></a>
+<a id="mar-extras"></a>
 
-## ✨ April — Extra Ideas
+## ✨ March — Extra Ideas
 ### *When you just need one more thing*
 
 ---
 
 ### 🎲 Alternative Activities
 
-**Worm Patrol** — After rain, move stranded worms back to soil. A genuine job with a genuine point.
+**Mud Kitchen** — A bowl, a spoon, and permission. Mud soup, mud cakes, mud pancakes. The best free activity of the entire spring.
 
-**Puddle Science** — What floats? Leaf, stick, stone, bottle cap. Test everything in the biggest puddle on the street.
+**Worm Patrol** — After rain, move stranded worms off the pavement back to soil. A real job with a real point.
 
-**Mud Kitchen** — A bowl, a spoon, and permission. April mud is the best mud of the year.
+**Puddle Ranking** — Find every puddle on the street. Rank by size, depth, and splash quality. Test each one properly.
 
-**Boat Races** — Leaves or folded paper in a gutter stream. Whose gets to the drain first?
+**Umbrella Parade** — Everyone takes an umbrella and marches around the block, rain or not.
 
-**The Watering Round** — Give her a can and a route: her patch, the pots, the grass head, the terrarium. A real daily job.
+**Boat Races** — Leaves, sticks, or folded paper boats in a gutter stream or a big puddle. Whose goes furthest?
 
-**Snail Hunt** — After rain, find snails and count them. Watch one move. It takes a while and that's the point.
+**The Slowest Walk Ever** — Walk to the end of the block as slowly as humanly possible. You'll see things you've never noticed.
 
-**Barefoot Grass** — First barefoot day of the year. Walk on grass, then pavement, then dirt. Which feels best?
+**Wind Chase** — Blow bubbles into the March wind and chase them. The wind does all the work.
 
-**The Slowest Walk Ever** — To the end of the block as slowly as humanly possible. You'll both see new things.
+**Bud Watch** — Adopt one tree. Visit it every few days. Photograph it each time. Spring happens fast now.
 
-**Bug Safari** — Magnifying glass, turn over two rocks, put everything back exactly.
+**Sock Skating** — Socks on a smooth floor. Slide, glide, spin. Great energy burn with zero setup.
 
-**Chalk Obstacle Course** — Draw a route on the driveway: hop here, spin here, balance along this line.
+**Indoor Hopscotch** — Painter's tape grid on the floor. Numbers 1 to 5. A beanbag or rolled sock as the marker.
 
-**Sunflower Measuring** — Cut a paper strip to the height of the tallest seedling. Glue it in the journal. Compare weekly.
+**Big Sister School** — Azlyn "teaches" Kreston something: clapping, waving, stacking two blocks. Being the expert is very good for her.
 
-**Kreston's Turn** — He's walking. Set up a push toy, a laundry basket to push across the floor, or a low cushion course to climb over. He needs reasons to be upright.
+**Kreston's Turn** — Cruising practice along the couch with a toy at the far end, a cushion tunnel to crawl through, or a low box to pull up on. He's nearly walking; give him reasons to.
 
 ---
 
 ### 🎨 Alternative Arts & Crafts
 
-**Rain Painting** — Paint blobs on thick paper, thirty seconds in the rain, back inside. The weather finishes it.
+**Rain Painting** — Blob washable paint on paper, put it out in light rain for thirty seconds, bring it back in. The rain does the painting.
 
-**Mud Prints** — Press hands, leaves, or toy feet into a tray of mud and let it bake hard in the sun.
+**Mud Prints** — Press hands, leaves, or toy animal feet into a tray of mud. Let it dry hard in the sun.
 
-**Flower Pounding** — Lay a flower between cloth and paper, tap gently with a wooden spoon. The color transfers. Genuinely magic.
+**Coffee Filter Rainbows** — Marker on a filter, spritz with water, watch the colors bloom and spread.
 
-**Egg Carton Caterpillars** — A strip of cups, painted, with pipe cleaner antennae.
+**Egg Carton Everything** — Cut into cups: ducklings, caterpillars, flowers, little creatures. One carton, a dozen options.
 
-**Seed Mosaic** — Beans, lentils, and rice glued into patterns on card. Excellent pincer work.
+**Cotton Ball Clouds** — Blue paper, cotton pulled thin, glued into cloud shapes. Add a paper sun or a rainbow.
 
-**Nature Weaving** — A cardboard loom with string across it. Weave in grass, flowers, and long leaves.
+**Paper Plate Weaving** — Slits cut round the rim, ribbon woven over-under. Becomes a basket, a nest, or a sun.
 
-**Leaf Rubbings** — Leaves under paper, rubbed with the side of a peeled crayon. New spring leaves have the sharpest veins.
+**Seed Mosaic** — Glue dried beans, lentils, and rice into a pattern on card. Excellent pincer practice.
 
-**Handprint Flowers** — Handprints as petals around a circle center, stems drawn below. Date it.
+**Nature Rubbings** — Leaves and bark under paper, rubbed with the side of a peeled crayon.
 
-**Bottle Cap Stamps** — Dip a cap in paint and print circles. Overlap the colors.
+**Sponge Rain Clouds** — A grey sponge cloud stamped at the top, then blue fingerprint raindrops falling beneath it.
 
-**Paper Plate Butterflies** — Cut a plate into two wings, paint symmetrically, fold to press the pattern across.
+**Handprint Tulips** — Handprints as the flower head, green stems drawn beneath. Date it.
 
-**Pressed Flower Bookmarks** — Petals between two strips of contact paper, trimmed. Useful, and made from the garden.
+**Salt Painting** — Draw with glue, cover with salt, shake off the excess, then touch a wet paintbrush to it and watch the color run along the lines.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Outdoor time is doing more than you can see.**
-> Time outside is associated with better sleep, better attention, better mood, and less conflict in young children — and the effect appears even when the outdoor time isn't structured or "educational" at all. Standing in a garden doing nothing counts.
-> So on the days when you can't face a plan: the outdoor half is the half worth keeping. Twenty minutes in the yard with no activity at all will very often do more for the rest of the day than the craft would have. Skip up, not down.
+> **The transition seasons are the hardest, and it isn't just the weather.**
+> Late winter into early spring is a genuinely difficult stretch for young children: routines are stale, outdoor time is unpredictable, illnesses are still circulating, and daylight is changing fast enough to unsettle sleep. If March feels harder than it should, that's a real pattern rather than a personal failing.
+> The thing that helps most is lowering the bar on purpose rather than by accident. Fewer plans, more repeats of things that already work, and a deliberate decision that a hard month gets an easier standard. April will be easier. It genuinely will.
 
-> 💛 **From Joseph:** When it's all going wrong, take them outside. That's your own advice, said back to you. It's always been the right one.
+> 💛 **From Joseph:** March is a slog. It's a slog every year. You get us all through it and I notice, even when I don't say so.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-april"></a>
@@ -8692,263 +8434,262 @@ Snack outside in the crowns, in her garden patch. Look at what's grown since Day
 > 💛 **From Joseph:** Eighteen weeks. There are flowers out there that you two grew from nothing. Wear the crown, you earned it.
 
 <div style="page-break-after: always;"></div>
-<a id="backup-may"></a>
+<a id="backup-april"></a>
 
-# 🌧️ May Backup Days
+# 🌧️ April Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**May's version of a bad day:** thunderstorms that arrive out of nowhere, the first properly hot day where nobody can function, and pollen season, which floors some children entirely. The weather is mostly good now, so these days are less about hiding indoors and more about the days when *she* isn't up to the plan.
+**April's version of a bad day:** proper rain — the kind that soaks through in four minutes. It's warm enough that being out isn't dangerous, just wet and miserable, and the garden you just planted is turning into a swamp. Two of these days lean *into* the rain rather than hiding from it, because April rain is genuinely the fun kind.
 
 ---
 
-<a id="may-weather-1"></a>
+<a id="apr-weather-1"></a>
 
-## ⛈️ Bad Weather Day 1: The Thunderstorm
-**Use when:** A storm rolls in and outside is off the table.
+## 🌧️ Bad Weather Day 1: The Rain Day *(Go Out In It)*
+**Use when:** It's raining hard but it's mild. This is the day to get properly soaked on purpose.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Storm Watching & Sound Making (60 min)
-- **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — Indoor Movement: The Weather Dance (45 min)
-- **11:15 AM–12:00 PM** — Blanket Fort & Stories (45 min)
+- **9:15–10:00 AM** — Main Event: Rain Painting & Rain Gauge (45 min)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:15 AM** — Get Outside: **The Deliberate Soaking** (60 min)
+- **11:15 AM–12:00 PM** — Warm Bath & Dry Clothes (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Storm Watching & Sound Making
+### 🎨 The Main Event: Rain Painting & Rain Gauge
 **🧰 Complete Materials List:**
-- A window with a view
-- A metal baking sheet (thunder)
-- Rice and a plastic tub (rain)
-- A flashlight (lightning)
-- Paper and crayons
+- Thick paper or cardstock
+- Washable paint or powdered drink mix
+- A clear straight-sided jar
+- A ruler and a marker
+- Waterproofs and boots
 
 **📝 Step-by-Step Instructions:**
-1. Sit at the window together and watch properly. Storms are genuinely spectacular and worth looking at.
-2. **Count between the flash and the rumble.** Five seconds is roughly a mile. Do it every time.
-3. Track the numbers on paper — are they getting bigger or smaller? Is it coming or going?
-4. Recreate the storm with your instruments: rice for rain, baking sheet for thunder, flashlight for lightning.
-5. Draw the storm afterward.
+1. **Rain painting:** blob paint onto thick paper, put it outside in the rain for thirty seconds, bring it back. The rain does the painting.
+2. **Rain gauge:** mark measurements up the side of a straight jar with a marker. Set it outside somewhere open.
+3. Check it at the end of the morning. How much fell?
+4. Then go out and get wet properly — no attempt at staying dry.
+5. Warm bath and dry clothes after. The contrast is half the pleasure.
 
-> 💡 **Tip:** The counting is the single best anti-fear tool for storms. It gives her a job, makes the storm measurable, and produces evidence that it's moving away.
+> 💡 **Tip:** Powdered drink mix sprinkled on wet paper makes astonishing colors and smells like fruit. Better than paint for this, and cheaper.
 
-### 🏃 Indoor Movement: The Weather Dance
-Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder is stomping, sunshine is stretching tall, calm is lying flat. Always end on calm.
+### 🌳 Get Outside: The Deliberate Soaking
+Puddle jumping with no attempt at dryness. Catch raindrops. Stand under a drainpipe. Let it be an event rather than an inconvenience.
 
-> 👶 **Infant Integration:** Thunder frightens a lot of one-year-olds. If Kreston is upset, hold him — contact regulates him faster than anything. Skip the baking-sheet thunder while he's in the room.
+> 👶 **Infant Integration:** Kreston is walking — a few minutes in the rain in waterproofs is genuinely novel for him. Keep it short, get him dry fast, and watch for cold hands.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Children take their fear reading from your face first.**
-> Before a young child decides whether something is dangerous, she checks an adult. This is called social referencing, and it starts in infancy — the same loud noise produces panic or delight depending almost entirely on the caregiver's expression.
-> Which means your reaction to the first thunderclap does more than any explanation afterward. If you look interested rather than alarmed, she usually will too. This is worth remembering for spiders, injections, dogs, and every other thing she hasn't yet decided how to feel about.
+> **Being uncomfortable on purpose is a useful experience.**
+> Children who are only ever taken out in good weather learn that discomfort is to be avoided. Children who occasionally get deliberately soaked, cold, or muddy — and then warm and dry again — learn something more useful: that discomfort is temporary and survivable, and sometimes fun.
+> The essential part is the recovery. Wet and cold with no warm bath afterward is just miserable. Wet and cold followed by a hot bath and dry pajamas is an adventure. The contrast is what makes it a good memory rather than a bad one.
 
-> 💛 **From Joseph:** You don't flinch at things. They watch you and decide the world is fine. That's a real power.
+> 💛 **From Joseph:** You take them out in the rain. Most people wouldn't. They're going to be the kind of adults who go outside anyway.
 
 <div style="page-break-after: always;"></div>
 
-<a id="may-weather-2"></a>
+<a id="apr-weather-2"></a>
 
-## 🥵 Bad Weather Day 2: The First Hot Day
-**Use when:** It's suddenly too hot to be out in the middle of the day and everyone's wilting.
+## ⛈️ Bad Weather Day 2: The Storm Day
+**Use when:** It's genuinely too wild to go out — thunder, high wind, driving rain.
 
 ### ⏰ At-a-Glance Schedule
-- **8:30–9:30 AM** — Get Outside EARLY: Water Play (60 min)
-- **9:30–9:45 AM** — Snack (15 min)
-- **9:45–10:45 AM** — Main Event: Ice Excavation (60 min)
-- **10:45–11:30 AM** — Indoor Cool-Down: Shade & Stories (45 min)
-- **11:30 AM–12:00 PM** — Ice Pops (30 min)
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Storm in a Jar & Thunder Music (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Indoor Movement: The Storm Dance (45 min)
+- **11:15 AM–12:00 PM** — Storm Watching (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Ice Excavation
+### 🎨 The Main Event: Storm in a Jar & Thunder Music
 **🧰 Complete Materials List:**
-- Small toys frozen in a bowl or bucket of water the night before
-- Warm water in a squirt bottle or jug
-- Salt in a small dish
-- Spoons and a small hammer or wooden spoon
-- A tray to contain the melt
+- A clear jar, water, shaving cream, blue food coloring, a pipette
+- A metal baking sheet
+- Rice and a plastic tub
+- A flashlight
 
 **📝 Step-by-Step Instructions:**
-1. Tip the frozen block out of its container onto a tray.
-2. Give her tools: warm water, salt sprinkled on top, a spoon for chipping.
-3. She excavates the toys. This takes a long time and she'll stay with it.
-4. **Try it three ways** — warm water, salt, and just waiting. Which is fastest?
-5. Do it in the shade outside, or in the paddling pool.
+1. **Rain cloud in a jar:** water three-quarters full, shaving cream cloud on top, blue drops added until it breaks through and rains down.
+2. **Thunder:** wobble a metal baking sheet. It's a genuinely convincing thunder sound.
+3. **Rain sound:** rice poured slowly into a plastic tub, or fingertips drumming on a table.
+4. **Lightning:** flash the flashlight, then wobble the sheet a moment later.
+5. Talk about counting the gap between flash and rumble — and then count it for real at the window.
 
-> 💡 **Tip:** Flip the whole day earlier. Outside before 9:30, indoors during the worst heat, out again after nap. Fighting the middle of a hot day is a losing battle.
+> 💡 **Tip:** Counting between lightning and thunder is the classic anxiety-defuser for a frightened child. It gives her a job, and it makes the storm measurable rather than mysterious.
 
-### 🏃 Indoor Cool-Down
-Shade, stories, and something cold. Homemade ice pops — juice or blended fruit in molds, made in the morning for the afternoon.
+### 🏃 Indoor Movement: The Storm Dance
+Be the weather. Drizzle is tiptoes, wind is spinning, thunder is stomping, calm is lying flat. Call out weather and she becomes it — and end on calm.
 
-> 👶 **Infant Integration:** A one-year-old overheats far faster than she does. Shade, hat, extra water, and watch for a flushed face or unusual crankiness. Ice in a mesh feeder is good for teething and cooling at once.
+> 👶 **Infant Integration:** Loud thunder frightens many babies. If Kreston is unsettled, hold him — physical closeness regulates him faster than anything else. Keep the thunder-sheet quiet while he's in the room.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Heat, hunger, and tiredness account for most "bad behavior."**
-> Before treating a difficult morning as a behavioral issue, run the physical checklist: hot, hungry, thirsty, tired, needs the toilet. Young children have poor interoception — they often genuinely cannot identify what's wrong, and it comes out as defiance or a meltdown instead.
-> On the first hot day of the year especially, the answer is nearly always physical. Cool her down and feed her before you address anything else. Most of what looks like a discipline problem at four is a body problem wearing a costume.
+> **Understanding a frightening thing shrinks it.**
+> Fear of thunder is extremely common at this age, and reassurance alone rarely resolves it — *"it can't hurt you"* doesn't land against a loud noise. What works better is explanation plus control: what thunder is, that it follows lightning, that you can count the gap and tell how far away it is.
+> Giving her a task during the scary thing is the mechanism. Counting converts a passive experience into an active one, and active is less frightening than passive. The same trick works for the doctor, the dark, and the vacuum cleaner.
 
-> 💛 **From Joseph:** You check if they're hungry before you get cross. Sounds obvious. Almost nobody actually does it.
+> 💛 **From Joseph:** You explain things instead of just saying it's fine. She trusts you because you've never told her something wasn't scary when it was.
 
 <div style="page-break-after: always;"></div>
 
-<a id="may-sick-1"></a>
+<a id="apr-sick-1"></a>
 
-## 🤒 Sick Day 1: The Blanket Cloud
-**Use when:** She's properly unwell, or pollen season has flattened her.
+## 🤒 Sick Day 1: The Window Garden
+**Use when:** She's genuinely unwell. Low light, low demand, low energy.
 
 ### ⏰ At-a-Glance Schedule
 - **Whenever she wakes** — Build the nest (20 min)
-- **Mid-morning** — Main Event: Story Stones (20–30 min in bursts)
-- **Snack** — Cold, soft, easy
-- **Late morning** — Reading pile
+- **Mid-morning** — Main Event: The Windowsill Garden (20–30 min in bursts)
+- **Snack** — Cold and easy
+- **Late morning** — Stories
 - **Nap early.**
 
-### 🎨 The Main Event: Story Stones
+### 🎨 The Main Event: The Windowsill Garden
 **🧰 Complete Materials List:**
-- 6–8 smooth stones from the collection
-- Permanent markers or paint pens
+- A clear cup, cotton balls, dried beans
+- A carrot top or the base of a celery stalk
+- A shallow dish with a little water
 - A cookie sheet as a lap tray
-- A small bag or tin to keep them in
+- Paper and crayons
 
 **📝 Step-by-Step Instructions:**
-1. Set up the nest. Cookie sheet across her lap.
-2. She draws one simple thing on each stone: a sun, a house, a cat, a tree, a person, a star.
-3. Put them all in a bag.
-4. Pull one out and start a story. Pull another and continue it. Take turns.
-5. Keep them in a tin. They become a permanent storytelling toy.
+1. Set her up by a window with the nest built around her.
+2. **Bean in a cup:** wet cotton, beans tucked against the glass so the roots are visible.
+3. **Carrot top:** sit the cut top of a carrot in a shallow dish of water. It regrows green fronds within days.
+4. **Celery base:** same idea, in water. New growth appears from the middle.
+5. Draw all three on day one. Nothing has happened. That's the record.
 
-> 💡 **Tip:** Simple symbols work far better than detailed drawings. A wobbly circle labeled "sun" prompts more story than a beautiful one.
+> 💡 **Tip:** A carrot top in water is the best sick-day plant there is — it visibly changes within two days, which is exactly the timescale of a mild illness.
 
 ### 🧸 Rest & Wind-Down
-Reading, the same books repeatedly. Familiar text is what a tired brain wants.
+Books by the window. Same one repeatedly if that's what she wants.
 
-> 👶 **Infant Integration:** Stones are a choking hazard for a walking one-year-old. Keep the tin high. If he's well and she's not, set up a contained safe zone in the same room and lower every other standard for the day.
+> 👶 **Infant Integration:** Dried beans are a serious choking hazard and Kreston is walking now. The whole setup goes on a high windowsill, not the coffee table.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Storytelling with prompts is easier than storytelling from nothing.**
-> "Tell me a story" is a hard request — it requires generating structure and content simultaneously. A random object supplies the content, so all she has to do is connect things, which is much more achievable.
-> This is a general principle worth using: constraints make creativity easier, not harder. A blank page is intimidating; a page with three random words on it produces more. Story stones, story dice, and "what if" prompts all work on this mechanism, and they're ideal for a low-energy day.
+> **Sick days shrink a child's world, and that's part of what's hard.**
+> Illness removes agency. She can't choose to go outside, can't do what she wants, can't control her own body. A good deal of sick-day misery is that loss of control rather than the symptoms themselves.
+> Which is why very small choices help disproportionately: which cup, which book, which windowsill plant is hers. It costs nothing to offer two options instead of one, and it gives back a scrap of the autonomy the illness took. Watch how much a genuinely trivial choice can settle her.
 
-> 💛 **From Joseph:** You tell them stories off the top of your head. I've never been able to do it and I'm slightly jealous.
+> 💛 **From Joseph:** You give them choices even when it makes everything slower. On the bad days it's the thing that helps most.
 
 <div style="page-break-after: always;"></div>
 
-<a id="may-sick-2"></a>
+<a id="apr-sick-2"></a>
 
-## 🤧 Sick Day 2: The Garden From Bed
-**Use when:** She's recovering — restless, bored, wants to be part of things.
+## 🤧 Sick Day 2: The Nature Table
+**Use when:** She's recovering — restless, bored, not up to going out.
 
 ### ⏰ At-a-Glance Schedule
 - **Slow start** — Her pace
-- **Mid-morning** — Main Event: The Garden Report (30–40 min)
+- **Mid-morning** — Main Event: Build a Nature Table (30–40 min)
 - **Snack** — Warm and simple
-- **Midday** — Blanket outside in the shade, if she's up to it
+- **Midday** — Floor picnic
 - **Rest** — Audio story
 
-### 🎨 The Main Event: The Garden Report
+### 🎨 The Main Event: Build a Nature Table
 **🧰 Complete Materials List:**
-- The garden journal
-- A phone with a camera
-- Paper and crayons
-- A cut flower or a leaf brought in from the garden
+- A tray or small table she can reach from the couch
+- Things collected on past walks: rocks, pinecones, feathers, shells, seed pods
 - A magnifying glass
+- Index cards and a crayon for labels
 
 **📝 Step-by-Step Instructions:**
-1. **You go out and photograph her garden.** She stays put.
-2. Bring in one cutting — a leaf, a flower, a weed, a sunflower leaf.
-3. Show her the photos. Ask what's changed since last week.
-4. She draws today's entry in the garden journal from the photos.
-5. Examine the cutting with a magnifying glass. Count the veins.
+1. Bring the collection box to her. She doesn't have to move.
+2. She sorts everything — by type, size, color, or a rule of her own invention.
+3. Arrange it on the tray with space between items, like a museum.
+4. Label each one. She dictates; you write.
+5. Leave it up. She'll rearrange it over the following days as she gets better.
 
-> 💡 **Tip:** Being kept in the loop about something that's hers matters more than the activity. A sick child who's missing out feels it — this is how she stays connected to her garden without going outside.
+> 💡 **Tip:** Ask what her sorting rule is. It's frequently not the one you'd guess, and the reasoning is usually more interesting than the arrangement.
 
 ### 🧸 Rest & Wind-Down
-If she's well enough, a blanket in the shade outside for twenty minutes. Fresh air helps more than it seems like it should.
+Floor picnic beside the nature table. Look at things through the magnifying glass lying down.
 
-> 👶 **Infant Integration:** Kreston can go out with you to take the photos and toddle in the garden while she's resting. He needs the movement even when the day is otherwise on hold.
+> 👶 **Infant Integration:** Small natural objects and a walking baby don't mix. Keep the tray up on a table, and let him look from your arms.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Continuity of ownership matters during illness.**
-> A child with a project — a garden, a plant, a collection — can feel it slipping away when she's ill. Bringing the project *to* her preserves the sense that it's still hers and still going, which matters more than the day's activity.
-> There's a broader version of this that's worth knowing: young children experience gaps in routine as genuinely disorienting. Small threads of continuity — the same song, the same daily check, the same jobs even if done from the couch — do a lot to make a disrupted week feel navigable.
+> **Recovery boredom is the right time for collections.**
+> A child on the mend has curiosity returning but no stamina — and sorting a collection is close to the ideal match. It's absorbing, requires no physical effort, can be done sitting still, and can be abandoned and returned to.
+> There's a bonus: collections build a sense of continuity across time. These are the things she picked up in January, March, last week. Handling them again links her present self to her past self, which is a subtle but genuine part of how a child builds an identity.
 
-> 💛 **From Joseph:** You bring the world to them when they can't get to it. That's a very specific kind of thoughtful.
+> 💛 **From Joseph:** That box of rocks has been in three rooms of this house. You've never suggested we throw it out.
 
 <div style="page-break-after: always;"></div>
 
-<a id="may-extras"></a>
+<a id="apr-extras"></a>
 
-## ✨ May — Extra Ideas
+## ✨ April — Extra Ideas
 ### *When you just need one more thing*
 
 ---
 
 ### 🎲 Alternative Activities
 
-**Sprinkler Run** — First sprinkler of the year. Swimsuits, no plan, an hour gone.
+**Worm Patrol** — After rain, move stranded worms back to soil. A genuine job with a genuine point.
 
-**Ice Pop Making** — Juice or blended fruit in molds in the morning, eaten in the afternoon. Zero skill, high reward.
+**Puddle Science** — What floats? Leaf, stick, stone, bottle cap. Test everything in the biggest puddle on the street.
 
-**Barefoot Texture Walk** — Grass, pavement, dirt, a wet towel, a tray of sand. Which feels best? Which is horrible?
+**Mud Kitchen** — A bowl, a spoon, and permission. April mud is the best mud of the year.
 
-**Car Wash** — Bucket of soapy water and every wheeled toy in the house. Takes an hour and produces clean toys.
+**Boat Races** — Leaves or folded paper in a gutter stream. Whose gets to the drain first?
 
-**Chalk Everything** — Roads for cars, a hopscotch grid, an obstacle course, a whole town. Restock the chalk.
+**The Watering Round** — Give her a can and a route: her patch, the pots, the grass head, the terrarium. A real daily job.
 
-**Bubble Chase** — Bubbles into the breeze, both kids chasing. Kreston walking after bubbles is the best sight of the month.
+**Snail Hunt** — After rain, find snails and count them. Watch one move. It takes a while and that's the point.
 
-**Snail Race** — Find two snails, mark a start and finish, wait. It takes forever and she'll be riveted.
+**Barefoot Grass** — First barefoot day of the year. Walk on grass, then pavement, then dirt. Which feels best?
 
-**Watering Round** — Her garden, the pots, the grass head, the terrarium. A real daily job she now owns.
+**The Slowest Walk Ever** — To the end of the block as slowly as humanly possible. You'll both see new things.
 
-**Nature Table Refresh** — Empty the collection box and re-sort everything by a new rule.
+**Bug Safari** — Magnifying glass, turn over two rocks, put everything back exactly.
 
-**Shadow Tag** — Step on someone's shadow to tag them. Works best in bright late-afternoon sun.
+**Chalk Obstacle Course** — Draw a route on the driveway: hop here, spin here, balance along this line.
 
-**Cloud Watching** — A blanket, lying down, naming shapes. Doubles as a rest.
+**Sunflower Measuring** — Cut a paper strip to the height of the tallest seedling. Glue it in the journal. Compare weekly.
 
-**Kreston's Turn** — He's walking. Give him a push wagon, a low step to climb, a ball to chase, or a laundry basket to shove across the floor. He needs distance now, not just floor space.
+**Kreston's Turn** — He's walking. Set up a push toy, a laundry basket to push across the floor, or a low cushion course to climb over. He needs reasons to be upright.
 
 ---
 
 ### 🎨 Alternative Arts & Crafts
 
-**Flower Pounding** — A flower between cloth and paper, tapped with a wooden spoon. The color transfers straight onto the fabric.
+**Rain Painting** — Paint blobs on thick paper, thirty seconds in the rain, back inside. The weather finishes it.
 
-**Sun Prints** — Dark paper in direct sun with objects laid on top. Two hours later, silhouettes.
+**Mud Prints** — Press hands, leaves, or toy feet into a tray of mud and let it bake hard in the sun.
 
-**Chalk & Water Painting** — Dip chalk in water before drawing. The colors come out startlingly bright.
+**Flower Pounding** — Lay a flower between cloth and paper, tap gently with a wooden spoon. The color transfers. Genuinely magic.
 
-**Bubble Print Painting** — Dish soap and paint in a cup, blow bubbles with a straw until they dome over the rim, press paper on top.
+**Egg Carton Caterpillars** — A strip of cups, painted, with pipe cleaner antennae.
 
-**Nature Paintbrushes** — Grass, pine needles, and leaves rubber-banded to sticks. Each one makes a different mark.
+**Seed Mosaic** — Beans, lentils, and rice glued into patterns on card. Excellent pincer work.
 
-**Handprint Bouquet** — Handprints as flowers with drawn stems. The Mother's Day craft works any time.
+**Nature Weaving** — A cardboard loom with string across it. Weave in grass, flowers, and long leaves.
 
-**Rock Painting** — Ladybugs, kindness rocks, or story stones. Seal with clear nail polish for outdoors.
+**Leaf Rubbings** — Leaves under paper, rubbed with the side of a peeled crayon. New spring leaves have the sharpest veins.
 
-**Paper Plate Sunflowers** — A plate center painted brown, yellow petals glued around the rim, real seeds pressed into the middle.
+**Handprint Flowers** — Handprints as petals around a circle center, stems drawn below. Date it.
 
-**Foil Sculpture** — A roll of foil and nothing else. Infinitely reworkable, zero mess.
+**Bottle Cap Stamps** — Dip a cap in paint and print circles. Overlap the colors.
 
-**Salad Spinner Art** — Paper circle in a salad spinner, blobs of paint, spin hard. Astonishing results, contained mess.
+**Paper Plate Butterflies** — Cut a plate into two wings, paint symmetrically, fold to press the pattern across.
 
-**Tissue Paper Suncatchers** — Tissue squares on contact paper, sealed and taped to a sunny window.
+**Pressed Flower Bookmarks** — Petals between two strips of contact paper, trimmed. Useful, and made from the garden.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Outdoor play is the highest-return activity available, and May is when it gets easy.**
-> Time outside is linked to better sleep, better attention, better mood, and fewer conflicts — and the effect holds even when the time is completely unstructured. Standing in a garden doing nothing counts.
-> From now until autumn, the honest advice is to lean on this. On the days you have nothing left, take them out and sit down. The bar for a good day drops considerably in summer, and there's no reason not to take that gift.
+> **Outdoor time is doing more than you can see.**
+> Time outside is associated with better sleep, better attention, better mood, and less conflict in young children — and the effect appears even when the outdoor time isn't structured or "educational" at all. Standing in a garden doing nothing counts.
+> So on the days when you can't face a plan: the outdoor half is the half worth keeping. Twenty minutes in the yard with no activity at all will very often do more for the rest of the day than the craft would have. Skip up, not down.
 
-> 💛 **From Joseph:** Summer's coming. It gets easier for a while. Take the easy months when they're offered.
+> 💛 **From Joseph:** When it's all going wrong, take them outside. That's your own advice, said back to you. It's always been the right one.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-may"></a>
@@ -10614,267 +10355,263 @@ Full outdoor session. Loud, slow, and repeated as many times as she wants.
 > 💛 **From Joseph:** Twenty-two weeks. He walks now. She organizes parades. Look what's happened since January.
 
 <div style="page-break-after: always;"></div>
-<a id="backup-june"></a>
+<a id="backup-may"></a>
 
-# 🌧️ June Backup Days
+# 🌧️ May Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**June's version of a bad day:** the first real heat of the year, thunderstorms that roll in with no warning, and a one-year-old who has just learned to walk and now needs watching every second. Two of these are for when it's too hot or too wild to be out, and two are for a summer illness — which hits harder because everyone expects summer to be easy.
+**May's version of a bad day:** thunderstorms that arrive out of nowhere, the first properly hot day where nobody can function, and pollen season, which floors some children entirely. The weather is mostly good now, so these days are less about hiding indoors and more about the days when *she* isn't up to the plan.
 
 ---
 
-<a id="jun-weather-1"></a>
+<a id="may-weather-1"></a>
 
-## 🥵 Bad Weather Day 1: Too Hot to Move
-**Use when:** It's genuinely dangerous heat, or the kind where twenty minutes outside leaves everyone red and furious.
-
-### ⏰ At-a-Glance Schedule
-- **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: The Indoor Ice Station (60 min)
-- **10:15–10:30 AM** — Snack: Ice Pops (15 min)
-- **10:30–11:15 AM** — Indoor Movement: Slow-Motion Games (45 min)
-- **11:15 AM–12:00 PM** — Cool Quiet Play (45 min)
-- **12:00 PM** — Lunch & Nap Prep
-
-### 🎨 The Main Event: The Indoor Ice Station
-**🧰 Complete Materials List:**
-- Ice cubes, plain and colored
-- A large tray or roasting tin
-- Small bowls of warm water
-- Salt in a shaker
-- Spoons, tongs, droppers
-- Towels
-
-**📝 Step-by-Step Instructions:**
-1. Set the tray on a towel on the kitchen floor and fill it with ice.
-2. Give her warm water, salt, and tools. Melting is the whole activity.
-3. Add colored cubes and let the colors run together as they melt.
-4. Salt on ice makes channels and cracks — the best discovery here.
-5. She'll stay with this a long time, and it physically cools her down.
-
-> 💡 **Tip:** In serious heat, ice play does two jobs at once — it occupies her and it lowers her body temperature. Better than a screen and better than trying to be outside.
-
-### 🏃 Indoor Movement: Slow-Motion Games
-Everything in slow motion — walking across the room, a slow-motion race, slow-motion tag. It's genuinely funny, uses energy, and generates almost no heat.
-
-> 👶 **Infant Integration:** Kreston overheats faster than she does and won't tell you. Watch for flushed cheeks and crankiness. Give him a frozen washcloth to chew — good for teething and cooling.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Heat makes children behave badly, and it isn't a discipline problem.**
-> Young children regulate temperature poorly, dehydrate faster than adults, and have very little ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
-> The first response to a bad afternoon in summer should be water, shade, and a cooler room. Not a conversation about behavior. Solve the physical problem first; you can nearly always skip the second conversation entirely.
-
-> 💛 **From Joseph:** When they're melting down in the heat, you hand them water before you say anything. That order matters more than people realize.
-
-<div style="page-break-after: always;"></div>
-
-<a id="jun-weather-2"></a>
-
-## ⛈️ Bad Weather Day 2: The Summer Storm
-**Use when:** A thunderstorm has cancelled everything, and someone is nervous about it.
+## ⛈️ Bad Weather Day 1: The Thunderstorm
+**Use when:** A storm rolls in and outside is off the table.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Storm Watching & Storm Sounds (60 min)
+- **9:15–10:15 AM** — Main Event: Storm Watching & Sound Making (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Indoor Movement: The Weather Dance (45 min)
-- **11:15 AM–12:00 PM** — Fort & Quiet Play (45 min)
+- **11:15 AM–12:00 PM** — Blanket Fort & Stories (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Storm Watching & Storm Sounds
+### 🎨 The Main Event: Storm Watching & Sound Making
 **🧰 Complete Materials List:**
-- A window with a good view
-- A blanket and cushions
-- A metal baking sheet, rice, a plastic tub
-- A flashlight
+- A window with a view
+- A metal baking sheet (thunder)
+- Rice and a plastic tub (rain)
+- A flashlight (lightning)
 - Paper and crayons
 
 **📝 Step-by-Step Instructions:**
-1. Build a nest at the window. Watching a storm from somewhere cozy reframes it entirely.
-2. **Count the gap** between the flash and the rumble. That's roughly how far away it is. Count together every time.
-3. Make your own storm: wobble the baking sheet for thunder, pour rice for rain, flash the torch for lightning.
-4. Perform a storm — building, peaking, then passing.
+1. Sit at the window together and watch properly. Storms are genuinely spectacular and worth looking at.
+2. **Count between the flash and the rumble.** Five seconds is roughly a mile. Do it every time.
+3. Track the numbers on paper — are they getting bigger or smaller? Is it coming or going?
+4. Recreate the storm with your instruments: rice for rain, baking sheet for thunder, flashlight for lightning.
 5. Draw the storm afterward.
 
-> 💡 **Tip:** Counting between flash and thunder is the classic fix for storm fear. It gives her a job, and it turns something mysterious into something measurable that's usually moving away.
+> 💡 **Tip:** The counting is the single best anti-fear tool for storms. It gives her a job, makes the storm measurable, and produces evidence that it's moving away.
 
 ### 🏃 Indoor Movement: The Weather Dance
-Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder is stomping, sunshine is stretching tall. **End on calm.**
+Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder is stomping, sunshine is stretching tall, calm is lying flat. Always end on calm.
 
-> 👶 **Infant Integration:** Loud thunder frightens many one-year-olds and there's nothing to explain to him. Hold him — physical closeness regulates a toddler faster than words. Keep your own reaction relaxed; he's reading your face.
+> 👶 **Infant Integration:** Thunder frightens a lot of one-year-olds. If Kreston is upset, hold him — contact regulates him faster than anything. Skip the baking-sheet thunder while he's in the room.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Children calibrate fear from your face, not from the facts.**
-> A 4-year-old checks her adult before deciding whether something is dangerous — it's called social referencing, and it's active from infancy. Your expression during the thunderclap does more than your explanation afterward.
-> So the useful move at the moment of the bang isn't words. It's being visibly unbothered — a relaxed face, an ordinary voice, maybe mild interest. Explanation helps afterward. In the moment, she's watching you, and calm is contagious.
+> **Children take their fear reading from your face first.**
+> Before a young child decides whether something is dangerous, she checks an adult. This is called social referencing, and it starts in infancy — the same loud noise produces panic or delight depending almost entirely on the caregiver's expression.
+> Which means your reaction to the first thunderclap does more than any explanation afterward. If you look interested rather than alarmed, she usually will too. This is worth remembering for spiders, injections, dogs, and every other thing she hasn't yet decided how to feel about.
 
-> 💛 **From Joseph:** You're calm when things bang and crash. They both look at you first, every time, and you always give them the right face.
+> 💛 **From Joseph:** You don't flinch at things. They watch you and decide the world is fine. That's a real power.
 
 <div style="page-break-after: always;"></div>
 
-<a id="jun-sick-1"></a>
+<a id="may-weather-2"></a>
 
-## 🤒 Sick Day 1: The Cool Cave
-**Use when:** She's unwell in summer — feverish, hot, wilted. Everything low, dark, and cool.
+## 🥵 Bad Weather Day 2: The First Hot Day
+**Use when:** It's suddenly too hot to be out in the middle of the day and everyone's wilting.
 
 ### ⏰ At-a-Glance Schedule
-- **Whenever she wakes** — Build the cave (20 min)
-- **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
-- **Snack** — Cold and wet
-- **Late morning** — Stories in the dark
+- **8:30–9:30 AM** — Get Outside EARLY: Water Play (60 min)
+- **9:30–9:45 AM** — Snack (15 min)
+- **9:45–10:45 AM** — Main Event: Ice Excavation (60 min)
+- **10:45–11:30 AM** — Indoor Cool-Down: Shade & Stories (45 min)
+- **11:30 AM–12:00 PM** — Ice Pops (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Ice Excavation
+**🧰 Complete Materials List:**
+- Small toys frozen in a bowl or bucket of water the night before
+- Warm water in a squirt bottle or jug
+- Salt in a small dish
+- Spoons and a small hammer or wooden spoon
+- A tray to contain the melt
+
+**📝 Step-by-Step Instructions:**
+1. Tip the frozen block out of its container onto a tray.
+2. Give her tools: warm water, salt sprinkled on top, a spoon for chipping.
+3. She excavates the toys. This takes a long time and she'll stay with it.
+4. **Try it three ways** — warm water, salt, and just waiting. Which is fastest?
+5. Do it in the shade outside, or in the paddling pool.
+
+> 💡 **Tip:** Flip the whole day earlier. Outside before 9:30, indoors during the worst heat, out again after nap. Fighting the middle of a hot day is a losing battle.
+
+### 🏃 Indoor Cool-Down
+Shade, stories, and something cold. Homemade ice pops — juice or blended fruit in molds, made in the morning for the afternoon.
+
+> 👶 **Infant Integration:** A one-year-old overheats far faster than she does. Shade, hat, extra water, and watch for a flushed face or unusual crankiness. Ice in a mesh feeder is good for teething and cooling at once.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Heat, hunger, and tiredness account for most "bad behavior."**
+> Before treating a difficult morning as a behavioral issue, run the physical checklist: hot, hungry, thirsty, tired, needs the toilet. Young children have poor interoception — they often genuinely cannot identify what's wrong, and it comes out as defiance or a meltdown instead.
+> On the first hot day of the year especially, the answer is nearly always physical. Cool her down and feed her before you address anything else. Most of what looks like a discipline problem at four is a body problem wearing a costume.
+
+> 💛 **From Joseph:** You check if they're hungry before you get cross. Sounds obvious. Almost nobody actually does it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="may-sick-1"></a>
+
+## 🤒 Sick Day 1: The Blanket Cloud
+**Use when:** She's properly unwell, or pollen season has flattened her.
+
+### ⏰ At-a-Glance Schedule
+- **Whenever she wakes** — Build the nest (20 min)
+- **Mid-morning** — Main Event: Story Stones (20–30 min in bursts)
+- **Snack** — Cold, soft, easy
+- **Late morning** — Reading pile
 - **Nap early.**
 
-### 🎨 The Main Event: The Ice Bowl
+### 🎨 The Main Event: Story Stones
 **🧰 Complete Materials List:**
-- A shallow bowl of ice cubes
-- A washcloth
+- 6–8 smooth stones from the collection
+- Permanent markers or paint pens
 - A cookie sheet as a lap tray
-- A spoon and a small cup of warm water
-- Paper and crayons
-- A flashlight
+- A small bag or tin to keep them in
 
 **📝 Step-by-Step Instructions:**
-1. Build a dark, cool cave — blanket over the couch, curtains drawn, fan on. Dark and cool is the whole prescription.
-2. Give her a shallow bowl of ice on a cookie sheet, plus a spoon and a little warm water.
-3. She melts, moves, and stacks the ice. Low effort, physically cooling, absorbing.
-4. Wrap one cube in a washcloth for her to hold against her neck or forehead.
-5. Read in the cave by flashlight when she's had enough.
+1. Set up the nest. Cookie sheet across her lap.
+2. She draws one simple thing on each stone: a sun, a house, a cat, a tree, a person, a star.
+3. Put them all in a bag.
+4. Pull one out and start a story. Pull another and continue it. Take turns.
+5. Keep them in a tin. They become a permanent storytelling toy.
 
-> 💡 **Tip:** A cool washcloth on the back of the neck helps a hot, miserable child more than almost anything. Keep a couple in the fridge on a fever day.
+> 💡 **Tip:** Simple symbols work far better than detailed drawings. A wobbly circle labeled "sun" prompts more story than a beautiful one.
 
 ### 🧸 Rest & Wind-Down
-Stories in the dark cave. The same one repeatedly if that's what she asks for.
+Reading, the same books repeatedly. Familiar text is what a tired brain wants.
 
-> 👶 **Infant Integration:** A sick preschooler and a walking one-year-old is the hardest combination in this book. Set up a contained safe zone in the same room, rotate three new-to-him objects through it, and drop every other standard for the day.
+> 👶 **Infant Integration:** Stones are a choking hazard for a walking one-year-old. Keep the tin high. If he's well and she's not, set up a contained safe zone in the same room and lower every other standard for the day.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Fever makes children clingy, and meeting it shortens it.**
-> Illness reliably triggers regression and clinginess — wanting to be held, carried, babied. This isn't manipulation and it isn't a habit you'll create by indulging it. Under physiological stress, a child's attachment system activates, and proximity to a caregiver is genuinely what settles it.
-> Holding her more, not less, is the shorter route back to normal. The independence she loses this week returns within days of feeling well, provided nobody made a battle out of it.
+> **Storytelling with prompts is easier than storytelling from nothing.**
+> "Tell me a story" is a hard request — it requires generating structure and content simultaneously. A random object supplies the content, so all she has to do is connect things, which is much more achievable.
+> This is a general principle worth using: constraints make creativity easier, not harder. A blank page is intimidating; a page with three random words on it produces more. Story stones, story dice, and "what if" prompts all work on this mechanism, and they're ideal for a low-energy day.
 
-> 💛 **From Joseph:** Hold her as much as she wants. You'll never look back and wish you'd held her less.
+> 💛 **From Joseph:** You tell them stories off the top of your head. I've never been able to do it and I'm slightly jealous.
 
 <div style="page-break-after: always;"></div>
 
-<a id="jun-sick-2"></a>
+<a id="may-sick-2"></a>
 
-## 🤧 Sick Day 2: The Shade Blanket
-**Use when:** She's recovering — bored, cranky, wants out but hasn't the energy.
+## 🤧 Sick Day 2: The Garden From Bed
+**Use when:** She's recovering — restless, bored, wants to be part of things.
 
 ### ⏰ At-a-Glance Schedule
-- **Slow start** — Her pace entirely
-- **Mid-morning** — Main Event: Outside, Lying Down (30–40 min)
-- **Snack** — Cold and easy
-- **Midday** — Lunch on the blanket
-- **Rest** — Audio story in the shade
+- **Slow start** — Her pace
+- **Mid-morning** — Main Event: The Garden Report (30–40 min)
+- **Snack** — Warm and simple
+- **Midday** — Blanket outside in the shade, if she's up to it
+- **Rest** — Audio story
 
-### 🎨 The Main Event: Outside, Lying Down
+### 🎨 The Main Event: The Garden Report
 **🧰 Complete Materials List:**
-- A blanket in deep shade
-- Pillows
-- A cup with a lid
+- The garden journal
+- A phone with a camera
+- Paper and crayons
+- A cut flower or a leaf brought in from the garden
 - A magnifying glass
-- Paper and crayons on a tray
-- A jar for anything she finds within reach
 
 **📝 Step-by-Step Instructions:**
-1. Set up a proper nest in full shade. She lies down; the garden comes to her.
-2. Bring things *to* her — a leaf, a flower, a stone, a bug in a jar.
-3. Magnifying glass and a lie-down are compatible. Close looking requires no energy.
-4. Cloud watching. Name the shapes.
-5. Lunch on the blanket. Nobody has to sit up.
+1. **You go out and photograph her garden.** She stays put.
+2. Bring in one cutting — a leaf, a flower, a weed, a sunflower leaf.
+3. Show her the photos. Ask what's changed since last week.
+4. She draws today's entry in the garden journal from the photos.
+5. Examine the cutting with a magnifying glass. Count the veins.
 
-> 💡 **Tip:** Fresh air and shade do a recovering child real good, and none of it requires her to be upright. Don't wait for her to be well enough to *do* something outside.
+> 💡 **Tip:** Being kept in the loop about something that's hers matters more than the activity. A sick child who's missing out feels it — this is how she stays connected to her garden without going outside.
 
 ### 🧸 Rest & Wind-Down
-Audio story or quiet music on the blanket. Let her doze out there if she will.
+If she's well enough, a blanket in the shade outside for twenty minutes. Fresh air helps more than it seems like it should.
 
-> 👶 **Infant Integration:** Kreston can toddle around the blanket while she rests on it. She gets company without demand, and he gets to move. Watch the sun as it shifts — the shade moves.
+> 👶 **Infant Integration:** Kreston can go out with you to take the photos and toddle in the garden while she's resting. He needs the movement even when the day is otherwise on hold.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Outdoors helps even when nothing is happening.**
-> Time outside is linked to better mood, better sleep, and better attention in young children — and the effect doesn't depend on the activity being structured or vigorous. Lying on a blanket in the shade counts.
-> This is genuinely useful on recovery days, when a child is too depleted for anything active but too bored to stay indoors. Moving the nest outside changes almost nothing about the demands on her and quite a lot about how the day feels.
+> **Continuity of ownership matters during illness.**
+> A child with a project — a garden, a plant, a collection — can feel it slipping away when she's ill. Bringing the project *to* her preserves the sense that it's still hers and still going, which matters more than the day's activity.
+> There's a broader version of this that's worth knowing: young children experience gaps in routine as genuinely disorienting. Small threads of continuity — the same song, the same daily check, the same jobs even if done from the couch — do a lot to make a disrupted week feel navigable.
 
-> 💛 **From Joseph:** Even on the write-off days you get them outside somehow. It's the smallest thing and it changes everything.
+> 💛 **From Joseph:** You bring the world to them when they can't get to it. That's a very specific kind of thoughtful.
 
 <div style="page-break-after: always;"></div>
 
-<a id="jun-extras"></a>
+<a id="may-extras"></a>
 
-## ✨ June — Extra Ideas
+## ✨ May — Extra Ideas
 ### *When you just need one more thing*
 
 ---
 
 ### 🎲 Alternative Activities
 
-**Sprinkler, No Plan** — Turn it on and leave. The highest value-per-effort activity of the entire summer.
+**Sprinkler Run** — First sprinkler of the year. Swimsuits, no plan, an hour gone.
 
-**Frozen Sponge Toss** — Wet sponges frozen overnight. Cold, soft, wet, and much safer than water balloons.
+**Ice Pop Making** — Juice or blended fruit in molds in the morning, eaten in the afternoon. Zero skill, high reward.
 
-**The Car Wash** — Bucket, sponges, hose, every wheeled thing you own. Ninety minutes, reliably.
+**Barefoot Texture Walk** — Grass, pavement, dirt, a wet towel, a tray of sand. Which feels best? Which is horrible?
 
-**Ice Excavation** — Small toys frozen in a bucket of water. Salt, warm water, and a spoon to free them.
+**Car Wash** — Bucket of soapy water and every wheeled toy in the house. Takes an hour and produces clean toys.
 
-**Mud Kitchen** — Still the best free activity there is. Bowls, spoons, dirt, water.
+**Chalk Everything** — Roads for cars, a hopscotch grid, an obstacle course, a whole town. Restock the chalk.
 
-**Water Balloon Toss** — Two people, step back after each catch. Ends wet, as designed.
+**Bubble Chase** — Bubbles into the breeze, both kids chasing. Kreston walking after bubbles is the best sight of the month.
 
-**Chalk Obstacle Course** — She designs it, you run it, then swap.
+**Snail Race** — Find two snails, mark a start and finish, wait. It takes forever and she'll be riveted.
 
-**Shadow Chasing** — Try to step on each other's shadows. Best at the start or end of the day when they're long.
+**Watering Round** — Her garden, the pots, the grass head, the terrarium. A real daily job she now owns.
 
-**Bubble Chase** — Bubbles into the wind, both kids running. Kreston can chase now, which changes the game entirely.
+**Nature Table Refresh** — Empty the collection box and re-sort everything by a new rule.
 
-**Barefoot Texture Walk** — Grass, pavement, dirt, mud, a wet towel. Rank them.
+**Shadow Tag** — Step on someone's shadow to tag them. Works best in bright late-afternoon sun.
 
-**Evening Walk** — It's light until late in June. A walk after dinner feels like getting away with something.
+**Cloud Watching** — A blanket, lying down, naming shapes. Doubles as a rest.
 
-**Kreston's Turn** — He's one and walking. A push toy, a low step to climb, a basket to fill and empty, or a shallow tray of water with a cup. Twenty minutes, easily.
+**Kreston's Turn** — He's walking. Give him a push wagon, a low step to climb, a ball to chase, or a laundry basket to shove across the floor. He needs distance now, not just floor space.
 
 ---
 
 ### 🎨 Alternative Arts & Crafts
 
-**Ice Cube Painting** — Colored water frozen with craft-stick handles. Melts as it paints.
+**Flower Pounding** — A flower between cloth and paper, tapped with a wooden spoon. The color transfers straight onto the fabric.
 
-**Sun Prints** — Dark paper, flat objects, two hours of June sun. The strongest sun of the year.
+**Sun Prints** — Dark paper in direct sun with objects laid on top. Two hours later, silhouettes.
 
-**Splatter Fireworks** — Black paper, a toothbrush, thinned paint. Flick with a thumb.
+**Chalk & Water Painting** — Dip chalk in water before drawing. The colors come out startlingly bright.
 
-**Blow Painting** — A blob of thin paint, a straw, and a hard exhale. Makes starbursts and tires her out.
+**Bubble Print Painting** — Dish soap and paint in a cup, blow bubbles with a straw until they dome over the rim, press paper on top.
 
-**Sticker Resist** — Stickers on paper, paint over everything, peel when dry.
+**Nature Paintbrushes** — Grass, pine needles, and leaves rubber-banded to sticks. Each one makes a different mark.
 
-**Nature Paintbrushes** — Grass, leaves, and pine needles rubber-banded to sticks.
+**Handprint Bouquet** — Handprints as flowers with drawn stems. The Mother's Day craft works any time.
 
-**Flower Pounding** — A flower between cloth and paper, tapped with a spoon. The color transfers straight onto the fabric.
+**Rock Painting** — Ladybugs, kindness rocks, or story stones. Seal with clear nail polish for outdoors.
 
-**Rock Painting** — Ladybugs, patterns, kindness rocks. Seal with clear nail polish and hide them.
+**Paper Plate Sunflowers** — A plate center painted brown, yellow petals glued around the rim, real seeds pressed into the middle.
 
-**Chalk Murals** — The whole driveway. Add water for a paint effect, or draw around real shadows.
+**Foil Sculpture** — A roll of foil and nothing else. Infinitely reworkable, zero mess.
 
-**Salt Painting** — Glue lines, salt poured over, then wet paint touched on to run along the lines.
+**Salad Spinner Art** — Paper circle in a salad spinner, blobs of paint, spin hard. Astonishing results, contained mess.
 
-**Handprint Fireworks** — Handprints radiating out from a center point in three colors. Date it.
+**Tissue Paper Suncatchers** — Tissue squares on contact paper, sealed and taped to a sunny window.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Summer needs less structure than you'd think.**
-> Long unstructured stretches outside — with water, dirt, and no agenda — produce more inventive play, more physical development, and more resilience than a programmed day does. The research on unstructured outdoor play is unusually consistent about this.
-> Which means the correct summer plan is often no plan. This book will give you one every day, and there will be many days when the right thing to do is put the sprinkler on, sit down with a coffee, and let two children invent something better than anything on the page.
+> **Outdoor play is the highest-return activity available, and May is when it gets easy.**
+> Time outside is linked to better sleep, better attention, better mood, and fewer conflicts — and the effect holds even when the time is completely unstructured. Standing in a garden doing nothing counts.
+> From now until autumn, the honest advice is to lean on this. On the days you have nothing left, take them out and sit down. The bar for a good day drops considerably in summer, and there's no reason not to take that gift.
 
-> 💛 **From Joseph:** Some days just put the sprinkler on and sit down. That counts. That's a good day and I don't want you feeling otherwise.
+> 💛 **From Joseph:** Summer's coming. It gets easier for a while. Take the easy months when they're offered.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-june"></a>
@@ -12545,267 +12282,267 @@ Whatever she names as her favorite outdoor thing so far, do it again today.
 > 💛 **From Joseph:** Half a year. Look at the growth chart, look at the garden, look at both of them. That's all you. I hope you can see it today.
 
 <div style="page-break-after: always;"></div>
-<a id="backup-july"></a>
+<a id="backup-june"></a>
 
-# 🌧️ July Backup Days
+# 🌧️ June Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**July's version of a bad day:** heat that makes outside genuinely unsafe, or a sudden summer storm that cancels everything. Plus the particular misery of a summer illness — being unwell while the sun is out feels worse to a child than being unwell in February.
+**June's version of a bad day:** the first real heat of the year, thunderstorms that roll in with no warning, and a one-year-old who has just learned to walk and now needs watching every second. Two of these are for when it's too hot or too wild to be out, and two are for a summer illness — which hits harder because everyone expects summer to be easy.
 
 ---
 
-<a id="jul-weather-1"></a>
+<a id="jun-weather-1"></a>
 
-## 🥵 Bad Weather Day 1: The Heat Dome
-**Use when:** It's too hot to be outside safely, even in shade. Everything stays indoors and cool.
+## 🥵 Bad Weather Day 1: Too Hot to Move
+**Use when:** It's genuinely dangerous heat, or the kind where twenty minutes outside leaves everyone red and furious.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: The Indoor Water Table (60 min)
-- **10:15–10:30 AM** — Snack: Frozen Fruit (15 min)
-- **10:30–11:15 AM** — Indoor Movement: The Slow-Motion Olympics (45 min)
+- **9:15–10:15 AM** — Main Event: The Indoor Ice Station (60 min)
+- **10:15–10:30 AM** — Snack: Ice Pops (15 min)
+- **10:30–11:15 AM** — Indoor Movement: Slow-Motion Games (45 min)
 - **11:15 AM–12:00 PM** — Cool Quiet Play (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: The Indoor Water Table
+### 🎨 The Main Event: The Indoor Ice Station
 **🧰 Complete Materials List:**
-- A large tray or roasting tin, on towels on the kitchen floor
-- Cool water, a few inches
-- Cups, funnels, a colander, spoons, a turkey baster
 - Ice cubes, plain and colored
-- Sponges
-- Old towels, plenty
+- A large tray or roasting tin
+- Small bowls of warm water
+- Salt in a shaker
+- Spoons, tongs, droppers
+- Towels
 
 **📝 Step-by-Step Instructions:**
-1. Lay towels down, put the tray on top, and fill with cool water and ice.
-2. **A turkey baster is the single best water toy there is** — squeezing it is hard work and hugely satisfying.
-3. Add a colander and cups for pouring and straining.
-4. Let her stand at it as long as she likes. Refresh the ice when it melts.
-5. Wring the towels out into a bucket at the end rather than fighting the mess.
+1. Set the tray on a towel on the kitchen floor and fill it with ice.
+2. Give her warm water, salt, and tools. Melting is the whole activity.
+3. Add colored cubes and let the colors run together as they melt.
+4. Salt on ice makes channels and cracks — the best discovery here.
+5. She'll stay with this a long time, and it physically cools her down.
 
-> 💡 **Tip:** Indoor water play on a dangerous-heat day does two things at once — occupies her and physically cools her. Better than a screen and she comes out of it calm.
+> 💡 **Tip:** In serious heat, ice play does two jobs at once — it occupies her and it lowers her body temperature. Better than a screen and better than trying to be outside.
 
-### 🏃 Indoor Movement: The Slow-Motion Olympics
-Everything in slow motion: a race, a jump, a spin, a throw. Genuinely funny, uses real energy, and generates almost no heat.
+### 🏃 Indoor Movement: Slow-Motion Games
+Everything in slow motion — walking across the room, a slow-motion race, slow-motion tag. It's genuinely funny, uses energy, and generates almost no heat.
 
-> 👶 **Infant Integration:** Kreston at his own end of the tray, **directly supervised, arm's reach.** Even an inch of water is a risk at 14 months. Empty it the moment you finish.
+> 👶 **Infant Integration:** Kreston overheats faster than she does and won't tell you. Watch for flushed cheeks and crankiness. Give him a frozen washcloth to chew — good for teething and cooling.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **In serious heat, the physical problem comes before the behavior problem.**
-> Young children dehydrate faster than adults, regulate temperature poorly, and can't identify what's wrong. A hot, thirsty 4-year-old looks exactly like a defiant one — weepy, unreasonable, refusing everything.
-> Water, shade, and a cooler room first. Always. On a hot day, solve the physiology and about ninety percent of the behavior conversation disappears before you've had it.
+> **Heat makes children behave badly, and it isn't a discipline problem.**
+> Young children regulate temperature poorly, dehydrate faster than adults, and have very little ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
+> The first response to a bad afternoon in summer should be water, shade, and a cooler room. Not a conversation about behavior. Solve the physical problem first; you can nearly always skip the second conversation entirely.
 
-> 💛 **From Joseph:** Water first, talk second. You've been doing that all summer and it works every time.
+> 💛 **From Joseph:** When they're melting down in the heat, you hand them water before you say anything. That order matters more than people realize.
 
 <div style="page-break-after: always;"></div>
 
-<a id="jul-weather-2"></a>
+<a id="jun-weather-2"></a>
 
 ## ⛈️ Bad Weather Day 2: The Summer Storm
-**Use when:** A thunderstorm has cancelled the day and everyone's stuck inside with too much energy.
+**Use when:** A thunderstorm has cancelled everything, and someone is nervous about it.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: The Indoor Camp (60 min)
-- **10:15–10:30 AM** — Snack: Indoor S'mores (15 min)
-- **10:30–11:15 AM** — Indoor Movement: The Floor Is Lava (45 min)
-- **11:15 AM–12:00 PM** — Torch Stories in the Fort (45 min)
-- **12:00 PM** — Lunch in the fort
+- **9:15–10:15 AM** — Main Event: Storm Watching & Storm Sounds (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Indoor Movement: The Weather Dance (45 min)
+- **11:15 AM–12:00 PM** — Fort & Quiet Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: The Indoor Camp
+### 🎨 The Main Event: Storm Watching & Storm Sounds
 **🧰 Complete Materials List:**
-- Blankets, chairs, clothespins
-- Sleeping bags and pillows
-- Torches, one each
-- Glow sticks
-- Crackers, chocolate, marshmallows
-- A metal tray (for thunder sounds)
+- A window with a good view
+- A blanket and cushions
+- A metal baking sheet, rice, a plastic tub
+- A flashlight
+- Paper and crayons
 
 **📝 Step-by-Step Instructions:**
-1. Build the biggest fort the room allows. Clothespins on every corner.
-2. Sleeping bags inside. Torches distributed.
-3. **Indoor s'mores** — no fire needed, just squash them together.
-4. Storm sounds: wobble a metal tray for thunder, drum fingers on a table for rain. Compare to the real storm outside.
-5. Count the gap between flash and rumble at the window.
+1. Build a nest at the window. Watching a storm from somewhere cozy reframes it entirely.
+2. **Count the gap** between the flash and the rumble. That's roughly how far away it is. Count together every time.
+3. Make your own storm: wobble the baking sheet for thunder, pour rice for rain, flash the torch for lightning.
+4. Perform a storm — building, peaking, then passing.
+5. Draw the storm afterward.
 
-> 💡 **Tip:** A storm plus a fort is a genuinely magical combination for a 4-year-old. The contrast between wild outside and cozy inside is the entire appeal.
+> 💡 **Tip:** Counting between flash and thunder is the classic fix for storm fear. It gives her a job, and it turns something mysterious into something measurable that's usually moving away.
 
-### 🏃 Indoor Movement: The Floor Is Lava
-Cushions as islands. Cross the room without touching the floor. Move them further apart each round until it's impossible.
+### 🏃 Indoor Movement: The Weather Dance
+Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder is stomping, sunshine is stretching tall. **End on calm.**
 
-> 👶 **Infant Integration:** Thunder frightens many toddlers and there's nothing to explain. **Hold him** — proximity settles a 14-month-old faster than words, and he's reading your face for whether this is dangerous.
+> 👶 **Infant Integration:** Loud thunder frightens many one-year-olds and there's nothing to explain to him. Hold him — physical closeness regulates a toddler faster than words. Keep your own reaction relaxed; he's reading your face.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Cozy is a real regulatory state, not just a mood.**
-> Enclosed spaces, dim light, soft surfaces, and a caregiver nearby all reduce sensory input and signal safety to the nervous system. A fort during a storm isn't just fun — it's an environment that actively calms a child.
-> Worth remembering on any overwhelming day, not just stormy ones. When a child is dysregulated, making the space smaller, darker, and quieter often does more than anything you could say.
+> **Children calibrate fear from your face, not from the facts.**
+> A 4-year-old checks her adult before deciding whether something is dangerous — it's called social referencing, and it's active from infancy. Your expression during the thunderclap does more than your explanation afterward.
+> So the useful move at the moment of the bang isn't words. It's being visibly unbothered — a relaxed face, an ordinary voice, maybe mild interest. Explanation helps afterward. In the moment, she's watching you, and calm is contagious.
 
-> 💛 **From Joseph:** The fort comes out when things go wrong and it always works. That's not a coincidence, that's you knowing them.
+> 💛 **From Joseph:** You're calm when things bang and crash. They both look at you first, every time, and you always give them the right face.
 
 <div style="page-break-after: always;"></div>
 
-<a id="jul-sick-1"></a>
+<a id="jun-sick-1"></a>
 
-## 🤒 Sick Day 1: The Cool Nest
-**Use when:** She's properly unwell in the heat — feverish, floppy, miserable.
+## 🤒 Sick Day 1: The Cool Cave
+**Use when:** She's unwell in summer — feverish, hot, wilted. Everything low, dark, and cool.
 
 ### ⏰ At-a-Glance Schedule
-- **Whenever she wakes** — Build the nest (20 min)
+- **Whenever she wakes** — Build the cave (20 min)
 - **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
-- **Snack** — Cold, wet, simple
+- **Snack** — Cold and wet
 - **Late morning** — Stories in the dark
-- **Nap early. Don't fight it.**
+- **Nap early.**
 
 ### 🎨 The Main Event: The Ice Bowl
 **🧰 Complete Materials List:**
-- A shallow bowl of ice on a cookie sheet
-- A washcloth, and a couple more in the fridge
+- A shallow bowl of ice cubes
+- A washcloth
+- A cookie sheet as a lap tray
 - A spoon and a small cup of warm water
 - Paper and crayons
-- A torch
+- A flashlight
 
 **📝 Step-by-Step Instructions:**
-1. Curtains drawn, fan on, blanket over the couch. Dark and cool is the prescription.
-2. Give her the ice bowl on a cookie sheet across her lap. She melts, moves, and stacks it.
-3. Wrap a cube in a washcloth for her neck or forehead.
-4. **Keep two damp washcloths in the fridge** and swap them out.
-5. Torch stories in the dark when she's had enough.
+1. Build a dark, cool cave — blanket over the couch, curtains drawn, fan on. Dark and cool is the whole prescription.
+2. Give her a shallow bowl of ice on a cookie sheet, plus a spoon and a little warm water.
+3. She melts, moves, and stacks the ice. Low effort, physically cooling, absorbing.
+4. Wrap one cube in a washcloth for her to hold against her neck or forehead.
+5. Read in the cave by flashlight when she's had enough.
 
-> 💡 **Tip:** A cold cloth on the back of the neck helps a hot, miserable child more than almost anything else. It's the cheapest comfort in this book.
+> 💡 **Tip:** A cool washcloth on the back of the neck helps a hot, miserable child more than almost anything. Keep a couple in the fridge on a fever day.
 
 ### 🧸 Rest & Wind-Down
-Same book, repeatedly. A tired brain wants the familiar, not the new.
+Stories in the dark cave. The same one repeatedly if that's what she asks for.
 
-> 👶 **Infant Integration:** A sick preschooler and a walking 14-month-old is the hardest combination there is. Contained safe zone in the same room, three new-to-him objects rotated through, and drop every other standard today.
+> 👶 **Infant Integration:** A sick preschooler and a walking one-year-old is the hardest combination in this book. Set up a contained safe zone in the same room, rotate three new-to-him objects through it, and drop every other standard for the day.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Being ill in summer is worse psychologically, and that's worth acknowledging.**
-> A child who can hear other children outside, who knows it's sunny, and who feels she's missing something suffers more than one ill on a grey February day. The illness is the same; the loss feels bigger.
-> Naming it helps: *"It's really hard being poorly when it's sunny outside."* Acknowledging the unfairness — rather than trying to talk her out of it — is more comforting than any distraction. Children settle faster when the difficult thing has been said out loud.
+> **Fever makes children clingy, and meeting it shortens it.**
+> Illness reliably triggers regression and clinginess — wanting to be held, carried, babied. This isn't manipulation and it isn't a habit you'll create by indulging it. Under physiological stress, a child's attachment system activates, and proximity to a caregiver is genuinely what settles it.
+> Holding her more, not less, is the shorter route back to normal. The independence she loses this week returns within days of feeling well, provided nobody made a battle out of it.
 
-> 💛 **From Joseph:** She just wants you to say it's rubbish. You always do, and then she can let it go.
+> 💛 **From Joseph:** Hold her as much as she wants. You'll never look back and wish you'd held her less.
 
 <div style="page-break-after: always;"></div>
 
-<a id="jul-sick-2"></a>
+<a id="jun-sick-2"></a>
 
-## 🤧 Sick Day 2: The Shade Camp
-**Use when:** She's recovering — bored, cranky, desperate to be outside but hasn't the energy.
+## 🤧 Sick Day 2: The Shade Blanket
+**Use when:** She's recovering — bored, cranky, wants out but hasn't the energy.
 
 ### ⏰ At-a-Glance Schedule
-- **Slow start** — Entirely her pace
-- **Mid-morning** — Main Event: Camp in the Shade (30–40 min)
+- **Slow start** — Her pace entirely
+- **Mid-morning** — Main Event: Outside, Lying Down (30–40 min)
 - **Snack** — Cold and easy
 - **Midday** — Lunch on the blanket
-- **Rest** — Audio story outside
+- **Rest** — Audio story in the shade
 
-### 🎨 The Main Event: Camp in the Shade
+### 🎨 The Main Event: Outside, Lying Down
 **🧰 Complete Materials List:**
-- A blanket in deep shade, plus pillows
-- A sheet draped over two chairs for a shade tent
+- A blanket in deep shade
+- Pillows
 - A cup with a lid
 - A magnifying glass
-- A jar for anything found
 - Paper and crayons on a tray
+- A jar for anything she finds within reach
 
 **📝 Step-by-Step Instructions:**
-1. Build a shade tent outside — a sheet over two chairs is enough.
-2. Move her nest out there. She lies down; the garden comes to her.
-3. **Bring things to her** — a leaf, a flower, a beetle in a jar, a stone.
-4. Magnifying glass work needs no energy at all.
-5. Lunch on the blanket. Nobody sits up.
+1. Set up a proper nest in full shade. She lies down; the garden comes to her.
+2. Bring things *to* her — a leaf, a flower, a stone, a bug in a jar.
+3. Magnifying glass and a lie-down are compatible. Close looking requires no energy.
+4. Cloud watching. Name the shapes.
+5. Lunch on the blanket. Nobody has to sit up.
 
-> 💡 **Tip:** Fresh air genuinely helps a recovering child, and none of it requires her to be upright. Don't wait until she's well enough to *do* something outside.
+> 💡 **Tip:** Fresh air and shade do a recovering child real good, and none of it requires her to be upright. Don't wait for her to be well enough to *do* something outside.
 
 ### 🧸 Rest & Wind-Down
-Audio story in the shade tent. Let her doze there if she will.
+Audio story or quiet music on the blanket. Let her doze out there if she will.
 
-> 👶 **Infant Integration:** Kreston toddles around the blanket while she rests on it — company without demand. **Watch the sun; the shade moves.** Check on both of them every ten minutes.
+> 👶 **Infant Integration:** Kreston can toddle around the blanket while she rests on it. She gets company without demand, and he gets to move. Watch the sun as it shifts — the shade moves.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Recovery isn't a switch, and pushing it backfires.**
-> A child on the mend has fluctuating energy — fine for twenty minutes, then flattened. The instinct is to seize the good spell and do something proper, which usually costs the afternoon.
-> Follow her lead and stop before she's finished. A day of short, low-demand stretches gets her back to normal faster than one good burst followed by a crash, and it avoids the miserable evening that follows overdoing it.
+> **Outdoors helps even when nothing is happening.**
+> Time outside is linked to better mood, better sleep, and better attention in young children — and the effect doesn't depend on the activity being structured or vigorous. Lying on a blanket in the shade counts.
+> This is genuinely useful on recovery days, when a child is too depleted for anything active but too bored to stay indoors. Moving the nest outside changes almost nothing about the demands on her and quite a lot about how the day feels.
 
-> 💛 **From Joseph:** You always stop before she's had enough. That's a kind of discipline nobody praises and it's the reason she bounces back fast.
+> 💛 **From Joseph:** Even on the write-off days you get them outside somehow. It's the smallest thing and it changes everything.
 
 <div style="page-break-after: always;"></div>
 
-<a id="jul-extras"></a>
+<a id="jun-extras"></a>
 
-## ✨ July — Extra Ideas
+## ✨ June — Extra Ideas
 ### *When you just need one more thing*
 
 ---
 
 ### 🎲 Alternative Activities
 
-**Sprinkler, No Plan** — Turn it on, sit down. Still the highest value-per-effort activity of the summer.
+**Sprinkler, No Plan** — Turn it on and leave. The highest value-per-effort activity of the entire summer.
 
-**The Water Run** — Split pool noodles taped into a channel, propped on a step, hose at the top. Race everything down it.
+**Frozen Sponge Toss** — Wet sponges frozen overnight. Cold, soft, wet, and much safer than water balloons.
 
 **The Car Wash** — Bucket, sponges, hose, every wheeled thing you own. Ninety minutes, reliably.
 
-**Ice Excavation** — Toys frozen in a bucket overnight. Salt, warm water, and a spoon.
+**Ice Excavation** — Small toys frozen in a bucket of water. Salt, warm water, and a spoon to free them.
 
-**Frozen Sponge Toss** — Wet sponges frozen in a bag. Softer than water balloons and just as cold.
+**Mud Kitchen** — Still the best free activity there is. Bowls, spoons, dirt, water.
 
-**Sand Bin** — Wet sand and dry sand, buckets and cups. Endless.
+**Water Balloon Toss** — Two people, step back after each catch. Ends wet, as designed.
 
-**Sock Skating** — Indoors on a smooth floor. A good hot-day energy burner with no heat.
+**Chalk Obstacle Course** — She designs it, you run it, then swap.
 
-**Slow-Motion Races** — Everything in slow motion. Funny, tiring, and cool.
+**Shadow Chasing** — Try to step on each other's shadows. Best at the start or end of the day when they're long.
 
-**Torch Hide and Seek** — Curtains closed, lights off, hide a toy and hunt it with a torch.
+**Bubble Chase** — Bubbles into the wind, both kids running. Kreston can chase now, which changes the game entirely.
 
-**Evening Walk** — Go out after dinner when it finally cools. It feels like getting away with something.
+**Barefoot Texture Walk** — Grass, pavement, dirt, mud, a wet towel. Rank them.
 
-**Camp Out** — Tent in the garden, breakfast inside it. Costs nothing, remembered for years.
+**Evening Walk** — It's light until late in June. A walk after dinner feels like getting away with something.
 
-**Kreston's Turn** — He's 14 months. A shallow tray of water and a cup, a low step to climb, a basket to fill and empty, or a push-along toy. Twenty minutes, easily.
+**Kreston's Turn** — He's one and walking. A push toy, a low step to climb, a basket to fill and empty, or a shallow tray of water with a cup. Twenty minutes, easily.
 
 ---
 
 ### 🎨 Alternative Arts & Crafts
 
-**Ice Cube Painting** — Colored water frozen with stick handles. Melts as it paints, and cools her down.
+**Ice Cube Painting** — Colored water frozen with craft-stick handles. Melts as it paints.
 
-**Sun Prints** — Dark paper, flat objects, two hours of July sun. The strongest of the year.
+**Sun Prints** — Dark paper, flat objects, two hours of June sun. The strongest sun of the year.
 
-**Bubble Wrap Printing** — Roll paint on, press paper down. Perfect for coral, waves, and texture.
+**Splatter Fireworks** — Black paper, a toothbrush, thinned paint. Flick with a thumb.
 
-**Sand Painting** — Glue lines on card, colored sand sprinkled over, excess tipped off.
+**Blow Painting** — A blob of thin paint, a straw, and a hard exhale. Makes starbursts and tires her out.
 
-**Wave Bottles** — Water, blue coloring, oil, glitter, sealed tight. Calming and reusable.
+**Sticker Resist** — Stickers on paper, paint over everything, peel when dry.
 
-**Fork Painting** — Drag a painted fork upward for seaweed, grass, and fur. Surprisingly good.
+**Nature Paintbrushes** — Grass, leaves, and pine needles rubber-banded to sticks.
 
-**Paper Plate Sea Creatures** — Jellyfish with streamers, fish with a cut-out tail, crabs with folded legs.
+**Flower Pounding** — A flower between cloth and paper, tapped with a spoon. The color transfers straight onto the fabric.
 
-**Splatter Painting** — Toothbrush flicked with a thumb. Do it outside and hose it off after.
+**Rock Painting** — Ladybugs, patterns, kindness rocks. Seal with clear nail polish and hide them.
 
-**Salt Painting** — Glue lines, salt poured on, wet paint touched to it and watched running along.
+**Chalk Murals** — The whole driveway. Add water for a paint effect, or draw around real shadows.
 
-**Nature Paintbrushes** — Grass, leaves, and pine needles banded to sticks. Compare the marks.
+**Salt Painting** — Glue lines, salt poured over, then wet paint touched on to run along the lines.
 
-**Chalk Murals** — The whole driveway. Wet the chalk for a paint effect.
+**Handprint Fireworks** — Handprints radiating out from a center point in three colors. Date it.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Summer's best days are usually the least planned.**
-> Long unstructured outdoor stretches — water, dirt, no agenda — reliably produce more inventive play and better physical development than programmed activity does. The research on this is unusually consistent.
-> This book will hand you a plan every single day of July. On many of them, the right move is to ignore it, put the sprinkler on, and sit down with a cold drink while two children invent something better than anything on the page.
+> **Summer needs less structure than you'd think.**
+> Long unstructured stretches outside — with water, dirt, and no agenda — produce more inventive play, more physical development, and more resilience than a programmed day does. The research on unstructured outdoor play is unusually consistent about this.
+> Which means the correct summer plan is often no plan. This book will give you one every day, and there will be many days when the right thing to do is put the sprinkler on, sit down with a coffee, and let two children invent something better than anything on the page.
 
-> 💛 **From Joseph:** Ignore the book sometimes. It won't mind. Neither will they.
+> 💛 **From Joseph:** Some days just put the sprinkler on and sit down. That counts. That's a good day and I don't want you feeling otherwise.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-july"></a>
@@ -14930,269 +14667,267 @@ The full pack-down. Check the grass for anything dropped.
 > 💛 **From Joseph:** Thirty-one weeks. She slept in a tent in her own garden and thought it was the greatest week of her life. It cost us nothing.
 
 <div style="page-break-after: always;"></div>
-<a id="backup-august"></a>
+<a id="backup-july"></a>
 
-# 🌧️ August Backup Days
+# 🌧️ July Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**August's version of a bad day:** the heat has stopped being fun, everyone is tired of summer, and a 15-month-old who walks everywhere has made the whole house harder to manage. Two of these are for weather that won't let you out, and two are for the late-summer bugs that go round just as everyone's worn down.
+**July's version of a bad day:** heat that makes outside genuinely unsafe, or a sudden summer storm that cancels everything. Plus the particular misery of a summer illness — being unwell while the sun is out feels worse to a child than being unwell in February.
 
 ---
 
-<a id="aug-weather-1"></a>
+<a id="jul-weather-1"></a>
 
-## 🥵 Bad Weather Day 1: The Long Hot Afternoon
-**Use when:** It's too hot to be outside, and it's the fourth day in a row.
+## 🥵 Bad Weather Day 1: The Heat Dome
+**Use when:** It's too hot to be outside safely, even in shade. Everything stays indoors and cool.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: The Frozen Treasure Table (60 min)
-- **10:15–10:30 AM** — Snack: Something Frozen (15 min)
-- **10:30–11:15 AM** — Indoor Movement: The Slow-Motion Games (45 min)
+- **9:15–10:15 AM** — Main Event: The Indoor Water Table (60 min)
+- **10:15–10:30 AM** — Snack: Frozen Fruit (15 min)
+- **10:30–11:15 AM** — Indoor Movement: The Slow-Motion Olympics (45 min)
 - **11:15 AM–12:00 PM** — Cool Quiet Play (45 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: The Frozen Treasure Table
+### 🎨 The Main Event: The Indoor Water Table
 **🧰 Complete Materials List:**
-- Ice cubes, plain and coloured
-- A large tray or roasting tin
-- Small toys frozen into a block the night before
-- Warm water in a squeeze bottle
-- Salt in a shaker
-- Spoons, tongs, and droppers
-- Towels
+- A large tray or roasting tin, on towels on the kitchen floor
+- Cool water, a few inches
+- Cups, funnels, a colander, spoons, a turkey baster
+- Ice cubes, plain and colored
+- Sponges
+- Old towels, plenty
 
 **📝 Step-by-Step Instructions:**
-1. Set the tray on a towel on the kitchen floor. Fill it with ice and the frozen block.
-2. Give her three tools — warm water, salt, and a spoon — and let her work out which is most effective.
-3. **Salt is the surprise.** Sprinkled on, it carves channels through the ice.
-4. Add coloured cubes and watch the colours run as they melt.
-5. She'll stay with this a long time, and it physically cools her down.
+1. Lay towels down, put the tray on top, and fill with cool water and ice.
+2. **A turkey baster is the single best water toy there is** — squeezing it is hard work and hugely satisfying.
+3. Add a colander and cups for pouring and straining.
+4. Let her stand at it as long as she likes. Refresh the ice when it melts.
+5. Wring the towels out into a bucket at the end rather than fighting the mess.
 
-> 💡 **Tip:** In real heat this does two jobs — occupies her *and* lowers her body temperature. Better than a screen for both.
+> 💡 **Tip:** Indoor water play on a dangerous-heat day does two things at once — occupies her and physically cools her. Better than a screen and she comes out of it calm.
 
-### 🏃 Indoor Movement: Slow-Motion Games
-Everything in slow motion — a slow-motion race, slow-motion tag, slow-motion fighting. Genuinely funny, burns energy, generates almost no heat.
+### 🏃 Indoor Movement: The Slow-Motion Olympics
+Everything in slow motion: a race, a jump, a spin, a throw. Genuinely funny, uses real energy, and generates almost no heat.
 
-> 👶 **Infant Integration:** Kreston overheats faster than she does and won't tell you. Watch for flushed cheeks and unusual crankiness. Give him a frozen flannel to chew — cooling and good for teeth.
+> 👶 **Infant Integration:** Kreston at his own end of the tray, **directly supervised, arm's reach.** Even an inch of water is a risk at 14 months. Empty it the moment you finish.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Heat makes children behave badly, and it isn't a discipline problem.**
-> Young children regulate temperature poorly, dehydrate faster than adults, and have almost no ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
-> On a bad afternoon in August, the first move is water, shade, and a cooler room. Not a conversation about behaviour. Solve the physical problem and you can usually skip the second conversation entirely.
+> **In serious heat, the physical problem comes before the behavior problem.**
+> Young children dehydrate faster than adults, regulate temperature poorly, and can't identify what's wrong. A hot, thirsty 4-year-old looks exactly like a defiant one — weepy, unreasonable, refusing everything.
+> Water, shade, and a cooler room first. Always. On a hot day, solve the physiology and about ninety percent of the behavior conversation disappears before you've had it.
 
-> 💛 **From Joseph:** You hand them water before you say anything. That order matters more than people realise.
+> 💛 **From Joseph:** Water first, talk second. You've been doing that all summer and it works every time.
 
 <div style="page-break-after: always;"></div>
 
-<a id="aug-weather-2"></a>
+<a id="jul-weather-2"></a>
 
-## ⛈️ Bad Weather Day 2: The End-of-Summer Storm
-**Use when:** A storm has cancelled everything, or it's grey and pouring and nobody can face it.
+## ⛈️ Bad Weather Day 2: The Summer Storm
+**Use when:** A thunderstorm has cancelled the day and everyone's stuck inside with too much energy.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: The Indoor Carnival (60 min)
-- **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — Indoor Movement: Corridor Games (45 min)
-- **11:15 AM–12:00 PM** — Fort & Quiet Play (45 min)
-- **12:00 PM** — Lunch & Nap Prep
+- **9:15–10:15 AM** — Main Event: The Indoor Camp (60 min)
+- **10:15–10:30 AM** — Snack: Indoor S'mores (15 min)
+- **10:30–11:15 AM** — Indoor Movement: The Floor Is Lava (45 min)
+- **11:15 AM–12:00 PM** — Torch Stories in the Fort (45 min)
+- **12:00 PM** — Lunch in the fort
 
-### 🎨 The Main Event: The Indoor Carnival
+### 🎨 The Main Event: The Indoor Camp
 **🧰 Complete Materials List:**
-- Rolled socks
-- A laundry basket, a bucket, and a cardboard box
-- Painter's tape
-- Plastic cups
-- Paper for tickets and signs
-- A soft ball
+- Blankets, chairs, clothespins
+- Sleeping bags and pillows
+- Torches, one each
+- Glow sticks
+- Crackers, chocolate, marshmallows
+- A metal tray (for thunder sounds)
 
 **📝 Step-by-Step Instructions:**
-1. Tape a throwing line down the corridor. Set the basket, the bucket, and the box at increasing distances.
-2. **Label them 5, 10, and 20.** Small target, big number.
-3. Build a cup tower at the end of the hall for the strongman game.
-4. Make tickets. Five throws per ticket.
-5. **She runs the stalls**, you play them. Swap halfway.
+1. Build the biggest fort the room allows. Clothespins on every corner.
+2. Sleeping bags inside. Torches distributed.
+3. **Indoor s'mores** — no fire needed, just squash them together.
+4. Storm sounds: wobble a metal tray for thunder, drum fingers on a table for rain. Compare to the real storm outside.
+5. Count the gap between flash and rumble at the window.
 
-> 💡 **Tip:** A corridor is the best indoor sports hall you have — long, narrow, and nothing breakable on either side. Clear it and use the whole thing.
+> 💡 **Tip:** A storm plus a fort is a genuinely magical combination for a 4-year-old. The contrast between wild outside and cozy inside is the entire appeal.
 
-### 🏃 Indoor Movement: Corridor Games
-Crab walk to the end and back. Bear crawl. Hop on one foot. Race the length in slow motion, then fast.
+### 🏃 Indoor Movement: The Floor Is Lava
+Cushions as islands. Cross the room without touching the floor. Move them further apart each round until it's impossible.
 
-> 👶 **Infant Integration:** Kreston gets his own basket and a sock ball. At 15 months, dropping something into a container and fishing it back out is a full activity.
+> 👶 **Infant Integration:** Thunder frightens many toddlers and there's nothing to explain. **Hold him** — proximity settles a 14-month-old faster than words, and he's reading your face for whether this is dangerous.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Cabin fever is physiological, not attitudinal.**
-> Young children need roughly three hours of movement a day, a good portion of it vigorous. When weather removes that, the energy doesn't evaporate — it emerges as whining, clinginess, and conflict by mid-morning.
-> Which means the fastest fix on a housebound day usually isn't a calmer activity. It's a *harder* one. Ten minutes of crab-walking a corridor will buy more peace than an hour of gentle redirection.
+> **Cozy is a real regulatory state, not just a mood.**
+> Enclosed spaces, dim light, soft surfaces, and a caregiver nearby all reduce sensory input and signal safety to the nervous system. A fort during a storm isn't just fun — it's an environment that actively calms a child.
+> Worth remembering on any overwhelming day, not just stormy ones. When a child is dysregulated, making the space smaller, darker, and quieter often does more than anything you could say.
 
-> 💛 **From Joseph:** The corridor has been a bowling alley, a racetrack, and a river this year. Best room in the house.
+> 💛 **From Joseph:** The fort comes out when things go wrong and it always works. That's not a coincidence, that's you knowing them.
 
 <div style="page-break-after: always;"></div>
 
-<a id="aug-sick-1"></a>
+<a id="jul-sick-1"></a>
 
-## 🤒 Sick Day 1: The Dark Cool Room
-**Use when:** She's genuinely unwell in the heat — feverish, flat, miserable.
+## 🤒 Sick Day 1: The Cool Nest
+**Use when:** She's properly unwell in the heat — feverish, floppy, miserable.
 
 ### ⏰ At-a-Glance Schedule
 - **Whenever she wakes** — Build the nest (20 min)
 - **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
-- **Snack** — Cold and wet
+- **Snack** — Cold, wet, simple
 - **Late morning** — Stories in the dark
-- **Nap early.** Don't fight it.
+- **Nap early. Don't fight it.**
 
 ### 🎨 The Main Event: The Ice Bowl
 **🧰 Complete Materials List:**
-- A shallow bowl of ice cubes
-- A flannel
-- A cookie sheet as a lap tray
+- A shallow bowl of ice on a cookie sheet
+- A washcloth, and a couple more in the fridge
 - A spoon and a small cup of warm water
 - Paper and crayons
 - A torch
 
 **📝 Step-by-Step Instructions:**
-1. Build a dark, cool nest — curtains drawn, fan on, blanket over the couch. Dark and cool is the whole prescription.
-2. Give her the bowl of ice on the cookie sheet, plus a spoon and a little warm water.
-3. She melts, moves, and stacks the ice. Low effort, physically cooling, absorbing.
-4. **Wrap one cube in a flannel** for her to hold against her neck or forehead.
-5. Read in the nest by torchlight when she's done.
+1. Curtains drawn, fan on, blanket over the couch. Dark and cool is the prescription.
+2. Give her the ice bowl on a cookie sheet across her lap. She melts, moves, and stacks it.
+3. Wrap a cube in a washcloth for her neck or forehead.
+4. **Keep two damp washcloths in the fridge** and swap them out.
+5. Torch stories in the dark when she's had enough.
 
-> 💡 **Tip:** Keep two flannels in the fridge on a fever day. A cool cloth on the back of the neck helps a hot, miserable child more than almost anything else you can do.
+> 💡 **Tip:** A cold cloth on the back of the neck helps a hot, miserable child more than almost anything else. It's the cheapest comfort in this book.
 
 ### 🧸 Rest & Wind-Down
-Stories in the dark. The same one repeatedly if that's what she asks for — familiarity is what a tired brain wants.
+Same book, repeatedly. A tired brain wants the familiar, not the new.
 
-> 👶 **Infant Integration:** A sick 4-year-old and a walking 15-month-old is the hardest combination in this book. Contain him safely in the same room, rotate three new-to-him objects through, and lower every other standard for the day.
+> 👶 **Infant Integration:** A sick preschooler and a walking 14-month-old is the hardest combination there is. Contained safe zone in the same room, three new-to-him objects rotated through, and drop every other standard today.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Fever makes children clingy, and meeting it shortens it.**
-> Illness reliably triggers regression — wanting to be carried, held, babied. This isn't manipulation, and you won't create a habit by indulging it. Under physiological stress a child's attachment system activates, and closeness to a caregiver is genuinely what settles it.
-> Holding her more, not less, is the shorter route back to normal. The independence she loses this week returns within days of feeling well, as long as nobody made a battle of it.
+> **Being ill in summer is worse psychologically, and that's worth acknowledging.**
+> A child who can hear other children outside, who knows it's sunny, and who feels she's missing something suffers more than one ill on a grey February day. The illness is the same; the loss feels bigger.
+> Naming it helps: *"It's really hard being poorly when it's sunny outside."* Acknowledging the unfairness — rather than trying to talk her out of it — is more comforting than any distraction. Children settle faster when the difficult thing has been said out loud.
 
-> 💛 **From Joseph:** Hold her as much as she wants. You'll never look back and wish you'd held her less.
+> 💛 **From Joseph:** She just wants you to say it's rubbish. You always do, and then she can let it go.
 
 <div style="page-break-after: always;"></div>
 
-<a id="aug-sick-2"></a>
+<a id="jul-sick-2"></a>
 
-## 🤧 Sick Day 2: The Shade Nest
-**Use when:** She's on the mend — bored, cranky, wants out but hasn't the energy for it.
+## 🤧 Sick Day 2: The Shade Camp
+**Use when:** She's recovering — bored, cranky, desperate to be outside but hasn't the energy.
 
 ### ⏰ At-a-Glance Schedule
-- **Slow start** — Her pace entirely
-- **Mid-morning** — Main Event: Outside, Lying Down (30–40 min)
+- **Slow start** — Entirely her pace
+- **Mid-morning** — Main Event: Camp in the Shade (30–40 min)
 - **Snack** — Cold and easy
 - **Midday** — Lunch on the blanket
-- **Rest** — Audio story in the shade
+- **Rest** — Audio story outside
 
-### 🎨 The Main Event: Outside, Lying Down
+### 🎨 The Main Event: Camp in the Shade
 **🧰 Complete Materials List:**
-- A blanket in deep shade
-- Pillows
+- A blanket in deep shade, plus pillows
+- A sheet draped over two chairs for a shade tent
 - A cup with a lid
 - A magnifying glass
+- A jar for anything found
 - Paper and crayons on a tray
-- A jar for anything she finds within reach
 
 **📝 Step-by-Step Instructions:**
-1. Set up a proper nest in full shade. She lies down; the garden comes to her.
-2. **Bring things to her** — a leaf, a flower, a stone, a beetle in a jar.
-3. Magnifying glass and lying down are entirely compatible. Close looking needs no energy.
-4. Cloud watching. Name the shapes.
-5. Lunch on the blanket. Nobody has to sit up.
+1. Build a shade tent outside — a sheet over two chairs is enough.
+2. Move her nest out there. She lies down; the garden comes to her.
+3. **Bring things to her** — a leaf, a flower, a beetle in a jar, a stone.
+4. Magnifying glass work needs no energy at all.
+5. Lunch on the blanket. Nobody sits up.
 
-> 💡 **Tip:** Don't wait for her to be well enough to *do* something outside. Fresh air and shade help a recovering child, and none of it requires her to be upright.
+> 💡 **Tip:** Fresh air genuinely helps a recovering child, and none of it requires her to be upright. Don't wait until she's well enough to *do* something outside.
 
 ### 🧸 Rest & Wind-Down
-Audio story or quiet music on the blanket. Let her doze out there if she will.
+Audio story in the shade tent. Let her doze there if she will.
 
-> 👶 **Infant Integration:** Kreston can toddle round the blanket while she rests on it. She gets company without demand; he gets to move. Watch the sun — the shade shifts.
+> 👶 **Infant Integration:** Kreston toddles around the blanket while she rests on it — company without demand. **Watch the sun; the shade moves.** Check on both of them every ten minutes.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Boredom on the mend is a good sign, and a useful one.**
-> The shift from *too sick to care* to *bored and irritable* is usually the first reliable signal of recovery. It's also the hardest stretch for you, because she has energy for complaint but not for activity.
-> Worth knowing: boredom isn't a problem to solve immediately. Children left occasionally to be bored show more inventive play afterward. The pause where she has nothing to do is where she starts generating ideas. A slightly under-stimulating recovery morning is closer to right than a packed one.
+> **Recovery isn't a switch, and pushing it backfires.**
+> A child on the mend has fluctuating energy — fine for twenty minutes, then flattened. The instinct is to seize the good spell and do something proper, which usually costs the afternoon.
+> Follow her lead and stop before she's finished. A day of short, low-demand stretches gets her back to normal faster than one good burst followed by a crash, and it avoids the miserable evening that follows overdoing it.
 
-> 💛 **From Joseph:** She was bored and grumpy all morning, which means she's getting better. Small mercies.
+> 💛 **From Joseph:** You always stop before she's had enough. That's a kind of discipline nobody praises and it's the reason she bounces back fast.
 
 <div style="page-break-after: always;"></div>
 
-<a id="aug-extras"></a>
+<a id="jul-extras"></a>
 
-## ✨ August — Extra Ideas
+## ✨ July — Extra Ideas
 ### *When you just need one more thing*
 
 ---
 
 ### 🎲 Alternative Activities
 
-**Sprinkler, No Plan** — Turn it on and sit down. Still the highest value-per-effort activity of the summer.
+**Sprinkler, No Plan** — Turn it on, sit down. Still the highest value-per-effort activity of the summer.
 
-**Ice Excavation** — Small toys frozen in a bucket overnight. Salt, warm water, a spoon.
+**The Water Run** — Split pool noodles taped into a channel, propped on a step, hose at the top. Race everything down it.
 
-**Sock Basketball** — Rolled socks, a laundry basket, and a taped line. The reliable indoor energy burner.
+**The Car Wash** — Bucket, sponges, hose, every wheeled thing you own. Ninety minutes, reliably.
 
-**Frozen Sponge Toss** — Wet sponges frozen overnight. Cold, soft, and much safer than water balloons.
+**Ice Excavation** — Toys frozen in a bucket overnight. Salt, warm water, and a spoon.
 
-**The Car Wash** — Bucket, sponges, hose, every wheeled thing you own. Ninety minutes, dependably.
+**Frozen Sponge Toss** — Wet sponges frozen in a bag. Softer than water balloons and just as cold.
 
-**Ring Toss** — This week's bottles and paper-plate rings. Move the line back as she improves.
+**Sand Bin** — Wet sand and dry sand, buckets and cups. Endless.
 
-**Corridor Bowling** — Plastic bottles at one end, a soft ball, and the whole hallway.
+**Sock Skating** — Indoors on a smooth floor. A good hot-day energy burner with no heat.
 
-**Shadow Chasing** — Try to step on each other's shadows. Best early or late when they're long.
+**Slow-Motion Races** — Everything in slow motion. Funny, tiring, and cool.
 
-**Evening Walk** — It's still light after dinner. A late walk feels like getting away with something.
+**Torch Hide and Seek** — Curtains closed, lights off, hide a toy and hunt it with a torch.
 
-**Barefoot Texture Walk** — Grass, pavement, dirt, a wet towel. Rank them worst to best.
+**Evening Walk** — Go out after dinner when it finally cools. It feels like getting away with something.
 
-**Big Sister School** — Azlyn teaches Kreston one thing: clapping, waving, stacking two blocks. Being the expert is very good for her.
+**Camp Out** — Tent in the garden, breakfast inside it. Costs nothing, remembered for years.
 
-**Kreston's Turn** — He's 15 months. A push toy, a laundry basket to shove across the floor, a low step to climb, a basket to fill and empty. Twenty solid minutes.
+**Kreston's Turn** — He's 14 months. A shallow tray of water and a cup, a low step to climb, a basket to fill and empty, or a push-along toy. Twenty minutes, easily.
 
 ---
 
 ### 🎨 Alternative Arts & Crafts
 
-**Ice Cube Painting** — Coloured water frozen with craft-stick handles. Melts as it paints.
+**Ice Cube Painting** — Colored water frozen with stick handles. Melts as it paints, and cools her down.
 
-**Sun Prints** — Dark paper, flat objects, two hours of August sun. Strongest of the year.
+**Sun Prints** — Dark paper, flat objects, two hours of July sun. The strongest of the year.
 
-**Splatter Painting** — Black paper, an old toothbrush, thinned paint. Flick with a thumb.
+**Bubble Wrap Printing** — Roll paint on, press paper down. Perfect for coral, waves, and texture.
 
-**Blow Painting** — A blob of thin paint and a straw. Makes starbursts and tires her out.
+**Sand Painting** — Glue lines on card, colored sand sprinkled over, excess tipped off.
 
-**Bubble Wrap Printing** — Roll paint on, press paper down, peel back.
+**Wave Bottles** — Water, blue coloring, oil, glitter, sealed tight. Calming and reusable.
 
-**Nature Paintbrushes** — Grass, leaves, and pine needles rubber-banded to sticks.
+**Fork Painting** — Drag a painted fork upward for seaweed, grass, and fur. Surprisingly good.
 
-**Rock Painting** — Ladybirds, patterns, kindness rocks. Seal with clear nail polish and hide them.
+**Paper Plate Sea Creatures** — Jellyfish with streamers, fish with a cut-out tail, crabs with folded legs.
 
-**Chalk Murals** — The whole driveway. Add water for a paint effect.
+**Splatter Painting** — Toothbrush flicked with a thumb. Do it outside and hose it off after.
 
-**Salt Painting** — Glue lines, salt poured over, wet paint touched on to run along them.
+**Salt Painting** — Glue lines, salt poured on, wet paint touched to it and watched running along.
 
-**Paper Plate Weaving** — Slits round the rim, ribbon woven over-under.
+**Nature Paintbrushes** — Grass, leaves, and pine needles banded to sticks. Compare the marks.
 
-**Handprint Anything** — Date every single one. You'll want them.
+**Chalk Murals** — The whole driveway. Wet the chalk for a paint effect.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Late summer is a genuinely low-energy stretch, and lowering the bar is the right response.**
-> By the end of August, novelty is exhausted, heat has been relentless, and everyone including you is worn down. If the plans have stopped landing, that's a pattern rather than a personal failure.
-> The thing that helps most is dropping the standard *deliberately* rather than by accident. Fewer plans, more repeats of things that already work, and an explicit decision that this month gets an easier bar. September brings cooler weather and a fresh set of themes, and it genuinely does get easier.
+> **Summer's best days are usually the least planned.**
+> Long unstructured outdoor stretches — water, dirt, no agenda — reliably produce more inventive play and better physical development than programmed activity does. The research on this is unusually consistent.
+> This book will hand you a plan every single day of July. On many of them, the right move is to ignore it, put the sprinkler on, and sit down with a cold drink while two children invent something better than anything on the page.
 
-> 💛 **From Joseph:** End of summer is always the hardest bit. You've done eight months. Coast a little — you've earned it.
+> 💛 **From Joseph:** Ignore the book sometimes. It won't mind. Neither will they.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-august"></a>
@@ -16852,5 +16587,769 @@ Outside, on the chalk stage. Last day of summer — make it a proper send-off.
 > Undivided attention is rarer than we assume. Most parent-child time is parallel: together, but also cooking, tidying, holding a phone. Fifteen minutes of genuinely watching, with nothing else happening, is a different substance. It's why she asks you to watch the same trick eleven times. She isn't checking the trick.
 
 > 💛 **From Joseph:** Thirty-five weeks. Summer's over and she can keep a beat, run a carnival, and put on a show. That's a good few months' work.
+
+<div style="page-break-after: always;"></div>
+<a id="backup-august"></a>
+
+# 🌧️ August Backup Days
+## *For when the plan doesn't survive the morning*
+
+**August's version of a bad day:** the heat has stopped being fun, everyone is tired of summer, and a 15-month-old who walks everywhere has made the whole house harder to manage. Two of these are for weather that won't let you out, and two are for the late-summer bugs that go round just as everyone's worn down.
+
+---
+
+<a id="aug-weather-1"></a>
+
+## 🥵 Bad Weather Day 1: The Long Hot Afternoon
+**Use when:** It's too hot to be outside, and it's the fourth day in a row.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Frozen Treasure Table (60 min)
+- **10:15–10:30 AM** — Snack: Something Frozen (15 min)
+- **10:30–11:15 AM** — Indoor Movement: The Slow-Motion Games (45 min)
+- **11:15 AM–12:00 PM** — Cool Quiet Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Frozen Treasure Table
+**🧰 Complete Materials List:**
+- Ice cubes, plain and coloured
+- A large tray or roasting tin
+- Small toys frozen into a block the night before
+- Warm water in a squeeze bottle
+- Salt in a shaker
+- Spoons, tongs, and droppers
+- Towels
+
+**📝 Step-by-Step Instructions:**
+1. Set the tray on a towel on the kitchen floor. Fill it with ice and the frozen block.
+2. Give her three tools — warm water, salt, and a spoon — and let her work out which is most effective.
+3. **Salt is the surprise.** Sprinkled on, it carves channels through the ice.
+4. Add coloured cubes and watch the colours run as they melt.
+5. She'll stay with this a long time, and it physically cools her down.
+
+> 💡 **Tip:** In real heat this does two jobs — occupies her *and* lowers her body temperature. Better than a screen for both.
+
+### 🏃 Indoor Movement: Slow-Motion Games
+Everything in slow motion — a slow-motion race, slow-motion tag, slow-motion fighting. Genuinely funny, burns energy, generates almost no heat.
+
+> 👶 **Infant Integration:** Kreston overheats faster than she does and won't tell you. Watch for flushed cheeks and unusual crankiness. Give him a frozen flannel to chew — cooling and good for teeth.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Heat makes children behave badly, and it isn't a discipline problem.**
+> Young children regulate temperature poorly, dehydrate faster than adults, and have almost no ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
+> On a bad afternoon in August, the first move is water, shade, and a cooler room. Not a conversation about behaviour. Solve the physical problem and you can usually skip the second conversation entirely.
+
+> 💛 **From Joseph:** You hand them water before you say anything. That order matters more than people realise.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-weather-2"></a>
+
+## ⛈️ Bad Weather Day 2: The End-of-Summer Storm
+**Use when:** A storm has cancelled everything, or it's grey and pouring and nobody can face it.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Indoor Carnival (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Indoor Movement: Corridor Games (45 min)
+- **11:15 AM–12:00 PM** — Fort & Quiet Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Indoor Carnival
+**🧰 Complete Materials List:**
+- Rolled socks
+- A laundry basket, a bucket, and a cardboard box
+- Painter's tape
+- Plastic cups
+- Paper for tickets and signs
+- A soft ball
+
+**📝 Step-by-Step Instructions:**
+1. Tape a throwing line down the corridor. Set the basket, the bucket, and the box at increasing distances.
+2. **Label them 5, 10, and 20.** Small target, big number.
+3. Build a cup tower at the end of the hall for the strongman game.
+4. Make tickets. Five throws per ticket.
+5. **She runs the stalls**, you play them. Swap halfway.
+
+> 💡 **Tip:** A corridor is the best indoor sports hall you have — long, narrow, and nothing breakable on either side. Clear it and use the whole thing.
+
+### 🏃 Indoor Movement: Corridor Games
+Crab walk to the end and back. Bear crawl. Hop on one foot. Race the length in slow motion, then fast.
+
+> 👶 **Infant Integration:** Kreston gets his own basket and a sock ball. At 15 months, dropping something into a container and fishing it back out is a full activity.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Cabin fever is physiological, not attitudinal.**
+> Young children need roughly three hours of movement a day, a good portion of it vigorous. When weather removes that, the energy doesn't evaporate — it emerges as whining, clinginess, and conflict by mid-morning.
+> Which means the fastest fix on a housebound day usually isn't a calmer activity. It's a *harder* one. Ten minutes of crab-walking a corridor will buy more peace than an hour of gentle redirection.
+
+> 💛 **From Joseph:** The corridor has been a bowling alley, a racetrack, and a river this year. Best room in the house.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-sick-1"></a>
+
+## 🤒 Sick Day 1: The Dark Cool Room
+**Use when:** She's genuinely unwell in the heat — feverish, flat, miserable.
+
+### ⏰ At-a-Glance Schedule
+- **Whenever she wakes** — Build the nest (20 min)
+- **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
+- **Snack** — Cold and wet
+- **Late morning** — Stories in the dark
+- **Nap early.** Don't fight it.
+
+### 🎨 The Main Event: The Ice Bowl
+**🧰 Complete Materials List:**
+- A shallow bowl of ice cubes
+- A flannel
+- A cookie sheet as a lap tray
+- A spoon and a small cup of warm water
+- Paper and crayons
+- A torch
+
+**📝 Step-by-Step Instructions:**
+1. Build a dark, cool nest — curtains drawn, fan on, blanket over the couch. Dark and cool is the whole prescription.
+2. Give her the bowl of ice on the cookie sheet, plus a spoon and a little warm water.
+3. She melts, moves, and stacks the ice. Low effort, physically cooling, absorbing.
+4. **Wrap one cube in a flannel** for her to hold against her neck or forehead.
+5. Read in the nest by torchlight when she's done.
+
+> 💡 **Tip:** Keep two flannels in the fridge on a fever day. A cool cloth on the back of the neck helps a hot, miserable child more than almost anything else you can do.
+
+### 🧸 Rest & Wind-Down
+Stories in the dark. The same one repeatedly if that's what she asks for — familiarity is what a tired brain wants.
+
+> 👶 **Infant Integration:** A sick 4-year-old and a walking 15-month-old is the hardest combination in this book. Contain him safely in the same room, rotate three new-to-him objects through, and lower every other standard for the day.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Fever makes children clingy, and meeting it shortens it.**
+> Illness reliably triggers regression — wanting to be carried, held, babied. This isn't manipulation, and you won't create a habit by indulging it. Under physiological stress a child's attachment system activates, and closeness to a caregiver is genuinely what settles it.
+> Holding her more, not less, is the shorter route back to normal. The independence she loses this week returns within days of feeling well, as long as nobody made a battle of it.
+
+> 💛 **From Joseph:** Hold her as much as she wants. You'll never look back and wish you'd held her less.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-sick-2"></a>
+
+## 🤧 Sick Day 2: The Shade Nest
+**Use when:** She's on the mend — bored, cranky, wants out but hasn't the energy for it.
+
+### ⏰ At-a-Glance Schedule
+- **Slow start** — Her pace entirely
+- **Mid-morning** — Main Event: Outside, Lying Down (30–40 min)
+- **Snack** — Cold and easy
+- **Midday** — Lunch on the blanket
+- **Rest** — Audio story in the shade
+
+### 🎨 The Main Event: Outside, Lying Down
+**🧰 Complete Materials List:**
+- A blanket in deep shade
+- Pillows
+- A cup with a lid
+- A magnifying glass
+- Paper and crayons on a tray
+- A jar for anything she finds within reach
+
+**📝 Step-by-Step Instructions:**
+1. Set up a proper nest in full shade. She lies down; the garden comes to her.
+2. **Bring things to her** — a leaf, a flower, a stone, a beetle in a jar.
+3. Magnifying glass and lying down are entirely compatible. Close looking needs no energy.
+4. Cloud watching. Name the shapes.
+5. Lunch on the blanket. Nobody has to sit up.
+
+> 💡 **Tip:** Don't wait for her to be well enough to *do* something outside. Fresh air and shade help a recovering child, and none of it requires her to be upright.
+
+### 🧸 Rest & Wind-Down
+Audio story or quiet music on the blanket. Let her doze out there if she will.
+
+> 👶 **Infant Integration:** Kreston can toddle round the blanket while she rests on it. She gets company without demand; he gets to move. Watch the sun — the shade shifts.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Boredom on the mend is a good sign, and a useful one.**
+> The shift from *too sick to care* to *bored and irritable* is usually the first reliable signal of recovery. It's also the hardest stretch for you, because she has energy for complaint but not for activity.
+> Worth knowing: boredom isn't a problem to solve immediately. Children left occasionally to be bored show more inventive play afterward. The pause where she has nothing to do is where she starts generating ideas. A slightly under-stimulating recovery morning is closer to right than a packed one.
+
+> 💛 **From Joseph:** She was bored and grumpy all morning, which means she's getting better. Small mercies.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-extras"></a>
+
+## ✨ August — Extra Ideas
+### *When you just need one more thing*
+
+---
+
+### 🎲 Alternative Activities
+
+**Sprinkler, No Plan** — Turn it on and sit down. Still the highest value-per-effort activity of the summer.
+
+**Ice Excavation** — Small toys frozen in a bucket overnight. Salt, warm water, a spoon.
+
+**Sock Basketball** — Rolled socks, a laundry basket, and a taped line. The reliable indoor energy burner.
+
+**Frozen Sponge Toss** — Wet sponges frozen overnight. Cold, soft, and much safer than water balloons.
+
+**The Car Wash** — Bucket, sponges, hose, every wheeled thing you own. Ninety minutes, dependably.
+
+**Ring Toss** — This week's bottles and paper-plate rings. Move the line back as she improves.
+
+**Corridor Bowling** — Plastic bottles at one end, a soft ball, and the whole hallway.
+
+**Shadow Chasing** — Try to step on each other's shadows. Best early or late when they're long.
+
+**Evening Walk** — It's still light after dinner. A late walk feels like getting away with something.
+
+**Barefoot Texture Walk** — Grass, pavement, dirt, a wet towel. Rank them worst to best.
+
+**Big Sister School** — Azlyn teaches Kreston one thing: clapping, waving, stacking two blocks. Being the expert is very good for her.
+
+**Kreston's Turn** — He's 15 months. A push toy, a laundry basket to shove across the floor, a low step to climb, a basket to fill and empty. Twenty solid minutes.
+
+---
+
+### 🎨 Alternative Arts & Crafts
+
+**Ice Cube Painting** — Coloured water frozen with craft-stick handles. Melts as it paints.
+
+**Sun Prints** — Dark paper, flat objects, two hours of August sun. Strongest of the year.
+
+**Splatter Painting** — Black paper, an old toothbrush, thinned paint. Flick with a thumb.
+
+**Blow Painting** — A blob of thin paint and a straw. Makes starbursts and tires her out.
+
+**Bubble Wrap Printing** — Roll paint on, press paper down, peel back.
+
+**Nature Paintbrushes** — Grass, leaves, and pine needles rubber-banded to sticks.
+
+**Rock Painting** — Ladybirds, patterns, kindness rocks. Seal with clear nail polish and hide them.
+
+**Chalk Murals** — The whole driveway. Add water for a paint effect.
+
+**Salt Painting** — Glue lines, salt poured over, wet paint touched on to run along them.
+
+**Paper Plate Weaving** — Slits round the rim, ribbon woven over-under.
+
+**Handprint Anything** — Date every single one. You'll want them.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Late summer is a genuinely low-energy stretch, and lowering the bar is the right response.**
+> By the end of August, novelty is exhausted, heat has been relentless, and everyone including you is worn down. If the plans have stopped landing, that's a pattern rather than a personal failure.
+> The thing that helps most is dropping the standard *deliberately* rather than by accident. Fewer plans, more repeats of things that already work, and an explicit decision that this month gets an easier bar. September brings cooler weather and a fresh set of themes, and it genuinely does get easier.
+
+> 💛 **From Joseph:** End of summer is always the hardest bit. You've done eight months. Coast a little — you've earned it.
+
+<div style="page-break-after: always;"></div>
+<a id="booklet-september"></a>
+
+# 📘 September
+## ☀️ *The Big Book of Little Days* ☀️
+### Booklet 9 of 12 · Days 246–273
+**September 3 – September 30, 2027**
+
+*For Azlyn & Kreston · Made by Joseph for Brooklyn*
+
+---
+
+## This Month
+
+- [**Week 36** · Community Helpers](#week-36) — *Days 246–252*
+- [**Week 37** · Backyard Explorers](#week-37) — *Days 253–259*
+- [**Week 38** · Colors & Shapes Studio](#week-38) — *Days 260–266*
+- [**Week 39** · Letters & Sounds](#week-39) — *Days 267–273*
+- [🌧️ **Backup Days & Extra Ideas**](#backup-september)
+
+> 🎉 **Big days this month:** [Labor Day](#day-249) (Day 249) · [🎈 Joseph's Birthday](#day-256) (Day 256)
+
+> 👶 **Kreston this month:** around 15 months — walking everywhere, climbing what he shouldn't, scribbling with a fist grip, and using a handful of real words. He turns 16 months at the end of the month. He needs his own version of nearly everything now, or he'll take hers.
+
+---
+
+## ⚠️ Quick Safety Reminders
+
+- **Real tools on Day 249.** A real hammer and a real screwdriver, with safety glasses, hand-over-hand, and the tools put away out of reach the moment you're done. Kreston is not in the room for this one.
+- **The temperature swings.** Cold mornings, hot afternoons. Layers she can take off herself.
+- **Germ season restarts.** Late September is when everything starts going round. Handwashing before snack is worth the ninety seconds.
+- **Small parts everywhere this month** — stamps, coins, beads, dry pasta, alphabet magnets, buttons. Kreston puts all of it in his mouth. Count in, count out.
+- **The oven on Day 251.** Trays come out with an adult's hands only, and the door stays shut afterwards — it stays hot far longer than it looks.
+- **Recycling handling.** Rinse everything first, no glass, no sharp lids, gloves for the litter patrol.
+
+<div style="page-break-after: always;"></div>
+
+<a id="week-36"></a>
+
+## Week 36: Community Helpers 🚚
+**📅 September 3 – September 9, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Back in May the week was about *emergency* helpers — the fire engine, the ambulance, the parade. This week is the quieter half of the same idea: the people who make an ordinary week work. The postal carrier, the librarian, the market stall, the bin crew, the baker, the person who fixes the thing that broke. Every day she runs the counter and does the job.
+
+Labor Day lands on Monday, Day 249, and it gets a real fix-it session with real tools. The week ends on Thursday by delivering thank-you badges to the actual people, in person.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That writing goes somewhere** — she writes a letter on Friday and posts it for real.
+- **Borrowing and returning**, with a card, a date, and a job to remember.
+- **Weighing, bagging, and paying** — the whole sequence of a transaction.
+- **Real tool handling** — hammer, screwdriver, tape measure, safety glasses.
+- **Sorting by material**, which is a harder job than it sounds when the bin is full.
+
+---
+
+### 👩 What You'll Learn
+
+- A letter teaches her that writing is aimed at someone
+- Borrowing and returning is her first experience of trusted ownership
+- Money is a story about exchange long before it's arithmetic
+- What you actually do all day is more interesting to her than you think
+- Caring about a place is learned by improving it, not by being told to
+- Reading a recipe is her first experience of print that tells you what to do
+- Handing something over in person is a separate skill from making it
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] A shoebox with a lid
+- [ ] Plain paper, envelopes, and cardstock
+- [ ] One real postage stamp
+- [ ] Sticker sheets, dot stickers, and stars
+- [ ] An ink pad and any rubber stamp (or a halved potato)
+- [ ] Markers, crayons, and pencils
+- [ ] A tote bag or pillowcase
+- [ ] Old greeting cards
+- [ ] Index cards and a rubber band
+- [ ] Sticky notes
+- [ ] A small table or a sturdy upturned box
+- [ ] Real produce — apples, potatoes, tomatoes, corn
+- [ ] Paper bags
+- [ ] A kitchen scale
+- [ ] Coins, or paper money you print
+- [ ] A tin or box for a till
+- [ ] A basket and a tablecloth
+- [ ] A small real hammer and a screwdriver
+- [ ] Child-size safety glasses
+- [ ] A scrap board, large-headed nails, and a few screws
+- [ ] Sandpaper
+- [ ] A tool belt or a waist apron
+- [ ] A tape measure
+- [ ] A large cardboard box
+- [ ] Paper plates
+- [ ] Split pins or strong tape
+- [ ] Three bins, baskets, or laundry tubs
+- [ ] Clean, rinsed recycling — cans, plastic, paper, card
+- [ ] Rubber gloves and a bin bag
+- [ ] Kitchen tongs or a litter grabber
+- [ ] Flour, instant yeast, salt, sugar, and olive oil
+- [ ] A large bowl, a tea towel, and a baking tray
+- [ ] An apron
+- [ ] A small notepad
+- [ ] Ribbon and a hole punch
+- [ ] Yellow paper
+
+---
+
+> 👶 **Kreston is around 15 months this week** — walking everywhere, carrying things from room to room for no reason, and desperate to do whatever job she's doing. Give him a real one.
+
+---
+
+<a id="day-246"></a>
+
+## 🌟 Day 246: The Home Post Office 🌟
+**📅 Friday, September 3, 2027**
+**Theme:** Community Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Who Brings the Mail? (15 min)
+- **9:15–10:15 AM** — Main Event: The Home Post Office (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Postbox Walk** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Home Post Office
+**🧰 Complete Materials List:**
+- A shoebox with a lid, for the post box
+- Plain paper and 4–5 envelopes
+- One real postage stamp, and a sheet of stickers for the pretend ones
+- An ink pad and any rubber stamp — or half a potato with a shape cut into it
+- Markers and crayons
+- A tote bag or pillowcase for the mailbag
+- Old greeting cards to cut up
+- Tape
+
+**📝 Step-by-Step Instructions:**
+1. **Adult cuts a letter slot** in the shoebox lid. She decorates the box and writes POST on the front however she can.
+2. She makes the letters. Drawings count entirely — a letter to Grandma can be a picture of a dog. Ask what it says and write her exact words underneath.
+3. **Everyone gets an address.** Kreston's cot, Dad's chair, the kitchen. Write each one on a card and tape it up.
+4. She addresses each envelope by copying the card, then licks and presses a sticker stamp on the corner.
+5. Post them all through the slot. Then she puts on the mailbag, becomes the carrier, empties the box, and **delivers to each address in the house.**
+6. **Save one real letter.** A real envelope, a real address, the real stamp. That one goes out on the walk.
+
+> 💡 **Tip:** The delivery half is where the learning is. Matching a card on an envelope to a card on a door is real symbol-matching, and she'll do it fifteen times without being asked once.
+
+### 🌳 Get Outside: The Postbox Walk
+Walk to the nearest real post box or mailbox with the one real letter. She carries it the whole way and posts it herself. Then look for the collection times printed on the front and work out together when it'll be picked up.
+
+> 👶 **Infant Integration:** Kreston gets his own posting job — a shoebox with a bigger hole and a stack of old cards. Posting objects into slots is a 15-month-old's favourite thing in the world and he will do it until you stop him.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A letter teaches her that writing is aimed at someone.**
+> Most early writing practice is aimed at nobody — tracing a letter to prove you can trace a letter. A letter has a destination and a reader, and that changes what she thinks the marks are *for*. Print becomes a way of reaching a person who isn't in the room.
+> This is why her scribbled envelope matters more than a perfect worksheet. She isn't forming letters yet, but she's grasped the whole point of the system — that meaning can be put down here and picked up there, later, by someone else. The handwriting arrives on its own timetable. The purpose is the harder idea, and she's got it.
+
+> 💛 **From Joseph:** She'll ask every day for two weeks whether Grandma got it. Warn Grandma.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-247"></a>
+
+## 🌟 Day 247: The Lending Library 🌟
+**📅 Saturday, September 4, 2027**
+**Theme:** Community Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Lending Library (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Library Walk** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Lending Library
+**🧰 Complete Materials List:**
+- All of her books
+- Index cards, one per book
+- A shoebox or basket to hold the cards
+- Coloured dot stickers
+- A pencil, and a date stamp if you own one
+- Sticky notes
+- Paper for a sign
+- A tote bag for the library bag
+
+**📝 Step-by-Step Instructions:**
+1. **Sort the books into three sections first** — animals, people, everything else. Put a coloured dot on each spine to match. She decides which is which; being wrong is fine.
+2. Shelve them by colour of dot. This is the librarian's actual system and she's just invented it.
+3. Make a card for each book: she copies the first letter of the title, or draws the cover. Cards live in the box in the same colour order.
+4. Make a sign. **QUIET** is the traditional one and she'll enjoy enforcing it.
+5. **Open the library.** You are the borrower. You choose a book, hand over the card, she writes the date — a scribble is a date — and stamps it.
+6. **Then the return.** You bring it back. She checks the card, files it, reshelves the book *in the right section*. That last step is the whole activity.
+
+> 💡 **Tip:** Let her be strict. Fines, rules about talking, telling you off for putting a book back wrong — that's her practising a role with clear rules, which is the most satisfying kind of pretend at four.
+
+### 🌳 Get Outside: The Library Walk
+Walk to your actual library. She takes the tote. Point out the real version of everything she just built — the sections, the scanner instead of the stamp, the returns slot. If she has a card, she uses it herself at the desk.
+
+> 👶 **Infant Integration:** Kreston gets a stack of board books and a low basket, and his job is putting them in. Most libraries have a board-book bin at floor height — that's his section, and he can dismantle it happily.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Borrowing and returning is her first experience of trusted ownership.**
+> A borrowed book is a genuinely complicated object. It's hers to use and not hers to keep, it has to come back in one piece, and someone is keeping track. Nothing else in her world works like that yet.
+> Handling it well is a real developmental step — it needs her to hold a future obligation in mind while enjoying something now. That's the same machinery as looking after a friend's toy or feeding a pet. Which is why the return trip is worth making a small event of rather than an errand you do without her. Bringing it back on purpose is the part she's learning.
+
+> 💛 **From Joseph:** She reshelved my book while I was still reading it. Correctly, though.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-248"></a>
+
+## 🌟 Day 248: The Market Stall 🌟
+**📅 Sunday, September 5, 2027**
+**Theme:** Community Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Market Stall (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:45 AM** — Get Outside: **The Real Market Trip** (75 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Market Stall
+**🧰 Complete Materials List:**
+- A small table, or a sturdy box turned upside down
+- A tablecloth or tea towel
+- Real produce — apples, potatoes, tomatoes, corn, whatever's in
+- A kitchen scale
+- Paper bags
+- Paper and a marker for price signs
+- Coins, or paper money you print and cut
+- A tin or box for the till
+- A basket
+
+**📝 Step-by-Step Instructions:**
+1. Set the stall up together. **September is harvest season**, so use whatever is actually cheap and piled up at the shops this week — that's not a coincidence, and it's worth saying out loud.
+2. She makes price signs. Numbers she can't write yet get drawn as dots — three dots means three coins. That works fine.
+3. **Practise the scale.** Put an apple on, then two, then a potato. Which is heavier? She'll guess by size and be wrong at least once, which is the good bit.
+4. Open the stall. You buy. She weighs it, bags it, tells you the price, takes the coins, puts them in the till.
+5. **Swap.** You run the stall and she shops with a basket and five coins. Five coins, five things — she has to count out as she goes.
+6. Cook one thing she "bought" for lunch.
+
+> ⚠️ **Real coins are a choking hazard** and Kreston is 15 months. Count them out at the start, count them back into the tin at the end, and put the tin away before he's on the floor again.
+
+> 💡 **Tip:** Don't correct the prices. A tomato costing eleven coins and an apple costing one is not a maths error — she's practising the *ritual* of exchange, and the numbers get real later.
+
+### 🌳 Get Outside: The Real Market Trip
+Go to an actual farmers' market or the produce aisle. She has her own short list — three items, drawn as pictures — and her own small money. She finds each thing, hands it over herself, and takes the change.
+
+> 👶 **Infant Integration:** Kreston gets his own apple to carry, and one job: putting things in the basket when she hands them to him. He'll take them out again. That's the game.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Money is a story about exchange long before it's arithmetic.**
+> Before a child can add coins, she has to grasp something stranger: that this metal disc can be swapped for that apple, and that both people go away satisfied. Small children often find this genuinely mysterious, and will happily hand over twelve coins for one grape.
+> The understanding builds through repetition of the sequence — choose, hand over, receive, leave — not through explanation of value. So the useful thing at four is letting her run the whole transaction herself, badly, many times. Real money, real hands, real cashier. The maths follows once the story makes sense, and not before.
+
+> 💛 **From Joseph:** She gave the man at the market a rock as payment last year and he took it. Best transaction of her life.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-249"></a>
+
+## 🔧 Day 249: Labor Day — The Fix-It Station 🔧
+**📅 Monday, September 6, 2027**
+**Theme:** Community Helpers — *Labor Day*
+
+> 🇺🇸 **Labor Day.** Today is a day off work that exists *because* of work — it was won by people who organised for shorter days and safer conditions. For a four-year-old that whole idea reduces to something she can actually hold: **everything around us was made or fixed by somebody, and today we say thank you to them by doing some of it ourselves.** That's the version to tell her.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: What Everyone in This Family Does (15 min)
+- **9:15–10:30 AM** — Main Event: The Fix-It Station (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Who's Working Today Walk** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Fix-It Station
+**🧰 Complete Materials List:**
+- A small real hammer — a tack hammer or a light claw hammer
+- A screwdriver that matches a screw you actually have
+- Child-size safety glasses
+- A scrap board, soft wood if possible
+- Large-headed nails, started for her
+- A few screws, started a turn or two into the wood
+- Sandpaper
+- A tape measure
+- A tool belt or a waist apron with pockets
+- A pencil
+- **One real thing that needs fixing** — a loose chair screw, a drawer knob, a wobbly handle
+
+**📝 Step-by-Step Instructions:**
+1. **Safety glasses on before anything else comes out.** They stay on until the tools go away. No glasses, no tools — say it once, mean it.
+2. Belt on. Load the pockets: tape measure, pencil, sandpaper. Tools stay on the table until they're being used.
+3. **Measuring first.** She measures the board, the table, your foot, Kreston. She won't read the numbers; pulling the tape and letting it snap back is the skill.
+4. **Hammering.** Start each nail yourself so it stands up. Hold the board steady. Her hand on the hammer, your hand over hers for the first few, then let go and stand back. Big-headed nails and soft wood make this achievable.
+5. **Screwing.** Start each screw a couple of turns. She finishes them. Screwdrivers are more frustrating and more satisfying than hammers.
+6. Sand the edges smooth. Let her feel the difference before and after.
+7. **Then the real repair.** Go and fix the actual loose thing together. She holds the screwdriver, you guide it. **This is the part she'll remember** — the chair was broken, and now it isn't, and she did it.
+8. Tools go back in the box and the box goes up high. Every time.
+
+> ⚠️ **Kreston is not in this room.** Nails, screws, and a hammer at 15 months is not a supervision problem you can win. Do this at nap, or with another adult holding him elsewhere.
+
+> 💡 **Tip:** Resist redoing her work once she's gone to bed. A crooked nail that she drove in herself is doing more for her than a straight one you fixed.
+
+### 🌳 Get Outside: The Who's Working Today Walk
+It's a public holiday, so walk the neighbourhood and notice who's working anyway — the petrol station, the coffee shop, the hospital, the buses, anyone doing roadworks. Count them. Talk about why some jobs can't stop. If you pass someone working, she says thank you.
+
+> 👶 **Infant Integration:** Kreston gets his own toolbench later, once the real tools are locked away — a wooden spoon, an upturned pot, and some plastic bottle lids to bang. He is doing exactly what she was doing this morning, in the only way available to him.
+
+> 🌍 **Around the World — Feeding the Workers Everywhere**
+> Everywhere people work far from home, someone invented a way to get lunch to them. In **Mumbai**, *dabbawalas* collect thousands of home-cooked lunches in stacked tin *tiffins* every morning and deliver them across the city by bike and train. In **Cornwall**, tin miners ate **pasties** with a thick crimped edge to hold with dirty hands and throw away. In **Bolivia**, miners eat **salteñas** — a juicy baked pastry designed to be eaten standing up.
+> **✨ Try it:** Make hand pies. Any pastry, any filling she chooses, folded over and crimped along one edge. Eat them standing up, outside, with no plates — the way they were designed to be eaten.
+> *Did you know?* Mumbai's dabbawalas deliver around 200,000 lunches a day, and almost none of them go to the wrong person — using a colour and symbol code rather than written addresses, because many of the carriers can't read.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **What you actually do all day is more interesting to her than you think.**
+> Children of this age often have only the vaguest idea what their parents' work involves — a building, a screen, a phrase they've overheard. Meanwhile they're intensely curious about roles, because roles are how they're currently making sense of people.
+> Telling her plainly what you do, in concrete terms — *I move numbers so the shop knows what to order*, *I make the machine that fills the bottles work again* — gives her something to play. And playing your job is how she thinks about you when you're not there. On a day that exists to honour work, telling her what yours actually is turns out to be the most fitting thing you can do with it.
+
+> 💛 **From Joseph:** You've fixed more things in this house than I have. She should know that, and today's a good day to tell her.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-250"></a>
+
+## 🌟 Day 250: The Recycling Depot 🌟
+**📅 Tuesday, September 7, 2027**
+**Theme:** Community Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Recycling Depot (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Ten-Piece Litter Patrol** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Recycling Depot
+**🧰 Complete Materials List:**
+- A large cardboard box for the truck
+- Four paper plates for wheels
+- Split pins, or strong tape
+- Three bins, baskets, or laundry tubs
+- Paper and marker for labels
+- A bag of clean, rinsed recycling — cans, plastic bottles, paper, cardboard
+- Rubber gloves
+- Kitchen tongs or a litter grabber
+- A bin bag
+
+**📝 Step-by-Step Instructions:**
+1. Build the truck. Box, four plate wheels attached with split pins so they actually turn, a paper plate steering wheel taped inside. **Ten minutes, not an hour** — the sorting is the activity.
+2. **Label the three bins**: metal, paper, plastic. Draw a picture on each label as well as the word.
+3. Tip the recycling out in a heap in the middle of the floor.
+4. **She sorts it.** Not by colour — by what it's *made of*. A silver crisp packet that isn't metal, a shiny card box that is paper, a plastic bottle with a metal-looking lid. Those are the interesting ones.
+5. When she's stuck, hand her the item and ask her to knock on it, bend it, and listen. **Deciding by feel and sound is the actual skill.**
+6. Load the sorted bins into the truck. Drive it to the real bins outside and load them in for real.
+
+> 💡 **Tip:** Rinse everything the night before. Yesterday's yoghurt pot will end this activity in under a minute.
+
+### 🌳 Get Outside: The Ten-Piece Litter Patrol
+Gloves on, bag out, tongs in hand. **Ten pieces, then stop.** A number makes it a finishable job rather than an endless one, and she'll usually ask for ten more. Nothing sharp, nothing glass, nothing wet — she points, you decide, you pick up the ones that need picking up.
+
+> 👶 **Infant Integration:** Kreston gets one bin and a pile of clean plastic bottles. Fill it, tip it, fill it again. He isn't sorting anything, but carrying an object to a container and dropping it in is genuine 15-month-old work.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Caring about a place is learned by improving it, not by being told to.**
+> Environmental instruction at four — the planet, the future, the consequences — mostly doesn't land. It's too large, too abstract, and too far away to attach to anything she can picture.
+> What does land is the ten minutes with the gloves and the bag, and the strip of pavement that looked one way before and another way after. That's a chain she can hold in her head: I did something, and the place changed. Repeated often enough it becomes a disposition — a sense that mess is fixable and that fixing it is what people like us do. The reasoning can be filled in later, once there's something for it to attach to.
+
+> 💛 **From Joseph:** She waves at the bin lorry every week and one of them waves back now. That's a whole relationship.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-251"></a>
+
+## 🌟 Day 251: The Bakery Counter 🌟
+**📅 Wednesday, September 8, 2027**
+**Theme:** Community Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Bakery Counter (60 min, plus rising)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Get Outside: **The Bread Delivery Round** (45 min)
+- **11:15 AM–12:00 PM** — Baking & Free Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Bakery Counter
+**🧰 Complete Materials List:**
+- 500g plain or bread flour
+- 7g instant yeast
+- 1 tsp salt, 1 tsp sugar
+- 300ml warm water
+- 1 tbsp olive oil
+- A large bowl and a tea towel
+- A baking tray
+- An apron
+- A small notepad and pencil for orders
+- Paper bags
+- Tongs and a tray for the counter
+
+**📝 Step-by-Step Instructions:**
+1. **She does the whole mix.** Flour, yeast, salt, sugar in the bowl — keep the salt and yeast on opposite sides going in. Water and oil poured in by her. Mix with hands until it comes together.
+2. Knead on the table for five minutes. **This is the point of the activity** — it's heavy, repetitive, whole-body work and it settles her completely.
+3. Bowl, tea towel over the top, warm spot. **Set a timer for an hour and go out.** The waiting is deliberate.
+4. Back in: knock it down, and she shapes six rolls. Any shape. Snails, plaits, blobs.
+5. Rise again for twenty minutes on the tray, then **an adult puts them in** at 220°C / 425°F for 12–15 minutes.
+6. **Then the counter opens.** Apron on, rolls on the tray, tongs in hand. You order — "two, please" — and she counts them into a paper bag and takes the order on the pad. She writes the order however she writes.
+
+> ⚠️ **The oven is the adult's job start to finish**, including opening the door. The tray, the rack, and the door all stay hot long after the rolls come out.
+
+> 💡 **Tip:** If the hour of rising is unmanageable, use a shop-bought pizza dough and skip to step 4. The counter and the shaping are what she's here for.
+
+### 🌳 Get Outside: The Bread Delivery Round
+While the dough rises, walk a delivery round with the empty bags — practise the knock, the "good morning", the handing over. Then after baking, do it for real: take two rolls to a neighbour, a grandparent, or whoever's nearest. She knocks and hands them over herself.
+
+> 👶 **Infant Integration:** Kreston gets his own fistful of dough on the tray. He'll squeeze it, drop it, and possibly taste it — raw dough shouldn't be eaten, so swap his lump for a piece of bread when he tries. Bake his blob alongside the rolls anyway.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Reading a recipe is her first experience of print that tells you what to do.**
+> Most print in her life describes or entertains — stories, signs, labels. A recipe is different: it's a set of instructions that must be followed in order, and if you skip a line the bread doesn't work. That's a genuinely distinct kind of text, and it's the one that underlies almost all practical literacy later.
+> She can't read it yet, but she can hold the structure — first this, then this, then wait. Reading a picture recipe aloud while she does the steps, and pointing at each line as you go, is teaching sequencing, one-to-one matching, and the idea that text is a set of steps someone laid down for you. Bread is just the excuse.
+
+> 💛 **From Joseph:** The kitchen smelling like this at ten in the morning on a Wednesday is a very good use of a Wednesday.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-252"></a>
+
+## 🌟 Day 252: The Thank-You Round 🌟
+**📅 Thursday, September 9, 2027**
+**Theme:** Community Helpers — *Week 36 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Who Did We Meet This Week? (15 min)
+- **9:15–10:15 AM** — Main Event: Make the Thank-You Badges (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Thank-You Round** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Make the Thank-You Badges
+**🧰 Complete Materials List:**
+- Yellow paper and cardstock
+- Markers and crayons
+- Sticker sheets and stars
+- Ribbon
+- A hole punch
+- Scissors and tape
+- Envelopes
+- The mailbag from Day 246
+
+**📝 Step-by-Step Instructions:**
+1. **List the real people first.** The postal carrier, the librarian, the bin crew, the person at the market, a neighbour. Four or five, no more — each one has to be someone she can actually reach today.
+2. Cut a circle for each badge. She decorates one per person, and you write the name and **one specific thing they do** — *for bringing our letters*, *for taking the bins*.
+3. Punch two holes at the bottom and thread a ribbon tail through each. It looks like a medal, which is the point.
+4. Put each badge in an envelope and address it — she copies the first letter of the name.
+5. **Rehearse the handover.** What she'll say, where she'll stand, what happens if they're not there. Four-year-olds freeze at the door, and a run-through halves it.
+6. Load the mailbag.
+
+> 💡 **Tip:** Have a plan for the ones who aren't in. Posting it through the door with a knock still counts and still feels finished — decide that in advance rather than at the gate.
+
+### 🌳 Get Outside: The Thank-You Round
+Walk the route and deliver them. Time it for when the bins go out or the post comes if you can. She hands each one over herself, or posts it. Then walk home the long way and let it be over — no debrief needed.
+
+> 👶 **Infant Integration:** Kreston comes along and holds one envelope the entire way. He will crumple it. Give him the one for the neighbour who'll find that funny.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Handing something over in person is a separate skill from making it.**
+> The card is the easy half. Walking up to a near-stranger, waiting for them to look at you, saying a sentence out loud and putting an object into their hands is a genuinely demanding piece of social work at four — and children who are confident at home often go silent at exactly that moment.
+> It isn't rudeness, and prompting louder rarely helps. What helps is rehearsal beforehand and standing close enough that she can lean on your leg, then letting the silence be fine if it comes. She'll manage more of it each time. The freezing is the thing being worked on, not an obstacle to the thing being worked on.
+
+> 💛 **From Joseph:** She hid behind you for the first two and did the last one on her own. That's the whole week right there.
 
 <div style="page-break-after: always;"></div>
