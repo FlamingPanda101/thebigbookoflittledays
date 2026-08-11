@@ -17803,3 +17803,437 @@ Eat outside at camp. Then the evening block is the real outdoor event — the sa
 > 💛 **From Joseph:** She packed a spoon, a rock, and no coat. Best expedition we've been on.
 
 <div style="page-break-after: always;"></div>
+<a id="week-38"></a>
+
+## Week 38: Colors & Shapes Studio 🎨
+**📅 September 17 – September 23, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+A studio week. Real paint, real mixing, and a working table she's allowed to make a mess on for seven days. The colour half goes past naming into *making* — mixing secondaries, inventing shades, and finding out that you can't unmix them. The shape half goes past naming into *building* — straws, tape, holes cut to fit, and shapes she has to construct edge by edge.
+
+The autumn equinox lands mid-week and the leaves are turning, which gives the colour work something real to match against. It ends on Thursday with Shape Town, which takes all day.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Which colours make which** — red and yellow, blue and yellow, red and blue, done with her own hands.
+- **Light, medium, and dark** as a sequence she can arrange rather than three separate words.
+- **Building a shape from its edges** — three straws, three corners, one triangle.
+- **Mental rotation**, by turning a shape until it fits the hole.
+- **Matching a shade**, which is much finer work than matching a colour.
+
+---
+
+### 👩 What You'll Learn
+
+- Mixing colours is a lesson in irreversibility
+- Shapes are learned by making the edges, not by naming them
+- Light changes what she thinks a colour is
+- Naming a colour she invented does more than learning the standard eleven
+- Fitting a shape into a hole is a test of mental rotation
+- Matching a shade is much harder than matching a colour
+- Finishing something that took all week is its own lesson
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] Red, yellow, and blue paint — poster or acrylic
+- [ ] White and black paint
+- [ ] A paper plate or paint palette, plus spares
+- [ ] Brushes in two or three sizes
+- [ ] A large sheet of paper or a roll of lining paper
+- [ ] White cardstock and plain paper
+- [ ] Drinking straws, ideally paper
+- [ ] Pipe cleaners
+- [ ] Masking tape and clear tape
+- [ ] Scissors, adult and child
+- [ ] Coloured tissue paper
+- [ ] Clear contact paper or sticky-back plastic
+- [ ] Black card for the window frames
+- [ ] Small clear jars or glasses — at least six
+- [ ] Droppers, pipettes, or a turkey baster
+- [ ] Food colouring
+- [ ] A large cardboard box
+- [ ] Small objects to post — blocks, balls, lids, cardboard shapes
+- [ ] Paint sample cards from a hardware store, or white card to make your own
+- [ ] Glue sticks and PVA glue
+- [ ] Coloured card in as many shades as you can find
+- [ ] Pavement chalk
+- [ ] A tea towel, a mat, and old clothes for all of it
+
+---
+
+> 👶 **Kreston is around 15–16 months this week** — he will put a paintbrush in his mouth, and he can post a shape into a hole. Both of those are on the schedule.
+
+---
+
+<a id="day-260"></a>
+
+## 🌟 Day 260: The Colour Wheel 🌟
+**📅 Friday, September 17, 2027**
+**Theme:** Colors & Shapes Studio
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Set Up the Studio (15 min)
+- **9:15–10:15 AM** — Main Event: The Colour Wheel (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **Primary Colour Patrol** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Colour Wheel
+**🧰 Complete Materials List:**
+- Red, yellow, and blue paint only — no other colours on the table
+- A paper plate for the wheel, and a second one as a palette
+- A medium brush and a spoon or lolly stick for mixing
+- A cup of water and a cloth
+- White cardstock
+- An apron or old clothes
+
+**📝 Step-by-Step Instructions:**
+1. **Set the studio up properly** — mat down, water pot, cloth, aprons. Doing this together every day this week is part of the week.
+2. Three blobs on the plate, spaced out: red, yellow, blue. **Nothing else.** Say plainly that these three are the ones you can't make, and everything else comes out of them.
+3. Paint red, yellow, and blue in three spots on the wheel, evenly spaced.
+4. **Now the mixing, one pair at a time.** Red and yellow first. Let her stir it herself and watch her face. Paint the orange in between the red and the yellow.
+5. Yellow and blue for green. Red and blue for purple. Each one goes in between its two parents on the wheel.
+6. **Then the extra move:** a stripe of each colour with white added, and a stripe with black. Six colours became eighteen and she made all of them.
+7. Leave it out to dry where she can see it. It's the reference chart for the rest of the week.
+
+> 💡 **Tip:** Wash the brush between mixes or everything ends up the same brown. Give her a second brush instead and let the brown happen once — she needs to see it — then introduce the washing rule.
+
+### 🌳 Get Outside: Primary Colour Patrol
+Out with one job: find something purely red, something purely yellow, and something purely blue. Harder than it sounds — most things outside are a mixture, and noticing that is the point. Photograph or collect one of each.
+
+> 👶 **Infant Integration:** Kreston gets one colour, one brush, and a large sheet of paper on the floor. One colour means no mud, and at 15 months he's painting with his whole arm anyway.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Mixing colours is a lesson in irreversibility.**
+> Almost everything in her world can be undone — blocks come apart, water pours back, the drawing gets rubbed out. Paint doesn't. Once the yellow is in the blue, there is no getting the yellow back, and that's a genuinely new category of event for a four-year-old.
+> Watching her realise it is worth not interrupting. Some children find it thrilling and some find it upsetting, and both reactions are about the same discovery. It's the same idea underneath cutting the paper, cracking the egg, and saying the unkind thing — some actions only go one way. Paint is a very cheap place to meet it.
+
+> 💛 **From Joseph:** She made brown, was furious about it, then made brown again on purpose. That's a scientist.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-261"></a>
+
+## 🌟 Day 261: Straw Shapes 🌟
+**📅 Saturday, September 18, 2027**
+**Theme:** Colors & Shapes Studio
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: Straw Shapes (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **Chalk Shapes on the Drive** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Straw Shapes
+**🧰 Complete Materials List:**
+- A big handful of drinking straws
+- Pipe cleaners, cut into 8cm lengths
+- Child scissors, and adult scissors for the tough cuts
+- Masking tape
+- Card and a marker, for shape name labels
+- A ruler, optional
+
+**📝 Step-by-Step Instructions:**
+1. Cut the straws into equal lengths first — she can do this with child scissors and it's excellent hand work. **Make a lot. More than you think.**
+2. **Show the join once:** bend a pipe cleaner into a V, push one arm into each of two straws. That's a corner. Then step back.
+3. **Triangle first.** Three straws, three corners. Ask her to count the sticks and the corners before you name it — three and three, then the word.
+4. Square next. Four and four. **Then ask her to predict** what five sticks makes, and let her find out.
+5. Label each finished shape with a card. She copies the first letter.
+6. **Then go 3D.** Two squares joined by four upright straws makes a cube. This is hard and will need your hands, and it's the moment shapes stop being flat pictures for her.
+7. Hang the good ones from the ceiling or a curtain rail.
+
+> 💡 **Tip:** If the pipe cleaners are too fiddly, roll a small ball of sticky tack for each corner instead. The joining method doesn't matter — the counting of sides and corners is the actual content.
+
+### 🌳 Get Outside: Chalk Shapes on the Drive
+Draw six big shapes on the pavement — circle, square, triangle, rectangle, star, oval — spaced far apart. **Then call them out and she runs.** Speed it up. Then let her call them for you, which she'll enjoy more than doing it.
+
+> 👶 **Integration:** Kreston gets a fistful of uncut straws and a large container with a hole in the lid. Posting straws through a hole is completely absorbing at this age and it's the same skill as Tuesday's shape sorter.
+
+> 🌍 **Around the World — Morocco: *Zellij* Tilework**
+> In Morocco, craftsmen chisel glazed tiles into precise geometric pieces and fit them into vast patterns that cover walls, floors, and fountains — **stars, crosses, and eight-pointed rosettes, with no gaps anywhere.** The shapes are cut by hand and the pattern is held in the craftsman's head. Some designs have been passed down through families for centuries.
+> **✨ Try it:** Cut coloured paper into squares and triangles and tile a whole page with no gaps and no overlaps — much harder than it sounds. Then make **Moroccan mint tea** — green tea, a fistful of fresh mint, plenty of sugar — and pour it from as high up as you dare, which is the traditional way and produces the foam.
+> *Did you know?* The pattern isn't drawn first. The craftsman works outward from the centre, and the geometry keeps it true.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Shapes are learned by making the edges, not by naming them.**
+> A child can label a triangle long before she understands one. Naming is pattern-matching against a picture — and it's why she'll confidently call a long thin triangle "not a triangle", because it doesn't look like the one in the book.
+> Building it fixes that. Three sticks and three corners is a *rule*, and a rule survives being stretched, tipped over, or drawn badly. Constructing shapes from their parts is how the definition replaces the picture, which is the difference between recognising a triangle and knowing what one is. That distinction turns up again in geometry a decade later, doing exactly the same work.
+
+> 💛 **From Joseph:** The cube took three goes and she wouldn't let me finish it for her. Take note of that; it's new.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-262"></a>
+
+## 🌟 Day 262: Stained Glass 🌟
+**📅 Sunday, September 19, 2027**
+**Theme:** Colors & Shapes Studio
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Stained Glass Window (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **The Shape Hunt Round the Block** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Stained Glass Window
+**🧰 Complete Materials List:**
+- Coloured tissue paper, torn into pieces
+- Clear contact paper or sticky-back plastic, one A4 sheet per window
+- Black card for the frame
+- Scissors and tape
+- A sunny window
+
+**📝 Step-by-Step Instructions:**
+1. **Tearing first, and let it take a while.** Tissue paper torn into small pieces — tearing is genuinely good bilateral hand work and she'll do a lot of it.
+2. Cut a rectangle of contact paper, peel the backing, and tape it sticky-side-up to the table. **Tape all four corners down properly** or the whole thing lifts and sticks to her.
+3. She presses tissue pieces onto the sticky surface. Overlapping is not a mistake — **overlaps are where the new colours appear**, and that's the whole activity.
+4. When it's covered, lay a second sheet of contact paper over the top to seal it.
+5. Cut a black card frame and tape it round the edge.
+6. **Hold it up to the window.** Then hold it against a wall. Then a lamp. Same object, three completely different colours.
+7. Stick it to the sunniest window in the house and check it again at teatime, when the light has moved.
+
+> 💡 **Tip:** Overlap red and blue deliberately in one corner before she starts and let her spot the purple herself. She'll then overlap everything, which is exactly what you want.
+
+### 🌳 Get Outside: The Shape Hunt Round the Block
+Walk and name shapes on buildings — round windows, triangular roofs, rectangular doors, octagonal signs. **Count how many circles you can find in one street.** Wheels, drain covers, signs, clock faces. It's more than she'll guess.
+
+> 👶 **Infant Integration:** Kreston gets his own small square of contact paper taped to the floor or a tray, and large pieces of tissue. Sticky-and-unsticky is a full sensory activity at 15 months. Watch he doesn't eat the tissue.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Light changes what she thinks a colour is.**
+> Children of this age tend to treat colour as a fixed property of an object — the tissue *is* red, in the way that it *is* paper. Holding the same square against a window, a wall, and a lamp quietly breaks that, and the confusion it produces is productive.
+> It's the beginning of a genuinely sophisticated idea: that what we see depends on the light falling on it as well as the thing itself. She won't articulate any of that, and doesn't need to. Encountering it as a puzzle — *why is it darker now?* — is enough at four, and it makes her look at light rather than through it.
+
+> 💛 **From Joseph:** She moved it round the house for an hour checking every window. Nobody asked her to do that.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-263"></a>
+
+## 🌟 Day 263: The Colour Lab 🌟
+**📅 Monday, September 20, 2027**
+**Theme:** Colors & Shapes Studio
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Colour Lab (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The One-Colour Collection** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Colour Lab
+**🧰 Complete Materials List:**
+- Six or more small clear jars or glasses
+- Droppers, pipettes, or a turkey baster
+- Food colouring — red, yellow, blue
+- A jug of water
+- White paper for the record sheet
+- A marker
+- A tray or baking dish to catch spills
+- A towel
+
+**📝 Step-by-Step Instructions:**
+1. Line the jars on the tray, each half full of water. **Three "parent" jars** get a strong dose of red, yellow, or blue.
+2. Give her the droppers. **Squeezing a pipette is excellent finger strength work** and it's the same grip she'll use on a pencil.
+3. **Free mixing, no target.** Let her make as many jars as you have. Some will be lovely and several will be grey.
+4. **Then the naming.** Every colour she makes gets a name she invents — *dinosaur green*, *sad blue*, *Kreston brown*. Write each name on a strip of paper and tape it to the jar.
+5. Line the finished jars up **lightest to darkest** along the windowsill. This is the harder task of the day and she'll need to move them several times.
+6. Record it: a row of dots on the paper, in order, each with its invented name written next to it in your handwriting.
+
+> ⚠️ **Food colouring stains everything** — hands, clothes, grout, the good tea towel. Old clothes, and put the tray on something you don't love.
+
+> 💡 **Tip:** Use warm water. It disperses faster and she can see the colour move through the jar, which is half the appeal.
+
+### 🌳 Get Outside: The One-Colour Collection
+She picks one colour before you leave the house. Then everything collected on the walk has to be that colour — leaves, stones, wrappers, petals, a bottle cap. **Restricting it to one makes her look at fifty things instead of grabbing the first five.**
+
+> 👶 **Infant Integration:** Kreston gets two jars of coloured water on a tray with lids screwed on tight and taped. Shaking and holding them to the light is plenty. **No open water for him at this age**, and no droppers — they're a choking hazard.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Naming a colour she invented does more than learning the standard eleven.**
+> English gives her about eleven basic colour words, and most colour teaching stops there. But the world isn't made of eleven colours, and a child who only has those words stops seeing the gaps between them — which is why so many drawings at this age use flat, unmixed colour.
+> Letting her invent names for the shades she makes keeps the gaps visible. *Muddy green* and *dark green* are different to her because she made them differently, and having a name for each makes the distinction stick. It's the same reason painters and cooks and gardeners accumulate absurdly specific vocabularies — the words come after the noticing, and then they protect it.
+
+> 💛 **From Joseph:** "Kreston brown" is now a colour in this house and I don't think we're getting rid of it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-264"></a>
+
+## 🌟 Day 264: The Shape Sorting Machine 🌟
+**📅 Tuesday, September 21, 2027**
+**Theme:** Colors & Shapes Studio
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Shape Sorting Machine (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **The Playground Shape Audit** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Shape Sorting Machine
+**🧰 Complete Materials List:**
+- A large cardboard box
+- A craft knife — **adult only**
+- A marker
+- Stiff card, for cutting shape tiles
+- Small objects that fit: blocks, balls, jar lids, cardboard shapes
+- Paint or paper to decorate the box
+- Tape
+
+**📝 Step-by-Step Instructions:**
+1. **She draws the holes, you cut them.** Circle, square, triangle, a long slot, a star if you're feeling generous. Draw round real objects so the fit is close.
+2. Cut a hatch in the side so the machine can be emptied. This gets used more than any other part of it.
+3. Decorate the box. Give the machine a name.
+4. **Cut a set of card tiles** to match each hole — plus a few that don't match anything. The near-misses are the interesting ones: a square that's slightly too big, a rectangle that only goes through the slot one way round.
+5. **She posts them.** The long rectangle through the slot is the real puzzle — it only works if she turns it, and she'll try it flat several times first.
+6. Empty the hatch and go again. Then time her.
+7. **Then flip it:** you post, and she calls out whether it'll fit before it goes in.
+
+> ⚠️ **Craft knife stays in an adult's hand and goes straight back in a drawer.** Do the cutting before she's in the room if you can.
+
+> 💡 **Tip:** Don't turn the rectangle for her. The moment where she rotates it herself is the entire point of the activity, and it can take a dozen attempts to arrive.
+
+### 🌳 Get Outside: The Playground Shape Audit
+Take a clipboard. Find and tally every shape in the playground — circles on the roundabout and the climbing holds, rectangles in the fence panels, triangles in the frame, the whole apparatus. **Most playgrounds are triangles, and she'll spot it herself once she's counted twenty.**
+
+> 👶 **Infant Integration:** This is Kreston's activity too. The circle hole is his — a ball or a jar lid, dropped in, retrieved from the hatch, dropped in again. Posting is the defining 15-month-old skill and he will out-persist her at it.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Fitting a shape into a hole is a test of mental rotation.**
+> To get the rectangle through the slot, she has to picture it turned before she turns it — hold an image in mind, rotate it mentally, and check it against the hole. That's mental rotation, and it's a well-studied ability that keeps developing well into the school years and underlies a lot of later maths.
+> At four she mostly can't do it in her head yet, so she does it with her hands: turn, try, turn, try. That physical trial-and-error is the developmental route, not a workaround for it. Every rotation she performs with her fingers is building the version she'll eventually be able to do without them.
+
+> 💛 **From Joseph:** He's been posting things through the letterbox for a month. Now he has somewhere legitimate to do it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-265"></a>
+
+## 🌟 Day 265: The Autumn Palette 🌟
+**📅 Wednesday, September 22, 2027**
+**Theme:** Colors & Shapes Studio
+
+> 🍂 **Autumn starts about now.** The equinox falls on the 22nd or 23rd depending where you are — the day the light is split almost evenly between day and night, and after which the nights are longer than the days until spring. Worth saying out loud on the walk today, and worth noticing how much earlier it's getting dark than it was in July.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Get Outside: **The Autumn Colour Walk** (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:45 AM** — Main Event: The Autumn Palette (75 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Autumn Palette
+**🧰 Complete Materials List:**
+- Paint sample cards from a hardware store, in reds, oranges, yellows, greens and browns — the free ones, and take plenty
+- Or: white card and this week's paints, to make your own strips
+- The leaves and seeds collected on the walk
+- Glue and tape
+- Scissors
+- A large sheet of card for the finished chart
+- A marker
+
+**📝 Step-by-Step Instructions:**
+1. Spread the paint cards out and spread the leaves out next to them. **No instructions yet.** Let her look at both for a minute.
+2. **The task: find the card that matches each leaf.** Not the right colour — the *exact* shade. She'll go for "red" and then discover there are nine reds and only one of them is right.
+3. Glue each matched pair side by side on the big card, leaf next to chip.
+4. **Then arrange the pairs in order — greenest to reddest.** That's a real sequence and it's the harder half.
+5. Label a few with her invented names from Monday, or new ones.
+6. **Find the one leaf that's still fully green and put it at the start of the row.** Come back to it in a week.
+7. Hang the chart where she'll walk past it. Add to it as the month goes on.
+
+> 💡 **Tip:** Collect far more leaves than you need, including the ugly spotted ones. The half-turned leaves — green fading into yellow on the same leaf — are the ones that make the sequence make sense.
+
+### 🌳 Get Outside: The Autumn Colour Walk
+Out for the leaves and the seeds, with a bag each. **The rule is nothing off a tree — only what's already on the ground.** Look up at the same time and notice which trees have turned and which haven't. Conkers, acorns, and sycamore keys all count.
+
+> 👶 **Infant Integration:** Kreston will want to eat the acorns, and acorns are genuinely a hazard. Give him a bag of large dry leaves to crunch and carry instead, and check his fists before you head home.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Matching a shade is much harder than matching a colour.**
+> Sorting red from blue is easy by four. Picking which of nine reds matches this particular leaf is a different task: it requires holding one sample in mind while scanning against another, and noticing differences she's spent her whole life being told to ignore.
+> This kind of fine visual discrimination is worth practising for a reason that isn't about art at all. The same skill — spotting small differences between things that are broadly the same — is what she'll use to tell *b* from *d*, and *was* from *saw*, in about two years. Autumn leaves happen to be the best free set of gradients you'll ever get.
+
+> 💛 **From Joseph:** She rejected three of my matches. She was right about two of them.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-266"></a>
+
+## 🌟 Day 266: Shape Town 🌟
+**📅 Thursday, September 23, 2027**
+**Theme:** Colors & Shapes Studio — *Week 38 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Plan the Town (15 min)
+- **9:15–10:30 AM** — Main Event: Shape Town (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **Chalk Shape Town** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Shape Town
+**🧰 Complete Materials List:**
+- A long sheet of paper — lining paper, the back of wrapping paper, or taped-together sheets
+- Coloured card in as many shades as you have
+- Scissors, both pairs
+- Glue sticks
+- Markers
+- This week's colour wheel and straw shapes, on the table for reference
+- Masking tape
+
+**📝 Step-by-Step Instructions:**
+1. Tape the long paper down the length of the floor or the table. **Big paper changes how she works** — she'll stand up, use her whole arm, and stay far longer.
+2. **The rule: every building is made of shapes, and she has to say which.** A square with a triangle on top. A rectangle with six small squares in it.
+3. She cuts the shapes. Wobbly cutting is fine and it's a week's worth of scissor practice arriving at once — cut a few of the hard ones for her rather than letting frustration end the day.
+4. Build the town along the paper: houses, a shop, the library from Week 36, the post box, roads as long rectangles.
+5. **Ask her to count the sides on three buildings** as she glues them. Keep it light; it's a game, not a test.
+6. Add people, a dog, Kreston, all as shapes.
+7. **When it's done, she walks you along it and tells you what's where.** Then hang it along a wall at her height.
+
+> 💡 **Tip:** This will take longer than the slot allows and that's fine — let it run into free play and finish it after lunch. A whole-day project is a new experience at four and it's worth protecting.
+
+### 🌳 Get Outside: Chalk Shape Town
+Do it again, life-size, on the drive or the path. Chalk roads wide enough to walk down, houses big enough to stand in, a square for the shop. **She drives a trike or a scooter through it**, which turns the drawing into a place.
+
+> 👶 **Infant Integration:** Kreston walks the chalk roads with her, and gets his own fat chalk. He'll scribble over her town at some point. Draw him a square of his own at the far end and move him to it before it happens.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Finishing something that took all week is its own lesson.**
+> Nearly everything she makes is done inside an hour. A project with a beginning on Friday and an end on Thursday — a colour wheel she keeps referring back to, a chart she adds to, a town built from a week of skills — is a genuinely different experience, and it's the shape most real work takes.
+> The value isn't the finished thing. It's the experience of coming back to something, remembering where she got to, and adding on — which requires holding a plan across days rather than minutes. Hanging the results where she can see them makes that visible to her. She did this over a week, and it got bigger every day.
+
+> 💛 **From Joseph:** She's put the library and the post box in it. She remembers what we did three weeks ago better than I do.
+
+<div style="page-break-after: always;"></div>
