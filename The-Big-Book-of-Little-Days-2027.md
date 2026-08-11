@@ -22380,3 +22380,438 @@ Go out and look at the sky, the windsock, and the gauge one more time before she
 > 💛 **From Joseph:** She forecast sun. It rained all day. She announced that the sky had "changed its mind", which is roughly what the Met Office says too.
 
 <div style="page-break-after: always;"></div>
+<a id="week-47"></a>
+
+## Week 47: Seasons & Nature Cycles 🍂
+**📅 November 19 – November 25, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+The week that looks backwards and forwards at once. She's been outside nearly every day for eleven months, and this week is where that gets assembled into something with a shape: a year wheel, one tree revisited, bulbs planted for a spring she can't imagine, and a jar of things left to rot.
+
+Thanksgiving is on Thursday, which is the right end for it. Everything up to Wednesday is about where food and life come from and go, and then on Thursday everyone sits down together and eats.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **The four seasons**, sorted into a circle rather than recited.
+- **That one tree looks different in November** than it did in June.
+- **Planting for later** — bulbs now, flowers in March.
+- **Who's disappeared**, and where they've gone.
+- **That things rot**, and that rotting is something happening rather than nothing.
+
+---
+
+### 👩 What You'll Learn
+
+- Sorting the year into four is easier than remembering it
+- A tree she's chosen is different from a tree she's shown
+- Five months is longer than she can picture, and that's exactly why it's worth doing
+- Absence is harder to notice than presence, and it has to be pointed out
+- Rotting is the part of nature children are usually protected from, and it's the interesting half
+- A collection with a purpose behaves differently from a collection
+- Big gatherings overwhelm her faster than they overwhelm you, and she needs an exit
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Get the Thanksgiving shopping in early — Wednesday is not the day.*
+
+- [ ] A very large sheet of paper or card, for the year wheel
+- [ ] A split pin, and card for an arrow
+- [ ] Photographs from earlier in the year, printed
+- [ ] Glue, scissors, and markers
+- [ ] A camera or a phone
+- [ ] A clipboard and paper
+- [ ] String, to measure the tree
+- [ ] Spring bulbs — daffodils, tulips, crocus, or hyacinth
+- [ ] Pots, and a bag of compost
+- [ ] Plant labels, or lolly sticks
+- [ ] Logs, sticks, and dead leaves
+- [ ] A large clear jar with a lid
+- [ ] Soil, and a few things to bury: an apple core, a leaf, a scrap of paper, a bit of plastic
+- [ ] A permanent marker
+- [ ] Small envelopes, and a box to keep them in
+- [ ] A tray, for drying seeds
+- [ ] A plain tablecloth or lining paper, for Thursday
+- [ ] Fabric pens or thick markers
+- [ ] Paint, for handprints
+
+---
+
+> 👶 **Kreston is around 18 months this week** — he can carry a pot, pat soil, and put a bulb in a hole. Give him his own pot on Sunday and label it with his name.
+
+---
+
+<a id="day-323"></a>
+
+## 🌟 Day 323: The Year Wheel 🌟
+**📅 Friday, November 19, 2027**
+**Theme:** Seasons & Nature Cycles
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: What Month Is It? (15 min)
+- **9:15–10:30 AM** — Main Event: The Year Wheel (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Four Seasons Walk** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Year Wheel
+**🧰 Complete Materials List:**
+- A very large circle of card — the biggest you can cut
+- A ruler and a marker
+- Photographs printed from across the year
+- Her artwork from earlier months, if any survives
+- Glue, scissors, and crayons
+- A card arrow and a split pin, for the middle
+- Sticky tack, to put it on the wall
+
+**📝 Step-by-Step Instructions:**
+1. **Cut the biggest circle you can** and divide it into four quarters. **Colour code them with her**: green for spring, yellow for summer, orange for autumn, blue or white for winter.
+2. **Then the sorting, which is the activity.** Spread the photos and drawings out on the floor. **One at a time: which quarter does this belong in?**
+3. **Ask how she knows.** *She's got no coat on. There's snow. The leaves are orange.* **The evidence is the point, not the answer.**
+4. **Glue them into the quarters.** Don't correct a photo in the wrong season without asking her reasoning first — sometimes she's spotted something you haven't.
+5. **Add what happens in each**, drawn by her: birthdays, the beach, the leaf pile, the snow.
+6. **Pin the arrow through the middle** so it spins, and set it to today.
+7. **Then spin it round once, slowly, saying the seasons in order** — and land back on autumn. **A whole year, and it comes back to the same place.**
+
+> 💡 **Tip:** Print the photos beforehand. Choosing them on a screen with her turns a seventy-five-minute activity into a scrolling session, and the physical sorting on the floor is where the thinking happens.
+
+### 🌳 Get Outside: The Four Seasons Walk
+**Find evidence of all four seasons on one November walk.** Autumn is easy. Winter is in the bare branches. Summer is in the dried-up seed heads and the brambles. **Spring is the hard one** — but the buds for next year are already on the twigs, tight and small, and finding one is the best moment of the walk.
+
+> 👶 **Infant Integration:** Kreston gets a quarter of the wheel to stick things on, badly, and his own handprint in the autumn section. Date it.
+
+> 🌍 **Around the World — Harvest, Everywhere**
+> Almost every farming culture invented a festival for the end of the growing season. In **Korea**, *Chuseok* brings families home to visit ancestors' graves and eat **songpyeon** — little half-moon rice cakes steamed over pine needles. In **Judaism**, **Sukkot** is spent eating and sometimes sleeping in a *sukkah*, a temporary shelter with a roof of branches you can see the stars through. In **Ghana**, the Ga people's **Homowo** festival means "hooting at hunger" — a celebration that a famine was survived.
+> **✨ Try it:** Build a **sukkah** in the garden or the living room — a frame with branches or leaves laid across the top — and eat a meal under it. Or make half-moon rice cakes: glutinous rice flour, hot water, a sweet filling, folded and steamed.
+> *Did you know?* Thursday's Thanksgiving is one of these too. Nearly every one of them lands within a few weeks of the harvest ending, in every part of the world, without anyone coordinating it.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Sorting the year into four is easier than remembering it.**
+> Ask a four-year-old what happened in June and you'll get nothing, or you'll get yesterday. Her memory for the year is a heap rather than a timeline, and asking her to order twelve months is well beyond her.
+> Four buckets is manageable. Sorting a photograph into *the hot one* or *the leafy one* uses evidence in the picture rather than recall, so she can do it accurately without remembering anything. And doing it repeatedly builds the framework that memories will later hang on. That's the honest order: the structure comes first, and the ability to remember where things go inside it arrives over the next few years.
+
+> 💛 **From Joseph:** She found a bud on a bare twig and wanted to know who put it there. Nobody told her that was coming.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-324"></a>
+
+## 🌟 Day 324: The Same Tree 🌟
+**📅 Saturday, November 20, 2027**
+**Theme:** Seasons & Nature Cycles
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:45 AM** — Get Outside: **Choosing the Tree** (90 min)
+- **10:45–11:00 AM** — Snack (15 min)
+- **11:00 AM–11:50 AM** — Main Event: The Tree File (50 min)
+- **11:50 AM–12:00 PM** — Free Play (10 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Tree File
+**🧰 Complete Materials List:**
+- A folder or a stapled booklet
+- Paper, crayons, and pencils
+- A camera or phone
+- A length of string
+- A bag, for the collection
+- Sticky tape, for mounting leaves and seeds
+- A marker, for the date
+
+**📝 Step-by-Step Instructions:**
+1. **Outside first — she chooses the tree**, and the choosing is not a formality. **It has to be one you can get to easily and often**, and she has to pick it herself.
+2. **Give it a name.** It gets used for the rest of the book.
+3. **The record, made at the tree:** a photograph from a fixed spot she marks, a drawing, a bark rubbing, and **the string wrapped round the trunk and cut to length.**
+4. **Collect from underneath** — leaves, seeds, twigs, whatever's fallen. **Nothing pulled off the tree.**
+5. **Back home, build the file.** Date on the front. Photo, drawing, rubbing, and the string taped to a page with today's date on it.
+6. **One page of questions**, dictated by her: *does it have leaves? what colour? anything living on it? is it wet?*
+7. **Write the return date on the front cover:** the same tree, in March. **Then again in June.** The file is the point and it outlives the week.
+
+> 💡 **Tip:** Mark the photo spot properly — a chalk cross, a particular paving slab, a fence post to stand at. The comparison only works if the second photograph is taken from the same place.
+
+### 🌳 Get Outside: Choosing the Tree
+Ninety minutes to look at a lot of trees and pick one. **Let her reject several.** Climbable, near, interesting bark, good seeds — whatever her criteria turn out to be, they're hers, and being the one who chose is what makes her want to go back.
+
+> 👶 **Infant Integration:** Kreston gets his own tree, chosen by you and photographed with him standing at the base. Same spot, every visit — by next November it'll be the best thing in the file.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A tree she's chosen is different from a tree she's shown.**
+> An adult picking the specimen produces polite interest. A child picking it produces something else entirely — she'll defend it, notice things about it, and want to check on it, because it's hers in a way nothing you selected could be.
+> That's worth spending ninety minutes on. Ownership of the subject is what turns an observation exercise into an ongoing relationship, and the whole value of this activity is in the return visits, which only happen if she wants them to. So let her reject four trees for reasons that make no sense. The fifth one is the one she'll still be talking about in March.
+
+> 💛 **From Joseph:** She rejected three perfectly good trees and chose one with a hole in it. Fair enough. It's a better tree.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-325"></a>
+
+## 🌟 Day 325: Bulbs 🌟
+**📅 Sunday, November 21, 2027**
+**Theme:** Seasons & Nature Cycles
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: What's Inside a Bulb? (15 min)
+- **9:15–10:20 AM** — Main Event: Planting Bulbs (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:45 AM** — Get Outside: **The Bulb Bed** (70 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Planting Bulbs
+**🧰 Complete Materials List:**
+- Spring bulbs — daffodils, tulips, crocus, hyacinth
+- One spare bulb, to cut open
+- A sharp knife — **adult only**
+- Pots with drainage holes, one each
+- A bag of compost
+- A trowel and a watering can
+- Plant labels or lolly sticks
+- A magnifying glass
+- The year wheel, on the wall
+
+**📝 Step-by-Step Instructions:**
+1. **Look at a bulb first.** Ask what it is. **Most children guess an onion, which is a good guess.**
+2. **Adult cuts one in half** lengthways. **Inside is a tiny flower, already made, packed in layers.** Look at it with the magnifying glass. **This is the moment of the day** — the flower is already in there, waiting.
+3. **Then the planting.** Compost into the pot, hole made with a fist, **pointy end up**, covered over, firmed down, watered.
+4. **Do several pots.** One for her, one for Kreston, one for someone else as a present.
+5. **Label each one** with what's in it and today's date. She copies the date.
+6. **Then the hard part: nothing will happen for months.** Go to the year wheel and **point at where we are, and then point at where the flowers come.** Count the months round the circle with her.
+7. **Put them somewhere cold and dark** — a shed, a north-facing wall, the back of the garage — and write a check date on the label.
+
+> 💡 **Tip:** Do a few in a clear glass jar with just water and stones as well, on a windowsill. Those root visibly within a fortnight, which gives her something to watch while the real ones do nothing.
+
+### 🌳 Get Outside: The Bulb Bed
+Plant some straight into the ground as well, in a spot she chooses. **Mark it with a stick and a stone** so nobody digs it up and so she can find it in March. **Then look for bulbs already up** — snowdrops and daffodils push their noses through absurdly early, and there may already be signs.
+
+> 👶 **Infant Integration:** Kreston gets a pot, a scoop of compost, and one big daffodil bulb. Patting soil down is a genuinely satisfying job at 18 months. **Bulbs are toxic if eaten** — supervise closely and wash hands after.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Five months is longer than she can picture, and that's exactly why it's worth doing.**
+> A four-year-old's sense of the future runs out somewhere past next week. March is not a real place to her, and planting something that does nothing until then is, on the face of it, a badly designed activity.
+> It works anyway, and it works because of what happens in March rather than what happens today. When a green shoot appears in a pot she filled in November, she gets an experience she cannot get any other way: proof that something she did months ago was still working the whole time, invisibly. That's the beginning of being able to act for a future self — and it needs one concrete instance before it can become a habit of mind.
+
+> 💛 **From Joseph:** She's asked twice a day whether anything's happening. Nothing's happening. Four more months of this.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-326"></a>
+
+## 🌟 Day 326: Where Everyone Went 🌟
+**📅 Monday, November 22, 2027**
+**Theme:** Seasons & Nature Cycles
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Who's Missing? (15 min)
+- **9:15–10:15 AM** — Main Event: The Missing List (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:45 AM** — Get Outside: **Building the Log Pile** (75 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Missing List
+**🧰 Complete Materials List:**
+- The minibeast field guide chart from Day 295
+- Paper and markers
+- Photographs or pictures of summer animals
+- Card, for the sorting headings
+- Glue and scissors
+
+**📝 Step-by-Step Instructions:**
+1. **Start with the October chart.** Read the list of everything found in Week 43. **Which of these would you find today?** Go through it one at a time.
+2. **Then the bigger question:** what was here in the summer that isn't here now? **Butterflies, bees, swifts, wasps, flies, frogs.** Make a list of the missing.
+3. **Three headings on the table:** **GONE AWAY**, **ASLEEP**, and **DIED, BUT LEFT EGGS**.
+4. **Sort the missing into the three**, with you supplying the answers where she doesn't know:
+   - **Gone away** — swallows and swifts flew thousands of miles south.
+   - **Asleep** — hedgehogs, bats, queen bumblebees, ladybirds in a crack in the shed.
+   - **Left eggs** — most butterflies and many insects died, having left the next lot behind.
+5. **Be plain about the third one.** *They died. Their eggs are in the ground and they'll hatch in spring.* **That's not a sad fact to her unless it's delivered as one.**
+6. **Draw the three groups** as a poster and put it up.
+7. **Then the useful bit: what could we do about it?** Which leads outside.
+
+> 💡 **Tip:** Don't soften the died-and-left-eggs group. Children handle it easily, and it's the most interesting of the three — the animal is gone and the line isn't.
+
+### 🌳 Get Outside: Building the Log Pile
+**One log pile, in a shady corner, built to last.** Logs at the bottom, sticks across, dead leaves stuffed in the gaps, and something flat on top. **It's a place for the asleep ones**, and it needs to be somewhere it won't be tidied away. **Mark it and leave it completely alone until spring.**
+
+> 👶 **Infant Integration:** Kreston carries sticks to the pile, one at a time, for as long as anyone will let him. At 18 months, carrying an object to a place and putting it down is a whole and satisfying job.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Absence is harder to notice than presence, and it has to be pointed out.**
+> Children notice what's there. Working out what *isn't* there any more requires holding a memory of the summer against the evidence of today, and comparing the two — which is a genuinely demanding piece of thinking and almost never happens spontaneously.
+> The old list is what makes it possible. With Week 43's chart in front of her, the absence becomes concrete: here are eleven things we found in October, and today we found two. That's the same move as a before-and-after photograph, or a height mark on a wall. Noticing change requires a record, because memory alone won't do it — and once she has a record, she can see something she'd otherwise have walked straight past.
+
+> 💛 **From Joseph:** "Where did the butterflies go?" is a harder question than it sounds and I'm glad we had the chart.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-327"></a>
+
+## 🌟 Day 327: The Rotting Jar 🌟
+**📅 Tuesday, November 23, 2027**
+**Theme:** Seasons & Nature Cycles
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Rotting Jar (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:45 AM** — Get Outside: **The Rot Patrol** (75 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Rotting Jar
+**🧰 Complete Materials List:**
+- A large clear jar with a loose lid, or cling film and a pin
+- Soil, enough to fill it
+- Six things to bury: an apple core, a green leaf, a dead leaf, a scrap of paper, a piece of cotton fabric, **and a bit of plastic**
+- A permanent marker
+- A spray bottle of water
+- Paper, for the prediction chart
+- Rubber gloves
+
+**📝 Step-by-Step Instructions:**
+1. **Lay all six things out and photograph them.** Then draw them on the chart, in a row.
+2. **The prediction, before anything is buried:** for each one, **will it still be here in the spring?** She commits to yes or no for each. **Write her answers down.**
+3. **Layer them into the jar** with soil between, each one pressed against the glass so it can be seen. **Mark the outside of the glass with the marker** next to each item so you know what's where.
+4. **Damp, not wet.** Spray as you go. **Pierce the lid** or use cling film with holes — it needs air.
+5. **Somewhere out of direct sun**, and a check date written on the lid.
+6. **Say plainly what's going to happen:** tiny living things too small to see are going to eat some of these, and turn them back into soil. **Rotting is something happening, not nothing.**
+7. **Check it weekly through the winter** and mark what's changed. **The plastic will be untouched in spring, and that will be the most useful thing in the jar.**
+
+> ⚠️ **Gloves for handling soil**, and hands washed properly afterwards. The jar stays shut and out of Kreston's reach.
+
+> 💡 **Tip:** Keep her prediction chart taped to the jar. Coming back in March to a chart she wrote in November is worth far more than the observation itself.
+
+### 🌳 Get Outside: The Rot Patrol
+Go and find things at every stage: a fresh fallen leaf, a skeletal one with only veins left, a rotten log that crumbles, a soft fallen apple with wasps on it, fungus on a stump. **Line them up on a wall in order of how far gone they are.** That's a sequence, and it's a hard one.
+
+> 👶 **Infant Integration:** Kreston gets a tray of soil and safe things to bury and dig up. **Nothing rotten and nothing small enough to swallow.** He'll want to eat the soil; that's the main hazard here.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Rotting is the part of nature children are usually protected from, and it's the interesting half.**
+> Nature for young children is mostly presented as growth — seeds, shoots, babies, spring. The other half of every cycle gets tidied away, and the result is a child who thinks things simply *stop*, and finds decay disgusting rather than fascinating.
+> Meeting it directly, in a jar, with gloves on, does two things. It completes the loop — the leaf becomes soil, the soil grows the bulb, the bulb becomes the flower — and it defuses the disgust, which is largely learned from adult faces. A child who has watched an apple core become soil on purpose has a much less squeamish and much more accurate picture of how the living world actually works.
+
+> 💛 **From Joseph:** She's predicted the plastic will be fine and everything else will vanish. She's right, and in March she's going to have some questions about that.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-328"></a>
+
+## 🌟 Day 328: The Seed Library 🌟
+**📅 Wednesday, November 24, 2027**
+**Theme:** Seasons & Nature Cycles
+
+> 🦃 **Thanksgiving is tomorrow.** Today is deliberately calm and mostly at the table — the cooking, the shopping and the tidying are already loud enough. **Get her kitchen job agreed today** so tomorrow morning she already knows what's hers.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:30 AM** — Main Event: The Seed Library (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Last Seed Round** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+- **Afternoon** — **Set up the quiet corner for tomorrow**
+
+### 🎨 The Main Event: The Seed Library
+**🧰 Complete Materials List:**
+- Seeds collected across the year — conkers, acorns, sycamore keys, teasel, poppy heads, apple pips, sunflower heads
+- A tray, for drying
+- Small envelopes, or folded paper packets
+- A shoebox, to hold them
+- Markers and a pencil
+- A magnifying glass
+- Card, for the index
+
+**📝 Step-by-Step Instructions:**
+1. **Tip everything out and sort it into kinds.** Same with same, however she wants to define that.
+2. **Then sort a second way: how does it travel?** Three piles — **flies** (sycamore, dandelion), **falls** (acorn, conker), **gets eaten and carried** (berries, apple pips). **Two different sorts of the same objects, like Day 300.**
+3. **Look at the flying ones under the magnifying glass** and drop a sycamore key from a height. **It spins. That's not decoration, it's the mechanism.**
+4. **Then package them.** One kind per envelope, sealed, **labelled with what it is, where it came from, and today's date.** She dictates, you write, she copies the date.
+5. **Make an index card** for the box: a list of what's inside, with a drawing next to each.
+6. **A separate section: SOW IN SPRING.** Only the ones she actually intends to plant. **Choosing which ones is the hard part** — the box can't hold everything.
+7. **Put it with the bulbs**, somewhere cool and dry, with the spring date on the lid.
+
+> 💡 **Tip:** Seeds must be bone dry before they go in envelopes or the whole box goes mouldy by January. Give them a day on a tray on a radiator first.
+
+### 🌳 Get Outside: The Last Seed Round
+Late November is the end of the collecting season. **One last round for anything still hanging on** — teasels, rose hips, ash keys, honesty pennies. **Take one of each and leave the rest**, because the birds are relying on them now.
+
+> 👶 **Infant Integration:** Kreston is 18 months and everything here is a choking hazard. Give him a sealed jar of large conkers to shake and look at, and keep the open trays on the table.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A collection with a purpose behaves differently from a collection.**
+> A jar of interesting seeds is a hoard. The same seeds, dried, sorted, labelled, dated and divided into *keep* and *sow in spring*, is something else — every decision in it points at a future event.
+> That's a step up from the collecting she's been doing all year, and it's why the labelling matters more than the gathering. Writing a date on a packet is a message to a version of herself who doesn't exist yet, and choosing which seeds make the spring section means imagining a March in which somebody has to plant them. Small, concrete, and about as much future-thinking as four years old can manage in one morning.
+
+> 💛 **From Joseph:** The spring envelope has sunflower seeds, an apple pip, and one conker she refuses to be reasoned with about.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-329"></a>
+
+## 🦃 Day 329: Thanksgiving 🦃
+**📅 Thursday, November 25, 2027**
+**Theme:** Holiday Special — Thanksgiving
+
+### ⏰ At-a-Glance Schedule
+- **Early** — Her kitchen job, before anything else starts
+- **Mid-morning** — Main Event: The Thankful Tablecloth (45 min, in bursts)
+- **Late morning** — Get Outside: **The Before-It-All-Starts Walk** (60 min)
+- **Midday** — **Nap or quiet time in her room, non-negotiable**
+- **Afternoon** — Guests, the meal, and the going-round-the-table
+- **Whenever needed** — **The quiet room, open all day**
+
+### 🎨 The Main Event: The Thankful Tablecloth
+**🧰 Complete Materials List:**
+- A plain cloth or paper tablecloth, or lining paper cut to size
+- Fabric pens or thick markers
+- Paint for handprints, and a damp cloth
+- Card and markers for place cards
+- Her kitchen job's ingredients — see step 1
+- A tray, for her own quiet-corner things
+
+**📝 Step-by-Step Instructions:**
+1. **First, her job in the kitchen, done early while the day is still calm.** Give her one real task she owns start to finish: tearing the bread for the stuffing, washing and snapping the beans, stirring the cranberries, mashing. **Not helping with yours — hers**, announced as hers at the table later.
+2. **The tablecloth.** Spread it out on the floor. Everyone who's coming gets a space on it.
+3. **Her handprint in the middle**, dated. Kreston's next to it. Add to the same cloth every year and it becomes the best thing you own.
+4. **Then the thankful part**, and keep it concrete: ask what she liked best, not what she's grateful for. Write her exact answers around the edge in her words. *The big leaf pile. Kreston's laugh. Chips.*
+5. Place cards for every guest, decorated by her, with the first letter of each name copied on.
+6. **Set up the quiet corner before anyone arrives** — her room or a corner with a tray of familiar things, and tell her where it is. *If it gets too loud, this is where you go.*
+7. **At the table, she introduces her dish.** One sentence. That's her moment and it's better than being asked to perform gratitude.
+
+> 💡 **Tip:** Protect the nap or the quiet hour even if it's inconvenient, and especially if guests are already there. Every Thanksgiving meltdown is a child who was awake and social for six hours straight.
+
+### 🌳 Get Outside: The Before-It-All-Starts Walk
+Get out of the house before the cooking peaks and the guests arrive. **Twenty minutes of cold air and running is worth an hour of good behaviour later**, and it gets her out from underfoot at the worst moment. Kick leaves, walk fast, come back hungry.
+
+> 👶 **Infant Integration:** Kreston is around 17–18 months and will be passed between more people than he's used to. **Let him decide** — if he clings, he stays with you, and nobody is owed a cuddle. His nap gets protected the same as hers.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Big gatherings overwhelm her faster than they overwhelm you, and she needs an exit.**
+> A house full of people is a lot of noise, a lot of faces, and a lot of being looked at, with no way to leave and no way to say so. What that produces around now is a child who is either wild or in tears by mid-afternoon — and it usually reads as bad behaviour rather than as what it is, which is overload.
+> Naming an exit in advance changes the day. A room she's allowed to go to, a tray of her own things, and permission to leave the table means the pressure has somewhere to go before it becomes a scene. Children who know they can leave mostly stay longer. It's the same reason the nap is worth defending against every social pressure to skip it.
+
+> 💛 **From Joseph:** Her beans were, by her own account, the best thing on the table. Nobody disagreed out loud.
+
+<div style="page-break-after: always;"></div>

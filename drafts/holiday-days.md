@@ -9,59 +9,6 @@
 
 
 
----
-
-## 🦃 DAY 329 — Thanksgiving
-
-<a id="day-329"></a>
-
-## 🦃 Day 329: Thanksgiving 🦃
-**📅 Thursday, November 25, 2027**
-**Theme:** Holiday Special — Thanksgiving
-
-### ⏰ At-a-Glance Schedule
-- **Early** — Her kitchen job, before anything else starts
-- **Mid-morning** — Main Event: The Thankful Tablecloth (45 min, in bursts)
-- **Late morning** — Get Outside: **The Before-It-All-Starts Walk** (60 min)
-- **Midday** — **Nap or quiet time in her room, non-negotiable**
-- **Afternoon** — Guests, the meal, and the going-round-the-table
-- **Whenever needed** — **The quiet room, open all day**
-
-### 🎨 The Main Event: The Thankful Tablecloth
-**🧰 Complete Materials List:**
-- A plain cloth or paper tablecloth, or lining paper cut to size
-- Fabric pens or thick markers
-- Paint for handprints, and a damp cloth
-- Card and markers for place cards
-- Her kitchen job's ingredients — see step 1
-- A tray, for her own quiet-corner things
-
-**📝 Step-by-Step Instructions:**
-1. **First, her job in the kitchen, done early while the day is still calm.** Give her one real task she owns start to finish: tearing the bread for the stuffing, washing and snapping the beans, stirring the cranberries, mashing. **Not helping with yours — hers**, announced as hers at the table later.
-2. **The tablecloth.** Spread it out on the floor. Everyone who's coming gets a space on it.
-3. **Her handprint in the middle**, dated. Kreston's next to it. Add to the same cloth every year and it becomes the best thing you own.
-4. **Then the thankful part**, and keep it concrete: ask what she liked best, not what she's grateful for. Write her exact answers around the edge in her words. *The big leaf pile. Kreston's laugh. Chips.*
-5. Place cards for every guest, decorated by her, with the first letter of each name copied on.
-6. **Set up the quiet corner before anyone arrives** — her room or a corner with a tray of familiar things, and tell her where it is. *If it gets too loud, this is where you go.*
-7. **At the table, she introduces her dish.** One sentence. That's her moment and it's better than being asked to perform gratitude.
-
-> 💡 **Tip:** Protect the nap or the quiet hour even if it's inconvenient, and especially if guests are already there. Every Thanksgiving meltdown is a child who was awake and social for six hours straight.
-
-### 🌳 Get Outside: The Before-It-All-Starts Walk
-Get out of the house before the cooking peaks and the guests arrive. **Twenty minutes of cold air and running is worth an hour of good behaviour later**, and it gets her out from underfoot at the worst moment. Kick leaves, walk fast, come back hungry.
-
-> 👶 **Infant Integration:** Kreston is around 17–18 months and will be passed between more people than he's used to. **Let him decide** — if he clings, he stays with you, and nobody is owed a cuddle. His nap gets protected the same as hers.
-
----
-
-> 🧠 **A Little Parenting Insight**
-> **Big gatherings overwhelm her faster than they overwhelm you, and she needs an exit.**
-> A house full of people is a lot of noise, a lot of faces, and a lot of being looked at, with no way to leave and no way to say so. What that produces around now is a child who is either wild or in tears by mid-afternoon — and it usually reads as bad behaviour rather than as what it is, which is overload.
-> Naming an exit in advance changes the day. A room she's allowed to go to, a tray of her own things, and permission to leave the table means the pressure has somewhere to go before it becomes a scene. Children who know they can leave mostly stay longer. It's the same reason the nap is worth defending against every social pressure to skip it.
-
-> 💛 **From Joseph:** Her beans were, by her own account, the best thing on the table. Nobody disagreed out loud.
-
-<div style="page-break-after: always;"></div>
 
 ---
 

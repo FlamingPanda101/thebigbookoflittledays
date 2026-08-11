@@ -54,7 +54,7 @@ Every day header carries its real date. Every week header carries its date range
 holidays, written ahead so they don't get rushed:
 
 - **Bonus notes:** none left — Days 284 and 315 are both slotted in
-- **Full days:** 329 Thanksgiving · 354 Azlyn turns 4 · 358 Hanukkah · 359 Christmas · 363 Brooklyn's birthday · 365 Grand Finale
+- **Full days:** 354 Azlyn turns 4 · 358 Hanukkah · 359 Christmas · 363 Brooklyn's birthday · 365 Grand Finale
 
 When writing the week that contains one, **cut the block out of
 `drafts/` and paste it into the week file at the right position**, then
