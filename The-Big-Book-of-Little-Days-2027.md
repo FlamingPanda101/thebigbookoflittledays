@@ -20742,7 +20742,7 @@ Read that as a warning about pace rather than a promise of a big week. Four-year
 - Fire and flame need rules, not avoidance
 - A copy of a thing teaches her what a fossil actually is
 - Sorting the sweets is more interesting to her than eating them
-- A photo on a table gives a dead person a place, and that helps more than an explanation
+- A photo on a table gives a dead person a place, and that helps her more than an explanation
 - Big numbers mean nothing until she's walked them
 - Teeth are evidence, and reading evidence is the whole of palaeontology
 - Extinct is a hard word, and it's easier than she'd find "dead"
