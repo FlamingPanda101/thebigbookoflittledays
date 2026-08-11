@@ -22815,3 +22815,447 @@ Get out of the house before the cooking peaks and the guests arrive. **Twenty mi
 > 💛 **From Joseph:** Her beans were, by her own account, the best thing on the table. Nobody disagreed out loud.
 
 <div style="page-break-after: always;"></div>
+<a id="week-48"></a>
+
+## Week 48: Kitchen Helpers 👩‍🍳
+**📅 November 26 – December 2, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Skills rather than recipes. She's cooked plenty this year — bread, biscuits, butter, flatbread, breakfast — and this week is about the things underneath all of that: how to hold a knife, how to name a taste, how to plan a meal from what's actually in the fridge, and how to wash up afterwards.
+
+It ends on Thursday with her cooking dinner. Not helping — **cooking it**, with an adult as the assistant who only does what she's told.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **The bridge grip and the claw grip**, with a real child's knife.
+- **Five taste words** — sweet, salty, sour, bitter, savoury — and which she likes.
+- **Planning a meal from what's there**, rather than from what she'd like.
+- **Kneading, resting, rolling and cutting** pasta from two ingredients.
+- **Washing up properly**, start to finish, including putting it away.
+
+---
+
+### 👩 What You'll Learn
+
+- A sharp-enough knife is safer than a blunt one, and she can learn a grip
+- She can name what she doesn't like once she has words for the tastes
+- A constraint is what makes her choose instead of asking for everything
+- Doing a job with her feet is not a joke, it's how she gets her whole body into it
+- Washing up is water play with a result, and she'll do it for the water alone
+- Sour is the taste she'll learn to like on purpose, and that's a new experience
+- Directing an adult is the strongest evidence of competence she can get
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] **A child's knife** — a nylon serrated one, or a small round-tipped knife
+- [ ] A small chopping board that doesn't slide, or a damp cloth to put under one
+- [ ] Bananas, courgettes, mushrooms, strawberries, cucumber, a soft loaf
+- [ ] A carrot and an apple, for the harder round
+- [ ] Small tasting bowls or an ice-cube tray
+- [ ] Sugar, salt, lemon, plain cocoa or unsweetened tonic, and soy sauce or marmite
+- [ ] A blindfold, or a tea towel
+- [ ] Paper and markers, for the taste chart
+- [ ] 300g "00" or plain flour, and 3 eggs
+- [ ] A rolling pin, and a clean broom handle if you have one
+- [ ] Plain flour and water, for the udon
+- [ ] A large freezer bag, doubled
+- [ ] Washing-up liquid, a brush, a cloth, and two tea towels
+- [ ] A bowl of pepper and a drop of oil, for the soap trick
+- [ ] Two or three clean jars with lids
+- [ ] White vinegar, sugar, and salt
+- [ ] A cucumber, a red onion, and a carrot
+- [ ] Whatever her Thursday menu turns out to need
+
+---
+
+> 👶 **Kreston is around 18 months this week** — he wants to be at the counter. A learning tower, a chair pushed up, or a spot on the floor with his own bowl. He is not near a knife at any point this week.
+
+---
+
+<a id="day-330"></a>
+
+## 🌟 Day 330: Knife Skills 🌟
+**📅 Friday, November 26, 2027**
+**Theme:** Kitchen Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: The Knife Rules (15 min)
+- **9:15–10:20 AM** — Main Event: Knife Skills (65 min)
+- **10:20–10:35 AM** — Snack: **what she cut** (15 min)
+- **10:35–11:45 AM** — Get Outside: **The Vegetable Shop** (70 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Knife Skills
+**🧰 Complete Materials List:**
+- A child's knife — nylon serrated, or a small round-tipped table knife
+- A chopping board, with a damp cloth underneath so it can't slide
+- Bananas, mushrooms, courgette, strawberries, cucumber
+- A soft loaf
+- An apron
+- A bowl for the pieces
+- A chair at the right height, or a learning tower
+
+**📝 Step-by-Step Instructions:**
+1. **The rules first, all four, said once and demonstrated:**
+   - **The knife stays on the board or in your hand. Never anywhere else.**
+   - **Both hands where I can see them.**
+   - **Walk with it pointing down, or don't walk with it.**
+   - **If you're not cutting, put it down.**
+2. **The bridge grip.** Hold the food like a bridge — fingers one side, thumb the other, arched over — and **the knife goes through the gap underneath.** Halve a banana this way. It's the safest first cut there is.
+3. **Then the claw grip.** Fingertips curled under, knuckles forward, **the flat of the blade resting against the knuckles.** Slice the banana into coins.
+4. **Work up through the softness order:** banana, strawberry, mushroom, courgette, cucumber. **Bread last, because it needs a sawing action.**
+5. **Slow is the whole thing.** Say *slow hands* rather than *be careful*, which means nothing.
+6. **She cuts the snack** and everyone eats what she made.
+7. **Wash and put the knife away together**, in the place it lives, which she should know.
+
+> ⚠️ **Sit beside her, not across the counter, for the whole session** — close enough to put a hand on hers. And a blunt knife is genuinely more dangerous than a sharp-enough one, because it slips. A proper child's knife, not a butter knife.
+
+> 💡 **Tip:** Cut alongside her on your own board rather than watching. She'll copy the grip from seeing it far better than from being corrected.
+
+### 🌳 Get Outside: The Vegetable Shop
+Go and buy tomorrow's tasting things and Sunday's dinner. **She chooses three vegetables she's never eaten**, which is a bigger ask than it sounds and worth making a game of. She carries her own bag.
+
+> 👶 **Infant Integration:** Kreston gets a banana and a lolly stick and can cut that, on the floor, well away from the counter. **No knife of any kind at 18 months**, not even a nylon one.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A sharp-enough knife is safer than a blunt one, and she can learn a grip.**
+> The instinct is to give her something that couldn't possibly cut anything. But a blunt blade needs force, and force is what makes it skid off a courgette and into a hand. The safer setup is a knife that actually bites, used slowly, with a grip that keeps her fingers behind the blade.
+> Four is a completely normal age to start this, with an adult sitting beside her. What she's really learning isn't cutting — it's that dangerous tools have procedures, and that following the procedure is what earns access. That's the same deal she'll be offered with scissors, then a stove, then a road, then a car. Starting it on a banana is a good place.
+
+> 💛 **From Joseph:** Bridge grip, claw grip, and a plate of extremely uneven banana coins that she made everyone eat.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-331"></a>
+
+## 🌟 Day 331: The Taste Test 🌟
+**📅 Saturday, November 27, 2027**
+**Theme:** Kitchen Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Taste Test (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **The Five Tastes Hunt** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Taste Test
+**🧰 Complete Materials List:**
+- Five small bowls, or an ice-cube tray
+- **Sweet** — sugar syrup, or a little honey in water
+- **Salty** — salted water, or a crisp
+- **Sour** — lemon juice
+- **Bitter** — plain cocoa, unsweetened tonic, or a tiny piece of grapefruit pith
+- **Savoury** — soy sauce, marmite in water, or a piece of parmesan
+- Teaspoons, one per bowl
+- Water and plain crackers, to reset between tastes
+- A blindfold or tea towel
+- Paper and markers, for the chart
+
+**📝 Step-by-Step Instructions:**
+1. **Five bowls, five words, written on cards next to them.** Say each word as she tastes it. **Tiny amounts.**
+2. **Go in order: sweet, salty, sour, savoury, bitter.** Bitter last, because it lingers.
+3. **Water and a cracker between each one**, which she'll enjoy administering officially.
+4. **The faces are the activity.** Sour and bitter produce enormous reactions and she should be allowed to be as dramatic as she likes.
+5. **Then the chart:** five columns, and she rates each one — **love it, like it, no thank you.** Her words, written down.
+6. **Then blindfolded.** You give her a spoon and **she names the taste.** Get it wrong on purpose sometimes to keep it honest.
+7. **Then find them in real food.** Which taste is in an apple? A crisp? A lemon? Cheese? **Most foods have two or three**, and noticing that is the sophisticated end of the morning.
+
+> ⚠️ **Tiny amounts of everything, and nothing that isn't food.** Salt and soy in particular — a teaspoon of soy sauce, not a bowl of it.
+
+> 💡 **Tip:** Do the tasting yourself alongside her and rate them honestly, including admitting one you don't like. It gives her permission to have opinions rather than perform enthusiasm.
+
+### 🌳 Get Outside: The Five Tastes Hunt
+Go to a shop with the five words on a card and **find one food for each.** Sour is the fun one — lemons, vinegar, pickles, sour sweets. **Buy the sour thing** and try it at home; it goes with Wednesday.
+
+> 👶 **Infant Integration:** Kreston gets sweet and salty only, in very small amounts, and no sour or bitter. At 18 months he's still working out food and a mouthful of lemon isn't a joke he's in on.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **She can name what she doesn't like once she has words for the tastes.**
+> "I don't like it" is a dead end. It covers texture, temperature, smell, surprise, and one specific taste she's reacting to, and neither of you can do anything with it.
+> Five words change the conversation. *It's too sour* or *it's bitter* is information — it tells you what to adjust, and it tells her that her reaction has a cause rather than being a fact about the food. Children who can name tastes are generally easier to feed, not because they eat more but because refusals become specific and negotiable. And knowing that bitter is a taste, rather than just *bad*, is what makes it possible to grow into liking it.
+
+> 💛 **From Joseph:** She rated lemon "no thank you" and then asked for it again twice. That's how it starts.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-332"></a>
+
+## 🌟 Day 332: The Leftovers Challenge 🌟
+**📅 Sunday, November 28, 2027**
+**Theme:** Kitchen Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Leftovers Challenge (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The One Missing Thing** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — **Lunch, which is what she planned**
+
+### 🎨 The Main Event: The Leftovers Challenge
+**🧰 Complete Materials List:**
+- Whatever is actually in the fridge and the cupboard
+- Paper and markers, for the inventory and the menu
+- A tray, to lay out the options
+- Her knife and board from Friday
+- A pan, and an adult to run the heat
+
+**📝 Step-by-Step Instructions:**
+1. **Open the fridge and take everything usable out onto the counter.** Half a cucumber, the end of the cheese, three eggs, a bit of leftover Thanksgiving, some rice.
+2. **She draws the inventory** — a picture of each item on the list, however rough. **Seeing what's there, all at once, is the first half of the activity.**
+3. **Then the challenge, stated plainly:** *we are making lunch out of this. Nothing else. What are we making?*
+4. **Let her propose something impossible first** and take it seriously enough to work out why it won't do. *We haven't got any — so what else could go in?*
+5. **She picks the plan and writes the menu.** Give her two or three real options if she stalls, and let the final choice be hers.
+6. **Then cook it**, with her doing all the cutting and mixing and an adult on the heat.
+7. **Eat it, and put the menu on the fridge.** Whether it was good is a separate question from whether she planned it, and both get discussed.
+
+> 💡 **Tip:** Don't rescue the meal into something better than her plan. A slightly odd lunch that was entirely her idea does more than a good one you steered her into.
+
+### 🌳 Get Outside: The One Missing Thing
+**She gets to buy one thing** to make her plan work — one item, her choice, her money, her hand over the counter. **A single-item shopping trip is a completely different experience** from a full shop, and she'll take the decision extremely seriously.
+
+> 👶 **Infant Integration:** Kreston helps take things out of the fridge, which is his favourite activity in the house anyway. Give him three unbreakable items and a low shelf.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A constraint is what makes her choose instead of asking for everything.**
+> Asked what she'd like for lunch, a four-year-old produces a wish — something that isn't in the house, or the same thing as yesterday. There's nothing to think about, so no thinking happens.
+> Fourteen ingredients on a counter and a rule that nothing else can be used turns it into a genuine problem. Now she has to look at what exists, hold a goal, and match one to the other — which is planning, and it's much more available to her inside a limit than outside one. It's the same reason a boxed set of six crayons often produces better drawing than a tub of ninety. Fewer options, more decisions.
+
+> 💛 **From Joseph:** Rice, egg, cheese, and half a cucumber on the side. It was fine. She was delighted.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-333"></a>
+
+## 🌟 Day 333: Pasta & Noodles 🌟
+**📅 Monday, November 29, 2027**
+**Theme:** Kitchen Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Pasta from Two Things (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Walk While It Rests** (60 min)
+- **11:30 AM–12:00 PM** — **Rolling and cutting** (30 min)
+- **12:00 PM** — **Lunch: the pasta**
+
+### 🎨 The Main Event: Pasta from Two Things
+**🧰 Complete Materials List:**
+- 300g plain or "00" flour
+- 3 eggs
+- A clean work surface
+- A rolling pin, or a clean broom handle
+- Her knife and board
+- Cling film or a bowl and a cloth
+- A big pan of water, and an adult
+- **For the udon:** 300g plain flour, 150ml salted water, and a doubled freezer bag
+
+**📝 Step-by-Step Instructions:**
+1. **Two ingredients, and say so.** Flour and eggs. That's pasta. **Put the packet of shop pasta on the counter next to them** so the connection is visible.
+2. **Flour in a heap, a well in the middle, eggs cracked in.** She cracks them.
+3. **Mix with fingers from the middle outwards** until it comes together, then knead for five to ten minutes. **Heavy, whole-arm work, and it's the calmest she'll be all day.**
+4. **Wrap it and rest it for half an hour.** Go out.
+5. **Then roll it out thin** — thinner than she thinks, until she can nearly see her hand through it. **This needs your weight as well as hers.**
+6. **Flour it, roll it into a loose log, and she cuts it into strips** with her knife. Shake them out.
+7. **Adult boils them — two to three minutes, that's all.** Butter, salt, and eat.
+
+> ⚠️ **Boiling water is entirely an adult's job**, and she watches from the far side of the counter.
+
+> 💡 **Tip:** Undersized, uneven, thick noodles are correct. Trying for even ones ends in an argument and worse pasta.
+
+### 🌳 Get Outside: The Walk While It Rests
+Half an hour out while the dough rests, and **tell her that's why you're going.** The dough is doing something while she's not there — that's a strange and useful idea, and it makes the walk part of the recipe rather than a gap in it.
+
+> 👶 **Infant Integration:** Kreston gets his own lump of dough and the floor. He'll roll it, squash it, and drop it. Boil his piece with the rest and give it back to him.
+
+> 🌍 **Around the World — Noodles, Everywhere**
+> Flour and water became long thin food nearly everywhere, and every place invented a different way to stretch it. In **China**, *lamian* noodles are pulled by hand — the dough is stretched, folded, stretched, folded, doubling each time until there are hundreds of strands. In **Japan**, **udon dough is traditionally kneaded with the feet**, wrapped in plastic and trodden on, because it needs more force than hands can give. In **Korea**, *kalguksu* means "knife noodles", cut by hand exactly the way you cut yours today.
+> **✨ Try it:** Make udon and **knead it with your feet.** 300g flour, 150ml salted water, brought together into a rough lump, sealed inside a doubled freezer bag, put on a clean floor with a towel over it — **and she stands on it and walks.** Fold it and do it again, three or four times. Rest, roll, cut thick, boil for eight minutes.
+> *Did you know?* A lamian chef can go from one lump of dough to over a thousand strands in about two minutes, entirely by folding.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Doing a job with her feet is not a joke, it's how she gets her whole body into it.**
+> The udon method sounds like a gimmick and isn't. Kneading stiff dough needs more force than a four-year-old's hands can produce, and her legs and body weight can do it easily — so a task that was impossible becomes one she can genuinely complete.
+> That's worth generalising. When something is beyond her hands, there's often a whole-body version that isn't: painting on the floor rather than at a table, writing letters by walking them, mixing by stamping. Children this age are much stronger and more coordinated in their large muscles than their small ones, and matching the task to the body she's actually got is usually the difference between frustration and an hour of enthusiasm.
+
+> 💛 **From Joseph:** She stood on the dough for ten minutes with an expression of enormous responsibility. Best udon we've had.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-334"></a>
+
+## 🌟 Day 334: The Washing Up 🌟
+**📅 Tuesday, November 30, 2027**
+**Theme:** Kitchen Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Washing Up Station (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **Scraps to the Compost** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Washing Up Station
+**🧰 Complete Materials List:**
+- A bowl of warm soapy water, and a second of clean rinsing water
+- A brush, a sponge, and a cloth
+- Two tea towels
+- A step or a learning tower at the sink
+- An apron, and rolled sleeves
+- A shallow dish of water, ground pepper, and a drop of washing-up liquid
+- A greasy plate, deliberately
+- A tray, for the drying
+
+**📝 Step-by-Step Instructions:**
+1. **The soap trick first, because it explains the rest.** Shallow dish of water, **pepper scattered thickly on top.** Touch a finger in — nothing. **Then a finger with a dot of washing-up liquid on it, and the pepper flees to the edges.**
+2. **Say the useful version:** soap doesn't dissolve grease, it grabs it and lets water carry it off. **Then feel a greasy plate before and after.** That's the whole of it.
+3. **Set up two bowls — wash and rinse.** Warm, not hot.
+4. **The order matters and she can learn it:** glasses first, then cutlery, then plates, then the greasy pans last. **Cleanest to dirtiest, or the water's finished by the third item.**
+5. **She washes, you rinse and stack**, then swap.
+6. **Drying is a separate job and she should do all of it.** Then putting away, which is the part everybody skips and is the actual end of the task.
+7. **Wipe the surfaces.** The job isn't finished until the counter's clear, and saying that out loud once is worth doing.
+
+> ⚠️ **Warm water only, nothing sharp in the bowl**, and the knife from Friday gets washed by an adult.
+
+> 💡 **Tip:** Expect the front of her to be soaked and plan for it. Objecting to the water is objecting to the reason she's willing to do it at all.
+
+### 🌳 Get Outside: Scraps to the Compost
+Take the peelings and scraps out to the compost or the food bin. **Look at what's in there from last week** — it's already changing, and it connects straight back to the rotting jar from Day 327. **Add a handful of leaves on top**, which is what it needs.
+
+> 👶 **Infant Integration:** Kreston gets his own low bowl of water on a towel on the floor with two plastic cups. At 18 months this is thirty minutes of contentment and one wet floor.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Washing up is water play with a result, and she'll do it for the water alone.**
+> Warm water, bubbles, and pouring are things she'd choose to do anyway. Attaching a real household job to them costs her nothing and gets you a child who is genuinely, cheerfully useful at the sink — which is not true of most chores at this age.
+> The part worth insisting on is the end: drying, putting away, and wiping the counter. Children who only ever do the enjoyable middle of a task learn that jobs stop when the fun does. Doing the whole arc once a day, at four, while it still feels like play, is how it becomes ordinary later. It won't stay this easy, so it's worth banking now.
+
+> 💛 **From Joseph:** She washed up for forty minutes and then asked if there was anything else dirty. Enjoy this while it lasts.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-335"></a>
+
+## 🌟 Day 335: Pickles 🌟
+**📅 Wednesday, December 1, 2027**
+**Theme:** Kitchen Helpers
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: Quick Pickles (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **The Menu Walk** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Quick Pickles
+**🧰 Complete Materials List:**
+- Two or three clean jars with tight lids
+- A cucumber, a red onion, and a carrot
+- Her knife and board
+- White vinegar, water, sugar, and salt
+- A small pan, and an adult
+- A measuring jug
+- Labels and a marker
+- Optional: peppercorns, dill, mustard seed, a bay leaf
+
+**📝 Step-by-Step Instructions:**
+1. **She slices everything thin** — cucumber into coins, onion into rings, carrot into sticks. **Friday's grips, applied to a real job.**
+2. **Pack the jars tightly.** She pushes it all down. **Different things in different jars** so they can be compared.
+3. **The brine: one part vinegar, one part water, a spoon of sugar, a spoon of salt.** She measures and stirs.
+4. **Adult heats it just to dissolving** and pours it over. **Not boiling, and not by her.**
+5. **Add the extras** — a few peppercorns, a sprig of dill — and she chooses which jar gets what.
+6. **Lids on, labelled with what's in it and today's date**, and into the fridge.
+7. **The red onion is the good one:** it goes bright pink within an hour. **Check it before lunch, after lunch, and before bed.** Taste one at teatime, and again tomorrow, and notice they're different.
+
+> ⚠️ **Hot vinegar smells strong and stings eyes** — open a window, and she stays back while it's poured.
+
+> 💡 **Tip:** Do a jar of something she says she doesn't like. Pickling changes a vegetable enough that a refusal doesn't automatically carry over, and she'll try it because she made it.
+
+### 🌳 Get Outside: The Menu Walk
+**Tomorrow she cooks dinner**, so today's walk is the planning. Go to the shop and **walk the aisles talking about what she could make.** Don't buy yet — tomorrow's shopping is hers. **Today is for looking and deciding.**
+
+> 👶 **Infant Integration:** Kreston gets a jar with a lid, half-filled with water and a few big carrot sticks, taped shut, to shake and look at. **Nothing pickled for him** — too sharp at 18 months.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Sour is the taste she'll learn to like on purpose, and that's a new experience.**
+> Sweet and salty are liked by default. Sour and bitter usually aren't, and adults acquire a taste for them over years of repeated, low-pressure exposure. It's one of the few areas where a preference visibly gets built rather than simply being had.
+> Watching that happen to herself is valuable. She'll pull a face at the pickle on Wednesday and eat three of them on Saturday, and if you point that out — *you didn't like these on Wednesday* — she learns something real: that not liking something now isn't permanent, and that trying it again is how it changes. That's a more useful idea than any single vegetable.
+
+> 💛 **From Joseph:** The pink onion won. She ate them straight out of the jar with her fingers and I said nothing.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-336"></a>
+
+## 🌟 Day 336: She Cooks Dinner 🌟
+**📅 Thursday, December 2, 2027**
+**Theme:** Kitchen Helpers — *Week 48 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:30 AM** — Morning Meeting: **The Menu and the List** (30 min)
+- **9:30–10:45 AM** — Get Outside: **The Shop, Her List** (75 min)
+- **10:45–11:00 AM** — Snack (15 min)
+- **11:00 AM–12:00 PM** — Prep: chopping, laying the table, the menu cards
+- **12:00 PM** — Lunch & Nap
+- **Late afternoon** — **Main Event: She Cooks Dinner**
+
+### 🎨 The Main Event: She Cooks Dinner
+**🧰 Complete Materials List:**
+- Whatever her menu needs
+- Her knife and board
+- An apron, and a step at the counter
+- Card and markers, for menus and place cards
+- The pickles from yesterday, on the table
+- **An adult, acting only as the assistant**
+
+**📝 Step-by-Step Instructions:**
+1. **The deal, said out loud at breakfast and meant:** *you are the chef. I'm the helper. I'll do the hot things and the sharp things, and I'll do them when you tell me.*
+2. **She writes the menu** — three items, drawn. Keep it achievable: pasta from Monday's method, something she can chop, and the pickles.
+3. **The shopping list is hers**, drawn as pictures, and she finds each item and puts it in the trolley.
+4. **Prep in the late morning**, nap as usual, cooking in the late afternoon so it's actually dinner.
+5. **She gives the instructions.** *Now put it in.* *Now stir it.* **Do what she says, including when it's slightly wrong**, and ask her before doing anything she hasn't asked for.
+6. **She lays the table**, writes the place cards, and puts the menu in the middle.
+7. **She serves, sits down last, and asks everyone what they think.** Then everyone washes up, and she runs that too.
+
+> 💡 **Tip:** Say "chef, what next?" every few minutes rather than moving things along. The whole value of the day is in her holding the plan, and every step you take without being asked takes a piece of that off her.
+
+### 🌳 Get Outside: The Shop, Her List
+Her list, her trolley, her decisions about which of the three onions to pick. **Slow, and let it be slow.** Then home the long way carrying at least one bag herself.
+
+> 👶 **Infant Integration:** Kreston is a diner. Place card, plate, and served by his sister. He'll throw some of it on the floor, which is a normal review at 18 months.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Directing an adult is the strongest evidence of competence she can get.**
+> Praise is cheap and she knows it. Being told she's a good helper doesn't tell her much, because helpers do what they're told. Having a grown adult stand at a counter and wait to be instructed tells her something that can't be faked.
+> It requires real restraint to do properly. The pull to speed things up, correct the order, or quietly fix a decision is constant, and every time you give in to it the day gets smaller. Asking *chef, what next?* and then actually doing it is uncomfortable and it's the point. She's spent a year being helped; one evening of being the one in charge lands differently from all of it.
+
+> 💛 **From Joseph:** She told me to stir it and I stirred it. Whole meal was her idea. I've never seen her sit at a table like that.
+
+<div style="page-break-after: always;"></div>
