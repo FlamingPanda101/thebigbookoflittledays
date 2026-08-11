@@ -15811,11 +15811,11 @@ The week ends with her running the whole thing for real guests.
 ### 👩 What You'll Learn
 
 - Aiming improves with quantity, not instruction
-- Making the rules is harder than following them
-- Why prizes work better when everyone gets one
-- Face paint is a whole-body experience, not a decoration
-- The difference between a game and a test
-- Why children want the same game forty times
+- Risk and reward is a genuinely new kind of decision
+- A painted face changes behaviour, not just appearance
+- Building it back up is the part that's doing the work
+- Saving three of something is harder than it sounds
+- Inventing a game is a much bigger deal than playing one
 - Hosting is a social skill, and it's learnable at four
 
 ---
@@ -16219,13 +16219,13 @@ The last week of summer. It ends with a family concert.
 
 ### 👩 What You'll Learn
 
-- Rhythm and reading are more connected than they look
-- Why she'd rather bang a pot than play a real instrument
+- Predicting a sound and then testing it is her first real hypothesis
 - Loud is a developmental need, not a provocation
-- Music is the fastest route to a cooperative child
-- Why moving together makes people like each other
+- High and low is a genuinely confusing pair of words
 - Freezing on cue is genuine impulse control
+- Copying a rhythm is harder than it looks, and it's a working memory task
 - Rehearsal teaches something a spontaneous performance can't
+- Performing for one attentive person is enough
 
 ---
 
@@ -16303,9 +16303,9 @@ Pots, pans, shakers, and wooden spoons. March round the yard or the block. Loud 
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Rhythm and reading are more connected than they look.**
-> Children who can keep a steady beat tend to find early reading easier, and it isn't a coincidence. Both rely on the brain's ability to detect timing and pattern in sound — the same machinery that hears *cat* and *hat* rhyme, or that *butterfly* has three beats.
-> This is why nursery rhymes have survived for centuries. They aren't just charming, they're phonological training. Clapping the syllables in her name does more for reading than a flashcard, and she'll ask to do it again.
+> **Predicting a sound and then testing it is her first real hypothesis.**
+> Lining the shakers up quietest to loudest looks like a sorting game, and underneath it is something more demanding. She can't see loudness. She has to pick up each bottle, shake it, hold the result in mind, compare it against the one before, and then commit to a position in the row.
+> That loop — guess, test, revise — is the whole shape of scientific thinking, and it's available to her here because the feedback is instant and unarguable. Ask her which she thinks will be loudest *before* she shakes it. Being wrong out loud, and then finding out, is worth more than any correct answer she could give you.
 
 > 💛 **From Joseph:** The house has been loud all year and it's one of my favourite things about it.
 
@@ -16638,9 +16638,9 @@ Everything in slow motion — a slow-motion race, slow-motion tag, slow-motion f
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Heat makes children behave badly, and it isn't a discipline problem.**
-> Young children regulate temperature poorly, dehydrate faster than adults, and have almost no ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
-> On a bad afternoon in August, the first move is water, shade, and a cooler room. Not a conversation about behaviour. Solve the physical problem and you can usually skip the second conversation entirely.
+> **Ice is one of the few materials that changes while she's using it.**
+> Most things she plays with hold still. Ice doesn't — it shrinks, drips, cracks, and eventually vanishes entirely, and it does all of that on a timescale short enough for her to watch and long enough for her to act on.
+> That's rare and it's worth the mess. It gives her a material where her own actions and time are both visibly doing something, and where the salt trick produces a change she caused herself. It also means the activity has a natural end that isn't you calling it. When the ice is gone, it's over, and nobody has to negotiate about that.
 
 > 💛 **From Joseph:** You hand them water before you say anything. That order matters more than people realise.
 
@@ -16731,11 +16731,11 @@ Stories in the dark. The same one repeatedly if that's what she asks for — fam
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Fever makes children clingy, and meeting it shortens it.**
-> Illness reliably triggers regression — wanting to be carried, held, babied. This isn't manipulation, and you won't create a habit by indulging it. Under physiological stress a child's attachment system activates, and closeness to a caregiver is genuinely what settles it.
-> Holding her more, not less, is the shorter route back to normal. The independence she loses this week returns within days of feeling well, as long as nobody made a battle of it.
+> **A darkened room helps more than a quiet one.**
+> When a child is feverish, ordinary light, noise and activity all cost her something she hasn't got. Adults tend to reach for quiet first, but for most sick children it's the visual load that's hardest — a bright room with things moving in it is genuinely tiring to be in.
+> Curtains closed, lamps off, and one adult moving slowly does more than silence does. It also makes the small things you offer — a torch, a cold flannel, one story — land properly instead of competing with everything else in the room. Shrinking the input is the treatment you can actually give.
 
-> 💛 **From Joseph:** Hold her as much as she wants. You'll never look back and wish you'd held her less.
+> 💛 **From Joseph:** Curtains shut, one lamp, nothing else going on. She settles about ten minutes after the room does.
 
 <div style="page-break-after: always;"></div>
 
@@ -16777,9 +16777,9 @@ Audio story or quiet music on the blanket. Let her doze out there if she will.
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Boredom on the mend is a good sign, and a useful one.**
-> The shift from *too sick to care* to *bored and irritable* is usually the first reliable signal of recovery. It's also the hardest stretch for you, because she has energy for complaint but not for activity.
-> Worth knowing: boredom isn't a problem to solve immediately. Children left occasionally to be bored show more inventive play afterward. The pause where she has nothing to do is where she starts generating ideas. A slightly under-stimulating recovery morning is closer to right than a packed one.
+> **Close looking is the one thing a tired child can still do.**
+> Recovery days are frustrating because almost everything she enjoys needs energy she hasn't got yet. Looking doesn't. A beetle in a jar, a leaf under a magnifying glass, or a cloud that slowly turns into something else all demand attention and nothing else.
+> That makes fine observation the natural activity for the mend, and it's not a consolation prize — sustained close attention is genuinely valuable and she rarely has the stillness for it when she's well. Bring the garden to the blanket one object at a time. A recovering child lying down looking hard at a woodlouse is having a better morning than she'd have standing up.
 
 > 💛 **From Joseph:** She was bored and grumpy all morning, which means she's getting better. Small mercies.
 
