@@ -18,9 +18,9 @@ A complete day-by-day activity and lesson-plan book, written by Joseph for Brook
 
 ## Current status
 
-**Days 1–245 complete** (January 1 – September 2, 2027).
+**Days 1–273 complete** (January 1 – September 30, 2027).
 
-Remaining: Days 246–365 — September through December.
+Remaining: Days 274–365 — October through December.
 
 | Month | Days | Status |
 |---|---|---|
@@ -32,7 +32,7 @@ Remaining: Days 246–365 — September through December.
 | June | 155–182 | ✅ Complete |
 | July | 183–217 | ✅ Complete |
 | August | 218–245 | ✅ Complete |
-| September | 246–273 | ⬜ Not started |
+| September | 246–273 | ✅ Complete |
 | October | 274–308 | ⬜ Not started |
 | November | 309–336 | ⬜ Not started |
 | December | 337–365 | ⬜ Not started |
@@ -42,7 +42,7 @@ Remaining: Days 246–365 — September through December.
 ## Reassembling the book
 
 ```bash
-cat months/00-front.md months/0[1-9]*.md months/1[0-2]*.md \
+cat months/00-front.md $(ls months/*.md | grep -v 00-front) \
   > The-Big-Book-of-Little-Days-2027.md
 ```
 
