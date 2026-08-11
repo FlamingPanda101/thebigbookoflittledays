@@ -18,9 +18,9 @@ A complete day-by-day activity and lesson-plan book, written by Joseph for Brook
 
 ## Current status
 
-**Days 1–231 complete** (January 1 – August 19, 2027).
+**Days 1–245 complete** (January 1 – September 2, 2027).
 
-Remaining: Days 232–365 — August Weeks 34–35 + backup, then September through December.
+Remaining: Days 246–365 — September through December.
 
 | Month | Days | Status |
 |---|---|---|
@@ -31,7 +31,7 @@ Remaining: Days 232–365 — August Weeks 34–35 + backup, then September thro
 | May | 127–154 | ✅ Complete |
 | June | 155–182 | ✅ Complete |
 | July | 183–217 | ✅ Complete |
-| August | 218–245 | 🟡 Days 218–231 done; 232–245 + backup remaining |
+| August | 218–245 | ✅ Complete |
 | September | 246–273 | ⬜ Not started |
 | October | 274–308 | ⬜ Not started |
 | November | 309–336 | ⬜ Not started |

@@ -14930,6 +14930,271 @@ The full pack-down. Check the grass for anything dropped.
 > 💛 **From Joseph:** Thirty-one weeks. She slept in a tent in her own garden and thought it was the greatest week of her life. It cost us nothing.
 
 <div style="page-break-after: always;"></div>
+<a id="backup-august"></a>
+
+# 🌧️ August Backup Days
+## *For when the plan doesn't survive the morning*
+
+**August's version of a bad day:** the heat has stopped being fun, everyone is tired of summer, and a 15-month-old who walks everywhere has made the whole house harder to manage. Two of these are for weather that won't let you out, and two are for the late-summer bugs that go round just as everyone's worn down.
+
+---
+
+<a id="aug-weather-1"></a>
+
+## 🥵 Bad Weather Day 1: The Long Hot Afternoon
+**Use when:** It's too hot to be outside, and it's the fourth day in a row.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Frozen Treasure Table (60 min)
+- **10:15–10:30 AM** — Snack: Something Frozen (15 min)
+- **10:30–11:15 AM** — Indoor Movement: The Slow-Motion Games (45 min)
+- **11:15 AM–12:00 PM** — Cool Quiet Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Frozen Treasure Table
+**🧰 Complete Materials List:**
+- Ice cubes, plain and coloured
+- A large tray or roasting tin
+- Small toys frozen into a block the night before
+- Warm water in a squeeze bottle
+- Salt in a shaker
+- Spoons, tongs, and droppers
+- Towels
+
+**📝 Step-by-Step Instructions:**
+1. Set the tray on a towel on the kitchen floor. Fill it with ice and the frozen block.
+2. Give her three tools — warm water, salt, and a spoon — and let her work out which is most effective.
+3. **Salt is the surprise.** Sprinkled on, it carves channels through the ice.
+4. Add coloured cubes and watch the colours run as they melt.
+5. She'll stay with this a long time, and it physically cools her down.
+
+> 💡 **Tip:** In real heat this does two jobs — occupies her *and* lowers her body temperature. Better than a screen for both.
+
+### 🏃 Indoor Movement: Slow-Motion Games
+Everything in slow motion — a slow-motion race, slow-motion tag, slow-motion fighting. Genuinely funny, burns energy, generates almost no heat.
+
+> 👶 **Infant Integration:** Kreston overheats faster than she does and won't tell you. Watch for flushed cheeks and unusual crankiness. Give him a frozen flannel to chew — cooling and good for teeth.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Heat makes children behave badly, and it isn't a discipline problem.**
+> Young children regulate temperature poorly, dehydrate faster than adults, and have almost no ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
+> On a bad afternoon in August, the first move is water, shade, and a cooler room. Not a conversation about behaviour. Solve the physical problem and you can usually skip the second conversation entirely.
+
+> 💛 **From Joseph:** You hand them water before you say anything. That order matters more than people realise.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-weather-2"></a>
+
+## ⛈️ Bad Weather Day 2: The End-of-Summer Storm
+**Use when:** A storm has cancelled everything, or it's grey and pouring and nobody can face it.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Indoor Carnival (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Indoor Movement: Corridor Games (45 min)
+- **11:15 AM–12:00 PM** — Fort & Quiet Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Indoor Carnival
+**🧰 Complete Materials List:**
+- Rolled socks
+- A laundry basket, a bucket, and a cardboard box
+- Painter's tape
+- Plastic cups
+- Paper for tickets and signs
+- A soft ball
+
+**📝 Step-by-Step Instructions:**
+1. Tape a throwing line down the corridor. Set the basket, the bucket, and the box at increasing distances.
+2. **Label them 5, 10, and 20.** Small target, big number.
+3. Build a cup tower at the end of the hall for the strongman game.
+4. Make tickets. Five throws per ticket.
+5. **She runs the stalls**, you play them. Swap halfway.
+
+> 💡 **Tip:** A corridor is the best indoor sports hall you have — long, narrow, and nothing breakable on either side. Clear it and use the whole thing.
+
+### 🏃 Indoor Movement: Corridor Games
+Crab walk to the end and back. Bear crawl. Hop on one foot. Race the length in slow motion, then fast.
+
+> 👶 **Infant Integration:** Kreston gets his own basket and a sock ball. At 15 months, dropping something into a container and fishing it back out is a full activity.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Cabin fever is physiological, not attitudinal.**
+> Young children need roughly three hours of movement a day, a good portion of it vigorous. When weather removes that, the energy doesn't evaporate — it emerges as whining, clinginess, and conflict by mid-morning.
+> Which means the fastest fix on a housebound day usually isn't a calmer activity. It's a *harder* one. Ten minutes of crab-walking a corridor will buy more peace than an hour of gentle redirection.
+
+> 💛 **From Joseph:** The corridor has been a bowling alley, a racetrack, and a river this year. Best room in the house.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-sick-1"></a>
+
+## 🤒 Sick Day 1: The Dark Cool Room
+**Use when:** She's genuinely unwell in the heat — feverish, flat, miserable.
+
+### ⏰ At-a-Glance Schedule
+- **Whenever she wakes** — Build the nest (20 min)
+- **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
+- **Snack** — Cold and wet
+- **Late morning** — Stories in the dark
+- **Nap early.** Don't fight it.
+
+### 🎨 The Main Event: The Ice Bowl
+**🧰 Complete Materials List:**
+- A shallow bowl of ice cubes
+- A flannel
+- A cookie sheet as a lap tray
+- A spoon and a small cup of warm water
+- Paper and crayons
+- A torch
+
+**📝 Step-by-Step Instructions:**
+1. Build a dark, cool nest — curtains drawn, fan on, blanket over the couch. Dark and cool is the whole prescription.
+2. Give her the bowl of ice on the cookie sheet, plus a spoon and a little warm water.
+3. She melts, moves, and stacks the ice. Low effort, physically cooling, absorbing.
+4. **Wrap one cube in a flannel** for her to hold against her neck or forehead.
+5. Read in the nest by torchlight when she's done.
+
+> 💡 **Tip:** Keep two flannels in the fridge on a fever day. A cool cloth on the back of the neck helps a hot, miserable child more than almost anything else you can do.
+
+### 🧸 Rest & Wind-Down
+Stories in the dark. The same one repeatedly if that's what she asks for — familiarity is what a tired brain wants.
+
+> 👶 **Infant Integration:** A sick 4-year-old and a walking 15-month-old is the hardest combination in this book. Contain him safely in the same room, rotate three new-to-him objects through, and lower every other standard for the day.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Fever makes children clingy, and meeting it shortens it.**
+> Illness reliably triggers regression — wanting to be carried, held, babied. This isn't manipulation, and you won't create a habit by indulging it. Under physiological stress a child's attachment system activates, and closeness to a caregiver is genuinely what settles it.
+> Holding her more, not less, is the shorter route back to normal. The independence she loses this week returns within days of feeling well, as long as nobody made a battle of it.
+
+> 💛 **From Joseph:** Hold her as much as she wants. You'll never look back and wish you'd held her less.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-sick-2"></a>
+
+## 🤧 Sick Day 2: The Shade Nest
+**Use when:** She's on the mend — bored, cranky, wants out but hasn't the energy for it.
+
+### ⏰ At-a-Glance Schedule
+- **Slow start** — Her pace entirely
+- **Mid-morning** — Main Event: Outside, Lying Down (30–40 min)
+- **Snack** — Cold and easy
+- **Midday** — Lunch on the blanket
+- **Rest** — Audio story in the shade
+
+### 🎨 The Main Event: Outside, Lying Down
+**🧰 Complete Materials List:**
+- A blanket in deep shade
+- Pillows
+- A cup with a lid
+- A magnifying glass
+- Paper and crayons on a tray
+- A jar for anything she finds within reach
+
+**📝 Step-by-Step Instructions:**
+1. Set up a proper nest in full shade. She lies down; the garden comes to her.
+2. **Bring things to her** — a leaf, a flower, a stone, a beetle in a jar.
+3. Magnifying glass and lying down are entirely compatible. Close looking needs no energy.
+4. Cloud watching. Name the shapes.
+5. Lunch on the blanket. Nobody has to sit up.
+
+> 💡 **Tip:** Don't wait for her to be well enough to *do* something outside. Fresh air and shade help a recovering child, and none of it requires her to be upright.
+
+### 🧸 Rest & Wind-Down
+Audio story or quiet music on the blanket. Let her doze out there if she will.
+
+> 👶 **Infant Integration:** Kreston can toddle round the blanket while she rests on it. She gets company without demand; he gets to move. Watch the sun — the shade shifts.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Boredom on the mend is a good sign, and a useful one.**
+> The shift from *too sick to care* to *bored and irritable* is usually the first reliable signal of recovery. It's also the hardest stretch for you, because she has energy for complaint but not for activity.
+> Worth knowing: boredom isn't a problem to solve immediately. Children left occasionally to be bored show more inventive play afterward. The pause where she has nothing to do is where she starts generating ideas. A slightly under-stimulating recovery morning is closer to right than a packed one.
+
+> 💛 **From Joseph:** She was bored and grumpy all morning, which means she's getting better. Small mercies.
+
+<div style="page-break-after: always;"></div>
+
+<a id="aug-extras"></a>
+
+## ✨ August — Extra Ideas
+### *When you just need one more thing*
+
+---
+
+### 🎲 Alternative Activities
+
+**Sprinkler, No Plan** — Turn it on and sit down. Still the highest value-per-effort activity of the summer.
+
+**Ice Excavation** — Small toys frozen in a bucket overnight. Salt, warm water, a spoon.
+
+**Sock Basketball** — Rolled socks, a laundry basket, and a taped line. The reliable indoor energy burner.
+
+**Frozen Sponge Toss** — Wet sponges frozen overnight. Cold, soft, and much safer than water balloons.
+
+**The Car Wash** — Bucket, sponges, hose, every wheeled thing you own. Ninety minutes, dependably.
+
+**Ring Toss** — This week's bottles and paper-plate rings. Move the line back as she improves.
+
+**Corridor Bowling** — Plastic bottles at one end, a soft ball, and the whole hallway.
+
+**Shadow Chasing** — Try to step on each other's shadows. Best early or late when they're long.
+
+**Evening Walk** — It's still light after dinner. A late walk feels like getting away with something.
+
+**Barefoot Texture Walk** — Grass, pavement, dirt, a wet towel. Rank them worst to best.
+
+**Big Sister School** — Azlyn teaches Kreston one thing: clapping, waving, stacking two blocks. Being the expert is very good for her.
+
+**Kreston's Turn** — He's 15 months. A push toy, a laundry basket to shove across the floor, a low step to climb, a basket to fill and empty. Twenty solid minutes.
+
+---
+
+### 🎨 Alternative Arts & Crafts
+
+**Ice Cube Painting** — Coloured water frozen with craft-stick handles. Melts as it paints.
+
+**Sun Prints** — Dark paper, flat objects, two hours of August sun. Strongest of the year.
+
+**Splatter Painting** — Black paper, an old toothbrush, thinned paint. Flick with a thumb.
+
+**Blow Painting** — A blob of thin paint and a straw. Makes starbursts and tires her out.
+
+**Bubble Wrap Printing** — Roll paint on, press paper down, peel back.
+
+**Nature Paintbrushes** — Grass, leaves, and pine needles rubber-banded to sticks.
+
+**Rock Painting** — Ladybirds, patterns, kindness rocks. Seal with clear nail polish and hide them.
+
+**Chalk Murals** — The whole driveway. Add water for a paint effect.
+
+**Salt Painting** — Glue lines, salt poured over, wet paint touched on to run along them.
+
+**Paper Plate Weaving** — Slits round the rim, ribbon woven over-under.
+
+**Handprint Anything** — Date every single one. You'll want them.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Late summer is a genuinely low-energy stretch, and lowering the bar is the right response.**
+> By the end of August, novelty is exhausted, heat has been relentless, and everyone including you is worn down. If the plans have stopped landing, that's a pattern rather than a personal failure.
+> The thing that helps most is dropping the standard *deliberately* rather than by accident. Fewer plans, more repeats of things that already work, and an explicit decision that this month gets an easier bar. September brings cooler weather and a fresh set of themes, and it genuinely does get easier.
+
+> 💛 **From Joseph:** End of summer is always the hardest bit. You've done eight months. Coast a little — you've earned it.
+
+<div style="page-break-after: always;"></div>
 <a id="booklet-august"></a>
 
 # 📘 August
@@ -15781,5 +16046,811 @@ Play a song from each country and dance to all of them outside.
 > The mechanism isn't a lecture about tolerance. It's the ordinary experience of trying chopsticks, saying *jambo*, and eating with her hands, all treated as completely normal. Do the things, treat them as unremarkable, and the conclusion assembles itself.
 
 > 💛 **From Joseph:** Thirty-three weeks. She's been to five countries in a week and remembered every meal.
+
+<div style="page-break-after: always;"></div>
+<a id="week-34"></a>
+
+## Week 34: Backyard Carnival 🎡
+**📅 August 20 – August 26, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+A carnival built entirely from things you already own — ring toss, bean bags, a strongman game, face paint, tickets, and prizes. Every game is a target with a rule, which means every game is quietly practising aim, counting, and turn-taking.
+
+The week ends with her running the whole thing for real guests.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Aiming and adjusting** — throwing short, correcting, throwing again.
+- **Scoring and totalling**, with numbers small enough to be real.
+- **Running a stall** — greeting, explaining rules, taking tickets.
+- **That she can build the entertainment**, not just attend it.
+- **Handling losing a game** in a setting where the stakes are tiny.
+
+---
+
+### 👩 What You'll Learn
+
+- Aiming improves with quantity, not instruction
+- Making the rules is harder than following them
+- Why prizes work better when everyone gets one
+- Face paint is a whole-body experience, not a decoration
+- The difference between a game and a test
+- Why children want the same game forty times
+- Hosting is a social skill, and it's learnable at four
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] 6 plastic bottles or cardboard tubes
+- [ ] Paper plates
+- [ ] Embroidery hoops, or paper plates with the centres cut out
+- [ ] Old socks
+- [ ] Dried beans or rice
+- [ ] Fabric scraps
+- [ ] Cardstock in several colours
+- [ ] Markers, crayons, paint
+- [ ] Child-safe face paint
+- [ ] A hand mirror
+- [ ] Cotton balls or pink tissue paper
+- [ ] Paper cones, or cardstock to roll
+- [ ] A soft ball
+- [ ] Plastic cups
+- [ ] String and tape
+- [ ] Sidewalk chalk
+- [ ] Small prizes — stickers, a sweet, a homemade token
+- [ ] Snacks for the finale
+
+---
+
+> 👶 **Kreston is around 15 months this week** — walking fast, climbing, and determined to join every game his sister plays.
+
+---
+
+<a id="day-232"></a>
+
+## 🌟 Day 232: Ring Toss 🌟
+**📅 Friday, August 20, 2027**
+**Theme:** Backyard Carnival
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: We're Building a Carnival (15 min)
+- **9:15–10:15 AM** — Main Event: Make the Ring Toss (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **Ring Toss Tournament** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Make the Ring Toss
+**🧰 Complete Materials List:**
+- 6 plastic bottles
+- Paint or paper to decorate
+- A little water or sand in each, for stability
+- Paper plates with the centres cut out (the rings), or embroidery hoops
+- Sidewalk chalk
+- Paper for a scoreboard
+
+**📝 Step-by-Step Instructions:**
+1. She decorates the bottles. **Number them 1 to 6** — those are the point values.
+2. Add an inch of water to each so a near miss doesn't knock them flat.
+3. Cut the centres from paper plates to make four or five rings. Let her decorate those too.
+4. Set the bottles in a cluster, chalk a throwing line, and start close.
+5. **Total the points** after each round of five throws.
+
+> 💡 **Tip:** Start the line much closer than feels right. She should land one in the first three throws, or she'll walk away.
+
+### 🌳 Get Outside: Ring Toss Tournament
+Move the line back a step each time she scores. Everyone plays, including adults, from their own line.
+
+> 👶 **Infant Integration:** Kreston will pick the rings up and carry them off. Give him two of his own and a single bottle at his own station — dropping a ring over a bottle is genuinely satisfying at 15 months.
+
+> 🌍 **Around the World — Festivals & Fairs Everywhere**
+> Spain has **La Tomatina**, a giant tomato fight. Thailand's **Songkran** is a nationwide water fight for the new year. India's **Pushkar** fair races camels.
+> **✨ Try it:** Have a small sanctioned water fight in the yard and call it Songkran. Being *allowed* to is the entire thrill.
+> *Did you know?* Songkran's water-throwing began as gently pouring water over elders' hands for a blessing.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Aiming improves with quantity, not instruction.**
+> The temptation with a child who keeps missing is to correct her technique — hold it like this, stand like that. It rarely helps, because throwing accuracy is built by the motor system running thousands of attempts and self-correcting, not by following verbal instructions.
+> What genuinely helps is *making success possible*. Move the target closer until she hits it, then move it back gradually. A child who lands one in three throws will take a hundred throws; a child who lands one in twenty will take five and leave. Set the difficulty so she stays.
+
+> 💛 **From Joseph:** You always move the line closer without making a thing of it. She never notices and she never gives up.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-233"></a>
+
+## 🌟 Day 233: Bean Bag Toss 🌟
+**📅 Saturday, August 21, 2027**
+**Theme:** Backyard Carnival
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Make Bean Bags & Targets (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Toss Game** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Make Bean Bags & Targets
+**🧰 Complete Materials List:**
+- Old socks, or fabric squares
+- Dried beans or rice
+- Rubber bands, or needle and thread (adult)
+- A large cardboard box
+- Scissors (adult) and markers
+- Sidewalk chalk
+
+**📝 Step-by-Step Instructions:**
+1. **Bean bags:** fill a sock with a scoop of beans, knot it or band it tightly. Make four or five.
+2. **Target board:** cut three holes of different sizes in a cardboard box. Label them 5, 10, and 20 — biggest hole worth least.
+3. Prop the box against a chair.
+4. She throws from a chalk line. **Add the score aloud** after each throw.
+5. Try underhand and overhand — which is more accurate?
+
+> ⚠️ **Check the bean bags are properly sealed.** A burst bag scatters dried beans, which are a serious choking hazard for a 15-month-old.
+
+> 💡 **Tip:** Making the smallest hole worth the most is what turns throwing into deciding. She has to weigh a likely 5 against a risky 20.
+
+### 🌳 Get Outside: The Toss Game
+Run it as a proper stall. Five throws per go, total the score, beat the previous round.
+
+> 👶 **Infant Integration:** Kreston gets a laundry basket and one bean bag — no aiming required. Dropping something into a container is exactly his level and he'll do it repeatedly.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Risk and reward is a genuinely new kind of decision.**
+> Most choices a 4-year-old makes are about preference — which cup, which shirt. Choosing between a likely small score and an unlikely large one is different: it requires weighing probability against value.
+> She will almost always go for the big number, which is exactly right for her age — young children heavily overweight the size of a reward and underweight how likely it is. Don't correct it. Just narrate what happened: *"You went for the 20 and missed. Want to try the 5 this time?"* The reasoning develops from noticing the outcomes.
+
+> 💛 **From Joseph:** She goes for the twenty every single time and I love her for it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-234"></a>
+
+## 🌟 Day 234: Face Painting 🌟
+**📅 Sunday, August 22, 2027**
+**Theme:** Backyard Carnival
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Face Painting Stall (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Get Outside: Show Off & Photos (45 min)
+- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Face Painting Stall
+**🧰 Complete Materials List:**
+- Child-safe face paint
+- A hand mirror
+- Small sponges and thin brushes
+- A bowl of water and a cloth
+- Paper, to design first
+- Baby wipes for removal
+
+**📝 Step-by-Step Instructions:**
+1. **Design on paper first.** She draws what she wants on her face — a butterfly, a cat, stars, a rainbow.
+2. Do a small patch test on her arm and wait a few minutes, especially if she has sensitive skin.
+3. Paint her face. **Hand her the mirror as you go**, not just at the end.
+4. **Then let her paint yours.** This is the important half.
+5. Photograph both.
+
+> ⚠️ **Use paint labelled cosmetic-grade and skin-safe.** Never craft paint on skin. Patch test first, avoid the eye area, and remove it before sleep.
+
+> 💡 **Tip:** If she's ever been wary of painted faces, do a hand or arm instead. Some children find a transformed adult face genuinely unsettling and that's worth respecting.
+
+### 🌳 Get Outside: Show Off & Photos
+Go outside in the paint. Walk to a neighbour. Being seen is the point.
+
+> 👶 **Infant Integration:** **Skip face paint for Kreston** — 15-month-old skin is sensitive and he'll rub it into his eyes. A single dot on the back of his hand is plenty if he wants in.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A painted face changes behaviour, not just appearance.**
+> Children frequently act differently once they're visibly transformed — bolder as a tiger, gentler as a butterfly. Researchers have found children persist longer and self-regulate better when playing a character rather than being themselves.
+> It's worth knowing as a tool. A child struggling with something hard will often manage it in costume when she can't manage it as herself. "How would a brave lion do it?" is a genuinely effective question, and face paint is the fastest route to that state.
+
+> 💛 **From Joseph:** She let you paint her face and then immediately painted yours badly. You sat perfectly still for it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-235"></a>
+
+## 🌟 Day 235: The Strongman Game 🌟
+**📅 Monday, August 23, 2027**
+**Theme:** Backyard Carnival
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:00 AM** — Main Event: Build the Tower (45 min)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:15 AM** — Get Outside: **Strongman Tournament** (60 min)
+- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Build the Tower
+**🧰 Complete Materials List:**
+- Plastic cups, or lightweight blocks
+- A soft ball
+- Cardstock and markers for a "strength meter"
+- Sidewalk chalk
+- Paper for scoring
+
+**📝 Step-by-Step Instructions:**
+1. Build a tall tower of stacked plastic cups. She does the stacking.
+2. **Make a strength meter** — a long strip of card marked from "wobbly" at the bottom to "MIGHTY" at the top.
+3. She rolls or throws the ball at the tower from a chalk line.
+4. **Count how many cups fell.** Mark that level on the meter.
+5. Rebuild and go again. Try to beat it.
+
+> 💡 **Tip:** Rebuilding is half the activity and she'll want to do it herself. Let the rebuilding take as long as it takes.
+
+### 🌳 Get Outside: Strongman Tournament
+Everyone throws. Chalk each person's best score on the driveway beside the meter.
+
+> 👶 **Infant Integration:** Kreston's event is knocking a three-cup tower over by hand. He will win every round and be extremely pleased about it.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Building it back up is the part that's doing the work.**
+> The throw is two seconds. The rebuild is five minutes of stacking, balancing, and adjusting — which is where the fine motor control, the spatial reasoning, and the patience actually live.
+> This flips how the activity looks. It's easy to see the destruction as the fun bit and the rebuild as the chore, and to speed the rebuild up to get back to the fun. Resist that. The knocking down is the *reward* for the rebuilding, and the rebuilding is the lesson.
+
+> 💛 **From Joseph:** She stacks them one at a time, very slowly, and then destroys it in a second. Best ratio in the world.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-236"></a>
+
+## 🌟 Day 236: Tickets, Prizes & Cotton Candy 🌟
+**📅 Tuesday, August 24, 2027**
+**Theme:** Backyard Carnival
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:30 AM** — Main Event: Make Tickets & Prizes (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:30 AM** — Get Outside: Test the Ticket System (45 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Make Tickets & Prizes
+**🧰 Complete Materials List:**
+- Cardstock strips for tickets
+- Markers and stickers
+- A hole punch
+- Small prizes — stickers, a sweet, a homemade paper medal
+- A shoebox as the prize booth
+- Pink cotton balls or tissue paper, and paper cones
+
+**📝 Step-by-Step Instructions:**
+1. **Make twenty tickets.** She numbers them. That's twenty repetitions of numeral writing, disguised.
+2. Decide the prices: one ticket per game, three tickets for a prize.
+3. Set up the prize booth in a shoebox, prizes visible.
+4. **Punch a ticket** each time it's used. The punch is enormously satisfying.
+5. **Pretend cotton candy:** stuff pink cotton balls or tissue into a paper cone. Sold at the stall, not eaten.
+
+> 💡 **Tip:** Three tickets for a prize means she has to save rather than spend immediately. That's the first version of delayed gratification with a visible counter.
+
+### 🌳 Get Outside: Test the Ticket System
+Play the games from earlier in the week using tickets properly. Earn, save, redeem.
+
+> 👶 **Infant Integration:** Kreston gets a ticket to hold and will eat the corner. Give him one you don't need and let him carry it around like everyone else.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Saving three of something is harder than it sounds.**
+> Spending a ticket the moment she gets it is the default. Holding two while waiting for a third requires resisting an available reward for a better one later — the core of delayed gratification.
+> What makes it achievable at four is *visibility*. She can see the tickets in her hand and count how many more she needs. Abstract waiting is nearly impossible; countable waiting is manageable. Keep the target at three, not ten, and let her succeed.
+
+> 💛 **From Joseph:** She saved three tickets. It took real effort and you could see it on her face.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-237"></a>
+
+## 🌟 Day 237: The Carousel & Silly Games 🌟
+**📅 Wednesday, August 25, 2027**
+**Theme:** Backyard Carnival
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Paper Carousel & Game Signs (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **Silly Games** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Paper Carousel & Game Signs
+**🧰 Complete Materials List:**
+- A paper cup or plate
+- Paper animal cutouts and craft sticks
+- Tape
+- Cardstock and markers for signs
+- A spoon and a small ball
+- A blindfold scarf (optional)
+
+**📝 Step-by-Step Instructions:**
+1. **Carousel:** tape paper animals around the rim of an upside-down cup. Spin it gently.
+2. **Make signs for every game** — she draws, you write the name and price. Ring Toss · 1 ticket.
+3. Set the signs out at each station.
+4. **Invent one new silly game together.** Whatever she suggests, build it.
+5. Test everything before tomorrow's guests.
+
+> 💡 **Tip:** The game she invents will be nonsensical and probably unwinnable. Build it exactly as specified and play it seriously.
+
+### 🌳 Get Outside: Silly Games
+Egg-and-spoon with a ball. Backwards walking race. Balance a beanbag on your head. Blindfolded "guess what I'm holding."
+
+> 👶 **Infant Integration:** Kreston can spin the carousel — a hand-over-hand turning motion is a newish skill at 15 months and he'll be fascinated.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Inventing a game is a much bigger deal than playing one.**
+> To make up a game she has to imagine a goal, invent rules that produce it, and predict whether it'll work — all before anyone plays. That's design, and it's considerably harder than following instructions.
+> Build whatever she invents, exactly as described, and play it with a straight face. Two things happen: she discovers rules can be *made*, not just obeyed, and she gets immediate feedback on whether her design works. If it doesn't, ask what she'd change. That's iteration.
+
+> 💛 **From Joseph:** Her game had no way to win and nine rules. We played it four times.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-238"></a>
+
+## 🌟 Day 238: The Grand Carnival 🌟
+**📅 Thursday, August 26, 2027**
+**Theme:** Backyard Carnival — *Week 34 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Set Up the Whole Carnival (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:45 AM** — Get Outside: **THE CARNIVAL** (75 min)
+- **11:45 AM–12:00 PM** — Pack Down Together (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Grand Carnival
+**🧰 Complete Materials List:**
+- Every game from this week: ring toss, bean bag board, strongman tower, carousel
+- Tickets, prize booth, and signs
+- Face paint
+- Streamers and chalk for decorating
+- Snacks
+- Music
+
+**📝 Step-by-Step Instructions:**
+1. Set every station out in the yard with its sign. She decides the layout.
+2. Decorate with streamers and chalk. Music on.
+3. **Invite someone** — a neighbour, a cousin, a friend. Even one real guest transforms it.
+4. **She runs it.** Hands out tickets, explains the rules at each stall, punches tickets, awards prizes.
+5. Pack down together at the end.
+
+> 💡 **Tip:** Your job today is to be a customer, not a manager. Step back further than feels comfortable and let the stalls be run badly.
+
+### 🌳 Get Outside: The Carnival
+The full morning outside. Shade, water, sunscreen. Let it run as long as it's working.
+
+> 👶 **Infant Integration:** Kreston is a paying customer with his own tickets. Azlyn will guide him round every stall and do the games for him, which is genuinely lovely to watch.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Hosting is a social skill, and it's learnable at four.**
+> Running a stall requires greeting someone, explaining a rule clearly enough for them to follow, managing a turn, and handling the outcome. That's a demanding social sequence, and children get very few chances to practise it — usually they're the guest.
+> Being the host reverses the usual power arrangement: she knows the rules and the adult doesn't. Ask her genuine questions about how her game works and follow her answers exactly. The competence she feels is real, because in that moment she genuinely is the expert.
+
+> 💛 **From Joseph:** Thirty-four weeks. She ran a whole carnival and told me the rules three times because I kept getting them wrong on purpose.
+
+<div style="page-break-after: always;"></div>
+<a id="week-35"></a>
+
+## Week 35: Music & Movement 🎵
+**📅 August 27 – September 2, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Instruments made from the recycling bin, dancing outside, and a lot of noise. Every activity attaches a movement to a sound — because keeping a beat turns out to be closely linked to hearing the sounds inside words, which is the foundation of reading.
+
+The last week of summer. It ends with a family concert.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Keeping a steady beat**, which predicts later reading ability.
+- **Loud and quiet, fast and slow** — controlling volume and tempo on purpose.
+- **That different materials make different sounds**, tested rather than told.
+- **Call and response** — listening, then answering.
+- **Performing something she rehearsed**, start to finish.
+
+---
+
+### 👩 What You'll Learn
+
+- Rhythm and reading are more connected than they look
+- Why she'd rather bang a pot than play a real instrument
+- Loud is a developmental need, not a provocation
+- Music is the fastest route to a cooperative child
+- Why moving together makes people like each other
+- Freezing on cue is genuine impulse control
+- Rehearsal teaches something a spontaneous performance can't
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] Empty plastic bottles and spice jars with lids
+- [ ] Dry rice, dried beans, and pasta
+- [ ] Strong tape
+- [ ] Empty tins, oatmeal canisters, and plastic tubs
+- [ ] Wooden spoons
+- [ ] Cardboard tubes
+- [ ] Rubber bands of several thicknesses
+- [ ] A shoebox or tissue box
+- [ ] Paper plates
+- [ ] Ribbon or crepe streamers
+- [ ] Wooden dowels or unsharpened pencils
+- [ ] Paint, markers, stickers
+- [ ] Glasses or jars that can hold water
+- [ ] A metal spoon
+- [ ] Food colouring
+- [ ] A speaker or phone for music
+- [ ] Paper and cardstock for programmes and tickets
+
+---
+
+> 👶 **Kreston is around 15–16 months this week** — dancing, banging, imitating sounds, and joining in without being invited.
+
+---
+
+<a id="day-239"></a>
+
+## 🌟 Day 239: The Shaker Orchestra 🌟
+**📅 Friday, August 27, 2027**
+**Theme:** Music & Movement
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Sound Hunt (15 min)
+- **9:15–10:15 AM** — Main Event: Make Shakers (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **Marching Band** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Make Shakers
+**🧰 Complete Materials List:**
+- 4 small plastic bottles or spice jars with lids
+- Dry rice, dried beans, pasta, and a few coins
+- Strong tape
+- Paint, stickers, or paper to decorate
+- A funnel, or a rolled paper cone
+
+**📝 Step-by-Step Instructions:**
+1. She pours a different filler into each bottle — rice, beans, pasta, coins. Use the funnel.
+2. **Adult seals every lid** and tapes it thoroughly. Shake each one hard yourself before handing it over.
+3. Decorate the outsides.
+4. **Line them up quietest to loudest.** Rice is soft, coins are sharp. That ordering is the actual lesson.
+5. Play a song and shake along on the beat.
+
+> ⚠️ **Tape every lid more than you think necessary.** A burst shaker puts rice and coins on the floor with a 15-month-old in the room.
+
+> 💡 **Tip:** Sorting them by loudness requires acting on each object and remembering the result — a harder sort than anything visual.
+
+### 🌳 Get Outside: Marching Band
+Pots, pans, shakers, and wooden spoons. March round the yard or the block. Loud is the point.
+
+> 👶 **Infant Integration:** Make Kreston his own rice shaker — the quietest filler — and check the seal twice. Shaking on a beat is beyond him, but shaking constantly is not.
+
+> 🌍 **Around the World — Rhythms of the World**
+> West African **djembe** drumming is a conversation — the lead drummer asks, the others answer. Brazilian **samba** blocks move through the streets. Japanese **taiko** drummers use their whole bodies.
+> **✨ Try it:** Play call-and-response. You drum a pattern, she drums it back, then she leads and you copy.
+> *Did you know?* In several West African languages, drums can imitate speech closely enough to send messages.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Rhythm and reading are more connected than they look.**
+> Children who can keep a steady beat tend to find early reading easier, and it isn't a coincidence. Both rely on the brain's ability to detect timing and pattern in sound — the same machinery that hears *cat* and *hat* rhyme, or that *butterfly* has three beats.
+> This is why nursery rhymes have survived for centuries. They aren't just charming, they're phonological training. Clapping the syllables in her name does more for reading than a flashcard, and she'll ask to do it again.
+
+> 💛 **From Joseph:** The house has been loud all year and it's one of my favourite things about it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-240"></a>
+
+## 🌟 Day 240: The Drum Kit 🌟
+**📅 Saturday, August 28, 2027**
+**Theme:** Music & Movement
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Build a Drum Kit (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **Loud & Quiet Games** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Build a Drum Kit
+**🧰 Complete Materials List:**
+- An oatmeal canister, a metal tin, a plastic tub, an upturned bucket
+- Wooden spoons and a pencil with an eraser
+- Paint or paper to decorate
+- Tape
+
+**📝 Step-by-Step Instructions:**
+1. Gather four containers of different materials and sizes.
+2. Decorate them and arrange them as a kit within reach of a seated child.
+3. **Test every drum with every beater.** A wooden spoon on a tin sounds nothing like a pencil on a tub.
+4. Ask which is highest, which is lowest, which rings longest.
+5. **Play loud, then quiet, then loud again** on command.
+
+> 💡 **Tip:** Deliberately practising *quiet* is the useful half. A child who can only play loud has no control; a child who can choose has a skill.
+
+### 🌳 Get Outside: Loud & Quiet Games
+Drum outside. Play "follow the volume" — she copies loud, soft, fast, slow as you call them.
+
+> 👶 **Infant Integration:** Kreston already bangs everything. Give him his own tub and spoon so he's part of the kit rather than raiding hers.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Loud is a developmental need, not a provocation.**
+> Young children make noise partly to discover what they can produce — testing the range of their own volume, and its effect on a room. Being told to be quiet constantly doesn't teach control, it just suppresses experimenting.
+> What builds control is practising both ends deliberately. Games where loud and quiet are both instructions — and both fun — give her the dial rather than just the off switch. She'll be far more able to be quiet when asked if quiet has been a game rather than only a correction.
+
+> 💛 **From Joseph:** You let them be loud outside so they can be quiet inside. That trade has kept us all sane.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-241"></a>
+
+## 🌟 Day 241: Strings & Rubber Bands 🌟
+**📅 Sunday, August 29, 2027**
+**Theme:** Music & Movement
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Box Guitar (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — Get Outside: Water Glass Music (45 min)
+- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Box Guitar
+**🧰 Complete Materials List:**
+- A shoebox or tissue box
+- 4–5 rubber bands of different thicknesses
+- A cardboard tube (the neck)
+- Tape
+- Paint or paper to decorate
+- 4 glasses and water, for the second half
+
+**📝 Step-by-Step Instructions:**
+1. Cut a hole in the box lid, or use a tissue box's existing opening.
+2. Stretch rubber bands of **different thicknesses** across the hole.
+3. Tape the tube on as a neck. Decorate.
+4. **Pluck each band.** Thick bands sound low, thin bands sound high. Let her find that herself.
+5. **Water glasses:** fill four glasses to different levels. Tap with a spoon. More water, lower note.
+
+> 💡 **Tip:** Add food colouring to the water glasses so the levels are obvious. She can then order them by pitch *and* by colour depth at once.
+
+### 🌳 Get Outside: Water Glass Music
+Take the glasses outside on a tray. Let her arrange them low to high and play a tune.
+
+> 👶 **Infant Integration:** Glass and a 15-month-old don't mix. Use plastic cups for his, and let him tap them with a wooden spoon under supervision.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **High and low is a genuinely confusing pair of words.**
+> "High" and "low" describe pitch, position in space, volume in some contexts, and quantity in others. A young child hearing that a thin rubber band is "high" has to work out which meaning is in play, since it isn't physically higher up.
+> Don't over-explain. Just use the words consistently while she hears the difference, and add a gesture — hand up for high notes, down for low. Pairing the word with a movement gives her a second channel to attach it to, and it's how most children sort this out.
+
+> 💛 **From Joseph:** She's decided the fat rubber band is the "grumpy one." Honestly, better than "low."
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-242"></a>
+
+## 🌟 Day 242: Freeze Dance 🌟
+**📅 Monday, August 30, 2027**
+**Theme:** Music & Movement
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:00 AM** — Main Event: Make Ribbon Wands (45 min)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:30 AM** — Get Outside: **Freeze Dance & Movement Games** (75 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Ribbon Wands & Freeze Dance
+**🧰 Complete Materials List:**
+- Wooden dowels or unsharpened pencils
+- Ribbon or crepe streamers, about 18 inches
+- Strong tape
+- A speaker or phone
+
+**📝 Step-by-Step Instructions:**
+1. Tape five ribbons firmly to one end of each dowel. Wrap the tape several times.
+2. Make one each, including a short one for Kreston.
+3. **Freeze dance:** music on, dance with the wands. Music stops, freeze completely.
+4. Add variations — freeze low, freeze on one foot, freeze like a statue.
+5. **Let her control the music.** Being the one who stops it is the best job.
+
+> 💡 **Tip:** Handing her the pause button flips the game. She has to watch everyone else and choose the moment, which is harder than freezing.
+
+### 🌳 Get Outside: Freeze Dance & Movement Games
+Outside, loud, with room to run. Add "musical statues" and "walk like…" between rounds.
+
+> 👶 **Infant Integration:** Kreston cannot freeze and won't try. Give him a short soft wand and let him wander through the game — which makes it harder for Azlyn to hold still, and that's useful practice.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Freezing on cue is genuine impulse control.**
+> Stopping a fun action instantly, on an external signal, uses exactly the machinery that self-regulation depends on: inhibiting a strong impulse mid-enjoyment. It's one of the few cases where the fun activity and the developmental exercise are literally the same thing.
+> Children who regularly play games like this — freeze dance, red light green light, Simon Says — perform measurably better on tasks requiring inhibition. Keep it in rotation all year, not just this week.
+
+> 💛 **From Joseph:** She stopped the music and caught you mid-air. She'll be talking about that for a month.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-243"></a>
+
+## 🌟 Day 243: Call and Response 🌟
+**📅 Tuesday, August 31, 2027**
+**Theme:** Music & Movement
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:00 AM** — Main Event: Copy the Pattern (45 min)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:15 AM** — Get Outside: Echo Games (60 min)
+- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Copy the Pattern
+**🧰 Complete Materials List:**
+- This week's drums and shakers
+- Hands, for clapping
+- No other materials needed
+
+**📝 Step-by-Step Instructions:**
+1. **Clap a short pattern.** Two claps. She copies. Three claps. She copies.
+2. Build up: clap-clap-pause-clap. Keep it short — three or four beats is the limit at four.
+3. Move to drums. Same game, different instrument.
+4. **Swap.** She leads, you copy. She'll immediately make it impossible.
+5. Try it with body sounds: stamp, knee-pat, click, clap.
+
+> 💡 **Tip:** When she leads, copy her *exactly* — including the mistakes and the impossibly long ones. Failing to reproduce her pattern is the funniest thing that will happen all day.
+
+### 🌳 Get Outside: Echo Games
+Echo shouting — she calls, you call back. Try it somewhere with a real echo if you have one nearby.
+
+> 👶 **Infant Integration:** Clap twice and wait. At 15–16 months Kreston will often clap back. That's call-and-response, and it's a real milestone.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Copying a rhythm is harder than it looks, and it's a working memory task.**
+> To repeat a clapped pattern she has to hold a sequence in mind while it's no longer happening, then reproduce it in order. Three or four beats is genuinely at the limit of a 4-year-old's capacity.
+> If she's failing, shorten it rather than repeating it louder. And notice the ceiling: it's the same ceiling that makes a three-step instruction impossible at breakfast. Watching her manage four beats tells you something useful about what she can hold generally.
+
+> 💛 **From Joseph:** She clapped a pattern of about forty beats and then demanded I do it. I have never been so publicly defeated.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-244"></a>
+
+## 🌟 Day 244: Rehearsal Day 🌟
+**📅 Wednesday, September 1, 2027**
+**Theme:** Music & Movement
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:30 AM** — Main Event: Plan & Rehearse the Concert (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:30 AM** — Get Outside: Make the Stage (45 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Plan & Rehearse the Concert
+**🧰 Complete Materials List:**
+- All of this week's instruments
+- Cardstock for programmes and tickets
+- Markers
+- Chalk, to mark the stage
+- Streamers to decorate
+
+**📝 Step-by-Step Instructions:**
+1. **She chooses three pieces.** A shaker song, a drum piece, a ribbon dance — whatever she picks.
+2. Decide the order and write a programme. She dictates the titles; you write them.
+3. Make tickets for the audience.
+4. **Rehearse once, properly, start to finish.** Then stop. Over-rehearsing kills it.
+5. Chalk a stage outline outside and decorate it.
+
+> 💡 **Tip:** One full run-through is the right amount. A second is usually worse than the first, and a third guarantees she won't want to perform tomorrow.
+
+### 🌳 Get Outside: Make the Stage
+Chalk the stage, hang streamers, set out seats. Setting up is part of the event.
+
+> 👶 **Infant Integration:** Kreston is in the show. Give him a specific moment — a shake at the end of a song — and cue him. He won't do it, and that will be the highlight.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Rehearsal teaches something a spontaneous performance can't.**
+> Deciding on an order in advance, and then executing that order later, requires holding a plan across time and comparing what's happening against what was intended. That's a genuinely demanding sequence for a preschooler.
+> It also introduces the idea that things can be *prepared* — that the good version comes after a practice one. Most of a 4-year-old's life is improvised. Occasionally doing something twice, on purpose, to make it better, is a useful new experience.
+
+> 💛 **From Joseph:** She made a programme with three items and one of them is just called "Kreston."
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-245"></a>
+
+## 🌟 Day 245: The Family Concert 🌟
+**📅 Thursday, September 2, 2027**
+**Theme:** Music & Movement — *Week 35 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Final Set-Up & Costumes (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **THE CONCERT** (60 min)
+- **11:30 AM–12:00 PM** — Pack Down Together (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Family Concert
+**🧰 Complete Materials List:**
+- Every instrument made this week
+- Yesterday's programme and tickets
+- The chalk stage and streamers
+- A phone or camera
+- Snacks for the audience
+
+**📝 Step-by-Step Instructions:**
+1. Hand out tickets. Seat the audience — family, neighbours, stuffed animals.
+2. **Introduce her properly, by full name**, with applause.
+3. She performs the three pieces in her programme order.
+4. **Film one piece only.** Not the whole concert — one. You'll watch it in ten years.
+5. Applaud enormously. Demand an encore. Pack down together.
+
+> 💡 **Tip:** Filming everything means watching it through a screen instead of watching her. Pick one and put the phone away for the rest.
+
+### 🌳 Get Outside: The Concert
+Outside, on the chalk stage. Last day of summer — make it a proper send-off.
+
+> 👶 **Infant Integration:** Kreston performs his one item and gets his own round of applause. He's been the audience for eight months of these; today he's on the programme.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Performing for one attentive person is enough.**
+> There's a pull to think a performance needs a real audience to count. It doesn't. What a child gets from performing is the experience of being *deliberately attended to* — someone stopped what they were doing, sat down, and watched her on purpose.
+> Undivided attention is rarer than we assume. Most parent-child time is parallel: together, but also cooking, tidying, holding a phone. Fifteen minutes of genuinely watching, with nothing else happening, is a different substance. It's why she asks you to watch the same trick eleven times. She isn't checking the trick.
+
+> 💛 **From Joseph:** Thirty-five weeks. Summer's over and she can keep a beat, run a carnival, and put on a show. That's a good few months' work.
 
 <div style="page-break-after: always;"></div>
