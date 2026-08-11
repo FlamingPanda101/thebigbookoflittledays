@@ -8,16 +8,6 @@
 
 ---
 
-## 📌 BONUS NOTE — Day 284, Monday, October 11 (Week 41, Things That Go)
-
-> Not a full holiday day. Paste this box directly under the `**Theme:**` line of whatever Day 284 turns out to be, and leave the rest of the day alone.
-
-```markdown
-> 🪶 **Columbus Day / Indigenous Peoples' Day.** Two names for the same Monday, and the disagreement is the interesting part. The short version for her: a long time ago some people sailed here from far away, and there were already people living here — people whose families are still here now. Some places spend today thinking about the ships, and some places spend it thinking about the people who were already home. **If you do one thing with it, find out whose land you're standing on** — most areas have a local tribe or nation with a name she can learn — and say it out loud today.
-```
-
----
-
 ## 🪔 DAY 302 — Diwali
 
 <a id="day-302"></a>

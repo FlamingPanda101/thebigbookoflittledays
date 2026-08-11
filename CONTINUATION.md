@@ -53,7 +53,7 @@ Every day header carries its real date. Every week header carries its date range
 `drafts/holiday-days.md` already contains finished blocks for the dated
 holidays, written ahead so they don't get rushed:
 
-- **Bonus notes:** Day 284 (Columbus / Indigenous Peoples' Day), Day 315 (Veterans Day)
+- **Bonus notes:** Day 315 (Veterans Day) — Day 284 is done, slotted into Week 41
 - **Full days:** 302 Diwali · 304 Halloween · 305 Día de los Muertos · 329 Thanksgiving · 354 Azlyn turns 4 · 358 Hanukkah · 359 Christmas · 363 Brooklyn's birthday · 365 Grand Finale
 
 When writing the week that contains one, **cut the block out of

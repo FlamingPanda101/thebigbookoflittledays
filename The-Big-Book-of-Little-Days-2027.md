@@ -18933,3 +18933,903 @@ A washing-up bowl of warm water on a towel on the table, a few cups and spoons, 
 > 💛 **From Joseph:** She's been asking for you more this month than she has all year. That's not a step backwards, and you're not doing anything wrong.
 
 <div style="page-break-after: always;"></div>
+<a id="booklet-october"></a>
+
+# 📘 October
+## 🍂 *The Big Book of Little Days* 🍂
+### Booklet 10 of 12 · Days 274–308
+**October 1 – November 4, 2027**
+
+*For Azlyn & Kreston · Made by Joseph for Brooklyn*
+
+---
+
+## This Month
+
+- [**Week 40** · Numbers & Counting](#week-40) — *Days 274–280*
+- [**Week 41** · Things That Go](#week-41) — *Days 281–287*
+- [**Week 42** · Space Explorers](#week-42) — *Days 288–294*
+- [**Week 43** · Insects & Minibeasts](#week-43) — *Days 295–301*
+- [**Week 44** · Dinosaur Discovery](#week-44) — *Days 302–308*
+- [🌧️ **Backup Days & Extra Ideas**](#backup-october)
+
+> 🎉 **Big days this month:** [Columbus / Indigenous Peoples' Day](#day-284) (Day 284) · [🪔 Diwali](#day-302) (Day 302) · [🎃 Halloween](#day-304) (Day 304) · [💀 Día de los Muertos](#day-305) (Day 305)
+
+> 👶 **Kreston this month:** around 16–17 months — running rather than walking, climbing onto everything, and adding words most weeks. He can post, stack, pour, and carry. He can also open doors now, which changes the ground rules everywhere.
+
+---
+
+## ⚠️ Quick Safety Reminders
+
+- **The clocks change and the dark arrives fast.** Reflective strips on coats, and torches by the door from mid-month.
+- **Halloween week is three big days in five.** Protect naps ruthlessly — everything that goes wrong that week goes wrong at four in the afternoon.
+- **Real flame twice this month** — diyas on Day 302, candles on Day 305. Hers are battery, yours are out of reach, and the rules get said out loud each time.
+- **Conkers, acorns, and small counting objects everywhere.** Kreston will eat all of it. Count in, count out, and keep the counting jars up high.
+- **Wet leaves are genuinely slippery** on steps, decking, and pavements.
+- **Bikes and scooters on Day 286** — helmet on before the bike comes out of the shed, every time.
+
+<div style="page-break-after: always;"></div>
+
+<a id="week-40"></a>
+
+## Week 40: Numbers & Counting 🔢
+**📅 October 1 – October 7, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Numbers she can stand on, jump along, carry, pour, and eat. Almost nothing this week happens on paper — a taped number line down the hall, a jar to estimate and empty, an egg box with one thing in each hole, dice, and a set of scales.
+
+The aim isn't counting higher. She can probably recite to twenty already, and reciting is a song rather than a skill. The aim is the thing underneath it: that a number is a quantity, that counting means touching each thing exactly once, and that five is five whether it's five acorns or five jumps or five candles.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Touching as she counts** — one object, one number, no doubling back.
+- **Estimating**, then finding out how far off she was.
+- **Recognising small amounts instantly**, without counting them.
+- **What a unit is** — that a hand or a foot only works as a measure if it stays the same size.
+- **Counting backwards**, which is much harder than it looks.
+
+---
+
+### 👩 What You'll Learn
+
+- A number line she walks on is a different thing from a number line she looks at
+- Estimating first is what makes the counting mean something
+- Touching each thing as she counts is what stops her double-counting
+- Recognising three without counting has a name, and it arrives before counting does
+- A unit only works if it stays the same size, and that's the hard part
+- Counting down is much harder than counting up
+- Giving a number a personality is what makes it stick
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] A roll of masking tape
+- [ ] Thick markers and a pencil
+- [ ] Card and plain paper
+- [ ] A large clear jar with a lid
+- [ ] Things to fill it — dry pasta, buttons, conkers, pompoms
+- [ ] An egg box, or a muffin tin
+- [ ] Small counters — acorns, beans, coins, beads
+- [ ] Two or three large dice, or a wooden one you make
+- [ ] Toy cars or counters, for the racing track
+- [ ] A tape measure and a ball of string
+- [ ] Kitchen scales, or a coat hanger and two cups for a balance
+- [ ] A kitchen timer, ideally one with a dial she can watch
+- [ ] Flour, butter, sugar, and an egg — for the counting biscuits
+- [ ] A baking tray and a rolling pin
+- [ ] Five candles
+- [ ] Pavement chalk
+- [ ] A clipboard, or a book to lean on
+
+---
+
+> 👶 **Kreston is around 16 months this week** — he can carry one thing at a time from A to B with great seriousness. That's his version of every activity below.
+
+---
+
+<a id="day-274"></a>
+
+## 🌟 Day 274: The Number Line 🌟
+**📅 Friday, October 1, 2027**
+**Theme:** Numbers & Counting
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: How High Can You Count? (15 min)
+- **9:15–10:15 AM** — Main Event: The Number Line (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The House Number Walk** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Number Line
+**🧰 Complete Materials List:**
+- Masking tape
+- Card, cut into ten squares
+- A thick marker
+- A dice
+- A toy or a beanbag, to mark her place
+- Scissors
+
+**📝 Step-by-Step Instructions:**
+1. **Tape a long line down the hall or the longest room**, with ten cross-marks on it, a big stride apart. Number cards go on the marks, 1 to 10.
+2. **You write the numerals, she decorates them.** One dot on the 1, two on the 2, and so on — **the dots matter more than the numeral does**, because they're the part that means something to her.
+3. **Walk it first, saying each number as her foot lands.** Then jump it. Then hop it. Then run it and see if she can still say them in time.
+4. **Then the games.** Stand on 4 — jump forward two, where are you? Stand on 7 — jump back three. **She works it out by moving, not by thinking**, and that's correct at four.
+5. Roll the dice and move that many. First to 10 wins, then play it backwards from 10 to 1.
+6. **Hide a number card while she isn't looking** and see if she can work out which is missing. This is much harder than it sounds and she'll need to walk the line to do it.
+7. Leave it taped down all week. It gets used every day.
+
+> 💡 **Tip:** Ten is plenty. The pull to extend it to twenty is strong and it makes the whole thing worse — a line she can see the end of is a line she'll use.
+
+### 🌳 Get Outside: The House Number Walk
+Walk the street and find the numbers on the doors. **Look for 1 to 10 in order** — they're rarely where you expect, and the odds and evens on opposite sides is a genuinely interesting discovery. Point at each one and say it.
+
+> 👶 **Infant Integration:** Kreston walks the line too, one square at a time, while you count each step out loud. Hearing numbers attached to his own footsteps at 16 months is exactly the right version for him.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A number line she walks on is a different thing from a number line she looks at.**
+> On paper, the space between 3 and 4 is a gap she has no relationship with. On the floor, it's a stride — she has *been* at 3, she has moved, and now she is at 4. Number becomes something with distance and direction in it, rather than a row of symbols.
+> That's not a gimmick to make it fun. Research on early number sense keeps finding that children build the concept spatially first, and that the mental number line most adults carry around started as something physical. Jumping two forward from four is the same operation she'll write as 4 + 2 in two years, and doing it with her feet first is what gives that sum something to refer to.
+
+> 💛 **From Joseph:** The tape has been down for six hours and she's walked it about four hundred times. Leave it down.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-275"></a>
+
+## 🌟 Day 275: The Counting Jar 🌟
+**📅 Saturday, October 2, 2027**
+**Theme:** Numbers & Counting
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Counting Jar (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Hundred Steps** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Counting Jar
+**🧰 Complete Materials List:**
+- A large clear jar with a lid
+- Something to fill it — dry pasta, buttons, conkers, pompoms
+- An empty egg box or a muffin tin, for grouping
+- Paper and a marker, for the guess chart
+- A tray, to count on
+- A second, much smaller jar
+
+**📝 Step-by-Step Instructions:**
+1. **Fill the jar in front of her and put the lid on.** Not too many — thirty to fifty is right. More than that and the counting collapses before the end.
+2. **Everybody guesses first, and the guesses go on the chart.** Yours, hers, Dad's. **Write hers down exactly**, even if it's "a hundred and twelve" or "six".
+3. Tip it onto the tray. **Then group before counting** — ten into each hole of the egg box, or piles of five.
+4. **Count the groups, not the objects.** Ten, twenty, thirty, and then the leftovers. This is the whole point of the day and it's how counting stops being a recitation.
+5. Write the real number on the chart next to the guesses. **Who was closest?** Not who was right — closest.
+6. **Then refill it with something different** — pasta instead of conkers — and guess again. She'll guess much better the second time, and noticing that out loud is worth doing.
+7. Small jar, same game, and let her fill it herself for you to guess.
+
+> ⚠️ **Dry pasta, buttons and beads are exactly the size Kreston chokes on.** This is a table activity while he's asleep or contained, and everything goes back in the jar and up on a shelf at the end.
+
+> 💡 **Tip:** Never let a guess be wrong. "Closest" is the only scoring system here — a child who gets corrected on an estimate stops estimating and starts trying to count through the glass.
+
+### 🌳 Get Outside: The Hundred Steps
+**Guess where a hundred steps will get you.** Point at a lamp post, a tree, the corner. Then walk it, counting out loud together, and see where you actually stop. Mark it with a chalk cross and try again with giant steps.
+
+> 👶 **Infant Integration:** Kreston gets a jar of his own — a screw-top bottle with three large pompoms in it, taped shut. Shaking it and looking through the side is his whole version, and it's plenty.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Estimating first is what makes the counting mean something.**
+> Counting a jar without guessing first is a chore. Counting it after committing to a number turns the whole thing into a question she wants answered — and the answer arrives at the last object, which is why she'll stay to the end.
+> There's a real skill in it too. Estimating requires her to hold a rough sense of quantity that isn't tied to counting at all, and that sense is what stops arithmetic later on from being a set of procedures with no sanity check. Adults who can tell instantly that an answer is wildly wrong are using it. Guessing badly, out loud, repeatedly, with nobody correcting her, is how it gets built.
+
+> 💛 **From Joseph:** Her guess was six. There were forty-one. Her second guess, an hour later, was thirty. That's the whole lesson in one morning.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-276"></a>
+
+## 🌟 Day 276: Ten Little Boxes 🌟
+**📅 Sunday, October 3, 2027**
+**Theme:** Numbers & Counting
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: Ten Little Boxes (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Ten Things Collection** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Ten Little Boxes
+**🧰 Complete Materials List:**
+- An egg box, or a muffin tin
+- Sticky labels and a marker
+- A bowl of counters — acorns, beans, beads, pompoms
+- Tweezers or kitchen tongs
+- A small jug, for pouring
+- The number cards from Day 274
+
+**📝 Step-by-Step Instructions:**
+1. **Label the holes 1 to 6, or 1 to 10** if you're using a muffin tin. Numeral on the label, plus that many dots underneath.
+2. **The task: put exactly that many things in each hole.** One in the first, two in the second, and so on.
+3. **Watch how she counts, and don't fix it yet.** Most children this age count faster than they move, or move faster than they count, and end up with the wrong number without noticing.
+4. **Then show her the fix, once:** touch each thing as you say its number, and move it into the hole on the word. *One.* *Two.* One object, one word, one movement.
+5. Swap to tweezers or tongs for the small counters. **Slower is better here** — it forces the one-at-a-time rhythm, and it's excellent finger work.
+6. **Then reverse it.** You fill the holes with the wrong amounts and she checks them and fixes them. Being the checker is much more interesting than being the filler.
+7. Line the number cards up along the box and match them to the holes.
+
+> 💡 **Tip:** If she gets 6 into a hole labelled 5, don't say "no". Say "let's check" and count it together, touching each one. The correction should come from the counting, not from you.
+
+### 🌳 Get Outside: The Ten Things Collection
+Egg box in hand. **Find one thing for the first hole, two for the second, three for the third**, and so on, from whatever's on the ground — leaves, conkers, stones, sticks. By hole six she'll be working hard for it, which is the point of stopping at six.
+
+> 👶 **Infant Integration:** Kreston gets his own egg box and a bowl of large pompoms, and does the only thing worth doing at 16 months: putting one in each hole, taking them all out, and starting again.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Touching each thing as she counts is what stops her double-counting.**
+> Reciting numbers and counting objects are two different abilities, and the join between them is physical. A child who can say "one two three four five" perfectly will still count four buttons as six, because the words and the fingers aren't yet running at the same speed.
+> The fix isn't more counting practice — it's *slower* counting with contact. One touch, one word, one object moved. Moving each thing into a container as she names it makes double-counting nearly impossible, because the counted ones are physically somewhere else. That single habit does more than any amount of number recitation, and it fades away on its own once the two systems have locked together.
+
+> 💛 **From Joseph:** She counted the same conker three times and then argued with me about it. The tongs fixed it in about four minutes.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-277"></a>
+
+## 🌟 Day 277: Dice & the Racing Track 🌟
+**📅 Monday, October 4, 2027**
+**Theme:** Numbers & Counting
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: Dice & the Racing Track (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **Chalk Hopscotch** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Dice & the Racing Track
+**🧰 Complete Materials List:**
+- A long strip of paper or card, or the back of some wrapping paper
+- Markers
+- One large dice, and a second one for later
+- Toy cars, or a counter each
+- Stickers, to decorate the track
+
+**📝 Step-by-Step Instructions:**
+1. **Draw the track together** — a winding road down the paper with about twenty squares on it, START at one end and FINISH at the other. She decorates it and adds hazards.
+2. **Before you play, look at the dice properly.** Cover it with your hand, lift it, and ask her how many — **no counting allowed.** She'll get 1, 2 and 3 instantly. Four and five she'll have to count. **That's the boundary you're looking for and it's exactly where she should be.**
+3. Play the game. Roll, say the number *without counting the dots if you can*, move that many squares, touching each one.
+4. **Two dice later on, if it's going well.** Roll both, and instead of adding, count on: *four… five, six, seven.* Counting on from a number is a big step and today is a good place to try it.
+5. **Let her win about half the time and lose the other half.** Losing a dice game is the easiest kind of losing there is, because nobody's fault is involved.
+6. Play once with her rules, whatever they turn out to be.
+
+> 💡 **Tip:** A dice pattern is worth more than a numeral at this age. The dots for five are always in the same arrangement, and recognising that shape as "five" is a genuinely useful shortcut she'll use for years.
+
+### 🌳 Get Outside: Chalk Hopscotch
+Chalk a hopscotch grid, 1 to 10. Traditional rules are too hard — **just hop the numbers and say them.** Then throw a stone and hop to it. Then hop it backwards, which is the real challenge.
+
+> 👶 **Infant Integration:** Kreston gets a big soft dice to throw and chase. If you have one with dots, name the number each time it lands — he's not counting, he's hearing.
+
+> 🌍 **Around the World — Counting on Your Hands, Everywhere**
+> Not everybody counts on their fingers the way you do. In **China**, one hand counts all the way to ten, using a different finger position for each number. In **Japan**, you fold fingers *in* from an open palm rather than lifting them from a fist. And across **India, Pakistan and parts of Southeast Asia**, people count the **joints** of their fingers with their thumb — three joints on each of four fingers, which gets you to twelve on one hand.
+> **✨ Try it:** Count to twelve on the joints of one hand, thumb walking up each finger. Then buy a **dozen eggs** and count them into the box the same way — twelve, not ten, and now you know why.
+> *Did you know?* Dozens, and a dozen dozens, come from exactly this. Twelve is a much older counting group than ten in a lot of the world, and it's still hiding in eggs, buns, hours, and months.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Recognising three without counting has a name, and it arrives before counting does.**
+> It's called subitising — seeing a small quantity instantly, as a shape, with no counting involved. Babies do it before they have any number words at all, and by four most children can subitise up to three or four reliably and no further.
+> That boundary is worth knowing about, because it explains a lot. Dice patterns, dominoes, fingers, and the dots you drew on the number cards all work because they turn a quantity into a recognisable arrangement. Building the habit of *seeing* five rather than counting to five is what eventually lets her hold numbers in her head instead of on her fingers — and it's built by looking, quickly, at small groups, over and over.
+
+> 💛 **From Joseph:** She spotted a five on the dice from across the room and I don't think she knows she did anything clever.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-278"></a>
+
+## 🌟 Day 278: The Measuring Morning 🌟
+**📅 Tuesday, October 5, 2027**
+**Theme:** Numbers & Counting
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Measuring Morning (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **How Many Steps to the Postbox** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Measuring Morning
+**🧰 Complete Materials List:**
+- A ball of string and scissors
+- A tape measure
+- A pile of identical things to measure with — lego bricks, pasta shapes, blocks, spoons
+- A pile of *non*-identical things, deliberately: a big spoon and a teaspoon, a long block and a short one
+- Kitchen scales, or a coat hanger with two cups tied on as a balance
+- Paper and a marker for the chart
+
+**📝 Step-by-Step Instructions:**
+1. **Start with her.** Cut a piece of string exactly her height and lay it on the floor. **Then find things longer and shorter than the string.** Longer than Azlyn, shorter than Azlyn — two piles.
+2. **Then measure the table in hands.** Yours, then hers. **The numbers will be different and she will find this genuinely annoying**, which is the whole lesson. Let her discover it rather than explaining it.
+3. **Now measure it in blocks** — identical ones, laid end to end, counted as you go. Same answer every time, whoever does it.
+4. **Then hand her the mixed pile** — big spoon, teaspoon, long block, short block — and ask her to measure the table with those. Let it go wrong. Ask why it went wrong.
+5. **The balance.** Coat hanger, two cups, a hook. Which is heavier, the conker or the pompom? Ten pompoms or one conker? **Guess first, every time.**
+6. Chart it: three columns, longer / shorter / same. She fills it in with drawings.
+7. **End with the tape measure and let her measure whatever she likes.** She won't read the numbers. Pulling it out and letting it snap back is enough.
+
+> 💡 **Tip:** Don't rescue the hands-measurement problem. A child who has personally found out that your hand gives a different answer to hers understands units better than one who's been told.
+
+### 🌳 Get Outside: How Many Steps to the Postbox
+Count the steps to the postbox, or the gate, or the corner. **Then walk it again in giant steps and count those. Then tiny steps.** Three different answers to the same question, and the reason is standing right there in her own legs.
+
+> 👶 **Infant Integration:** Kreston gets the pile of blocks and will build, knock down, and carry them. He's also the best measuring unit in the house — measure the sofa in Krestons.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A unit only works if it stays the same size, and that's the hard part.**
+> The idea underneath all measurement is that you need something identical to repeat. It sounds obvious to an adult and it is not obvious at four — a child will happily measure a table with a mixture of long and short blocks and report a number with total confidence.
+> Finding out that your hands and her hands give different answers is the moment that idea lands, and it can't really be delivered any other way. It also explains why standard units exist at all, which is a surprisingly deep thing for a four-year-old to run into on a Tuesday. Everything else in measurement — centimetres, grams, minutes — is a footnote to *the thing you count with has to stay the same.*
+
+> 💛 **From Joseph:** She measured me at "eleven Azlyn hands" and then at "nine Azlyn hands" and got cross with me, as though I'd moved.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-279"></a>
+
+## 🌟 Day 279: Baking by Numbers 🌟
+**📅 Wednesday, October 6, 2027**
+**Theme:** Numbers & Counting
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:30 AM** — Main Event: Baking by Numbers (75 min)
+- **10:30–10:45 AM** — Snack: **the biscuits** (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Traffic Tally** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Baking by Numbers
+**🧰 Complete Materials List:**
+- 200g butter, 100g sugar, 300g plain flour, 1 egg
+- Kitchen scales with a display she can watch
+- A large bowl and a wooden spoon
+- A rolling pin and number-shaped cutters if you have them, or a knife
+- A baking tray and greaseproof paper
+- **A kitchen timer with a dial**, ideally
+- A picture recipe you draw together first
+
+**📝 Step-by-Step Instructions:**
+1. **Draw the recipe first**, as pictures with numbers: 2 blocks of butter, 1 egg, 1 bowl. **She ticks each line off as it goes in**, which is the counting job of the day.
+2. **She works the scales.** Watching the number climb as she spoons flour in is the best number lesson in the house — she'll stop when it reaches 300 and she'll be watching the digits to do it.
+3. Cream, mix, bring together, roll out. **Standard biscuit dough, and the maths is what's different today.**
+4. **Cut out numbers if you can — or count out shapes.** Twelve biscuits, counted onto the tray by touching each one.
+5. **Then the timer, and the countdown.** Set it for twelve minutes. **Count backwards together from ten as the last ten seconds run out.** That backwards count is deliberately the hardest thing you'll do all day.
+6. Out of the oven — **adult's hands only** — and count them again once they're cool. **Are there still twelve?** There should be, and checking that a number stays the same when things move around is a real idea.
+7. Share them out. **One each, round and round**, until they're gone. Dealing is one-to-one correspondence at its purest.
+
+> ⚠️ **Oven door, tray, and rack are all adult-only**, and the tray stays out of reach while it cools.
+
+> 💡 **Tip:** Do the sharing-out slowly, one at a time, rather than in handfuls. That's the whole of early division and she'll do it happily for as long as there are biscuits.
+
+### 🌳 Get Outside: The Traffic Tally
+Clipboard, three columns: cars, vans, bikes. **Ten minutes on a wall somewhere safe**, marking one line each time something passes. Then count the columns and find the winner. Tallies are a way of counting things that won't stay still, and that's worth saying.
+
+> 👶 **Infant Integration:** Kreston gets a lump of dough on the tray and a wooden spoon. Bake his blob with the rest. Do not let him near the scales — he will reset them, repeatedly, with great satisfaction.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Counting down is much harder than counting up.**
+> Counting up is a chant she's known for years and can run on autopilot. Counting down can't be chanted — each number has to be retrieved individually, in a direction she almost never practises, which is why a confident counter often stalls completely at "ten, nine, eight…".
+> It's worth practising precisely because it's hard, and because it's the foundation of subtraction. Timers, rockets, countdowns to the oven door, five more minutes counted backwards at bath time — small, frequent, and never framed as a test. And when she stalls, supply the next number immediately rather than waiting. The fluency comes from hearing the sequence in that direction often, not from struggling through it.
+
+> 💛 **From Joseph:** "Ten, nine, eight, five, biscuits." Close enough for me.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-280"></a>
+
+## 🌟 Day 280: The Party for Number Five 🌟
+**📅 Thursday, October 7, 2027**
+**Theme:** Numbers & Counting — *Week 40 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:20 AM** — Morning Meeting: **Five Is Having a Party** (20 min)
+- **9:20–10:30 AM** — Main Event: The Party for Number Five (70 min)
+- **10:30–10:45 AM** — Snack: **five things on a plate** (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Hunt for Five Fives** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Party for Number Five
+**🧰 Complete Materials List:**
+- Card and markers, for a giant number 5
+- Five candles
+- Five guests — toys, or people, or a mix
+- Five snacks on the plate
+- Paper for five invitations
+- Stickers, ribbon, and anything else festive
+- The counting jar, the number line, and the dice — all back out
+
+**📝 Step-by-Step Instructions:**
+1. **The premise, delivered completely straight: today is number five's birthday and we're throwing it a party.** She will accept this instantly and completely.
+2. **Make a giant 5** out of card, as tall as she is if you can, and decorate it. It's the guest of honour and it sits at the head of the table.
+3. **Five invitations**, to five guests — two toys, Kreston, Dad, the cat. She copies a 5 onto each one.
+4. **Set five places. Five snacks on the plate. Five candles.** Everything today comes in fives, and she'll start finding them herself by about ten o'clock.
+5. **Play the five games:** jump to 5 on the number line, roll until you get a 5, put five things in the fifth hole of the egg box, clap five times, hop five hops.
+6. **Sing happy birthday to a number** and blow out five candles. This is exactly as funny to a four-year-old as it sounds.
+7. **End by making a picture of everything five** you found today, all on one page.
+
+> 💡 **Tip:** Do the whole thing with a completely straight face. The moment an adult signals that this is a silly teaching exercise rather than a real party, it stops working.
+
+### 🌳 Get Outside: The Hunt for Five Fives
+Find five things outside that come in fives — five fingers on her hand, five petals on a flower, five windows, five steps, five cars in a row. **Five is unusually common in nature** and it's genuinely satisfying to hunt.
+
+> 👶 **Infant Integration:** Kreston is a guest and gets a place at the table. Give him five of something soft to move around his plate while everyone else does the games.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Giving a number a personality is what makes it stick.**
+> An abstract five is hard to hold onto. A five that had a birthday party, wore a hat, sat at the head of the table and had five guests is a character — and characters are what a four-year-old's memory is built for.
+> This isn't a trick so much as a match to how she already thinks. At this age nearly everything gets a personality: the moon, the vacuum cleaner, the last biscuit. Working with that rather than against it is why so much good early maths teaching is faintly ridiculous. She'll remember five had a party long after she's forgotten a worksheet, and the quantity comes attached.
+
+> 💛 **From Joseph:** Number five got a card, a hat, and a song. Number six is apparently getting nothing and she seems fine about that.
+
+<div style="page-break-after: always;"></div>
+<a id="week-41"></a>
+
+## Week 41: Things That Go 🚂
+**📅 October 8 – October 14, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Everything that moves, and — more usefully — **why** it moves. A ramp she can make steeper. A car she can sit inside. A rope and a pulley that lets her lift something she couldn't carry. A balloon that pushes itself along a string. By Thursday she's got a garage full of things she built, and the finale is a race that uses all of them.
+
+Columbus Day / Indigenous Peoples' Day falls on Monday, Day 284, and gets a short conversation rather than a whole day.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Changing one thing and testing it** — steeper, heavier, longer.
+- **That a slope is a machine**, and so is a rope over a hook.
+- **Push and pull** as the two things that make anything go.
+- **Planning a route** before travelling it.
+- **Looking after her own bike** — pumping, wiping, checking.
+
+---
+
+### 👩 What You'll Learn
+
+- Steeper is a variable she can control, and that's rare
+- Driving somewhere imaginary requires her to hold a destination in mind
+- Machines that make hard work easier are only obvious at this scale
+- Laying the track is planning, and it's harder than driving on it
+- Air is invisible, and she needs to feel it push before she'll believe in it
+- Pumping a tyre is the first time she'll feel her own strength do something useful
+- Finishing a week by using everything she made beats one more new thing
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] Long pieces of stiff card, or a plank, or a baking tray
+- [ ] A stack of books, to raise the ramp
+- [ ] Toy cars, balls, and a few things that roll badly
+- [ ] Masking tape — a lot of it
+- [ ] A tape measure
+- [ ] A large sturdy cardboard box, big enough to sit in
+- [ ] Four paper plates
+- [ ] Split pins, or strong tape
+- [ ] Paint, markers, and stickers
+- [ ] A paper plate or a plastic lid, for a steering wheel
+- [ ] Ribbon, foil, and bunting scraps
+- [ ] Strong string or thin rope, 4–5 metres
+- [ ] A cotton reel, a curtain ring, or a small pulley
+- [ ] A bucket or basket with a handle
+- [ ] Balloons — a whole bag, they burst
+- [ ] Drinking straws
+- [ ] Card for train stations and signs
+- [ ] Her bike or trike
+- [ ] A bike pump, an old cloth, and bike oil
+- [ ] A helmet that fits
+- [ ] Paper for the results chart
+- [ ] Pavement chalk
+
+---
+
+> 👶 **Kreston is around 16 months this week** — he pushes everything with wheels and he can now open doors. Assume he can reach the front door and act accordingly.
+
+---
+
+<a id="day-281"></a>
+
+## 🌟 Day 281: The Ramp Lab 🌟
+**📅 Friday, October 8, 2027**
+**Theme:** Things That Go
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: What Makes Things Go? (15 min)
+- **9:15–10:20 AM** — Main Event: The Ramp Lab (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **The Hill Roll** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Ramp Lab
+**🧰 Complete Materials List:**
+- A long piece of stiff card, a plank, or a baking tray
+- A stack of books, to raise one end
+- Toy cars, a marble, a ball, a wooden block, a conker
+- Masking tape, for the start line and the distance markers
+- A tape measure
+- Paper and a marker, for the chart
+
+**📝 Step-by-Step Instructions:**
+1. **Set the ramp on one book** and tape a start line at the top. Tape markers on the floor where it runs out — number them 1 to 5.
+2. **One car, three goes, from exactly the same spot.** Write down where it stops each time. **Doing the same thing three times before changing anything is the habit of the week.**
+3. **Now change one thing: add a book.** Steeper. Three more goes. Where does it stop now?
+4. Keep going — three books, four, five. **She'll predict "further" every time, and she'll be right, and being right repeatedly is what makes her trust the method.**
+5. **Then change the object instead of the slope.** Same ramp height, different things down it: a marble, a block, a conker, a crumpled ball of paper. **Ask her to predict the order before you start.**
+6. Chart it however she likes — a row of drawings, longest to shortest.
+7. **Finish with the ramp as steep as it will go** and race two cars side by side down it.
+
+> 💡 **Tip:** One variable at a time, said out loud every time: *"we're only changing the ramp, the car stays the same."* She won't follow the logic yet, but she'll absorb the rhythm of it, and that's the actual content.
+
+### 🌳 Get Outside: The Hill Roll
+Find any slope — a hill, a bank, a sloping path. **Roll things down it:** balls, conkers, a log, a wheel, herself. Which goes furthest? Then find a steeper bit and do it again. A real hill makes the morning's ramp make sense.
+
+> 👶 **Infant Integration:** Kreston gets his own ramp — a baking tray on one book — and a ball too big to swallow. Roll, chase, bring it back, roll again. He'll do this for a very long time.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Steeper is a variable she can control, and that's rare.**
+> Most of the physical world is fixed as far as she's concerned. The ramp isn't. She can add a book, and something measurable changes, and she can add another and see it change again — a dial she can turn, with a visible result at the other end.
+> That's what makes ramps such good early science, and why they're worth more than a demonstration of gravity. The valuable experience is *I changed one thing and the world responded predictably*, repeated fifteen times in an hour. Prediction, action, result. Everything else in experimental thinking is built on that loop, and a stack of books and a baking tray is enough to run it.
+
+> 💛 **From Joseph:** Six books. It went off the end of the ramp, across the kitchen, and under the fridge. Best outcome of the morning.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-282"></a>
+
+## 🌟 Day 282: The Cardboard Car 🌟
+**📅 Saturday, October 9, 2027**
+**Theme:** Things That Go
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:30 AM** — Main Event: The Cardboard Car (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **Vehicle Bingo** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+- **Afternoon** — **The drive-in**, in the car she built
+
+### 🎨 The Main Event: The Cardboard Car
+**🧰 Complete Materials List:**
+- A large sturdy cardboard box, big enough to sit in
+- A craft knife — **adult only**
+- Four paper plates, for wheels
+- Split pins, or strong tape
+- A paper plate or plastic lid, for the steering wheel
+- Paint, markers, and stickers
+- Ribbon, foil, and any bunting scraps
+- Two paper plates for headlights
+- A cushion for the seat
+
+**📝 Step-by-Step Instructions:**
+1. **She designs it first, on paper.** What kind of vehicle? A car, a bus, a fire engine, a jeepney. **Let the design be the first ten minutes** — it makes the rest hers.
+2. **Adult cuts** the doors and the windscreen. Leave the door hinged on one side so it opens.
+3. Wheels on with split pins so they turn. **Turning wheels are worth the extra five minutes.**
+4. **Steering wheel through the front**, fixed with a split pin so it actually spins. This is the single most-used part of the whole build.
+5. She paints and decorates it. Headlights, number plate, a name for it.
+6. **Then the important bit: where are we going?** Draw a destination card — the beach, Grandma's, the moon — and prop it up at the far end of the room. **Drive there.** Then somewhere else.
+7. **Afternoon: the drive-in.** Park the car in front of a screen or a book, snacks on the dashboard, and watch something from inside it.
+
+> 💡 **Tip:** Do not tidy this away tonight. A box car has a life of about a fortnight and the second week is better than the first.
+
+### 🌳 Get Outside: Vehicle Bingo
+Make a card of six vehicles before you go — car, van, bus, bike, lorry, motorbike. **Tick them off as you spot them.** First to fill the card. Add a hard one, like a tractor or a taxi, for a bonus.
+
+> 👶 **Infant Integration:** Kreston needs his own box, small, with a hole in the front to push. He'll want to get in hers, and having a smaller one right there resolves most of it. Give him a plate to hold as a steering wheel.
+
+> 🌍 **Around the World — Vehicles Everywhere**
+> In the **Philippines**, *jeepneys* are long, open buses painted in every colour there is, covered in chrome, mirrors, and hand-painted names — no two the same, and the drivers decorate them themselves. In **Thailand** you'd take a **tuk-tuk**, a tiny three-wheeler that fits through traffic. In **Venice**, the buses are boats — *vaporetti* — because the streets are water. In **India**, an **auto-rickshaw** does the same job on three wheels.
+> **✨ Try it:** Decorate the cardboard car jeepney-style — as bright and as covered in things as she can make it, with a name painted along the side. Then eat lunch in it, out of paper wrappers, the way street food gets eaten everywhere these vehicles run.
+> *Did you know?* The first jeepneys were built out of army jeeps left behind after the Second World War, which is where the name comes from.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Driving somewhere imaginary requires her to hold a destination in mind.**
+> Sitting in a box making engine noises is fun and fairly undemanding. Driving *to the beach* is harder work than it looks: she has to hold an idea of somewhere else, keep it in mind while she does something unrelated with her hands, and behave as though she's arriving.
+> That's the beginning of sustained imaginative play — the kind that lasts forty minutes rather than four. The way to support it isn't more props; it's the question *where are we going?* and then, once you've arrived, *what's here?* Destinations give the play a shape, and a shape is what lets it run without an adult driving it.
+
+> 💛 **From Joseph:** We drove to the moon, the shops, and Grandma's, in that order, and she made me get out and knock at each one.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-283"></a>
+
+## 🌟 Day 283: The Pulley Hoist 🌟
+**📅 Sunday, October 10, 2027**
+**Theme:** Things That Go
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Pulley Hoist (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:35 AM** — Get Outside: **The Tree Hoist** (60 min)
+- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Pulley Hoist
+**🧰 Complete Materials List:**
+- 4–5 metres of strong string or thin rope
+- A cotton reel, a curtain ring, or a small pulley
+- A hook, a bannister, or a broom handle laid across two chairs
+- A bucket or a basket with a handle
+- Things to lift — blocks, books, shoes, a soft toy
+- Paper for a load chart
+
+**📝 Step-by-Step Instructions:**
+1. **First, lift it the hard way.** Ask her to lift the loaded basket straight up above her head. She can't, or barely can. **Let that be the starting point of the day.**
+2. **Then rig the rope.** Over the bannister, over a broom handle, or through a curtain ring screwed into a beam. Tie one end to the basket handle.
+3. **She pulls down and the basket goes up.** The direction change is the surprising part — she pulls one way and it goes the other, and that genuinely puzzles children.
+4. **Load it up.** How many blocks before it's too heavy? Add one at a time and count them.
+5. **Then thread the rope through a cotton reel** so it spins as the rope runs over it. Same load, and it's easier. **Ask her which one is easier and let her test it both ways.**
+6. **Set up a delivery service** — she hoists things up to someone on the stairs or a landing, and lowers empty baskets back down. This will run for an hour.
+7. Chart the loads: what went up, what was too heavy.
+
+> ⚠️ **Rope and small children need one rule, said out loud: rope never goes round a neck, an arm, or a leg.** Rig it, use it, and put it away when you're done — not left hanging.
+
+> 💡 **Tip:** The delivery-service version outlasts the science version by a factor of ten. Set up the physics, then hand it over and let it become a game about sending your shoes upstairs.
+
+### 🌳 Get Outside: The Tree Hoist
+Throw the rope over a branch and rig the same thing outside, with a bucket. **Send things up into the tree.** Leaves, conkers, a note. If there's a treehouse, a platform, or a low wall, even better — a working lift to somewhere real is the best version of this.
+
+> 👶 **Infant Integration:** Kreston gets a basket with a short rope on the floor and drags it around loaded with things. Pulling a load is the 16-month-old version of the same idea, and he'll do it all morning.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Machines that make hard work easier are only obvious at this scale.**
+> Almost every machine in her life is sealed, silent, and does something she can't see — the washing machine, the car, the lift. A rope over a hook is the opposite: the whole mechanism is visible, she supplies the power herself, and the advantage is something she feels in her arms.
+> That's why simple machines are worth setting up properly rather than explaining. Feeling that a basket she couldn't lift goes up easily when she pulls down on a rope is a physical fact she now owns. Levers, ramps, wheels and pulleys are all like this — and having met them with her own body, she'll recognise them inside the sealed machines later.
+
+> 💛 **From Joseph:** She hoisted my boots to the top of the stairs and left them there. I found them at bedtime.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-284"></a>
+
+## 🌟 Day 284: The Train Line 🌟
+**📅 Monday, October 11, 2027**
+**Theme:** Things That Go
+
+> 🪶 **Columbus Day / Indigenous Peoples' Day.** Two names for the same Monday, and the disagreement is the interesting part. The short version for her: a long time ago some people sailed here from far away, and there were already people living here — people whose families are still here now. Some places spend today thinking about the ships, and some places spend it thinking about the people who were already home. **If you do one thing with it, find out whose land you're standing on** — most areas have a local tribe or nation with a name she can learn — and say it out loud today.
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:20 AM** — Morning Meeting: **Whose Land Are We On?** (20 min)
+- **9:20–10:30 AM** — Main Event: The Train Line (70 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Station Watch** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Train Line
+**🧰 Complete Materials List:**
+- Masking tape — the whole roll
+- Card and markers, for station signs
+- Toy trains and cars, or boxes tied in a line
+- Cushions and chairs, for tunnels and bridges
+- Paper for tickets
+- A whistle, or anything that makes a noise
+
+**📝 Step-by-Step Instructions:**
+1. **She decides where the line goes, before any tape is laid.** Walk the route together first, pointing: *out of the bedroom, under the table, round the sofa, into the kitchen.* **The walking-it-first is the planning step and it's the hardest part of the day.**
+2. Lay the tape along the route she chose. Two parallel lines if you've got the tape, with sleepers across.
+3. **Four stations, named and signed.** She names them — after rooms, people, or nonsense. Signs go up at each one.
+4. **Tunnels and bridges:** a chair to go under, a cushion ridge to go over, a table as a station roof.
+5. **Then run the line.** She's the driver, you're the passenger. Tickets, whistle, doors closing, announcements at each stop.
+6. **Then swap and let her be the guard**, which is more fun because it involves telling people what to do.
+7. **The timetable, if she's still going:** four stations drawn in a row on a strip of paper, and she ticks each one as the train arrives.
+
+> 💡 **Tip:** Lay the tape yourself but only where she pointed. A route she chose gets played on; a route you designed gets abandoned by half past ten.
+
+### 🌳 Get Outside: The Station Watch
+Go and watch something real — a station, a level crossing, a bus stop, a tram. **Twenty minutes of just watching**, then talk about what the people in uniform were doing. If nothing runs near you, watch the delivery vans on the street and work out their route.
+
+> 👶 **Infant Integration:** Kreston walks the tape line like a tightrope, holding your finger. Tape on the floor is irresistible at 16 months and it's genuinely good balance work.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Laying the track is planning, and it's harder than driving on it.**
+> Deciding where the line will go before any of it exists means holding a route in her head, imagining a space she isn't standing in, and committing to a sequence — this room, then that one, then the corner. Playing on the finished track is easy by comparison.
+> This is worth slowing down for rather than doing on her behalf. Walking the route together first, pointing as you go, gives her a way to plan that doesn't require her to hold it all mentally at once. That's the same scaffold that later becomes lists, maps and plans: turning an idea about the future into something out in the world where it can be looked at.
+
+> 💛 **From Joseph:** The line goes through the bathroom because she says it does, and I've stopped arguing about it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-285"></a>
+
+## 🌟 Day 285: The Balloon Rocket 🌟
+**📅 Tuesday, October 12, 2027**
+**Theme:** Things That Go
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — Main Event: The Balloon Rocket (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:30 AM** — Get Outside: **The Long Line** (60 min)
+- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Balloon Rocket
+**🧰 Complete Materials List:**
+- A bag of balloons — **they burst, buy plenty**
+- Drinking straws
+- Strong string, 4–5 metres
+- Masking tape
+- A clothes peg or a bulldog clip
+- A tape measure
+- Paper for the chart
+
+**📝 Step-by-Step Instructions:**
+1. **Thread the string through a straw**, then tie it tight between two chairs, or a door handle and a table leg. **It has to be properly taut** — a saggy line kills the whole thing.
+2. Blow up a balloon, **pinch the neck** (or clip it), and tape it to the straw with the opening facing backwards.
+3. **Countdown — backwards, from five — and let go.** It shoots along the line.
+4. **Then feel it.** Blow one up and let her hold her hand behind the neck as you release it. **She has to feel the air pushing out before any of this makes sense.**
+5. **Now change one thing at a time**, like Friday: a fuller balloon, a longer balloon, a line angled uphill, two straws, a paperclip taped on as cargo. **Measure how far each one goes.**
+6. Chart the results, best to worst.
+7. **Finish with a race** — two lines side by side, one each, released on the count.
+
+> ⚠️ **Uninflated and burst balloons are a serious choking hazard for a toddler.** Kreston stays out of this room, and every burst piece gets picked up immediately and binned, counted against how many you started with.
+
+> 💡 **Tip:** Fill a few balloons before she's in the room. Blowing them up is the bit that stops the activity dead — she can't do it, and you can only do so many before you feel unwell.
+
+### 🌳 Get Outside: The Long Line
+Rig the string between two trees or a fence and a post — as long as you can make it — and run the rockets outside. **Then let her run alongside** and see if she can beat it. She can't, and finding that out is the fun.
+
+> 👶 **Infant Integration:** Not this one. Kreston has no safe part in a balloon activity at 16 months. Give him the empty cardboard car from Saturday in a different room, or run this at nap time.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Air is invisible, and she needs to feel it push before she'll believe in it.**
+> Told that escaping air pushes the balloon forwards, she'll nod and not believe a word of it — air is nothing, as far as she's concerned, and nothing can't push. It's a genuine conceptual obstacle rather than a gap in vocabulary.
+> The route round it is her own skin. Air on her hand from the balloon's neck, wind against her face, the push of a bike pump, blowing a paper ball across the table. Once air is something that can be *felt* doing work, the rocket stops being magic and starts being an explanation. That's the general shape of it at this age: the abstract idea has to arrive attached to a physical sensation, or it doesn't arrive at all.
+
+> 💛 **From Joseph:** She held her hand behind the balloon, said "it's pushing me", and then did it eleven more times to check.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-286"></a>
+
+## 🌟 Day 286: The Bike Workshop 🌟
+**📅 Wednesday, October 13, 2027**
+**Theme:** Things That Go
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:20 AM** — Main Event: The Bike Workshop (65 min)
+- **10:20–10:35 AM** — Snack (15 min)
+- **10:35–11:45 AM** — Get Outside: **Her Own Ride** (70 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Bike Workshop
+**🧰 Complete Materials List:**
+- Her bike, trike, or scooter
+- A bike pump — one she can push down on
+- An old cloth and a bucket of warm soapy water
+- Bike oil, or any light oil
+- An old toothbrush
+- A spanner or allen key that fits her bike
+- A tool tray, and an apron
+- A helmet that fits
+
+**📝 Step-by-Step Instructions:**
+1. **Set it up as a workshop, not a chore.** Bike on its side or upside down, tools laid out in a row, apron on. **Announce that the workshop is open.**
+2. **The inspection first.** Walk round it together and check: tyres, brakes, bell, seat height, anything loose. **She points, you confirm.** Write a list of what needs doing.
+3. **Washing.** Soapy cloth, then the toothbrush for the chain and the spokes, which is the satisfying part.
+4. **Pumping.** This is the main event inside the main event. **Let her do it herself, standing on the pump, leaning her whole weight on it.** It's hard, it takes a while, and the tyre goes from squashy to solid in her own hands.
+5. **Oil the chain** — one drop per link, her hand on the bottle, and spin the pedal round while she does it.
+6. **Tighten what needs tightening**, her hand on the spanner, yours over it.
+7. **Adjust the seat if she's grown**, which she has. Then a test ride up and down.
+
+> ⚠️ **Helmet on before the bike leaves the shed**, every time, including in the garden. And check the fit properly this month — heads grow and last summer's setting is probably wrong.
+
+> 💡 **Tip:** Do the workshop and the ride on the same morning. The connection between *I looked after it* and *now it works better* only lands if the ride happens immediately afterwards.
+
+### 🌳 Get Outside: Her Own Ride
+A proper ride on the bike she just serviced — longer than usual, and let her set the pace and the route. **Ask her whether it feels different now.** It does, because the tyres are hard, and she'll be able to feel it.
+
+> 👶 **Infant Integration:** Kreston gets a cloth and the wheel of his own ride-on toy to wipe. Wiping is a real job at 16 months and he takes it extremely seriously.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Pumping a tyre is the first time she'll feel her own strength do something useful.**
+> Most of what a four-year-old's body can do is either play or is done for her. A bike pump is different — it's genuinely hard, it needs her whole weight, it takes long enough to be an effort, and at the end of it something that was soft is now hard because of her.
+> That's a rarer experience than it sounds, and it's worth not taking over halfway through. The moment where she wants to stop and then finishes anyway is doing more than the maintenance is. Look for the other jobs shaped like this — carrying the shopping in, sweeping the path, wringing out a cloth — because effort with a visible result is how a child works out what she's capable of.
+
+> 💛 **From Joseph:** She got the front tyre up on her own and then wanted to do mine, which took considerably longer and I let her.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-287"></a>
+
+## 🌟 Day 287: The Great Race 🌟
+**📅 Thursday, October 14, 2027**
+**Theme:** Things That Go — *Week 41 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:20 AM** — Morning Meeting: **Set Up the Course** (20 min)
+- **9:20–10:40 AM** — Main Event: The Great Race (80 min)
+- **10:40–10:55 AM** — Snack: **the pit stop** (15 min)
+- **10:55–11:45 AM** — Get Outside: **The Race Down the Path** (50 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Great Race
+**🧰 Complete Materials List:**
+- Everything from this week: the ramp, the cardboard car, the pulley, the taped train line, the balloon rockets
+- Masking tape, for lanes and a finish line
+- A tape measure
+- Card for medals, and ribbon
+- Paper for the results chart
+- A whistle or a bell, to start each race
+- Chalk, for outside
+
+**📝 Step-by-Step Instructions:**
+1. **Nothing new gets built today.** Say that out loud at the start — today is for using everything already made. **She will want to build something new. Hold the line.**
+2. **Set the course up together as four events:** the ramp run, the balloon rocket, the pulley hoist against the clock, and the cardboard car pushed to the finish line.
+3. **Make the medals first** — card circles on ribbon, one per event. Decorating them before the racing gives her something to aim at.
+4. **Run each event three times** and record the results on the chart. Same rule as Friday: three goes before you decide anything.
+5. **Then the changes.** Steeper ramp? Fuller balloon? Heavier basket? **She's had all week to build a theory and today is when she gets to test it.**
+6. **Award the medals to the objects, not the people** — fastest car, furthest rocket, heaviest load. It sidesteps a whole category of Thursday-morning grief.
+7. **Finish with the chart on the wall** and walk her along it. What was the fastest thing all week? What was the biggest surprise?
+
+> 💡 **Tip:** Medals for the vehicles rather than the racers is the difference between a good finale and a tearful one. She can be delighted that the blue car won without having lost anything herself.
+
+### 🌳 Get Outside: The Race Down the Path
+Chalk a start and finish on the path. **Race everything with wheels** — bike, trike, scooter, the box car, a toy car rolled down the slope. Then race on foot, backwards, hopping, and as slowly as possible.
+
+> 👶 **Infant Integration:** Kreston races too, in his own lane, at his own pace, and gets a medal for turning up. He is 16 months old and will be thrilled.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Finishing a week by using everything she made beats one more new thing.**
+> The instinct on the last day is to produce a bigger activity. But a week of separate mornings doesn't automatically add up to anything in her head — she has six unconnected memories, and the thread between them is only visible if someone lays them out side by side.
+> A finale that uses the whole week is what supplies that thread. It also quietly teaches that things you make are worth keeping and coming back to, rather than being finished and cleared away. The chart on the wall does the same job. She built five things this week and today she found out they belonged together, which is a better last morning than a sixth thing would have been.
+
+> 💛 **From Joseph:** The balloon rocket won everything. She's already saying next week's should have two balloons on it.
+
+<div style="page-break-after: always;"></div>
