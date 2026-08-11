@@ -11,16 +11,6 @@
 
 ---
 
-## 📌 BONUS NOTE — Day 315, Thursday, November 11 (Week 45, On the Farm)
-
-> Not a full holiday day. Paste this box under the `**Theme:**` line of Day 315.
-
-```markdown
-> 🎖️ **Veterans Day.** Memorial Day back in May was about the people who died. **Today is about the ones who came home** — the people who served and are still here, and who you can actually say thank you to. That distinction is the whole lesson and she can hold it. If there's a veteran in the family or on the street, today is the day to visit, ring, or post a card. **11 o'clock is the traditional minute of silence** — a whole minute is a long time at four, so try for the length of one slow breath together and count that a success.
-```
-
----
-
 ## 🦃 DAY 329 — Thanksgiving
 
 <a id="day-329"></a>
