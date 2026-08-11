@@ -23537,3 +23537,484 @@ A bowl of hot water on a surface **well out of reach**, so the room gets a bit o
 > 💛 **From Joseph:** If November is the month this book gets ignored, that's fine. It was always meant to be a suggestion, not a debt.
 
 <div style="page-break-after: always;"></div>
+<a id="booklet-december"></a>
+
+# 📘 December
+## ❄️ *The Big Book of Little Days* ❄️
+### Booklet 12 of 12 · Days 337–365
+**December 3 – December 31, 2027**
+
+*For Azlyn & Kreston · Made by Joseph for Brooklyn*
+
+---
+
+## This Month
+
+- [**Week 49** · Storybook Village](#week-49) — *Days 337–343*
+- [**Week 50** · Animal Kingdom](#week-50) — *Days 344–350*
+- [**Week 51** · Water & Weather Wonders](#week-51) — *Days 351–357*
+- [**Week 52** · Reflection & Winter Holidays](#week-52) — *Days 358–364*
+- [🎂 **Day 365 · The Last Little Day**](#day-365)
+- [🌧️ **Backup Days & Extra Ideas**](#backup-december)
+
+> 🎉 **Big days this month:** [🎈 Azlyn Turns Four](#day-354) (Day 354) · [🕎 Hanukkah Begins](#day-358) (Day 358) · [🎄 Christmas](#day-359) (Day 359) · [🎈 Brooklyn's Birthday](#day-363) (Day 363) · [🎂 The Last Day](#day-365) (Day 365)
+
+> 👶 **Kreston this month:** around 18–19 months — putting two words together, running properly, and copying everything she does within about four seconds of her doing it. He ends the book walking and talking, which is not how he started it.
+
+---
+
+## ⚠️ Quick Safety Reminders
+
+- **Four big days in eight, at the end of the month.** The birthdays and the holidays are stacked, and the cost lands in the afternoons. Naps and bedtimes are the things that don't move.
+- **Candles on Days 354, 358, and 359.** Battery ones for her, real ones out of reach, and the rules said out loud each time.
+- **Tree decorations are glass, small, and at Kreston's eye level.** Nothing breakable on the bottom third.
+- **Cold water and ice on Days 346 and 351.** Short exposures, warm hands afterwards, and an adult with a hand on the bowl.
+- **Ribbon, string, and wrapping paper** all go in the bin as they come off. An 18-month-old and a length of ribbon is a genuine hazard.
+- **Dark by four.** Reflective strips, torches, and the outdoor block in the morning — every day this month.
+
+---
+
+## 📌 Things Started Earlier That Come Due
+
+- **The bulbs from Day 325** — check them, nothing will be happening, check anyway.
+- **The tree from Day 324** — one visit, one photo from the marked spot, one line in the file.
+- **The rotting jar from Day 327** — one look a week, one mark on the chart.
+- **The time capsule from Day 1** — opened on Day 365. **Find it before the 31st.**
+
+<div style="page-break-after: always;"></div>
+
+<a id="week-49"></a>
+
+## Week 49: Storybook Village 📖
+**📅 December 3 – December 9, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+One story, built slowly across seven days, by someone who can't write yet.
+
+Friday she invents the characters. Saturday she builds the place they live. Sunday the story gets a shape. Monday it becomes an actual bound book with her name on the cover, Tuesday it becomes a recording, Wednesday something goes missing and she has to solve it, and Thursday she reads the whole thing to an audience.
+
+**She is the author all week and you are the pen.** That division is the point of it.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **That a character needs to want something**, or nothing happens.
+- **The shape of a story** — a beginning, a problem, a turn, an ending.
+- **That her words can be written down**, kept, and read back exactly.
+- **How to tell a story out loud** with no pictures to lean on.
+- **How to follow clues** to something that's been hidden.
+
+---
+
+### 👩 What You'll Learn
+
+- A character with a want is a story engine; a character with a name is just a doll
+- Small worlds get played in longer when someone lives there
+- "Until one day" is the phrase that turns a list into a story
+- A book with a cover and her name on it gets treated completely differently
+- Telling a story with no pictures forces her to say what she means
+- A mystery is the one structure that makes her ask questions instead of answering them
+- Finishing a book and giving it away is what makes her want to make another
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything the week's activities call for. Check what you've already got before Monday.*
+
+- [ ] Wooden peg dolls, or corks, or cardboard figures
+- [ ] Fabric scraps, wool, pipe cleaners, and googly eyes
+- [ ] Markers, crayons, and paint
+- [ ] Glue and scissors
+- [ ] Small cardboard boxes — cereal, tea, matchboxes
+- [ ] A large sheet of card or an old board, for the village base
+- [ ] Lolly sticks, twigs, moss, and pebbles
+- [ ] A long strip of paper, for the story spine
+- [ ] Sticky notes
+- [ ] Plain paper, and card for covers
+- [ ] A stapler, or a hole punch and ribbon
+- [ ] A phone or anything that records
+- [ ] Sound-effect makers: rice in a tub, a comb, crumpled paper, a tray of gravel, coconut halves
+- [ ] Card and markers, for clues and tickets
+- [ ] A magnifying glass
+- [ ] String, for the clue trail
+- [ ] Paper for posters
+- [ ] Something small and sweet to hand out on Thursday
+
+---
+
+> 👶 **Kreston is around 18 months this week** — he will take a peg doll and walk off with it. Make him one of his own on Friday and it solves most of the week.
+
+---
+
+<a id="day-337"></a>
+
+## 🌟 Day 337: The Character Workshop 🌟
+**📅 Friday, December 3, 2027**
+**Theme:** Storybook Village
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: Who Are We Making? (15 min)
+- **9:15–10:30 AM** — Main Event: The Character Workshop (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Name Walk** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Character Workshop
+**🧰 Complete Materials List:**
+- Three or four wooden peg dolls, corks, or stiff card figures
+- Fabric scraps, wool for hair, pipe cleaners for arms
+- Markers, paint, and a fine brush
+- Glue and scissors
+- Card, for the character cards
+- A pencil, for you
+
+**📝 Step-by-Step Instructions:**
+1. **Three characters, no more.** Four-year-olds will invent eleven and then lose all of them.
+2. **Make each one physically first** — paint the face, glue the hair, wrap the fabric. **She'll talk while she works and that's where the character comes from.**
+3. **Then a card for each**, and this is the actual activity. **Four questions, and you write her answers word for word:**
+   - **What's your name?**
+   - **Where do you live?**
+   - **What do you like best?**
+   - **What do you want more than anything?**
+4. **The fourth question is the important one and she'll find it hardest.** Push gently — *but what does she really, really want?* **A character who wants something has a story in her; a character who doesn't is a peg with a face.**
+5. **Then one more question per character: what's stopping them?**
+6. **Stand them up in a row and introduce them to each other**, out loud, in their voices.
+7. **Keep the cards.** They come back out on Sunday.
+
+> 💡 **Tip:** Let one of them be somebody real — her, Kreston, Dad. Children this age write about themselves and it makes the wanting question far easier to answer.
+
+### 🌳 Get Outside: The Name Walk
+Collect names from the world: street signs, shop names, house names, the names on vans. **Write down the ten best ones** and let her pick from that list rather than inventing from nothing. **Real names sound better than invented ones** and she'll spot it.
+
+> 👶 **Infant Integration:** Kreston gets his own peg doll, painted by her, with no small parts glued on. At 18 months he'll carry it everywhere and it will end up in the bath.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A character with a want is a story engine; a character with a name is just a doll.**
+> Ask a four-year-old to tell a story and you usually get a list: *and then he went there, and then he saw a dog, and then he had lunch.* Nothing connects, because nothing is being pursued.
+> The fix isn't more imagination, it's one question: **what does he want?** A want creates obstacles, and obstacles create everything else. This is the same machinery adult writers use, and it's completely accessible at four — she can answer *she wants to find her cat* and then generate an hour of plot from it. Asking the question on Friday is what makes the rest of the week possible.
+
+> 💛 **From Joseph:** All three of her characters want a dog. I think this is a message.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-338"></a>
+
+## 🌟 Day 338: The Village Street 🌟
+**📅 Saturday, December 4, 2027**
+**Theme:** Storybook Village
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–9:50 AM** — Get Outside: **The Real Street Walk** (35 min)
+- **9:50–10:05 AM** — Snack (15 min)
+- **10:05–11:45 AM** — Main Event: The Village Street (100 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Village Street
+**🧰 Complete Materials List:**
+- Small boxes — cereal, tea, matchboxes, tissue boxes
+- A large sheet of card or an old board, as the base
+- Paint, markers, and paper for brickwork and roofs
+- Lolly sticks, twigs, moss, pebbles, and scraps of fabric
+- Glue, tape, and scissors
+- Card, for the house name signs
+- The three characters and their cards
+
+**📝 Step-by-Step Instructions:**
+1. **Walk a real street first** and look properly at houses — doors, windows, roofs, numbers, gates, chimneys. **Photograph three she likes.**
+2. **Then home, and the base goes down on the floor.** Draw the road on it first, and the pavement, and where the trees go.
+3. **One house per character**, made from a box. **The house has to suit the person** — go back to the character cards and check. Somebody who wants a dog probably needs a gate.
+4. **Plus two or three other buildings** she decides on: a shop, a library, a post box, a bus stop.
+5. **Name each house and sign it.** She copies the first letters.
+6. **Details are the good bit and take the longest:** twig trees, moss gardens, pebble paths, curtains in the windows, a light inside made from a torch.
+7. **Then stop building and let her play in it**, for as long as it runs, with no story required. **The playing is what makes Sunday possible.**
+
+> 💡 **Tip:** Build it somewhere it can stay all week. A village that gets cleared away on Saturday night takes the rest of the week with it.
+
+### 🌳 Get Outside: The Real Street Walk
+Short and early, before the building. **Look at the details you'd never normally look at** — letterbox shapes, door colours, roof tiles, the number style. **Ask which house each of her characters would choose**, and why.
+
+> 👶 **Infant Integration:** Kreston gets one large box as his own building, at the end of the street, that he is allowed to crush. Building it and knocking it down is his whole relationship with the village and it's a fine one.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Small worlds get played in longer when somebody lives there.**
+> An empty model village is a craft project — admired, photographed, abandoned by Tuesday. The same village with three named residents who each want something is a place, and places get returned to.
+> This is why the character work came first. Small-world play is one of the richest things a four-year-old does — it's where narrative, empathy, problem-solving and language all run at once — but it needs inhabitants with intentions to get going. Build the people, then the houses. The other order produces something lovely that nobody touches.
+
+> 💛 **From Joseph:** There is a village on our living room floor and it is not moving until the weekend after next.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-339"></a>
+
+## 🌟 Day 339: The Story Spine 🌟
+**📅 Sunday, December 5, 2027**
+**Theme:** Storybook Village
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:30 AM** — Main Event: The Story Spine (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Setting Walk** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Story Spine
+**🧰 Complete Materials List:**
+- A long strip of paper, or six sheets taped in a row
+- Sticky notes
+- Markers and crayons
+- The character cards from Day 337
+- The village, on the floor
+- A pencil, for you
+
+**📝 Step-by-Step Instructions:**
+1. **Write six headings along the strip**, one per section, big:
+   - **Once upon a time…**
+   - **Every day…**
+   - **Until one day…**
+   - **Because of that…**
+   - **Until finally…**
+   - **And ever since…**
+2. **Read them out loud in order** so she hears the shape before she has to fill it.
+3. **Fill them one at a time, out of order if she likes.** She talks, you write on a sticky note, the note goes under the heading. **Her exact words, always.**
+4. **The first two are easy** — who and what normally happens. **Then stop and make a fuss of the third.**
+5. **"Until one day" is the hinge.** Something changes, something breaks, somebody arrives. **Ask what goes wrong, and let it be as daft as she likes.**
+6. **Act each section out in the village** with the peg dolls as you go. **Playing it is how she finds out what happens next.**
+7. **When all six are filled, read the whole spine back to her, start to finish.** That's her story, and she wrote it.
+
+> 💡 **Tip:** If she stalls, go to the village and play the scene rather than asking a better question. The answer nearly always arrives through the dolls rather than through discussion.
+
+### 🌳 Get Outside: The Setting Walk
+Go and find where the story happens. **A gate, a wood, a bridge, an alley, a particular tree.** Photograph it. **A real place makes the middle of the story much easier to picture**, and she'll describe it in far more detail than an invented one.
+
+> 👶 **Infant Integration:** Kreston is in the story. Ask her what his character does in it — he'll get a role, and it will almost certainly involve eating something he shouldn't.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **"Until one day" is the phrase that turns a list into a story.**
+> Left alone, a four-year-old's stories are chronological and flat — a sequence of things that happen, with nothing connecting them. She isn't missing imagination; she's missing the idea that a story needs a *disruption*.
+> Three words supply it. *Until one day* forces something to change, and once something has changed, everything after it has a reason to happen. That's cause and effect, in narrative form, and it's the beginning of the difference between recounting and storytelling. She'll use the phrase for months once she's got it, in exactly the right place, without being able to say why it works.
+
+> 💛 **From Joseph:** "Until one day… the dog came back." She said it with a full pause before it. She knows exactly what she's doing.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-340"></a>
+
+## 🌟 Day 340: Making the Book 🌟
+**📅 Monday, December 6, 2027**
+**Theme:** Storybook Village
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:45 AM** — Main Event: Making the Book (90 min)
+- **10:45–11:00 AM** — Snack (15 min)
+- **11:00 AM–12:00 PM** — Get Outside: **The Library Trip** (60 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: Making the Book
+**🧰 Complete Materials List:**
+- Six or seven sheets of paper, folded
+- Card for the cover
+- A stapler, or a hole punch and ribbon
+- The story spine, with all its sticky notes
+- Crayons, markers, and paint
+- A fine pen, for you
+- A photograph of her, optional, for the back
+
+**📝 Step-by-Step Instructions:**
+1. **One page per section of the spine**, plus a cover, a title page, and a dedication page.
+2. **You write first, she draws second.** Transcribe each sticky note onto its page in clear handwriting, at the bottom, leaving the top two-thirds empty.
+3. **Then she illustrates each page.** **Read the sentence out loud before she starts each one** so she's drawing that bit and not a general picture.
+4. **The title.** Let her decide and don't improve it. She copies it onto the cover in her own letters, and you write it neatly underneath.
+5. **"Written by Azlyn" on the cover.** Say it out loud as you write it.
+6. **The dedication page** — *for someone*. Ask who. Write exactly what she says.
+7. **Bind it properly** — stapled and taped, or punched and ribboned. **Then put it on the shelf with the real books**, spine out, where it lives from now on.
+
+> 💡 **Tip:** Write the words in before she draws, not after. A page with the sentence already on it tells her what to draw; a blank page gets a picture of something else entirely.
+
+### 🌳 Get Outside: The Library Trip
+Take the finished book to the library or a bookshop. **Look at how real books are put together** — cover, title, author's name, dedication, the last page. **Find one with a dedication and read it to her.** Then borrow something and bring it home.
+
+> 👶 **Infant Integration:** Make Kreston a two-page book of his own — his name, a photo, and one word. At 18 months a book about him will be chewed and then demanded repeatedly.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A book with a cover and her name on it gets treated completely differently.**
+> The same words on a loose sheet of paper get lost by Thursday. Bound, titled, dedicated, and shelved with the proper books, they become an object with status — and she'll fetch it, read it to people, and defend it from her brother.
+> The physical form is doing real work here. It tells her that what she said was worth keeping, and that she's the kind of person who makes books. Both of those are quiet, durable ideas about herself, and they cost a stapler and forty minutes. It's also why the shelf matters: her book going in among the shop-bought ones, rather than in a drawer, is the whole message.
+
+> 💛 **From Joseph:** She's read it to the cat, to Kreston, and to a delivery driver who was very good about it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-341"></a>
+
+## 🌟 Day 341: The Radio Play 🌟
+**📅 Tuesday, December 7, 2027**
+**Theme:** Storybook Village
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:00 AM** — Get Outside: **The Sound Collecting Walk** (45 min)
+- **10:00–10:15 AM** — Snack (15 min)
+- **10:15–11:45 AM** — Main Event: The Radio Play (90 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Radio Play
+**🧰 Complete Materials List:**
+- A phone or anything that records
+- The book, from yesterday
+- **Sound effects:** rice or lentils in a sealed tub (rain), crumpled paper (fire), a tray of gravel (footsteps), coconut halves or cups (hooves), a comb (creaking), a bowl of water, a sheet of card (wind), a bell
+- A tea towel, to muffle
+- Paper, for the effects list
+
+**📝 Step-by-Step Instructions:**
+1. **Collect real sounds on the walk first** — record ten seconds each of a gate, traffic, birds, feet on gravel, a door. **Play them back with her eyes shut and see if she can name them.**
+2. **Then build the effects kit** and test each one blind. **Rice in a tub really does sound like rain** and she will not believe it until she hears it back.
+3. **Go through the book page by page and list what sounds are needed.** Footsteps here, a door there, wind at the end.
+4. **Assign jobs.** She narrates and does the voices; you work the effects, or the other way round if she'd rather.
+5. **Record it in one take, mistakes included.** Then a second take, which will be much better.
+6. **The rule: no pictures.** Everything a listener needs has to be said or made as a sound.
+7. **Listen back in the dark**, lying down, with the lights off.
+
+> 💡 **Tip:** Don't aim for a clean recording. The stumbles, the wrong sound at the wrong moment, and her losing the plot and starting again are the parts you'll want in ten years.
+
+### 🌳 Get Outside: The Sound Collecting Walk
+Forty-five minutes recording the world. **Stand still and record ten seconds of nothing** in three different places, then listen back and count how many sounds are actually on there. **Far more than she'd have said.**
+
+> 👶 **Infant Integration:** Kreston gets the rice tub, sealed and taped, and appears on the recording whether or not anyone wanted him to. Leave him in.
+
+> 🌍 **Around the World — Storytellers, Everywhere**
+> Before books, everywhere had people whose job was the story. In **West Africa**, *griots* hold generations of family history, genealogy and music in memory and perform it — a role passed down within families for centuries. In **Japan**, *kamishibai* men rode bicycles into villages with a wooden frame on the back, slid painted boards through it as they told the tale, **and sold sweets to the children who gathered.** In **Aboriginal Australia**, songlines carry both story and navigation — the song tells you where you are.
+> **✨ Try it:** Make a kamishibai frame from a cardboard box and slide her illustrated pages through it while she tells the story. **And sell sweets** — make something small and sweet to hand out at Thursday's show, which is exactly how the real ones did it.
+> *Did you know?* Kamishibai men made their living from the sweets, not the stories. The story was free; the toffee was the business.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Telling a story with no pictures forces her to say what she means.**
+> With the book in front of her she can point, gesture, and say *and then this happened* — the pictures carry the meaning and her words don't have to. A recording removes all of that.
+> Suddenly the language has to do the whole job: who is speaking, where they are, what's happening. That's a real step up in explicitness, and it's the same demand that writing will make on her in a few years. Doing it out loud first, with sound effects and no stakes, is a much gentler introduction than a blank page. And she'll notice the gap herself — the first take is usually incomprehensible, and the second one isn't.
+
+> 💛 **From Joseph:** First take made no sense at all. Second take she said "in the woods, at night" without being asked. That's the whole lesson in one line.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-342"></a>
+
+## 🌟 Day 342: The Missing Thing 🌟
+**📅 Wednesday, December 8, 2027**
+**Theme:** Storybook Village
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:15 AM** — Morning Meeting: **Something's Gone** (15 min)
+- **9:15–10:30 AM** — Main Event: The Missing Thing (75 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:45 AM** — Get Outside: **The Clue Trail** (60 min)
+- **11:45 AM–12:00 PM** — Free Play (15 min)
+- **12:00 PM** — Lunch & Nap Prep
+
+### 🎨 The Main Event: The Missing Thing
+**🧰 Complete Materials List:**
+- One item taken from the village overnight — a peg doll, a roof, the post box
+- Five or six clue cards, written the night before
+- A magnifying glass
+- Flour or glitter, for a trail of prints
+- A scrap of fabric, a thread, a button — physical clues
+- String, for the outdoor trail
+- Paper and a pencil, for the case notes
+
+**📝 Step-by-Step Instructions:**
+1. **Set it up the night before.** Remove one thing from the village. **Leave physical evidence**: a dusting of flour with a trail of small prints, a thread caught on a fence, a scrap of fabric.
+2. **She discovers it in the morning.** Let the discovery be hers — don't announce it.
+3. **Case notes first.** *What's missing? What do we know? What don't we know?* **You write, she dictates.**
+4. **Then the search, with the magnifying glass.** Each physical clue leads to a written clue card, and each card points somewhere else in the house.
+5. **The clue cards should be picture-and-word**, readable by her with a bit of help: a drawing of the fridge, a drawing of the bath.
+6. **Make the last one require thinking rather than finding** — *it is somewhere cold*, or *it is somewhere you keep your shoes.*
+7. **When she finds it, ask her to explain what happened** and write down the theory. **Her explanation is the point, not the object.**
+
+> 💡 **Tip:** Make it findable in about forty minutes. A mystery that goes on too long stops being exciting and becomes an argument, and the satisfaction is all in the solving.
+
+### 🌳 Get Outside: The Clue Trail
+Run a short version outside — **string tied to gateposts, arrows chalked on the path, a clue under a stone.** Then let her set one for you, which is much harder and much funnier.
+
+> 👶 **Infant Integration:** Kreston is the prime suspect, and quite possibly the actual culprit. At 18 months, taking something and carrying it to another room is his single favourite activity. Check under his cot first.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A mystery is the one structure that makes her ask questions instead of answering them.**
+> Most of her day runs the other way. Adults ask, she answers — what colour, how many, what happened. A missing object flips it entirely: she has a gap she wants closed, and the only route is asking things.
+> That matters because question-asking is a genuine skill and it drops off sharply once children start being assessed. A mystery keeps it alive by making questions useful rather than performative. The other thing it trains is inference — a thread on a fence is not an answer, it's evidence that points somewhere, and holding *this suggests that* in mind is a real cognitive step at four.
+
+> 💛 **From Joseph:** It was under his cot. It's always under his cot.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-343"></a>
+
+## 🌟 Day 343: Opening Night 🌟
+**📅 Thursday, December 9, 2027**
+**Theme:** Storybook Village — *Week 49 Finale*
+
+### ⏰ At-a-Glance Schedule
+- **9:00–9:20 AM** — Morning Meeting: **Plan the Show** (20 min)
+- **9:20–10:30 AM** — Main Event: Preparing Opening Night (70 min)
+- **10:30–10:45 AM** — Snack (15 min)
+- **10:45–11:30 AM** — Get Outside: **The Poster Round** (45 min)
+- **11:30 AM–12:00 PM** — Dress rehearsal (30 min)
+- **12:00 PM** — Lunch & Nap
+- **Late afternoon** — **The show**
+
+### 🎨 The Main Event: Preparing Opening Night
+**🧰 Complete Materials List:**
+- The book, the village, the recording, and the peg dolls
+- Card, for tickets and posters
+- Markers and stickers
+- Chairs, arranged in a row
+- A torch or lamp, as a spotlight
+- The sweets made yesterday, in a tray
+- A second copy of the book, if you can — the gift copy
+
+**📝 Step-by-Step Instructions:**
+1. **She decides the running order.** Usually: the village tour, then the book read aloud, then the recording played, then sweets.
+2. **Tickets, one per guest**, decorated and numbered. **Posters for the door.**
+3. **Set the room out** — chairs in a row, the village on a table with the lamp on it, a chair at the front for the author.
+4. **Dress rehearsal before lunch**, all the way through, no stopping. **Then leave it alone until the show.**
+5. **Guests arrive and hand over tickets.** Grandparents on a screen count as an audience.
+6. **She gives the village tour first**, in character, then sits and reads the book. **Help with words, don't take over.**
+7. **Then the gift.** **She gives the book — or a copy of it — to the person named in the dedication.** That's the last act of the week and it should be the last thing that happens.
+
+> 💡 **Tip:** Photocopy or photograph every page before she gives it away, and print a second copy if you can. She'll want to have given it, and she'll also want to still have it.
+
+### 🌳 Get Outside: The Poster Round
+Walk the route putting posters up — on the front door, the fridge, the gate, a grandparent's letterbox. **Advertising the show makes it real to her** in a way that a rehearsal doesn't, and it means people arrive already knowing what it is.
+
+> 👶 **Infant Integration:** Kreston is in the front row with a ticket and will last about four minutes. **Put him first in the running order** — his bit of the tour — and then let him be taken out.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Finishing a book and giving it away is what makes her want to make another.**
+> A creative project that just stops — the drawing goes in a pile, the story gets forgotten — teaches that making things trails off. A project with a public ending teaches the opposite, and the ending is what she'll remember about the whole week.
+> Giving it to the person in the dedication is the strongest version of that. It makes the book a thing that travelled from her to someone else and had an effect when it landed. That's the entire reason writers write, arrived at through peg dolls and a cardboard village, and it's why the last five minutes of Thursday matter more than any single day before them.
+
+> 💛 **From Joseph:** She dedicated it to you. She wanted it to be a surprise, so act surprised.
+
+<div style="page-break-after: always;"></div>
