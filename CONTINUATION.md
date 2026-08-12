@@ -129,6 +129,59 @@ Every week begins with a briefing page before the first day:
 
 ---
 
+---
+
+## 🌤️ THE AFTERNOON BLOCK
+
+Every day runs **9:00 AM – 6:00 PM**. The morning is the taught part; the
+afternoon is the lived part, and it is deliberately lighter.
+
+**Schedule lines appended to every day, after `12:00 PM — Lunch`:**
+
+```
+- **12:45–2:30 PM** — Nap, or Quiet Time in her room
+- **2:30–3:00 PM** — Slow Start: [named, low-demand]
+- **3:00–4:00 PM** — Afternoon Thread: [named]
+- **4:00–5:00 PM** — [Out Again / Jobs / Free Play — named]
+- **5:00–5:45 PM** — Wind-Down: [named]
+- **6:00 PM** — Dinner
+```
+
+Azlyn is three and may or may not still nap — **never assume she does.**
+The line always reads "Nap, or Quiet Time in her room" so the block works
+either way.
+
+**Section, inserted immediately before the `---` that precedes the
+Parenting Insight:**
+
+```markdown
+### 🌤️ The Afternoon
+**Slow Start —** [1 sentence. Something to wake up into. No materials.]
+**Afternoon Thread —** [2–3 sentences. USUALLY A RETURN to the morning's
+activity, not a new one — the thing she built, planted, started or
+half-finished. This is the core of the block.]
+**Out Again —** [1–2 sentences. Second dose of outside, short, often the
+same place as the morning.]
+**Jobs —** [1 sentence. One real household job she owns, tied to dinner
+where possible.]
+**Wind-Down —** [1–2 sentences. Bath, book, quiet floor play. Lands at
+dinner.]
+
+> 👶 **Kreston's Afternoon:** [1 sentence, his real age]
+```
+
+**Rules**
+- 120–160 words total. The afternoon is not a second Main Event.
+- **No new materials lists.** If it needs shopping, it belongs in the morning.
+- Prefer returning to the morning's work over introducing anything new.
+- One real job per day — laying the table, sweeping, feeding the birds.
+- Never schedule anything that must succeed. This block is allowed to
+  dissolve into free play and still count as done.
+- Days that already have Evening content (moon journal, candles,
+  fireworks) keep it — the block wraps around it.
+
+---
+
 ## DAILY PAGE FORMAT
 
 Every day follows this structure exactly:
