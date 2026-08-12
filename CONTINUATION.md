@@ -131,6 +131,98 @@ Every week begins with a briefing page before the first day:
 
 ---
 
+## 📐 THE DAY FORMAT — FINAL (8:00 AM – 6:00 PM, no nap)
+
+Azlyn wakes around 7:00. **By 8:00 she is dressed, fed, and ready** — the
+book does not cover that hour. **8:00 is when the activities start.**
+
+**There is no nap.** She is three and has dropped it. The post-lunch hours
+are awake hours and must be filled.
+
+### Schedule — every day, in this order
+
+```
+- **8:00–9:00 AM** — 🌅 Opening Activity: [NAMED — varies every day]
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 Main Event: [NAMED] (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: [NAMED] (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: [NAMED] (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: [NAMED]
+- **4:15–5:00 PM** — Quiet Play: [NAMED]
+- **5:00–5:45 PM** — 🛁 Wind-Down: [NAMED]
+- **6:00 PM** — **Dinner**
+```
+
+### The 🌅 Opening Activity (8:00–9:00) — VARIES EVERY DAY
+
+Never a fixed routine. It is a real, named, hour-long activity, but a
+**gentle** one — she has just come to the table and the Main Event is
+still an hour away. Good openers:
+
+- **Prep for the morning's Main Event** — mixing the dough that has to
+  rise, cutting the shapes, laying the materials out
+- **A revisit** — yesterday's build, the weather chart, the bulbs, the
+  crystal jar, the tree
+- **Table work** — drawing, puzzles, threading, sorting, playdough
+- **A household thing done together** — the washing machine, the
+  shopping list, watering, feeding the birds
+- **Reading or music** on a slow day
+
+Short block: materials in one line, 2–3 numbered steps. ~90 words.
+
+### The 🎨 Second Main Event (1:00–2:30) — 90 minutes, written in full
+
+**A real activity with its own materials list and 5–7 numbered steps.**
+Not a repeat of the morning and not filler. Usually it either *extends*
+the morning's work into something bigger, or deliberately switches mode
+(morning made something → afternoon plays with it; morning was messy →
+afternoon is calm).
+
+### The 🎯 Afternoon Alternatives — 3–4 one-line options
+For when the Second Main Event doesn't land. Titles only, no steps.
+
+### The 🌳 Out Again (2:30–3:30) — **Pick one**, 4–6 options
+The second dose of outside, and it should be genuinely varied across the
+year — not another walk every day. Rotate in: **swimming, the library,
+soft play, the park, a museum, the shops, a café, a friend's house, the
+hardware shop, a bus ride, a market, feeding ducks**, alongside the
+free outdoor options. Each option is one line.
+
+### The other named slots
+- **🧹 Her Job (4:00)** — one real household job, tied to dinner where
+  possible. One line.
+- **Quiet Play (4:15)** — named, low-energy, no adult required. One line.
+- **🛁 Wind-Down (5:00)** — bath and books, named. One line.
+
+### Section order on the page
+1. Title, date, theme
+2. Schedule (the block above)
+3. 🌅 Opening Activity
+4. 🎨 Main Event (materials + steps + tip)
+5. 🌳 Get Outside
+6. 👶 Infant Integration
+7. **PAGE BREAK**
+8. 🎨 Second Main Event (materials + steps + tip)
+9. 🎯 Afternoon Alternatives
+10. 🌳 Out Again — Pick One
+11. 👶 Kreston's Afternoon
+12. 🌍 Around the World *(once per week only)*
+13. `---`, 🧠 Parenting Insight, 💛 From Joseph
+
+**Target: ~1,000–1,100 words per day = a two-page spread.** Morning on
+the left, afternoon on the right. Print double-sided.
+
+**Canonical worked example: Day 2.** Copy its shape exactly.
+
+---
+
 ### 📚 Book Time & 🏃 Workout — on every day
 
 Two fixed slots appear in all 365 schedules:
