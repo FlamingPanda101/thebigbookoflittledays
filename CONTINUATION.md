@@ -48,24 +48,10 @@ Every day header carries its real date. Every week header carries its date range
 
 ---
 
-## ⚡ PRE-WRITTEN HOLIDAY DAYS
+## ⚡ PRE-WRITTEN HOLIDAY DAYS — ALL SLOTTED IN
 
-`drafts/holiday-days.md` already contains finished blocks for the dated
-holidays, written ahead so they don't get rushed:
-
-- **Bonus notes:** none left — Days 284 and 315 are both slotted in
-- **Full days:** 354 Azlyn turns 4 · 358 Hanukkah · 359 Christmas · 363 Brooklyn's birthday · 365 Grand Finale
-
-When writing the week that contains one, **cut the block out of
-`drafts/` and paste it into the week file at the right position**, then
-delete it from drafts. Two things to do on the way in:
-
-1. Add that day's insight headline to the week opener's **What You'll Learn** list, in day order.
-2. Days 302 and 305 carry their own cultural content — put Week 44's 🌍 Around the World box on one of the other five days.
-
-`drafts/` is outside the `cat` glob, so nothing there reaches the
-assembled book. Dates for Diwali and Hanukkah were verified by search
-against the table above.
+All dated holiday days have been written and placed in their weeks.
+`drafts/` is gone. Nothing is pending.
 
 ---
 
