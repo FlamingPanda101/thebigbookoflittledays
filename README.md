@@ -18,9 +18,9 @@ A complete day-by-day activity and lesson-plan book, written by Joseph for Brook
 
 ## Current status
 
-**Days 1–336 complete** (January 1 – December 2, 2027).
+**Complete. All 365 days written** (January 1 – December 31, 2027).
 
-Remaining: Days 337–365 — December only. Five of the remaining dated days are already written and waiting in `drafts/holiday-days.md`.
+Nothing is pending. Every booklet has its cover, four weeks (five in October), and a backup section.
 
 | Month | Days | Status |
 |---|---|---|
@@ -35,7 +35,7 @@ Remaining: Days 337–365 — December only. Five of the remaining dated days ar
 | September | 246–273 | ✅ Complete |
 | October | 274–308 | ✅ Complete |
 | November | 309–336 | ✅ Complete |
-| December | 337–365 | ⬜ Not started |
+| December | 337–365 | ✅ Complete |
 
 ---
 
