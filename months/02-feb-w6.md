@@ -125,7 +125,7 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 - **9:15–10:15 AM** — Main Event: Mix & Knead the Dough (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race *(while it rises)* (45 min)
-- **11:15 AM–12:00 PM** — Shape & Bake (45 min)
+- **11:15 AM–11:45 AM** — Shape & Bake (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(warm bread)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -180,7 +180,7 @@ Time her getting dressed while the dough rises. The bread is doing its work; so 
 - **9:20–10:20 AM** — Main Event: Red Envelopes & Lucky Cleaning (60 min)
 - **10:20–10:35 AM** — Snack: Oranges (15 min)
 - **10:35–11:20 AM** — Get Outside: Lucky Red Walk (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch: **Long Noodles**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -233,7 +233,7 @@ Walk the neighborhood and count everything red you can find. Red is the color of
 - **9:15–10:15 AM** — Main Event: Roll, Cut & Decorate (60 min)
 - **10:15–10:30 AM** — Snack *(a cookie, obviously)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -330,7 +330,7 @@ Make a trail and follow each other's tracks. Good arm-tiring follow-up to all th
 - **9:15–10:00 AM** — Get Outside First: Five-Minute Cold Walk + Play (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: Build Pizza Faces (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(the pizzas)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -378,7 +378,7 @@ Out early today so the pizzas are the finale. Short and brisk.
 - **9:15–10:15 AM** — Main Event: Set Up the Bakery (60 min)
 - **10:15–10:30 AM** — Snack *(purchased from her)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Map (45 min)
-- **11:15 AM–12:00 PM** — Open for Business (45 min)
+- **11:15 AM–11:45 AM** — Open for Business (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -427,7 +427,7 @@ Rank the puddles. If frozen, test which ones crack under a boot and which hold.
 - **9:15–10:30 AM** — Main Event: Bake & Box It Up (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Deliver It (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)

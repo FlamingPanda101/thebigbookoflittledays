@@ -137,7 +137,7 @@ Draw hearts in the frost on the car window or storm door with a warm fingertip.
 - **9:15–10:15 AM** — Main Event: Build the Mailbox & Make Cards (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -187,7 +187,7 @@ Something bare, evergreen, frozen, red, and animal-made. Red should be easy this
 - **9:20–10:15 AM** — Main Event: Heart Garland & Delivery Prep (55 min)
 - **10:15–10:30 AM** — Snack: Something Pink (15 min)
 - **10:30–11:20 AM** — Get Outside: Deliver Valentines (50 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -236,7 +236,7 @@ Walk the neighborhood delivering cards. Leave one in a mailbox anonymously if sh
 - **9:15–10:15 AM** — Main Event: Pretzel Log Cabin (60 min)
 - **10:15–10:30 AM** — Snack *(extra pretzels)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -331,7 +331,7 @@ Count the birds at the feeder from Day 31. Compare to the first day you hung it 
 - **9:15–10:15 AM** — Main Event: Make a Coupon Book (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Redeem One (45 min)
+- **11:15 AM–11:45 AM** — Redeem One (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -378,7 +378,7 @@ Find frozen things. February ice is often the best of the year.
 - **9:15–10:15 AM** — Main Event: Hidden Love Notes (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
-- **11:15 AM–12:00 PM** — Hide Them (45 min)
+- **11:15 AM–11:45 AM** — Hide Them (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)

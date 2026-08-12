@@ -136,6 +136,31 @@ everybody dizzy and cheerful.
 whole body, faster and faster until everybody falls over. **Good last
 resort — it works even when nothing else will.**
 
+**Simon Says** — All the actions, none of the sitting still. She gives the
+orders for the second half.
+
+**Mirror Me** — Face to face, she copies every move you make, no talking.
+Then swap and copy hers, which is much harder.
+
+**The Countdown** — Ten jumps, nine stomps, eight spins, seven claps, and
+on down to one. She counts them herself.
+
+**Round the House** — Literally run around the outside of the building.
+Three laps, timed, then try to beat it.
+
+---
+
+### 🌡️ Pick by mood, not down the list
+
+- **Wild and climbing the walls** → Animal Moves, Stair Laps, The Countdown
+- **Whiny and clingy** → Carry the Heavy Thing, Wall Push. **Heavy work settles an overstimulated child faster than calming words do.**
+- **Grey, flat, bored** → Freeze Dance, Roly-Poly Race, Marching Band
+- **Tiny space, one adult, baby in arms** → Cushion Islands, Mirror Me, Simon Says
+- **No idea** → Freeze Dance. It works every time.
+
+**End with one slow thing.** A stretch, a slow lap, everybody lying on the
+floor for a count of twenty. Children this age can't stop dead, and going
+straight from wild to a chair at the table is where lunch falls apart.
 ---
 
 > 💡 **Tip:** Do it outside if the weather allows and it doubles as fresh

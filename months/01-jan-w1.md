@@ -188,7 +188,7 @@ Bundle up and walk the same route you'll walk all year. Notice what the trees lo
 - **9:15–10:15 AM** — Main Event: Cardboard Box House (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
-- **11:15 AM–12:00 PM** — Free Play in the Box (45 min)
+- **11:15 AM–11:45 AM** — Free Play in the Box (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -376,7 +376,7 @@ Time how fast she can get coat, hat, boots, and mittens on. Try to beat the reco
 - **9:15–10:00 AM** — Main Event: Homemade Playdough (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Five-Minute Cold Walk + Free Play (45 min)
-- **11:00 AM–12:00 PM** — Playdough Building (60 min)
+- **11:00 AM–11:45 AM** — Playdough Building (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -442,7 +442,7 @@ Just to the end of the street and back. Short, brisk, enough to reset everybody'
 - **9:15–10:15 AM** — Main Event: Build a Bridge (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -506,7 +506,7 @@ Find every frozen thing in the yard — puddle skins, icicles, frost on a leaf. 
 - **9:15–10:15 AM** — Main Event: The Blanket Fort (60 min)
 - **10:15–10:30 AM** — Snack *(inside the fort)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bird Watch (45 min)
-- **11:15 AM–12:00 PM** — Fort Play (45 min)
+- **11:15 AM–11:45 AM** — Fort Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)

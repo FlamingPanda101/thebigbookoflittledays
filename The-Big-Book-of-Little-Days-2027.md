@@ -136,6 +136,31 @@ everybody dizzy and cheerful.
 whole body, faster and faster until everybody falls over. **Good last
 resort — it works even when nothing else will.**
 
+**Simon Says** — All the actions, none of the sitting still. She gives the
+orders for the second half.
+
+**Mirror Me** — Face to face, she copies every move you make, no talking.
+Then swap and copy hers, which is much harder.
+
+**The Countdown** — Ten jumps, nine stomps, eight spins, seven claps, and
+on down to one. She counts them herself.
+
+**Round the House** — Literally run around the outside of the building.
+Three laps, timed, then try to beat it.
+
+---
+
+### 🌡️ Pick by mood, not down the list
+
+- **Wild and climbing the walls** → Animal Moves, Stair Laps, The Countdown
+- **Whiny and clingy** → Carry the Heavy Thing, Wall Push. **Heavy work settles an overstimulated child faster than calming words do.**
+- **Grey, flat, bored** → Freeze Dance, Roly-Poly Race, Marching Band
+- **Tiny space, one adult, baby in arms** → Cushion Islands, Mirror Me, Simon Says
+- **No idea** → Freeze Dance. It works every time.
+
+**End with one slow thing.** A stretch, a slow lap, everybody lying on the
+floor for a count of twenty. Children this age can't stop dead, and going
+straight from wild to a chair at the table is where lunch falls apart.
 ---
 
 > 💡 **Tip:** Do it outside if the weather allows and it doubles as fresh
@@ -476,7 +501,7 @@ Bundle up and walk the same route you'll walk all year. Notice what the trees lo
 - **9:15–10:15 AM** — Main Event: Cardboard Box House (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
-- **11:15 AM–12:00 PM** — Free Play in the Box (45 min)
+- **11:15 AM–11:45 AM** — Free Play in the Box (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -664,7 +689,7 @@ Time how fast she can get coat, hat, boots, and mittens on. Try to beat the reco
 - **9:15–10:00 AM** — Main Event: Homemade Playdough (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Five-Minute Cold Walk + Free Play (45 min)
-- **11:00 AM–12:00 PM** — Playdough Building (60 min)
+- **11:00 AM–11:45 AM** — Playdough Building (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -730,7 +755,7 @@ Just to the end of the street and back. Short, brisk, enough to reset everybody'
 - **9:15–10:15 AM** — Main Event: Build a Bridge (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -794,7 +819,7 @@ Find every frozen thing in the yard — puddle skins, icicles, frost on a leaf. 
 - **9:15–10:15 AM** — Main Event: The Blanket Fort (60 min)
 - **10:15–10:30 AM** — Snack *(inside the fort)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bird Watch (45 min)
-- **11:15 AM–12:00 PM** — Fort Play (45 min)
+- **11:15 AM–11:45 AM** — Fort Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -987,7 +1012,7 @@ Find every puddle on your street — frozen or wet — and rank them. Biggest, d
 - **9:15–10:00 AM** — Main Event: Make Shakers (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Frost Drawing (45 min)
-- **11:00 AM–12:00 PM** — Kitchen Band (60 min)
+- **11:00 AM–11:45 AM** — Kitchen Band (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1132,7 +1157,7 @@ Stand still and count birds for five minutes. Winter birds are easy to spot on b
 - **9:15–10:00 AM** — Main Event: The Laundry Basket Boat (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Ice Hunt (45 min)
-- **11:00 AM–12:00 PM** — Boat Free Play (60 min)
+- **11:00 AM–11:45 AM** — Boat Free Play (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1180,7 +1205,7 @@ Find frozen things — puddle skins, icicles, frost on a leaf. Bring one inside 
 - **9:15–10:15 AM** — Main Event: Build the Bus (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
-- **11:15 AM–12:00 PM** — Bus Play (45 min)
+- **11:15 AM–11:45 AM** — Bus Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1228,7 +1253,7 @@ Make a trail of deliberate footprints and follow each other's tracks back. In fr
 - **9:15–10:15 AM** — Main Event: Concert Prep & Tickets (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
-- **11:15 AM–12:00 PM** — The Concert (45 min)
+- **11:15 AM–11:45 AM** — The Concert (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1399,7 +1424,7 @@ Walk the neighborhood and leave them in places people will find them — a bench
 - **9:15–10:00 AM** — Main Event: Build the Helper Chart (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bundle-Up Race (45 min)
-- **11:00 AM–12:00 PM** — Do the Jobs (60 min)
+- **11:00 AM–11:45 AM** — Do the Jobs (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1447,7 +1472,7 @@ Time how fast she can get her own coat, hat, boots, and mittens on. Beat the rec
 - **9:15–10:30 AM** — Main Event: Make Soup Together (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Deliver It (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(soup)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1496,7 +1521,7 @@ Walk the soup over. Let her hand it off herself and say what it is, even if she 
 - **9:20–10:15 AM** — Main Event: The Dream Cloud (55 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Map (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1544,7 +1569,7 @@ Find and rank every puddle on the street. Frozen ones crack satisfyingly under a
 - **9:15–10:15 AM** — Main Event: Make Thank You Cards (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Mail Them (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1757,7 +1782,7 @@ Several activities this week are designed to fail on the first attempt. That's d
 - **9:15–10:15 AM** — Main Event: DIY Photo Puzzle (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1858,7 +1883,7 @@ Beat yesterday's dressing time. Add mittens as the final challenge — they're b
 - **9:15–10:15 AM** — Main Event: Sort Everything (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -1953,7 +1978,7 @@ Make tracks and follow each other's back. Try to walk exactly in each other's fo
 - **9:15–10:00 AM** — Main Event: Tape Maze on the Floor (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Puddle Map (45 min)
-- **11:00 AM–12:00 PM** — Run the Maze (60 min)
+- **11:00 AM–11:45 AM** — Run the Maze (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -2047,7 +2072,7 @@ Watch for patterns outside — fence posts, footprints, the way birds land in a 
 - **9:15–10:00 AM** — Main Event: Make the Clues (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside / Indoor Hunt: Follow the Clues (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -2222,7 +2247,7 @@ Gather pinecones, interesting sticks, and seed pods. Winter is actually the easi
 - **9:15–10:00 AM** — Main Event: Make Track Stamps (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Real Track Hunt (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -2319,7 +2344,7 @@ Pick the spot together, hang it, then stand back and wait quietly for a few minu
 - **9:15–10:15 AM** — Main Event: Build a Bear Cave (60 min)
 - **10:15–10:30 AM** — Snack *(in the cave)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Five-Minute Cold Walk (45 min)
-- **11:15 AM–12:00 PM** — Cave Play (45 min)
+- **11:15 AM–11:45 AM** — Cave Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -2463,7 +2488,7 @@ Walk slowly and stop every twenty steps to listen for ten seconds. Count how man
 - **9:15–10:15 AM** — Main Event: Make a Forest Story (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -2879,7 +2904,7 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 - **9:15–10:15 AM** — Main Event: Mix & Knead the Dough (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race *(while it rises)* (45 min)
-- **11:15 AM–12:00 PM** — Shape & Bake (45 min)
+- **11:15 AM–11:45 AM** — Shape & Bake (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(warm bread)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -2934,7 +2959,7 @@ Time her getting dressed while the dough rises. The bread is doing its work; so 
 - **9:20–10:20 AM** — Main Event: Red Envelopes & Lucky Cleaning (60 min)
 - **10:20–10:35 AM** — Snack: Oranges (15 min)
 - **10:35–11:20 AM** — Get Outside: Lucky Red Walk (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch: **Long Noodles**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -2987,7 +3012,7 @@ Walk the neighborhood and count everything red you can find. Red is the color of
 - **9:15–10:15 AM** — Main Event: Roll, Cut & Decorate (60 min)
 - **10:15–10:30 AM** — Snack *(a cookie, obviously)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3084,7 +3109,7 @@ Make a trail and follow each other's tracks. Good arm-tiring follow-up to all th
 - **9:15–10:00 AM** — Get Outside First: Five-Minute Cold Walk + Play (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: Build Pizza Faces (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(the pizzas)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3132,7 +3157,7 @@ Out early today so the pizzas are the finale. Short and brisk.
 - **9:15–10:15 AM** — Main Event: Set Up the Bakery (60 min)
 - **10:15–10:30 AM** — Snack *(purchased from her)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Map (45 min)
-- **11:15 AM–12:00 PM** — Open for Business (45 min)
+- **11:15 AM–11:45 AM** — Open for Business (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3181,7 +3206,7 @@ Rank the puddles. If frozen, test which ones crack under a boot and which hold.
 - **9:15–10:30 AM** — Main Event: Bake & Box It Up (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Deliver It (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3356,7 +3381,7 @@ Draw hearts in the frost on the car window or storm door with a warm fingertip.
 - **9:15–10:15 AM** — Main Event: Build the Mailbox & Make Cards (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3406,7 +3431,7 @@ Something bare, evergreen, frozen, red, and animal-made. Red should be easy this
 - **9:20–10:15 AM** — Main Event: Heart Garland & Delivery Prep (55 min)
 - **10:15–10:30 AM** — Snack: Something Pink (15 min)
 - **10:30–11:20 AM** — Get Outside: Deliver Valentines (50 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3455,7 +3480,7 @@ Walk the neighborhood delivering cards. Leave one in a mailbox anonymously if sh
 - **9:15–10:15 AM** — Main Event: Pretzel Log Cabin (60 min)
 - **10:15–10:30 AM** — Snack *(extra pretzels)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3550,7 +3575,7 @@ Count the birds at the feeder from Day 31. Compare to the first day you hung it 
 - **9:15–10:15 AM** — Main Event: Make a Coupon Book (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Redeem One (45 min)
+- **11:15 AM–11:45 AM** — Redeem One (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3597,7 +3622,7 @@ Find frozen things. February ice is often the best of the year.
 - **9:15–10:15 AM** — Main Event: Hidden Love Notes (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
-- **11:15 AM–12:00 PM** — Hide Them (45 min)
+- **11:15 AM–11:45 AM** — Hide Them (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -3913,7 +3938,7 @@ Tracks in the snow or mud, then follow each other back.
 - **9:15–10:15 AM** — Main Event: Foil & Dough Sculpture (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -4010,7 +4035,7 @@ Find frozen things. Press a hand into fresh snow or mud and look at the print it
 - **9:15–10:15 AM** — Main Event: Hang the Gallery (60 min)
 - **10:15–10:30 AM** — Snack: Gallery Refreshments (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race (45 min)
-- **11:15 AM–12:00 PM** — The Opening (45 min)
+- **11:15 AM–11:45 AM** — The Opening (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -4179,7 +4204,7 @@ Stop five times. Each stop, focus on one sense only and name what it gives you.
 - **9:15–10:15 AM** — Main Event: Build a Touch Board (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -4274,7 +4299,7 @@ Stop every twenty steps and listen for ten seconds. Count how many separate soun
 - **9:15–10:30 AM** — Main Event: Life-Size Body Trace (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Puddle Map (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -4416,7 +4441,7 @@ Run to the end of the street and back. Check heartbeats outside where you can se
 - **9:15–10:15 AM** — Main Event: Mirror Self-Portrait (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -4834,7 +4859,7 @@ The tent goes up on Day 64 and stays up all week. Eid al-Fitr falls on Day 68.
 - **9:15–10:15 AM** — Main Event: Build the Big Top (60 min)
 - **10:15–10:30 AM** — Snack *(inside the tent)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Check (45 min)
-- **11:15 AM–12:00 PM** — Tent Play (45 min)
+- **11:15 AM–11:45 AM** — Tent Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5031,7 +5056,7 @@ March puddles are back. Boots on, no rules, jump in every one. Rank them by spla
 - **9:20–10:20 AM** — Main Event: Eid Cookies to Give Away (60 min)
 - **10:20–10:35 AM** — Snack: Dates (15 min)
 - **10:35–11:20 AM** — Get Outside: Deliver the Cookies (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5081,7 +5106,7 @@ Walk the plate over. Let Azlyn hand it across and say "Eid Mubarak" if she'll tr
 - **9:15–10:00 AM** — Main Event: The Animal Act (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Animal Obstacle Course (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5130,7 +5155,7 @@ Hop through the hoop like a lion, walk the rope like an elephant, crawl under a 
 - **9:15–10:15 AM** — Main Event: Rehearse & Make Tickets (60 min)
 - **10:15–10:30 AM** — Snack: Circus Popcorn (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Check (45 min)
-- **11:15 AM–12:00 PM** — **The Show** (45 min)
+- **11:15 AM–11:45 AM** — **The Show** (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5408,7 +5433,7 @@ Look for real clover in the grass. Count the leaves — almost all have three. F
 - **9:15–10:15 AM** — Main Event: Rainbow & Pot of Gold (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Jumping (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5457,7 +5482,7 @@ Boots on. Look for a rainbow in a puddle with oil on it, or in the spray from a 
 - **9:15–10:15 AM** — Main Event: Irish Soda Bread (60 min)
 - **10:15–10:30 AM** — Snack *(warm bread)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Clover Hunt (45 min)
-- **11:15 AM–12:00 PM** — Green Hunt Indoors (45 min)
+- **11:15 AM–11:45 AM** — Green Hunt Indoors (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5506,7 +5531,7 @@ Look for clover and anything else newly green. Early spring greens are a specifi
 - **9:20–9:50 AM** — Main Event Prep: Hide the Gold (30 min)
 - **9:50–10:10 AM** — Snack: Something Green (20 min)
 - **10:10–11:10 AM** — Get Outside: **The Leprechaun's Gold Hunt** (60 min)
-- **11:10 AM–12:00 PM** — Free Play (50 min)
+- **11:10 AM–11:45 AM** — Free Play (35 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5554,7 +5579,7 @@ Take the whole thing outside. March weather is unpredictable; the hunt works in 
 - **9:15–10:15 AM** — Get Outside: Signs of Spring Walk (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: The Spring Journal Page (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5785,7 +5810,7 @@ Ducks like puddles. Boots on, find the biggest one, and waddle through it in a l
 - **9:20–10:20 AM** — Main Event: Sprout the *Sabzeh* & Set the Table (60 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:20 AM** — Get Outside: Equinox Walk (45 min)
-- **11:20 AM–12:00 PM** — Spring Clean One Drawer (40 min)
+- **11:20 AM–11:45 AM** — Spring Clean One Drawer (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5837,7 +5862,7 @@ Today the day and night are almost exactly equal length. Go out and notice how m
 - **9:20–10:10 AM** — Main Event: Make Color Powder (50 min)
 - **10:10–10:25 AM** — Snack: Something Sweet (15 min)
 - **10:25–11:25 AM** — Get Outside: **The Color Throw** (60 min)
-- **11:25 AM–12:00 PM** — Hose Down & Free Play (35 min)
+- **11:25 AM–11:45 AM** — Hose Down & Free Play (20 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5891,7 +5916,7 @@ This is the outdoor activity. Give it the full hour and don't rush the rinsing-o
 - **9:15–10:15 AM** — Get Outside: Nest Material Hunt (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: Build a Nest (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5939,7 +5964,7 @@ Gather what a bird would use: small twigs, dry grass, moss, fluff, bits of strin
 - **9:15–10:15 AM** — Main Event: The Growth Chart (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Worm Patrol (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -5987,7 +6012,7 @@ After rain, worms end up stranded on the pavement. Move them back to the dirt. I
 - **9:15–10:15 AM** — Main Event: Set Up the Zoo (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Bud Check (45 min)
-- **11:15 AM–12:00 PM** — Give Tours (45 min)
+- **11:15 AM–11:45 AM** — Give Tours (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -6112,7 +6137,7 @@ The naked egg starts on Day 89 and is revealed on Day 91.
 - **9:15–10:15 AM** — Main Event: Dye the Eggs (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Kitchen (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -6167,7 +6192,7 @@ Give her a bowl, a spoon, and permission. Late March mud is perfect. Make mud so
 - **9:15–10:15 AM** — Main Event: Ears & a Woven Basket (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Practice Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -6312,7 +6337,7 @@ Rescue stranded worms back to the soil. Talk about what they do down there for t
 - **9:15–10:15 AM** — Main Event: Sink, Float & the Naked Egg (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Jumping (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -6408,7 +6433,7 @@ Make an absurd mud recipe. Mud soup with a stick in it. Serve it to you with a s
 - **9:20–10:15 AM** — Main Event: Backwards Day (55 min)
 - **10:15–10:30 AM** — Snack *(dessert first)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Backwards Walk (45 min)
-- **11:15 AM–12:00 PM** — Reveal the Naked Egg (45 min)
+- **11:15 AM–11:45 AM** — Reveal the Naked Egg (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -6884,7 +6909,7 @@ Move stranded worms back to soil after the rain. Talk about what they do for the
 - **9:15–10:15 AM** — Main Event: Eggshell Mosaic (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Ranking (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -6935,7 +6960,7 @@ Find every puddle. Rank them. April puddles are the best of the year and worth t
 - **9:15–10:15 AM** — Main Event: Build the Protector (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Drop Test** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7031,7 +7056,7 @@ Visit the tree. Early April — buds should be opening now. Compare to the March
 - **9:15–10:15 AM** — Main Event: Baking Soda & Vinegar (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Kitchen (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7081,7 +7106,7 @@ Bring a spoon and a bowl. April mud is at its peak. Let it be genuinely muddy.
 - **9:15–10:15 AM** — Main Event: Density Rainbow (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Wind Chase (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7130,7 +7155,7 @@ Bubbles into the April wind. Chase and pop them.
 - **9:15–10:15 AM** — Main Event: Set Up the Science Fair (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: The Slowest Walk Ever (45 min)
-- **11:15 AM–12:00 PM** — Present the Experiments (45 min)
+- **11:15 AM–11:45 AM** — Present the Experiments (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7255,7 +7280,7 @@ Day 100 lands here. Vaisakhi is on Day 104.
 - **9:15–10:15 AM** — Main Event: Prepare the Bed or Pots (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Plant It (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7309,7 +7334,7 @@ The planting is the outdoor time today. Give it a full hour and don't hurry the 
 - **9:20–10:20 AM** — Main Event: The Hundred Collection (60 min)
 - **10:20–10:35 AM** — Snack: 100 Somethings (15 min)
 - **10:35–11:20 AM** — Get Outside: Count 100 Steps (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7406,7 +7431,7 @@ Her job, her patch, her watering can. Talk about where the water goes after it h
 - **9:15–10:15 AM** — Main Event: Build a Bug Hotel (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Install It & Look Under Rocks (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7502,7 +7527,7 @@ Water her patch. Smell the soil after watering — wet earth has a real, distinc
 - **9:20–10:20 AM** — Main Event: Cook & Share a Meal (60 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:20 AM** — Get Outside: Deliver It (45 min)
-- **11:20 AM–12:00 PM** — Bhangra Dancing (40 min)
+- **11:20 AM–11:45 AM** — Bhangra Dancing (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(on the floor)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7552,7 +7577,7 @@ Walk the food over. Let her hand it across.
 - **9:15–10:00 AM** — Get Outside: Garden Inspection (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: The Garden Journal (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7681,7 +7706,7 @@ Passover begins on Day 111.
 - **9:15–10:15 AM** — Main Event: Paint an Animal & Its Home (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Habitat Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7734,7 +7759,7 @@ Find homes in your own yard — a bird's nest, a spider web, a hole, a log with 
 - **9:15–10:15 AM** — Main Event: Make a Grass Head (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7784,7 +7809,7 @@ Her patch, her can. Check for the first shoots — sunflowers come up fast and s
 - **9:15–10:00 AM** — Main Event: Make Binoculars & a Bird Chart (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: The Bird Count (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7833,7 +7858,7 @@ Sit still somewhere with a view for fifteen minutes. Stillness is the skill. Bir
 - **9:15–10:15 AM** — Main Event: Build a Terrarium (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Collect the Contents (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7882,7 +7907,7 @@ Gather moss, small stones, and a seedling from the yard. Take only a little from
 - **9:15–10:00 AM** — Get Outside: Gather Brush Materials (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: Make & Paint With Them (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -7982,7 +8007,7 @@ Ordinary garden job. Check on the sunflowers.
 - **9:20–10:30 AM** — Main Event: **Plant a Tree** (70 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Earth Day Litter Walk (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8161,7 +8186,7 @@ Gloves on, bag in hand, walk the street. Ten minutes is plenty. Count what you f
 - **9:15–10:15 AM** — Main Event: Bottle Cap Picture (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8209,7 +8234,7 @@ Check the sunflowers. By late April there should be real seedlings. Measure with
 - **9:15–10:30 AM** — Main Event: Build a Robot (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Robot Walk (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8305,7 +8330,7 @@ Carrying water carefully is genuinely hard work — full-body, focused, and sati
 - **9:15–10:30 AM** — Main Event: Make Recycled Paper (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Water the Garden (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8356,7 +8381,7 @@ Garden check. Anything flowering yet? The marigolds move fast.
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:00 AM** — Get Outside: Play While It Develops (60 min)
 - **11:00–11:30 AM** — **The Reveal** (30 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 
@@ -8403,7 +8428,7 @@ Free play in the yard. The waiting is built into the activity, which makes it ea
 - **9:15–10:30 AM** — Main Event: Fix Something Broken (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Litter Walk (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8530,7 +8555,7 @@ Insects and pollination are met by acting them out rather than being told.
 - **9:15–10:15 AM** — Get Outside: The Bug Hunt (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: Draw What You Found (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8582,7 +8607,7 @@ Magnifying glass, a clear jar with air holes, and permission to turn over rocks.
 - **9:15–10:15 AM** — Main Event: Paint Ladybug Rocks (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hide Them in the Garden (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8630,7 +8655,7 @@ Place them among the plants for people to spot. Check the sunflower seedlings wh
 - **9:15–10:15 AM** — Main Event: The Life Cycle Wheel (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Butterfly Watching (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8679,7 +8704,7 @@ Sit near flowers and wait. Early May brings the first butterflies. Stillness is 
 - **9:15–10:15 AM** — Main Event: Build a Bee Hotel (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hang It & Pollination Game (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8727,7 +8752,7 @@ Run the bee game in the garden. It's a lot of running between points, which make
 - **9:15–10:00 AM** — Get Outside: Flower Collecting (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: Press & Frame (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8776,7 +8801,7 @@ Gather flowers, petals, and small leaves. Take only a few from any one plant, an
 - **9:15–10:15 AM** — Main Event: Make Seed Bombs (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Plant Them (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -8825,7 +8850,7 @@ Press a few into bare soil in her patch. Save some to give away as gifts.
 - **9:15–10:15 AM** — Main Event: Flower Crowns (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Garden Party (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9240,7 +9265,7 @@ The memory jar starts on Day 132 and gets read on Day 365.
 - **9:15–10:15 AM** — Main Event: The Fingerprint Family Tree (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Barefoot Grass (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9294,7 +9319,7 @@ First proper barefoot day. Grass, then pavement, then dirt. Which feels best? Kr
 - **9:15–10:30 AM** — Main Event: Make Mum's Gift *(Joseph runs this)* (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Flower Picking (45 min)
-- **11:30 AM–12:00 PM** — Hide the Gift (30 min)
+- **11:30 AM–11:45 AM** — Hide the Gift (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9395,7 +9420,7 @@ Nothing scheduled. A walk, a coffee, a sit in the garden, or nothing at all.
 - **9:15–10:15 AM** — Main Event: The Coupon Book (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
-- **11:15 AM–12:00 PM** — Redeem One (45 min)
+- **11:15 AM–11:45 AM** — Redeem One (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9442,7 +9467,7 @@ Her round: the patch, the pots, the grass head. May growth is fast now.
 - **9:15–10:15 AM** — Main Event: Make Something to Send (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Post It (45 min)
-- **11:15 AM–12:00 PM** — Video Call (45 min)
+- **11:15 AM–11:45 AM** — Video Call (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9490,7 +9515,7 @@ Walk to a real postbox. The clang of the flap is genuinely satisfying at this ag
 - **9:15–10:15 AM** — Main Event: Start the Memory Jar (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Chalk Obstacle Course (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9665,7 +9690,7 @@ Vesak falls on Day 140 and closes the week quietly.
 - **9:15–10:15 AM** — Main Event: Oobleck (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hose Rinse & Free Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9719,7 +9744,7 @@ The clean-up *is* the outdoor time. Hose off hands, the tray, and the patio, and
 - **9:15–10:15 AM** — Main Event: Build & Erupt a Volcano (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Erupt It Again (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9770,7 +9795,7 @@ Take it outside and build a bigger cone from real mud. Outdoor eruptions can be 
 - **9:15–10:00 AM** — Main Event: Bubble Mix & Wands (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Giant Bubbles** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9865,7 +9890,7 @@ The waiting between tracings is the outdoor time. Nothing needs planning.
 - **9:15–10:00 AM** — Main Event: Sink or Float Predictions (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Build a Boat That Floats (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9913,7 +9938,7 @@ Take the tub outside. Try leaf boats, stick rafts, and folded paper too.
 - **9:15–10:15 AM** — Main Event: The Magnet Test (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Magnet Walk (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -9961,7 +9986,7 @@ Take the magnet on a walk. Test railings, gates, signposts, cars, and drain cove
 - **9:20–10:20 AM** — Main Event: Lanterns & Kindness to Animals (60 min)
 - **10:20–10:35 AM** — Snack: Vegetarian (15 min)
 - **10:35–11:20 AM** — Get Outside: Put Out Water & Seed (45 min)
-- **11:20 AM–12:00 PM** — The One-Minute Sit (40 min)
+- **11:20 AM–11:45 AM** — The One-Minute Sit (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10087,7 +10112,7 @@ Real-life helpers get thanked on Day 143.
 - **9:15–10:15 AM** — Main Event: Make a Cape (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Hero Training Course (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10141,7 +10166,7 @@ Jump from a step, crawl under a chair, balance along a line, run to the fence an
 - **9:15–10:15 AM** — Main Event: Thank You Cards for Real Helpers (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Deliver Them (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10189,7 +10214,7 @@ Walk the route and hand them over. Let her do the handing, even if she goes shy.
 - **9:15–9:45 AM** — Main Event Prep: Set Up the Rescues (30 min)
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:15 AM** — Get Outside: **The Rescue Mission** (75 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10237,7 +10262,7 @@ This is the outdoor session. Give it the full time and let her repeat rescues sh
 - **9:15–10:00 AM** — Main Event: The Choices Game (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Chalk Obstacle Course (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10284,7 +10309,7 @@ Let her design a course and then teach *you* the rules. Being the rule-maker is 
 - **9:15–10:30 AM** — Main Event: Build the HQ (75 min)
 - **10:30–10:45 AM** — Snack *(inside HQ)* (15 min)
 - **10:45–11:30 AM** — Get Outside: Barefoot Grass (45 min)
-- **11:30 AM–12:00 PM** — HQ Play (30 min)
+- **11:30 AM–11:45 AM** — HQ Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10334,7 +10359,7 @@ Late May grass is at its best. Barefoot, both kids. Kreston's balance improves f
 - **9:15–10:15 AM** — Main Event: Real Helper Skills (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10382,7 +10407,7 @@ Watering is her established job now. Notice out loud that she does it without be
 - **9:15–10:15 AM** — Main Event: Make the Medals (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Free Play (45 min)
-- **11:15 AM–12:00 PM** — **The Ceremony** (45 min)
+- **11:15 AM–11:45 AM** — **The Ceremony** (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10508,7 +10533,7 @@ Real fire safety is rehearsed on Day 152, inside the play.
 - **9:15–10:15 AM** — Main Event: Make Paper Poppies (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10561,7 +10586,7 @@ Ordinary garden round. Check whether the sunflowers are taller than she is yet.
 - **9:15–10:15 AM** — Get Outside: The Mapping Walk (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: Draw the Map (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10609,7 +10634,7 @@ Walk the neighborhood and notice the places that help people: the fire station, 
 - **9:20–10:15 AM** — Main Event: The Look-Back (55 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Repeat a Favorite (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10657,7 +10682,7 @@ Whatever she picked. Repeating a good day is not a waste of a day.
 - **9:20–10:00 AM** — Main Event: The Poppy Moment (40 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **Family Cookout & Picnic** (75 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch outside
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10704,7 +10729,7 @@ The unofficial start of summer. Eat outside, let her help set up, and stay out a
 - **9:15–10:00 AM** — Main Event: Firefighter Hat & Safety Plan (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Put Out the Fire** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10753,7 +10778,7 @@ Chalk flames on the driveway. She sprays them out with a water bottle. Redraw an
 - **9:15–10:30 AM** — Main Event: The Clinic (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Bug Check (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -10802,7 +10827,7 @@ Check the bug hotel from Day 102. Anybody home yet? Magnifying glass out.
 - **9:15–10:15 AM** — Main Event: Parade Prep (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Parade** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11228,7 +11253,7 @@ Kreston turns one on Day 156.
 - **9:15–10:30 AM** — Main Event: Azlyn Makes the Banner (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Water the Garden (45 min)
-- **11:30 AM–12:00 PM** — Hang the Decorations (30 min)
+- **11:30 AM–11:45 AM** — Hang the Decorations (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11329,7 +11354,7 @@ Take the same walk you took with him as a newborn, and photograph him in the sam
 - **9:15–10:00 AM** — Main Event: Ice Cube Painting (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Ice Melt Race (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11377,7 +11402,7 @@ Put ice cubes in different spots — sun, shade, on grass, on concrete. Which va
 - **9:15–9:45 AM** — Main Event: Make Color Cards (30 min)
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:15 AM** — Get Outside: **The Color Hunt** (75 min)
-- **11:15 AM–12:00 PM** — Sort the Finds (45 min)
+- **11:15 AM–11:45 AM** — Sort the Finds (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11425,7 +11450,7 @@ This is the outdoor time — a full hour of close looking with a clear goal.
 - **9:15–10:30 AM** — Main Event: Tie-Dye Shirts (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Free Play (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11475,7 +11500,7 @@ The dye needs to sit. Early June, warm, nothing scheduled.
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:00 AM** — Get Outside: Play While It Develops (60 min)
 - **11:00–11:30 AM** — **The Reveal** (30 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 
@@ -11523,7 +11548,7 @@ Free play in the sun. Hats on. The waiting is built in.
 - **9:15–10:15 AM** — Main Event: Build a Rainbow Plate (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Picnic in the Garden (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch outside
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11649,7 +11674,7 @@ Kreston is a walking one-year-old now, which changes the risk entirely.
 - **9:20–10:00 AM** — Main Event: Life Jacket Practice & Rules Poster (40 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Sprinkler Play (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11704,7 +11729,7 @@ Free, joyful, low-stakes water. Rules established, then fun — in that order al
 - **9:15–10:15 AM** — Main Event: Build Boats That Carry Cargo (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Boat Testing** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11753,7 +11778,7 @@ Take the tub outside. Add a hose current, or race them along a channel of water 
 - **9:15–10:15 AM** — Main Event: Noodle Construction (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Noodle Water Play (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11802,7 +11827,7 @@ Set up the water run outside. It will occupy both children for a genuinely long 
 - **9:15–10:00 AM** — Main Event: Breath Control Games (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Water Play (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11850,7 +11875,7 @@ Sprinkler, hose, or paddling pool. Practice the blowing in real water if she's w
 - **9:15–10:30 AM** — Main Event: Ice Excavation (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Frozen Sponge Toss (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11900,7 +11925,7 @@ Wet sponges frozen overnight, thrown and caught outside. Cold, wet, and much sof
 - **9:15–9:45 AM** — Main Event Setup: Build the Wash Station (30 min)
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:30 AM** — Get Outside: **The Car Wash** (90 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -11949,7 +11974,7 @@ Ninety minutes, and she'll likely still be going. This is one of the highest-val
 - **9:15–10:00 AM** — Main Event: Set Up the Stations & Make Medals (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **The Water Olympics** (75 min)
-- **11:30 AM–12:00 PM** — Medal Ceremony (30 min)
+- **11:30 AM–11:45 AM** — Medal Ceremony (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12073,7 +12098,7 @@ A family recipe gets written down and recorded on Day 172.
 - **9:15–10:15 AM** — Main Event: Make the Banner & Prep Red Food (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12127,7 +12152,7 @@ Ordinary garden round. Check the sunflowers — they should be well up by mid-Ju
 - **9:20–10:20 AM** — Main Event: The Cookout & Celebration Table (60 min)
 - **10:20–10:35 AM** — Snack: Red Ice Pops (15 min)
 - **10:35–11:30 AM** — Get Outside: **Music & Movement Parade** (55 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Cookout Lunch
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12231,7 +12256,7 @@ Whatever he'd actually enjoy. He gets the day.
 - **9:15–10:30 AM** — Main Event: Cook a Family Recipe (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Longest Day Walk (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(what you cooked)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12278,7 +12303,7 @@ Walk in the evening if you can, and point out how light it still is. Compare to 
 - **9:15–10:15 AM** — Main Event: Draw Someone You Admire (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sprinkler Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12325,7 +12350,7 @@ Hot late-June day. Sprinkler, no agenda.
 - **9:15–10:00 AM** — Main Event: Build the Playlist (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Backyard Dance Party** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12373,7 +12398,7 @@ Outside, loud, in the sun. Neighbors will hear it. That's fine.
 - **9:15–10:15 AM** — Main Event: The Gratitude Hearts (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Family Picnic Circle** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch outside
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12498,7 +12523,7 @@ Day 182 is the halfway point of the year.
 - **9:15–10:15 AM** — Main Event: Build the Countdown Chain (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sprinkler Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12550,7 +12575,7 @@ Hot late June. Sprinkler, hats, plenty of water to drink.
 - **9:15–10:15 AM** — Main Event: Splatter Fireworks (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hose Clean-Up & Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12599,7 +12624,7 @@ Hosing paint off hands and the patio becomes the water play. Plan it that way.
 - **9:15–10:00 AM** — Main Event: Explore a Whole Watermelon (45 min)
 - **10:00–10:20 AM** — Snack: Watermelon (20 min)
 - **10:20–11:30 AM** — Get Outside: **The Seed Spitting Contest** (70 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12648,7 +12673,7 @@ Chalk a start line on the driveway. Everyone spits a seed. **Mark where each one
 - **9:15–10:15 AM** — Main Event: Star Stencils & Resist Painting (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12696,7 +12721,7 @@ Sprinkler or hose while it dries. The drying time is built into the plan.
 - **9:15–10:00 AM** — Main Event: Make the Wands (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Firework Dancing** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12744,7 +12769,7 @@ Music outside, wands going, running in big arcs. The ribbons trail beautifully a
 - **9:15–10:15 AM** — Main Event: Paint Rocks (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Hide Them & Chalk Mural (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -12793,7 +12818,7 @@ Walk the block hiding rocks, then come home and cover the driveway in chalk.
 - **9:20–10:20 AM** — Main Event: The Half-Year Look Back (60 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:30 AM** — Get Outside: Revisit a Favorite (55 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13218,7 +13243,7 @@ Ribbon wands stand in for sparklers all week.
 - **9:15–10:15 AM** — Main Event: Make Flags (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sprinkler Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13272,7 +13297,7 @@ Wave the flags through the sprinkler. They'll be ruined. Make more.
 - **9:15–10:15 AM** — Main Event: Decorate & Prep (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Decorate the Trike (45 min)
-- **11:15 AM–12:00 PM** — Make Ice Pops for Tomorrow (45 min)
+- **11:15 AM–11:45 AM** — Make Ice Pops for Tomorrow (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13370,7 +13395,7 @@ Sprinkler, water balloons, and ribbon wands. Keep it in the shade as the day hea
 - **9:15–10:15 AM** — Main Event: Make a Bell & Sound Exploring (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sound Walk (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13418,7 +13443,7 @@ Take a spoon and tap things — the fence, a gate, a drainpipe, a railing. Which
 - **9:15–10:15 AM** — Main Event: Oil & Water Fireworks (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13466,7 +13491,7 @@ Sprinkler or hose. It's July; the outdoor half can just be water most days.
 - **9:15–10:00 AM** — Main Event: Make a Crown & Torch (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Statue Games** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13515,7 +13540,7 @@ Sprinkler or hose. It's July; the outdoor half can just be water most days.
 - **9:15–10:15 AM** — Main Event: The Week's Collage (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Water Games (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13647,7 +13672,7 @@ The noodle water run from Day 195 will get used all summer.
 - **9:15–10:15 AM** — Main Event: Build the Beach (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Beach Day** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch on the towel
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13702,7 +13727,7 @@ The whole morning outside. Shade, water, hats, and no schedule.
 - **9:15–10:30 AM** — Main Event: The Tallest Sandcastle (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Water Play (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13751,7 +13776,7 @@ Hose, sprinkler, or the water bin. Rinse the sand off as part of the fun.
 - **9:15–10:15 AM** — Main Event: Sort the Treasure (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Buried Treasure Hunt (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13800,7 +13825,7 @@ Bury the shells in the sand bin and hunt them out with a sieve. Count them back 
 - **9:15–10:15 AM** — Main Event: Wave Bottles (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Make Real Waves (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13850,7 +13875,7 @@ In the paddling pool or a big bin, make waves with your hands. Float a boat on t
 - **9:15–10:15 AM** — Main Event: Sand Painting (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Footprint Trails (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13900,7 +13925,7 @@ Wet the sand and make footprints, handprints, and toy animal prints. Compare siz
 - **9:15–9:45 AM** — Main Event Setup: Build the Run (30 min)
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:30 AM** — Get Outside: **The Water Run** (90 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -13949,7 +13974,6 @@ Ninety minutes. This is one of the best-value setups in the whole book and she'l
 - **9:15–10:15 AM** — Main Event: Set Up the Party (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Beach Party** (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch on the towels
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14079,7 +14103,7 @@ Day 200 lands here, with two hundred-grids side by side.
 - **9:15–10:15 AM** — Main Event: Shake-a-Bag Ice Cream (60 min)
 - **10:15–10:35 AM** — Snack: Eat It (20 min)
 - **10:35–11:20 AM** — Get Outside: Water Play (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14135,7 +14159,7 @@ Sprinkler or hose to cool down and wash off. Arms will be tired.
 - **9:15–10:30 AM** — Main Event: Build the Shop (75 min)
 - **10:30–10:45 AM** — Snack *(bought from her)* (15 min)
 - **10:45–11:30 AM** — Get Outside: Run the Shop Outside (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14235,7 +14259,7 @@ Two long outdoor stretches while the layers set. Sprinkler, water run, or the sa
 - **9:20–10:20 AM** — Main Event: The 200 Poster (60 min)
 - **10:20–10:35 AM** — Snack: Sundae Bar (15 min)
 - **10:35–11:30 AM** — Get Outside: Revisit a Favorite (55 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14283,7 +14307,7 @@ Ask which outdoor thing she's liked most since Day 100 and do it again.
 - **9:15–10:15 AM** — Main Event: Pattern Kabobs (60 min)
 - **10:15–10:35 AM** — Snack: Eat Them (20 min)
 - **10:35–11:20 AM** — Get Outside: Sprinkler Play (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14333,7 +14357,7 @@ Cool down and rinse sticky hands.
 - **9:15–10:15 AM** — Main Event: Build a Sundae (60 min)
 - **10:15–10:35 AM** — Snack: Eat It (20 min)
 - **10:35–11:20 AM** — Get Outside: Water Play (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14381,7 +14405,6 @@ Wash up outside and stay out.
 - **9:15–10:15 AM** — Main Event: Invitations & Setup (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Ice Cream Social** (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14514,7 +14537,7 @@ Day 209 pairs a pretend ocean clean-up with a real litter walk.
 - **9:15–10:15 AM** — Main Event: Ocean Sensory Bin (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14568,7 +14591,7 @@ Take the bin outside if you can. Everything is easier outside in July.
 - **9:15–10:15 AM** — Main Event: Paper Plate Jellyfish (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Float & Drift Game (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14618,7 +14641,7 @@ Jellyfish don't swim — they drift. Play a game where she can only move when yo
 - **9:15–10:15 AM** — Main Event: Octopus Prints & Counting (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Eight-Legged Games (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14667,7 +14690,7 @@ Crab walk, bear crawl, and "eight-legged" races where two people move together. 
 - **9:15–10:15 AM** — Main Event: Make the Fishing Game (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Fishing Tournament (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14719,7 +14742,7 @@ Spread the fish on the grass or float them in the paddling pool. Time her, or co
 - **9:15–10:15 AM** — Main Event: The Deep Sea Cave (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14768,7 +14791,7 @@ Out of the dark and into the light. Sprinkler or the water run.
 - **9:15–10:15 AM** — Main Event: The Reef Mural (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14817,7 +14840,7 @@ Whatever's working best this week. Repeat the winner.
 - **9:15–10:15 AM** — Main Event: Build the Aquarium (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
-- **11:15 AM–12:00 PM** — Give Tours (45 min)
+- **11:15 AM–11:45 AM** — Give Tours (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -14947,7 +14970,7 @@ Stargazing on Day 216, weather permitting.
 - **9:15–10:30 AM** — Main Event: Pitch the Tent (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Set Up the Campsite (45 min)
-- **11:30 AM–12:00 PM** — Camp Play (30 min)
+- **11:30 AM–11:45 AM** — Camp Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch at camp
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15001,7 +15024,7 @@ Mark out the site — a fire circle of stones, a path, a spot for shoes. The lay
 - **9:15–10:15 AM** — Main Event: Build a Pretend Campfire (60 min)
 - **10:15–10:30 AM** — Snack: S'mores (15 min)
 - **10:30–11:15 AM** — Get Outside: Firewood Collecting (45 min)
-- **11:15 AM–12:00 PM** — Campfire Circle (45 min)
+- **11:15 AM–11:45 AM** — Campfire Circle (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15052,7 +15075,7 @@ Gather sticks and sort them by size — kindling, medium, large. Sorting by size
 - **9:15–10:15 AM** — Main Event: Make Shadow Puppets (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sun Shadow Play (45 min)
-- **11:15 AM–12:00 PM** — The Puppet Show *(in the tent)* (45 min)
+- **11:15 AM–11:45 AM** — The Puppet Show *(in the tent)* (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15101,7 +15124,7 @@ Outside, sun shadows are fixed in size but move all day. Compare to the torch, w
 - **9:15–10:00 AM** — Main Event: Make Trail Mix (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **The Hike** (75 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15152,7 +15175,7 @@ A real walk somewhere slightly further than usual. Stop for trail mix halfway �
 - **9:15–10:15 AM** — Main Event: The Treasure Map (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Follow the Map** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15249,7 +15272,7 @@ Blanket on the grass after dark. Look for the first star, the moon, a satellite 
 - **9:30–10:15 AM** — Camp Games (45 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Break Camp Together (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15673,7 +15696,7 @@ She designs the obstacle course herself on Day 223.
 - **9:15–10:15 AM** — Main Event: Make Medals & the Scoreboard (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Event One — Running** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15726,7 +15749,7 @@ Sprints, then a slow race (last one to the line wins), then a backwards race.
 - **9:15–10:00 AM** — Main Event: Make Sock Balls & Targets (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Event Two — Throwing** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15774,7 +15797,7 @@ Targets in the yard, distances marked in chalk. Add up points at the end and rec
 - **9:15–10:00 AM** — Main Event: Set Up the Balance Course (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Event Three — Balance** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15822,7 +15845,7 @@ Add curbs, low walls, and logs. Hold her hand for anything raised.
 - **9:15–10:15 AM** — Main Event: Make the Pins (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Event Four — Bowling** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15871,7 +15894,7 @@ Set up on a flat path or the driveway. Chalk a foul line.
 - **9:15–9:45 AM** — Main Event: Make the Baton & Team Flags (30 min)
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:15 AM** — Get Outside: **Event Five — The Relay** (75 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15919,7 +15942,7 @@ Long course, several variants, plenty of turns. This is the most tiring event of
 - **9:15–10:15 AM** — Main Event: **She Designs the Course** (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Event Six — The Course** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -15966,7 +15989,7 @@ Everyone runs it, including adults. Being slower than Mum at something and faste
 - **9:15–10:15 AM** — Main Event: Ceremony Prep (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Closing Ceremony** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16098,7 +16121,7 @@ The map goes up on Day 225 and stays up.
 - **9:15–10:15 AM** — Main Event: Passports & the Map (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Pack the Suitcase Walk (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16152,7 +16175,7 @@ Walk to somewhere and back as a "journey." Pack a small bag with what she thinks
 - **9:15–10:15 AM** — Main Event: Cherry Blossoms & Origami (60 min)
 - **10:15–10:35 AM** — Snack: Rice Balls (20 min)
 - **10:35–11:20 AM** — Get Outside: **Hanami Picnic** (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16202,7 +16225,7 @@ Eat under any tree. That's the whole tradition — *hanami* means "flower viewin
 - **9:15–10:15 AM** — Main Event: Papel Picado & Alebrijes (60 min)
 - **10:15–10:35 AM** — Snack: Tortillas (20 min)
 - **10:35–11:20 AM** — Get Outside: Hang the Banners (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch: Quesadillas
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16251,7 +16274,7 @@ String the papel picado across the porch or between two chairs outside. It'll fl
 - **9:15–10:15 AM** — Main Event: Beaded Necklaces & Animal Prints (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Safari Walk** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16300,7 +16323,7 @@ Binoculars out. Look for animals in your own neighborhood — birds, squirrels, 
 - **9:15–10:15 AM** — Main Event: Rangoli & Spice Smelling (60 min)
 - **10:15–10:35 AM** — Snack: Naan & Yogurt Dip (20 min)
 - **10:35–11:20 AM** — Get Outside: Chalk Rangoli (45 min)
-- **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:20 AM–11:45 AM** — Free Play (25 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16349,7 +16372,7 @@ A big symmetrical chalk pattern at the front door. It'll wash away, which is tra
 - **9:15–10:15 AM** — Main Event: Dot Painting & Kangaroo Craft (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Hopping Sports** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16398,7 +16421,7 @@ Kangaroo hop races. Both feet together. Then hop with something in the "pouch" w
 - **9:15–10:15 AM** — Main Event: Review the Journey (60 min)
 - **10:15–10:35 AM** — Snack: A Bit of Everything (20 min)
 - **10:35–11:30 AM** — Get Outside: World Music Dance Party (55 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16512,7 +16535,7 @@ The week ends with her running the whole thing for real guests.
 - **9:15–10:15 AM** — Main Event: Make the Ring Toss (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Ring Toss Tournament** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16567,7 +16590,7 @@ Move the line back a step each time she scores. Everyone plays, including adults
 - **9:15–10:15 AM** — Main Event: Make Bean Bags & Targets (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Toss Game** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16619,7 +16642,7 @@ Run it as a proper stall. Five throws per go, total the score, beat the previous
 - **9:15–10:15 AM** — Main Event: The Face Painting Stall (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Show Off & Photos (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16671,7 +16694,7 @@ Go outside in the paint. Walk to a neighbour. Being seen is the point.
 - **9:15–10:00 AM** — Main Event: Build the Tower (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Strongman Tournament** (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16720,7 +16743,7 @@ Everyone throws. Chalk each person's best score on the driveway beside the meter
 - **9:15–10:30 AM** — Main Event: Make Tickets & Prizes (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Test the Ticket System (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16770,7 +16793,7 @@ Play the games from earlier in the week using tickets properly. Earn, save, rede
 - **9:15–10:15 AM** — Main Event: Paper Carousel & Game Signs (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Silly Games** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16820,8 +16843,8 @@ Egg-and-spoon with a ball. Backwards walking race. Balance a beanbag on your hea
 - **9:15–10:15 AM** — Main Event: Set Up the Whole Carnival (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **THE CARNIVAL** (75 min)
-- **11:45 AM–12:00 PM** — Pack Down Together (15 min)
-- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
+- **11:45 AM–11:55 AM** — Pack Down Together (10 min)
+- **11:55 AM–12:00 PM** — 🤸 Wiggle Time (5 min)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 
@@ -16934,7 +16957,7 @@ The last week of summer. It ends with a family concert.
 - **9:15–10:15 AM** — Main Event: The Sound Laboratory (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Marching Band** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -16994,7 +17017,7 @@ Pots, pans, shakers, and wooden spoons. March round the yard or the block. Loud 
 - **9:15–10:15 AM** — Main Event: Build a Drum Kit (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Loud & Quiet Games** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17042,7 +17065,7 @@ Drum outside. Play "follow the volume" — she copies loud, soft, fast, slow as 
 - **9:15–10:15 AM** — Main Event: The Box Guitar (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Glass Music (45 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17092,7 +17115,7 @@ Take the glasses outside on a tray. Let her arrange them low to high and play a 
 - **9:15–10:00 AM** — Main Event: Make Ribbon Wands (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **Freeze Dance & Movement Games** (75 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17140,7 +17163,7 @@ Outside, loud, with room to run. Add "musical statues" and "walk like…" betwee
 - **9:15–10:00 AM** — Main Event: Copy the Pattern (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Echo Games (60 min)
-- **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:15 AM–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17187,7 +17210,7 @@ Echo shouting — she calls, you call back. Try it somewhere with a real echo if
 - **9:15–10:30 AM** — Main Event: Plan & Rehearse the Concert (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Make the Stage (45 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17236,7 +17259,7 @@ Chalk the stage, hang streamers, set out seats. Setting up is part of the event.
 - **9:15–10:15 AM** — Main Event: Final Set-Up & Costumes (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **THE CONCERT** (60 min)
-- **11:30 AM–12:00 PM** — Pack Down Together (30 min)
+- **11:30 AM–11:45 AM** — Pack Down Together (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17674,7 +17697,7 @@ Labor Day lands on Monday, Day 249, and it gets a real fix-it session with real 
 - **9:15–10:15 AM** — Main Event: The Home Post Office (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Postbox Walk** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17727,7 +17750,7 @@ Walk to the nearest real post box or mailbox with the one real letter. She carri
 - **9:15–10:15 AM** — Main Event: The Lending Library (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Library Walk** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17780,7 +17803,6 @@ Walk to your actual library. She takes the tote. Point out the real version of e
 - **9:15–10:15 AM** — Main Event: The Market Stall (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Real Market Trip** (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17838,7 +17860,6 @@ Go to an actual farmers' market or the produce aisle. She has her own short list
 - **9:15–10:30 AM** — Main Event: The Fix-It Station (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Who's Working Today Walk** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17903,7 +17924,7 @@ It's a public holiday, so walk the neighbourhood and notice who's working anyway
 - **9:15–10:15 AM** — Main Event: The Recycling Depot (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Ten-Piece Litter Patrol** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -17957,7 +17978,7 @@ Gloves on, bag out, tongs in hand. **Ten pieces, then stop.** A number makes it 
 - **9:15–10:15 AM** — Main Event: The Bakery Counter (60 min, plus rising)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: **The Bread Delivery Round** (45 min)
-- **11:15 AM–12:00 PM** — Baking & Free Play (45 min)
+- **11:15 AM–11:45 AM** — Baking & Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18015,7 +18036,7 @@ While the dough rises, walk a delivery round with the empty bags — practise th
 - **9:15–10:15 AM** — Main Event: Make the Thank-You Badges (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Thank-You Round** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18142,7 +18163,7 @@ Joseph's birthday falls on Monday, Day 256, and it gets the day. Azlyn plans it.
 - **9:15–10:15 AM** — Main Event: Make the Field Journal (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The First Expedition** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18195,7 +18216,7 @@ Walk the boundary of wherever you're using this week — the garden, the yard, t
 - **9:15–10:15 AM** — Get Outside: **The Square Metre Survey** (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: The Survey Page (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18253,7 +18274,6 @@ The survey itself is the outdoor block today — an hour on the ground at the ed
 - **9:15–10:30 AM** — Main Event: The Dig Site (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Stone Sort** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18366,7 +18386,7 @@ Wherever she picked. Field journals come along — it's still explorer week — 
 - **9:15–10:15 AM** — Main Event: Make a Compass (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Staking the Four Corners** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18422,7 +18442,6 @@ Take the compass and the flags outside and find north. Stake the N flag at the n
 - **9:15–10:15 AM** — Get Outside: **The Final Collection** (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Main Event: The Field Museum (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18602,7 +18621,7 @@ The autumn equinox lands mid-week and the leaves are turning, which gives the co
 - **9:15–10:15 AM** — Main Event: The Colour Wheel (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Primary Colour Patrol** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18654,7 +18673,7 @@ Out with one job: find something purely red, something purely yellow, and someth
 - **9:15–10:20 AM** — Main Event: Straw Shapes (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Chalk Shapes on the Drive** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18711,7 +18730,7 @@ Draw six big shapes on the pavement — circle, square, triangle, rectangle, sta
 - **9:15–10:20 AM** — Main Event: The Stained Glass Window (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Shape Hunt Round the Block** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18762,7 +18781,7 @@ Walk and name shapes on buildings — round windows, triangular roofs, rectangul
 - **9:15–10:15 AM** — Main Event: The Colour Lab (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The One-Colour Collection** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18817,7 +18836,7 @@ She picks one colour before you leave the house. Then everything collected on th
 - **9:15–10:20 AM** — Main Event: The Shape Sorting Machine (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Playground Shape Audit** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18874,7 +18893,6 @@ Take a clipboard. Find and tally every shape in the playground — circles on th
 - **9:15–10:15 AM** — Get Outside: **The Autumn Colour Walk** (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Main Event: The Autumn Palette (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -18927,7 +18945,6 @@ Out for the leaves and the seeds, with a bag each. **The rule is nothing off a t
 - **9:15–10:30 AM** — Main Event: Shape Town (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Chalk Shape Town** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19048,7 +19065,7 @@ The most important thing in this week is that none of it is a test. She's four. 
 - **9:15–10:15 AM** — Main Event: The Name Puzzle (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Giant Chalk Name** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19100,7 +19117,7 @@ Chalk her name across the whole drive or path, one letter per paving slab, lette
 - **9:15–10:15 AM** — Main Event: The Salt Tray (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Water Writing on the Fence** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19154,7 +19171,7 @@ A bucket of water and a fat decorator's brush. She paints letters, shapes, and w
 - **9:15–10:10 AM** — Main Event: Rhyming Soup (55 min)
 - **10:10–10:30 AM** — Snack (20 min)
 - **10:30–11:30 AM** — Get Outside: **The Silly Rhyme Walk** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19205,7 +19222,7 @@ Rhyme everything you pass, badly. *A tree — a bee — a knee.* *A car — a st
 - **9:15–10:15 AM** — Main Event: The Sound Post Boxes (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The S Scavenge** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19256,7 +19273,7 @@ One sound, one walk. **Find ten things that start with *sss*.** Sticks, stones, 
 - **9:15–10:20 AM** — Main Event: Make the Alphabet Book (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Five-Letter Collection** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19314,7 +19331,7 @@ Out with the book and a bag. **Find one real thing outside for each of her five 
 - **9:15–10:20 AM** — Main Event: The Sign Maker (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Sign-Spotting Round** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19366,7 +19383,6 @@ Out to look at real print. Street names, shop signs, STOP, the bus number, the o
 - **9:20–10:30 AM** — Main Event: The A Party (70 min)
 - **10:30–10:45 AM** — Snack: **Apples, Apricots, Animal Crackers** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The A Hunt** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19791,7 +19807,7 @@ The aim isn't counting higher. She can probably recite to twenty already, and re
 - **9:15–10:15 AM** — Main Event: The Number Line (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The House Number Walk** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19843,7 +19859,7 @@ Walk the street and find the numbers on the doors. **Look for 1 to 10 in order**
 - **9:15–10:15 AM** — Main Event: The Counting Jar (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Hundred Steps** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19897,7 +19913,7 @@ Walk the street and find the numbers on the doors. **Look for 1 to 10 in order**
 - **9:15–10:15 AM** — Main Event: Ten Little Boxes (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Ten Things Collection** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -19949,7 +19965,7 @@ Egg box in hand. **Find one thing for the first hole, two for the second, three 
 - **9:15–10:20 AM** — Main Event: Dice & the Racing Track (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Chalk Hopscotch** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20004,7 +20020,7 @@ Chalk a hopscotch grid, 1 to 10. Traditional rules are too hard — **just hop t
 - **9:15–10:20 AM** — Main Event: The Measuring Morning (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **How Many Steps to the Postbox** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20056,7 +20072,6 @@ Count the steps to the postbox, or the gate, or the corner. **Then walk it again
 - **9:15–10:30 AM** — Main Event: Baking by Numbers (75 min)
 - **10:30–10:45 AM** — Snack: **the biscuits** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Traffic Tally** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20111,7 +20126,6 @@ Clipboard, three columns: cars, vans, bikes. **Ten minutes on a wall somewhere s
 - **9:20–10:30 AM** — Main Event: The Party for Number Five (70 min)
 - **10:30–10:45 AM** — Snack: **five things on a plate** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Hunt for Five Fives** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20233,7 +20247,7 @@ Columbus Day / Indigenous Peoples' Day falls on Monday, Day 284, and gets a shor
 - **9:15–10:20 AM** — Main Event: The Ramp Lab (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Hill Roll** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20285,7 +20299,6 @@ Find any slope — a hill, a bank, a sloping path. **Roll things down it:** ball
 - **9:15–10:30 AM** — Main Event: The Cardboard Car (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Vehicle Bingo** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20346,7 +20359,7 @@ Make a card of six vehicles before you go — car, van, bus, bike, lorry, motorb
 - **9:15–10:20 AM** — Main Event: The Pulley Hoist (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Tree Hoist** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20402,7 +20415,6 @@ Throw the rope over a branch and rig the same thing outside, with a bucket. **Se
 - **9:20–10:30 AM** — Main Event: The Train Line (70 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Station Watch** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20454,7 +20466,7 @@ Go and watch something real — a station, a level crossing, a bus stop, a tram.
 - **9:15–10:15 AM** — Main Event: The Balloon Rocket (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Long Line** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20509,7 +20521,6 @@ Rig the string between two trees or a fence and a post — as long as you can ma
 - **9:15–10:20 AM** — Main Event: The Bike Workshop (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **Her Own Ride** (70 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20565,7 +20576,6 @@ A proper ride on the bike she just serviced — longer than usual, and let her s
 - **9:20–10:40 AM** — Main Event: The Great Race (80 min)
 - **10:40–10:55 AM** — Snack: **the pit stop** (15 min)
 - **10:55–11:45 AM** — Get Outside: **The Race Down the Path** (50 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20684,7 +20694,7 @@ The moon journal starts on Friday and runs the whole week, so it needs starting 
 - **9:15–10:15 AM** — Main Event: Make the Moon Journal (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Daytime Moon Hunt** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20737,7 +20747,6 @@ The moon journal starts on Friday and runs the whole week, so it needs starting 
 - **9:15–10:10 AM** — Main Event: Build the Solar System (55 min)
 - **10:10–10:25 AM** — Snack (15 min)
 - **10:25–11:45 AM** — Get Outside: **The Solar System Walk** (80 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20795,7 +20804,6 @@ The walk is the activity. **Count the steps between each planet out loud** and l
 - **9:15–10:30 AM** — Main Event: The Spacesuit & Mission Patch (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Moonwalking** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20852,7 +20860,7 @@ Walk to the park **as though gravity is a sixth of normal** — huge slow bounds
 - **9:15–10:20 AM** — Main Event: Craters (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Crater Hunt** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20907,7 +20915,7 @@ Look for real dents in the world — potholes, puddles in hollows, a dip where a
 - **9:15–10:20 AM** — Main Event: The Alien Zoo (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Habitat Survey** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -20964,7 +20972,7 @@ Pick three spots outside — under a hedge, on open grass, in a puddle — and f
 - **9:15–10:20 AM** — Main Event: The Torch Planetarium (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Torch Walk** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21018,7 +21026,6 @@ Out after tea with two torches, in the actual dark. **Look up first, before the 
 - **9:20–10:40 AM** — Main Event: The Mission (80 min)
 - **10:40–10:55 AM** — Snack: **space food** (15 min)
 - **10:55–11:45 AM** — Get Outside: **The Landing Site** (50 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21141,7 +21148,6 @@ There's one rule the whole week runs on, and it's worth saying on Friday morning
 - **9:15–10:00 AM** — Main Event: Make the Field Guide (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Get Outside: **The Log-Rolling Hunt** (90 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21198,7 +21204,7 @@ Ninety minutes of lifting and looking. **Lift the log towards you** so anything 
 - **9:15–10:20 AM** — Main Event: The Worm Farm (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Charming the Worms** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21255,7 +21261,6 @@ Ninety minutes of lifting and looking. **Lift the log towards you** so anything 
 - **9:15–10:00 AM** — Get Outside: **The Web Walk** (45 min, early)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: Weave a Web (90 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21308,7 +21313,6 @@ Ninety minutes of lifting and looking. **Lift the log towards you** so anything 
 - **9:15–10:30 AM** — Get Outside: **Follow the Trail** (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Main Event: The Trail Map (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21360,7 +21364,6 @@ Seventy-five minutes on hands and knees along a wall. **The instruction is: foll
 - **9:15–10:20 AM** — Main Event: Make the Paper Bugs (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Hide and the Hunt** (70 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21413,7 +21416,6 @@ The hiding and hunting is the outdoor block. **Run it three or four times** in d
 - **9:15–10:00 AM** — Get Outside: **The Litter Collection** (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: The Leaf Litter Tray (90 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21471,7 +21473,6 @@ A bucket and a trowel, and a hunt for the best spot — under a hedge, in a ditc
 - **9:20–10:45 AM** — Main Event: The Giant Minibeast (85 min)
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00–11:45 AM** — Get Outside: **The Release** (45 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21661,7 +21662,6 @@ Chalk a big rangoli on the doorstep or the path — a circle, then petals round 
 - **9:15–10:30 AM** — Main Event: Make Fossils (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Specimen Collection** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21830,7 +21830,6 @@ Out to buy or pick marigolds if you can — most places still have them in early
 - **9:15–10:00 AM** — Main Event: The Measuring Kit (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Get Outside: **Pace Out a Dinosaur** (90 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & **an early nap**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21889,7 +21888,7 @@ Take the strings and the chalk to a path, a car park, or a quiet street. **Lay t
 - **9:15–10:20 AM** — Main Event: Teeth (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Teeth Hunt** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -21943,7 +21942,6 @@ Look for **evidence of eating** — leaves with bites out of them, a nibbled haz
 - **9:20–10:00 AM** — Get Outside: **The Landscape Collection** (40 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: The Dinosaur World (90 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22377,7 +22375,6 @@ By Thursday there's a breakfast on the table that she produced end to end. Veter
 - **9:15–10:30 AM** — Main Event: Grain to Flour to Flatbread (75 min)
 - **10:30–10:45 AM** — Snack: **the flatbreads** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Field Walk** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22431,7 +22428,6 @@ Find a field, an allotment, or any patch of grown-over ground and look at what's
 - **9:15–10:30 AM** — Main Event: Fleece to String (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Wool Hunt** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22484,7 +22480,7 @@ If there are sheep near you, walk a fence line and **collect the wool caught on 
 - **9:15–10:20 AM** — Main Event: The Egg Investigation (65 min)
 - **10:20–10:35 AM** — Snack: **scrambled eggs** (15 min)
 - **10:35–11:35 AM** — Get Outside: **Shells for the Birds** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22541,7 +22537,6 @@ Rinse and dry the shells, crush them, and **put them out for the birds** — the
 - **9:15–10:30 AM** — Main Event: Milking, Butter & Paneer (75 min)
 - **10:30–10:45 AM** — Snack: **butter on yesterday's flatbread** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Milk Round** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22603,7 +22598,6 @@ Go and look at where milk comes from at your end of it — the shop shelf, the f
 - **9:15–10:00 AM** — Main Event: Learn the Whistles (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Get Outside: **The Sheepdog Trial** (90 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22658,7 +22652,6 @@ Take the whole thing outside — the garden, the park, a quiet field — with a 
 - **9:15–10:30 AM** — Main Event: The Winter Barn (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Shelter Hunt** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22714,7 +22707,7 @@ Where do animals shelter round here? **Look properly:** under a hedge, in a hole
 - **9:45–10:15 AM** — Eating it, together, at a properly laid table
 - **10:30–11:00 AM** — Get Outside: **The Thank-You Visit** (30 min)
 - **11:00 AM** — **The minute of silence**, or one slow breath
-- **11:00 AM–12:00 PM** — Free Play (60 min)
+- **11:00 AM–11:45 AM** — Free Play (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22837,7 +22830,6 @@ The daily readings are the spine of the week. Five minutes a day, same time, sam
 - **9:15–10:30 AM** — Main Event: Build the Weather Station (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Siting the Station** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22892,7 +22884,6 @@ Walk the garden or yard looking for the right spot — **open, flat, not under a
 - **9:20–10:30 AM** — Main Event: Making Rainbows (70 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Rainbow Hunt** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -22947,7 +22938,6 @@ Hunt for colours split by water and light: **an oily puddle on a road**, a wet w
 - **9:20–10:30 AM** — Main Event: Clouds & Rain (70 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Cloud Watch** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23010,7 +23000,6 @@ Lie on a coat on the ground and look up for ten minutes. **Name the type first, 
 - **9:20–10:15 AM** — Main Event: Make the Wind Scale (55 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **Rating the Wind** (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23070,7 +23059,6 @@ Seventy-five minutes with the flip-book, rating everywhere: the garden, the stre
 - **9:10–10:30 AM** — Main Event: Ice Suncatchers & the Salt Test (80 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Hanging the Suncatchers** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23127,7 +23115,6 @@ Turn them out — **a splash of warm water on the underside of the dish releases
 - **9:20–10:20 AM** — Main Event: The Water Cycle Bag (60 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Disappearing Puddle** (70 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23182,7 +23169,6 @@ Find a puddle on a hard surface and **chalk right round its edge.** Come back in
 - **9:30–10:45 AM** — Main Event: The Forecast (75 min)
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:45 AM** — Get Outside: **Checking the Forecast** (45 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23301,7 +23287,6 @@ Thanksgiving is on Thursday, which is the right end for it. Everything up to Wed
 - **9:15–10:30 AM** — Main Event: The Year Wheel (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Four Seasons Walk** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23359,7 +23344,6 @@ Thanksgiving is on Thursday, which is the right end for it. Everything up to Wed
 - **9:15–10:45 AM** — Get Outside: **Choosing the Tree** (90 min)
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:50 AM** — Main Event: The Tree File (50 min)
-- **11:50 AM–12:00 PM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23412,7 +23396,6 @@ Ninety minutes to look at a lot of trees and pick one. **Let her reject several.
 - **9:15–10:20 AM** — Main Event: Planting Bulbs (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Bulb Bed** (70 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23467,7 +23450,6 @@ Plant some straight into the ground as well, in a spot she chooses. **Mark it wi
 - **9:15–10:15 AM** — Main Event: The Missing List (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **Building the Log Pile** (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23521,7 +23503,6 @@ Plant some straight into the ground as well, in a spot she chooses. **Mark it wi
 - **9:15–10:15 AM** — Main Event: The Rotting Jar (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Rot Patrol** (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23578,7 +23559,6 @@ Go and find things at every stage: a fresh fallen leaf, a skeletal one with only
 - **9:15–10:30 AM** — Main Event: The Seed Library (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Last Seed Round** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23749,7 +23729,6 @@ It ends on Thursday with her cooking dinner. Not helping — **cooking it**, wit
 - **9:15–10:20 AM** — Main Event: Knife Skills (65 min)
 - **10:20–10:35 AM** — Snack: **what she cut** (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Vegetable Shop** (70 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23808,7 +23787,7 @@ Go and buy tomorrow's tasting things and Sunday's dinner. **She chooses three ve
 - **9:15–10:20 AM** — Main Event: The Taste Test (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Five Tastes Hunt** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23866,7 +23845,7 @@ Go to a shop with the five words on a card and **find one food for each.** Sour 
 - **9:15–10:15 AM** — Main Event: The Leftovers Challenge (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The One Missing Thing** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — **Lunch, which is what she planned**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23917,7 +23896,7 @@ Go to a shop with the five words on a card and **find one food for each.** Sour 
 - **9:15–10:15 AM** — Main Event: Pasta from Two Things (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Walk While It Rests** (60 min)
-- **11:30 AM–12:00 PM** — **Rolling and cutting** (30 min)
+- **11:30 AM–11:45 AM** — **Rolling and cutting** (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — **Lunch: the pasta**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -23978,7 +23957,7 @@ Half an hour out while the dough rests, and **tell her that's why you're going.*
 - **9:15–10:20 AM** — Main Event: The Washing Up Station (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Scraps to the Compost** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24034,7 +24013,7 @@ Take the peelings and scraps out to the compost or the food bin. **Look at what'
 - **9:15–10:20 AM** — Main Event: Quick Pickles (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Menu Walk** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24089,7 +24068,7 @@ Take the peelings and scraps out to the compost or the food bin. **Look at what'
 - **9:00–9:30 AM** — Morning Meeting: **The Menu and the List** (30 min)
 - **9:30–10:45 AM** — Get Outside: **The Shop, Her List** (75 min)
 - **10:45–11:00 AM** — Snack (15 min)
-- **11:00 AM–12:00 PM** — Prep: chopping, laying the table, the menu cards
+- **11:00 AM–11:45 AM** — Prep: chopping, laying the table, the menu cards (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24533,7 +24512,6 @@ Friday she invents the characters. Saturday she builds the place they live. Sund
 - **9:15–10:30 AM** — Main Event: The Character Workshop (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Name Walk** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24589,7 +24567,6 @@ Collect names from the world: street signs, shop names, house names, the names o
 - **9:15–9:50 AM** — Get Outside: **The Real Street Walk** (35 min)
 - **9:50–10:05 AM** — Snack (15 min)
 - **10:05–11:45 AM** — Main Event: The Village Street (100 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24642,7 +24619,6 @@ Short and early, before the building. **Look at the details you'd never normally
 - **9:15–10:30 AM** — Main Event: The Story Spine (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Setting Walk** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24699,7 +24675,7 @@ Go and find where the story happens. **A gate, a wood, a bridge, an alley, a par
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:45 AM** — Main Event: Making the Book (90 min)
 - **10:45–11:00 AM** — Snack (15 min)
-- **11:00 AM–12:00 PM** — Get Outside: **The Library Trip** (60 min)
+- **11:00 AM–11:45 AM** — Get Outside: **The Library Trip** (45 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24752,7 +24728,6 @@ Take the finished book to the library or a bookshop. **Look at how real books ar
 - **9:15–10:00 AM** — Get Outside: **The Sound Collecting Walk** (45 min)
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: The Radio Play (90 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24808,7 +24783,6 @@ Forty-five minutes recording the world. **Stand still and record ten seconds of 
 - **9:15–10:30 AM** — Main Event: The Missing Thing (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Clue Trail** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24861,7 +24835,7 @@ Run a short version outside — **string tied to gateposts, arrows chalked on th
 - **9:20–10:30 AM** — Main Event: Preparing Opening Night (70 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: **The Poster Round** (45 min)
-- **11:30 AM–12:00 PM** — Dress rehearsal (30 min)
+- **11:30 AM–11:45 AM** — Dress rehearsal (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -24982,7 +24956,7 @@ December is the right time for it. The garden birds are hungry and close, the co
 - **9:15–10:20 AM** — Main Event: The Great Animal Sort (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Spotting Walk** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25033,7 +25007,7 @@ Sixty minutes counting real animals — birds, a dog, a squirrel, a cat, a worm,
 - **9:15–10:20 AM** — Main Event: Beaks Are Tools (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Watching Real Beaks** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25085,7 +25059,7 @@ Take bread or seed to a park or a pond. **Watch what different birds actually do
 - **9:15–10:20 AM** — Main Event: The Blubber Glove (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Cold Test** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25140,7 +25114,6 @@ Out in the actual December cold. **What is she wearing that keeps her warm, and 
 - **9:15–10:20 AM** — Main Event: Making Tracks (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Track Hunt** (70 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25194,7 +25167,7 @@ Mud, frost, a soft path, a puddle edge, snow if you're lucky. **December is the 
 - **9:15–10:20 AM** — Main Event: Predator & Prey Eyes (65 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Eyes Walk** (60 min)
-- **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:35 AM–11:45 AM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25246,7 +25219,6 @@ Look at every animal you meet and call it: **hunter or hunted?** Birds, dogs, ca
 - **9:15–10:15 AM** — Main Event: The Feeding Station (60 min)
 - **10:15–10:30 AM** — Snack: **porridge** (15 min)
 - **10:30–11:45 AM** — Get Outside: **Hanging It & The Count** (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25308,7 +25280,6 @@ Hang everything, then do the count from outside if it's not too cold, or from th
 - **9:20–10:15 AM** — Get Outside: **The Survey Round** (55 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Main Event: The Field Guide (75 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25433,7 +25404,6 @@ The last full working week of the book, and it's a wet one. Sinking and floating
 - **9:15–10:30 AM** — Main Event: Sink or Float (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Puddle Tests** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25484,7 +25454,6 @@ Take the bowl of water out, or use a real puddle. **Test outdoor things:** a sto
 - **9:15–10:30 AM** — Main Event: The Boat Yard (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Launch** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25537,7 +25506,7 @@ Take the fleet out to a puddle, a stream, a gutter, or a paddling pool. **Race t
 - **9:15–10:15 AM** — Main Event: The Crystal Garden (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Looking for Crystals** (60 min)
-- **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:30 AM–11:45 AM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & **birthday prep once she's asleep**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25655,7 +25624,6 @@ Wherever she says, however ordinary. The park you always go to, the same swing, 
 - **9:15–10:30 AM** — Main Event: Ice Lanterns (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Measuring the Day** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25717,7 +25685,6 @@ Wherever she says, however ordinary. The park you always go to, the same swing, 
 - **9:15–10:30 AM** — Main Event: Snowflakes (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Catching Kit** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -25771,7 +25738,6 @@ Wherever she says, however ordinary. The park you always go to, the same swing, 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:20 AM** — Morning Meeting: **Plan the Run** (20 min)
 - **9:20–11:45 AM** — Main Event & Outside: **The Great Water Works** (145 min, with a snack in the middle)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -26058,7 +26024,6 @@ Out to the postbox with whatever's finished. **Everyone needs to leave the house
 - **9:15–10:30 AM** — Main Event: The Pass-On Box (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Delivery** (60 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -26110,7 +26075,6 @@ Take the box to a charity shop, a nursery, a food bank, or a family you know. **
 - **9:15–10:45 AM** — Main Event: The 2028 Calendar (90 min)
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:45 AM** — Get Outside: **Checking on Things** (45 min)
-- **11:45 AM–12:00 PM** — Free Play (15 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
@@ -26226,7 +26190,6 @@ Her choice, and "nowhere" is a legitimate answer. If she wants the walk, everyon
 - **9:20–10:45 AM** — Main Event: Letters to Next Year (85 min)
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:50 AM** — Get Outside: **The Route Check** (50 min)
-- **11:50 AM–12:00 PM** — Free Play (10 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
