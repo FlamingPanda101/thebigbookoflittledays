@@ -131,6 +131,23 @@ Every week begins with a briefing page before the first day:
 
 ---
 
+### 📚 Book Time & 🏃 Workout — on every day
+
+Two fixed slots appear in all 365 schedules:
+
+- `- **12:30–12:45 PM** — 📚 Book Time (before nap)`
+- `- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*`
+
+Book Time sits between lunch and nap because reading is the settling
+routine, not an activity — same books, same spot, every day. On days
+with word-times rather than clock-times (holidays, birthdays), the
+lines read **After lunch** and **While she's down**.
+
+The workout is **Brooklyn's**, deliberately placed inside nap/quiet
+time because that is the only hour of the day that is reliably hers.
+If it should instead be a family movement session, move it to
+4:00–4:30 PM and rename it.
+
 ## 🌤️ THE AFTERNOON BLOCK
 
 Every day runs **9:00 AM – 6:00 PM**. The morning is the taught part; the

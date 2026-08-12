@@ -127,6 +127,8 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race *(while it rises)* (45 min)
 - **11:15 AM–12:00 PM** — Shape & Bake (45 min)
 - **12:00 PM** — Lunch *(warm bread)*
+- **12:30–12:45 PM** — 📚 Book Time (before nap)
+- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bread From Scratch
 **🧰 Complete Materials List:**
@@ -180,6 +182,8 @@ Time her getting dressed while the dough rises. The bread is doing its work; so 
 - **10:35–11:20 AM** — Get Outside: Lucky Red Walk (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
 - **12:00 PM** — Lunch: **Long Noodles**
+- **12:30–12:45 PM** — 📚 Book Time (before nap)
+- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Red Envelopes & Lucky Cleaning
 **🧰 Complete Materials List:**
@@ -231,6 +235,8 @@ Walk the neighborhood and count everything red you can find. Red is the color of
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
 - **12:00 PM** — Lunch & Nap Prep
+- **12:30–12:45 PM** — 📚 Book Time (before nap)
+- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Roll, Cut & Decorate
 **🧰 Complete Materials List:**
@@ -278,6 +284,8 @@ Find frozen things. Bring one inside in a bowl and see if it melts before the co
 - **10:15–11:00 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
 - **12:00 PM** — Lunch & Nap Prep
+- **12:30–12:45 PM** — 📚 Book Time (before nap)
+- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Butter
 **🧰 Complete Materials List:**
@@ -324,6 +332,8 @@ Make a trail and follow each other's tracks. Good arm-tiring follow-up to all th
 - **10:15–11:15 AM** — Main Event: Build Pizza Faces (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
 - **12:00 PM** — Lunch *(the pizzas)*
+- **12:30–12:45 PM** — 📚 Book Time (before nap)
+- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build Pizza Faces
 **🧰 Complete Materials List:**
@@ -370,6 +380,8 @@ Out early today so the pizzas are the finale. Short and brisk.
 - **10:30–11:15 AM** — Get Outside: Puddle Map (45 min)
 - **11:15 AM–12:00 PM** — Open for Business (45 min)
 - **12:00 PM** — Lunch & Nap Prep
+- **12:30–12:45 PM** — 📚 Book Time (before nap)
+- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Set Up the Bakery
 **🧰 Complete Materials List:**
@@ -417,6 +429,8 @@ Rank the puddles. If frozen, test which ones crack under a boot and which hold.
 - **10:45–11:30 AM** — Get Outside: Deliver It (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
 - **12:00 PM** — Lunch & Nap Prep
+- **12:30–12:45 PM** — 📚 Book Time (before nap)
+- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bake & Box It Up
 **🧰 Complete Materials List:**
