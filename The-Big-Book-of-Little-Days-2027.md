@@ -79,7 +79,78 @@ I love you.
 
 <div style="page-break-after: always;"></div>
 
+<a id="wiggle-time"></a>
+
+## 🤸 Wiggle Time — 11:45 AM, Every Day
+
+**Fifteen minutes of hard movement right before lunch.** It's there for a
+reason: a child who has properly moved eats better and naps better, and
+the stretch between the end of the morning and food on the table is
+where most bad half-hours in a day begin.
+
+**How to run it:** pick one thing, do it hard, stop before she's had
+enough. It should end with pink cheeks and heavy breathing. **No
+materials, no setup, no preparation** — if it needs anything fetched,
+pick a different one.
+
+---
+
+### 🎲 Pick One — the Wiggle List
+
+**Animal Moves** — Bear walk on hands and feet, crab walk backwards, frog
+jumps, snake slither on the floor, one-legged flamingo. Call them out and
+change every twenty seconds.
+
+**Freeze Dance** — Music on, everybody dances, music off, everybody
+freezes. **Stopping is harder than moving** and it's the part doing the work.
+
+**The Sock Slide** — Thick socks, smooth floor, run and glide. Mark a
+line to try to reach.
+
+**Cushion Islands** — Every cushion in the house on the floor. The carpet
+is lava. Get from one end of the room to the other.
+
+**Wall Push** — Push the wall as hard as she can for a slow count of ten.
+Then push you over. **Heavy resistance work calms a wound-up child faster
+than anything else on this list.**
+
+**Jump the Line** — Tape or a scarf on the floor. Jump over it forwards,
+backwards, sideways, on one leg, with eyes shut.
+
+**Up and Down** — Stand up, lie down, stand up, lie down. Ten times, fast,
+racing you. Absurdly effective and requires nothing.
+
+**Balloon Keep-Up** — One balloon, don't let it touch the floor. Then only
+with heads. Then only with feet.
+
+**Carry the Heavy Thing** — The washing basket, a bag of potatoes, a
+cushion pile. Across the room and back. **Real weight, real job.**
+
+**Stair Laps** — Up and down four times, counting out loud. Adult at the
+bottom. **Not on a day when everyone's tired and clumsy.**
+
+**Roly-Poly Race** — Rolling across the floor sideways, log-style. Makes
+everybody dizzy and cheerful.
+
+**The Shake-Out** — Shake one hand, then both, then an arm, a leg, the
+whole body, faster and faster until everybody falls over. **Good last
+resort — it works even when nothing else will.**
+
+---
+
+> 💡 **Tip:** Do it outside if the weather allows and it doubles as fresh
+> air. Do it indoors without apology when it doesn't.
+
+> 👶 **Kreston joins in.** Most of these work at his level with no
+> changes — he'll crawl the animal moves, get carried through the lava,
+> and find the shake-out hysterical. Freeze Dance is the one he'll
+> genuinely play with her.
+
+<div style="page-break-after: always;"></div>
+
 ## 📚 Table of Contents
+
+- [🤸 **Wiggle Time — the daily movement list**](#wiggle-time)
 
 > *Tap any week to jump to it. Each month is also its own printable booklet, with four backup days and an extra-ideas page at the back.*
 
@@ -337,10 +408,10 @@ It's also the opening week of the year, so Day 1 sets up the time capsule you'll
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: First Walk of the Year (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Look at the Capsule
 - **3:00–4:00 PM** — Afternoon Thread: The First Page
 - **4:00–5:00 PM** — Out Again: The Same Walk, Slower
@@ -406,10 +477,10 @@ Bundle up and walk the same route you'll walk all year. Notice what the trees lo
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:15 AM–12:00 PM** — Free Play in the Box (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Back in the Box
 - **3:00–4:00 PM** — Afternoon Thread: Furnish the House
 - **4:00–5:00 PM** — Out Again: Follow the Tracks Back
@@ -468,10 +539,10 @@ Walk out and make a deliberate trail of footprints — in snow, mud, frost, or w
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Sort the Stamps
 - **3:00–4:00 PM** — Afternoon Thread: Shape Hunt Round the House
 - **4:00–5:00 PM** — Out Again: One More Circle
@@ -532,10 +603,10 @@ Find: something bare, something evergreen, something frozen, something red, and 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bundle-Up Race (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Rebuild One Tower
 - **3:00–4:00 PM** — Afternoon Thread: Knock It Down Properly
 - **4:00–5:00 PM** — Out Again: Bundle Up Again
@@ -594,10 +665,10 @@ Time how fast she can get coat, hat, boots, and mittens on. Try to beat the reco
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Five-Minute Cold Walk + Free Play (45 min)
 - **11:00 AM–12:00 PM** — Playdough Building (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Playdough, Still Warm
 - **3:00–4:00 PM** — Afternoon Thread: The Playdough Kitchen
 - **4:00–5:00 PM** — Out Again: Five More Minutes
@@ -660,10 +731,10 @@ Just to the end of the street and back. Short, brisk, enough to reset everybody'
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Test the Bridge
 - **3:00–4:00 PM** — Afternoon Thread: Make It Longer
 - **4:00–5:00 PM** — Out Again: Bridges Outside
@@ -724,10 +795,10 @@ Find every frozen thing in the yard — puddle skins, icicles, frost on a leaf. 
 - **10:15–10:30 AM** — Snack *(inside the fort)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bird Watch (45 min)
 - **11:15 AM–12:00 PM** — Fort Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Back into the Fort
 - **3:00–4:00 PM** — Afternoon Thread: Fort Improvements
 - **4:00–5:00 PM** — Out Again: Feed the Birds
@@ -863,9 +934,9 @@ Expect a great deal of repetition. That's not the week failing to progress; repe
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Puddle Map (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Humpty & His Wall
 **🧰 Complete Materials List:**
@@ -917,9 +988,9 @@ Find every puddle on your street — frozen or wet — and rank them. Biggest, d
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Frost Drawing (45 min)
 - **11:00 AM–12:00 PM** — Kitchen Band (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Shakers
 **🧰 Complete Materials List:**
@@ -966,8 +1037,8 @@ Draw shapes with a fingertip in the frost or fog on a car window or a storm door
 - **10:15–11:00 AM** — Get Outside: Five-Minute Cold Walk (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
 - **Evening** — Star show at bedtime
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Constellation Jar
 **🧰 Complete Materials List:**
@@ -1013,9 +1084,9 @@ Out to the end of the street and back. In January the stars are sometimes visibl
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bird Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Five Little Ducks Puppets
 **🧰 Complete Materials List:**
@@ -1062,9 +1133,9 @@ Stand still and count birds for five minutes. Winter birds are easy to spot on b
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Ice Hunt (45 min)
 - **11:00 AM–12:00 PM** — Boat Free Play (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Laundry Basket Boat
 **🧰 Complete Materials List:**
@@ -1110,9 +1181,9 @@ Find frozen things — puddle skins, icicles, frost on a leaf. Bring one inside 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:15 AM–12:00 PM** — Bus Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Bus
 **🧰 Complete Materials List:**
@@ -1158,9 +1229,9 @@ Make a trail of deliberate footprints and follow each other's tracks back. In fr
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:15 AM–12:00 PM** — The Concert (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Rhyme Time Concert
 **🧰 Complete Materials List:**
@@ -1276,9 +1347,9 @@ MLK Day falls on Day 18 and fits the week naturally.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Hide the Rocks (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Paint Kindness Rocks
 **🧰 Complete Materials List:**
@@ -1329,9 +1400,9 @@ Walk the neighborhood and leave them in places people will find them — a bench
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bundle-Up Race (45 min)
 - **11:00 AM–12:00 PM** — Do the Jobs (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Helper Chart
 **🧰 Complete Materials List:**
@@ -1377,9 +1448,9 @@ Time how fast she can get her own coat, hat, boots, and mittens on. Beat the rec
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Deliver It (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(soup)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Soup Together
 **🧰 Complete Materials List:**
@@ -1426,9 +1497,9 @@ Walk the soup over. Let her hand it off herself and say what it is, even if she 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Map (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Dream Cloud
 **🧰 Complete Materials List:**
@@ -1474,9 +1545,9 @@ Find and rank every puddle on the street. Frozen ones crack satisfyingly under a
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Mail Them (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Thank You Cards
 **🧰 Complete Materials List:**
@@ -1522,9 +1593,9 @@ Walk to a real mailbox. Let her do the dropping-in. The clang of the lid is deep
 - **10:00–10:15 AM** — Snack: One Bowl, Two Spoons (15 min)
 - **10:15–11:00 AM** — Get Outside: Bird Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Turn-Taking Games
 **🧰 Complete Materials List:**
@@ -1570,8 +1641,8 @@ Take turns with one pair of binoculars, or one "spotting spot." Turn-taking outs
 - **10:30–11:15 AM** — Get Outside: Frost Drawing (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
 - **Evening** — Family circle at dinner
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Paper Heart Appreciations
 **🧰 Complete Materials List:**
@@ -1687,9 +1758,9 @@ Several activities this week are designed to fail on the first attempt. That's d
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: DIY Photo Puzzle
 **🧰 Complete Materials List:**
@@ -1741,9 +1812,9 @@ Find every frozen thing in the yard. Bring one inside in a bowl and check it eve
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bundle-Up Race (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make & Play Memory Cards
 **🧰 Complete Materials List:**
@@ -1788,9 +1859,9 @@ Beat yesterday's dressing time. Add mittens as the final challenge — they're b
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sort Everything
 **🧰 Complete Materials List:**
@@ -1835,9 +1906,9 @@ Something bare, something evergreen, something frozen, something red, something 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: What's Missing & Mystery Bag
 **🧰 Complete Materials List:**
@@ -1883,9 +1954,9 @@ Make tracks and follow each other's back. Try to walk exactly in each other's fo
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Puddle Map (45 min)
 - **11:00 AM–12:00 PM** — Run the Maze (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Tape Maze on the Floor
 **🧰 Complete Materials List:**
@@ -1931,9 +2002,9 @@ Find every puddle on the street and rank them. If they're frozen, test which one
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bird Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Pattern
 **🧰 Complete Materials List:**
@@ -1977,9 +2048,9 @@ Watch for patterns outside — fence posts, footprints, the way birds land in a 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside / Indoor Hunt: Follow the Clues (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Great Treasure Hunt
 **🧰 Complete Materials List:**
@@ -2099,9 +2170,9 @@ Groundhog Day lands on Day 33 and brings shadows into it.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Collect More Pinecones (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Pinecone Owl
 **🧰 Complete Materials List:**
@@ -2152,9 +2223,9 @@ Gather pinecones, interesting sticks, and seed pods. Winter is actually the easi
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Real Track Hunt (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Track Stamps
 **🧰 Complete Materials List:**
@@ -2200,9 +2271,9 @@ Look for real tracks in snow, mud, or frost — birds, squirrels, cats, dogs. Bi
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Hang It & Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Pinecone Bird Feeder
 **🧰 Complete Materials List:**
@@ -2249,9 +2320,9 @@ Pick the spot together, hang it, then stand back and wait quietly for a few minu
 - **10:15–10:30 AM** — Snack *(in the cave)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Five-Minute Cold Walk (45 min)
 - **11:15 AM–12:00 PM** — Cave Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Bear Cave
 **🧰 Complete Materials List:**
@@ -2298,9 +2369,9 @@ Out and back quickly. Look for places an animal might shelter — under a bush, 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Shadow Check at Midday (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Shadow Play
 **🧰 Complete Materials List:**
@@ -2346,9 +2417,9 @@ Go outside around noon and look for your shadows. If it's sunny, trace one in ch
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Listening Walk (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sound Map
 **🧰 Complete Materials List:**
@@ -2393,9 +2464,9 @@ Walk slowly and stop every twenty steps to listen for ten seconds. Count how man
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Forest Story
 **🧰 Complete Materials List:**
@@ -2809,9 +2880,9 @@ Lunar New Year falls on Day 37, and long noodles are involved.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race *(while it rises)* (45 min)
 - **11:15 AM–12:00 PM** — Shape & Bake (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(warm bread)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bread From Scratch
 **🧰 Complete Materials List:**
@@ -2864,9 +2935,9 @@ Time her getting dressed while the dough rises. The bread is doing its work; so 
 - **10:20–10:35 AM** — Snack: Oranges (15 min)
 - **10:35–11:20 AM** — Get Outside: Lucky Red Walk (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch: **Long Noodles**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Red Envelopes & Lucky Cleaning
 **🧰 Complete Materials List:**
@@ -2917,9 +2988,9 @@ Walk the neighborhood and count everything red you can find. Red is the color of
 - **10:15–10:30 AM** — Snack *(a cookie, obviously)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Roll, Cut & Decorate
 **🧰 Complete Materials List:**
@@ -2966,9 +3037,9 @@ Find frozen things. Bring one inside in a bowl and see if it melts before the co
 - **9:50–10:15 AM** — Snack: Butter on Toast (25 min)
 - **10:15–11:00 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Butter
 **🧰 Complete Materials List:**
@@ -3014,9 +3085,9 @@ Make a trail and follow each other's tracks. Good arm-tiring follow-up to all th
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: Build Pizza Faces (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(the pizzas)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build Pizza Faces
 **🧰 Complete Materials List:**
@@ -3062,9 +3133,9 @@ Out early today so the pizzas are the finale. Short and brisk.
 - **10:15–10:30 AM** — Snack *(purchased from her)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Map (45 min)
 - **11:15 AM–12:00 PM** — Open for Business (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Set Up the Bakery
 **🧰 Complete Materials List:**
@@ -3111,9 +3182,9 @@ Rank the puddles. If frozen, test which ones crack under a boot and which hold.
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Deliver It (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bake & Box It Up
 **🧰 Complete Materials List:**
@@ -3233,9 +3304,9 @@ Presidents' Day follows immediately on Day 46.
 - **10:00–10:15 AM** — Snack: Apple Slices (15 min)
 - **10:15–11:00 AM** — Get Outside: Frost Drawing (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Hidden Heart
 **🧰 Complete Materials List:**
@@ -3286,9 +3357,9 @@ Draw hearts in the frost on the car window or storm door with a warm fingertip.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Mailbox & Make Cards
 **🧰 Complete Materials List:**
@@ -3336,9 +3407,9 @@ Something bare, evergreen, frozen, red, and animal-made. Red should be easy this
 - **10:15–10:30 AM** — Snack: Something Pink (15 min)
 - **10:30–11:20 AM** — Get Outside: Deliver Valentines (50 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Heart Garland & Delivery
 **🧰 Complete Materials List:**
@@ -3385,9 +3456,9 @@ Walk the neighborhood delivering cards. Leave one in a mailbox anonymously if sh
 - **10:15–10:30 AM** — Snack *(extra pretzels)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Pretzel Log Cabin
 **🧰 Complete Materials List:**
@@ -3433,9 +3504,9 @@ Beat the record. By now she should be genuinely faster than she was in January �
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bird Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bead Bracelets
 **🧰 Complete Materials List:**
@@ -3480,9 +3551,9 @@ Count the birds at the feeder from Day 31. Compare to the first day you hung it 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Redeem One (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Coupon Book
 **🧰 Complete Materials List:**
@@ -3527,9 +3598,9 @@ Find frozen things. February ice is often the best of the year.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:15 AM–12:00 PM** — Hide Them (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Hidden Love Notes
 **🧰 Complete Materials List:**
@@ -3648,9 +3719,9 @@ The week ends with her curating her own gallery.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Five-Minute Cold Walk (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Swirl Painting
 **🧰 Complete Materials List:**
@@ -3701,9 +3772,9 @@ Go out at dusk if you can and look at the actual sky. February evenings are clea
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Puddle Map (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Dot Painting
 **🧰 Complete Materials List:**
@@ -3748,9 +3819,9 @@ Find and rank the puddles. Look for dot patterns — raindrops on a car, footpri
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bird Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Fold-and-Press Butterflies
 **🧰 Complete Materials List:**
@@ -3795,9 +3866,9 @@ Look for symmetry outside — wings, leaves, faces. Ask her what "the same on bo
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Color Bloom
 **🧰 Complete Materials List:**
@@ -3843,9 +3914,9 @@ Tracks in the snow or mud, then follow each other back.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Foil & Dough Sculpture
 **🧰 Complete Materials List:**
@@ -3891,9 +3962,9 @@ Collect materials for the sculpture. Bare, evergreen, frozen, red, animal-made.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Ice Hunt (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Stamp & Print
 **🧰 Complete Materials List:**
@@ -3940,9 +4011,9 @@ Find frozen things. Press a hand into fresh snow or mud and look at the print it
 - **10:15–10:30 AM** — Snack: Gallery Refreshments (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race (45 min)
 - **11:15 AM–12:00 PM** — The Opening (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Hang the Gallery
 **🧰 Complete Materials List:**
@@ -4057,9 +4128,9 @@ The self-portrait on Day 63 is worth keeping and repeating.
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:00 AM** — Get Outside: Five Senses Walk (60 min)
 - **11:00–11:45 AM** — Fill In the Chart (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Five Senses Chart
 **🧰 Complete Materials List:**
@@ -4109,9 +4180,9 @@ Stop five times. Each stop, focus on one sense only and name what it gives you.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Touch Board
 **🧰 Complete Materials List:**
@@ -4157,9 +4228,9 @@ Feel the textures outside too — bark, ice, brick, a metal railing. Cold metal 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Listening Walk (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sound Matching Shakers
 **🧰 Complete Materials List:**
@@ -4204,9 +4275,9 @@ Stop every twenty steps and listen for ten seconds. Count how many separate soun
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Puddle Map (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Life-Size Body Trace
 **🧰 Complete Materials List:**
@@ -4252,9 +4323,9 @@ Rank the puddles. Early March puddles are the best of the year — the melt has 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bird Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Emotion Faces & Mirror Play
 **🧰 Complete Materials List:**
@@ -4300,9 +4371,9 @@ On the walk, guess how people passing by might be feeling from their faces and h
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Five-Minute Cold Walk + Running (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Find Your Heartbeat
 **🧰 Complete Materials List:**
@@ -4346,9 +4417,9 @@ Run to the end of the street and back. Check heartbeats outside where you can se
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Mirror Self-Portrait
 **🧰 Complete Materials List:**
@@ -4764,9 +4835,9 @@ The tent goes up on Day 64 and stays up all week. Eid al-Fitr falls on Day 68.
 - **10:15–10:30 AM** — Snack *(inside the tent)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Check (45 min)
 - **11:15 AM–12:00 PM** — Tent Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Big Top
 **🧰 Complete Materials List:**
@@ -4818,9 +4889,9 @@ Early March means the ground is thawing. Go out and find the muddiest spot in th
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Wind Test (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Scarf Juggling
 **🧰 Complete Materials List:**
@@ -4864,9 +4935,9 @@ Take a scarf or ribbon outside and find the windiest spot in the yard. March win
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:00 AM** — Get Outside: Balance Course (60 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Tightrope
 **🧰 Complete Materials List:**
@@ -4912,9 +4983,9 @@ Curbs, low walls, logs, and the edge of the driveway. Hold her hand for anything
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Puddle Jumping (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Clown Noses & Silly Faces
 **🧰 Complete Materials List:**
@@ -4961,9 +5032,9 @@ March puddles are back. Boots on, no rules, jump in every one. Rank them by spla
 - **10:20–10:35 AM** — Snack: Dates (15 min)
 - **10:35–11:20 AM** — Get Outside: Deliver the Cookies (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Eid Cookies to Give Away
 **🧰 Complete Materials List:**
@@ -5011,9 +5082,9 @@ Walk the plate over. Let Azlyn hand it across and say "Eid Mubarak" if she'll tr
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Animal Obstacle Course (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Animal Act
 **🧰 Complete Materials List:**
@@ -5060,9 +5131,9 @@ Hop through the hoop like a lion, walk the rope like an elephant, crawl under a 
 - **10:15–10:30 AM** — Snack: Circus Popcorn (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Check (45 min)
 - **11:15 AM–12:00 PM** — **The Show** (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Grand Circus
 **🧰 Complete Materials List:**
@@ -5186,9 +5257,9 @@ This is the week the outdoor half of the day starts getting easier again.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bud Check (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Plant a Seed in a Cup
 **🧰 Complete Materials List:**
@@ -5240,9 +5311,9 @@ Pick one tree in the yard or on your street. Look at the branch tips. Nothing mu
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Color Walk (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Rainbow
 **🧰 Complete Materials List:**
@@ -5289,9 +5360,9 @@ Pick one color and hunt only for that. Restricting it forces her to actually loo
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Clover Hunt (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Green Bin
 **🧰 Complete Materials List:**
@@ -5338,9 +5409,9 @@ Look for real clover in the grass. Count the leaves — almost all have three. F
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Jumping (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Rainbow & Pot of Gold
 **🧰 Complete Materials List:**
@@ -5387,9 +5458,9 @@ Boots on. Look for a rainbow in a puddle with oil on it, or in the spray from a 
 - **10:15–10:30 AM** — Snack *(warm bread)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Clover Hunt (45 min)
 - **11:15 AM–12:00 PM** — Green Hunt Indoors (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Irish Soda Bread
 **🧰 Complete Materials List:**
@@ -5436,9 +5507,9 @@ Look for clover and anything else newly green. Early spring greens are a specifi
 - **9:50–10:10 AM** — Snack: Something Green (20 min)
 - **10:10–11:10 AM** — Get Outside: **The Leprechaun's Gold Hunt** (60 min)
 - **11:10 AM–12:00 PM** — Free Play (50 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Leprechaun's Gold Hunt
 **🧰 Complete Materials List:**
@@ -5484,9 +5555,9 @@ Take the whole thing outside. March weather is unpredictable; the hunt works in 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: The Spring Journal Page (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🌳 Get Outside: Signs of Spring Walk
 Hunt for evidence that spring is starting: buds on branches, green shoots, birdsong, a bug, mud instead of frozen ground. Collect what you can carry.
@@ -5612,9 +5683,9 @@ The growth chart starts on Day 83.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bud Check (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Spring Lamb
 **🧰 Complete Materials List:**
@@ -5666,9 +5737,9 @@ Visit the tree from Day 71. A week on, the buds should be visibly bigger. Compar
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Puddle Jumping (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Duckling Family
 **🧰 Complete Materials List:**
@@ -5715,9 +5786,9 @@ Ducks like puddles. Boots on, find the biggest one, and waddle through it in a l
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:20 AM** — Get Outside: Equinox Walk (45 min)
 - **11:20 AM–12:00 PM** — Spring Clean One Drawer (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: *Sabzeh* & the *Haft-Sin* Table
 **🧰 Complete Materials List:**
@@ -5767,9 +5838,9 @@ Today the day and night are almost exactly equal length. Go out and notice how m
 - **10:10–10:25 AM** — Snack: Something Sweet (15 min)
 - **10:25–11:25 AM** — Get Outside: **The Color Throw** (60 min)
 - **11:25 AM–12:00 PM** — Hose Down & Free Play (35 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Color Powder & Throw It
 **🧰 Complete Materials List:**
@@ -5821,9 +5892,9 @@ This is the outdoor activity. Give it the full hour and don't rush the rinsing-o
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: Build a Nest (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🌳 Get Outside: Nest Material Hunt
 Gather what a bird would use: small twigs, dry grass, moss, fluff, bits of string. Look up for real nests — they're still visible before the leaves come in.
@@ -5869,9 +5940,9 @@ Gather what a bird would use: small twigs, dry grass, moss, fluff, bits of strin
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Worm Patrol (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Growth Chart
 **🧰 Complete Materials List:**
@@ -5917,9 +5988,9 @@ After rain, worms end up stranded on the pavement. Move them back to the dirt. I
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Bud Check (45 min)
 - **11:15 AM–12:00 PM** — Give Tours (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Set Up the Zoo
 **🧰 Complete Materials List:**
@@ -6042,9 +6113,9 @@ The naked egg starts on Day 89 and is revealed on Day 91.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Kitchen (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Dye the Eggs
 **🧰 Complete Materials List:**
@@ -6097,9 +6168,9 @@ Give her a bowl, a spoon, and permission. Late March mud is perfect. Make mud so
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Practice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Ears & a Woven Basket
 **🧰 Complete Materials List:**
@@ -6146,9 +6217,9 @@ Hide five plastic eggs in easy places and let her find them. A practice run make
 - **9:30–10:15 AM** — Main Event: Egg Games (45 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: The Big Hunt (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Family Time
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Egg Games
 **🧰 Complete Materials List:**
@@ -6194,9 +6265,9 @@ Take the main hunt outside if the weather allows. More space, more hiding places
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Worm Patrol (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Measure & Draw the Sprouts
 **🧰 Complete Materials List:**
@@ -6242,9 +6313,9 @@ Rescue stranded worms back to the soil. Talk about what they do down there for t
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Jumping (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sink, Float & the Naked Egg
 **🧰 Complete Materials List:**
@@ -6290,9 +6361,9 @@ Test what floats in a puddle — a leaf, a stick, a stone. Same experiment, outd
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Mud Kitchen (45 min)
 - **11:00–11:45 AM** — Check the Naked Egg (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Plan the Pranks
 **🧰 Complete Materials List:**
@@ -6338,9 +6409,9 @@ Make an absurd mud recipe. Mud soup with a stick in it. Serve it to you with a s
 - **10:15–10:30 AM** — Snack *(dessert first)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Backwards Walk (45 min)
 - **11:15 AM–12:00 PM** — Reveal the Naked Egg (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Backwards Day
 **🧰 Complete Materials List:**
@@ -6760,9 +6831,9 @@ The week ends with her presenting her own science fair.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Worm Patrol (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Test the Naked Egg
 **🧰 Complete Materials List:**
@@ -6814,9 +6885,9 @@ Move stranded worms back to soil after the rain. Talk about what they do for the
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Puddle Ranking (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Eggshell Mosaic
 **🧰 Complete Materials List:**
@@ -6865,9 +6936,9 @@ Find every puddle. Rank them. April puddles are the best of the year and worth t
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Drop Test** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Protector
 **🧰 Complete Materials List:**
@@ -6913,9 +6984,9 @@ Drop from a step, then a chair, then higher if it keeps surviving. Concrete is m
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bud Check (45 min)
 - **11:00–11:45 AM** — Check the Water (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Walking Water
 **🧰 Complete Materials List:**
@@ -6961,9 +7032,9 @@ Visit the tree. Early April — buds should be opening now. Compare to the March
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Mud Kitchen (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Baking Soda & Vinegar
 **🧰 Complete Materials List:**
@@ -7011,9 +7082,9 @@ Bring a spoon and a bowl. April mud is at its peak. Let it be genuinely muddy.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Wind Chase (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Density Rainbow
 **🧰 Complete Materials List:**
@@ -7060,9 +7131,9 @@ Bubbles into the April wind. Chase and pop them.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: The Slowest Walk Ever (45 min)
 - **11:15 AM–12:00 PM** — Present the Experiments (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Science Fair
 **🧰 Complete Materials List:**
@@ -7185,9 +7256,9 @@ Day 100 lands here. Vaisakhi is on Day 104.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Plant It (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Prepare & Plant
 **🧰 Complete Materials List:**
@@ -7239,9 +7310,9 @@ The planting is the outdoor time today. Give it a full hour and don't hurry the 
 - **10:20–10:35 AM** — Snack: 100 Somethings (15 min)
 - **10:35–11:20 AM** — Get Outside: Count 100 Steps (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Hundred Collection
 **🧰 Complete Materials List:**
@@ -7287,9 +7358,9 @@ Walk and count a hundred steps together, then see how far you got. Mark the spot
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Water the Garden (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Celery & Colored Water
 **🧰 Complete Materials List:**
@@ -7336,9 +7407,9 @@ Her job, her patch, her watering can. Talk about where the water goes after it h
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Install It & Look Under Rocks (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Bug Hotel
 **🧰 Complete Materials List:**
@@ -7384,9 +7455,9 @@ Turn over two rocks or a log and see who lives underneath. Put everything back e
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Water the Garden (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Smell Test
 **🧰 Complete Materials List:**
@@ -7432,9 +7503,9 @@ Water her patch. Smell the soil after watering — wet earth has a real, distinc
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:20 AM** — Get Outside: Deliver It (45 min)
 - **11:20 AM–12:00 PM** — Bhangra Dancing (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(on the floor)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Cook & Share a Meal
 **🧰 Complete Materials List:**
@@ -7482,9 +7553,9 @@ Walk the food over. Let her hand it across.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: The Garden Journal (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🌳 Get Outside: Garden Inspection
 Check every planted thing. Anything up yet? Measure with a paper strip. Look for weeds, bugs, and evidence of anything eating the seedlings.
@@ -7611,9 +7682,9 @@ Passover begins on Day 111.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Habitat Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Paint an Animal & Its Home
 **🧰 Complete Materials List:**
@@ -7664,9 +7735,9 @@ Find homes in your own yard — a bird's nest, a spider web, a hole, a log with 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Grass Head
 **🧰 Complete Materials List:**
@@ -7714,9 +7785,9 @@ Her patch, her can. Check for the first shoots — sunflowers come up fast and s
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: The Bird Count (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Binoculars & a Bird Chart
 **🧰 Complete Materials List:**
@@ -7763,9 +7834,9 @@ Sit still somewhere with a view for fifteen minutes. Stillness is the skill. Bir
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Collect the Contents (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Terrarium
 **🧰 Complete Materials List:**
@@ -7812,9 +7883,9 @@ Gather moss, small stones, and a seedling from the yard. Take only a little from
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: Make & Paint With Them (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🌳 Get Outside: Gather Brush Materials
 Collect sticks plus things to tie to them: pine needles, leaves, long grass, a feather, a pinecone, moss.
@@ -7861,8 +7932,8 @@ Collect sticks plus things to tie to them: pine needles, leaves, long grass, a f
 - **10:35–11:20 AM** — Get Outside: Water the Garden (45 min)
 - **11:20 AM–12:00 PM** — Hide the Afikomen (40 min)
 - **Evening** — The Seder, if you're doing one
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Taste the Story
 **🧰 Complete Materials List:**
@@ -7912,9 +7983,9 @@ Ordinary garden job. Check on the sunflowers.
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Earth Day Litter Walk (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Plant a Tree
 **🧰 Complete Materials List:**
@@ -8038,9 +8109,9 @@ Day 119 requires something genuinely broken.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Litter Walk (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Sorting Station
 **🧰 Complete Materials List:**
@@ -8091,9 +8162,9 @@ Gloves on, bag in hand, walk the street. Ten minutes is plenty. Count what you f
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bottle Cap Picture
 **🧰 Complete Materials List:**
@@ -8139,9 +8210,9 @@ Check the sunflowers. By late April there should be real seedlings. Measure with
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Robot Walk (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Robot
 **🧰 Complete Materials List:**
@@ -8187,9 +8258,9 @@ Walk stiffly around the block like robots. Beeping is compulsory. Kreston will f
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:00 AM** — Get Outside: The Water Relay (60 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: How Much Water?
 **🧰 Complete Materials List:**
@@ -8235,9 +8306,9 @@ Carrying water carefully is genuinely hard work — full-body, focused, and sati
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Water the Garden (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Recycled Paper
 **🧰 Complete Materials List:**
@@ -8286,8 +8357,8 @@ Garden check. Anything flowering yet? The marigolds move fast.
 - **10:00–11:00 AM** — Get Outside: Play While It Develops (60 min)
 - **11:00–11:30 AM** — **The Reveal** (30 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sun Prints
 **🧰 Complete Materials List:**
@@ -8333,9 +8404,9 @@ Free play in the yard. The waiting is built into the activity, which makes it ea
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Litter Walk (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Fix Something Broken
 **🧰 Complete Materials List:**
@@ -8460,9 +8531,9 @@ Insects and pollination are met by acting them out rather than being told.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: Draw What You Found (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🌳 Get Outside: The Bug Hunt
 Magnifying glass, a clear jar with air holes, and permission to turn over rocks. Look under logs, in soil, on leaf undersides. Return everything exactly where it came from.
@@ -8512,9 +8583,9 @@ Magnifying glass, a clear jar with air holes, and permission to turn over rocks.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hide Them in the Garden (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Paint Ladybug Rocks
 **🧰 Complete Materials List:**
@@ -8560,9 +8631,9 @@ Place them among the plants for people to spot. Check the sunflower seedlings wh
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Butterfly Watching (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Life Cycle Wheel
 **🧰 Complete Materials List:**
@@ -8609,9 +8680,9 @@ Sit near flowers and wait. Early May brings the first butterflies. Stillness is 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hang It & Pollination Game (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Bee Hotel
 **🧰 Complete Materials List:**
@@ -8657,9 +8728,9 @@ Run the bee game in the garden. It's a lot of running between points, which make
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Main Event: Press & Frame (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🌳 Get Outside: Flower Collecting
 Gather flowers, petals, and small leaves. Take only a few from any one plant, and none from a neighbor's garden without asking — worth saying out loud.
@@ -8706,9 +8777,9 @@ Gather flowers, petals, and small leaves. Take only a few from any one plant, an
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Plant Them (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Seed Bombs
 **🧰 Complete Materials List:**
@@ -8755,9 +8826,9 @@ Press a few into bare soil in her patch. Save some to give away as gifts.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Garden Party (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Flower Crowns
 **🧰 Complete Materials List:**
@@ -9170,9 +9241,9 @@ The memory jar starts on Day 132 and gets read on Day 365.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Barefoot Grass (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Fingerprint Family Tree
 **🧰 Complete Materials List:**
@@ -9224,9 +9295,9 @@ First proper barefoot day. Grass, then pavement, then dirt. Which feels best? Kr
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Flower Picking (45 min)
 - **11:30 AM–12:00 PM** — Hide the Gift (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Handprint Bouquet
 **🧰 Complete Materials List:**
@@ -9273,8 +9344,8 @@ Pick real flowers for tomorrow — from the garden she planted, if anything's bl
 - **9:30–10:30 AM** — Main Event: The Interview (60 min)
 - **10:30–11:30 AM** — Get Outside: **Whatever You Want** (60 min)
 - **12:00 PM onward** — **Off duty.**
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: "All About Mum" Interview
 **🧰 Complete Materials List:**
@@ -9325,9 +9396,9 @@ Nothing scheduled. A walk, a coffee, a sit in the garden, or nothing at all.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
 - **11:15 AM–12:00 PM** — Redeem One (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Coupon Book
 **🧰 Complete Materials List:**
@@ -9372,9 +9443,9 @@ Her round: the patch, the pots, the grass head. May growth is fast now.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Post It (45 min)
 - **11:15 AM–12:00 PM** — Video Call (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Something to Send
 **🧰 Complete Materials List:**
@@ -9420,9 +9491,9 @@ Walk to a real postbox. The clang of the flap is genuinely satisfying at this ag
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Chalk Obstacle Course (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Start the Memory Jar
 **🧰 Complete Materials List:**
@@ -9469,8 +9540,8 @@ Draw a route on the driveway — hop here, spin here, balance along this line. L
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
 - **Evening** — The Appreciation Dinner
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Place Cards & The Circle
 **🧰 Complete Materials List:**
@@ -9595,9 +9666,9 @@ Vesak falls on Day 140 and closes the week quietly.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hose Rinse & Free Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Oobleck
 **🧰 Complete Materials List:**
@@ -9649,9 +9720,9 @@ The clean-up *is* the outdoor time. Hose off hands, the tray, and the patio, and
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Erupt It Again (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build & Erupt a Volcano
 **🧰 Complete Materials List:**
@@ -9700,9 +9771,9 @@ Take it outside and build a bigger cone from real mud. Outdoor eruptions can be 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Giant Bubbles** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bubble Mix & Wands
 **🧰 Complete Materials List:**
@@ -9749,8 +9820,8 @@ Full hour outside. Chase, pop, and try for the biggest one. Wind ruins bubbles, 
 - **10:00–11:00 AM** — Get Outside: Free Play (60 min)
 - **11:00–11:15 AM** — Part 2: Midday Shadow (15 min)
 - **Afternoon** — Part 3: Evening Shadow
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Track a Shadow
 **🧰 Complete Materials List:**
@@ -9795,9 +9866,9 @@ The waiting between tracings is the outdoor time. Nothing needs planning.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Build a Boat That Floats (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sink or Float, Then Build
 **🧰 Complete Materials List:**
@@ -9843,9 +9914,9 @@ Take the tub outside. Try leaf boats, stick rafts, and folded paper too.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Magnet Walk (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Magnet Test
 **🧰 Complete Materials List:**
@@ -9891,9 +9962,9 @@ Take the magnet on a walk. Test railings, gates, signposts, cars, and drain cove
 - **10:20–10:35 AM** — Snack: Vegetarian (15 min)
 - **10:35–11:20 AM** — Get Outside: Put Out Water & Seed (45 min)
 - **11:20 AM–12:00 PM** — The One-Minute Sit (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Lanterns & Kindness to Animals
 **🧰 Complete Materials List:**
@@ -10017,9 +10088,9 @@ Real-life helpers get thanked on Day 143.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Hero Training Course (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Cape
 **🧰 Complete Materials List:**
@@ -10071,9 +10142,9 @@ Jump from a step, crawl under a chair, balance along a line, run to the fence an
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Deliver Them (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Thank You Cards for Real Helpers
 **🧰 Complete Materials List:**
@@ -10119,9 +10190,9 @@ Walk the route and hand them over. Let her do the handing, even if she goes shy.
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:15 AM** — Get Outside: **The Rescue Mission** (75 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Rescue Mission
 **🧰 Complete Materials List:**
@@ -10167,9 +10238,9 @@ This is the outdoor session. Give it the full time and let her repeat rescues sh
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Chalk Obstacle Course (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Choices Game
 **🧰 Complete Materials List:**
@@ -10214,9 +10285,9 @@ Let her design a course and then teach *you* the rules. Being the rule-maker is 
 - **10:30–10:45 AM** — Snack *(inside HQ)* (15 min)
 - **10:45–11:30 AM** — Get Outside: Barefoot Grass (45 min)
 - **11:30 AM–12:00 PM** — HQ Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the HQ
 **🧰 Complete Materials List:**
@@ -10264,9 +10335,9 @@ Late May grass is at its best. Barefoot, both kids. Kreston's balance improves f
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Real Helper Skills
 **🧰 Complete Materials List:**
@@ -10312,9 +10383,9 @@ Watering is her established job now. Notice out loud that she does it without be
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Free Play (45 min)
 - **11:15 AM–12:00 PM** — **The Ceremony** (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Awards Ceremony
 **🧰 Complete Materials List:**
@@ -10438,9 +10509,9 @@ Real fire safety is rehearsed on Day 152, inside the play.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Paper Poppies
 **🧰 Complete Materials List:**
@@ -10491,9 +10562,9 @@ Ordinary garden round. Check whether the sunflowers are taller than she is yet.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: Draw the Map (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🌳 Get Outside: The Mapping Walk
 Walk the neighborhood and notice the places that help people: the fire station, the post box, the doctor's, the shop, the library, a neighbor's house. Take photos or make marks on paper as you go.
@@ -10539,9 +10610,9 @@ Walk the neighborhood and notice the places that help people: the fire station, 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Repeat a Favorite (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Look-Back
 **🧰 Complete Materials List:**
@@ -10587,9 +10658,9 @@ Whatever she picked. Repeating a good day is not a waste of a day.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **Family Cookout & Picnic** (75 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch outside
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Poppy Moment
 **🧰 Complete Materials List:**
@@ -10634,9 +10705,9 @@ The unofficial start of summer. Eat outside, let her help set up, and stay out a
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Put Out the Fire** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Firefighter Hat & Safety Plan
 **🧰 Complete Materials List:**
@@ -10683,9 +10754,9 @@ Chalk flames on the driveway. She sprays them out with a water bottle. Redraw an
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Bug Check (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Clinic
 **🧰 Complete Materials List:**
@@ -10732,9 +10803,9 @@ Check the bug hotel from Day 102. Anybody home yet? Magnifying glass out.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Parade** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Parade Prep
 **🧰 Complete Materials List:**
@@ -11158,9 +11229,9 @@ Kreston turns one on Day 156.
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Water the Garden (45 min)
 - **11:30 AM–12:00 PM** — Hang the Decorations (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Azlyn Makes the Banner
 **🧰 Complete Materials List:**
@@ -11210,9 +11281,9 @@ Ordinary garden round. Steady and normal on a day full of anticipation.
 - **9:20–10:15 AM** — Main Event: The First Year Timeline (55 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: The Birthday Photo Walk (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch, Nap, then **Smash Cake & Family Party**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The First Year Timeline
 **🧰 Complete Materials List:**
@@ -11259,9 +11330,9 @@ Take the same walk you took with him as a newborn, and photograph him in the sam
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Ice Melt Race (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Ice Cube Painting
 **🧰 Complete Materials List:**
@@ -11307,9 +11378,9 @@ Put ice cubes in different spots — sun, shade, on grass, on concrete. Which va
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:15 AM** — Get Outside: **The Color Hunt** (75 min)
 - **11:15 AM–12:00 PM** — Sort the Finds (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Color Hunt
 **🧰 Complete Materials List:**
@@ -11355,9 +11426,9 @@ This is the outdoor time — a full hour of close looking with a clear goal.
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Free Play (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Tie-Dye Shirts
 **🧰 Complete Materials List:**
@@ -11405,8 +11476,8 @@ The dye needs to sit. Early June, warm, nothing scheduled.
 - **10:00–11:00 AM** — Get Outside: Play While It Develops (60 min)
 - **11:00–11:30 AM** — **The Reveal** (30 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sun Prints, Again
 **🧰 Complete Materials List:**
@@ -11453,9 +11524,9 @@ Free play in the sun. Hats on. The waiting is built in.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Picnic in the Garden (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch outside
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Rainbow Plate
 **🧰 Complete Materials List:**
@@ -11579,9 +11650,9 @@ Kreston is a walking one-year-old now, which changes the risk entirely.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Sprinkler Play (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Life Jacket Practice & Rules Poster
 **🧰 Complete Materials List:**
@@ -11634,9 +11705,9 @@ Free, joyful, low-stakes water. Rules established, then fun — in that order al
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Boat Testing** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build Boats That Carry Cargo
 **🧰 Complete Materials List:**
@@ -11683,9 +11754,9 @@ Take the tub outside. Add a hose current, or race them along a channel of water 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Noodle Water Play (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Noodle Construction
 **🧰 Complete Materials List:**
@@ -11732,9 +11803,9 @@ Set up the water run outside. It will occupy both children for a genuinely long 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Water Play (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Breath Control Games
 **🧰 Complete Materials List:**
@@ -11780,9 +11851,9 @@ Sprinkler, hose, or paddling pool. Practice the blowing in real water if she's w
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Frozen Sponge Toss (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Ice Excavation
 **🧰 Complete Materials List:**
@@ -11830,9 +11901,9 @@ Wet sponges frozen overnight, thrown and caught outside. Cold, wet, and much sof
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:30 AM** — Get Outside: **The Car Wash** (90 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Car Wash
 **🧰 Complete Materials List:**
@@ -11879,9 +11950,9 @@ Ninety minutes, and she'll likely still be going. This is one of the highest-val
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **The Water Olympics** (75 min)
 - **11:30 AM–12:00 PM** — Medal Ceremony (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Water Olympics
 **🧰 Complete Materials List:**
@@ -12003,9 +12074,9 @@ A family recipe gets written down and recorded on Day 172.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water the Garden (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Banner & Prep Red Food
 **🧰 Complete Materials List:**
@@ -12057,9 +12128,9 @@ Ordinary garden round. Check the sunflowers — they should be well up by mid-Ju
 - **10:20–10:35 AM** — Snack: Red Ice Pops (15 min)
 - **10:35–11:30 AM** — Get Outside: **Music & Movement Parade** (55 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Cookout Lunch
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Cookout & Celebration Table
 **🧰 Complete Materials List:**
@@ -12107,9 +12178,9 @@ Music on, out into the yard or down the street. Dance, march, wave. Joy is the a
 - **9:00–9:30 AM** — Morning Meeting & Gift (30 min)
 - **9:30–10:30 AM** — Main Event: The "All About Daddy" Interview (60 min)
 - **10:30–11:30 AM** — Get Outside: **Joseph's Choice** (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Family Time
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: "All About Daddy" Interview
 **🧰 Complete Materials List:**
@@ -12161,9 +12232,9 @@ Whatever he'd actually enjoy. He gets the day.
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Longest Day Walk (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch *(what you cooked)*
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Cook a Family Recipe
 **🧰 Complete Materials List:**
@@ -12208,9 +12279,9 @@ Walk in the evening if you can, and point out how light it still is. Compare to 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sprinkler Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Draw Someone You Admire
 **🧰 Complete Materials List:**
@@ -12255,9 +12326,9 @@ Hot late-June day. Sprinkler, no agenda.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Backyard Dance Party** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Playlist
 **🧰 Complete Materials List:**
@@ -12303,9 +12374,9 @@ Outside, loud, in the sun. Neighbors will hear it. That's fine.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Family Picnic Circle** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch outside
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Gratitude Hearts
 **🧰 Complete Materials List:**
@@ -12428,9 +12499,9 @@ Day 182 is the halfway point of the year.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sprinkler Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Countdown Chain
 **🧰 Complete Materials List:**
@@ -12480,9 +12551,9 @@ Hot late June. Sprinkler, hats, plenty of water to drink.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Hose Clean-Up & Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Splatter Fireworks
 **🧰 Complete Materials List:**
@@ -12529,9 +12600,9 @@ Hosing paint off hands and the patio becomes the water play. Plan it that way.
 - **10:00–10:20 AM** — Snack: Watermelon (20 min)
 - **10:20–11:30 AM** — Get Outside: **The Seed Spitting Contest** (70 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Explore a Whole Watermelon
 **🧰 Complete Materials List:**
@@ -12578,9 +12649,9 @@ Chalk a start line on the driveway. Everyone spits a seed. **Mark where each one
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Star Stencils & Resist Painting
 **🧰 Complete Materials List:**
@@ -12626,9 +12697,9 @@ Sprinkler or hose while it dries. The drying time is built into the plan.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Firework Dancing** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Wands
 **🧰 Complete Materials List:**
@@ -12674,9 +12745,9 @@ Music outside, wands going, running in big arcs. The ribbons trail beautifully a
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Hide Them & Chalk Mural (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Paint Rocks
 **🧰 Complete Materials List:**
@@ -12723,9 +12794,9 @@ Walk the block hiding rocks, then come home and cover the driveway in chalk.
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:30 AM** — Get Outside: Revisit a Favorite (55 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Half-Year Look Back
 **🧰 Complete Materials List:**
@@ -13148,9 +13219,9 @@ Ribbon wands stand in for sparklers all week.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sprinkler Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Flags
 **🧰 Complete Materials List:**
@@ -13202,9 +13273,9 @@ Wave the flags through the sprinkler. They'll be ruined. Make more.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Decorate the Trike (45 min)
 - **11:15 AM–12:00 PM** — Make Ice Pops for Tomorrow (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Decorate & Prep
 **🧰 Complete Materials List:**
@@ -13250,9 +13321,9 @@ Streamers taped to handlebars and spokes. It'll take longer than you think and s
 - **9:20–10:15 AM** — Main Event: **The Backyard Parade** (55 min)
 - **10:15–10:30 AM** — Snack: Layered Ice Pops (15 min)
 - **10:30–11:30 AM** — Get Outside: Water Games & Ribbon Fireworks (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Cookout Lunch
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — Fireworks, if you're going
 
 ### 🎨 The Main Event: The Backyard Parade
@@ -13300,9 +13371,9 @@ Sprinkler, water balloons, and ribbon wands. Keep it in the shade as the day hea
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sound Walk (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Bell & Sound Exploring
 **🧰 Complete Materials List:**
@@ -13348,9 +13419,9 @@ Take a spoon and tap things — the fence, a gate, a drainpipe, a railing. Which
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Oil & Water Fireworks
 **🧰 Complete Materials List:**
@@ -13396,9 +13467,9 @@ Sprinkler or hose. It's July; the outdoor half can just be water most days.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Statue Games** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Crown & Torch
 **🧰 Complete Materials List:**
@@ -13445,9 +13516,9 @@ Sprinkler or hose. It's July; the outdoor half can just be water most days.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Water Games (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Week's Collage
 **🧰 Complete Materials List:**
@@ -13577,9 +13648,9 @@ The noodle water run from Day 195 will get used all summer.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Beach Day** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch on the towel
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Beach
 **🧰 Complete Materials List:**
@@ -13632,9 +13703,9 @@ The whole morning outside. Shade, water, hats, and no schedule.
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Water Play (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Tallest Sandcastle
 **🧰 Complete Materials List:**
@@ -13681,9 +13752,9 @@ Hose, sprinkler, or the water bin. Rinse the sand off as part of the fun.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Buried Treasure Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sort the Treasure
 **🧰 Complete Materials List:**
@@ -13730,9 +13801,9 @@ Bury the shells in the sand bin and hunt them out with a sieve. Count them back 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Make Real Waves (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Wave Bottles
 **🧰 Complete Materials List:**
@@ -13780,9 +13851,9 @@ In the paddling pool or a big bin, make waves with your hands. Float a boat on t
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Footprint Trails (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sand Painting
 **🧰 Complete Materials List:**
@@ -13830,9 +13901,9 @@ Wet the sand and make footprints, handprints, and toy animal prints. Compare siz
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:30 AM** — Get Outside: **The Water Run** (90 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Water Run
 **🧰 Complete Materials List:**
@@ -13879,9 +13950,9 @@ Ninety minutes. This is one of the best-value setups in the whole book and she'l
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Beach Party** (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch on the towels
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Beach Party
 **🧰 Complete Materials List:**
@@ -14009,9 +14080,9 @@ Day 200 lands here, with two hundred-grids side by side.
 - **10:15–10:35 AM** — Snack: Eat It (20 min)
 - **10:35–11:20 AM** — Get Outside: Water Play (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Shake-a-Bag Ice Cream
 **🧰 Complete Materials List:**
@@ -14065,9 +14136,9 @@ Sprinkler or hose to cool down and wash off. Arms will be tired.
 - **10:30–10:45 AM** — Snack *(bought from her)* (15 min)
 - **10:45–11:30 AM** — Get Outside: Run the Shop Outside (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Shop
 **🧰 Complete Materials List:**
@@ -14115,9 +14186,9 @@ Move the shop to the porch and sell to neighbors, or to stuffed animals lined up
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Water Play *(between layers)* (60 min)
 - **11:15–11:45 AM** — Layers Two and Three (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Layered Ice Pops
 **🧰 Complete Materials List:**
@@ -14165,9 +14236,9 @@ Two long outdoor stretches while the layers set. Sprinkler, water run, or the sa
 - **10:20–10:35 AM** — Snack: Sundae Bar (15 min)
 - **10:35–11:30 AM** — Get Outside: Revisit a Favorite (55 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The 200 Poster
 **🧰 Complete Materials List:**
@@ -14213,9 +14284,9 @@ Ask which outdoor thing she's liked most since Day 100 and do it again.
 - **10:15–10:35 AM** — Snack: Eat Them (20 min)
 - **10:35–11:20 AM** — Get Outside: Sprinkler Play (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Pattern Kabobs
 **🧰 Complete Materials List:**
@@ -14263,9 +14334,9 @@ Cool down and rinse sticky hands.
 - **10:15–10:35 AM** — Snack: Eat It (20 min)
 - **10:35–11:20 AM** — Get Outside: Water Play (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Sundae
 **🧰 Complete Materials List:**
@@ -14311,9 +14382,9 @@ Wash up outside and stay out.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Ice Cream Social** (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Ice Cream Social
 **🧰 Complete Materials List:**
@@ -14444,9 +14515,9 @@ Day 209 pairs a pretend ocean clean-up with a real litter walk.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Ocean Sensory Bin
 **🧰 Complete Materials List:**
@@ -14498,9 +14569,9 @@ Take the bin outside if you can. Everything is easier outside in July.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Float & Drift Game (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Paper Plate Jellyfish
 **🧰 Complete Materials List:**
@@ -14548,9 +14619,9 @@ Jellyfish don't swim — they drift. Play a game where she can only move when yo
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Eight-Legged Games (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Octopus Prints & Counting
 **🧰 Complete Materials List:**
@@ -14597,9 +14668,9 @@ Crab walk, bear crawl, and "eight-legged" races where two people move together. 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Fishing Tournament (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Fishing Game
 **🧰 Complete Materials List:**
@@ -14649,9 +14720,9 @@ Spread the fish on the grass or float them in the paddling pool. Time her, or co
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Deep Sea Cave
 **🧰 Complete Materials List:**
@@ -14698,9 +14769,9 @@ Out of the dark and into the light. Sprinkler or the water run.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Reef Mural
 **🧰 Complete Materials List:**
@@ -14747,9 +14818,9 @@ Whatever's working best this week. Repeat the winner.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Play (45 min)
 - **11:15 AM–12:00 PM** — Give Tours (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Aquarium
 **🧰 Complete Materials List:**
@@ -14877,9 +14948,9 @@ Stargazing on Day 216, weather permitting.
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Set Up the Campsite (45 min)
 - **11:30 AM–12:00 PM** — Camp Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch at camp
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Pitch the Tent
 **🧰 Complete Materials List:**
@@ -14931,9 +15002,9 @@ Mark out the site — a fire circle of stones, a path, a spot for shoes. The lay
 - **10:15–10:30 AM** — Snack: S'mores (15 min)
 - **10:30–11:15 AM** — Get Outside: Firewood Collecting (45 min)
 - **11:15 AM–12:00 PM** — Campfire Circle (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Pretend Campfire
 **🧰 Complete Materials List:**
@@ -14982,9 +15053,9 @@ Gather sticks and sort them by size — kindling, medium, large. Sorting by size
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Sun Shadow Play (45 min)
 - **11:15 AM–12:00 PM** — The Puppet Show *(in the tent)* (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Shadow Puppets
 **🧰 Complete Materials List:**
@@ -15031,9 +15102,9 @@ Outside, sun shadows are fixed in size but move all day. Compare to the torch, w
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **The Hike** (75 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Trail Mix
 **🧰 Complete Materials List:**
@@ -15082,9 +15153,9 @@ A real walk somewhere slightly further than usual. Stop for trail mix halfway �
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Follow the Map** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Treasure Map
 **🧰 Complete Materials List:**
@@ -15132,8 +15203,8 @@ Follow it properly, out loud: *"The map says the tree is next to the fence, so w
 - **10:30–11:15 AM** — Get Outside: Sun Safety & Water Play (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
 - **Evening** — **Stay up late and look at the real sky**
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Constellation Jar & Star Cards
 **🧰 Complete Materials List:**
@@ -15179,9 +15250,9 @@ Blanket on the grass after dark. Look for the first star, the moon, a satellite 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: Break Camp Together (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Breakfast in the Tent
 **🧰 Complete Materials List:**
@@ -15603,9 +15674,9 @@ She designs the obstacle course herself on Day 223.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Event One — Running** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Medals & Scoreboard
 **🧰 Complete Materials List:**
@@ -15656,9 +15727,9 @@ Sprints, then a slow race (last one to the line wins), then a backwards race.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Event Two — Throwing** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sock Balls & Targets
 **🧰 Complete Materials List:**
@@ -15704,9 +15775,9 @@ Targets in the yard, distances marked in chalk. Add up points at the end and rec
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Event Three — Balance** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Balance Course
 **🧰 Complete Materials List:**
@@ -15752,9 +15823,9 @@ Add curbs, low walls, and logs. Hold her hand for anything raised.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Event Four — Bowling** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Pins
 **🧰 Complete Materials List:**
@@ -15801,9 +15872,9 @@ Set up on a flat path or the driveway. Chalk a foul line.
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:15 AM** — Get Outside: **Event Five — The Relay** (75 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Baton & Team Flags
 **🧰 Complete Materials List:**
@@ -15849,9 +15920,9 @@ Long course, several variants, plenty of turns. This is the most tiring event of
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Event Six — The Course** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: She Designs the Course
 **🧰 Complete Materials List:**
@@ -15896,9 +15967,9 @@ Everyone runs it, including adults. Being slower than Mum at something and faste
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Closing Ceremony** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Closing Ceremony
 **🧰 Complete Materials List:**
@@ -16028,9 +16099,9 @@ The map goes up on Day 225 and stays up.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Pack the Suitcase Walk (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Passports & the Map
 **🧰 Complete Materials List:**
@@ -16082,9 +16153,9 @@ Walk to somewhere and back as a "journey." Pack a small bag with what she thinks
 - **10:15–10:35 AM** — Snack: Rice Balls (20 min)
 - **10:35–11:20 AM** — Get Outside: **Hanami Picnic** (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Cherry Blossoms & Origami
 **🧰 Complete Materials List:**
@@ -16132,9 +16203,9 @@ Eat under any tree. That's the whole tradition — *hanami* means "flower viewin
 - **10:15–10:35 AM** — Snack: Tortillas (20 min)
 - **10:35–11:20 AM** — Get Outside: Hang the Banners (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch: Quesadillas
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Papel Picado & Alebrijes
 **🧰 Complete Materials List:**
@@ -16181,9 +16252,9 @@ String the papel picado across the porch or between two chairs outside. It'll fl
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Safari Walk** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Beaded Necklaces & Animal Prints
 **🧰 Complete Materials List:**
@@ -16230,9 +16301,9 @@ Binoculars out. Look for animals in your own neighborhood — birds, squirrels, 
 - **10:15–10:35 AM** — Snack: Naan & Yogurt Dip (20 min)
 - **10:35–11:20 AM** — Get Outside: Chalk Rangoli (45 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Rangoli & Spice Smelling
 **🧰 Complete Materials List:**
@@ -16279,9 +16350,9 @@ A big symmetrical chalk pattern at the front door. It'll wash away, which is tra
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Hopping Sports** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Dot Painting & Kangaroo Craft
 **🧰 Complete Materials List:**
@@ -16328,9 +16399,9 @@ Kangaroo hop races. Both feet together. Then hop with something in the "pouch" w
 - **10:15–10:35 AM** — Snack: A Bit of Everything (20 min)
 - **10:35–11:30 AM** — Get Outside: World Music Dance Party (55 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Review the Journey
 **🧰 Complete Materials List:**
@@ -16442,9 +16513,9 @@ The week ends with her running the whole thing for real guests.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Ring Toss Tournament** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Ring Toss
 **🧰 Complete Materials List:**
@@ -16497,9 +16568,9 @@ Move the line back a step each time she scores. Everyone plays, including adults
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Toss Game** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Bean Bags & Targets
 **🧰 Complete Materials List:**
@@ -16549,9 +16620,9 @@ Run it as a proper stall. Five throws per go, total the score, beat the previous
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Show Off & Photos (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Face Painting Stall
 **🧰 Complete Materials List:**
@@ -16601,9 +16672,9 @@ Go outside in the paint. Walk to a neighbour. Being seen is the point.
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: **Strongman Tournament** (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Tower
 **🧰 Complete Materials List:**
@@ -16650,9 +16721,9 @@ Everyone throws. Chalk each person's best score on the driveway beside the meter
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Test the Ticket System (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Tickets & Prizes
 **🧰 Complete Materials List:**
@@ -16700,9 +16771,9 @@ Play the games from earlier in the week using tickets properly. Earn, save, rede
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Silly Games** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Paper Carousel & Game Signs
 **🧰 Complete Materials List:**
@@ -16750,9 +16821,9 @@ Egg-and-spoon with a ball. Backwards walking race. Balance a beanbag on your hea
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **THE CARNIVAL** (75 min)
 - **11:45 AM–12:00 PM** — Pack Down Together (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Grand Carnival
 **🧰 Complete Materials List:**
@@ -16864,9 +16935,9 @@ The last week of summer. It ends with a family concert.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Marching Band** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Sound Laboratory
 **🧰 Complete Materials List:**
@@ -16924,9 +16995,9 @@ Pots, pans, shakers, and wooden spoons. March round the yard or the block. Loud 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Loud & Quiet Games** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build a Drum Kit
 **🧰 Complete Materials List:**
@@ -16972,9 +17043,9 @@ Drum outside. Play "follow the volume" — she copies loud, soft, fast, slow as 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Water Glass Music (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Box Guitar
 **🧰 Complete Materials List:**
@@ -17022,9 +17093,9 @@ Take the glasses outside on a tray. Let her arrange them low to high and play a 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:30 AM** — Get Outside: **Freeze Dance & Movement Games** (75 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Ribbon Wands & Freeze Dance
 **🧰 Complete Materials List:**
@@ -17070,9 +17141,9 @@ Outside, loud, with room to run. Add "musical statues" and "walk like…" betwee
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:15 AM** — Get Outside: Echo Games (60 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Copy the Pattern
 **🧰 Complete Materials List:**
@@ -17117,9 +17188,9 @@ Echo shouting — she calls, you call back. Try it somewhere with a real echo if
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Make the Stage (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Plan & Rehearse the Concert
 **🧰 Complete Materials List:**
@@ -17166,9 +17237,9 @@ Chalk the stage, hang streamers, set out seats. Setting up is part of the event.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **THE CONCERT** (60 min)
 - **11:30 AM–12:00 PM** — Pack Down Together (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Family Concert
 **🧰 Complete Materials List:**
@@ -17604,9 +17675,9 @@ Labor Day lands on Monday, Day 249, and it gets a real fix-it session with real 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Postbox Walk** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Home Post Office
 **🧰 Complete Materials List:**
@@ -17657,9 +17728,9 @@ Walk to the nearest real post box or mailbox with the one real letter. She carri
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Library Walk** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Lending Library
 **🧰 Complete Materials List:**
@@ -17710,9 +17781,9 @@ Walk to your actual library. She takes the tote. Point out the real version of e
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Real Market Trip** (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Market Stall
 **🧰 Complete Materials List:**
@@ -17768,9 +17839,9 @@ Go to an actual farmers' market or the produce aisle. She has her own short list
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Who's Working Today Walk** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Fix-It Station
 **🧰 Complete Materials List:**
@@ -17833,9 +17904,9 @@ It's a public holiday, so walk the neighbourhood and notice who's working anyway
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Ten-Piece Litter Patrol** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Recycling Depot
 **🧰 Complete Materials List:**
@@ -17887,9 +17958,9 @@ Gloves on, bag out, tongs in hand. **Ten pieces, then stop.** A number makes it 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: **The Bread Delivery Round** (45 min)
 - **11:15 AM–12:00 PM** — Baking & Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Bakery Counter
 **🧰 Complete Materials List:**
@@ -17945,9 +18016,9 @@ While the dough rises, walk a delivery round with the empty bags — practise th
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Thank-You Round** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Thank-You Badges
 **🧰 Complete Materials List:**
@@ -18072,9 +18143,9 @@ Joseph's birthday falls on Monday, Day 256, and it gets the day. Azlyn plans it.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The First Expedition** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Field Journal
 **🧰 Complete Materials List:**
@@ -18125,9 +18196,9 @@ Walk the boundary of wherever you're using this week — the garden, the yard, t
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Main Event: The Survey Page (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Survey Page
 **🧰 Complete Materials List:**
@@ -18183,9 +18254,9 @@ The survey itself is the outdoor block today — an hour on the ground at the ed
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Stone Sort** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Dig Site
 **🧰 Complete Materials List:**
@@ -18238,9 +18309,9 @@ Collect stones from wherever you can — a driveway, a path, a stream edge. Sort
 - **9:20–10:20 AM** — Main Event: The Birthday Interview & The Card (60 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **Azlyn's Choice Expedition** (70 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **Cake, candles, and the interview read out loud**
 
 ### 🎨 The Main Event: The Birthday Interview & The Card
@@ -18296,9 +18367,9 @@ Wherever she picked. Field journals come along — it's still explorer week — 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Staking the Four Corners** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Compass
 **🧰 Complete Materials List:**
@@ -18352,9 +18423,9 @@ Take the compass and the flags outside and find north. Stake the N flag at the n
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Main Event: The Field Museum (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Field Museum
 **🧰 Complete Materials List:**
@@ -18404,10 +18475,10 @@ Last collecting trip of the week, with the journals and a paper bag. Then go bac
 - **9:00–9:15 AM** — Morning Meeting: What Do Explorers Take? (15 min)
 - **9:15–10:30 AM** — Main Event: Build Base Camp & Pack the Bag (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **10:45–11:45 AM** — Get Outside: **Camp Lunch** (60 min)
 - **12:00 PM** — Lunch in the tent, then Nap
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening, at dusk** — **The Torch Expedition**
 
 ### 🎨 The Main Event: Build Base Camp & Pack the Bag
@@ -18532,9 +18603,9 @@ The autumn equinox lands mid-week and the leaves are turning, which gives the co
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Primary Colour Patrol** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Colour Wheel
 **🧰 Complete Materials List:**
@@ -18584,9 +18655,9 @@ Out with one job: find something purely red, something purely yellow, and someth
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Chalk Shapes on the Drive** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Straw Shapes
 **🧰 Complete Materials List:**
@@ -18641,9 +18712,9 @@ Draw six big shapes on the pavement — circle, square, triangle, rectangle, sta
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Shape Hunt Round the Block** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Stained Glass Window
 **🧰 Complete Materials List:**
@@ -18692,9 +18763,9 @@ Walk and name shapes on buildings — round windows, triangular roofs, rectangul
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The One-Colour Collection** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Colour Lab
 **🧰 Complete Materials List:**
@@ -18747,9 +18818,9 @@ She picks one colour before you leave the house. Then everything collected on th
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Playground Shape Audit** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Shape Sorting Machine
 **🧰 Complete Materials List:**
@@ -18804,9 +18875,9 @@ Take a clipboard. Find and tally every shape in the playground — circles on th
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Main Event: The Autumn Palette (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Autumn Palette
 **🧰 Complete Materials List:**
@@ -18857,9 +18928,9 @@ Out for the leaves and the seeds, with a bag each. **The rule is nothing off a t
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Chalk Shape Town** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Shape Town
 **🧰 Complete Materials List:**
@@ -18978,9 +19049,9 @@ The most important thing in this week is that none of it is a test. She's four. 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Giant Chalk Name** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Name Puzzle
 **🧰 Complete Materials List:**
@@ -19030,9 +19101,9 @@ Chalk her name across the whole drive or path, one letter per paving slab, lette
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Water Writing on the Fence** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Salt Tray
 **🧰 Complete Materials List:**
@@ -19084,9 +19155,9 @@ A bucket of water and a fat decorator's brush. She paints letters, shapes, and w
 - **10:10–10:30 AM** — Snack (20 min)
 - **10:30–11:30 AM** — Get Outside: **The Silly Rhyme Walk** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Rhyming Soup
 **🧰 Complete Materials List:**
@@ -19135,9 +19206,9 @@ Rhyme everything you pass, badly. *A tree — a bee — a knee.* *A car — a st
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The S Scavenge** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Sound Post Boxes
 **🧰 Complete Materials List:**
@@ -19186,9 +19257,9 @@ One sound, one walk. **Find ten things that start with *sss*.** Sticks, stones, 
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Five-Letter Collection** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Alphabet Book
 **🧰 Complete Materials List:**
@@ -19244,9 +19315,9 @@ Out with the book and a bag. **Find one real thing outside for each of her five 
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Sign-Spotting Round** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Sign Maker
 **🧰 Complete Materials List:**
@@ -19296,9 +19367,9 @@ Out to look at real print. Street names, shop signs, STOP, the bus number, the o
 - **10:30–10:45 AM** — Snack: **Apples, Apricots, Animal Crackers** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The A Hunt** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The A Party
 **🧰 Complete Materials List:**
@@ -19721,9 +19792,9 @@ The aim isn't counting higher. She can probably recite to twenty already, and re
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The House Number Walk** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Number Line
 **🧰 Complete Materials List:**
@@ -19773,9 +19844,9 @@ Walk the street and find the numbers on the doors. **Look for 1 to 10 in order**
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Hundred Steps** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Counting Jar
 **🧰 Complete Materials List:**
@@ -19827,9 +19898,9 @@ Walk the street and find the numbers on the doors. **Look for 1 to 10 in order**
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Ten Things Collection** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Ten Little Boxes
 **🧰 Complete Materials List:**
@@ -19879,9 +19950,9 @@ Egg box in hand. **Find one thing for the first hole, two for the second, three 
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Chalk Hopscotch** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Dice & the Racing Track
 **🧰 Complete Materials List:**
@@ -19934,9 +20005,9 @@ Chalk a hopscotch grid, 1 to 10. Traditional rules are too hard — **just hop t
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **How Many Steps to the Postbox** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Measuring Morning
 **🧰 Complete Materials List:**
@@ -19986,9 +20057,9 @@ Count the steps to the postbox, or the gate, or the corner. **Then walk it again
 - **10:30–10:45 AM** — Snack: **the biscuits** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Traffic Tally** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Baking by Numbers
 **🧰 Complete Materials List:**
@@ -20041,9 +20112,9 @@ Clipboard, three columns: cars, vans, bikes. **Ten minutes on a wall somewhere s
 - **10:30–10:45 AM** — Snack: **five things on a plate** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Hunt for Five Fives** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Party for Number Five
 **🧰 Complete Materials List:**
@@ -20163,9 +20234,9 @@ Columbus Day / Indigenous Peoples' Day falls on Monday, Day 284, and gets a shor
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Hill Roll** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Ramp Lab
 **🧰 Complete Materials List:**
@@ -20215,9 +20286,9 @@ Find any slope — a hill, a bank, a sloping path. **Roll things down it:** ball
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Vehicle Bingo** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **The drive-in**, in the car she built
 
 ### 🎨 The Main Event: The Cardboard Car
@@ -20276,9 +20347,9 @@ Make a card of six vehicles before you go — car, van, bus, bike, lorry, motorb
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Tree Hoist** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Pulley Hoist
 **🧰 Complete Materials List:**
@@ -20332,9 +20403,9 @@ Throw the rope over a branch and rig the same thing outside, with a bucket. **Se
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Station Watch** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Train Line
 **🧰 Complete Materials List:**
@@ -20384,9 +20455,9 @@ Go and watch something real — a station, a level crossing, a bus stop, a tram.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Long Line** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Balloon Rocket
 **🧰 Complete Materials List:**
@@ -20439,9 +20510,9 @@ Rig the string between two trees or a fence and a post — as long as you can ma
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **Her Own Ride** (70 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Bike Workshop
 **🧰 Complete Materials List:**
@@ -20495,9 +20566,9 @@ A proper ride on the bike she just serviced — longer than usual, and let her s
 - **10:40–10:55 AM** — Snack: **the pit stop** (15 min)
 - **10:55–11:45 AM** — Get Outside: **The Race Down the Path** (50 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Great Race
 **🧰 Complete Materials List:**
@@ -20614,9 +20685,9 @@ The moon journal starts on Friday and runs the whole week, so it needs starting 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Daytime Moon Hunt** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **After tea, before bed** — **The first moon observation**
 
 ### 🎨 The Main Event: Make the Moon Journal
@@ -20667,9 +20738,9 @@ The moon journal starts on Friday and runs the whole week, so it needs starting 
 - **10:10–10:25 AM** — Snack (15 min)
 - **10:25–11:45 AM** — Get Outside: **The Solar System Walk** (80 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — **Moon journal, night 2**
 
 ### 🎨 The Main Event: Build the Solar System
@@ -20725,9 +20796,9 @@ The walk is the activity. **Count the steps between each planet out loud** and l
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Moonwalking** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — **Moon journal, night 3**
 
 ### 🎨 The Main Event: The Spacesuit & Mission Patch
@@ -20782,9 +20853,9 @@ Walk to the park **as though gravity is a sixth of normal** — huge slow bounds
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Crater Hunt** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — **Moon journal, night 4**
 
 ### 🎨 The Main Event: Craters
@@ -20837,9 +20908,9 @@ Look for real dents in the world — potholes, puddles in hollows, a dip where a
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Habitat Survey** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — **Moon journal, night 5**
 
 ### 🎨 The Main Event: The Alien Zoo
@@ -20894,9 +20965,9 @@ Pick three spots outside — under a hedge, on open grass, in a puddle — and f
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Torch Walk** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — **Moon journal, night 6, and the real sky**
 
 ### 🎨 The Main Event: The Torch Planetarium
@@ -20948,9 +21019,9 @@ Out after tea with two torches, in the actual dark. **Look up first, before the 
 - **10:40–10:55 AM** — Snack: **space food** (15 min)
 - **10:55–11:45 AM** — Get Outside: **The Landing Site** (50 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — **Moon journal, night 7 — the last page**
 
 ### 🎨 The Main Event: The Mission
@@ -21071,9 +21142,9 @@ There's one rule the whole week runs on, and it's worth saying on Friday morning
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Get Outside: **The Log-Rolling Hunt** (90 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Field Guide
 **🧰 Complete Materials List:**
@@ -21128,9 +21199,9 @@ Ninety minutes of lifting and looking. **Lift the log towards you** so anything 
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Charming the Worms** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Worm Farm
 **🧰 Complete Materials List:**
@@ -21185,9 +21256,9 @@ Ninety minutes of lifting and looking. **Lift the log towards you** so anything 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: Weave a Web (90 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Weave a Web
 **🧰 Complete Materials List:**
@@ -21238,9 +21309,9 @@ Ninety minutes of lifting and looking. **Lift the log towards you** so anything 
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Main Event: The Trail Map (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Trail Map
 **🧰 Complete Materials List:**
@@ -21290,9 +21361,9 @@ Seventy-five minutes on hands and knees along a wall. **The instruction is: foll
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Hide and the Hunt** (70 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Paper Bugs
 **🧰 Complete Materials List:**
@@ -21343,9 +21414,9 @@ The hiding and hunting is the outdoor block. **Run it three or four times** in d
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: The Leaf Litter Tray (90 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Leaf Litter Tray
 **🧰 Complete Materials List:**
@@ -21401,9 +21472,9 @@ A bucket and a trowel, and a hunt for the best spot — under a hedge, in a ditc
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00–11:45 AM** — Get Outside: **The Release** (45 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Giant Minibeast
 **🧰 Complete Materials List:**
@@ -21535,9 +21606,9 @@ Read that as a warning about pace rather than a promise of a big week. Four-year
 - **9:20–10:30 AM** — Main Event: Diyas & Rangoli (70 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Doorstep Rangoli** (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **At dusk** — **Light the diyas along the path**
 
 ### 🎨 The Main Event: Diyas & Rangoli
@@ -21591,9 +21662,9 @@ Chalk a big rangoli on the doorstep or the path — a circle, then petals round 
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Specimen Collection** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make Fossils
 **🧰 Complete Materials List:**
@@ -21643,9 +21714,9 @@ Out with a bag for things to press: shells, leaves with strong veins, ferns, bar
 - **9:20–10:30 AM** — Main Event: The Pumpkin & The Costume Check (70 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Decorations Walk** (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & **an early, long nap — protect it**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Late afternoon** — Costumes on
 - **Dusk** — **Trick-or-treating**, then the Sweet Sort
 
@@ -21700,9 +21771,9 @@ Walk the route you'll do tonight, in daylight. **Spot the decorated houses and c
 - **9:20–10:40 AM** — Main Event: Build the Ofrenda (80 min)
 - **10:40–10:55 AM** — Snack: *Pan de Muerto* (15 min)
 - **10:55–11:45 AM** — Get Outside: **The Marigold Walk** (50 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Evening** — **Everyone tells one story at the ofrenda**
 
 ### 🎨 The Main Event: Build the Ofrenda
@@ -21760,9 +21831,9 @@ Out to buy or pick marigolds if you can — most places still have them in early
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Get Outside: **Pace Out a Dinosaur** (90 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & **an early nap**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Measuring Kit
 **🧰 Complete Materials List:**
@@ -21819,9 +21890,9 @@ Take the strings and the chalk to a path, a car park, or a quiet street. **Lay t
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Teeth Hunt** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Teeth
 **🧰 Complete Materials List:**
@@ -21873,9 +21944,9 @@ Look for **evidence of eating** — leaves with bites out of them, a nibbled haz
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: The Dinosaur World (90 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Dinosaur World
 **🧰 Complete Materials List:**
@@ -22307,9 +22378,9 @@ By Thursday there's a breakfast on the table that she produced end to end. Veter
 - **10:30–10:45 AM** — Snack: **the flatbreads** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Field Walk** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Grain to Flour to Flatbread
 **🧰 Complete Materials List:**
@@ -22361,9 +22432,9 @@ Find a field, an allotment, or any patch of grown-over ground and look at what's
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Wool Hunt** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Fleece to String
 **🧰 Complete Materials List:**
@@ -22414,9 +22485,9 @@ If there are sheep near you, walk a fence line and **collect the wool caught on 
 - **10:20–10:35 AM** — Snack: **scrambled eggs** (15 min)
 - **10:35–11:35 AM** — Get Outside: **Shells for the Birds** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Egg Investigation
 **🧰 Complete Materials List:**
@@ -22471,9 +22542,9 @@ Rinse and dry the shells, crush them, and **put them out for the birds** — the
 - **10:30–10:45 AM** — Snack: **butter on yesterday's flatbread** (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Milk Round** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Milking, Butter & Paneer
 **🧰 Complete Materials List:**
@@ -22533,9 +22604,9 @@ Go and look at where milk comes from at your end of it — the shop shelf, the f
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Get Outside: **The Sheepdog Trial** (90 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Learn the Whistles
 **🧰 Complete Materials List:**
@@ -22588,9 +22659,9 @@ Take the whole thing outside — the garden, the park, a quiet field — with a 
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Shelter Hunt** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Winter Barn
 **🧰 Complete Materials List:**
@@ -22644,9 +22715,9 @@ Where do animals shelter round here? **Look properly:** under a hedge, in a hole
 - **10:30–11:00 AM** — Get Outside: **The Thank-You Visit** (30 min)
 - **11:00 AM** — **The minute of silence**, or one slow breath
 - **11:00 AM–12:00 PM** — Free Play (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Farm Breakfast
 **🧰 Complete Materials List:**
@@ -22767,9 +22838,9 @@ The daily readings are the spine of the week. Five minutes a day, same time, sam
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Siting the Station** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Weather Station
 **🧰 Complete Materials List:**
@@ -22822,9 +22893,9 @@ Walk the garden or yard looking for the right spot — **open, flat, not under a
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Rainbow Hunt** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Making Rainbows
 **🧰 Complete Materials List:**
@@ -22877,9 +22948,9 @@ Hunt for colours split by water and light: **an oily puddle on a road**, a wet w
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Cloud Watch** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Clouds & Rain
 **🧰 Complete Materials List:**
@@ -22940,9 +23011,9 @@ Lie on a coat on the ground and look up for ten minutes. **Name the type first, 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **Rating the Wind** (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make the Wind Scale
 **🧰 Complete Materials List:**
@@ -23000,9 +23071,9 @@ Seventy-five minutes with the flip-book, rating everywhere: the garden, the stre
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Hanging the Suncatchers** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Ice Suncatchers & the Salt Test
 **🧰 Complete Materials List:**
@@ -23057,9 +23128,9 @@ Turn them out — **a splash of warm water on the underside of the dish releases
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Disappearing Puddle** (70 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Water Cycle Bag
 **🧰 Complete Materials List:**
@@ -23112,9 +23183,9 @@ Find a puddle on a hard surface and **chalk right round its edge.** Come back in
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:45 AM** — Get Outside: **Checking the Forecast** (45 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Forecast
 **🧰 Complete Materials List:**
@@ -23231,9 +23302,9 @@ Thanksgiving is on Thursday, which is the right end for it. Everything up to Wed
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Four Seasons Walk** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Year Wheel
 **🧰 Complete Materials List:**
@@ -23289,9 +23360,9 @@ Thanksgiving is on Thursday, which is the right end for it. Everything up to Wed
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:50 AM** — Main Event: The Tree File (50 min)
 - **11:50 AM–12:00 PM** — Free Play (10 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Tree File
 **🧰 Complete Materials List:**
@@ -23342,9 +23413,9 @@ Ninety minutes to look at a lot of trees and pick one. **Let her reject several.
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Bulb Bed** (70 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Planting Bulbs
 **🧰 Complete Materials List:**
@@ -23397,9 +23468,9 @@ Plant some straight into the ground as well, in a spot she chooses. **Mark it wi
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **Building the Log Pile** (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Missing List
 **🧰 Complete Materials List:**
@@ -23451,9 +23522,9 @@ Plant some straight into the ground as well, in a spot she chooses. **Mark it wi
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Get Outside: **The Rot Patrol** (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Rotting Jar
 **🧰 Complete Materials List:**
@@ -23508,9 +23579,9 @@ Go and find things at every stage: a fresh fallen leaf, a skeletal one with only
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Last Seed Round** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **Set up the quiet corner for tomorrow**
 
 ### 🎨 The Main Event: The Seed Library
@@ -23563,8 +23634,8 @@ Late November is the end of the collecting season. **One last round for anything
 - **Midday** — **Nap or quiet time in her room, non-negotiable**
 - **Afternoon** — Guests, the meal, and the going-round-the-table
 - **Whenever needed** — **The quiet room, open all day**
+- **Before lunch** — 🤸 Wiggle Time
 - **After lunch** — 📚 Book Time (before quiet time)
-- **While she's down** — 🏃 Workout — *Brooklyn's own*
 
 ### 🎨 The Main Event: The Thankful Tablecloth
 **🧰 Complete Materials List:**
@@ -23679,9 +23750,9 @@ It ends on Thursday with her cooking dinner. Not helping — **cooking it**, wit
 - **10:20–10:35 AM** — Snack: **what she cut** (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Vegetable Shop** (70 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Knife Skills
 **🧰 Complete Materials List:**
@@ -23738,9 +23809,9 @@ Go and buy tomorrow's tasting things and Sunday's dinner. **She chooses three ve
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Five Tastes Hunt** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Taste Test
 **🧰 Complete Materials List:**
@@ -23796,9 +23867,9 @@ Go to a shop with the five words on a card and **find one food for each.** Sour 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The One Missing Thing** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — **Lunch, which is what she planned**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Leftovers Challenge
 **🧰 Complete Materials List:**
@@ -23847,9 +23918,9 @@ Go to a shop with the five words on a card and **find one food for each.** Sour 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **The Walk While It Rests** (60 min)
 - **11:30 AM–12:00 PM** — **Rolling and cutting** (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — **Lunch: the pasta**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Pasta from Two Things
 **🧰 Complete Materials List:**
@@ -23908,9 +23979,9 @@ Half an hour out while the dough rests, and **tell her that's why you're going.*
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Scraps to the Compost** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Washing Up Station
 **🧰 Complete Materials List:**
@@ -23964,9 +24035,9 @@ Take the peelings and scraps out to the compost or the food bin. **Look at what'
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Menu Walk** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Quick Pickles
 **🧰 Complete Materials List:**
@@ -24019,9 +24090,9 @@ Take the peelings and scraps out to the compost or the food bin. **Look at what'
 - **9:30–10:45 AM** — Get Outside: **The Shop, Her List** (75 min)
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–12:00 PM** — Prep: chopping, laying the table, the menu cards
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Late afternoon** — **Main Event: She Cooks Dinner**
 
 ### 🎨 The Main Event: She Cooks Dinner
@@ -24463,9 +24534,9 @@ Friday she invents the characters. Saturday she builds the place they live. Sund
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Name Walk** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Character Workshop
 **🧰 Complete Materials List:**
@@ -24519,9 +24590,9 @@ Collect names from the world: street signs, shop names, house names, the names o
 - **9:50–10:05 AM** — Snack (15 min)
 - **10:05–11:45 AM** — Main Event: The Village Street (100 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Village Street
 **🧰 Complete Materials List:**
@@ -24572,9 +24643,9 @@ Short and early, before the building. **Look at the details you'd never normally
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Setting Walk** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Story Spine
 **🧰 Complete Materials List:**
@@ -24629,9 +24700,9 @@ Go and find where the story happens. **A gate, a wood, a bridge, an alley, a par
 - **9:15–10:45 AM** — Main Event: Making the Book (90 min)
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–12:00 PM** — Get Outside: **The Library Trip** (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Making the Book
 **🧰 Complete Materials List:**
@@ -24682,9 +24753,9 @@ Take the finished book to the library or a bookshop. **Look at how real books ar
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:45 AM** — Main Event: The Radio Play (90 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Radio Play
 **🧰 Complete Materials List:**
@@ -24738,9 +24809,9 @@ Forty-five minutes recording the world. **Stand still and record ten seconds of 
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Clue Trail** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Missing Thing
 **🧰 Complete Materials List:**
@@ -24791,9 +24862,9 @@ Run a short version outside — **string tied to gateposts, arrows chalked on th
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: **The Poster Round** (45 min)
 - **11:30 AM–12:00 PM** — Dress rehearsal (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Late afternoon** — **The show**
 
 ### 🎨 The Main Event: Preparing Opening Night
@@ -24912,9 +24983,9 @@ December is the right time for it. The garden birds are hungry and close, the co
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Spotting Walk** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Great Animal Sort
 **🧰 Complete Materials List:**
@@ -24963,9 +25034,9 @@ Sixty minutes counting real animals — birds, a dog, a squirrel, a cat, a worm,
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **Watching Real Beaks** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Beaks Are Tools
 **🧰 Complete Materials List:**
@@ -25015,9 +25086,9 @@ Take bread or seed to a park or a pond. **Watch what different birds actually do
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Cold Test** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Blubber Glove
 **🧰 Complete Materials List:**
@@ -25070,9 +25141,9 @@ Out in the actual December cold. **What is she wearing that keeps her warm, and 
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:45 AM** — Get Outside: **The Track Hunt** (70 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Making Tracks
 **🧰 Complete Materials List:**
@@ -25124,9 +25195,9 @@ Mud, frost, a soft path, a puddle edge, snow if you're lucky. **December is the 
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:35 AM** — Get Outside: **The Eyes Walk** (60 min)
 - **11:35 AM–12:00 PM** — Free Play (25 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Predator & Prey Eyes
 **🧰 Complete Materials List:**
@@ -25176,9 +25247,9 @@ Look at every animal you meet and call it: **hunter or hunted?** Birds, dogs, ca
 - **10:15–10:30 AM** — Snack: **porridge** (15 min)
 - **10:30–11:45 AM** — Get Outside: **Hanging It & The Count** (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Feeding Station
 **🧰 Complete Materials List:**
@@ -25238,9 +25309,9 @@ Hang everything, then do the count from outside if it's not too cold, or from th
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:45 AM** — Main Event: The Field Guide (75 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Field Guide
 **🧰 Complete Materials List:**
@@ -25363,9 +25434,9 @@ The last full working week of the book, and it's a wet one. Sinking and floating
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Puddle Tests** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Sink or Float
 **🧰 Complete Materials List:**
@@ -25414,9 +25485,9 @@ Take the bowl of water out, or use a real puddle. **Test outdoor things:** a sto
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Launch** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Boat Yard
 **🧰 Complete Materials List:**
@@ -25467,9 +25538,9 @@ Take the fleet out to a puddle, a stream, a gutter, or a paddling pool. **Race t
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Looking for Crystals** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & **birthday prep once she's asleep**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Crystal Garden
 **🧰 Complete Materials List:**
@@ -25523,9 +25594,9 @@ Frost is crystals and December usually supplies some. **Look at frost on a car r
 - **9:30–10:30 AM** — Main Event: The Measuring Wall & The Year Box (60 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Her Choice, Anywhere** (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **Cake, candles, and her party** — short, and built round her nap
 
 ### 🎨 The Main Event: The Measuring Wall & The Year Box
@@ -25585,9 +25656,9 @@ Wherever she says, however ordinary. The park you always go to, the same swing, 
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **Measuring the Day** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **At dusk, about four o'clock** — **Light them**
 
 ### 🎨 The Main Event: Ice Lanterns
@@ -25647,9 +25718,9 @@ Wherever she says, however ordinary. The park you always go to, the same swing, 
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Catching Kit** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Snowflakes
 **🧰 Complete Materials List:**
@@ -25701,9 +25772,9 @@ Wherever she says, however ordinary. The park you always go to, the same swing, 
 - **9:00–9:20 AM** — Morning Meeting: **Plan the Run** (20 min)
 - **9:20–11:45 AM** — Main Event & Outside: **The Great Water Works** (145 min, with a snack in the middle)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **Check the crystal jars properly**
 
 ### 🎨 The Main Event: The Great Water Works
@@ -25823,9 +25894,9 @@ The last week. Four of these seven days belong to somebody else — Hanukkah beg
 - **9:20–10:20 AM** — Main Event: Make a Menorah & Play Dreidel (60 min)
 - **10:20–10:35 AM** — Snack (15 min)
 - **10:35–11:30 AM** — Get Outside: **The Lit-Up Windows Walk** (55 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Late afternoon** — **Latkes, made together**
 - **At sundown** — **The first candle**
 
@@ -25878,9 +25949,9 @@ It's dark early now. Walk after teatime and look at what people have put in thei
 - **Then** — Breakfast, properly, before the tree
 - **Mid-morning** — Main Event: **Presents, slowly, one at a time**
 - **Late morning** — Get Outside: **The Christmas Morning Walk** (45 min)
+- **Before lunch** — 🤸 Wiggle Time
 - **Midday** — Lunch, and **quiet time whether or not she sleeps**
 - **After lunch** — 📚 Book Time (before quiet time)
-- **While she's down** — 🏃 Workout — *Brooklyn's own*
 - **Afternoon** — The new things, on the floor, with nothing else planned
 - **Second candle of Hanukkah at sundown**, if you're marking it
 
@@ -25933,9 +26004,9 @@ Out for three-quarters of an hour before lunch, whatever the weather. **The stre
 - **Mid-morning** — Main Event: The Thank-You Table (40–60 min, in bursts)
 - **Snack** — leftovers, eaten wherever
 - **Late morning** — Get Outside: **The Postbox Walk** (45 min)
+- **Before lunch** — 🤸 Wiggle Time
 - **12:00 PM** — Lunch & Nap
 - **After lunch** — 📚 Book Time (before quiet time)
-- **While she's down** — 🏃 Workout — *Brooklyn's own*
 - **Afternoon** — **Nothing. Deliberately nothing.**
 
 ### 🎨 The Main Event: The Thank-You Table
@@ -25988,9 +26059,9 @@ Out to the postbox with whatever's finished. **Everyone needs to leave the house
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:45 AM** — Get Outside: **The Delivery** (60 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Pass-On Box
 **🧰 Complete Materials List:**
@@ -26040,9 +26111,9 @@ Take the box to a charity shop, a nursery, a food bank, or a family you know. **
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:45 AM** — Get Outside: **Checking on Things** (45 min)
 - **11:45 AM–12:00 PM** — Free Play (15 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **Dad and Azlyn, quietly, for tomorrow**
 
 ### 🎨 The Main Event: The 2028 Calendar
@@ -26097,9 +26168,9 @@ The rounds: **the bulbs, the tree, the log pile, the bird feeders.** Nothing wil
 - **9:00–10:15 AM** — Main Event: The Book of Mum (75 min) — **without her**
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Wherever Mum wants**, or nowhere at all
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch **that she did not make**
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **Her choice, entirely.** Including nothing.
 
 ### 🎨 The Main Event: The Book of Mum
@@ -26156,9 +26227,9 @@ Her choice, and "nowhere" is a legitimate answer. If she wants the walk, everyon
 - **10:45–11:00 AM** — Snack (15 min)
 - **11:00 AM–11:50 AM** — Get Outside: **The Route Check** (50 min)
 - **11:50 AM–12:00 PM** — Free Play (10 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — **Set everything out for tomorrow**
 
 ### 🎨 The Main Event: Letters to Next Year
@@ -26214,9 +26285,9 @@ Her choice, and "nowhere" is a legitimate answer. If she wants the walk, everyon
 - **9:20–10:40 AM** — Main Event: **Open the Time Capsule** (80 min)
 - **10:40–10:55 AM** — Snack (15 min)
 - **10:55–11:55 AM** — Get Outside: **The First Walk, Walked Again** (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **Afternoon** — The new capsule, sealed for 2028
 - **Early evening** — **Countdown at 7pm**, not midnight
 - **Last candle of Hanukkah at sundown**

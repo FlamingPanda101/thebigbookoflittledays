@@ -85,9 +85,9 @@ Presidents' Day follows immediately on Day 46.
 - **10:00–10:15 AM** — Snack: Apple Slices (15 min)
 - **10:15–11:00 AM** — Get Outside: Frost Drawing (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: The Hidden Heart
 **🧰 Complete Materials List:**
@@ -138,9 +138,9 @@ Draw hearts in the frost on the car window or storm door with a warm fingertip.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Build the Mailbox & Make Cards
 **🧰 Complete Materials List:**
@@ -188,9 +188,9 @@ Something bare, evergreen, frozen, red, and animal-made. Red should be easy this
 - **10:15–10:30 AM** — Snack: Something Pink (15 min)
 - **10:30–11:20 AM** — Get Outside: Deliver Valentines (50 min)
 - **11:20 AM–12:00 PM** — Free Play (40 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Heart Garland & Delivery
 **🧰 Complete Materials List:**
@@ -237,9 +237,9 @@ Walk the neighborhood delivering cards. Leave one in a mailbox anonymously if sh
 - **10:15–10:30 AM** — Snack *(extra pretzels)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bundle-Up Race (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Pretzel Log Cabin
 **🧰 Complete Materials List:**
@@ -285,9 +285,9 @@ Beat the record. By now she should be genuinely faster than she was in January �
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bird Watch (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Bead Bracelets
 **🧰 Complete Materials List:**
@@ -332,9 +332,9 @@ Count the birds at the feeder from Day 31. Compare to the first day you hung it 
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Redeem One (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Make a Coupon Book
 **🧰 Complete Materials List:**
@@ -379,9 +379,9 @@ Find frozen things. February ice is often the best of the year.
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:15 AM–12:00 PM** — Hide Them (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 
 ### 🎨 The Main Event: Hidden Love Notes
 **🧰 Complete Materials List:**

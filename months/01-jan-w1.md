@@ -120,10 +120,10 @@ It's also the opening week of the year, so Day 1 sets up the time capsule you'll
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: First Walk of the Year (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Look at the Capsule
 - **3:00–4:00 PM** — Afternoon Thread: The First Page
 - **4:00–5:00 PM** — Out Again: The Same Walk, Slower
@@ -189,10 +189,10 @@ Bundle up and walk the same route you'll walk all year. Notice what the trees lo
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
 - **11:15 AM–12:00 PM** — Free Play in the Box (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Back in the Box
 - **3:00–4:00 PM** — Afternoon Thread: Furnish the House
 - **4:00–5:00 PM** — Out Again: Follow the Tracks Back
@@ -251,10 +251,10 @@ Walk out and make a deliberate trail of footprints — in snow, mud, frost, or w
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Winter Scavenger Five (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Sort the Stamps
 - **3:00–4:00 PM** — Afternoon Thread: Shape Hunt Round the House
 - **4:00–5:00 PM** — Out Again: One More Circle
@@ -315,10 +315,10 @@ Find: something bare, something evergreen, something frozen, something red, and 
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Bundle-Up Race (45 min)
 - **11:00–11:45 AM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Rebuild One Tower
 - **3:00–4:00 PM** — Afternoon Thread: Knock It Down Properly
 - **4:00–5:00 PM** — Out Again: Bundle Up Again
@@ -377,10 +377,10 @@ Time how fast she can get coat, hat, boots, and mittens on. Try to beat the reco
 - **10:00–10:15 AM** — Snack (15 min)
 - **10:15–11:00 AM** — Get Outside: Five-Minute Cold Walk + Free Play (45 min)
 - **11:00 AM–12:00 PM** — Playdough Building (60 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Playdough, Still Warm
 - **3:00–4:00 PM** — Afternoon Thread: The Playdough Kitchen
 - **4:00–5:00 PM** — Out Again: Five More Minutes
@@ -443,10 +443,10 @@ Just to the end of the street and back. Short, brisk, enough to reset everybody'
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — Get Outside: Ice Hunt (45 min)
 - **11:15 AM–12:00 PM** — Free Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Test the Bridge
 - **3:00–4:00 PM** — Afternoon Thread: Make It Longer
 - **4:00–5:00 PM** — Out Again: Bridges Outside
@@ -507,10 +507,10 @@ Find every frozen thing in the yard — puddle skins, icicles, frost on a leaf. 
 - **10:15–10:30 AM** — Snack *(inside the fort)* (15 min)
 - **10:30–11:15 AM** — Get Outside: Bird Watch (45 min)
 - **11:15 AM–12:00 PM** — Fort Play (45 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
 - **12:00 PM** — Lunch & Nap Prep
 - **12:30–12:45 PM** — 📚 Book Time (before nap)
 - **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **1:00–1:45 PM** — 🏃 Workout — *Brooklyn's own, while she's down*
 - **2:30–3:00 PM** — Slow Start: Back into the Fort
 - **3:00–4:00 PM** — Afternoon Thread: Fort Improvements
 - **4:00–5:00 PM** — Out Again: Feed the Birds

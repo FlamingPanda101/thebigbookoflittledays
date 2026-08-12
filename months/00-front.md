@@ -79,7 +79,78 @@ I love you.
 
 <div style="page-break-after: always;"></div>
 
+<a id="wiggle-time"></a>
+
+## 🤸 Wiggle Time — 11:45 AM, Every Day
+
+**Fifteen minutes of hard movement right before lunch.** It's there for a
+reason: a child who has properly moved eats better and naps better, and
+the stretch between the end of the morning and food on the table is
+where most bad half-hours in a day begin.
+
+**How to run it:** pick one thing, do it hard, stop before she's had
+enough. It should end with pink cheeks and heavy breathing. **No
+materials, no setup, no preparation** — if it needs anything fetched,
+pick a different one.
+
+---
+
+### 🎲 Pick One — the Wiggle List
+
+**Animal Moves** — Bear walk on hands and feet, crab walk backwards, frog
+jumps, snake slither on the floor, one-legged flamingo. Call them out and
+change every twenty seconds.
+
+**Freeze Dance** — Music on, everybody dances, music off, everybody
+freezes. **Stopping is harder than moving** and it's the part doing the work.
+
+**The Sock Slide** — Thick socks, smooth floor, run and glide. Mark a
+line to try to reach.
+
+**Cushion Islands** — Every cushion in the house on the floor. The carpet
+is lava. Get from one end of the room to the other.
+
+**Wall Push** — Push the wall as hard as she can for a slow count of ten.
+Then push you over. **Heavy resistance work calms a wound-up child faster
+than anything else on this list.**
+
+**Jump the Line** — Tape or a scarf on the floor. Jump over it forwards,
+backwards, sideways, on one leg, with eyes shut.
+
+**Up and Down** — Stand up, lie down, stand up, lie down. Ten times, fast,
+racing you. Absurdly effective and requires nothing.
+
+**Balloon Keep-Up** — One balloon, don't let it touch the floor. Then only
+with heads. Then only with feet.
+
+**Carry the Heavy Thing** — The washing basket, a bag of potatoes, a
+cushion pile. Across the room and back. **Real weight, real job.**
+
+**Stair Laps** — Up and down four times, counting out loud. Adult at the
+bottom. **Not on a day when everyone's tired and clumsy.**
+
+**Roly-Poly Race** — Rolling across the floor sideways, log-style. Makes
+everybody dizzy and cheerful.
+
+**The Shake-Out** — Shake one hand, then both, then an arm, a leg, the
+whole body, faster and faster until everybody falls over. **Good last
+resort — it works even when nothing else will.**
+
+---
+
+> 💡 **Tip:** Do it outside if the weather allows and it doubles as fresh
+> air. Do it indoors without apology when it doesn't.
+
+> 👶 **Kreston joins in.** Most of these work at his level with no
+> changes — he'll crawl the animal moves, get carried through the lava,
+> and find the shake-out hysterical. Freeze Dance is the one he'll
+> genuinely play with her.
+
+<div style="page-break-after: always;"></div>
+
 ## 📚 Table of Contents
+
+- [🤸 **Wiggle Time — the daily movement list**](#wiggle-time)
 
 > *Tap any week to jump to it. Each month is also its own printable booklet, with four backup days and an extra-ideas page at the back.*
 
