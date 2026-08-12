@@ -184,22 +184,33 @@ Bundle up and walk the same route you'll walk all year. Notice what the trees lo
 **Theme:** Shape Engineers & Building
 
 ### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: **The Box Inspection** (60 min)
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Cardboard Box House (60 min)
+- **9:15–10:15 AM** — 🎨 Main Event: **Cardboard Box House** (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — Get Outside: Boot-Print Trail (45 min)
-- **11:15 AM–11:45 AM** — Free Play in the Box (30 min)
-- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (before lunch)
-- **12:00 PM** — Lunch & Nap Prep
-- **12:30–12:45 PM** — 📚 Book Time (before nap)
-- **12:45–2:30 PM** — Nap, or Quiet Time in her room
-- **2:30–3:00 PM** — Slow Start: Back in the Box
-- **3:00–4:00 PM** — Afternoon Thread: Furnish the House
-- **4:00–5:00 PM** — Out Again: Follow the Tracks Back
-- **5:00–5:45 PM** — Wind-Down: Reading in the Box
-- **6:00 PM** — Dinner
+- **10:30–11:15 AM** — 🌳 Get Outside: **Boot-Print Trail** (45 min)
+- **11:15–11:45 AM** — Free Play in the Box (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: **Furnish the House** (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: the recycling
+- **4:15–5:00 PM** — Quiet Play: shape puzzles on the floor
+- **5:00–5:45 PM** — 🛁 Wind-Down: bath, then reading in the box by torchlight
+- **6:00 PM** — **Dinner**
 
-### 🎨 The Main Event: Cardboard Box House
+### 🌅 Opening Activity: The Box Inspection
+**🧰 Needs:** the big box, flat on the floor · a tape measure · chalk or a marker
+
+1. **Put the box down flat and let her get inside it before anything is decided.** Five minutes of sitting in an unopened box is not wasted time — it's how she works out what it could be.
+2. **Measure it together.** How tall? Is it taller than her? Can she lie down in it? **Mark her height on the side of the box with chalk** so the door gets cut to fit her, not to fit you.
+3. **She marks where the door and windows go**, drawing straight onto the cardboard. Big scribbled shapes are fine. Those marks are the plan and you're going to cut to them at 9:15.
+
+> 💡 **Tip:** Don't correct the window she's drawn at floor level. She's three — she's designing for a person who spends most of her time sitting down, and she's right.
+
+### 🎨 Main Event: Cardboard Box House
 **🧰 Complete Materials List:**
 - 1 large cardboard box
 - Box cutter (adult only)
@@ -207,26 +218,54 @@ Bundle up and walk the same route you'll walk all year. Notice what the trees lo
 - Painter's tape
 
 **📝 Step-by-Step Instructions:**
-1. Cut a door and one or two windows in the box. Let Azlyn point to where she wants them before you cut.
+1. **Cut to her marks from this morning**, not to your own idea of where a door goes.
 2. Hand it over. Let her paint and decorate the outside however she likes — resist suggesting a chimney.
 3. Add a paper plate "clock" or a taped-on mailbox if she wants details.
-4. Leave it standing in the playroom for the rest of the week. Repeat play is where the real value is.
+4. Leave it standing in the playroom for the rest of the week. **Repeat play is where the real value is.**
 
-> 💡 **Tip:** Do the cutting *before* she's watching if you can. Three-year-olds have very strong opinions about box modifications, and it's easier to negotiate with a finished door.
+> 💡 **Tip:** Do the cutting while she fetches the paint if you can. Three-year-olds have very strong opinions about box modifications, and it's easier to negotiate with a finished door.
 
 ### 🌳 Get Outside: Boot-Print Trail
 Walk out and make a deliberate trail of footprints — in snow, mud, frost, or wet pavement. Then follow each other's tracks back to the door.
 
-> 👶 **Infant Integration:** Sit Kreston propped in the box doorway for a few minutes with a large safe toy. New enclosed spaces are fascinating at this age, and he'll want to be where his sister is.
+> 👶 **Infant Integration:** Sit Kreston propped in the box doorway for a few minutes with a large safe toy. New enclosed spaces are fascinating at 7 months, and he'll want to be where his sister is.
 
-### 🌤️ The Afternoon
-**Slow Start —** She gets back in the cardboard house with nothing suggested. Ten minutes of just sitting in it is normal and fine.
-**Afternoon Thread —** Furnish it. A cushion for a bed, a cup on a box for a table, a scrap of fabric as a curtain taped over the window. Everything comes from what's already in the house — nothing bought, nothing made from scratch. Ask her what the house still needs and let her fetch it herself.
-**Out Again —** Go back out and see whether this morning's boot-print trail survived. If it's gone, ask where it went.
-**Jobs —** She carries the recycling out — the box offcuts from this morning go in it, which she'll have opinions about.
-**Wind-Down —** Read to her inside the box with a torch. It's smaller and darker than the sofa and she'll stay longer.
+<div style="page-break-after: always;"></div>
 
-> 👶 **Kreston's Afternoon:** Prop him in the doorway again for five minutes at a time. At 7 months an enclosed space with his sister in it is the best thing available.
+### 🎨 Second Main Event: Furnish the House
+**🧰 Complete Materials List:**
+- The box house from this morning
+- 1 cushion and 1 small blanket
+- A shoebox or upturned tub, as a table
+- A scrap of fabric or a tea towel, as a curtain
+- Tape, string, and a torch
+- Paper and crayons, for pictures to hang inside
+
+**📝 Step-by-Step Instructions:**
+1. **Ask the question and then wait: what does this house still need?** Say nothing for a full minute. Whatever she names first is where you start.
+2. **She fetches everything herself.** Nothing bought and nothing made from scratch — it all has to come from somewhere else in the house, so she has to remember where things live and go and get them.
+3. **A bed** — cushion in, blanket over. **A table** — shoebox upturned. **A curtain** — fabric taped over the window, which needs two hands and is genuinely fiddly.
+4. **Pictures for the walls.** She draws two or three small ones and tapes them up inside. The house now has somebody's taste in it.
+5. **A light.** Torch taped to the inside roof, or standing in a corner. Then shut the door and find out how dark it is.
+6. **Then leave her in it.** Take the afternoon snack in to her rather than calling her out.
+
+> 💡 **Tip:** Every item she has to go and find is a small errand held in her head — *cushion, from the sofa, bring it back.* That's the real work of this hour, not the decorating.
+
+### 🎯 Afternoon Alternatives
+- **Box-offcut collage** — glue this morning's scraps into a picture
+- **A second, smaller box for Kreston**, set up next door to hers
+- **Paint a road** on a long strip of paper for the house to sit beside
+- **A mail slot** cut in the door, and letters posted through to whoever's inside
+
+### 🌳 Out Again — Pick One
+- **Check the boot-print trail** — has it survived? If it's gone, ask her where it went
+- 🏊 **Swimming** — a good January afternoon, and it burns off everything that's left
+- 📚 **Library** — borrow three books about houses, and post the box's letters on the way
+- 🔨 **Hardware shop** — go and look at real doors, real windows, real handles
+- **Puddle jumping**, or a scooter run to the postbox
+- **Stick collecting** for a garden around the box house
+
+> 👶 **Kreston's Afternoon:** Prop him in the doorway again, five minutes at a time. At 7 months an enclosed space with his sister in it is the best thing available. On the outing he goes in the carrier and sleeps through most of it.
 
 ---
 
