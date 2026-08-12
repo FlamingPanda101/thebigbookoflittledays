@@ -297,7 +297,7 @@ Beat the record. By now she should be genuinely faster than she was in January �
 ### 🌳 Get Outside: Bird Watch
 Count the birds at the feeder from Day 31. Compare to the first day you hung it — there should be more by now.
 
-> 👶 **Infant Integration:** Beads are a serious hazard for a crawling 8-month-old. High table only, count every bead back into the dish, and check the floor twice.
+> 👶 **Infant Integration:** Beads are a serious hazard for Kreston at 8 months and crawling. High table only, count every bead back into the dish, and check the floor twice.
 
 ---
 

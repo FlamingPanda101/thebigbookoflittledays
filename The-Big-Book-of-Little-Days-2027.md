@@ -1164,7 +1164,7 @@ MLK Day falls on Day 18 and fits the week naturally.
 ### 🌳 Get Outside: Hide the Rocks
 Walk the neighborhood and leave them in places people will find them — a bench, a mailbox post, a park path. Don't linger to watch.
 
-> 👶 **Infant Integration:** Rocks are a serious choking hazard at 8 months. Keep the whole activity on a table he can't reach and count them all back into the bag before he's on the floor.
+> 👶 **Infant Integration:** Rocks are a serious choking hazard at 8 months. Keep the whole activity on a table Kreston can't reach and count them all back into the bag before he's on the floor.
 
 > 🌍 **Around the World — Southern Africa: *Ubuntu***
 > In Zulu and Xhosa there's a word, **Ubuntu**, meaning roughly *"I am because we are"* — the idea that we become ourselves through other people.
@@ -1749,7 +1749,7 @@ Make tracks and follow each other's back. Try to walk exactly in each other's fo
 ### 🌳 Get Outside: Puddle Map
 Find every puddle on the street and rank them. If they're frozen, test which ones hold weight and which crack.
 
-> 👶 **Infant Integration:** Tape a few strips of different textures — masking tape, ribbon, foil — onto the floor near him. At 8 months, picking at edges is compelling and excellent pincer practice.
+> 👶 **Infant Integration:** Tape a few strips of different textures — masking tape, ribbon, foil — onto the floor near Kreston. At 8 months, picking at edges is compelling and excellent pincer practice.
 
 ---
 
@@ -1793,7 +1793,7 @@ Find every puddle on the street and rank them. If they're frozen, test which one
 ### 🌳 Get Outside: Bird Watch
 Watch for patterns outside — fence posts, footprints, the way birds land in a row on a wire.
 
-> 👶 **Infant Integration:** Small objects are a serious hazard now that he's mobile. Keep this on a table and count every piece back into the container before he's on the floor.
+> 👶 **Infant Integration:** Small objects are a serious hazard now that Kreston is mobile. Keep this on a table and count every piece back into the container before he's on the floor.
 
 ---
 
@@ -1959,7 +1959,7 @@ Groundhog Day lands on Day 33 and brings shadows into it.
 ### 🌳 Get Outside: Pinecone & Stick Collecting
 Gather pinecones, interesting sticks, and seed pods. Winter is actually the easiest season for this — nothing's hidden by leaves.
 
-> 👶 **Infant Integration:** Pinecones are exactly the wrong size for a crawling 8-month-old. Do this at the table, and sweep the floor afterward before he's down.
+> 👶 **Infant Integration:** Pinecones are exactly the wrong size for a crawling 8-month-old. Do this at the table, and sweep the floor afterward before Kreston is down.
 
 > 🌍 **Around the World — Japan: *Shinrin-yoku* (Forest Bathing)**
 > Japan has a practice called **forest bathing** — walking slowly in the woods with no goal at all except noticing. Doctors there actually prescribe it.
@@ -3256,7 +3256,7 @@ Beat the record. By now she should be genuinely faster than she was in January �
 ### 🌳 Get Outside: Bird Watch
 Count the birds at the feeder from Day 31. Compare to the first day you hung it — there should be more by now.
 
-> 👶 **Infant Integration:** Beads are a serious hazard for a crawling 8-month-old. High table only, count every bead back into the dish, and check the floor twice.
+> 👶 **Infant Integration:** Beads are a serious hazard for Kreston at 8 months and crawling. High table only, count every bead back into the dish, and check the floor twice.
 
 ---
 
@@ -4555,7 +4555,7 @@ The tent goes up on Day 64 and stays up all week. Eid al-Fitr falls on Day 68.
 ### 🌳 Get Outside: Mud Check
 Early March means the ground is thawing. Go out and find the muddiest spot in the yard. Poke it with a stick. Get boots dirty on purpose.
 
-> 👶 **Infant Integration:** Make sure nothing in the tent structure can be pulled down on top of him — he's pulling up on everything now. Once it's stable, the tent is a great shared space for the two of them.
+> 👶 **Infant Integration:** Make sure nothing in the tent structure can be pulled down on top of Kreston — he's pulling up on everything now. Once it's stable, the tent is a great shared space for the two of them.
 
 > 🌍 **Around the World — China: Acrobatics**
 > Chinese acrobatics is over 2,000 years old. Plate spinning, contortion, and human pyramids were performed at village harvest festivals long before circuses existed.
@@ -4743,7 +4743,7 @@ March puddles are back. Boots on, no rules, jump in every one. Rank them by spla
 ### 🌳 Get Outside: Deliver the Cookies
 Walk the plate over. Let Azlyn hand it across and say "Eid Mubarak" if she'll try it.
 
-> 👶 **Infant Integration:** Dates are soft and sweet — a small mashed piece can be a good early food if he's on solids. Check with your pediatrician first, and never give a whole date to a baby.
+> 👶 **Infant Integration:** Dates are soft and sweet — a small mashed piece can be a good early food if Kreston is on solids. Check with your pediatrician first, and never give a whole date to a baby.
 
 **Say it:** *Eid Mubarak!* (eed moo-BAR-ak) — Blessed Eid.
 
@@ -5062,7 +5062,7 @@ Pick one color and hunt only for that. Restricting it forces her to actually loo
 ### 🌳 Get Outside: Clover Hunt
 Look for real clover in the grass. Count the leaves — almost all have three. Finding a four-leaf one is genuinely rare and worth the hunt.
 
-> 👶 **Infant Integration:** Rice is a serious choking hazard for a 10-month-old who puts everything in his mouth. Set the bin on a table she can reach standing and he cannot, and sweep the floor thoroughly afterward.
+> 👶 **Infant Integration:** Rice is a serious choking hazard for Kreston at 10 months — he puts everything in his mouth. Set the bin on a table she can reach standing and he cannot, and sweep the floor thoroughly afterward.
 
 ---
 
@@ -5109,7 +5109,7 @@ Look for real clover in the grass. Count the leaves — almost all have three. F
 ### 🌳 Get Outside: Puddle Jumping
 Boots on. Look for a rainbow in a puddle with oil on it, or in the spray from a hose.
 
-> 👶 **Infant Integration:** Painted pasta is exactly the wrong size for a 10-month-old. Table only, and count it back into the container before he's on the floor.
+> 👶 **Infant Integration:** Painted pasta is exactly the wrong size for Kreston at 10 months. Table only, and count it back into the container before he's on the floor.
 
 ---
 
@@ -5575,7 +5575,7 @@ Gather what a bird would use: small twigs, dry grass, moss, fluff, bits of strin
 
 > 💡 **Tip:** Letting the first, unsupported attempt fail is the point. It makes what birds do look genuinely impressive rather than easy.
 
-> 👶 **Infant Integration:** Small twigs and eggs are hazards for a 10-month-old. Keep the finished nest up high. Let him hold one large safe leaf on the walk instead.
+> 👶 **Infant Integration:** Small twigs and eggs are hazards for Kreston at 10 months. Keep the finished nest up high. Let him hold one large safe leaf on the walk instead.
 
 ---
 
@@ -5844,7 +5844,7 @@ Give her a bowl, a spoon, and permission. Late March mud is perfect. Make mud so
 ### 🌳 Get Outside: Practice Hunt
 Hide five plastic eggs in easy places and let her find them. A practice run makes tomorrow smoother, and she'll want to hide them for you after.
 
-> 👶 **Infant Integration:** Plastic eggs come apart into two pieces that are exactly the wrong size. Use only large ones, count them all back in, and keep the halves away from him entirely.
+> 👶 **Infant Integration:** Plastic eggs come apart into two pieces that are exactly the wrong size. Use only large ones, count them all back in, and keep the halves away from Kreston entirely.
 
 ---
 
@@ -6028,7 +6028,7 @@ Test what floats in a puddle — a leaf, a stick, a stone. Same experiment, outd
 ### 🌳 Get Outside: Mud Kitchen
 Make an absurd mud recipe. Mud soup with a stick in it. Serve it to you with a straight face.
 
-> 👶 **Infant Integration:** Googly eyes are a classic choking hazard. Put them somewhere he can't reach the moment you're finished, and count the pack.
+> 👶 **Infant Integration:** Googly eyes are a classic choking hazard. Put them somewhere Kreston can't reach the moment you're finished, and count the pack.
 
 ---
 
@@ -7004,7 +7004,7 @@ Walk and count a hundred steps together, then see how far you got. Mark the spot
 ### 🌳 Get Outside: Water the Garden
 Her job, her patch, her watering can. Talk about where the water goes after it hits the soil.
 
-> 👶 **Infant Integration:** Celery is a choking hazard in stalk form. Keep the cups high — a cruising baby will pull a cup of colored water straight off a low table.
+> 👶 **Infant Integration:** Celery is a choking hazard in stalk form. Keep the cups high — Kreston is cruising now and will pull a cup of coloured water straight off a low table.
 
 ---
 
@@ -7370,7 +7370,7 @@ Find homes in your own yard — a bird's nest, a spider web, a hole, a log with 
 ### 🌳 Get Outside: Water the Garden
 Her patch, her can. Check for the first shoots — sunflowers come up fast and she may find one today.
 
-> 👶 **Infant Integration:** Soil and small seeds are hazards, and a walking 11-month-old can reach a windowsill by pulling up. Put the grass head somewhere genuinely out of reach.
+> 👶 **Infant Integration:** Soil and small seeds are hazards, and Kreston can reach a windowsill by pulling up at 11 months. Put the grass head somewhere genuinely out of reach.
 
 ---
 
@@ -7781,7 +7781,7 @@ Gloves on, bag in hand, walk the street. Ten minutes is plenty. Count what you f
 ### 🌳 Get Outside: Water the Garden
 Check the sunflowers. By late April there should be real seedlings. Measure with a paper strip for the journal.
 
-> 👶 **Infant Integration:** Bottle caps are a textbook choking hazard for an 11-month-old. High table, and count every single one back into the jar before he's on the floor.
+> 👶 **Infant Integration:** Bottle caps are a textbook choking hazard for Kreston at 11 months. High table, and count every single one back into the jar before he's on the floor.
 
 ---
 
@@ -7873,7 +7873,7 @@ Walk stiffly around the block like robots. Beeping is compulsory. Kreston will f
 ### 🌳 Get Outside: The Water Relay
 Carrying water carefully is genuinely hard work — full-body, focused, and satisfying. This will occupy her longer than you'd expect.
 
-> 👶 **Infant Integration:** **A walking baby can drown in a bucket.** Empty every container the moment you're finished, and don't leave him unattended near any of it, even for a second.
+> 👶 **Infant Integration:** **A walking baby can drown in a bucket.** Empty every container the moment you're finished, and don't leave Kreston unattended near any of it, even for a second.
 
 ---
 
@@ -7967,7 +7967,7 @@ Garden check. Anything flowering yet? The marigolds move fast.
 ### 🌳 Get Outside: Play While It Develops
 Free play in the yard. The waiting is built into the activity, which makes it easy.
 
-> 👶 **Infant Integration:** Keys and scissors on the ground are exactly what a walking baby heads for. Set the print up somewhere he can't toddle to, or use only leaves and paper shapes.
+> 👶 **Infant Integration:** Keys and scissors on the ground are exactly what Kreston heads for now he's walking. Set the print up somewhere he can't toddle to, or use only leaves and paper shapes.
 
 ---
 
@@ -8137,7 +8137,7 @@ Magnifying glass, a clear jar with air holes, and permission to turn over rocks.
 
 > 💡 **Tip:** Counting legs before drawing changes the drawing entirely. Observation before representation is the whole technique.
 
-> 👶 **Infant Integration:** A walking 11-month-old will grab a bug and eat it. Keep the jar high and supervise closely outside — but do let him watch a beetle move. It's genuinely fascinating to him.
+> 👶 **Infant Integration:** Kreston will grab a bug and eat it at 11 months. Keep the jar high and supervise closely outside — but do let him watch a beetle move. It's genuinely fascinating to him.
 
 > 🌍 **Around the World — Bugs Everywhere**
 > In Germany a ladybug is a *Marienkäfer*; in Japan, *tentōmushi* — "sun child," because it climbs upward and flies toward the sun. In many countries a ladybug landing on you means luck.
@@ -8188,7 +8188,7 @@ Magnifying glass, a clear jar with air holes, and permission to turn over rocks.
 ### 🌳 Get Outside: Hide Them in the Garden
 Place them among the plants for people to spot. Check the sunflower seedlings while you're there.
 
-> 👶 **Infant Integration:** Painted rocks in a garden where a walking baby toddles are a mouth risk — choose rocks too big to swallow, or place them where he doesn't go.
+> 👶 **Infant Integration:** Painted rocks in a garden where Kreston toddles are a mouth risk — choose rocks too big to swallow, or place them where he doesn't go.
 
 ---
 
@@ -8281,7 +8281,7 @@ Sit near flowers and wait. Early May brings the first butterflies. Stillness is 
 ### 🌳 Get Outside: Pollination Game
 Run the bee game in the garden. It's a lot of running between points, which makes it a genuine energy burner.
 
-> 👶 **Infant Integration:** Pom-poms are a choking hazard and a walking baby will find them all. Count them in and out, and sweep the grass with your eyes before you go in.
+> 👶 **Infant Integration:** Pom-poms are a choking hazard and Kreston will find every one of them. Count them in and out, and sweep the grass with your eyes before you go in.
 
 ---
 
@@ -8375,7 +8375,7 @@ Gather flowers, petals, and small leaves. Take only a few from any one plant, an
 ### 🌳 Get Outside: Plant Them
 Press a few into bare soil in her patch. Save some to give away as gifts.
 
-> 👶 **Infant Integration:** Wet pulp with seeds in it is exactly what a walking 11-month-old will put in his mouth. Table only, and keep the drying tray high.
+> 👶 **Infant Integration:** Wet pulp with seeds in it is exactly what Kreston will put in his mouth at 11 months. Table only, and keep the drying tray high.
 
 ---
 
@@ -9246,7 +9246,7 @@ Vesak falls on Day 140 and closes the week quietly.
 ### 🌳 Get Outside: Hose Rinse & Play
 The clean-up *is* the outdoor time. Hose off hands, the tray, and the patio, and let it turn into water play.
 
-> 👶 **Infant Integration:** Oobleck is cornstarch and water, so a mouthful is harmless — but a walking baby will be covered head to toe in seconds. Strip him to a nappy, put him at the edge of the tray, and accept it.
+> 👶 **Infant Integration:** Oobleck is cornstarch and water, so a mouthful is harmless — but Kreston will be covered head to toe in seconds. Strip him to a nappy, put him at the edge of the tray, and accept it.
 
 > 🌍 **Around the World — China: The First Kites**
 > Kites were invented in China around 2,500 years ago, from silk and bamboo. They were used to measure distance, send signals, and test the wind long before anyone flew one for fun.
@@ -9483,7 +9483,7 @@ Take the tub outside. Try leaf boats, stick rafts, and folded paper too.
 ### 🌳 Get Outside: Magnet Walk
 Take the magnet on a walk. Test railings, gates, signposts, cars, and drain covers. Most of it's a surprise.
 
-> 👶 **Infant Integration:** **Swallowed magnets are a genuine medical emergency** — far more dangerous than most small objects. Use only large magnets, count them, and never leave one within his reach.
+> 👶 **Infant Integration:** **Swallowed magnets are a genuine medical emergency** — far more dangerous than most small objects. Use only large magnets, count them, and never leave one within Kreston's reach.
 
 ---
 
@@ -12892,7 +12892,7 @@ Take a spoon and tap things — the fence, a gate, a drainpipe, a railing. Which
 ### 🌳 Get Outside: Water Play
 Sprinkler or hose. It's July; the outdoor half can just be water most days.
 
-> 👶 **Infant Integration:** Glass jars and a 13-month-old don't mix. Use a clear plastic bottle, or keep it up high and let him watch from your arms.
+> 👶 **Infant Integration:** Glass jars and Kreston at 13 months don't mix. Use a clear plastic bottle, or keep it up high and let him watch from your arms.
 
 ---
 
@@ -15136,7 +15136,7 @@ Sprints, then a slow race (last one to the line wins), then a backwards race.
 ### 🌳 Get Outside: Event Two — Throwing
 Targets in the yard, distances marked in chalk. Add up points at the end and record on the scoreboard.
 
-> 👶 **Infant Integration:** Throwing is a brand-new skill at 14 months and he'll do it constantly. Give him his own basket and sock balls — dropping them in counts.
+> 👶 **Infant Integration:** Throwing is a brand-new skill at 14 months and Kreston will do it constantly. Give him his own basket and sock balls — dropping them in counts.
 
 ---
 
@@ -16410,7 +16410,7 @@ Drum outside. Play "follow the volume" — she copies loud, soft, fast, slow as 
 ### 🌳 Get Outside: Water Glass Music
 Take the glasses outside on a tray. Let her arrange them low to high and play a tune.
 
-> 👶 **Infant Integration:** Glass and a 15-month-old don't mix. Use plastic cups for his, and let him tap them with a wooden spoon under supervision.
+> 👶 **Infant Integration:** Glass and Kreston at 15 months don't mix. Use plastic cups for his, and let him tap them with a wooden spoon under supervision.
 
 ---
 
@@ -17984,7 +17984,7 @@ Out with one job: find something purely red, something purely yellow, and someth
 ### 🌳 Get Outside: Chalk Shapes on the Drive
 Draw six big shapes on the pavement — circle, square, triangle, rectangle, star, oval — spaced far apart. **Then call them out and she runs.** Speed it up. Then let her call them for you, which she'll enjoy more than doing it.
 
-> 👶 **Integration:** Kreston gets a fistful of uncut straws and a large container with a hole in the lid. Posting straws through a hole is completely absorbing at this age and it's the same skill as Tuesday's shape sorter.
+> 👶 **Infant Integration:** Kreston gets a fistful of uncut straws and a large container with a hole in the lid. Posting straws through a hole is completely absorbing at this age and it's the same skill as Tuesday's shape sorter.
 
 > 🌍 **Around the World — Morocco: *Zellij* Tilework**
 > In Morocco, craftsmen chisel glazed tiles into precise geometric pieces and fit them into vast patterns that cover walls, floors, and fountains — **stars, crosses, and eight-pointed rosettes, with no gaps anywhere.** The shapes are cut by hand and the pattern is held in the craftsman's head. Some designs have been passed down through families for centuries.
