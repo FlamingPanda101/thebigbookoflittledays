@@ -16279,26 +16279,30 @@ The last week of summer. It ends with a family concert.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting: Sound Hunt (15 min)
-- **9:15–10:15 AM** — Main Event: Make Shakers (60 min)
+- **9:15–10:15 AM** — Main Event: The Sound Laboratory (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Marching Band** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Make Shakers
+### 🎨 The Main Event: The Sound Laboratory
 **🧰 Complete Materials List:**
-- 4 small plastic bottles or spice jars with lids
+- 4 small plastic bottles or spice jars with identical lids
 - Dry rice, dried beans, pasta, and a few coins
 - Strong tape
 - Paint, stickers, or paper to decorate
 - A funnel, or a rolled paper cone
+- A blindfold or a tea towel
+- Paper and a marker, for the prediction chart
 
 **📝 Step-by-Step Instructions:**
-1. She pours a different filler into each bottle — rice, beans, pasta, coins. Use the funnel.
-2. **Adult seals every lid** and tapes it thoroughly. Shake each one hard yourself before handing it over.
-3. Decorate the outsides.
-4. **Line them up quietest to loudest.** Rice is soft, coins are sharp. That ordering is the actual lesson.
-5. Play a song and shake along on the beat.
+1. **This is January's shakers grown up** — dig out the ones from Day 9 if they survived. **Today the making is the quick part and the testing is the activity.**
+2. **Predict before you fill.** Lay the four fillers out and ask her: **which will be loudest? Which will be quietest?** Write her order on the chart before a single bottle is filled.
+3. She pours a different filler into each bottle with the funnel. **Same amount in each** — otherwise the test doesn't work, and she can measure that herself.
+4. **Adult seals every lid** and tapes it thoroughly. Shake each one hard yourself before handing it over.
+5. **Then test it.** Shake each one in turn and **line them up quietest to loudest.** Compare the real order to her predicted order. **How close was she?**
+6. Decorate the outsides — but **only after the test**, so they can't be told apart by sight.
+7. **The blindfold round:** she closes her eyes, you shake one, and she names what's inside it. **That's the whole point of the day**, and she'll be much better at it than you expect.
 
 > ⚠️ **Tape every lid more than you think necessary.** A burst shaker puts rice and coins on the floor with a 15-month-old in the room.
 
