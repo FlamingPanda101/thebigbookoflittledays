@@ -258,7 +258,7 @@ Beat the record. By now she should be genuinely faster than she was in January �
 
 > 🧠 **A Little Parenting Insight**
 > **"A long time ago" is as much history as she can hold.**
-> Time is genuinely abstract until around seven or eight. A 4-year-old doesn't distinguish between last week, before she was born, and the age of dinosaurs — they all live in the same bucket labeled *before*.
+> Time is genuinely abstract until around seven or eight. a three-year-old doesn't distinguish between last week, before she was born, and the age of dinosaurs — they all live in the same bucket labeled *before*.
 > This isn't a reason to skip history, but it is a reason to keep it concrete and personal: what a house looked like, what a child ate, whether they had shoes. Details a body can imagine land; dates and abstractions don't. The same principle applies to *later* — "after your nap" is meaningful, "in three weeks" is not.
 
 > 💛 **From Joseph:** You explain hard things simply without ever talking down to them. That's a genuinely rare skill.

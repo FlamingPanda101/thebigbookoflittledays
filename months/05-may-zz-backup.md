@@ -100,7 +100,7 @@ Shade, stories, and something cold. Homemade ice pops — juice or blended fruit
 > 🧠 **A Little Parenting Insight**
 > **Heat, hunger, and tiredness account for most "bad behavior."**
 > Before treating a difficult morning as a behavioral issue, run the physical checklist: hot, hungry, thirsty, tired, needs the toilet. Young children have poor interoception — they often genuinely cannot identify what's wrong, and it comes out as defiance or a meltdown instead.
-> On the first hot day of the year especially, the answer is nearly always physical. Cool her down and feed her before you address anything else. Most of what looks like a discipline problem at four is a body problem wearing a costume.
+> On the first hot day of the year especially, the answer is nearly always physical. Cool her down and feed her before you address anything else. Most of what looks like a discipline problem at three is a body problem wearing a costume.
 
 > 💛 **From Joseph:** You check if they're hungry before you get cross. Sounds obvious. Almost nobody actually does it.
 

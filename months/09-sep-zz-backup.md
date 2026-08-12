@@ -48,7 +48,7 @@ Everyone is the wind. Blow round the room, then be a gale, then a breeze, then s
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Testing the same thing twenty times is what a four-year-old means by an experiment.**
+> **Testing the same thing twenty times is what a three-year-old means by an experiment.**
 > Adults think of an experiment as a question with a designed answer. For her, it's repetition with small variations — throw it again, throw it harder, throw it with a paperclip on — and the understanding accumulates out of the pile of attempts rather than arriving as a conclusion.
 > Which is why the useful move is to protect the repetition rather than hurry to the finding. Changing one thing at a time and saying so out loud gives the pile a shape, and that's all the method she needs at this age. The theory she offers at the end will be wrong. The habit of changing one thing and watching what happens is the part that isn't.
 
@@ -99,7 +99,7 @@ Cushions and towels laid out as puddles across the floor. Jump from one to the n
 
 > 🧠 **A Little Parenting Insight**
 > **Autumn is the first season she can watch changing week by week.**
-> Time is genuinely hard at four — *yesterday*, *last week* and *last year* often mean much the same thing. Seasons are usually too slow to register as movement. Autumn is the exception: the tree at the end of the road looks visibly different every week for two months.
+> Time is genuinely hard at three — *yesterday*, *last week* and *last year* often mean much the same thing. Seasons are usually too slow to register as movement. Autumn is the exception: the tree at the end of the road looks visibly different every week for two months.
 > That makes it unusually good material for building a sense of change over time. A pressed leaf with a date on it, taken out a fortnight later and compared to a fresh one, gives her something concrete to hang *before* and *after* on. It's the same reason the height chart works. Slow change becomes visible when you leave yourself evidence.
 
 > 💛 **From Joseph:** She checks the pressed ones every single day to see if they're done yet. Two weeks is a very long time in this house.
@@ -134,7 +134,7 @@ Cushions and towels laid out as puddles across the floor. Jump from one to the n
 4. **Don't correct, don't prompt for detail, don't ask her to speak up.** Let it be rambling and half-inaudible.
 5. **Then play it back.** This is the actual event of the day, and it usually produces delight, embarrassment, or both.
 6. She'll want to record another one immediately. Let her, until she doesn't.
-7. **Keep the files.** Label them with the date. A croaky four-year-old telling a story that goes nowhere is the single best recording you'll make this year.
+7. **Keep the files.** Label them with the date. A croaky three-year-old telling a story that goes nowhere is the single best recording you'll make this year.
 
 > 💡 **Tip:** Record yourself telling one too, badly, first. It removes the self-consciousness entirely and she'll be much less guarded on hers.
 
@@ -196,7 +196,7 @@ A washing-up bowl of warm water on a towel on the table, a few cups and spoons, 
 
 > 🧠 **A Little Parenting Insight**
 > **Being ill is her first experience of her body not obeying her.**
-> A four-year-old with a bad cold isn't just uncomfortable — she's confused. She wants to run and can't, wants to eat and doesn't want to, feels wrong in a way she has no words for. A lot of the whining is that confusion rather than the symptoms.
+> a three-year-old with a bad cold isn't just uncomfortable — she's confused. She wants to run and can't, wants to eat and doesn't want to, feels wrong in a way she has no words for. A lot of the whining is that confusion rather than the symptoms.
 > What helps is naming it plainly and without alarm: *your body is busy fighting something, so it hasn't got much left over for playing today, and that's why you feel funny.* It gives her a story for the strangeness and a reason to expect it to end. Children handle discomfort far better when they've been told what it is and roughly how long it lasts.
 
 > 💛 **From Joseph:** "I want to feel better yesterday." Same, love.

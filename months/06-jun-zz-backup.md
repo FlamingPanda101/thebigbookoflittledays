@@ -47,7 +47,7 @@ Everything in slow motion — walking across the room, a slow-motion race, slow-
 
 > 🧠 **A Little Parenting Insight**
 > **Heat makes children behave badly, and it isn't a discipline problem.**
-> Young children regulate temperature poorly, dehydrate faster than adults, and have very little ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
+> Young children regulate temperature poorly, dehydrate faster than adults, and have very little ability to identify what's wrong. A hot, thirsty three-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
 > The first response to a bad afternoon in summer should be water, shade, and a cooler room. Not a conversation about behavior. Solve the physical problem first; you can nearly always skip the second conversation entirely.
 
 > 💛 **From Joseph:** When they're melting down in the heat, you hand them water before you say anything. That order matters more than people realize.
@@ -93,7 +93,7 @@ Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder 
 
 > 🧠 **A Little Parenting Insight**
 > **Children calibrate fear from your face, not from the facts.**
-> A 4-year-old checks her adult before deciding whether something is dangerous — it's called social referencing, and it's active from infancy. Your expression during the thunderclap does more than your explanation afterward.
+> a three-year-old checks her adult before deciding whether something is dangerous — it's called social referencing, and it's active from infancy. Your expression during the thunderclap does more than your explanation afterward.
 > So the useful move at the moment of the bang isn't words. It's being visibly unbothered — a relaxed face, an ordinary voice, maybe mild interest. Explanation helps afterward. In the moment, she's watching you, and calm is contagious.
 
 > 💛 **From Joseph:** You're calm when things bang and crash. They both look at you first, every time, and you always give them the right face.

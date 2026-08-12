@@ -1069,7 +1069,7 @@ Find something bare, something evergreen, something frozen, something red, and s
 
 ### 🎯 What This Week Is About
 
-Kindness, made concrete. A 4-year-old can't act on "be nice" — it's too abstract. So this week turns kindness into objects and actions she can hold: painted rocks left for strangers, soup delivered to a neighbor, cards posted to real people.
+Kindness, made concrete. a three-year-old can't act on "be nice" — it's too abstract. So this week turns kindness into objects and actions she can hold: painted rocks left for strangers, soup delivered to a neighbor, cards posted to real people.
 
 MLK Day falls on Day 18 and fits the week naturally.
 
@@ -1079,7 +1079,7 @@ MLK Day falls on Day 18 and fits the week naturally.
 
 - **That her actions affect other people's feelings**, visibly and immediately.
 - **Helping as a real job**, not a pretend one.
-- **Turn-taking**, which is achievable at four in a way that spontaneous sharing isn't.
+- **Turn-taking**, which is achievable at three in a way that spontaneous sharing isn't.
 - **Naming what she appreciates** about specific people.
 - **Early gratitude** — noticing that a person chose to do something for her.
 
@@ -2720,7 +2720,7 @@ Walk the neighborhood and count everything red you can find. Red is the color of
 > 🧠 **A Little Parenting Insight**
 > **Celebrating other people's holidays does something specific.**
 > Children begin sorting the world into *us* and *them* remarkably early — by three or four they'll form group preferences based on almost nothing, like a randomly assigned t-shirt color. That sorting instinct isn't malice; it's how a small brain organizes complexity.
-> What shifts it is ordinary, positive, repeated contact with difference — not lectures about tolerance. A Lunar New Year celebrated in your own kitchen with real food and a real envelope registers to a 4-year-old as *something our family does*, which quietly widens the boundary of "us." That's the whole mechanism, and it's why doing it beats explaining it.
+> What shifts it is ordinary, positive, repeated contact with difference — not lectures about tolerance. A Lunar New Year celebrated in your own kitchen with real food and a real envelope registers to a three-year-old as *something our family does*, which quietly widens the boundary of "us." That's the whole mechanism, and it's why doing it beats explaining it.
 
 > 💛 **From Joseph:** You're curious about everything and it's contagious. She's going to want to see the world because you did.
 
@@ -3217,7 +3217,7 @@ Beat the record. By now she should be genuinely faster than she was in January �
 
 > 🧠 **A Little Parenting Insight**
 > **"A long time ago" is as much history as she can hold.**
-> Time is genuinely abstract until around seven or eight. A 4-year-old doesn't distinguish between last week, before she was born, and the age of dinosaurs — they all live in the same bucket labeled *before*.
+> Time is genuinely abstract until around seven or eight. a three-year-old doesn't distinguish between last week, before she was born, and the age of dinosaurs — they all live in the same bucket labeled *before*.
 > This isn't a reason to skip history, but it is a reason to keep it concrete and personal: what a house looked like, what a child ate, whether they had shoes. Details a body can imagine land; dates and abstractions don't. The same principle applies to *later* — "after your nap" is meaningful, "in three weeks" is not.
 
 > 💛 **From Joseph:** You explain hard things simply without ever talking down to them. That's a genuinely rare skill.
@@ -5522,7 +5522,7 @@ Today the day and night are almost exactly equal length. Go out and notice how m
 
 > ⚠️ **Safety:** Keep powder away from eyes and mouths. Do not use it anywhere Kreston is crawling — it settles on the ground and he will put his hands in it and then in his mouth.
 
-> 💡 **Tip:** The permission is the whole thrill. Say clearly and in advance: *today, throwing this at people is allowed.* Watching a rule-following 4-year-old process that is delightful.
+> 💡 **Tip:** The permission is the whole thrill. Say clearly and in advance: *today, throwing this at people is allowed.* Watching a rule-following three-year-old process that is delightful.
 
 ### 🌳 Get Outside: The Color Throw
 This is the outdoor activity. Give it the full hour and don't rush the rinsing-off either.
@@ -6023,7 +6023,7 @@ Test what floats in a puddle — a leaf, a stick, a stone. Same experiment, outd
 4. Plan one thing for tomorrow morning: clothes on backwards, or breakfast served in the wrong order.
 5. Check the naked egg from yesterday. The shell should be visibly going.
 
-> 💡 **Tip:** Keep every prank in the category of *surprising and funny*, never *frightening*. A 4-year-old doesn't reliably distinguish the two, and one scary trick can sour the whole idea.
+> 💡 **Tip:** Keep every prank in the category of *surprising and funny*, never *frightening*. a three-year-old doesn't reliably distinguish the two, and one scary trick can sour the whole idea.
 
 ### 🌳 Get Outside: Mud Kitchen
 Make an absurd mud recipe. Mud soup with a stick in it. Serve it to you with a straight face.
@@ -6169,7 +6169,7 @@ Paper plates or cushions on the floor as puddles. Jump from one to the next with
 4. Come back in when hands get cold. Hang the wind sock where she can see it from a window.
 5. **Blowing games indoors:** race cotton balls across the table by blowing through straws.
 
-> 💡 **Tip:** The bag kite is genuinely better than a shop-bought one for a 4-year-old. No assembly, no tangling, and it flies at walking pace.
+> 💡 **Tip:** The bag kite is genuinely better than a shop-bought one for a three-year-old. No assembly, no tangling, and it flies at walking pace.
 
 ### 🏃 Indoor Movement: Straw Races
 Cotton ball races on the table, blown through straws. Then feathers, then a crumpled paper ball. Which is hardest to move?
@@ -6181,7 +6181,7 @@ Cotton ball races on the table, blown through straws. Then feathers, then a crum
 > 🧠 **A Little Parenting Insight**
 > **Blowing games do more than entertain.**
 > Controlled blowing through a straw uses the same oral motor coordination that speech depends on, and it requires sustained, graded breath control — which is genuinely hard for a preschooler.
-> There's a bonus: slow, extended exhalation activates the body's calming system. This is why blowing bubbles, blowing out candles, or blowing a cotton ball across a table often settles an agitated child faster than asking her to take deep breaths. "Blow this across the table" is an instruction a 4-year-old can follow; "calm down and breathe" is not.
+> There's a bonus: slow, extended exhalation activates the body's calming system. This is why blowing bubbles, blowing out candles, or blowing a cotton ball across a table often settles an agitated child faster than asking her to take deep breaths. "Blow this across the table" is an instruction a three-year-old can follow; "calm down and breathe" is not.
 
 > 💛 **From Joseph:** You have a hundred tricks for turning a meltdown around and you invented most of them yourself.
 
@@ -6400,7 +6400,7 @@ The week ends with her presenting her own science fair.
 
 - **Making a prediction before testing** — every single time.
 - **That being wrong is normal, interesting, and survivable.**
-- **Describing accurately**, which matters more at four than explaining.
+- **Describing accurately**, which matters more at three than explaining.
 - **Iteration** — build, fail, change one thing, rebuild.
 - **That some things change while you're not looking.**
 
@@ -6506,7 +6506,7 @@ Move stranded worms back to soil after the rain. Talk about what they do for the
 
 > 🧠 **A Little Parenting Insight**
 > **Predicting the breaking point is real experimental thinking.**
-> Dropping the egg from increasing heights and predicting each time is, structurally, a proper experiment: one variable changed systematically, an outcome observed, a prediction tested. That's a genuinely sophisticated shape for an activity, and she can do it at four.
+> Dropping the egg from increasing heights and predicting each time is, structurally, a proper experiment: one variable changed systematically, an outcome observed, a prediction tested. That's a genuinely sophisticated shape for an activity, and she can do it at three.
 > The part worth protecting is asking for the prediction *before every single drop*, not just the first. It's tempting to speed up once she's engaged. But the repeated commit-then-check cycle is where the learning lives, and each round takes about four seconds.
 
 > 💛 **From Joseph:** You do the messy experiments. A lot of parents would just not, and our kids are luckier than they know.
@@ -6777,7 +6777,7 @@ Bubbles into the April wind. Chase and pop them.
 4. Bring in whoever's available. She presents each station.
 5. Ask her real questions. Let her answer even if the answer is wrong.
 
-> 💡 **Tip:** Ask "what happened?" not "why did it happen?" She can describe the result accurately, which is real science. Explaining the mechanism is not the job at four.
+> 💡 **Tip:** Ask "what happened?" not "why did it happen?" She can describe the result accurately, which is real science. Explaining the mechanism is not the job at three.
 
 ### 🌳 Get Outside: The Slowest Walk Ever
 Walk to the end of the block as slowly as possible. Notice everything. It's a genuinely different walk.
@@ -6826,7 +6826,7 @@ Day 100 lands here. Vaisakhi is on Day 104.
 - Making the invisible visible is the core trick of good science teaching
 - Building for an animal reframes the relationship
 - Smell is wired directly to memory in a way the other senses aren't
-- Fairness is the strongest moral instinct a 4-year-old has
+- Fairness is the strongest moral instinct a three-year-old has
 - A record makes slow change perceptible
 
 ---
@@ -6901,7 +6901,7 @@ Day 100 lands here. Vaisakhi is on Day 104.
 4. Make labels on craft sticks and push them in.
 5. Water it. Then agree on a watering job that's hers every day.
 
-> 💡 **Tip:** Sunflowers are the single best choice for a 4-year-old — fast, enormous, dramatic, and forgiving. Plant more of those than anything else.
+> 💡 **Tip:** Sunflowers are the single best choice for a three-year-old — fast, enormous, dramatic, and forgiving. Plant more of those than anything else.
 
 ### 🌳 Get Outside: Plant It
 The planting is the outdoor time today. Give it a full hour and don't hurry the digging.
@@ -6952,7 +6952,7 @@ The planting is the outdoor time today. Give it a full hour and don't hurry the 
 4. Write the date and "100 DAYS" across the top.
 5. Look back through the book together at favorite days. Flip to January and compare.
 
-> 💡 **Tip:** Ten rows of ten is far more meaningful than a scattered hundred. Seeing the square is the closest a 4-year-old gets to understanding what a hundred *is*.
+> 💡 **Tip:** Ten rows of ten is far more meaningful than a scattered hundred. Seeing the square is the closest a three-year-old gets to understanding what a hundred *is*.
 
 ### 🌳 Get Outside: Count 100 Steps
 Walk and count a hundred steps together, then see how far you got. Mark the spot. It's further than she'll guess.
@@ -7137,7 +7137,7 @@ Water her patch. Smell the soil after watering — wet earth has a real, distinc
 4. Take a portion to a neighbor.
 5. **Try bhangra** — harvest dancing. Shoulders up, arms up, big bouncy steps. Put the music on loud.
 
-> 💡 **Tip:** The floor-seating detail is the whole lesson at this age. *"Everybody sits the same, nobody's higher up."* A 4-year-old with a strong fairness instinct will absolutely get that.
+> 💡 **Tip:** The floor-seating detail is the whole lesson at this age. *"Everybody sits the same, nobody's higher up."* a three-year-old with a strong fairness instinct will absolutely get that.
 
 ### 🌳 Get Outside: Deliver It
 Walk the food over. Let her hand it across.
@@ -7149,7 +7149,7 @@ Walk the food over. Let her hand it across.
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Fairness is the strongest moral instinct a 4-year-old has.**
+> **Fairness is the strongest moral instinct a three-year-old has.**
 > Preschoolers care enormously about equal treatment, and will protest unfairness loudly, especially when it disadvantages them. That instinct is a genuine foundation, and it's worth building on rather than merely managing.
 > Ideas framed as fairness land far better at this age than ideas framed as kindness or charity. *Everyone sits at the same level. Everyone gets fed. Nobody's turned away.* She can grasp that immediately, because it's the same rule she already applies fiercely to biscuit distribution. Meet the instinct where it is and extend it outward.
 
@@ -7199,7 +7199,7 @@ Check every planted thing. Anything up yet? Measure with a paper strip. Look for
 > Children live intensely in the present, which makes gradual change nearly invisible to them. The garden looks the same today as yesterday. But a journal from three weeks ago is unarguable evidence that things have changed.
 > This is the same principle as the doorframe growth chart, and it's worth applying widely — drawings, handwriting, photos, height. Giving a child external evidence of her own progress is one of the more reliable ways to build the sense that effort accumulates. She can't feel it from the inside; she needs to see it.
 
-> 💛 **From Joseph:** Fifteen weeks. There's a garden out there now that didn't exist in March. You made that happen with a four-year-old, which is harder than doing it alone.
+> 💛 **From Joseph:** Fifteen weeks. There's a garden out there now that didn't exist in March. You made that happen with a three-year-old, which is harder than doing it alone.
 
 <div style="page-break-after: always;"></div>
 <a id="week-16"></a>
@@ -7377,7 +7377,7 @@ Her patch, her can. Check for the first shoots — sunflowers come up fast and s
 > 🧠 **A Little Parenting Insight**
 > **Giving something a face changes how a child treats it.**
 > A pot of grass gets forgotten. A pot of grass with eyes and a name gets watered. Anthropomorphizing is sometimes dismissed as childish, but it's a genuinely effective route into care — attributing a mind to something recruits the same empathy machinery she uses for people.
-> This is worth exploiting deliberately for anything you want her to look after. A named plant, a named bug hotel, a named garden patch. It's not a trick, exactly; it's meeting a 4-year-old's mind where it works best.
+> This is worth exploiting deliberately for anything you want her to look after. A named plant, a named bug hotel, a named garden patch. It's not a trick, exactly; it's meeting a three-year-old's mind where it works best.
 
 > 💛 **From Joseph:** Everything in our house has a name because of you. The plants, the car, that dent in the wall. I love it.
 
@@ -7412,7 +7412,7 @@ Her patch, her can. Check for the first shoots — sunflowers come up fast and s
 4. Go outside and make a mark in the box every time you spot one.
 5. Count the marks at the end. Which bird was most common?
 
-> 💡 **Tip:** Tally marks are a 4-year-old's first data collection. She's recording an observation with a symbol — that's a bigger idea than the birds.
+> 💡 **Tip:** Tally marks are a three-year-old's first data collection. She's recording an observation with a symbol — that's a bigger idea than the birds.
 
 ### 🌳 Get Outside: The Bird Count
 Sit still somewhere with a view for fifteen minutes. Stillness is the skill. Birds arrive when you stop moving.
@@ -7459,7 +7459,7 @@ Sit still somewhere with a view for fifteen minutes. Stillness is the skill. Bir
 4. Put the lid on and set it somewhere bright but not in direct sun.
 5. Over days, water condenses on the glass and rains back down. It waters itself.
 
-> 💡 **Tip:** A sealed terrarium is the clearest demonstration of the water cycle a 4-year-old can hold in her hands. Point out the droplets on the lid every time you pass it.
+> 💡 **Tip:** A sealed terrarium is the clearest demonstration of the water cycle a three-year-old can hold in her hands. Point out the droplets on the lid every time you pass it.
 
 ### 🌳 Get Outside: Collect the Contents
 Gather moss, small stones, and a seedling from the yard. Take only a little from any one spot.
@@ -7567,7 +7567,7 @@ Ordinary garden job. Check on the sunflowers.
 > 🧠 **A Little Parenting Insight**
 > **The seder is possibly the oldest child-centered teaching ritual on earth.**
 > The whole evening is built around a child's question, uses food as memory anchors, includes a hidden object to find, and requires reclining. Every one of those choices exists to hold a young child's attention for several hours — and it's been working for a very long time.
-> There's a lesson in the design itself. Taste, story, question, hunt, physical posture. When you want something to stick with a 4-year-old, that's an extraordinarily good template — and it's more or less the shape of every good day in this book.
+> There's a lesson in the design itself. Taste, story, question, hunt, physical posture. When you want something to stick with a three-year-old, that's an extraordinarily good template — and it's more or less the shape of every good day in this book.
 
 > 💛 **From Joseph:** She asks a hundred questions and you answer them like they're the important part. Turns out a whole religion agrees with you.
 
@@ -7787,8 +7787,8 @@ Check the sunflowers. By late April there should be real seedlings. Measure with
 
 > 🧠 **A Little Parenting Insight**
 > **"Waste" is a concept, and it's teachable through objects.**
-> A bottle cap has no value to a 4-year-old until it becomes part of a picture. Then it's suddenly worth something — and that transformation is a demonstration of the whole idea. Value isn't a property of the object; it's a function of what you do with it.
-> That's a lot to unpack at four, but the felt version lands: *this was rubbish and now it's art.* Say it out loud. It's the same reasoning she'll need later for everything from mending clothes to not throwing food away.
+> A bottle cap has no value to a three-year-old until it becomes part of a picture. Then it's suddenly worth something — and that transformation is a demonstration of the whole idea. Value isn't a property of the object; it's a function of what you do with it.
+> That's a lot to unpack at three, but the felt version lands: *this was rubbish and now it's art.* Say it out loud. It's the same reasoning she'll need later for everything from mending clothes to not throwing food away.
 
 > 💛 **From Joseph:** You've never thrown out something they made. Not once. There's a box in the closet and I know exactly how full it is.
 
@@ -7974,7 +7974,7 @@ Free play in the yard. The waiting is built into the activity, which makes it ea
 > 🧠 **A Little Parenting Insight**
 > **Solar energy, demonstrated without a word of explanation.**
 > The sun did work here. It changed the paper, invisibly, over time, using nothing but light. That's a real physical process she watched happen — and no explanation is required for the memory to form.
-> The useful phrase is simply *"the sun did that."* Repeated across sun prints, drying laundry, warm car seats, melting ice, and plants growing toward a window, it builds an intuition that sunlight is an active force rather than just brightness. That intuition is worth far more at four than any definition.
+> The useful phrase is simply *"the sun did that."* Repeated across sun prints, drying laundry, warm car seats, melting ice, and plants growing toward a window, it builds an intuition that sunlight is an active force rather than just brightness. That intuition is worth far more at three than any definition.
 
 > 💛 **From Joseph:** You point things out. Just constantly, all day. That's what an education actually is.
 
@@ -8195,7 +8195,7 @@ Place them among the plants for people to spot. Check the sunflower seedlings wh
 > 🧠 **A Little Parenting Insight**
 > **Symmetry is one of the first patterns children can produce, not just notice.**
 > Matching dots on both sides requires holding a rule and applying it deliberately — counting one side, then producing the same on the other. That's more demanding than recognizing symmetry in a butterfly.
-> Producing a pattern is consistently harder than perceiving one, across every domain. Which is why "make it the same on both sides" is a genuinely challenging instruction at four, and why succeeding at it is worth noticing out loud.
+> Producing a pattern is consistently harder than perceiving one, across every domain. Which is why "make it the same on both sides" is a genuinely challenging instruction at three, and why succeeding at it is worth noticing out loud.
 
 > 💛 **From Joseph:** You count things with her constantly. Dots, steps, spoons. She's going to be good at numbers and she'll never know why.
 
@@ -8241,7 +8241,7 @@ Sit near flowers and wait. Early May brings the first butterflies. Stillness is 
 
 > 🧠 **A Little Parenting Insight**
 > **Cycles are harder than sequences.**
-> A sequence has a start and an end. A cycle has neither — it just goes round. That's genuinely difficult for a 4-year-old, whose mental model of time is strongly linear.
+> A sequence has a start and an end. A cycle has neither — it just goes round. That's genuinely difficult for a three-year-old, whose mental model of time is strongly linear.
 > The spinning wheel helps because it's physically circular; she can turn it forever and see there's no last step. Point it out explicitly: *"Where does it start? Where does it end?"* Sitting with the confusion is more useful than resolving it. Seasons, days, and water cycles all rely on the same idea, and this is the easiest place to meet it.
 
 > 💛 **From Joseph:** You let questions stay open. You don't rush to tie them off. That's how curious kids stay curious.
@@ -8753,7 +8753,7 @@ The memory jar starts on Day 132 and gets read on Day 365.
 
 ### 👩 What You'll Learn
 
-- Family structure is genuinely confusing at four, and worth being explicit about
+- Family structure is genuinely confusing at three, and worth being explicit about
 - Secrets are cognitively demanding, and she will probably fail
 - Children can't yet imagine their parents as separate people
 - Acts of service are the hardest gift for a young child to conceive of
@@ -8845,8 +8845,8 @@ First proper barefoot day. Grass, then pavement, then dirt. Which feels best? Kr
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Family structure is genuinely confusing at four, and worth being explicit about.**
-> A 4-year-old often can't hold that her mother is also someone's daughter, or that her grandmother is her mother's mother. Relationships are understood from her position outward, and reversing or nesting them is hard.
+> **Family structure is genuinely confusing at three, and worth being explicit about.**
+> a three-year-old often can't hold that her mother is also someone's daughter, or that her grandmother is her mother's mother. Relationships are understood from her position outward, and reversing or nesting them is hard.
 > A visual tree helps, but the phrasing helps more: *"Grandma is my mummy. I'm your mummy. So Grandma is your mummy's mummy."* Slow, repeated, and concrete. She may take a year to get it, and the confusion is normal rather than a sign she wasn't listening.
 
 > 💛 **From Joseph:** You talk about your own mum in front of them a lot. They're getting a sense that they come from somewhere, and that matters.
@@ -8893,7 +8893,7 @@ Pick real flowers for tomorrow — from the garden she planted, if anything's bl
 
 > 🧠 **A Little Parenting Insight**
 > **Secrets are cognitively demanding, and she will probably fail.**
-> Keeping a surprise requires knowing something another person doesn't, and deliberately not saying it. That's theory of mind plus impulse control, both still under construction at four. She will very likely tell Brooklyn within the hour.
+> Keeping a surprise requires knowing something another person doesn't, and deliberately not saying it. That's theory of mind plus impulse control, both still under construction at three. She will very likely tell Brooklyn within the hour.
 > Don't treat the leak as naughtiness. Being able to hold a secret is a developmental capacity, not a moral one, and it arrives somewhere around five or six. In the meantime, the effort of trying is the practice — and everyone can pretend to be surprised.
 
 > 💛 **From Joseph:** She'll tell you. She always tells you. Act surprised anyway — she'll be so pleased with herself.
@@ -8943,7 +8943,7 @@ Nothing scheduled. A walk, a coffee, a sit in the garden, or nothing at all.
 
 > 🧠 **A Little Parenting Insight**
 > **Children can't yet imagine their parents as separate people.**
-> Ask a 4-year-old what her mother would do with a free day and she'll say something that involves her. That's not selfishness; it's that a preschooler genuinely struggles to model a parent as a person with an independent inner life.
+> Ask a three-year-old what her mother would do with a free day and she'll say something that involves her. That's not selfishness; it's that a preschooler genuinely struggles to model a parent as a person with an independent inner life.
 > This changes gradually, and you can nudge it: talking about what *you* liked as a child, what you find hard, what you're looking forward to. Children who hear their parents described as people develop that perspective earlier — and it's the foundation of every good relationship they'll have later.
 
 > 💛 **From Joseph:** Happy Mother's Day. You were made for this and you'd have been remarkable at anything. I'm glad it's this, and I'm glad it's with me.
@@ -9080,7 +9080,7 @@ Draw a route on the driveway — hop here, spin here, balance along this line. L
 
 > 🧠 **A Little Parenting Insight**
 > **Children don't have autobiographical memory the way we assume.**
-> Most adults remember almost nothing before age three or four, and a 4-year-old's memory of her own life is patchy and heavily shaped by what gets talked about. The stories a family tells repeatedly become the memories a child keeps.
+> Most adults remember almost nothing before age three or four, and a three-year-old's memory of her own life is patchy and heavily shaped by what gets talked about. The stories a family tells repeatedly become the memories a child keeps.
 > That's an unusual amount of influence, and it's worth using deliberately. Retelling good moments — *"remember when we planted the sunflowers?"* — genuinely helps them consolidate. A memory jar is essentially a retelling machine, and what you choose to write down is what she'll grow up believing her childhood was like.
 
 > 💛 **From Joseph:** You're writing our family's history without anyone asking you to. It's the most important admin in the house.
@@ -9307,7 +9307,7 @@ Take it outside and build a bigger cone from real mud. Outdoor eruptions can be 
 > 🧠 **A Little Parenting Insight**
 > **Repeating an experiment is what makes it an experiment.**
 > A one-off eruption is a show. Doing it five times, changing something each round — more soda, less vinegar, a different container — is genuine investigation, and it's exactly what she'll want to do anyway.
-> So follow her lead and add a question: *"What if we use more? What if we use less?"* You don't need to control the variables properly. The habit of changing one thing and watching what happens is the entire lesson, and it's completely available at four.
+> So follow her lead and add a question: *"What if we use more? What if we use less?"* You don't need to control the variables properly. The habit of changing one thing and watching what happens is the entire lesson, and it's completely available at three.
 
 > 💛 **From Joseph:** You say yes to "again" more than anyone I've ever met.
 
@@ -9489,7 +9489,7 @@ Take the magnet on a walk. Test railings, gates, signposts, cars, and drain cove
 
 > 🧠 **A Little Parenting Insight**
 > **Invisible forces are a big conceptual step.**
-> Everything a 4-year-old understands about making things move involves touching them. A magnet moves something *without contact*, and that's genuinely strange — the same category of strange as gravity, wind, and sound.
+> Everything a three-year-old understands about making things move involves touching them. A magnet moves something *without contact*, and that's genuinely strange — the same category of strange as gravity, wind, and sound.
 > Don't rush to explain the mechanism. What's valuable here is that she notices the strangeness at all. Ask what she thinks is happening, and let her theory be wrong and interesting. Accepting that invisible things can act on the world is the beginning of a lot of physics.
 
 > 💛 **From Joseph:** She asked me how the fridge magnet works and I said "ask your mum." You gave her a better answer than I would have.
@@ -9523,7 +9523,7 @@ Take the magnet on a walk. Test railings, gates, signposts, cars, and drain cove
 2. Drop a battery tea light inside. Hang them along a window or doorway. Sri Lankan families hang hundreds.
 3. Explain simply: *"Today some people remember a teacher who said the most important thing is to be gentle to everything alive."*
 4. **Do a kindness to an animal.** Put out birdseed and a shallow dish of water. On Vesak people free caged birds and feed animals.
-5. **Sit still for one minute.** Set a timer. Just sit and breathe together. One minute is genuinely long at four, and that's the exercise.
+5. **Sit still for one minute.** Set a timer. Just sit and breathe together. One minute is genuinely long at three, and that's the exercise.
 
 > 💡 **Tip:** Do the one-minute sit *outside*, after putting the water out. It's much easier to sit still with birds to watch than in a quiet room.
 
@@ -10208,7 +10208,7 @@ The unofficial start of summer. Eat outside, let her help set up, and stay out a
 
 > 🧠 **A Little Parenting Insight**
 > **Holding two moods in one day is a real skill.**
-> Memorial Day is both solemn and celebratory, and that combination is genuinely confusing at four. Children tend to assume a day has one feeling.
+> Memorial Day is both solemn and celebratory, and that combination is genuinely confusing at three. Children tend to assume a day has one feeling.
 > Naming the shift explicitly helps: *"First we're quiet and thankful. Then we have a fun day, and that's allowed."* Learning that grief and joy can share a day, and that celebrating isn't disrespectful, is a real piece of emotional education — and it's one she'll need for far more than holidays.
 
 > 💛 **From Joseph:** You know how to be serious for a minute and then let everyone off the hook. It's a good instinct for a day like today.
@@ -10303,7 +10303,7 @@ Check the bug hotel from Day 102. Anybody home yet? Magnifying glass out.
 > 🧠 **A Little Parenting Insight**
 > **Rehearsing a frightening scenario reduces the fear of it.**
 > Medical play is one of the most consistently useful pretend games there is. Being the one in charge of a needle, a stethoscope, or a bandaid gives a child control over a situation where she normally has none — and that reversal genuinely reduces anxiety at real appointments.
-> It works best *before* a visit rather than after, and best if you play the frightened one. Listening to a 4-year-old comfort a scared teddy in your voice is both very funny and quite informative about what she's absorbed.
+> It works best *before* a visit rather than after, and best if you play the frightened one. Listening to a three-year-old comfort a scared teddy in your voice is both very funny and quite informative about what she's absorbed.
 
 > 💛 **From Joseph:** She copies exactly how you talk to her when she's hurt. I've heard it. It's gentle, and it's you.
 
@@ -10457,7 +10457,7 @@ Shade, stories, and something cold. Homemade ice pops — juice or blended fruit
 > 🧠 **A Little Parenting Insight**
 > **Heat, hunger, and tiredness account for most "bad behavior."**
 > Before treating a difficult morning as a behavioral issue, run the physical checklist: hot, hungry, thirsty, tired, needs the toilet. Young children have poor interoception — they often genuinely cannot identify what's wrong, and it comes out as defiance or a meltdown instead.
-> On the first hot day of the year especially, the answer is nearly always physical. Cool her down and feed her before you address anything else. Most of what looks like a discipline problem at four is a body problem wearing a costume.
+> On the first hot day of the year especially, the answer is nearly always physical. Cool her down and feed her before you address anything else. Most of what looks like a discipline problem at three is a body problem wearing a costume.
 
 > 💛 **From Joseph:** You check if they're hungry before you get cross. Sounds obvious. Almost nobody actually does it.
 
@@ -10777,7 +10777,7 @@ Ordinary garden round. Steady and normal on a day full of anticipation.
 
 > 🧠 **A Little Parenting Insight**
 > **A sibling's birthday is genuinely hard, and preparation helps more than correction.**
-> A 4-year-old watching someone else receive attention and presents is being asked to manage envy, and she has very little machinery for it yet. Telling her to be happy for him doesn't work; giving her a role does.
+> a three-year-old watching someone else receive attention and presents is being asked to manage envy, and she has very little machinery for it yet. Telling her to be happy for him doesn't work; giving her a role does.
 > The three things that reliably help: a real job in the preparation, a small something of her own on the day, and being the one who *gives* rather than only watches. Set those up in advance and you'll spend far less of tomorrow managing a meltdown.
 
 > 💛 **From Joseph:** She's going to want to blow out his candles. Let's plan for that instead of being surprised by it.
@@ -11094,7 +11094,7 @@ Kreston is a walking one-year-old now, which changes the risk entirely.
 - Slow exhalation is the body's own calming switch
 - Give three tools and let her choose
 - Visible results are what sustain a child's effort
-- Competition at four works when everyone wins something real
+- Competition at three works when everyone wins something real
 
 ---
 
@@ -11186,7 +11186,7 @@ Free, joyful, low-stakes water. Rules established, then fun — in that order al
 
 > 🧠 **A Little Parenting Insight**
 > **Three rules, repeated forever, beats twenty rules said once.**
-> A 4-year-old can hold about three rules for a given situation. Beyond that, none of them are reliably retrievable under pressure — and water is exactly the situation where retrieval under pressure matters.
+> a three-year-old can hold about three rules for a given situation. Beyond that, none of them are reliably retrievable under pressure — and water is exactly the situation where retrieval under pressure matters.
 > Pick the three that would actually prevent a drowning, say them the same way every single time, and let everything else go. Repetition with identical wording is what builds an automatic response. Varying the phrasing to keep it interesting for yourself actively undermines it.
 
 > 💛 **From Joseph:** You're the one who reads the safety instructions. I skim them. Thank you for being the one who doesn't.
@@ -11234,7 +11234,7 @@ Take the tub outside. Add a hose current, or race them along a channel of water 
 > 🧠 **A Little Parenting Insight**
 > **Same material, different shape, opposite result.**
 > A flat sheet of foil sinks. The identical sheet shaped into a bowl floats and carries cargo. That's a genuinely startling demonstration that a thing's behavior depends on its *form*, not just what it's made of.
-> Say it out loud, because it's easy to miss: *"It's the same foil. You just changed the shape."* Ideas like this — where one variable changes and everything else stays the same — are the cleanest thinking available at four, and they're rare enough to be worth pointing at.
+> Say it out loud, because it's easy to miss: *"It's the same foil. You just changed the shape."* Ideas like this — where one variable changes and everything else stays the same — are the cleanest thinking available at three, and they're rare enough to be worth pointing at.
 
 > 💛 **From Joseph:** She'll try something eleven times if you're sitting next to her. That's not the boat, that's you.
 
@@ -11469,7 +11469,7 @@ The whole morning. Sunscreen, hats, and plenty of drinking water.
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Competition at four works when everyone wins something real.**
+> **Competition at three works when everyone wins something real.**
 > Preschoolers don't yet handle losing well, and that's developmentally normal rather than poor sportsmanship — the ability to lose gracefully requires emotional regulation that isn't finished for years.
 > The workaround isn't avoiding competition, which children love, but designing it so that effort is what's recognized. Multiple categories, silly awards, and beating your own previous time rather than another person. She gets the thrill of contest without a system that produces one winner and one child in tears.
 
@@ -11503,7 +11503,7 @@ A family recipe gets written down and recorded on Day 172.
 
 ### 👩 What You'll Learn
 
-- Historical injustice, explained honestly and simply, doesn't damage a four-year-old
+- Historical injustice, explained honestly and simply, doesn't damage a three-year-old
 - Celebration is a legitimate way to teach history
 - Children describe parents by what they *do*, not who they are
 - Food is the most durable carrier of family memory
@@ -11594,7 +11594,7 @@ Ordinary garden round. Check the sunflowers — they should be well up by mid-Ju
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Historical injustice, explained honestly and simply, doesn't damage a four-year-old.**
+> **Historical injustice, explained honestly and simply, doesn't damage a three-year-old.**
 > There's an instinct to shield children from the fact that people were once owned by other people. But children encounter unfairness constantly and have a strong framework for it — and vague explanations tend to be more confusing than plain ones.
 > Keep it factual, brief, and resolved: *"A long time ago some people were made to work for no pay and weren't allowed to leave. That was wrong. People fought to change it, and it changed."* Answer what she asks and stop there. She'll come back to it over years, and each time you can add a little.
 
@@ -11695,7 +11695,7 @@ Whatever he'd actually enjoy. He gets the day.
 
 > 🧠 **A Little Parenting Insight**
 > **Children describe parents by what they *do*, not who they are.**
-> Ask a 4-year-old about her father and you'll get actions: he drives, he makes pancakes, he throws me up. Not traits. That's not shallowness — a preschooler builds her model of a person almost entirely from observed behavior.
+> Ask a three-year-old about her father and you'll get actions: he drives, he makes pancakes, he throws me up. Not traits. That's not shallowness — a preschooler builds her model of a person almost entirely from observed behavior.
 > There's a useful implication. What you *do* in front of her, repeatedly, is who you are as far as she's concerned. Not what you say about yourself, not your intentions. The small repeated actions are the whole picture, and they're what will come out of her mouth in this interview.
 
 > 💛 **From Joseph:** She'll say I'm forty-two and that I'm good at sleeping. I'll take it. Thank you for making me a father worth interviewing.
@@ -12004,7 +12004,7 @@ Hot late June. Sprinkler, hats, plenty of water to drink.
 
 > 🧠 **A Little Parenting Insight**
 > **Waiting is easier when it's visible and shrinking.**
-> "Nine more days" means nothing to a 4-year-old — she has no internal sense of what nine days is. Nine paper loops she can see, touch, and tear one off each morning converts an abstraction into something perceptible.
+> "Nine more days" means nothing to a three-year-old — she has no internal sense of what nine days is. Nine paper loops she can see, touch, and tear one off each morning converts an abstraction into something perceptible.
 > Any wait can be made concrete this way: paper chains, marks on a calendar, moving a peg along a line, filling a jar. It doesn't shorten the wait, but it substantially reduces the repeated asking, because she can check the answer herself.
 
 > 💛 **From Joseph:** "Is it today yet?" forty times a day. The chain will save your sanity and I should have thought of it years ago.
@@ -12179,7 +12179,7 @@ Sprinkler or hose while it dries. The drying time is built into the plan.
 4. Practice: big circles, figure eights, over the head, side to side.
 5. Then add music and dance.
 
-> 💡 **Tip:** This is the safe alternative to sparklers, and honestly it's better for a 4-year-old — she can run with it, it lasts all summer, and nothing is on fire.
+> 💡 **Tip:** This is the safe alternative to sparklers, and honestly it's better for a three-year-old — she can run with it, it lasts all summer, and nothing is on fire.
 
 ### 🌳 Get Outside: Firework Dancing
 Music outside, wands going, running in big arcs. The ribbons trail beautifully and she'll do it for an hour.
@@ -12191,7 +12191,7 @@ Music outside, wands going, running in big arcs. The ribbons trail beautifully a
 > 🧠 **A Little Parenting Insight**
 > **Big arm movements are still building the hand that will write.**
 > Sweeping a ribbon wand through the air in circles and figure eights uses the shoulder and whole arm — and motor control develops from the center of the body outward. Shoulder stability comes before elbow, before wrist, before fingers.
-> This is why large-scale movement is genuinely more useful than pencil practice at four. A child who paints big, sweeps, climbs, and swings arms is building the physical foundation that fine motor control sits on. The ribbon wand is doing more for her handwriting than a worksheet would.
+> This is why large-scale movement is genuinely more useful than pencil practice at three. A child who paints big, sweeps, climbs, and swings arms is building the physical foundation that fine motor control sits on. The ribbon wand is doing more for her handwriting than a worksheet would.
 
 > 💛 **From Joseph:** She's going to be running around the yard with that thing until September. Best two dollars we'll spend all summer.
 
@@ -12339,7 +12339,7 @@ Everything in slow motion — walking across the room, a slow-motion race, slow-
 
 > 🧠 **A Little Parenting Insight**
 > **Heat makes children behave badly, and it isn't a discipline problem.**
-> Young children regulate temperature poorly, dehydrate faster than adults, and have very little ability to identify what's wrong. A hot, thirsty 4-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
+> Young children regulate temperature poorly, dehydrate faster than adults, and have very little ability to identify what's wrong. A hot, thirsty three-year-old presents as defiant, weepy, and unreasonable — because that's what discomfort looks like when you can't name it.
 > The first response to a bad afternoon in summer should be water, shade, and a cooler room. Not a conversation about behavior. Solve the physical problem first; you can nearly always skip the second conversation entirely.
 
 > 💛 **From Joseph:** When they're melting down in the heat, you hand them water before you say anything. That order matters more than people realize.
@@ -12385,7 +12385,7 @@ Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder 
 
 > 🧠 **A Little Parenting Insight**
 > **Children calibrate fear from your face, not from the facts.**
-> A 4-year-old checks her adult before deciding whether something is dangerous — it's called social referencing, and it's active from infancy. Your expression during the thunderclap does more than your explanation afterward.
+> a three-year-old checks her adult before deciding whether something is dangerous — it's called social referencing, and it's active from infancy. Your expression during the thunderclap does more than your explanation afterward.
 > So the useful move at the moment of the bang isn't words. It's being visibly unbothered — a relaxed face, an ordinary voice, maybe mild interest. Explanation helps afterward. In the moment, she's watching you, and calm is contagious.
 
 > 💛 **From Joseph:** You're calm when things bang and crash. They both look at you first, every time, and you always give them the right face.
@@ -12795,7 +12795,7 @@ Streamers taped to handlebars and spokes. It'll take longer than you think and s
 4. Come back for ice pops.
 5. Ribbon wand fireworks in the afternoon, and a cookout when it cools.
 
-> 💡 **Tip:** Do the parade in the morning while it's cool and before anyone's overtired. By evening a 4-year-old has usually spent everything she has.
+> 💡 **Tip:** Do the parade in the morning while it's cool and before anyone's overtired. By evening a three-year-old has usually spent everything she has.
 
 ### 🌳 Get Outside: Water Games & Ribbon Fireworks
 Sprinkler, water balloons, and ribbon wands. Keep it in the shade as the day heats up.
@@ -12934,7 +12934,7 @@ Sprinkler or hose. It's July; the outdoor half can just be water most days.
 4. **Statue game:** hold completely still while everyone counts. Then a new pose.
 5. Take a photo of the best statue.
 
-> 💡 **Tip:** Holding a pose is genuinely hard physical work and it's a legitimate self-control exercise. Count out loud slowly — ten seconds is a real achievement at four.
+> 💡 **Tip:** Holding a pose is genuinely hard physical work and it's a legitimate self-control exercise. Count out loud slowly — ten seconds is a real achievement at three.
 
 ### 🌳 Get Outside: Statue Games
 **Musical statues** — dance while music plays, freeze the instant it stops. Then shadow statues: freeze and see what shape your shadow makes.
@@ -13446,7 +13446,7 @@ Day 200 lands here, with two hundred-grids side by side.
 ### 👩 What You'll Learn
 
 - Effort makes food taste better, and that's a measurable effect
-- Shop play is the most efficient math practice available at four
+- Shop play is the most efficient math practice available at three
 - Distinct layers only form if you wait, and that's a visible lesson
 - Doubling is visible before it's calculable
 - An AABB pattern is much harder than ABAB, and it's the right next step
@@ -13594,7 +13594,7 @@ Move the shop to the porch and sell to neighbors, or to stuffed animals lined up
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Shop play is the most efficient math practice available at four.**
+> **Shop play is the most efficient math practice available at three.**
 > One activity covers counting, one-to-one correspondence, small addition, number recognition, sorting, sequencing, and exchange — plus turn-taking, social scripts, and a role that requires self-control.
 > This is why the shop keeps reappearing in this book in different costumes: bakery, farm stand, ice cream shop. The format is doing an enormous amount of work, and she never notices any of it as learning.
 
@@ -13632,7 +13632,7 @@ Move the shop to the porch and sell to neighbors, or to stuffed animals lined up
 4. Third layer, plus the stick.
 5. Freeze fully and eat in the afternoon.
 
-> 💡 **Tip:** The waiting between layers is the design, not a flaw. Three short bursts of activity spread across a morning suits a 4-year-old better than one long session.
+> 💡 **Tip:** The waiting between layers is the design, not a flaw. Three short bursts of activity spread across a morning suits a three-year-old better than one long session.
 
 ### 🌳 Get Outside: Water Play
 Two long outdoor stretches while the layers set. Sprinkler, water run, or the sand bin.
@@ -13690,7 +13690,7 @@ Ask which outdoor thing she's liked most since Day 100 and do it again.
 > 🧠 **A Little Parenting Insight**
 > **Doubling is visible before it's calculable.**
 > She can't multiply. But two identical hundred-grids side by side make the relationship between 100 and 200 perceptible — it's twice as much, and it *looks* twice as much.
-> Building number sense through arrangement rather than counting is far more valuable at four. A child who has physically seen what a hundred looks like, and then two hundred, has an anchor that abstract numerals can attach to later.
+> Building number sense through arrangement rather than counting is far more valuable at three. A child who has physically seen what a hundred looks like, and then two hundred, has an anchor that abstract numerals can attach to later.
 
 > 💛 **From Joseph:** Two hundred days. Two hundred mornings where you decided to make it a good one. Look at the wall.
 
@@ -13724,7 +13724,7 @@ Ask which outdoor thing she's liked most since Day 100 and do it again.
 4. **She invents a pattern for you** and checks whether you get it right. Get it wrong on purpose once.
 5. Eat them with dip.
 
-> ⚠️ Blunt-tipped skewers only, and supervise closely. Sharp points and a 4-year-old are a bad mix.
+> ⚠️ Blunt-tipped skewers only, and supervise closely. Sharp points and a three-year-old are a bad mix.
 
 > 💡 **Tip:** Deliberately making a mistake in her pattern and letting her catch you is the best part. Finding an error requires understanding the rule better than following it does.
 
@@ -13831,7 +13831,7 @@ Full morning outside in the shade. Sunscreen and water alongside.
 > 🧠 **A Little Parenting Insight**
 > **Serving other people is one of the fastest routes to competence.**
 > A child in a serving role has to attend to what someone else wants, execute it, and hand it over. It combines listening, memory, motor skill, and social exchange — and unlike most activities, it ends with someone visibly pleased with her.
-> That's a rare feedback loop at four: effort producing gratitude from another person. It's worth engineering deliberately, and it's why so many of the best activities in this book end with giving something to somebody.
+> That's a rare feedback loop at three: effort producing gratitude from another person. It's worth engineering deliberately, and it's why so many of the best activities in this book end with giving something to somebody.
 
 > 💛 **From Joseph:** Twenty-nine weeks. She served the neighbors ice cream today and stood there beaming. That's your doing.
 
@@ -14003,7 +14003,7 @@ Take the bin outside if you can. Everything is easier outside in July.
 4. Add googly eyes.
 5. Hang it from a doorway or ceiling where it can drift when someone walks past.
 
-> 💡 **Tip:** Threading and tying is genuinely difficult at four. If tying defeats her, tape the streamers on instead and let the threading be the challenge.
+> 💡 **Tip:** Threading and tying is genuinely difficult at three. If tying defeats her, tape the streamers on instead and let the threading be the challenge.
 
 ### 🌳 Get Outside: Float & Drift Game
 Jellyfish don't swim — they drift. Play a game where she can only move when you blow, or when the wind blows. Waiting to be moved is a surprisingly hard game.
@@ -14014,7 +14014,7 @@ Jellyfish don't swim — they drift. Play a game where she can only move when yo
 
 > 🧠 **A Little Parenting Insight**
 > **Passive movement is a strange idea, and worth sitting with.**
-> Almost everything a 4-year-old knows about motion involves something deciding to move. A jellyfish that drifts wherever the water takes it doesn't fit — it moves without choosing to.
+> Almost everything a three-year-old knows about motion involves something deciding to move. A jellyfish that drifts wherever the water takes it doesn't fit — it moves without choosing to.
 > The drift game makes it physical. She has to wait to be moved rather than moving herself, which is both a strange sensation and an unexpectedly good self-control exercise. Ask her afterward what it felt like to be moved instead of moving.
 
 > 💛 **From Joseph:** She waited to be blown across the garden for twenty minutes. That's the most patient I've ever seen her.
@@ -14062,7 +14062,7 @@ Crab walk, bear crawl, and "eight-legged" races where two people move together. 
 > 🧠 **A Little Parenting Insight**
 > **Noticing a mismatch is worth more than getting the answer.**
 > Five fingers, eight legs — that gap is a small, safe problem with a real solution. A child who spots it herself is doing the entire cognitive job: holding a target number, counting what she has, comparing, and recognizing a shortfall.
-> Adults tend to smooth these gaps over before children notice them. Leave them. A visible mismatch that she can solve is one of the most useful things you can put in front of a 4-year-old.
+> Adults tend to smooth these gaps over before children notice them. Leave them. A visible mismatch that she can solve is one of the most useful things you can put in front of a three-year-old.
 
 > 💛 **From Joseph:** She noticed there weren't enough legs before you said anything. That's her, and it's also five months of you asking her to count things.
 
@@ -14421,7 +14421,7 @@ Mark out the site — a fire circle of stones, a path, a spot for shoes. The lay
 4. **No-cook s'mores:** cracker, chocolate, marshmallow, cracker. Squash and eat.
 5. Sit around it and sing. The circle is the point.
 
-> ⚠️ **No real fire with a 14-month-old walking about.** The pretend version works completely for a 4-year-old, and nobody gets burned.
+> ⚠️ **No real fire with a 14-month-old walking about.** The pretend version works completely for a three-year-old, and nobody gets burned.
 
 > 💡 **Tip:** If you do have a real fire pit and want to use it, establish one rule first and repeat it every single time: *we sit outside the stones.*
 
@@ -14566,7 +14566,7 @@ A real walk somewhere slightly further than usual. Stop for trail mix halfway �
 4. **She hides the treasure** while you look away. Then you follow her map.
 5. Then swap: you hide, she follows.
 
-> 💡 **Tip:** Drawing the map *while walking the space* is what makes it work. A map drawn at the table from memory is much harder at four.
+> 💡 **Tip:** Drawing the map *while walking the space* is what makes it work. A map drawn at the table from memory is much harder at three.
 
 ### 🌳 Get Outside: Follow the Map
 Follow it properly, out loud: *"The map says the tree is next to the fence, so we go this way."*
@@ -14724,7 +14724,7 @@ Everything in slow motion: a race, a jump, a spin, a throw. Genuinely funny, use
 
 > 🧠 **A Little Parenting Insight**
 > **In serious heat, the physical problem comes before the behavior problem.**
-> Young children dehydrate faster than adults, regulate temperature poorly, and can't identify what's wrong. A hot, thirsty 4-year-old looks exactly like a defiant one — weepy, unreasonable, refusing everything.
+> Young children dehydrate faster than adults, regulate temperature poorly, and can't identify what's wrong. A hot, thirsty three-year-old looks exactly like a defiant one — weepy, unreasonable, refusing everything.
 > Water, shade, and a cooler room first. Always. On a hot day, solve the physiology and about ninety percent of the behavior conversation disappears before you've had it.
 
 > 💛 **From Joseph:** Water first, talk second. You've been doing that all summer and it works every time.
@@ -14760,7 +14760,7 @@ Everything in slow motion: a race, a jump, a spin, a throw. Genuinely funny, use
 4. Storm sounds: wobble a metal tray for thunder, drum fingers on a table for rain. Compare to the real storm outside.
 5. Count the gap between flash and rumble at the window.
 
-> 💡 **Tip:** A storm plus a fort is a genuinely magical combination for a 4-year-old. The contrast between wild outside and cozy inside is the entire appeal.
+> 💡 **Tip:** A storm plus a fort is a genuinely magical combination for a three-year-old. The contrast between wild outside and cozy inside is the entire appeal.
 
 ### 🏃 Indoor Movement: The Floor Is Lava
 Cushions as islands. Cross the room without touching the floor. Move them further apart each round until it's impossible.
@@ -15080,7 +15080,7 @@ She designs the obstacle course herself on Day 223.
 4. **Event One: running.** Chalk a start and finish line. Time each person.
 5. Sticker on the scoreboard for everyone who ran. Not for who won.
 
-> 💡 **Tip:** Stickers for *completing* rather than winning is the whole design. It keeps a 4-year-old in the game on the days she loses.
+> 💡 **Tip:** Stickers for *completing* rather than winning is the whole design. It keeps a three-year-old in the game on the days she loses.
 
 ### 🌳 Get Outside: Event One — Running
 Sprints, then a slow race (last one to the line wins), then a backwards race.
@@ -15096,7 +15096,7 @@ Sprints, then a slow race (last one to the line wins), then a backwards race.
 
 > 🧠 **A Little Parenting Insight**
 > **Losing is a skill that isn't ready yet, and designing around that is not coddling.**
-> The ability to lose gracefully requires emotional regulation that isn't developed at four. A child who melts down over losing a race isn't being a poor sport — she's demonstrating normal development.
+> The ability to lose gracefully requires emotional regulation that isn't developed at three. A child who melts down over losing a race isn't being a poor sport — she's demonstrating normal development.
 > Recognizing effort and completion rather than ranking keeps her participating long enough to build the tolerance. Competition against her *own previous time* works especially well, because the opponent isn't a person she has to feel bad about.
 
 > 💛 **From Joseph:** Everyone gets a medal this week and I don't care what anyone thinks about that.
@@ -15315,7 +15315,7 @@ Long course, several variants, plenty of turns. This is the most tiring event of
 4. Run it again and try to beat the time.
 5. Ask what she'd change to make it harder, then change it.
 
-> 💡 **Tip:** Drawing the plan before building it is the valuable half. Designing on paper and then executing is a genuinely advanced sequence at four.
+> 💡 **Tip:** Drawing the plan before building it is the valuable half. Designing on paper and then executing is a genuinely advanced sequence at three.
 
 ### 🌳 Get Outside: Event Six — The Course
 Everyone runs it, including adults. Being slower than Mum at something and faster at another is useful information.
@@ -15326,7 +15326,7 @@ Everyone runs it, including adults. Being slower than Mum at something and faste
 
 > 🧠 **A Little Parenting Insight**
 > **Planning before doing is a real developmental leap.**
-> Most 4-year-olds act first and think during. Making a plan on paper and then executing it requires holding an intention across a gap in time and comparing reality against it.
+> Most three-year-olds act first and think during. Making a plan on paper and then executing it requires holding an intention across a gap in time and comparing reality against it.
 > Expect the plan and the build to diverge — and treat that as interesting rather than as failure. *"Your drawing had the hoop first. Shall we move it, or change the drawing?"* Either answer is fine. Noticing the mismatch is the skill.
 
 > 💛 **From Joseph:** She drew a plan and then made us follow it exactly. I've worked with adults who couldn't do that.
@@ -15388,7 +15388,7 @@ Outside, loud, with music. Take a photo of everyone on the podium.
 
 ### 🎯 What This Week Is About
 
-Five countries in five days, with a passport stamped each time. Every stop involves something eaten, something said, and something made — the combination that actually sticks at four.
+Five countries in five days, with a passport stamped each time. Every stop involves something eaten, something said, and something made — the combination that actually sticks at three.
 
 The map goes up on Day 225 and stays up.
 
@@ -15556,7 +15556,7 @@ Eat under any tree. That's the whole tradition — *hanami* means "flower viewin
 
 > 🧠 **A Little Parenting Insight**
 > **Food is the most memorable route into a culture at this age.**
-> A fact about Japan is abstract. Making rice balls with wet hands, failing at chopsticks, and eating under a tree is sensory, physical, and specific — and that's what a 4-year-old retains.
+> A fact about Japan is abstract. Making rice balls with wet hands, failing at chopsticks, and eating under a tree is sensory, physical, and specific — and that's what a three-year-old retains.
 > Every country this week should involve something eaten, said, and made. Those three together stick; a picture book alone generally doesn't. Taste in particular attaches to memory more durably than almost anything else.
 
 > 💛 **From Joseph:** She said *konnichiwa* to the postman. He was delighted. So was she.
@@ -15830,7 +15830,7 @@ The week ends with her running the whole thing for real guests.
 - Building it back up is the part that's doing the work
 - Saving three of something is harder than it sounds
 - Inventing a game is a much bigger deal than playing one
-- Hosting is a social skill, and it's learnable at four
+- Hosting is a social skill, and it's learnable at three
 
 ---
 
@@ -15959,7 +15959,7 @@ Run it as a proper stall. Five throws per go, total the score, beat the previous
 
 > 🧠 **A Little Parenting Insight**
 > **Risk and reward is a genuinely new kind of decision.**
-> Most choices a 4-year-old makes are about preference — which cup, which shirt. Choosing between a likely small score and an unlikely large one is different: it requires weighing probability against value.
+> Most choices a three-year-old makes are about preference — which cup, which shirt. Choosing between a likely small score and an unlikely large one is different: it requires weighing probability against value.
 > She will almost always go for the big number, which is exactly right for her age — young children heavily overweight the size of a reward and underweight how likely it is. Don't correct it. Just narrate what happened: *"You went for the 20 and missed. Want to try the 5 this time?"* The reasoning develops from noticing the outcomes.
 
 > 💛 **From Joseph:** She goes for the twenty every single time and I love her for it.
@@ -16105,7 +16105,7 @@ Play the games from earlier in the week using tickets properly. Earn, save, rede
 > 🧠 **A Little Parenting Insight**
 > **Saving three of something is harder than it sounds.**
 > Spending a ticket the moment she gets it is the default. Holding two while waiting for a third requires resisting an available reward for a better one later — the core of delayed gratification.
-> What makes it achievable at four is *visibility*. She can see the tickets in her hand and count how many more she needs. Abstract waiting is nearly impossible; countable waiting is manageable. Keep the target at three, not ten, and let her succeed.
+> What makes it achievable at three is *visibility*. She can see the tickets in her hand and count how many more she needs. Abstract waiting is nearly impossible; countable waiting is manageable. Keep the target at three, not ten, and let her succeed.
 
 > 💛 **From Joseph:** She saved three tickets. It took real effort and you could see it on her face.
 
@@ -16199,7 +16199,7 @@ The full morning outside. Shade, water, sunscreen. Let it run as long as it's wo
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Hosting is a social skill, and it's learnable at four.**
+> **Hosting is a social skill, and it's learnable at three.**
 > Running a stall requires greeting someone, explaining a rule clearly enough for them to follow, managing a turn, and handling the outcome. That's a demanding social sequence, and children get very few chances to practise it — usually they're the guest.
 > Being the host reverses the usual power arrangement: she knows the rules and the adult doesn't. Ask her genuine questions about how her game works and follow her answers exactly. The competence she feels is real, because in that moment she genuinely is the expert.
 
@@ -16491,7 +16491,7 @@ Outside, loud, with room to run. Add "musical statues" and "walk like…" betwee
 
 **📝 Step-by-Step Instructions:**
 1. **Clap a short pattern.** Two claps. She copies. Three claps. She copies.
-2. Build up: clap-clap-pause-clap. Keep it short — three or four beats is the limit at four.
+2. Build up: clap-clap-pause-clap. Keep it short — three or four beats is the limit at three.
 3. Move to drums. Same game, different instrument.
 4. **Swap.** She leads, you copy. She'll immediately make it impossible.
 5. Try it with body sounds: stamp, knee-pat, click, clap.
@@ -16507,7 +16507,7 @@ Echo shouting — she calls, you call back. Try it somewhere with a real echo if
 
 > 🧠 **A Little Parenting Insight**
 > **Copying a rhythm is harder than it looks, and it's a working memory task.**
-> To repeat a clapped pattern she has to hold a sequence in mind while it's no longer happening, then reproduce it in order. Three or four beats is genuinely at the limit of a 4-year-old's capacity.
+> To repeat a clapped pattern she has to hold a sequence in mind while it's no longer happening, then reproduce it in order. Three or four beats is genuinely at the limit of a three-year-old's capacity.
 > If she's failing, shorten it rather than repeating it louder. And notice the ceiling: it's the same ceiling that makes a three-step instruction impossible at breakfast. Watching her manage four beats tells you something useful about what she can hold generally.
 
 > 💛 **From Joseph:** She clapped a pattern of about forty beats and then demanded I do it. I have never been so publicly defeated.
@@ -16555,7 +16555,7 @@ Chalk the stage, hang streamers, set out seats. Setting up is part of the event.
 > 🧠 **A Little Parenting Insight**
 > **Rehearsal teaches something a spontaneous performance can't.**
 > Deciding on an order in advance, and then executing that order later, requires holding a plan across time and comparing what's happening against what was intended. That's a genuinely demanding sequence for a preschooler.
-> It also introduces the idea that things can be *prepared* — that the good version comes after a practice one. Most of a 4-year-old's life is improvised. Occasionally doing something twice, on purpose, to make it better, is a useful new experience.
+> It also introduces the idea that things can be *prepared* — that the good version comes after a practice one. Most of a three-year-old's life is improvised. Occasionally doing something twice, on purpose, to make it better, is a useful new experience.
 
 > 💛 **From Joseph:** She made a programme with three items and one of them is just called "Kreston."
 
@@ -16746,7 +16746,7 @@ Crab walk to the end and back. Bear crawl. Hop on one foot. Race the length in s
 ### 🧸 Rest & Wind-Down
 Stories in the dark. The same one repeatedly if that's what she asks for — familiarity is what a tired brain wants.
 
-> 👶 **Infant Integration:** A sick 4-year-old and a walking 15-month-old is the hardest combination in this book. Contain him safely in the same room, rotate three new-to-him objects through, and lower every other standard for the day.
+> 👶 **Infant Integration:** A sick three-year-old and a walking 15-month-old is the hardest combination in this book. Contain him safely in the same room, rotate three new-to-him objects through, and lower every other standard for the day.
 
 ---
 
@@ -17081,7 +17081,7 @@ Walk to the nearest real post box or mailbox with the one real letter. She carri
 5. **Open the library.** You are the borrower. You choose a book, hand over the card, she writes the date — a scribble is a date — and stamps it.
 6. **Then the return.** You bring it back. She checks the card, files it, reshelves the book *in the right section*. That last step is the whole activity.
 
-> 💡 **Tip:** Let her be strict. Fines, rules about talking, telling you off for putting a book back wrong — that's her practising a role with clear rules, which is the most satisfying kind of pretend at four.
+> 💡 **Tip:** Let her be strict. Fines, rules about talking, telling you off for putting a book back wrong — that's her practising a role with clear rules, which is the most satisfying kind of pretend at three.
 
 ### 🌳 Get Outside: The Library Walk
 Walk to your actual library. She takes the tote. Point out the real version of everything she just built — the sections, the scanner instead of the stamp, the returns slot. If she has a card, she uses it herself at the desk.
@@ -17147,7 +17147,7 @@ Go to an actual farmers' market or the produce aisle. She has her own short list
 > 🧠 **A Little Parenting Insight**
 > **Money is a story about exchange long before it's arithmetic.**
 > Before a child can add coins, she has to grasp something stranger: that this metal disc can be swapped for that apple, and that both people go away satisfied. Small children often find this genuinely mysterious, and will happily hand over twelve coins for one grape.
-> The understanding builds through repetition of the sequence — choose, hand over, receive, leave — not through explanation of value. So the useful thing at four is letting her run the whole transaction herself, badly, many times. Real money, real hands, real cashier. The maths follows once the story makes sense, and not before.
+> The understanding builds through repetition of the sequence — choose, hand over, receive, leave — not through explanation of value. So the useful thing at three is letting her run the whole transaction herself, badly, many times. Real money, real hands, real cashier. The maths follows once the story makes sense, and not before.
 
 > 💛 **From Joseph:** She gave the man at the market a rock as payment last year and he took it. Best transaction of her life.
 
@@ -17159,7 +17159,7 @@ Go to an actual farmers' market or the produce aisle. She has her own short list
 **📅 Monday, September 6, 2027**
 **Theme:** Community Helpers — *Labor Day*
 
-> 🇺🇸 **Labor Day.** Today is a day off work that exists *because* of work — it was won by people who organised for shorter days and safer conditions. For a four-year-old that whole idea reduces to something she can actually hold: **everything around us was made or fixed by somebody, and today we say thank you to them by doing some of it ourselves.** That's the version to tell her.
+> 🇺🇸 **Labor Day.** Today is a day off work that exists *because* of work — it was won by people who organised for shorter days and safer conditions. For a three-year-old that whole idea reduces to something she can actually hold: **everything around us was made or fixed by somebody, and today we say thank you to them by doing some of it ourselves.** That's the version to tell her.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting: What Everyone in This Family Does (15 min)
@@ -17263,7 +17263,7 @@ Gloves on, bag out, tongs in hand. **Ten pieces, then stop.** A number makes it 
 
 > 🧠 **A Little Parenting Insight**
 > **Caring about a place is learned by improving it, not by being told to.**
-> Environmental instruction at four — the planet, the future, the consequences — mostly doesn't land. It's too large, too abstract, and too far away to attach to anything she can picture.
+> Environmental instruction at three — the planet, the future, the consequences — mostly doesn't land. It's too large, too abstract, and too far away to attach to anything she can picture.
 > What does land is the ten minutes with the gloves and the bag, and the strip of pavement that looked one way before and another way after. That's a chain she can hold in her head: I did something, and the place changed. Repeated often enough it becomes a disposition — a sense that mess is fixable and that fixing it is what people like us do. The reasoning can be filled in later, once there's something for it to attach to.
 
 > 💛 **From Joseph:** She waves at the bin lorry every week and one of them waves back now. That's a whole relationship.
@@ -17370,7 +17370,7 @@ Walk the route and deliver them. Time it for when the bins go out or the post co
 
 > 🧠 **A Little Parenting Insight**
 > **Handing something over in person is a separate skill from making it.**
-> The card is the easy half. Walking up to a near-stranger, waiting for them to look at you, saying a sentence out loud and putting an object into their hands is a genuinely demanding piece of social work at four — and children who are confident at home often go silent at exactly that moment.
+> The card is the easy half. Walking up to a near-stranger, waiting for them to look at you, saying a sentence out loud and putting an object into their hands is a genuinely demanding piece of social work at three — and children who are confident at home often go silent at exactly that moment.
 > It isn't rudeness, and prompting louder rarely helps. What helps is rehearsal beforehand and standing close enough that she can lean on your leg, then letting the silence be fine if it comes. She'll manage more of it each time. The freezing is the thing being worked on, not an obstacle to the thing being worked on.
 
 > 💛 **From Joseph:** She hid behind you for the first two and did the last one on her own. That's the whole week right there.
@@ -17551,7 +17551,7 @@ The survey itself is the outdoor block today — an hour on the ground at the ed
 
 > 🧠 **A Little Parenting Insight**
 > **A boundary makes a familiar place interesting again.**
-> Given a whole garden, a four-year-old covers it in ninety seconds and declares there's nothing to do. Given one roped-off metre of it, she'll stay for half an hour. The limit isn't a restriction — it's what makes close attention possible, because there's nothing else competing for it.
+> Given a whole garden, a three-year-old covers it in ninety seconds and declares there's nothing to do. Given one roped-off metre of it, she'll stay for half an hour. The limit isn't a restriction — it's what makes close attention possible, because there's nothing else competing for it.
 > The same trick works indoors and it's worth keeping: one drawer, one shelf, one tray, one square of pavement. When she's bouncing off everything and settling on nothing, the answer is usually a smaller space rather than a better activity. Constraint is what turns looking into noticing.
 
 > 💛 **From Joseph:** A metre of dirt held her longer than the zoo did. I think about that a lot.
@@ -17616,7 +17616,7 @@ Collect stones from wherever you can — a driveway, a path, a stream edge. Sort
 **📅 Monday, September 13, 2027**
 **Theme:** Birthday Special — Joseph's Birthday
 
-> 🎈 **It's Joseph's birthday.** He wrote this book, so he's written himself a fairly quiet day. The plan is that Azlyn runs it — she interviews him, she chooses the outing, and she's in charge of the cake. Grown-up birthdays tend to get absorbed into the ordinary week, and a four-year-old is genuinely brilliant at not letting that happen.
+> 🎈 **It's Joseph's birthday.** He wrote this book, so he's written himself a fairly quiet day. The plan is that Azlyn runs it — she interviews him, she chooses the outing, and she's in charge of the cake. Grown-up birthdays tend to get absorbed into the ordinary week, and a three-year-old is genuinely brilliant at not letting that happen.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:20 AM** — Morning Meeting: **It's Daddy's Birthday!** (20 min)
@@ -17661,7 +17661,7 @@ Wherever she picked. Field journals come along — it's still explorer week — 
 > 🧠 **A Little Parenting Insight**
 > **Children need to see the adults in their life get celebrated too.**
 > Small children reasonably conclude that birthdays are a thing that happens to children — because in most households, that's what they see. Adult birthdays get compressed into a card at breakfast and an ordinary Tuesday.
-> Letting her plan and run a day for someone else does two things at once. It gives her practice at the harder half of celebration — thinking about what another person would like, which is a real perspective-taking exercise at four — and it quietly tells her that the adults around her are people with preferences and histories, not just infrastructure. Both are worth an afternoon.
+> Letting her plan and run a day for someone else does two things at once. It gives her practice at the harder half of celebration — thinking about what another person would like, which is a real perspective-taking exercise at three — and it quietly tells her that the adults around her are people with preferences and histories, not just infrastructure. Both are worth an afternoon.
 
 > 💛 **From Joseph:** Writing your own birthday page is a strange thing to do, so I'll be brief. Thank you for the year. Make her do the cake, she'll be unbearable about it, and it'll be the best part of the day.
 
@@ -17940,7 +17940,7 @@ Out with one job: find something purely red, something purely yellow, and someth
 
 > 🧠 **A Little Parenting Insight**
 > **Mixing colours is a lesson in irreversibility.**
-> Almost everything in her world can be undone — blocks come apart, water pours back, the drawing gets rubbed out. Paint doesn't. Once the yellow is in the blue, there is no getting the yellow back, and that's a genuinely new category of event for a four-year-old.
+> Almost everything in her world can be undone — blocks come apart, water pours back, the drawing gets rubbed out. Paint doesn't. Once the yellow is in the blue, there is no getting the yellow back, and that's a genuinely new category of event for a three-year-old.
 > Watching her realise it is worth not interrupting. Some children find it thrilling and some find it upsetting, and both reactions are about the same discovery. It's the same idea underneath cutting the paper, cracking the egg, and saying the unkind thing — some actions only go one way. Paint is a very cheap place to meet it.
 
 > 💛 **From Joseph:** She made brown, was furious about it, then made brown again on purpose. That's a scientist.
@@ -17976,7 +17976,7 @@ Out with one job: find something purely red, something purely yellow, and someth
 3. **Triangle first.** Three straws, three corners. Ask her to count the sticks and the corners before you name it — three and three, then the word.
 4. Square next. Four and four. **Then ask her to predict** what five sticks makes, and let her find out.
 5. Label each finished shape with a card. She copies the first letter.
-6. **Then go 3D.** Two squares joined by four upright straws makes a cube. This is hard and will need your hands, and it's the moment shapes stop being flat pictures for her.
+6. **Then go 3D.** Two squares joined by three upright straws makes a cube. This is hard and will need your hands, and it's the moment shapes stop being flat pictures for her.
 7. Hang the good ones from the ceiling or a curtain rail.
 
 > 💡 **Tip:** If the pipe cleaners are too fiddly, roll a small ball of sticky tack for each corner instead. The joining method doesn't matter — the counting of sides and corners is the actual content.
@@ -18045,7 +18045,7 @@ Walk and name shapes on buildings — round windows, triangular roofs, rectangul
 > 🧠 **A Little Parenting Insight**
 > **Light changes what she thinks a colour is.**
 > Children of this age tend to treat colour as a fixed property of an object — the tissue *is* red, in the way that it *is* paper. Holding the same square against a window, a wall, and a lamp quietly breaks that, and the confusion it produces is productive.
-> It's the beginning of a genuinely sophisticated idea: that what we see depends on the light falling on it as well as the thing itself. She won't articulate any of that, and doesn't need to. Encountering it as a puzzle — *why is it darker now?* — is enough at four, and it makes her look at light rather than through it.
+> It's the beginning of a genuinely sophisticated idea: that what we see depends on the light falling on it as well as the thing itself. She won't articulate any of that, and doesn't need to. Encountering it as a puzzle — *why is it darker now?* — is enough at three, and it makes her look at light rather than through it.
 
 > 💛 **From Joseph:** She moved it round the house for an hour checking every window. Nobody asked her to do that.
 
@@ -18203,7 +18203,7 @@ Out for the leaves and the seeds, with a bag each. **The rule is nothing off a t
 
 > 🧠 **A Little Parenting Insight**
 > **Matching a shade is much harder than matching a colour.**
-> Sorting red from blue is easy by four. Picking which of nine reds matches this particular leaf is a different task: it requires holding one sample in mind while scanning against another, and noticing differences she's spent her whole life being told to ignore.
+> Sorting red from blue is easy by three. Picking which of nine reds matches this particular leaf is a different task: it requires holding one sample in mind while scanning against another, and noticing differences she's spent her whole life being told to ignore.
 > This kind of fine visual discrimination is worth practising for a reason that isn't about art at all. The same skill — spotting small differences between things that are broadly the same — is what she'll use to tell *b* from *d*, and *was* from *saw*, in about two years. Autumn leaves happen to be the best free set of gradients you'll ever get.
 
 > 💛 **From Joseph:** She rejected three of my matches. She was right about two of them.
@@ -18243,7 +18243,7 @@ Out for the leaves and the seeds, with a bag each. **The rule is nothing off a t
 6. Add people, a dog, Kreston, all as shapes.
 7. **When it's done, she walks you along it and tells you what's where.** Then hang it along a wall at her height.
 
-> 💡 **Tip:** This will take longer than the slot allows and that's fine — let it run into free play and finish it after lunch. A whole-day project is a new experience at four and it's worth protecting.
+> 💡 **Tip:** This will take longer than the slot allows and that's fine — let it run into free play and finish it after lunch. A whole-day project is a new experience at three and it's worth protecting.
 
 ### 🌳 Get Outside: Chalk Shape Town
 Do it again, life-size, on the drive or the path. Chalk roads wide enough to walk down, houses big enough to stand in, a square for the shop. **She drives a trike or a scooter through it**, which turns the drawing into a place.
@@ -18424,7 +18424,7 @@ A bucket of water and a fat decorator's brush. She paints letters, shapes, and w
 
 > 🧠 **A Little Parenting Insight**
 > **Tracing in salt removes the fear of getting it wrong.**
-> A pencil on paper makes every attempt permanent, and children who are aware of that — which is most of them by four — start refusing to try. Salt, water on a fence, and chalk in the rain all share one property: the evidence disappears, so there's nothing to be judged on.
+> A pencil on paper makes every attempt permanent, and children who are aware of that — which is most of them by three — start refusing to try. Salt, water on a fence, and chalk in the rain all share one property: the evidence disappears, so there's nothing to be judged on.
 > That's why these mediums produce ten times the practice of a worksheet. She'll write the same letter twenty times in salt and once on paper, and the twenty is what builds the motor memory. Anything erasable is doing more for her handwriting than anything permanent, and it stays true for years.
 
 > 💛 **From Joseph:** She wrote her whole name on the fence in water and then stood watching it dry, which I think she found more interesting than the writing.
@@ -18571,7 +18571,7 @@ Out with the book and a bag. **Find one real thing outside for each of her five 
 
 > 🌍 **Around the World — Korea: *Hangul***
 > Most alphabets grew up by accident over centuries. **Korean *hangul* was invented on purpose**, in the 1440s, by King Sejong — who wanted a writing system ordinary people could learn in a morning rather than the thousands of Chinese characters only scholars had time for. The letters are shaped like the mouth and tongue making the sound: ㅁ is a closed mouth, ㄱ is the back of the tongue lifting.
-> **✨ Try it:** Make letter biscuits. Any plain dough, rolled into ropes and bent into her five letters, baked and eaten in order. Eating the letters of your own name is a surprisingly big deal at four.
+> **✨ Try it:** Make letter biscuits. Any plain dough, rolled into ropes and bent into her five letters, baked and eaten in order. Eating the letters of your own name is a surprisingly big deal at three.
 > *Did you know?* Korea has a public holiday every October to celebrate its alphabet. Very few countries have a day off for their writing system.
 
 ---
@@ -18628,7 +18628,7 @@ Out to look at real print. Street names, shop signs, STOP, the bus number, the o
 
 > 🧠 **A Little Parenting Insight**
 > **Print in the real world teaches more than print in a book.**
-> Environmental print — the labels, signs, packets and logos she moves through every day — is where most children first work out that marks carry meaning. It's the reason a four-year-old can "read" a supermarket logo years before she can read a sentence.
+> Environmental print — the labels, signs, packets and logos she moves through every day — is where most children first work out that marks carry meaning. It's the reason a three-year-old can "read" a supermarket logo years before she can read a sentence.
 > Labelling the house takes that instinct and points it at ordinary words. She isn't decoding CUP; she's learning that the word sits with the object, stays the same every day, and was put there deliberately by a person. That last part matters — print isn't weather, it's something people make. Pointing at the words as you read them, left to right, delivers the rest of the lesson without a single sentence of instruction.
 
 > 💛 **From Joseph:** There's a KNOCK FIRST on her door now and she has held every one of us to it.
@@ -18734,7 +18734,7 @@ Everyone is the wind. Blow round the room, then be a gale, then a breeze, then s
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Testing the same thing twenty times is what a four-year-old means by an experiment.**
+> **Testing the same thing twenty times is what a three-year-old means by an experiment.**
 > Adults think of an experiment as a question with a designed answer. For her, it's repetition with small variations — throw it again, throw it harder, throw it with a paperclip on — and the understanding accumulates out of the pile of attempts rather than arriving as a conclusion.
 > Which is why the useful move is to protect the repetition rather than hurry to the finding. Changing one thing at a time and saying so out loud gives the pile a shape, and that's all the method she needs at this age. The theory she offers at the end will be wrong. The habit of changing one thing and watching what happens is the part that isn't.
 
@@ -18785,7 +18785,7 @@ Cushions and towels laid out as puddles across the floor. Jump from one to the n
 
 > 🧠 **A Little Parenting Insight**
 > **Autumn is the first season she can watch changing week by week.**
-> Time is genuinely hard at four — *yesterday*, *last week* and *last year* often mean much the same thing. Seasons are usually too slow to register as movement. Autumn is the exception: the tree at the end of the road looks visibly different every week for two months.
+> Time is genuinely hard at three — *yesterday*, *last week* and *last year* often mean much the same thing. Seasons are usually too slow to register as movement. Autumn is the exception: the tree at the end of the road looks visibly different every week for two months.
 > That makes it unusually good material for building a sense of change over time. A pressed leaf with a date on it, taken out a fortnight later and compared to a fresh one, gives her something concrete to hang *before* and *after* on. It's the same reason the height chart works. Slow change becomes visible when you leave yourself evidence.
 
 > 💛 **From Joseph:** She checks the pressed ones every single day to see if they're done yet. Two weeks is a very long time in this house.
@@ -18820,7 +18820,7 @@ Cushions and towels laid out as puddles across the floor. Jump from one to the n
 4. **Don't correct, don't prompt for detail, don't ask her to speak up.** Let it be rambling and half-inaudible.
 5. **Then play it back.** This is the actual event of the day, and it usually produces delight, embarrassment, or both.
 6. She'll want to record another one immediately. Let her, until she doesn't.
-7. **Keep the files.** Label them with the date. A croaky four-year-old telling a story that goes nowhere is the single best recording you'll make this year.
+7. **Keep the files.** Label them with the date. A croaky three-year-old telling a story that goes nowhere is the single best recording you'll make this year.
 
 > 💡 **Tip:** Record yourself telling one too, badly, first. It removes the self-consciousness entirely and she'll be much less guarded on hers.
 
@@ -18882,7 +18882,7 @@ A washing-up bowl of warm water on a towel on the table, a few cups and spoons, 
 
 > 🧠 **A Little Parenting Insight**
 > **Being ill is her first experience of her body not obeying her.**
-> A four-year-old with a bad cold isn't just uncomfortable — she's confused. She wants to run and can't, wants to eat and doesn't want to, feels wrong in a way she has no words for. A lot of the whining is that confusion rather than the symptoms.
+> a three-year-old with a bad cold isn't just uncomfortable — she's confused. She wants to run and can't, wants to eat and doesn't want to, feels wrong in a way she has no words for. A lot of the whining is that confusion rather than the symptoms.
 > What helps is naming it plainly and without alarm: *your body is busy fighting something, so it hasn't got much left over for playing today, and that's why you feel funny.* It gives her a story for the strangeness and a reason to expect it to end. Children handle discomfort far better when they've been told what it is and roughly how long it lasts.
 
 > 💛 **From Joseph:** "I want to feel better yesterday." Same, love.
@@ -18985,7 +18985,7 @@ A washing-up bowl of warm water on a towel on the table, a few cups and spoons, 
 ## ⚠️ Quick Safety Reminders
 
 - **The clocks change and the dark arrives fast.** Reflective strips on coats, and torches by the door from mid-month.
-- **Halloween week is three big days in five.** Protect naps ruthlessly — everything that goes wrong that week goes wrong at four in the afternoon.
+- **Halloween week is three big days in five.** Protect naps ruthlessly — everything that goes wrong that week goes wrong at three in the afternoon.
 - **Real flame twice this month** — diyas on Day 302, candles on Day 305. Hers are battery, yours are out of reach, and the rules get said out loud each time.
 - **Conkers, acorns, and small counting objects everywhere.** Kreston will eat all of it. Count in, count out, and keep the counting jars up high.
 - **Wet leaves are genuinely slippery** on steps, decking, and pavements.
@@ -19085,7 +19085,7 @@ The aim isn't counting higher. She can probably recite to twenty already, and re
 1. **Tape a long line down the hall or the longest room**, with ten cross-marks on it, a big stride apart. Number cards go on the marks, 1 to 10.
 2. **You write the numerals, she decorates them.** One dot on the 1, two on the 2, and so on — **the dots matter more than the numeral does**, because they're the part that means something to her.
 3. **Walk it first, saying each number as her foot lands.** Then jump it. Then hop it. Then run it and see if she can still say them in time.
-4. **Then the games.** Stand on 4 — jump forward two, where are you? Stand on 7 — jump back three. **She works it out by moving, not by thinking**, and that's correct at four.
+4. **Then the games.** Stand on 4 — jump forward two, where are you? Stand on 7 — jump back three. **She works it out by moving, not by thinking**, and that's correct at three.
 5. Roll the dice and move that many. First to 10 wins, then play it backwards from 10 to 1.
 6. **Hide a number card while she isn't looking** and see if she can work out which is missing. This is much harder than it sounds and she'll need to walk the line to do it.
 7. Leave it taped down all week. It gets used every day.
@@ -19256,7 +19256,7 @@ Chalk a hopscotch grid, 1 to 10. Traditional rules are too hard — **just hop t
 
 > 🧠 **A Little Parenting Insight**
 > **Recognising three without counting has a name, and it arrives before counting does.**
-> It's called subitising — seeing a small quantity instantly, as a shape, with no counting involved. Babies do it before they have any number words at all, and by four most children can subitise up to three or four reliably and no further.
+> It's called subitising — seeing a small quantity instantly, as a shape, with no counting involved. Babies do it before they have any number words at all, and by three most children can subitise up to three or four reliably and no further.
 > That boundary is worth knowing about, because it explains a lot. Dice patterns, dominoes, fingers, and the dots you drew on the number cards all work because they turn a quantity into a recognisable arrangement. Building the habit of *seeing* five rather than counting to five is what eventually lets her hold numbers in her head instead of on her fingers — and it's built by looking, quickly, at small groups, over and over.
 
 > 💛 **From Joseph:** She spotted a five on the dice from across the room and I don't think she knows she did anything clever.
@@ -19306,8 +19306,8 @@ Count the steps to the postbox, or the gate, or the corner. **Then walk it again
 
 > 🧠 **A Little Parenting Insight**
 > **A unit only works if it stays the same size, and that's the hard part.**
-> The idea underneath all measurement is that you need something identical to repeat. It sounds obvious to an adult and it is not obvious at four — a child will happily measure a table with a mixture of long and short blocks and report a number with total confidence.
-> Finding out that your hands and her hands give different answers is the moment that idea lands, and it can't really be delivered any other way. It also explains why standard units exist at all, which is a surprisingly deep thing for a four-year-old to run into on a Tuesday. Everything else in measurement — centimetres, grams, minutes — is a footnote to *the thing you count with has to stay the same.*
+> The idea underneath all measurement is that you need something identical to repeat. It sounds obvious to an adult and it is not obvious at three — a child will happily measure a table with a mixture of long and short blocks and report a number with total confidence.
+> Finding out that your hands and her hands give different answers is the moment that idea lands, and it can't really be delivered any other way. It also explains why standard units exist at all, which is a surprisingly deep thing for a three-year-old to run into on a Tuesday. Everything else in measurement — centimetres, grams, minutes — is a footnote to *the thing you count with has to stay the same.*
 
 > 💛 **From Joseph:** She measured me at "eleven Azlyn hands" and then at "nine Azlyn hands" and got cross with me, as though I'd moved.
 
@@ -19396,7 +19396,7 @@ Clipboard, three columns: cars, vans, bikes. **Ten minutes on a wall somewhere s
 3. **Five invitations**, to five guests — two toys, Kreston, Dad, the cat. She copies a 5 onto each one.
 4. **Set five places. Five snacks on the plate. Five candles.** Everything today comes in fives, and she'll start finding them herself by about ten o'clock.
 5. **Play the five games:** jump to 5 on the number line, roll until you get a 5, put five things in the fifth hole of the egg box, clap five times, hop five hops.
-6. **Sing happy birthday to a number** and blow out five candles. This is exactly as funny to a four-year-old as it sounds.
+6. **Sing happy birthday to a number** and blow out five candles. This is exactly as funny to a three-year-old as it sounds.
 7. **End by making a picture of everything five** you found today, all on one page.
 
 > 💡 **Tip:** Do the whole thing with a completely straight face. The moment an adult signals that this is a silly teaching exercise rather than a real party, it stops working.
@@ -19410,7 +19410,7 @@ Find five things outside that come in fives — five fingers on her hand, five p
 
 > 🧠 **A Little Parenting Insight**
 > **Giving a number a personality is what makes it stick.**
-> An abstract five is hard to hold onto. A five that had a birthday party, wore a hat, sat at the head of the table and had five guests is a character — and characters are what a four-year-old's memory is built for.
+> An abstract five is hard to hold onto. A five that had a birthday party, wore a hat, sat at the head of the table and had five guests is a character — and characters are what a three-year-old's memory is built for.
 > This isn't a trick so much as a match to how she already thinks. At this age nearly everything gets a personality: the moon, the vacuum cleaner, the last biscuit. Working with that rather than against it is why so much good early maths teaching is faintly ridiculous. She'll remember five had a party long after she's forgotten a worksheet, and the quantity comes attached.
 
 > 💛 **From Joseph:** Number five got a card, a hat, and a song. Number six is apparently getting nothing and she seems fine about that.
@@ -19799,7 +19799,7 @@ A proper ride on the bike she just serviced — longer than usual, and let her s
 
 > 🧠 **A Little Parenting Insight**
 > **Pumping a tyre is the first time she'll feel her own strength do something useful.**
-> Most of what a four-year-old's body can do is either play or is done for her. A bike pump is different — it's genuinely hard, it needs her whole weight, it takes long enough to be an effort, and at the end of it something that was soft is now hard because of her.
+> Most of what a three-year-old's body can do is either play or is done for her. A bike pump is different — it's genuinely hard, it needs her whole weight, it takes long enough to be an effort, and at the end of it something that was soft is now hard because of her.
 > That's a rarer experience than it sounds, and it's worth not taking over halfway through. The moment where she wants to stop and then finishes anyway is doing more than the maintenance is. Look for the other jobs shaped like this — carrying the shopping in, sweeping the path, wringing out a cloth — because effort with a visible result is how a child works out what she's capable of.
 
 > 💛 **From Joseph:** She got the front tyre up on her own and then wanted to do mine, which took considerably longer and I let her.
@@ -19885,7 +19885,7 @@ The moon journal starts on Friday and runs the whole week, so it needs starting 
 
 - The moon changing shape is the first thing she'll notice that she can't touch
 - Distance is the part of space that nobody tells her about
-- Being an expert on one thing is enormously motivating at four
+- Being an expert on one thing is enormously motivating at three
 - A crater is a record of something that already happened, and reading it backwards is new thinking
 - Inventing a creature to fit conditions is her first taste of adaptation
 - Making the sky small enough to hold is what lets her study it
@@ -20024,7 +20024,7 @@ The walk is the activity. **Count the steps between each planet out loud** and l
 > 🧠 **A Little Parenting Insight**
 > **Distance is the part of space that nobody tells her about.**
 > Children's books do sizes well — the sun is huge, Earth is small — and almost entirely skip the distances, because they don't fit on a page. The result is a mental picture of the planets sitting close together like fruit in a bowl.
-> Walking it is the only fix that works at four. The steps between the inner planets are quick and then the gaps get long enough to be dull, and the dullness is exactly the information. She won't retain the numbers and doesn't need to. What she keeps is a physical memory that space is mostly empty, which is the single most surprising true thing about it.
+> Walking it is the only fix that works at three. The steps between the inner planets are quick and then the gaps get long enough to be dull, and the dullness is exactly the information. She won't retain the numbers and doesn't need to. What she keeps is a physical memory that space is mostly empty, which is the single most surprising true thing about it.
 
 > 💛 **From Joseph:** She got to Saturn and asked to go home. That's the correct emotional response to the solar system.
 
@@ -20077,7 +20077,7 @@ Walk to the park **as though gravity is a sixth of normal** — huge slow bounds
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **Being an expert on one thing is enormously motivating at four.**
+> **Being an expert on one thing is enormously motivating at three.**
 > Somewhere around now children start collecting deep, narrow expertise — dinosaurs, diggers, planets — and knowing more about one subject than the adults around them is a genuine thrill. It's often the first time she experiences competence as an identity rather than an achievement.
 > Which is worth feeding rather than broadening. The pull is to move her on to something else once she knows the planets; the better move is to go deeper into the one she's picked, and to let her correct you when you get it wrong. Depth in any subject teaches how knowing things works — that facts connect, that there's always more, and that being the person who knows is a good thing to be.
 
@@ -20238,7 +20238,7 @@ Out after tea with two torches, in the actual dark. **Look up first, before the 
 
 > 🧠 **A Little Parenting Insight**
 > **Making the sky small enough to hold is what lets her study it.**
-> The real night sky is a poor teaching object for a four-year-old — it's cold, it's too big to point at accurately, it's over her head at an uncomfortable angle, and half of it is behind a roof. She looks for a minute and is done.
+> The real night sky is a poor teaching object for a three-year-old — it's cold, it's too big to point at accurately, it's over her head at an uncomfortable angle, and half of it is behind a roof. She looks for a minute and is done.
 > A ceiling full of pierced holes solves all of that. It's the right size, it stays still, she made it, and she can turn it off. Then when she does go outside and look up, she has something to look *for* — and finding a shape in the real sky that she's already met on her own ceiling is a much bigger moment than being shown one cold-handed on a Wednesday night.
 
 > 💛 **From Joseph:** She named her constellation after Kreston. It's seven dots and a squiggle and it's on the ceiling until further notice.
@@ -20280,7 +20280,7 @@ Out after tea with two torches, in the actual dark. **Look up first, before the 
 6. **Space food for snack**, eaten in the rocket.
 7. **In the evening, finish the moon journal.** Lay all seven pages out in a row. **Ask what changed.** That's the week, in one line of drawings.
 
-> 💡 **Tip:** Write the three mission tasks on the clipboard and tick them off out loud. A four-year-old with a list will stay on task far longer than one with a general instruction to explore.
+> 💡 **Tip:** Write the three mission tasks on the clipboard and tick them off out loud. a three-year-old with a list will stay on task far longer than one with a general instruction to explore.
 
 ### 🌳 Get Outside: The Landing Site
 Do the second half outside if you can — a hedge, a corner of the garden, or the park at dusk with torches. **An unfamiliar patch in the dark is a better planet than any room.** Collect the samples out there and bring them home.
@@ -20512,7 +20512,7 @@ Ninety minutes of lifting and looking. **Lift the log towards you** so anything 
 > 💡 **Tip:** Tape the spokes yourself and hand her the spiral. The spokes are fiddly and frustrating; the spiral is repetitive and satisfying, and it's where the whole hour is.
 
 ### 🌳 Get Outside: The Web Walk
-**Early morning, before the dew burns off.** Take the spray bottle. **A fine mist on an invisible web makes it appear**, which is a genuinely magical thing to show a four-year-old. Look along hedges, fences, gates, and gorse. Count them. Draw the best one.
+**Early morning, before the dew burns off.** Take the spray bottle. **A fine mist on an invisible web makes it appear**, which is a genuinely magical thing to show a three-year-old. Look along hedges, fences, gates, and gorse. Count them. Draw the best one.
 
 > 👶 **Infant Integration:** Kreston will walk straight through the wool web and pull it down. Build it in a doorway he can be kept out of, and give him a length of wool of his own to drag around the house.
 
@@ -20570,7 +20570,7 @@ Seventy-five minutes on hands and knees along a wall. **The instruction is: foll
 
 > 🧠 **A Little Parenting Insight**
 > **Following something rather than catching it is a different kind of attention.**
-> Catching is a burst — spot, grab, over. Following is sustained, requires her to keep track of one small thing among many identical ones, and produces nothing at the end except what she noticed. Most four-year-olds default hard to catching.
+> Catching is a burst — spot, grab, over. Following is sustained, requires her to keep track of one small thing among many identical ones, and produces nothing at the end except what she noticed. Most three-year-olds default hard to catching.
 > Which is why it's worth naming the rule explicitly and holding it. Tracking one ant along a wall is genuinely demanding attention work — selective, sustained, and self-directed — and it's the same capacity she'll need for reading a line of text without losing her place. It also produces better observations. Nobody has ever learned what ants do by holding one.
 
 > 💛 **From Joseph:** She followed one for eleven minutes and then declared it had gone home for lunch. I have no evidence against this.
@@ -20621,7 +20621,7 @@ The hiding and hunting is the outdoor block. **Run it three or four times** in d
 
 > 🧠 **A Little Parenting Insight**
 > **Hiding something well means imagining another creature's point of view.**
-> To hide a paper bug properly she has to think about what *you* will see — not what she knows is there. That's perspective-taking, and it's genuinely difficult at four; it's why small children hide behind curtains with their feet showing and are astonished to be found.
+> To hide a paper bug properly she has to think about what *you* will see — not what she knows is there. That's perspective-taking, and it's genuinely difficult at three; it's why small children hide behind curtains with their feet showing and are astonished to be found.
 > Hide-and-seek games are one of the few places this gets practised with immediate feedback. She hides it, you find it in four seconds, and she gets information about the gap between her view and yours. Over a morning, the hiding gets markedly better. That improvement is a social-cognitive skill developing in real time, dressed up as a game about bugs.
 
 > 💛 **From Joseph:** Her last hiding place took me the full two minutes and she watched me the entire time with her arms folded.
@@ -20915,7 +20915,7 @@ Out with a bag for things to press: shells, leaves with strong veins, ferns, bar
 > 🧠 **A Little Parenting Insight**
 > **A copy of a thing teaches her what a fossil actually is.**
 > Most children assume a fossil is the animal — the actual bone, the actual shell, somehow gone hard. The real idea is stranger and better: the original rotted away entirely and what's left is stone that took its shape.
-> That can't be explained into a four-year-old and it can be demonstrated in an afternoon. She presses a shell into dough, lifts it out, pours plaster into the hollow, and pulls out a shell made of plaster. The original is in her other hand. Once she has done that with her own hands, the museum cabinet next year contains something she understands rather than something she just accepts.
+> That can't be explained into a three-year-old and it can be demonstrated in an afternoon. She presses a shell into dough, lifts it out, pours plaster into the hollow, and pulls out a shell made of plaster. The original is in her other hand. Once she has done that with her own hands, the museum cabinet next year contains something she understands rather than something she just accepts.
 
 > 💛 **From Joseph:** She's asked whether we could fossilise Kreston. I said we'd start with his hand.
 
@@ -21065,7 +21065,7 @@ Out to buy or pick marigolds if you can — most places still have them in early
 6. Roll them up carefully for the walk.
 7. Back home, **stick her string next to a dinosaur string on the wall** and leave both up.
 
-> 💡 **Tip:** Cut the string the night before. Measuring out twelve metres with a four-year-old helping takes forty minutes and uses up the energy you need for the walk.
+> 💡 **Tip:** Cut the string the night before. Measuring out twelve metres with a three-year-old helping takes forty minutes and uses up the energy you need for the walk.
 
 ### 🌳 Get Outside: Pace Out a Dinosaur
 Take the strings and the chalk to a path, a car park, or a quiet street. **Lay the T. rex string out along the ground and walk its length.** Chalk a line at each end and write the name. Then Stegosaurus. Then Velociraptor, which she'll be shocked by.
@@ -21083,7 +21083,7 @@ Take the strings and the chalk to a path, a car park, or a quiet street. **Lay t
 
 > 🧠 **A Little Parenting Insight**
 > **Big numbers mean nothing until she's walked them.**
-> "Twelve metres long" is not information to a four-year-old. Neither is "as long as a bus", unless she's just stood next to a bus. Number words for large quantities are essentially decorative at this age — she'll repeat them accurately and picture nothing.
+> "Twelve metres long" is not information to a three-year-old. Neither is "as long as a bus", unless she's just stood next to a bus. Number words for large quantities are essentially decorative at this age — she'll repeat them accurately and picture nothing.
 > What converts them is her own body used as the unit. Six Azlyns long, thirty of Kreston's steps from nose to tail, longer than our whole house. That's a measurement she can actually hold, because the unit is one she carries around all the time. It's also why the string is better than the picture: the picture makes it small enough to fit on a page, which is precisely the wrong lesson.
 
 > 💛 **From Joseph:** Six and a bit Azlyns. She lay down on the pavement to check the last bit herself.
@@ -21245,7 +21245,7 @@ Thick socks on a smooth floor. Skate, glide, race, and stop dead on a signal. Th
 > 🧠 **A Little Parenting Insight**
 > **Scorekeeping turns a chaotic game into a calm one.**
 > An indoor game with no structure tends to escalate — faster, louder, wilder — until someone gets hurt or upset. A scoreboard interrupts that automatically, because every turn ends with a pause to count and write, and the pauses are what stop the spiral.
-> It also smuggles in a lot of maths on a day when nothing was planned. Counting the knocked-down pins, tallying, comparing two totals, working out who's ahead. But the regulation is the real reason to do it: a game with a shape is one a wound-up four-year-old can stay inside for an hour, and a game without one lasts eleven minutes and ends badly.
+> It also smuggles in a lot of maths on a day when nothing was planned. Counting the knocked-down pins, tallying, comparing two totals, working out who's ahead. But the regulation is the real reason to do it: a game with a shape is one a wound-up three-year-old can stay inside for an hour, and a game without one lasts eleven minutes and ends badly.
 
 > 💛 **From Joseph:** She kept score for both of us and I did not win a single round. Draw your own conclusions.
 
@@ -21282,7 +21282,7 @@ Thick socks on a smooth floor. Skate, glide, race, and stop dead on a signal. Th
 4. **Then the water dish on the glass** — drop food colouring in and watch it spread, lit from below.
 5. **Coloured ice cubes on the light table** melt into each other and mix, slowly, for half an hour. Set that going early.
 6. **Make a picture** — arrange the translucent pieces into a face or a landscape and photograph it lit up before it gets swept away.
-7. **Leave it running through the dark afternoon.** It's the best thing in the house at four o'clock in November.
+7. **Leave it running through the dark afternoon.** It's the best thing in the house at three o'clock in November.
 
 > ⚠️ **Fairy lights and a shallow dish of water need keeping apart.** Battery lights only, and the water dish sits on the glass, not near the battery pack.
 
@@ -21300,7 +21300,7 @@ Lights off, two torches, and everyone has to keep out of the other beam. Then to
 > An hour's shift takes an adult a couple of days. For a small child it can take a fortnight, and it arrives as early waking, a wrecked bedtime, and a fortnight of being unaccountably difficult at five in the afternoon.
 > Knowing that in advance changes how you read the behaviour. It also suggests the two things that actually help: getting outside in daylight in the morning, which is the strongest signal the body clock has, and shifting bedtime by ten minutes at a time rather than all at once. And it means late October's difficult fortnight isn't a regression or something you've done wrong — it's a clock, resetting slowly.
 
-> 💛 **From Joseph:** Awake at five, wrecked by four. It's the clocks, it lasts about two weeks, and then she'll be fine.
+> 💛 **From Joseph:** Awake at five, wrecked by three. It's the clocks, it lasts about two weeks, and then she'll be fine.
 
 <div style="page-break-after: always;"></div>
 
@@ -21334,7 +21334,7 @@ Lights off, two torches, and everyone has to keep out of the other beam. Then to
 6. **She colours in whichever bits she wants**, or none, from lying down.
 7. **Read it back to her at the end, out loud, with voices.** Then again, because she'll ask.
 
-> 💡 **Tip:** Put her, you, and Kreston in it by name. A story about people she knows holds a poorly four-year-old's attention far better than one about invented characters.
+> 💡 **Tip:** Put her, you, and Kreston in it by name. A story about people she knows holds a poorly three-year-old's attention far better than one about invented characters.
 
 ### 😴 Wind-Down: Read It Back
 Read her comic, then read her something familiar, in a dark room, with no expectation of participation. If she drifts off mid-way, that's the day working as intended.
@@ -21619,7 +21619,7 @@ Find a field, an allotment, or any patch of grown-over ground and look at what's
 
 > 🧠 **A Little Parenting Insight**
 > **Grinding grain by hand is how she finds out that food used to be work.**
-> Flour arrives in a bag. Bread arrives in a wrapper. There's no reason for a four-year-old to suspect that either involved anything, and being told about farming doesn't make a dent in that.
+> Flour arrives in a bag. Bread arrives in a wrapper. There's no reason for a three-year-old to suspect that either involved anything, and being told about farming doesn't make a dent in that.
 > Twenty minutes with a pestle and a spoonful of gritty flour at the end of it does. It's the effort, not the explanation, that lands — and what she takes away isn't a fact about wheat but a general suspicion that the ordinary things in the cupboard came from somewhere and cost somebody something. That suspicion is the beginning of caring where anything comes from.
 
 > 💛 **From Joseph:** Twenty minutes for one spoonful. She looked at the bag of flour afterwards like it had been hiding something from her.
@@ -21659,7 +21659,7 @@ Find a field, an allotment, or any patch of grown-over ground and look at what's
 6. **Make a length of it**, however wobbly, and wind it round a stick.
 7. **Finger-knit** a chain from chunky wool to finish. Loop over loop over loop, and she'll have a metre of it in ten minutes.
 
-> 💡 **Tip:** Buy prepared roving as well as raw fleece if you can. Raw fleece is the interesting bit and roving is the bit that actually works for a four-year-old's fingers.
+> 💡 **Tip:** Buy prepared roving as well as raw fleece if you can. Raw fleece is the interesting bit and roving is the bit that actually works for a three-year-old's fingers.
 
 ### 🌳 Get Outside: The Wool Hunt
 If there are sheep near you, walk a fence line and **collect the wool caught on the wire** — there's always some, and it's free. If there aren't, go and find wool the other way: look at labels in a charity shop or your own coats and sort them into wool and not-wool by feel.
@@ -21769,7 +21769,7 @@ Rinse and dry the shells, crush them, and **put them out for the birds** — the
 
 > ⚠️ **The hot pan is an adult's job start to finish.** She watches the milk split from a step back on the other side of the counter.
 
-> 💡 **Tip:** Take the cream out of the fridge an hour early. Cold cream takes twice as long to turn and a four-year-old will not last twenty minutes of shaking.
+> 💡 **Tip:** Take the cream out of the fridge an hour early. Cold cream takes twice as long to turn and a three-year-old will not last twenty minutes of shaking.
 
 ### 🌳 Get Outside: The Milk Round
 Go and look at where milk comes from at your end of it — the shop shelf, the fridges, the sizes, the different bottles. **If there are cows near you, go and watch them.** Otherwise walk a "delivery round" with two empty bottles and leave one on the doorstep for the walk home.
@@ -21785,7 +21785,7 @@ Go and look at where milk comes from at your end of it — the shop shelf, the f
 
 > 🧠 **A Little Parenting Insight**
 > **Waiting for cream to turn into butter is a bet she'll want to see through.**
-> Ten minutes of shaking a jar is a long time for a four-year-old, and she'll want to stop at four. What keeps her going is that she's been told something specific will happen and she wants to be there when it does.
+> Ten minutes of shaking a jar is a long time for a three-year-old, and she'll want to stop at three. What keeps her going is that she's been told something specific will happen and she wants to be there when it does.
 > That's a useful distinction. Persistence isn't a general trait she either has or lacks — it depends enormously on whether there's a promised, definite, visible payoff. Telling her exactly what to expect, and roughly when, buys far more staying power than encouragement does. And the reward when it splits is genuinely dramatic, which teaches the more valuable lesson: sticking with something dull sometimes pays out.
 
 > 💛 **From Joseph:** She shook that jar for eleven minutes and screamed the house down when it turned. So did I, a bit.
@@ -21839,7 +21839,7 @@ Take the whole thing outside — the garden, the park, a quiet field — with a 
 > 🧠 **A Little Parenting Insight**
 > **A game with a whistle and rules teaches listening better than being told to listen.**
 > "Listen to me" asks her to do something she can't practise. A whistle with four meanings makes listening the whole activity: she has to attend, discriminate between similar signals, hold the meaning in mind, and act — while running, which makes it harder.
-> That's auditory discrimination and inhibitory control being trained at speed and disguised as a game. The stop signal is doing the most work, because stopping mid-run is one of the hardest things a four-year-old's brain does. Practised as a game with no stakes, it gets faster and more reliable — and it transfers, which is why the same whistle is worth keeping for the kerb.
+> That's auditory discrimination and inhibitory control being trained at speed and disguised as a game. The stop signal is doing the most work, because stopping mid-run is one of the hardest things a three-year-old's brain does. Practised as a game with no stakes, it gets faster and more reliable — and it transfers, which is why the same whistle is worth keeping for the kerb.
 
 > 💛 **From Joseph:** She stopped dead on the long whistle every single time. I'd like that on record for the next time somebody tells me she doesn't listen.
 
@@ -21891,7 +21891,7 @@ Where do animals shelter round here? **Look properly:** under a hedge, in a hole
 > 🧠 **A Little Parenting Insight**
 > **Thinking about what an animal needs in winter is easier than thinking about herself.**
 > Asked what *she* needs to be comfortable, she'll say something unhelpful. Asked what a cow needs to get through November, she'll produce a careful, sensible list: dry, warm, out of the wind, food, water, company.
-> Working out needs from the outside is much easier than introspecting, and it's a real route into the same understanding. Once the barn is built to her own list, the question *and what do you need when it's cold?* has somewhere to land — because she's already assembled the answer, just for a cow. It's one of the more reliable ways to get a four-year-old thinking about comfort, warmth, and being looked after without asking her to talk about herself.
+> Working out needs from the outside is much easier than introspecting, and it's a real route into the same understanding. Once the barn is built to her own list, the question *and what do you need when it's cold?* has somewhere to land — because she's already assembled the answer, just for a cow. It's one of the more reliable ways to get a three-year-old thinking about comfort, warmth, and being looked after without asking her to talk about herself.
 
 > 💛 **From Joseph:** Her list said "hay, water, a friend, and no wind". Not a bad specification for anyone in November.
 
@@ -21903,7 +21903,7 @@ Where do animals shelter round here? **Look properly:** under a hedge, in a hole
 **📅 Thursday, November 11, 2027**
 **Theme:** On the Farm — *Week 45 Finale*
 
-> 🎖️ **Veterans Day.** Memorial Day back in May was about the people who died. **Today is about the ones who came home** — the people who served and are still here, and who you can actually say thank you to. That distinction is the whole lesson and she can hold it. If there's a veteran in the family or on the street, today is the day to visit, ring, or post a card. **11 o'clock is the traditional minute of silence** — a whole minute is a long time at four, so try for the length of one slow breath together and count that a success.
+> 🎖️ **Veterans Day.** Memorial Day back in May was about the people who died. **Today is about the ones who came home** — the people who served and are still here, and who you can actually say thank you to. That distinction is the whole lesson and she can hold it. If there's a veteran in the family or on the street, today is the day to visit, ring, or post a card. **11 o'clock is the traditional minute of silence** — a whole minute is a long time at three, so try for the length of one slow breath together and count that a success.
 
 ### ⏰ At-a-Glance Schedule
 - **8:30–9:45 AM** — Main Event: **The Farm Breakfast**, cooked and served (75 min)
@@ -21944,7 +21944,7 @@ A short walk with a card she made — to a veteran you know, or to post. If ther
 
 > 🧠 **A Little Parenting Insight**
 > **Serving other people is a role she'll take more seriously than being served.**
-> Almost all of a four-year-old's meals happen to her — food appears, she eats it, someone clears it. Reversing that for one breakfast changes her posture completely: she's checking whether everyone's got everything, watching faces, waiting to sit down.
+> Almost all of a three-year-old's meals happen to her — food appears, she eats it, someone clears it. Reversing that for one breakfast changes her posture completely: she's checking whether everyone's got everything, watching faces, waiting to sit down.
 > That's a real and slightly demanding social role, and children usually rise to it. It also does more for how she feels about food she made than any amount of praise — the response she's watching for is other people's, not yours. And on a day about people who served, having her spend a morning looking after everyone else is a better lesson than anything you could say about it.
 
 > 💛 **From Joseph:** She sat down last, checked everyone had butter, and then ate more breakfast than I've ever seen her eat.
@@ -22118,7 +22118,7 @@ Hunt for colours split by water and light: **an oily puddle on a road**, a wet w
 
 > 🧠 **A Little Parenting Insight**
 > **A rainbow she can make and unmake stops being magic and starts being light.**
-> A rainbow in the sky is a one-off event with no visible cause. It's genuinely reasonable for a four-year-old to file it under magic, along with everything else that happens without explanation.
+> A rainbow in the sky is a one-off event with no visible cause. It's genuinely reasonable for a three-year-old to file it under magic, along with everything else that happens without explanation.
 > Control is what moves it out of that category. If she can make one appear by tilting a mirror and make it vanish by moving her hand, then it has a cause, and the cause is something she's holding. She won't understand refraction and doesn't need to — what she gets is the far more important habit of assuming that impressive things have causes that can be found, which is the difference between wonder and superstition.
 
 > 💛 **From Joseph:** She spent ten minutes making it come and go, come and go, checking it worked the same way every time.
@@ -22238,7 +22238,7 @@ Seventy-five minutes with the flip-book, rating everywhere: the garden, the stre
 > 🧠 **A Little Parenting Insight**
 > **A scale with pictures lets her rate something she can't measure.**
 > Wind has no units she can access — a rain gauge she can read, a thermometer she can look at, but wind speed is invisible. A picture scale solves that by turning the measurement into a matching task: which of these seven pictures looks like what's happening?
-> That's a genuinely useful format and it's worth borrowing beyond the weather. Pain scales, tiredness scales, and how-cross-am-I scales all work the same way, and they let a child report something she otherwise can't put a size on. A child who can point at a picture and say *it's about a four* has a way to communicate an intensity, which is a real gain for a four-year-old who mostly has *fine* and *terrible*.
+> That's a genuinely useful format and it's worth borrowing beyond the weather. Pain scales, tiredness scales, and how-cross-am-I scales all work the same way, and they let a child report something she otherwise can't put a size on. A child who can point at a picture and say *it's about a four* has a way to communicate an intensity, which is a real gain for a three-year-old who mostly has *fine* and *terrible*.
 
 > 💛 **From Joseph:** Behind the shed was a one and the top of the field was a five, and she was outraged that it could be both at once.
 
@@ -22292,7 +22292,7 @@ Turn them out — **a splash of warm water on the underside of the dish releases
 
 > 🧠 **A Little Parenting Insight**
 > **Cold is easier to investigate than hot, because she can hold it.**
-> Heat is off-limits to a four-year-old — every hot thing in her life comes with a warning and a distance. Cold is the same physics from the other end, and she can pick it up, watch it change, and hold it until her fingers complain.
+> Heat is off-limits to a three-year-old — every hot thing in her life comes with a warning and a distance. Cold is the same physics from the other end, and she can pick it up, watch it change, and hold it until her fingers complain.
 > That makes ice the best material available for meeting states of matter, melting, and the fact that temperature does things. She can run the whole experiment herself: put it there, watch it go, put salt on this one and not that one. Everything she learns about melting transfers straight to the hot version she isn't allowed to touch, and she'll have got it entirely from things she was allowed to handle.
 
 > 💛 **From Joseph:** She hung one on the gate and checked it eleven times before lunch. It was a puddle by two and she took it personally.
@@ -22345,7 +22345,7 @@ Find a puddle on a hard surface and **chalk right round its edge.** Come back in
 
 > 🧠 **A Little Parenting Insight**
 > **She thinks water that dries has gone, and it takes seeing it come back to fix that.**
-> Ask a four-year-old where a puddle went and she'll say it disappeared, or sank in, or went away. Nothing in her experience suggests that a liquid can turn into something invisible and still exist — that's a genuinely counter-intuitive idea and telling her doesn't shift it.
+> Ask a three-year-old where a puddle went and she'll say it disappeared, or sank in, or went away. Nothing in her experience suggests that a liquid can turn into something invisible and still exist — that's a genuinely counter-intuitive idea and telling her doesn't shift it.
 > What shifts it is the bag, because the water leaves the bottom and reappears on the wall, inside a sealed thing that nothing could get in or out of. That's the whole argument, made physically. It's also her first encounter with the idea that stuff doesn't vanish, it moves and changes form — which is one of the biggest ideas in science and she's meeting it in a freezer bag taped to a window.
 
 > 💛 **From Joseph:** "It climbed up." Not the word a scientist would use but not wrong either.
@@ -22519,7 +22519,7 @@ Thanksgiving is on Thursday, which is the right end for it. Everything up to Wed
 
 > 🧠 **A Little Parenting Insight**
 > **Sorting the year into four is easier than remembering it.**
-> Ask a four-year-old what happened in June and you'll get nothing, or you'll get yesterday. Her memory for the year is a heap rather than a timeline, and asking her to order twelve months is well beyond her.
+> Ask a three-year-old what happened in June and you'll get nothing, or you'll get yesterday. Her memory for the year is a heap rather than a timeline, and asking her to order twelve months is well beyond her.
 > Four buckets is manageable. Sorting a photograph into *the hot one* or *the leafy one* uses evidence in the picture rather than recall, so she can do it accurately without remembering anything. And doing it repeatedly builds the framework that memories will later hang on. That's the honest order: the structure comes first, and the ability to remember where things go inside it arrives over the next few years.
 
 > 💛 **From Joseph:** She found a bud on a bare twig and wanted to know who put it there. Nobody told her that was coming.
@@ -22623,7 +22623,7 @@ Plant some straight into the ground as well, in a spot she chooses. **Mark it wi
 
 > 🧠 **A Little Parenting Insight**
 > **Five months is longer than she can picture, and that's exactly why it's worth doing.**
-> A four-year-old's sense of the future runs out somewhere past next week. March is not a real place to her, and planting something that does nothing until then is, on the face of it, a badly designed activity.
+> a three-year-old's sense of the future runs out somewhere past next week. March is not a real place to her, and planting something that does nothing until then is, on the face of it, a badly designed activity.
 > It works anyway, and it works because of what happens in March rather than what happens today. When a green shoot appears in a pot she filled in November, she gets an experience she cannot get any other way: proof that something she did months ago was still working the whole time, invisibly. That's the beginning of being able to act for a future self — and it needs one concrete instance before it can become a habit of mind.
 
 > 💛 **From Joseph:** She's asked twice a day whether anything's happening. Nothing's happening. Four more months of this.
@@ -23059,7 +23059,7 @@ Go to a shop with the five words on a card and **find one food for each.** Sour 
 
 > 🧠 **A Little Parenting Insight**
 > **A constraint is what makes her choose instead of asking for everything.**
-> Asked what she'd like for lunch, a four-year-old produces a wish — something that isn't in the house, or the same thing as yesterday. There's nothing to think about, so no thinking happens.
+> Asked what she'd like for lunch, a three-year-old produces a wish — something that isn't in the house, or the same thing as yesterday. There's nothing to think about, so no thinking happens.
 > Fourteen ingredients on a counter and a rule that nothing else can be used turns it into a genuine problem. Now she has to look at what exists, hold a goal, and match one to the other — which is planning, and it's much more available to her inside a limit than outside one. It's the same reason a boxed set of six crayons often produces better drawing than a tub of ninety. Fewer options, more decisions.
 
 > 💛 **From Joseph:** Rice, egg, cheese, and half a cucumber on the side. It was fine. She was delighted.
@@ -23118,7 +23118,7 @@ Half an hour out while the dough rests, and **tell her that's why you're going.*
 
 > 🧠 **A Little Parenting Insight**
 > **Doing a job with her feet is not a joke, it's how she gets her whole body into it.**
-> The udon method sounds like a gimmick and isn't. Kneading stiff dough needs more force than a four-year-old's hands can produce, and her legs and body weight can do it easily — so a task that was impossible becomes one she can genuinely complete.
+> The udon method sounds like a gimmick and isn't. Kneading stiff dough needs more force than a three-year-old's hands can produce, and her legs and body weight can do it easily — so a task that was impossible becomes one she can genuinely complete.
 > That's worth generalising. When something is beyond her hands, there's often a whole-body version that isn't: painting on the floor rather than at a table, writing letters by walking them, mixing by stamping. Children this age are much stronger and more coordinated in their large muscles than their small ones, and matching the task to the body she's actually got is usually the difference between frustration and an hour of enthusiasm.
 
 > 💛 **From Joseph:** She stood on the dough for ten minutes with an expression of enormous responsibility. Best udon we've had.
@@ -23173,7 +23173,7 @@ Take the peelings and scraps out to the compost or the food bin. **Look at what'
 > 🧠 **A Little Parenting Insight**
 > **Washing up is water play with a result, and she'll do it for the water alone.**
 > Warm water, bubbles, and pouring are things she'd choose to do anyway. Attaching a real household job to them costs her nothing and gets you a child who is genuinely, cheerfully useful at the sink — which is not true of most chores at this age.
-> The part worth insisting on is the end: drying, putting away, and wiping the counter. Children who only ever do the enjoyable middle of a task learn that jobs stop when the fun does. Doing the whole arc once a day, at four, while it still feels like play, is how it becomes ordinary later. It won't stay this easy, so it's worth banking now.
+> The part worth insisting on is the end: drying, putting away, and wiping the counter. Children who only ever do the enjoyable middle of a task learn that jobs stop when the fun does. Doing the whole arc once a day, at three, while it still feels like play, is how it becomes ordinary later. It won't stay this easy, so it's worth banking now.
 
 > 💛 **From Joseph:** She washed up for forty minutes and then asked if there was anything else dirty. Enjoy this while it lasts.
 
@@ -23337,7 +23337,7 @@ Set up a route round the house with obstacles — under the table, over the cush
 > 🧠 **A Little Parenting Insight**
 > **A den changes the day more than any activity in it.**
 > On a flat, grey, indoors morning, the instinct is to find a better activity. But the thing most likely to reset a stuck day isn't what she does — it's changing where she is. A small, enclosed, dimly lit space that she built herself makes ordinary things feel different.
-> Small children seek out enclosed spaces for a reason: they're calming, they reduce the amount of room to attend to, and they're one of the few environments a four-year-old gets to control completely. Which is why the same drawing, story, or snack lands better inside a sheet fort than at the table. When nothing is working in November, change the room rather than the plan.
+> Small children seek out enclosed spaces for a reason: they're calming, they reduce the amount of room to attend to, and they're one of the few environments a three-year-old gets to control completely. Which is why the same drawing, story, or snack lands better inside a sheet fort than at the table. When nothing is working in November, change the room rather than the plan.
 
 > 💛 **From Joseph:** Same crayons, same paper, under a sheet. Two hours instead of ten minutes. I don't fully understand it either.
 
@@ -23425,7 +23425,7 @@ Be the weather. Rain — fingers tapping the floor, fast. Wind — running in ci
 6. **When there are eight or ten, read the whole wall out loud in order**, with voices.
 7. **Leave it up.** Add to it tomorrow if she's still poorly.
 
-> 💡 **Tip:** Let the gaps be long. A poorly four-year-old will do two minutes, stop, watch nothing for a quarter of an hour, and then come back with the best idea of the day. Filling the gap ends it.
+> 💡 **Tip:** Let the gaps be long. A poorly three-year-old will do two minutes, stop, watch nothing for a quarter of an hour, and then come back with the best idea of the day. Filling the gap ends it.
 
 ### 😴 Wind-Down: Steam and Stories
 A bowl of hot water on a surface **well out of reach**, so the room gets a bit of steam in it, and a story in the dark. Steam won't cure a cold but a humid room genuinely helps a blocked-up child sleep.
@@ -23593,7 +23593,7 @@ A bowl of hot water on a surface **well out of reach**, so the room gets a bit o
 - **Tree decorations are glass, small, and at Kreston's eye level.** Nothing breakable on the bottom third.
 - **Cold water and ice on Days 346 and 351.** Short exposures, warm hands afterwards, and an adult with a hand on the bowl.
 - **Ribbon, string, and wrapping paper** all go in the bin as they come off. An 18-month-old and a length of ribbon is a genuine hazard.
-- **Dark by four.** Reflective strips, torches, and the outdoor block in the morning — every day this month.
+- **Dark by three.** Reflective strips, torches, and the outdoor block in the morning — every day this month.
 
 ---
 
@@ -23721,8 +23721,8 @@ Collect names from the world: street signs, shop names, house names, the names o
 
 > 🧠 **A Little Parenting Insight**
 > **A character with a want is a story engine; a character with a name is just a doll.**
-> Ask a four-year-old to tell a story and you usually get a list: *and then he went there, and then he saw a dog, and then he had lunch.* Nothing connects, because nothing is being pursued.
-> The fix isn't more imagination, it's one question: **what does he want?** A want creates obstacles, and obstacles create everything else. This is the same machinery adult writers use, and it's completely accessible at four — she can answer *she wants to find her cat* and then generate an hour of plot from it. Asking the question on Friday is what makes the rest of the week possible.
+> Ask a three-year-old to tell a story and you usually get a list: *and then he went there, and then he saw a dog, and then he had lunch.* Nothing connects, because nothing is being pursued.
+> The fix isn't more imagination, it's one question: **what does he want?** A want creates obstacles, and obstacles create everything else. This is the same machinery adult writers use, and it's completely accessible at three — she can answer *she wants to find her cat* and then generate an hour of plot from it. Asking the question on Friday is what makes the rest of the week possible.
 
 > 💛 **From Joseph:** All three of her characters want a dog. I think this is a message.
 
@@ -23773,7 +23773,7 @@ Short and early, before the building. **Look at the details you'd never normally
 > 🧠 **A Little Parenting Insight**
 > **Small worlds get played in longer when somebody lives there.**
 > An empty model village is a craft project — admired, photographed, abandoned by Tuesday. The same village with three named residents who each want something is a place, and places get returned to.
-> This is why the character work came first. Small-world play is one of the richest things a four-year-old does — it's where narrative, empathy, problem-solving and language all run at once — but it needs inhabitants with intentions to get going. Build the people, then the houses. The other order produces something lovely that nobody touches.
+> This is why the character work came first. Small-world play is one of the richest things a three-year-old does — it's where narrative, empathy, problem-solving and language all run at once — but it needs inhabitants with intentions to get going. Build the people, then the houses. The other order produces something lovely that nobody touches.
 
 > 💛 **From Joseph:** There is a village on our living room floor and it is not moving until the weekend after next.
 
@@ -23828,7 +23828,7 @@ Go and find where the story happens. **A gate, a wood, a bridge, an alley, a par
 
 > 🧠 **A Little Parenting Insight**
 > **"Until one day" is the phrase that turns a list into a story.**
-> Left alone, a four-year-old's stories are chronological and flat — a sequence of things that happen, with nothing connecting them. She isn't missing imagination; she's missing the idea that a story needs a *disruption*.
+> Left alone, a three-year-old's stories are chronological and flat — a sequence of things that happen, with nothing connecting them. She isn't missing imagination; she's missing the idea that a story needs a *disruption*.
 > Three words supply it. *Until one day* forces something to change, and once something has changed, everything after it has a reason to happen. That's cause and effect, in narrative form, and it's the beginning of the difference between recounting and storytelling. She'll use the phrase for months once she's got it, in exactly the right place, without being able to say why it works.
 
 > 💛 **From Joseph:** "Until one day… the dog came back." She said it with a full pause before it. She knows exactly what she's doing.
@@ -23984,7 +23984,7 @@ Run a short version outside — **string tied to gateposts, arrows chalked on th
 > 🧠 **A Little Parenting Insight**
 > **A mystery is the one structure that makes her ask questions instead of answering them.**
 > Most of her day runs the other way. Adults ask, she answers — what colour, how many, what happened. A missing object flips it entirely: she has a gap she wants closed, and the only route is asking things.
-> That matters because question-asking is a genuine skill and it drops off sharply once children start being assessed. A mystery keeps it alive by making questions useful rather than performative. The other thing it trains is inference — a thread on a fence is not an answer, it's evidence that points somewhere, and holding *this suggests that* in mind is a real cognitive step at four.
+> That matters because question-asking is a genuine skill and it drops off sharply once children start being assessed. A mystery keeps it alive by making questions useful rather than performative. The other thing it trains is inference — a thread on a fence is not an answer, it's evidence that points somewhere, and holding *this suggests that* in mind is a real cognitive step at three.
 
 > 💛 **From Joseph:** It was under his cot. It's always under his cot.
 
@@ -24151,7 +24151,7 @@ Sixty minutes counting real animals — birds, a dog, a squirrel, a cat, a worm,
 
 > 🧠 **A Little Parenting Insight**
 > **She'll defend a category harder than she'll defend a fact.**
-> Tell a four-year-old that a whale isn't a fish and she'll argue. Not because she's attached to whales, but because her category — *lives in water, therefore fish* — is a rule she built herself, and rules are more personal than facts.
+> Tell a three-year-old that a whale isn't a fish and she'll argue. Not because she's attached to whales, but because her category — *lives in water, therefore fish* — is a rule she built herself, and rules are more personal than facts.
 > That's worth respecting rather than overriding. The productive move isn't to correct the category, it's to hand her a test she can run: does it have scales? does it lay eggs? does it breathe air? Then the category updates from the inside, which is the only way it ever really updates. This is exactly how classification works in actual science, and the arguing is a sign she's doing it properly.
 
 > 💛 **From Joseph:** Twenty minutes of vigorous debate about a penguin. She's not wrong that it's a strange one.
@@ -24254,7 +24254,7 @@ Out in the actual December cold. **What is she wearing that keeps her warm, and 
 
 > 🧠 **A Little Parenting Insight**
 > **Feeling the cold stop is more convincing than being told about insulation.**
-> Insulation is invisible and the explanation is abstract — trapped air, heat transfer, none of which means anything at four. But the difference between ten seconds and two minutes in the same bowl of ice water is something she experiences in her own hand.
+> Insulation is invisible and the explanation is abstract — trapped air, heat transfer, none of which means anything at three. But the difference between ten seconds and two minutes in the same bowl of ice water is something she experiences in her own hand.
 > That's the pattern worth noticing across this whole book: where a concept can be delivered as a sensation, it should be. She now has a physical memory attached to the word *blubber*, and every time she puts a coat on this winter there's something real for it to connect to. Explanations given after the experience stick; the same words given before it usually don't.
 
 > 💛 **From Joseph:** Ten seconds bare-handed, and she kept the blubber glove on for so long we had to negotiate it off her.
@@ -24307,7 +24307,7 @@ Mud, frost, a soft path, a puddle edge, snow if you're lucky. **December is the 
 > 🧠 **A Little Parenting Insight**
 > **The garden has residents she has never met.**
 > A fox print by the bins, or something unidentified in the mud, changes the status of a place she thought she knew completely. The garden turns out to have a night shift — animals that live there, use it, and have never once been seen.
-> That's a genuinely thrilling idea at four and it does something useful: it makes the familiar world bigger rather than smaller. It also gives her a reason to look at the ground on every walk for the rest of the winter. A child who has found one unexplained print in her own garden has been given a mystery that doesn't run out, which is a better gift than any answer.
+> That's a genuinely thrilling idea at three and it does something useful: it makes the familiar world bigger rather than smaller. It also gives her a reason to look at the ground on every walk for the rest of the winter. A child who has found one unexplained print in her own garden has been given a mystery that doesn't run out, which is a better gift than any answer.
 
 > 💛 **From Joseph:** Something with four toes and claws goes past our bins at night. She's been checking every morning since.
 
@@ -24357,7 +24357,7 @@ Look at every animal you meet and call it: **hunter or hunted?** Birds, dogs, ca
 > 🧠 **A Little Parenting Insight**
 > **Where the eyes are tells her what an animal is afraid of.**
 > Front eyes means judging distance to something you're chasing. Side eyes means seeing behind you, because something is chasing you. One anatomical detail, and it divides almost the whole animal kingdom into two.
-> Big organising rules like this are enormously satisfying to a four-year-old, and this one is unusually good because it's visible on every animal she meets and testable on herself. It also does something quietly useful: it introduces the idea that a body is *shaped by a problem*. That's the third time this month — beaks, teeth, eyes — and the repetition is what turns it from a fact into a way of looking.
+> Big organising rules like this are enormously satisfying to a three-year-old, and this one is unusually good because it's visible on every animal she meets and testable on herself. It also does something quietly useful: it introduces the idea that a body is *shaped by a problem*. That's the third time this month — beaks, teeth, eyes — and the repetition is what turns it from a fact into a way of looking.
 
 > 💛 **From Joseph:** She has worked out that we are hunters and has been fairly smug about it all afternoon.
 
@@ -24417,7 +24417,7 @@ Hang everything, then do the count from outside if it's not too cold, or from th
 > 🧠 **A Little Parenting Insight**
 > **Feeding birds is a promise that has to be kept once it's started.**
 > Winter feeding genuinely matters to the birds that come to rely on it, and a feeder that gets filled enthusiastically in December and forgotten in January is worse than one that was never hung.
-> Saying that plainly to her is the point. It's one of the very few commitments a four-year-old can make where something real depends on her keeping it, and where the consequence isn't abstract — the birds turn up and there's nothing there. That's a much better introduction to responsibility than a chore chart, because the obligation is to something outside the family that can't be reasoned with. Give her the job, and then make sure the household actually keeps it.
+> Saying that plainly to her is the point. It's one of the very few commitments a three-year-old can make where something real depends on her keeping it, and where the consequence isn't abstract — the birds turn up and there's nothing there. That's a much better introduction to responsibility than a chore chart, because the obligation is to something outside the family that can't be reasoned with. Give her the job, and then make sure the household actually keeps it.
 
 > 💛 **From Joseph:** Twenty minutes, eleven birds, four species, one of which we still can't identify. She's filled it every morning since without being asked.
 
@@ -24639,7 +24639,7 @@ Take the fleet out to a puddle, a stream, a gutter, or a paddling pool. **Race t
 
 > 🧠 **A Little Parenting Insight**
 > **The same material floats or sinks depending on what shape she makes it.**
-> This is one of the very few genuinely surprising physical facts a four-year-old can discover unaided, and it does something that being told cannot: it separates *what a thing is made of* from *what shape it is*, which are welded together in her thinking.
+> This is one of the very few genuinely surprising physical facts a three-year-old can discover unaided, and it does something that being told cannot: it separates *what a thing is made of* from *what shape it is*, which are welded together in her thinking.
 > Two identical squares of foil, one sinking and one floating, is an unanswerable demonstration and she performed it herself. That's also why yesterday's broken rule needed to stay broken overnight — the discovery only feels like a discovery if there was a question waiting for it. Twenty-four hours of not knowing is what makes the foil boat land.
 
 > 💛 **From Joseph:** Nineteen coins in the flattest, widest, ugliest boat on the table. She has already worked out that pretty and good are different things.
@@ -24694,7 +24694,7 @@ Frost is crystals and December usually supplies some. **Look at frost on a car r
 > 🧠 **A Little Parenting Insight**
 > **Some experiments only work if she leaves them alone.**
 > Almost everything she does is interactive — she pushes, and something responds. A crystal jar is the opposite: her involvement after the first hour actively ruins it, and the only correct action is waiting.
-> That's a genuinely hard lesson and worth doing explicitly, with a chart and a daily check so the waiting has a shape. It's the same muscle as the bulbs in November and the pressed leaves in September, and by now she's had three goes at it. Some good things happen slowly and without you, and the discipline is to check rather than interfere. That's a more useful idea at four than any fact about crystals.
+> That's a genuinely hard lesson and worth doing explicitly, with a chart and a daily check so the waiting has a shape. It's the same muscle as the bulbs in November and the pressed leaves in September, and by now she's had three goes at it. Some good things happen slowly and without you, and the discipline is to check rather than interfere. That's a more useful idea at three than any fact about crystals.
 
 > 💛 **From Joseph:** Day two, nothing. Day three, nothing. Day five she found a lump the size of a pea on the string and shouted the house down.
 
@@ -25428,7 +25428,7 @@ Her choice, and "nowhere" is a legitimate answer. If she wants the walk, everyon
 # 🌧️ December Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**December's version of a bad day isn't usually the weather.** It's the house being full of people, the routine being gone, everyone being overtired, and a four-year-old who has had too much of everything for a fortnight. The two "bad weather" days below are really bad-*week* days — for when it's dark and wet and the plan has no chance, and for the strange flat stretch between Christmas and New Year when nobody knows what day it is.
+**December's version of a bad day isn't usually the weather.** It's the house being full of people, the routine being gone, everyone being overtired, and a three-year-old who has had too much of everything for a fortnight. The two "bad weather" days below are really bad-*week* days — for when it's dark and wet and the plan has no chance, and for the strange flat stretch between Christmas and New Year when nobody knows what day it is.
 
 The sick days matter this month too. Something always goes round in the last week of December, and it always arrives at the worst possible moment.
 
@@ -25437,7 +25437,7 @@ The sick days matter this month too. Something always goes round in the last wee
 <a id="dec-weather-1"></a>
 
 ## 🕯️ Bad Weather Day 1: The Dark and Wet Day
-**Use when:** It's black by four, pouring, and going outside is genuinely not happening.
+**Use when:** It's black by three, pouring, and going outside is genuinely not happening.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting: Turn the Lights Off (15 min)
@@ -25564,7 +25564,7 @@ Torch on the floor, everyone standing. **Try to step on each other's shadows.** 
 6. **Save the rest of the presents.** A poorly child opening eleven things remembers none of them and enjoys none of them.
 7. **Play her own radio play back** in the afternoon — familiar, hers, and requires nothing.
 
-> 💡 **Tip:** Move the day rather than compressing it. A family that eats its Christmas dinner on the 28th because a four-year-old had a temperature has done the right thing, and she will remember that it was moved for her.
+> 💡 **Tip:** Move the day rather than compressing it. A family that eats its Christmas dinner on the 28th because a three-year-old had a temperature has done the right thing, and she will remember that it was moved for her.
 
 ### 😴 Wind-Down: The Window Bed
 Nest by the window with the lights off inside and whatever's out there — lights on houses, rain, the dark. **Nothing to do, nothing required.** Ill children need lower input than they're usually given on a big day.
@@ -25575,7 +25575,7 @@ Nest by the window with the lights off inside and whatever's out there — light
 
 > 🧠 **A Little Parenting Insight**
 > **Being ill on a big day is disappointing for the adults, and mostly confusing for her.**
-> The grief on a spoiled Christmas is largely the grown-ups' — the plans, the preparation, the picture of how it was supposed to look. A poorly four-year-old isn't measuring the day against an imagined version; she just feels rotten and doesn't understand why everyone seems tense.
+> The grief on a spoiled Christmas is largely the grown-ups' — the plans, the preparation, the picture of how it was supposed to look. A poorly three-year-old isn't measuring the day against an imagined version; she just feels rotten and doesn't understand why everyone seems tense.
 > Which means the useful move is to protect her from the disappointment rather than sharing it. Say clearly that the day can be moved, move it, and keep the atmosphere flat and kind. A calm sofa day with one present and a parent nearby is a perfectly good memory. A tense day of everyone trying to salvage the schedule around a sick child is not, and she'll pick up every bit of it.
 
 > 💛 **From Joseph:** We did Christmas dinner two days late one year and it was better. Nobody has ever mentioned the date since.

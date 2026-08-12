@@ -137,7 +137,7 @@ Crab walk to the end and back. Bear crawl. Hop on one foot. Race the length in s
 ### 🧸 Rest & Wind-Down
 Stories in the dark. The same one repeatedly if that's what she asks for — familiarity is what a tired brain wants.
 
-> 👶 **Infant Integration:** A sick 4-year-old and a walking 15-month-old is the hardest combination in this book. Contain him safely in the same room, rotate three new-to-him objects through, and lower every other standard for the day.
+> 👶 **Infant Integration:** A sick three-year-old and a walking 15-month-old is the hardest combination in this book. Contain him safely in the same room, rotate three new-to-him objects through, and lower every other standard for the day.
 
 ---
 

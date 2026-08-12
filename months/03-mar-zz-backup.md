@@ -80,7 +80,7 @@ Paper plates or cushions on the floor as puddles. Jump from one to the next with
 4. Come back in when hands get cold. Hang the wind sock where she can see it from a window.
 5. **Blowing games indoors:** race cotton balls across the table by blowing through straws.
 
-> 💡 **Tip:** The bag kite is genuinely better than a shop-bought one for a 4-year-old. No assembly, no tangling, and it flies at walking pace.
+> 💡 **Tip:** The bag kite is genuinely better than a shop-bought one for a three-year-old. No assembly, no tangling, and it flies at walking pace.
 
 ### 🏃 Indoor Movement: Straw Races
 Cotton ball races on the table, blown through straws. Then feathers, then a crumpled paper ball. Which is hardest to move?
@@ -92,7 +92,7 @@ Cotton ball races on the table, blown through straws. Then feathers, then a crum
 > 🧠 **A Little Parenting Insight**
 > **Blowing games do more than entertain.**
 > Controlled blowing through a straw uses the same oral motor coordination that speech depends on, and it requires sustained, graded breath control — which is genuinely hard for a preschooler.
-> There's a bonus: slow, extended exhalation activates the body's calming system. This is why blowing bubbles, blowing out candles, or blowing a cotton ball across a table often settles an agitated child faster than asking her to take deep breaths. "Blow this across the table" is an instruction a 4-year-old can follow; "calm down and breathe" is not.
+> There's a bonus: slow, extended exhalation activates the body's calming system. This is why blowing bubbles, blowing out candles, or blowing a cotton ball across a table often settles an agitated child faster than asking her to take deep breaths. "Blow this across the table" is an instruction a three-year-old can follow; "calm down and breathe" is not.
 
 > 💛 **From Joseph:** You have a hundred tricks for turning a meltdown around and you invented most of them yourself.
 

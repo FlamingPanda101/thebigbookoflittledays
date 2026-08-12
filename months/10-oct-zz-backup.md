@@ -50,7 +50,7 @@ Thick socks on a smooth floor. Skate, glide, race, and stop dead on a signal. Th
 > 🧠 **A Little Parenting Insight**
 > **Scorekeeping turns a chaotic game into a calm one.**
 > An indoor game with no structure tends to escalate — faster, louder, wilder — until someone gets hurt or upset. A scoreboard interrupts that automatically, because every turn ends with a pause to count and write, and the pauses are what stop the spiral.
-> It also smuggles in a lot of maths on a day when nothing was planned. Counting the knocked-down pins, tallying, comparing two totals, working out who's ahead. But the regulation is the real reason to do it: a game with a shape is one a wound-up four-year-old can stay inside for an hour, and a game without one lasts eleven minutes and ends badly.
+> It also smuggles in a lot of maths on a day when nothing was planned. Counting the knocked-down pins, tallying, comparing two totals, working out who's ahead. But the regulation is the real reason to do it: a game with a shape is one a wound-up three-year-old can stay inside for an hour, and a game without one lasts eleven minutes and ends badly.
 
 > 💛 **From Joseph:** She kept score for both of us and I did not win a single round. Draw your own conclusions.
 
@@ -87,7 +87,7 @@ Thick socks on a smooth floor. Skate, glide, race, and stop dead on a signal. Th
 4. **Then the water dish on the glass** — drop food colouring in and watch it spread, lit from below.
 5. **Coloured ice cubes on the light table** melt into each other and mix, slowly, for half an hour. Set that going early.
 6. **Make a picture** — arrange the translucent pieces into a face or a landscape and photograph it lit up before it gets swept away.
-7. **Leave it running through the dark afternoon.** It's the best thing in the house at four o'clock in November.
+7. **Leave it running through the dark afternoon.** It's the best thing in the house at three o'clock in November.
 
 > ⚠️ **Fairy lights and a shallow dish of water need keeping apart.** Battery lights only, and the water dish sits on the glass, not near the battery pack.
 
@@ -105,7 +105,7 @@ Lights off, two torches, and everyone has to keep out of the other beam. Then to
 > An hour's shift takes an adult a couple of days. For a small child it can take a fortnight, and it arrives as early waking, a wrecked bedtime, and a fortnight of being unaccountably difficult at five in the afternoon.
 > Knowing that in advance changes how you read the behaviour. It also suggests the two things that actually help: getting outside in daylight in the morning, which is the strongest signal the body clock has, and shifting bedtime by ten minutes at a time rather than all at once. And it means late October's difficult fortnight isn't a regression or something you've done wrong — it's a clock, resetting slowly.
 
-> 💛 **From Joseph:** Awake at five, wrecked by four. It's the clocks, it lasts about two weeks, and then she'll be fine.
+> 💛 **From Joseph:** Awake at five, wrecked by three. It's the clocks, it lasts about two weeks, and then she'll be fine.
 
 <div style="page-break-after: always;"></div>
 
@@ -139,7 +139,7 @@ Lights off, two torches, and everyone has to keep out of the other beam. Then to
 6. **She colours in whichever bits she wants**, or none, from lying down.
 7. **Read it back to her at the end, out loud, with voices.** Then again, because she'll ask.
 
-> 💡 **Tip:** Put her, you, and Kreston in it by name. A story about people she knows holds a poorly four-year-old's attention far better than one about invented characters.
+> 💡 **Tip:** Put her, you, and Kreston in it by name. A story about people she knows holds a poorly three-year-old's attention far better than one about invented characters.
 
 ### 😴 Wind-Down: Read It Back
 Read her comic, then read her something familiar, in a dark room, with no expectation of participation. If she drifts off mid-way, that's the day working as intended.

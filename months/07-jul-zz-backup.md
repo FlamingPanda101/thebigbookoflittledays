@@ -47,7 +47,7 @@ Everything in slow motion: a race, a jump, a spin, a throw. Genuinely funny, use
 
 > 🧠 **A Little Parenting Insight**
 > **In serious heat, the physical problem comes before the behavior problem.**
-> Young children dehydrate faster than adults, regulate temperature poorly, and can't identify what's wrong. A hot, thirsty 4-year-old looks exactly like a defiant one — weepy, unreasonable, refusing everything.
+> Young children dehydrate faster than adults, regulate temperature poorly, and can't identify what's wrong. A hot, thirsty three-year-old looks exactly like a defiant one — weepy, unreasonable, refusing everything.
 > Water, shade, and a cooler room first. Always. On a hot day, solve the physiology and about ninety percent of the behavior conversation disappears before you've had it.
 
 > 💛 **From Joseph:** Water first, talk second. You've been doing that all summer and it works every time.
@@ -83,7 +83,7 @@ Everything in slow motion: a race, a jump, a spin, a throw. Genuinely funny, use
 4. Storm sounds: wobble a metal tray for thunder, drum fingers on a table for rain. Compare to the real storm outside.
 5. Count the gap between flash and rumble at the window.
 
-> 💡 **Tip:** A storm plus a fort is a genuinely magical combination for a 4-year-old. The contrast between wild outside and cozy inside is the entire appeal.
+> 💡 **Tip:** A storm plus a fort is a genuinely magical combination for a three-year-old. The contrast between wild outside and cozy inside is the entire appeal.
 
 ### 🏃 Indoor Movement: The Floor Is Lava
 Cushions as islands. Cross the room without touching the floor. Move them further apart each round until it's impossible.

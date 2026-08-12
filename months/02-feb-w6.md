@@ -212,7 +212,7 @@ Walk the neighborhood and count everything red you can find. Red is the color of
 > 🧠 **A Little Parenting Insight**
 > **Celebrating other people's holidays does something specific.**
 > Children begin sorting the world into *us* and *them* remarkably early — by three or four they'll form group preferences based on almost nothing, like a randomly assigned t-shirt color. That sorting instinct isn't malice; it's how a small brain organizes complexity.
-> What shifts it is ordinary, positive, repeated contact with difference — not lectures about tolerance. A Lunar New Year celebrated in your own kitchen with real food and a real envelope registers to a 4-year-old as *something our family does*, which quietly widens the boundary of "us." That's the whole mechanism, and it's why doing it beats explaining it.
+> What shifts it is ordinary, positive, repeated contact with difference — not lectures about tolerance. A Lunar New Year celebrated in your own kitchen with real food and a real envelope registers to a three-year-old as *something our family does*, which quietly widens the boundary of "us." That's the whole mechanism, and it's why doing it beats explaining it.
 
 > 💛 **From Joseph:** You're curious about everything and it's contagious. She's going to want to see the world because you did.
 

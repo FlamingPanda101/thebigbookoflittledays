@@ -53,7 +53,7 @@ Set up a route round the house with obstacles — under the table, over the cush
 > 🧠 **A Little Parenting Insight**
 > **A den changes the day more than any activity in it.**
 > On a flat, grey, indoors morning, the instinct is to find a better activity. But the thing most likely to reset a stuck day isn't what she does — it's changing where she is. A small, enclosed, dimly lit space that she built herself makes ordinary things feel different.
-> Small children seek out enclosed spaces for a reason: they're calming, they reduce the amount of room to attend to, and they're one of the few environments a four-year-old gets to control completely. Which is why the same drawing, story, or snack lands better inside a sheet fort than at the table. When nothing is working in November, change the room rather than the plan.
+> Small children seek out enclosed spaces for a reason: they're calming, they reduce the amount of room to attend to, and they're one of the few environments a three-year-old gets to control completely. Which is why the same drawing, story, or snack lands better inside a sheet fort than at the table. When nothing is working in November, change the room rather than the plan.
 
 > 💛 **From Joseph:** Same crayons, same paper, under a sheet. Two hours instead of ten minutes. I don't fully understand it either.
 
@@ -141,7 +141,7 @@ Be the weather. Rain — fingers tapping the floor, fast. Wind — running in ci
 6. **When there are eight or ten, read the whole wall out loud in order**, with voices.
 7. **Leave it up.** Add to it tomorrow if she's still poorly.
 
-> 💡 **Tip:** Let the gaps be long. A poorly four-year-old will do two minutes, stop, watch nothing for a quarter of an hour, and then come back with the best idea of the day. Filling the gap ends it.
+> 💡 **Tip:** Let the gaps be long. A poorly three-year-old will do two minutes, stop, watch nothing for a quarter of an hour, and then come back with the best idea of the day. Filling the gap ends it.
 
 ### 😴 Wind-Down: Steam and Stories
 A bowl of hot water on a surface **well out of reach**, so the room gets a bit of steam in it, and a story in the dark. Steam won't cure a cold but a humid room genuinely helps a blocked-up child sleep.
