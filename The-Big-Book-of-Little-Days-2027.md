@@ -4166,13 +4166,13 @@ Last winter scavenger — spring is close now. Note what's changed since January
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Build the Beach (60 min)
+- **9:15–10:15 AM** — Main Event: The Indoor Beach (60 min)
 - **10:15–10:30 AM** — Snack: Something Tropical (15 min)
 - **10:30–11:15 AM** — Indoor Movement: The Floor Is Water (45 min)
 - **11:15 AM–12:00 PM** — Beach Play (45 min)
 - **12:00 PM** — Lunch *(picnic on the towel)*
 
-### 🎨 The Main Event: Build the Beach
+### 🎨 The Main Event: The Indoor Beach
 **🧰 Complete Materials List:**
 - Beach towels
 - A bin of dry rice or dry oats (the sand)
@@ -10418,27 +10418,34 @@ Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder 
 ### ⏰ At-a-Glance Schedule
 - **8:30–9:30 AM** — Get Outside EARLY: Water Play (60 min)
 - **9:30–9:45 AM** — Snack (15 min)
-- **9:45–10:45 AM** — Main Event: Ice Excavation (60 min)
+- **9:45–10:45 AM** — Main Event: The Frozen Fruit Bar (60 min)
 - **10:45–11:30 AM** — Indoor Cool-Down: Shade & Stories (45 min)
 - **11:30 AM–12:00 PM** — Ice Pops (30 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Ice Excavation
+### 🎨 The Main Event: The Frozen Fruit Bar
 **🧰 Complete Materials List:**
-- Small toys frozen in a bowl or bucket of water the night before
-- Warm water in a squirt bottle or jug
-- Salt in a small dish
-- Spoons and a small hammer or wooden spoon
-- A tray to contain the melt
+- Ice lolly moulds, or small cups and lolly sticks
+- Fruit juice, and a carton of yoghurt
+- Soft fruit — berries, banana, melon, orange segments
+- A blender, or a fork and a bowl
+- A jug of water, and a lemon
+- Ice cubes
+- Her own small jug and cups
+- A tray, and a tea towel
 
 **📝 Step-by-Step Instructions:**
-1. Tip the frozen block out of its container onto a tray.
-2. Give her tools: warm water, salt sprinkled on top, a spoon for chipping.
-3. She excavates the toys. This takes a long time and she'll stay with it.
-4. **Try it three ways** — warm water, salt, and just waiting. Which is fastest?
-5. Do it in the shade outside, or in the paddling pool.
+1. **Set it up as a bar she runs**, not a snack you make. Apron on, everything laid out on a tray, and she takes the orders.
+2. **Chop and mash the soft fruit** — her hands, a fork, a child's knife if she has one.
+3. **Three kinds of lolly, made together and put in the freezer for the afternoon:** plain juice, juice with fruit pieces suspended in it, and yoghurt with mashed fruit stirred through.
+4. **Ask her to predict which will freeze hardest** and which will taste best. They're rarely the same answer.
+5. **Then the drinks side of the bar:** water, ice, a squeeze of lemon, and fruit dropped in. **She pours for everyone and takes it round.**
+6. **Freeze some fruit on its own too** — grapes and banana chunks are better frozen than fresh and are ready in an hour.
+7. **Open the bar again after nap**, when the lollies are done and the heat is worst.
 
-> 💡 **Tip:** Flip the whole day earlier. Outside before 9:30, indoors during the worst heat, out again after nap. Fighting the middle of a hot day is a losing battle.
+> ⚠️ **Whole grapes and lolly sticks are both choking hazards.** Grapes halved lengthways, and an adult stays with a small child eating anything on a stick.
+
+> 💡 **Tip:** Flip the whole day earlier. Outside before 9:30, indoors during the worst heat, out again after nap. Fighting the middle of a hot day is a losing battle — and a cold drink she poured herself does more for the mood than any activity.
 
 ### 🏃 Indoor Cool-Down
 Shade, stories, and something cold. Homemade ice pops — juice or blended fruit in molds, made in the morning for the afternoon.
@@ -10970,13 +10977,13 @@ The dye needs to sit. Early June, warm, nothing scheduled.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–9:45 AM** — Main Event: Set Up Sun Prints (30 min)
+- **9:15–9:45 AM** — Main Event: Set Up Sun Prints, Again (30 min)
 - **9:45–10:00 AM** — Snack (15 min)
 - **10:00–11:00 AM** — Get Outside: Play While It Develops (60 min)
 - **11:00–11:30 AM** — **The Reveal** (30 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
 
-### 🎨 The Main Event: Sun Prints
+### 🎨 The Main Event: Sun Prints, Again
 **🧰 Complete Materials List:**
 - Dark construction paper (blue or black)
 - Flat objects: leaves, cut paper shapes, keys, a fork, her name in letters
@@ -10984,11 +10991,12 @@ The dye needs to sit. Early June, warm, nothing scheduled.
 - A very sunny spot
 
 **📝 Step-by-Step Instructions:**
-1. Lay the paper in full sun. June sun is the strongest of the year — this works far better now than it did in April.
-2. She arranges objects on top. Weigh the corners down.
-3. **Cut her initial from paper** and put that on too — a letter silhouette is the best result.
-4. Leave 1–2 hours. Play outside meanwhile.
-5. Lift everything off together and see the silhouettes.
+1. **This is April's activity, repeated on purpose** — dig out the prints from Day 118 and put them side by side with today's when they're done.
+2. Lay the paper in full sun. June sun is the strongest of the year — this works far better now than it did in April.
+3. She arranges objects on top. Weigh the corners down.
+4. **Cut her initial from paper** and put that on too — a letter silhouette is the best result.
+5. Leave 1–2 hours. Play outside meanwhile.
+6. Lift everything off together and see the silhouettes.
 
 > 💡 **Tip:** Compare today's print to the April one from Day 118. Summer sun works much faster and gives sharper edges — that's a real, observable difference she can see.
 
@@ -13135,13 +13143,13 @@ The whole morning outside. Shade, water, hats, and no schedule.
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:30 AM** — Main Event: The Tallest Tower (75 min)
+- **9:15–10:30 AM** — Main Event: The Tallest Sandcastle (75 min)
 - **10:30–10:45 AM** — Snack (15 min)
 - **10:45–11:30 AM** — Get Outside: Water Play (45 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: The Tallest Tower
+### 🎨 The Main Event: The Tallest Sandcastle
 **🧰 Complete Materials List:**
 - The sand bin
 - Cups and buckets of several sizes
@@ -14537,13 +14545,13 @@ A real walk somewhere slightly further than usual. Stop for trail mix halfway �
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Draw the Map (60 min)
+- **9:15–10:15 AM** — Main Event: The Treasure Map (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:30 AM** — Get Outside: **Follow the Map** (60 min)
 - **11:30 AM–12:00 PM** — Free Play (30 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Draw the Map
+### 🎨 The Main Event: The Treasure Map
 **🧰 Complete Materials List:**
 - Paper
 - A tea bag, steeped and cooled (to age the paper)
@@ -14777,25 +14785,31 @@ Cushions as islands. Cross the room without touching the floor. Move them furthe
 
 ### ⏰ At-a-Glance Schedule
 - **Whenever she wakes** — Build the nest (20 min)
-- **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
+- **Mid-morning** — Main Event: The Cool-Down Spa (20–30 min in bursts)
 - **Snack** — Cold, wet, simple
 - **Late morning** — Stories in the dark
 - **Nap early. Don't fight it.**
 
-### 🎨 The Main Event: The Ice Bowl
+### 🎨 The Main Event: The Cool-Down Spa
 **🧰 Complete Materials List:**
-- A shallow bowl of ice on a cookie sheet
-- A washcloth, and a couple more in the fridge
-- A spoon and a small cup of warm water
-- Paper and crayons
-- A torch
+- A washing-up bowl of cool water, on a towel on the floor
+- Three or four flannels, two of them chilled in the fridge
+- A spray bottle of cool water
+- A jug, and a cup
+- A few drops of something that smells good — mint, cucumber slices, lemon
+- A hairbrush
+- A fan, if you have one
 
 **📝 Step-by-Step Instructions:**
-1. Curtains drawn, fan on, blanket over the couch. Dark and cool is the prescription.
-2. Give her the ice bowl on a cookie sheet across her lap. She melts, moves, and stacks it.
-3. Wrap a cube in a washcloth for her neck or forehead.
-4. **Keep two damp washcloths in the fridge** and swap them out.
-5. Torch stories in the dark when she's had enough.
+1. **Curtains drawn, fan on, and the spa set up where she's already lying.** She doesn't move; the spa comes to her.
+2. **Feet in the bowl first.** Cool, not cold, with cucumber or mint floating in it. **Feet in cool water settles a hot, miserable child faster than almost anything.**
+3. **The spray bottle is hers.** A fine mist on her own arms and face, whenever she wants it, entirely under her control.
+4. **Chilled flannel on the back of the neck**, swapped for a fresh one from the fridge every few minutes. **She can ask for the swap; that's her job.**
+5. **Then she does yours.** Your feet in the bowl, your flannel, your turn to be sprayed. **Being the one giving care is worth more than receiving it on a flat day.**
+6. **Slow hairbrushing** at the end, which sends most children close to sleep.
+7. **Pour and drink**, repeatedly, from her own jug. Hydration is the actual medicine here and it goes down far better if she's serving it.
+
+> ⚠️ **Cool, never cold.** Icy water on a feverish child is uncomfortable and can make shivering worse — the aim is pleasant, not shocking.
 
 > 💡 **Tip:** A cold cloth on the back of the neck helps a hot, miserable child more than almost anything else. It's the cheapest comfort in this book.
 
@@ -16700,26 +16714,28 @@ Crab walk to the end and back. Bear crawl. Hop on one foot. Race the length in s
 
 ### ⏰ At-a-Glance Schedule
 - **Whenever she wakes** — Build the nest (20 min)
-- **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
+- **Mid-morning** — Main Event: The Blackout Nest (20–30 min in bursts)
 - **Snack** — Cold and wet
 - **Late morning** — Stories in the dark
 - **Nap early.** Don't fight it.
 
-### 🎨 The Main Event: The Ice Bowl
+### 🎨 The Main Event: The Blackout Nest
 **🧰 Complete Materials List:**
-- A shallow bowl of ice cubes
-- A flannel
-- A cookie sheet as a lap tray
-- A spoon and a small cup of warm water
-- Paper and crayons
-- A torch
+- A dark blanket or a sheet, to make the room darker still
+- A torch, and a second one for her
+- A flannel, and a spare in the fridge
+- Coloured cellophane or tissue paper, and an elastic band
+- Cushions and a light blanket
+- A cup with a straw
 
 **📝 Step-by-Step Instructions:**
-1. Build a dark, cool nest — curtains drawn, fan on, blanket over the couch. Dark and cool is the whole prescription.
-2. Give her the bowl of ice on the cookie sheet, plus a spoon and a little warm water.
-3. She melts, moves, and stacks the ice. Low effort, physically cooling, absorbing.
-4. **Wrap one cube in a flannel** for her to hold against her neck or forehead.
-5. Read in the nest by torchlight when she's done.
+1. **Make the room as dark as you can** — curtains, then a blanket over the rail if light still comes through. Fan on. **Dark and cool is the whole prescription.**
+2. **Build the nest low**, on the floor or the sofa, so she isn't propped up.
+3. **Give her the torch.** That's the entire activity: a light she controls, in a room where nothing else is going on.
+4. **Colour it.** A square of cellophane banded over the end turns the beam red or blue. **Swapping colours is about as much decision-making as a poorly child wants.**
+5. **Shapes on the ceiling** — your hands, hers, an object held up. She lies flat and watches, and nothing is required of her.
+6. **Cool flannel on the neck**, swapped for the chilled one every few minutes.
+7. **Both torches off at the end**, and lie in the complete dark for a minute before the story. That's usually where she falls asleep.
 
 > 💡 **Tip:** Keep two flannels in the fridge on a fever day. A cool cloth on the back of the neck helps a hot, miserable child more than almost anything else you can do.
 
@@ -16746,28 +16762,31 @@ Stories in the dark. The same one repeatedly if that's what she asks for — fam
 
 ### ⏰ At-a-Glance Schedule
 - **Slow start** — Her pace entirely
-- **Mid-morning** — Main Event: Outside, Lying Down (30–40 min)
+- **Mid-morning** — Main Event: The Magnifying Tray (30–40 min)
 - **Snack** — Cold and easy
 - **Midday** — Lunch on the blanket
 - **Rest** — Audio story in the shade
 
-### 🎨 The Main Event: Outside, Lying Down
+### 🎨 The Main Event: The Magnifying Tray
 **🧰 Complete Materials List:**
-- A blanket in deep shade
-- Pillows
-- A cup with a lid
+- A tray with a rim, and a cushion under her elbows
 - A magnifying glass
-- Paper and crayons on a tray
-- A jar for anything she finds within reach
+- A blanket in deep shade
+- **Ten things collected from the garden by you**, brought one at a time
+- A small pot with a lid, for anything alive
+- A dark cloth, to lay things on
+- Paper and a pencil
 
 **📝 Step-by-Step Instructions:**
-1. Set up a proper nest in full shade. She lies down; the garden comes to her.
-2. **Bring things to her** — a leaf, a flower, a stone, a beetle in a jar.
-3. Magnifying glass and lying down are entirely compatible. Close looking needs no energy.
-4. Cloud watching. Name the shapes.
-5. Lunch on the blanket. Nobody has to sit up.
+1. **Set the nest up in full shade and bring her the tray.** She stays horizontal all morning; you do the fetching.
+2. **One object at a time, not ten at once.** A leaf, then take it away and bring a stone. **A full tray is overwhelming on a recovery day.**
+3. **Dark cloth under each object** — everything shows up better against it, and it makes the tray feel like a proper examination.
+4. **The rule for each one: find three things she couldn't see without the glass.** Hairs on a leaf, layers in a stone, the grain in bark.
+5. **Anything alive goes in the lidded pot** for two minutes and then back where it came from. **You do the catching and the returning.**
+6. **She dictates one line about each** and you write it — a tiny field note, no drawing required unless she wants to.
+7. **Rank them at the end:** which was most interesting under the glass? It's almost never the one that looked best on the way in.
 
-> 💡 **Tip:** Don't wait for her to be well enough to *do* something outside. Fresh air and shade help a recovering child, and none of it requires her to be upright.
+> 💡 **Tip:** Don't wait for her to be well enough to *do* something outside. Fresh air and shade help a recovering child, and none of this requires her to be upright.
 
 ### 🧸 Rest & Wind-Down
 Audio story or quiet music on the blanket. Let her doze out there if she will.

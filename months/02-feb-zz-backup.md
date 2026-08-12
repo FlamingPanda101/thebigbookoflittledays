@@ -14,13 +14,13 @@
 
 ### ⏰ At-a-Glance Schedule
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — Main Event: Build the Beach (60 min)
+- **9:15–10:15 AM** — Main Event: The Indoor Beach (60 min)
 - **10:15–10:30 AM** — Snack: Something Tropical (15 min)
 - **10:30–11:15 AM** — Indoor Movement: The Floor Is Water (45 min)
 - **11:15 AM–12:00 PM** — Beach Play (45 min)
 - **12:00 PM** — Lunch *(picnic on the towel)*
 
-### 🎨 The Main Event: Build the Beach
+### 🎨 The Main Event: The Indoor Beach
 **🧰 Complete Materials List:**
 - Beach towels
 - A bin of dry rice or dry oats (the sand)

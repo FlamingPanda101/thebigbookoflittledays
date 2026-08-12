@@ -61,27 +61,34 @@ Call out weather; she becomes it. Drizzle is tiptoes, wind is spinning, thunder 
 ### ⏰ At-a-Glance Schedule
 - **8:30–9:30 AM** — Get Outside EARLY: Water Play (60 min)
 - **9:30–9:45 AM** — Snack (15 min)
-- **9:45–10:45 AM** — Main Event: Ice Excavation (60 min)
+- **9:45–10:45 AM** — Main Event: The Frozen Fruit Bar (60 min)
 - **10:45–11:30 AM** — Indoor Cool-Down: Shade & Stories (45 min)
 - **11:30 AM–12:00 PM** — Ice Pops (30 min)
 - **12:00 PM** — Lunch & Nap Prep
 
-### 🎨 The Main Event: Ice Excavation
+### 🎨 The Main Event: The Frozen Fruit Bar
 **🧰 Complete Materials List:**
-- Small toys frozen in a bowl or bucket of water the night before
-- Warm water in a squirt bottle or jug
-- Salt in a small dish
-- Spoons and a small hammer or wooden spoon
-- A tray to contain the melt
+- Ice lolly moulds, or small cups and lolly sticks
+- Fruit juice, and a carton of yoghurt
+- Soft fruit — berries, banana, melon, orange segments
+- A blender, or a fork and a bowl
+- A jug of water, and a lemon
+- Ice cubes
+- Her own small jug and cups
+- A tray, and a tea towel
 
 **📝 Step-by-Step Instructions:**
-1. Tip the frozen block out of its container onto a tray.
-2. Give her tools: warm water, salt sprinkled on top, a spoon for chipping.
-3. She excavates the toys. This takes a long time and she'll stay with it.
-4. **Try it three ways** — warm water, salt, and just waiting. Which is fastest?
-5. Do it in the shade outside, or in the paddling pool.
+1. **Set it up as a bar she runs**, not a snack you make. Apron on, everything laid out on a tray, and she takes the orders.
+2. **Chop and mash the soft fruit** — her hands, a fork, a child's knife if she has one.
+3. **Three kinds of lolly, made together and put in the freezer for the afternoon:** plain juice, juice with fruit pieces suspended in it, and yoghurt with mashed fruit stirred through.
+4. **Ask her to predict which will freeze hardest** and which will taste best. They're rarely the same answer.
+5. **Then the drinks side of the bar:** water, ice, a squeeze of lemon, and fruit dropped in. **She pours for everyone and takes it round.**
+6. **Freeze some fruit on its own too** — grapes and banana chunks are better frozen than fresh and are ready in an hour.
+7. **Open the bar again after nap**, when the lollies are done and the heat is worst.
 
-> 💡 **Tip:** Flip the whole day earlier. Outside before 9:30, indoors during the worst heat, out again after nap. Fighting the middle of a hot day is a losing battle.
+> ⚠️ **Whole grapes and lolly sticks are both choking hazards.** Grapes halved lengthways, and an adult stays with a small child eating anything on a stick.
+
+> 💡 **Tip:** Flip the whole day earlier. Outside before 9:30, indoors during the worst heat, out again after nap. Fighting the middle of a hot day is a losing battle — and a cold drink she poured herself does more for the mood than any activity.
 
 ### 🏃 Indoor Cool-Down
 Shade, stories, and something cold. Homemade ice pops — juice or blended fruit in molds, made in the morning for the afternoon.

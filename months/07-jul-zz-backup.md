@@ -108,25 +108,31 @@ Cushions as islands. Cross the room without touching the floor. Move them furthe
 
 ### ⏰ At-a-Glance Schedule
 - **Whenever she wakes** — Build the nest (20 min)
-- **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
+- **Mid-morning** — Main Event: The Cool-Down Spa (20–30 min in bursts)
 - **Snack** — Cold, wet, simple
 - **Late morning** — Stories in the dark
 - **Nap early. Don't fight it.**
 
-### 🎨 The Main Event: The Ice Bowl
+### 🎨 The Main Event: The Cool-Down Spa
 **🧰 Complete Materials List:**
-- A shallow bowl of ice on a cookie sheet
-- A washcloth, and a couple more in the fridge
-- A spoon and a small cup of warm water
-- Paper and crayons
-- A torch
+- A washing-up bowl of cool water, on a towel on the floor
+- Three or four flannels, two of them chilled in the fridge
+- A spray bottle of cool water
+- A jug, and a cup
+- A few drops of something that smells good — mint, cucumber slices, lemon
+- A hairbrush
+- A fan, if you have one
 
 **📝 Step-by-Step Instructions:**
-1. Curtains drawn, fan on, blanket over the couch. Dark and cool is the prescription.
-2. Give her the ice bowl on a cookie sheet across her lap. She melts, moves, and stacks it.
-3. Wrap a cube in a washcloth for her neck or forehead.
-4. **Keep two damp washcloths in the fridge** and swap them out.
-5. Torch stories in the dark when she's had enough.
+1. **Curtains drawn, fan on, and the spa set up where she's already lying.** She doesn't move; the spa comes to her.
+2. **Feet in the bowl first.** Cool, not cold, with cucumber or mint floating in it. **Feet in cool water settles a hot, miserable child faster than almost anything.**
+3. **The spray bottle is hers.** A fine mist on her own arms and face, whenever she wants it, entirely under her control.
+4. **Chilled flannel on the back of the neck**, swapped for a fresh one from the fridge every few minutes. **She can ask for the swap; that's her job.**
+5. **Then she does yours.** Your feet in the bowl, your flannel, your turn to be sprayed. **Being the one giving care is worth more than receiving it on a flat day.**
+6. **Slow hairbrushing** at the end, which sends most children close to sleep.
+7. **Pour and drink**, repeatedly, from her own jug. Hydration is the actual medicine here and it goes down far better if she's serving it.
+
+> ⚠️ **Cool, never cold.** Icy water on a feverish child is uncomfortable and can make shivering worse — the aim is pleasant, not shocking.
 
 > 💡 **Tip:** A cold cloth on the back of the neck helps a hot, miserable child more than almost anything else. It's the cheapest comfort in this book.
 

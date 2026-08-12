@@ -109,26 +109,28 @@ Crab walk to the end and back. Bear crawl. Hop on one foot. Race the length in s
 
 ### ⏰ At-a-Glance Schedule
 - **Whenever she wakes** — Build the nest (20 min)
-- **Mid-morning** — Main Event: The Ice Bowl (20–30 min in bursts)
+- **Mid-morning** — Main Event: The Blackout Nest (20–30 min in bursts)
 - **Snack** — Cold and wet
 - **Late morning** — Stories in the dark
 - **Nap early.** Don't fight it.
 
-### 🎨 The Main Event: The Ice Bowl
+### 🎨 The Main Event: The Blackout Nest
 **🧰 Complete Materials List:**
-- A shallow bowl of ice cubes
-- A flannel
-- A cookie sheet as a lap tray
-- A spoon and a small cup of warm water
-- Paper and crayons
-- A torch
+- A dark blanket or a sheet, to make the room darker still
+- A torch, and a second one for her
+- A flannel, and a spare in the fridge
+- Coloured cellophane or tissue paper, and an elastic band
+- Cushions and a light blanket
+- A cup with a straw
 
 **📝 Step-by-Step Instructions:**
-1. Build a dark, cool nest — curtains drawn, fan on, blanket over the couch. Dark and cool is the whole prescription.
-2. Give her the bowl of ice on the cookie sheet, plus a spoon and a little warm water.
-3. She melts, moves, and stacks the ice. Low effort, physically cooling, absorbing.
-4. **Wrap one cube in a flannel** for her to hold against her neck or forehead.
-5. Read in the nest by torchlight when she's done.
+1. **Make the room as dark as you can** — curtains, then a blanket over the rail if light still comes through. Fan on. **Dark and cool is the whole prescription.**
+2. **Build the nest low**, on the floor or the sofa, so she isn't propped up.
+3. **Give her the torch.** That's the entire activity: a light she controls, in a room where nothing else is going on.
+4. **Colour it.** A square of cellophane banded over the end turns the beam red or blue. **Swapping colours is about as much decision-making as a poorly child wants.**
+5. **Shapes on the ceiling** — your hands, hers, an object held up. She lies flat and watches, and nothing is required of her.
+6. **Cool flannel on the neck**, swapped for the chilled one every few minutes.
+7. **Both torches off at the end**, and lie in the complete dark for a minute before the story. That's usually where she falls asleep.
 
 > 💡 **Tip:** Keep two flannels in the fridge on a fever day. A cool cloth on the back of the neck helps a hot, miserable child more than almost anything else you can do.
 
@@ -155,28 +157,31 @@ Stories in the dark. The same one repeatedly if that's what she asks for — fam
 
 ### ⏰ At-a-Glance Schedule
 - **Slow start** — Her pace entirely
-- **Mid-morning** — Main Event: Outside, Lying Down (30–40 min)
+- **Mid-morning** — Main Event: The Magnifying Tray (30–40 min)
 - **Snack** — Cold and easy
 - **Midday** — Lunch on the blanket
 - **Rest** — Audio story in the shade
 
-### 🎨 The Main Event: Outside, Lying Down
+### 🎨 The Main Event: The Magnifying Tray
 **🧰 Complete Materials List:**
-- A blanket in deep shade
-- Pillows
-- A cup with a lid
+- A tray with a rim, and a cushion under her elbows
 - A magnifying glass
-- Paper and crayons on a tray
-- A jar for anything she finds within reach
+- A blanket in deep shade
+- **Ten things collected from the garden by you**, brought one at a time
+- A small pot with a lid, for anything alive
+- A dark cloth, to lay things on
+- Paper and a pencil
 
 **📝 Step-by-Step Instructions:**
-1. Set up a proper nest in full shade. She lies down; the garden comes to her.
-2. **Bring things to her** — a leaf, a flower, a stone, a beetle in a jar.
-3. Magnifying glass and lying down are entirely compatible. Close looking needs no energy.
-4. Cloud watching. Name the shapes.
-5. Lunch on the blanket. Nobody has to sit up.
+1. **Set the nest up in full shade and bring her the tray.** She stays horizontal all morning; you do the fetching.
+2. **One object at a time, not ten at once.** A leaf, then take it away and bring a stone. **A full tray is overwhelming on a recovery day.**
+3. **Dark cloth under each object** — everything shows up better against it, and it makes the tray feel like a proper examination.
+4. **The rule for each one: find three things she couldn't see without the glass.** Hairs on a leaf, layers in a stone, the grain in bark.
+5. **Anything alive goes in the lidded pot** for two minutes and then back where it came from. **You do the catching and the returning.**
+6. **She dictates one line about each** and you write it — a tiny field note, no drawing required unless she wants to.
+7. **Rank them at the end:** which was most interesting under the glass? It's almost never the one that looked best on the way in.
 
-> 💡 **Tip:** Don't wait for her to be well enough to *do* something outside. Fresh air and shade help a recovering child, and none of it requires her to be upright.
+> 💡 **Tip:** Don't wait for her to be well enough to *do* something outside. Fresh air and shade help a recovering child, and none of this requires her to be upright.
 
 ### 🧸 Rest & Wind-Down
 Audio story or quiet music on the blanket. Let her doze out there if she will.
