@@ -25428,7 +25428,7 @@ Her choice, and "nowhere" is a legitimate answer. If she wants the walk, everyon
 # 🌧️ December Backup Days
 ## *For when the plan doesn't survive the morning*
 
-**December's version of a bad day isn't usually the weather.** It's the house being full of people, the routine being gone, everyone being overtired, and a three-year-old who has had too much of everything for a fortnight. The two "bad weather" days below are really bad-*week* days — for when it's dark and wet and the plan has no chance, and for the strange flat stretch between Christmas and New Year when nobody knows what day it is.
+**December's version of a bad day isn't usually the weather.** It's the house being full of people, the routine being gone, everyone being overtired, and a child who has had too much of everything for a fortnight. The two "bad weather" days below are really bad-*week* days — for when it's dark and wet and the plan has no chance, and for the strange flat stretch between Christmas and New Year when nobody knows what day it is.
 
 The sick days matter this month too. Something always goes round in the last week of December, and it always arrives at the worst possible moment.
 
@@ -25564,7 +25564,7 @@ Torch on the floor, everyone standing. **Try to step on each other's shadows.** 
 6. **Save the rest of the presents.** A poorly child opening eleven things remembers none of them and enjoys none of them.
 7. **Play her own radio play back** in the afternoon — familiar, hers, and requires nothing.
 
-> 💡 **Tip:** Move the day rather than compressing it. A family that eats its Christmas dinner on the 28th because a three-year-old had a temperature has done the right thing, and she will remember that it was moved for her.
+> 💡 **Tip:** Move the day rather than compressing it. A family that eats its Christmas dinner on the 28th because a small child had a temperature has done the right thing, and she will remember that it was moved for her.
 
 ### 😴 Wind-Down: The Window Bed
 Nest by the window with the lights off inside and whatever's out there — lights on houses, rain, the dark. **Nothing to do, nothing required.** Ill children need lower input than they're usually given on a big day.
@@ -25575,7 +25575,7 @@ Nest by the window with the lights off inside and whatever's out there — light
 
 > 🧠 **A Little Parenting Insight**
 > **Being ill on a big day is disappointing for the adults, and mostly confusing for her.**
-> The grief on a spoiled Christmas is largely the grown-ups' — the plans, the preparation, the picture of how it was supposed to look. A poorly three-year-old isn't measuring the day against an imagined version; she just feels rotten and doesn't understand why everyone seems tense.
+> The grief on a spoiled Christmas is largely the grown-ups' — the plans, the preparation, the picture of how it was supposed to look. A poorly child isn't measuring the day against an imagined version; she just feels rotten and doesn't understand why everyone seems tense.
 > Which means the useful move is to protect her from the disappointment rather than sharing it. Say clearly that the day can be moved, move it, and keep the atmosphere flat and kind. A calm sofa day with one present and a parent nearby is a perfectly good memory. A tense day of everyone trying to salvage the schedule around a sick child is not, and she'll pick up every bit of it.
 
 > 💛 **From Joseph:** We did Christmas dinner two days late one year and it was better. Nobody has ever mentioned the date since.
