@@ -1,0 +1,555 @@
+# V1 REFERENCE — harvest for v2
+
+Extracted from the assembled v1 book. Everything here lives in `months/`, not CONTINUATION.md.
+
+
+---
+
+## 1. ALL 52 WEEK THEMES
+
+- **Week 1** — Shape Engineers & Building 🏗️  ·  *January 1 – January 7, 2027*
+- **Week 2** — Nursery Rhymes & Rhythm 🎶  ·  *January 8 – January 14, 2027*
+- **Week 3** — Kindness & Community 💛  ·  *January 15 – January 21, 2027*
+- **Week 4** — Puzzles & Problem Solving 🧩  ·  *January 22 – January 28, 2027*
+- **Week 5** — Forest Friends 🌲  ·  *January 29 – February 4, 2027*
+- **Week 6** — Little Bakery 🥐  ·  *February 5 – February 11, 2027*
+- **Week 7** — Love & Friendship 💌  ·  *February 12 – February 18, 2027*
+- **Week 8** — Art Masters Studio 🎨  ·  *February 19 – February 25, 2027*
+- **Week 9** — My Body & Senses 🖐️  ·  *February 26 – March 4, 2027*
+- **Week 10** — Circus Adventures 🎪  ·  *March 5 – March 11, 2027*
+- **Week 11** — St. Patrick's Day & Springtime Beginnings 🍀  ·  *March 12 – March 18, 2027*
+- **Week 12** — Baby Animals & New Beginnings 🐣  ·  *March 19 – March 25, 2027*
+- **Week 13** — Easter & April Fools' Fun 🐰  ·  *March 26 – April 1, 2027*
+- **Week 14** — Egg-cellent Science 🥚  ·  *April 2 – April 8, 2027*
+- **Week 15** — Garden Discovery 🌱  ·  *April 9 – April 15, 2027*
+- **Week 16** — Earth Day & Wildlife 🌎  ·  *April 16 – April 22, 2027*
+- **Week 17** — Recycling & Earth Care ♻️  ·  *April 23 – April 29, 2027*
+- **Week 18** — Bugs & Blooms 🌷  ·  *April 30 – May 6, 2027*
+- **Week 19** — Mother's Day & Family Love 💐  ·  *May 7 – May 13, 2027*
+- **Week 20** — Backyard Science Lab 🔬  ·  *May 14 – May 20, 2027*
+- **Week 21** — Superheroes & Helpers 🦸  ·  *May 21 – May 27, 2027*
+- **Week 22** — Memorial Day & Community Heroes 🎖️  ·  *May 28 – June 3, 2027*
+- **Week 23** — Colors of Summer ☀️  ·  *June 4 – June 10, 2027*
+- **Week 24** — Water Safety & Swimming Fun 🏊  ·  *June 11 – June 17, 2027*
+- **Week 25** — Juneteenth & Father's Day 🕊️  ·  *June 18 – June 24, 2027*
+- **Week 26** — Red, White & Blue Countdown 🎇  ·  *June 25 – July 1, 2027*
+- **Week 27** — Independence Day Celebration 🎆  ·  *July 2 – July 8, 2027*
+- **Week 28** — Beach & Water Fun 🏖️  ·  *July 9 – July 15, 2027*
+- **Week 29** — Ice Cream & Summer Treats 🍦  ·  *July 16 – July 22, 2027*
+- **Week 30** — Under the Sea 🌊  ·  *July 23 – July 29, 2027*
+- **Week 31** — Camping Adventures ⛺  ·  *July 30 – August 5, 2027*
+- **Week 32** — Sports & Team Play ⚽  ·  *August 6 – August 12, 2027*
+- **Week 33** — Pretend Passport World Adventure 🌍  ·  *August 13 – August 19, 2027*
+- **Week 34** — Backyard Carnival 🎡  ·  *August 20 – August 26, 2027*
+- **Week 35** — Music & Movement 🎵  ·  *August 27 – September 2, 2027*
+- **Week 36** — Community Helpers 🚚  ·  *September 3 – September 9, 2027*
+- **Week 37** — Backyard Explorers 🔍  ·  *September 10 – September 16, 2027*
+- **Week 38** — Colors & Shapes Studio 🎨  ·  *September 17 – September 23, 2027*
+- **Week 39** — Letters & Sounds 🔤  ·  *September 24 – September 30, 2027*
+- **Week 40** — Numbers & Counting 🔢  ·  *October 1 – October 7, 2027*
+- **Week 41** — Things That Go 🚂  ·  *October 8 – October 14, 2027*
+- **Week 42** — Space Explorers 🚀  ·  *October 15 – October 21, 2027*
+- **Week 43** — Insects & Minibeasts 🐛  ·  *October 22 – October 28, 2027*
+- **Week 44** — Dinosaur Discovery 🦕  ·  *October 29 – November 4, 2027*
+- **Week 45** — On the Farm 🚜  ·  *November 5 – November 11, 2027*
+- **Week 46** — Weather & Rainbows 🌦️  ·  *November 12 – November 18, 2027*
+- **Week 47** — Seasons & Nature Cycles 🍂  ·  *November 19 – November 25, 2027*
+- **Week 48** — Kitchen Helpers 👩‍🍳  ·  *November 26 – December 2, 2027*
+- **Week 49** — Storybook Village 📖  ·  *December 3 – December 9, 2027*
+- **Week 50** — Animal Kingdom 🦉  ·  *December 10 – December 16, 2027*
+- **Week 51** — Water & Weather Wonders 💧  ·  *December 17 – December 23, 2027*
+- **Week 52** — Reflection & Winter Holidays 🎄  ·  *December 24 – December 30, 2027*
+
+_(52 weeks)_
+
+
+---
+
+## 2. AROUND THE WORLD SIDEBARS
+
+- **Day 1** — Mongolia, the Arctic & the American Southwest
+- **Day 8** — Lullabies Everywhere
+- **Day 15** — Southern Africa: *Ubuntu
+- **Day 22** — China: The Tangram
+- **Day 29** — Japan: *Shinrin-yoku* (Forest Bathing)
+- **Day 36** — Bread Everywhere
+- **Day 43** — Wales: Love Spoons
+- **Day 50** — Mexico: *Alebrijes
+- **Day 57** — Hello Everywhere
+- **Day 64** — China: Acrobatics
+- **Day 71** — Ireland: Soda Bread
+- **Day 78** — Spring New Years
+- **Day 85** — Easter Eggs Everywhere
+- **Day 92** — Japan: *Tamagoyaki
+- **Day 99** — The Three Sisters (Indigenous North America)
+- **Day 106** — Kenya: Wangari Maathai
+- **Day 113** — Japan: *Mottainai* and *Furoshiki
+- **Day 120** — Bugs Everywhere
+- **Day 127** — Mother's Day Everywhere
+- **Day 134** — China: The First Kites
+- **Day 141** — West Africa & the Caribbean: Anansi
+- **Day 148** — Remembering, Everywhere
+- **Day 155** — Colors Mean Different Things
+- **Day 162** — The Netherlands: The Swimming Diploma
+- **Day 169** — Freedom Days Everywhere
+- **Day 176** — Independence Days Everywhere
+- **Day 183** — Independence Days Everywhere
+- **Day 190** — Australia: Swim Between the Flags
+- **Day 197** — Frozen Treats Everywhere
+- **Day 204** — Pacific Wayfinding
+- **Day 211** — Norway: *Allemannsretten
+- **Day 218** — The World's Game
+- **Day 225** — Hello in Ten Languages
+- **Day 232** — Festivals & Fairs Everywhere
+- **Day 239** — Rhythms of the World
+- **Day 249** — Feeding the Workers Everywhere
+- **Day 254** — Australia: Bush Tucker
+- **Day 261** — Morocco: *Zellij* Tilework
+- **Day 271** — Korea: *Hangul
+- **Day 277** — Counting on Your Hands, Everywhere
+- **Day 282** — Vehicles Everywhere
+- **Day 289** — The Pictures People See in the Sky
+- **Day 300** — Eating Insects, Everywhere
+- **Day 306** — Dinosaurs Everywhere
+- **Day 312** — Milk, Everywhere
+- **Day 318** — Rain, Everywhere
+- **Day 323** — Harvest, Everywhere
+- **Day 333** — Noodles, Everywhere
+- **Day 341** — Storytellers, Everywhere
+- **Day 349** — Feeding the Birds at Midwinter
+- **Day 355** — Light in the Darkest Week
+
+_(51 sidebars)_
+
+
+---
+
+## 3. ALL PARENTING INSIGHT HEADLINES
+
+- **1.** Why writing down her exact words matters more than you'd think.
+- **2.** The cardboard box beats the expensive toy, and there's a reason.
+- **3.** Narrating beats quizzing — every time.
+- **4.** Knocking it down *is* the science.
+- **5.** Why kneading dough calms a wound-up kid down.
+- **6.** The pause before you help.
+- **7.** Why small enclosed spaces are so appealing right now.
+- **8.** Why she wants the same rhyme forty times.
+- **9.** Rhythm and reading are more connected than they look.
+- **10.** Why a wind-down object works better than a wind-down instruction.
+- **11.** Counting words come long before counting means anything.
+- **12.** Why moving together matters more than moving.
+- **13.** Verses she invents are worth more than verses she repeats.
+- **14.** Performing for one person is enough.
+- **15.** Kindness has to be visible before it can be learned.
+- **16.** The age where they want to help is right now, and it's brief.
+- **17.** Giving feels good only when the child does the giving.
+- **18.** Children notice difference early, and silence teaches something.
+- **19.** Gratitude is a skill, and it starts with noticing.
+- **20.** Sharing and turn-taking are different skills, and one is much easier.
+- **21.** Being told what someone loves about you is different from being praised.
+- **22.** Puzzles build a skill that has nothing to do with puzzles.
+- **23.** Working memory is the thing she's actually building.
+- **24.** Classification is quiet, invisible math.
+- **25.** Describing before guessing is the whole skill.
+- **26.** Dead ends are the point of a maze.
+- **27.** Patterns are the beginning of algebra, genuinely.
+- **28.** Explaining to someone else is how understanding gets locked in.
+- **29.** Loose parts beat finished toys.
+- **30.** Evidence and inference — a genuinely big idea, learnable at three.
+- **31.** Delayed payoff is a muscle, and this is a gentle way to work it.
+- **32.** Pretending to sleep is real self-regulation practice.
+- **33.** Shadows are confusing at three, and the confusion is worth exploring.
+- **34.** Auditory attention is trainable, and it underpins reading.
+- **35.** Dictated stories are the bridge to real literacy.
+- **35.** Cabin fever is a real physiological thing, not a bad attitude.
+- **35.** Pretend play is where self-control is actually built.
+- **35.** Regression during illness is expected, not a setback.
+- **35.** Boredom on the mend is a good sign, and a useful one.
+- **35.** On the days you use this page instead of the plan.
+- **36.** Waiting for dough to rise is a better lesson than the bread.
+- **37.** Celebrating other people's holidays does something specific.
+- **38.** Ugly is fine. Actually, ugly is better.
+- **39.** Persistence is built by seeing the finish line.
+- **40.** Handling food is how picky eating loosens.
+- **41.** Pretend play is where numbers stop being recitation.
+- **42.** Naming the recipient at the start changes the whole activity.
+- **43.** Discovery beats demonstration.
+- **44.** Posting things through slots is a real developmental stage.
+- **45.** Love is a word she's still working out the size of.
+- **46.** "A long time ago" is as much history as she can hold.
+- **47.** Threading is fine motor work that pays off at six.
+- **48.** Children need to see the effect of their kindness.
+- **49.** Anticipating someone else's future feeling is a big cognitive leap.
+- **50.** Big movements come before small ones.
+- **51.** Repetitive, contained tasks are surprisingly regulating.
+- **52.** The gasp is the learning.
+- **53.** Process art versus product art.
+- **54.** Three dimensions are harder than two, and worth the time.
+- **55.** Testing before committing is a habit worth encouraging.
+- **56.** "What is it?" is the question to stop asking.
+- **57.** Interoception — the sense nobody lists.
+- **58.** Adjectives are the scaffolding for thinking.
+- **59.** Auditory discrimination is the reading skill nobody mentions.
+- **60.** Body awareness is a sense too.
+- **61.** Naming a feeling reduces its intensity — measurably.
+- **62.** Teaching a child to notice her own body settling is a lifelong tool.
+- **63.** What a self-portrait tells you about her thinking.
+- **63.** Novelty is a genuine intervention, not a frivolity.
+- **63.** Collecting and categorizing peaks around now.
+- **63.** Sick days need less input, not more.
+- **63.** Play is how children process what's happened to them.
+- **63.** The best activity is the one you actually have energy for.
+- **64.** A play structure that stays up gets richer, not staler.
+- **65.** Catching is harder than it looks, and slower is the fix.
+- **66.** The vestibular system, and why she spins until she falls over.
+- **67.** Silliness is real social work.
+- **68.** Children understand fairness before they understand generosity.
+- **69.** Directing others is how a child rehearses being in charge of herself.
+- **70.** Choosing three from seven is real cognitive work.
+- **71.** A daily ritual of checking teaches more than the plant does.
+- **72.** Let her hold a wrong theory for a while.
+- **73.** Sensory bins buy focus, and it's not just novelty.
+- **74.** Magical thinking peaks right about now, and it's healthy.
+- **75.** Chemical reactions she can see are the best first science.
+- **76.** Anticipation is a bigger pleasure than the payoff.
+- **77.** Prediction is the beginning of scientific thinking.
+- **78.** Category words are a bigger deal than they look.
+- **79.** Lining things up is a developmental stage, not a red flag.
+- **80.** Two new years in one book is a genuinely useful idea.
+- **81.** Sanctioned rule-breaking is genuinely good for a rule-following child.
+- **82.** Trying and failing at something an animal does easily builds real respect.
+- **83.** Children can't perceive their own growth, and showing it matters.
+- **84.** Sorting into families is a more advanced move than sorting by color.
+- **85.** Resist techniques teach a real idea: some things repel others.
+- **86.** Doing your own version beside her beats helping with hers.
+- **87.** Searching is a skill, and it's more systematic than it looks.
+- **88.** Comparing quantities without numbers is where measurement starts.
+- **89.** "What do you think will happen?" before every single experiment.
+- **90.** A joke requires knowing what someone else expects.
+- **91.** Reversals help a child see the pattern she's been living inside.
+- **91.** Weather is one of the best first sciences, because it's already happening.
+- **91.** Blowing games do more than entertain.
+- **91.** Looking out a window counts as an activity.
+- **91.** Recovery days are the right time to start something slow.
+- **91.** The transition seasons are the hardest, and it isn't just the weather.
+- **92.** Predicting the breaking point is real experimental thinking.
+- **93.** Destruction before construction is a legitimate sequence.
+- **94.** "What could we change?" is the most useful question in this book.
+- **95.** Leaving and coming back is its own lesson.
+- **96.** Repetition means she's still getting information.
+- **97.** Some things she'll only understand years later, and that's fine.
+- **98.** Describing accurately is the real preschool science skill.
+- **99.** Ownership is what makes a child stick with something.
+- **100.** Grouping by ten is the foundation of the whole number system.
+- **101.** Making the invisible visible is the core trick of good science teaching.
+- **102.** Building for an animal reframes the relationship.
+- **103.** Smell is wired directly to memory in a way the other senses aren't.
+- **104.** Fairness is the strongest moral instinct a three-year-old has.
+- **105.** A record makes slow change perceptible.
+- **106.** Keep environmental talk local and hopeful at this age.
+- **107.** Giving something a face changes how a child treats it.
+- **108.** Tally marks are her first taste of representing data.
+- **109.** A closed system is a big idea in a small jar.
+- **110.** Tools shape what a child notices.
+- **111.** The seder is possibly the oldest child-centered teaching ritual on earth.
+- **112.** Rituals that repeat annually do something one-off events can't.
+- **113.** Sorting by material is harder than sorting by color.
+- **114.** "Waste" is a concept, and it's teachable through objects.
+- **115.** Abundance of choice produces better work than the perfect kit.
+- **116.** Heavy work is the most reliable regulation tool you have.
+- **117.** Making the thing you use every day is a genuine revelation.
+- **118.** Solar energy, demonstrated without a word of explanation.
+- **119.** Repair teaches something disposal can't.
+- **120.** Careful observation is a skill, and it's mostly about slowing down.
+- **121.** Symmetry is one of the first patterns children can produce, not just notice.
+- **122.** Cycles are harder than sequences.
+- **123.** Acting out a process beats being told it.
+- **124.** Preservation is a surprisingly big idea.
+- **125.** Combining two past activities is a real cognitive step.
+- **126.** Marking the end of something matters.
+- **126.** Being uncomfortable on purpose is a useful experience.
+- **126.** Understanding a frightening thing shrinks it.
+- **126.** Sick days shrink a child's world, and that's part of what's hard.
+- **126.** Recovery boredom is the right time for collections.
+- **126.** Outdoor time is doing more than you can see.
+- **127.** Family structure is genuinely confusing at three, and worth being explicit about.
+- **128.** Secrets are cognitively demanding, and she will probably fail.
+- **129.** Children can't yet imagine their parents as separate people.
+- **130.** Acts of service are the hardest gift for a young child to conceive of.
+- **131.** Video calls are hard for young children, and that's not rudeness.
+- **132.** Children don't have autobiographical memory the way we assume.
+- **133.** Appreciation is different from praise, and children need more of the first.
+- **134.** Things that break the rules are the best teachers.
+- **135.** Repeating an experiment is what makes it an experiment.
+- **136.** "Why is it always round?" is a question worth leaving open.
+- **137.** Same object, different result, and the variable is time.
+- **138.** Being wrong in public is a skill, and it's built cheaply here.
+- **139.** Invisible forces are a big conceptual step.
+- **140.** Stillness has to be taught, and one minute is the right dose.
+- **141.** Invented powers tell you what she values.
+- **142.** Bridging imaginary heroes to real ones is worth doing deliberately.
+- **143.** Pretend urgency produces real problem-solving.
+- **144.** Moral reasoning develops faster through discussion than through rules.
+- **145.** Making rules is a different skill from following them.
+- **146.** Competence is the most reliable source of confidence.
+- **147.** Specific recognition beats general praise, every time.
+- **148.** Answer exactly what's asked about death, and no more.
+- **149.** Maps are a major abstraction, and home is the way in.
+- **150.** Children need external evidence of their own change.
+- **151.** Holding two moods in one day is a real skill.
+- **152.** Rehearsed safety knowledge survives panic; explained knowledge doesn't.
+- **153.** Rehearsing a frightening scenario reduces the fear of it.
+- **154.** Processions and parades do something specific for children.
+- **154.** Children take their fear reading from your face first.
+- **154.** Heat, hunger, and tiredness account for most "bad behavior."
+- **154.** Storytelling with prompts is easier than storytelling from nothing.
+- **154.** Continuity of ownership matters during illness.
+- **154.** Outdoor play is the highest-return activity available, and May is when it gets easy.
+- **155.** A sibling's birthday is genuinely hard, and preparation helps more than correction.
+- **156.** One-year-olds don't understand birthdays, and that's fine.
+- **157.** Discovery requires an incomplete set.
+- **158.** Pointing and giving are the foundations of conversation.
+- **159.** Making something she wears is a different order of pride.
+- **160.** Repeating an activity across seasons produces a comparison she can actually make.
+- **161.** Involvement predicts eating better than persuasion does.
+- **162.** Three rules, repeated forever, beats twenty rules said once.
+- **163.** Same material, different shape, opposite result.
+- **164.** Open-ended materials outperform toys, and cheap ones outperform expensive ones.
+- **165.** Slow exhalation is the body's own calming switch.
+- **166.** Give three tools and let her choose.
+- **167.** Visible results are what sustain a child's effort.
+- **168.** Competition at three works when everyone wins something real.
+- **169.** Historical injustice, explained honestly and simply, doesn't damage a three-year-old.
+- **170.** Celebration is a legitimate way to teach history.
+- **171.** Children describe parents by what they *do*, not who they are.
+- **172.** Food is the most durable carrier of family memory.
+- **173.** Admiration is how children choose which traits to grow.
+- **174.** Moving in time with someone builds connection, measurably.
+- **175.** Gratitude needs a target before it needs a feeling.
+- **176.** Waiting is easier when it's visible and shrinking.
+- **177.** Three techniques for one outcome teaches technique as a concept.
+- **178.** Measuring by comparison comes before measuring by number.
+- **179.** Recognizing the same principle in new clothes is real understanding.
+- **180.** Big arm movements are still building the hand that will write.
+- **181.** Repeating an activity across the year makes growth visible.
+- **182.** The halfway point is worth marking for you, not just for her.
+- **182.** Heat makes children behave badly, and it isn't a discipline problem.
+- **182.** Children calibrate fear from your face, not from the facts.
+- **182.** Fever makes children clingy, and meeting it shortens it.
+- **182.** Outdoors helps even when nothing is happening.
+- **182.** Summer needs less structure than you'd think.
+- **183.** Symbols are a big abstraction, and flags are the easiest entry point.
+- **184.** The day before is often better than the day itself.
+- **185.** Big days are frequently too big, and the fix is leaving early.
+- **186.** Sorting by an invisible property is a step up.
+- **187.** Oil and water is the same lesson as the wax crayon and the sticker resist.
+- **188.** Freezing on cue is one of the best self-control exercises there is.
+- **189.** Choosing what to leave out is harder than choosing what to include.
+- **190.** Sand is one of the best materials there is, and it's the resistance that makes it good.
+- **191.** "Too much" and "not enough" is a real concept, and it's rarely taught.
+- **192.** Asking for her rule is better than checking her answer.
+- **193.** Sensory bottles work as a calming tool, and it's worth keeping one.
+- **194.** Making the material is part of the activity.
+- **195.** Changing one thing at a time is real experimental method.
+- **196.** Water play is unusually complete developmental work.
+- **197.** Effort makes food taste better, and that's a measurable effect.
+- **198.** Shop play is the most efficient math practice available at three.
+- **199.** Distinct layers only form if you wait, and that's a visible lesson.
+- **200.** Doubling is visible before it's calculable.
+- **201.** An AABB pattern is much harder than ABAB, and it's the right next step.
+- **202.** Making something to someone else's specification is a real cognitive step.
+- **203.** Serving other people is one of the fastest routes to competence.
+- **204.** Habitat is a more advanced idea than category.
+- **205.** Passive movement is a strange idea, and worth sitting with.
+- **206.** Noticing a mismatch is worth more than getting the answer.
+- **207.** Numeral recognition is separate from counting.
+- **208.** Darkness is worth practicing when it isn't bedtime.
+- **209.** A large collaborative piece teaches something a small one can't.
+- **210.** Giving a tour is the best test of understanding there is.
+- **211.** Real tools and real jobs beat toy versions, every time.
+- **212.** Sitting in a circle changes how a group talks.
+- **213.** She's met shadows three times now, and each time added something.
+- **214.** Carrying her own pack changes the walk.
+- **215.** A map is a shift from being *in* a space to seeing it from above.
+- **216.** Breaking the routine deliberately makes a memory.
+- **217.** Endings need marking, and packing up does it.
+- **217.** In serious heat, the physical problem comes before the behavior problem.
+- **217.** Cozy is a real regulatory state, not just a mood.
+- **217.** Being ill in summer is worse psychologically, and that's worth acknowledging.
+- **217.** Recovery isn't a switch, and pushing it backfires.
+- **217.** Summer's best days are usually the least planned.
+- **218.** Losing is a skill that isn't ready yet, and designing around that is not coddling.
+- **219.** Throwing develops in a predictable order, and rushing it doesn't help.
+- **220.** Balance is trained by being slightly off it.
+- **221.** Subtraction makes sense long before the symbols do.
+- **222.** Cooperation is harder than competition, and it needs the same practice.
+- **223.** Planning before doing is a real developmental leap.
+- **224.** Deciding what deserves recognition is more advanced than receiving it.
+- **225.** A map is an abstraction she has to be taught to read.
+- **226.** Food is the most memorable route into a culture at this age.
+- **227.** Symmetry through folding is discovered, not explained.
+- **228.** Repeating units are a genuine step up from alternating patterns.
+- **229.** Impermanence is easier to accept when it's built into the design.
+- **230.** Jumping with both feet is a genuine milestone and it comes later than most parents expect.
+- **231.** "Different" and "wrong" are separate ideas, and this week teaches the difference.
+- **232.** Aiming improves with quantity, not instruction.
+- **233.** Risk and reward is a genuinely new kind of decision.
+- **234.** A painted face changes behaviour, not just appearance.
+- **235.** Building it back up is the part that's doing the work.
+- **236.** Saving three of something is harder than it sounds.
+- **237.** Inventing a game is a much bigger deal than playing one.
+- **238.** Hosting is a social skill, and it's learnable at three.
+- **239.** Predicting a sound and then testing it is her first real hypothesis.
+- **240.** Loud is a developmental need, not a provocation.
+- **241.** High and low is a genuinely confusing pair of words.
+- **242.** Freezing on cue is genuine impulse control.
+- **243.** Copying a rhythm is harder than it looks, and it's a working memory task.
+- **244.** Rehearsal teaches something a spontaneous performance can't.
+- **245.** Performing for one attentive person is enough.
+- **245.** Ice is one of the few materials that changes while she's using it.
+- **245.** Cabin fever is physiological, not attitudinal.
+- **245.** A darkened room helps more than a quiet one.
+- **245.** Close looking is the one thing a tired child can still do.
+- **245.** Late summer is a genuinely low-energy stretch, and lowering the bar is the right response.
+- **246.** A letter teaches her that writing is aimed at someone.
+- **247.** Borrowing and returning is her first experience of trusted ownership.
+- **248.** Money is a story about exchange long before it's arithmetic.
+- **249.** What you actually do all day is more interesting to her than you think.
+- **250.** Caring about a place is learned by improving it, not by being told to.
+- **251.** Reading a recipe is her first experience of print that tells you what to do.
+- **252.** Handing something over in person is a separate skill from making it.
+- **253.** A field journal changes how she looks, not just what she records.
+- **254.** A boundary makes a familiar place interesting again.
+- **255.** Excavation teaches her that finding is a process, not a moment.
+- **256.** Children need to see the adults in their life get celebrated too.
+- **257.** Direction words are harder than position words and they arrive later.
+- **258.** Deciding what's worth keeping is harder than collecting it.
+- **259.** A trip she packed for herself gets remembered differently.
+- **260.** Mixing colours is a lesson in irreversibility.
+- **261.** Shapes are learned by making the edges, not by naming them.
+- **262.** Light changes what she thinks a colour is.
+- **263.** Naming a colour she invented does more than learning the standard eleven.
+- **264.** Fitting a shape into a hole is a test of mental rotation.
+- **265.** Matching a shade is much harder than matching a colour.
+- **266.** Finishing something that took all week is its own lesson.
+- **267.** Her own name is the doorway and it doesn't generalise for a while.
+- **268.** Tracing in salt removes the fear of getting it wrong.
+- **269.** Hearing a rhyme and making one are two different skills, months apart.
+- **270.** The first sound in a word is the easiest one to hear, and that's where reading starts.
+- **271.** Twenty-six is too many, and five is plenty.
+- **272.** Print in the real world teaches more than print in a book.
+- **273.** Repetition of one sound all day does more than a lesson on it.
+- **273.** Testing the same thing twenty times is what a three-year-old means by an experiment.
+- **273.** Autumn is the first season she can watch changing week by week.
+- **273.** Recording her and playing it back is a rare chance for her to hear herself.
+- **273.** Being ill is her first experience of her body not obeying her.
+- **273.** September restarts everything, including her, and the first few weeks of that are hard.
+- **274.** A number line she walks on is a different thing from a number line she looks at.
+- **275.** Estimating first is what makes the counting mean something.
+- **276.** Touching each thing as she counts is what stops her double-counting.
+- **277.** Recognising three without counting has a name, and it arrives before counting does.
+- **278.** A unit only works if it stays the same size, and that's the hard part.
+- **279.** Counting down is much harder than counting up.
+- **280.** Giving a number a personality is what makes it stick.
+- **281.** Steeper is a variable she can control, and that's rare.
+- **282.** Driving somewhere imaginary requires her to hold a destination in mind.
+- **283.** Machines that make hard work easier are only obvious at this scale.
+- **284.** Laying the track is planning, and it's harder than driving on it.
+- **285.** Air is invisible, and she needs to feel it push before she'll believe in it.
+- **286.** Pumping a tyre is the first time she'll feel her own strength do something useful.
+- **287.** Finishing a week by using everything she made beats one more new thing.
+- **288.** The moon changing shape is the first thing she'll notice that she can't touch.
+- **289.** Distance is the part of space that nobody tells her about.
+- **290.** Being an expert on one thing is enormously motivating at three.
+- **291.** A crater is a record of something that already happened, and reading it backwards is new thinking.
+- **292.** Inventing a creature to fit conditions is her first taste of adaptation.
+- **293.** Making the sky small enough to hold is what lets her study it.
+- **294.** A mission with a beginning, a middle and a report is a story she's inside.
+- **295.** Putting it back exactly is part of the lesson.
+- **296.** A creature she has watched is much harder to squash.
+- **297.** Symmetry and spirals turn up in her drawing once she's looked at a web.
+- **298.** Following something rather than catching it is a different kind of attention.
+- **299.** Hiding something well means imagining another creature's point of view.
+- **300.** Sorting living things is harder than sorting objects, because they move.
+- **301.** Making it enormous is how she checks she knows the parts.
+- **302.** Fire and flame need rules, not avoidance.
+- **303.** A copy of a thing teaches her what a fossil actually is.
+- **304.** Sorting the sweets is more interesting to her than eating them.
+- **305.** A photo on a table gives a dead person a place, and that helps her more than an explanation.
+- **306.** Big numbers mean nothing until she's walked them.
+- **307.** Teeth are evidence, and reading evidence is the whole of palaeontology.
+- **308.** Extinct is a hard word, and it's easier than she'd find "dead".
+- **308.** Scorekeeping turns a chaotic game into a calm one.
+- **308.** The clocks changing costs her more than it costs you.
+- **308.** Illness is a good time to be the one with the ideas rather than the hands.
+- **308.** A job with a visible end is what a recovering child wants.
+- **308.** Dark afternoons change the shape of the day, and the plan has to change with them.
+- **309.** Grinding grain by hand is how she finds out that food used to be work.
+- **310.** Making a material from scratch is rarer than making a thing.
+- **311.** Naming the parts of something ordinary makes it interesting again.
+- **312.** Waiting for cream to turn into butter is a bet she'll want to see through.
+- **313.** A game with a whistle and rules teaches listening better than being told to listen.
+- **314.** Thinking about what an animal needs in winter is easier than thinking about herself.
+- **315.** Serving other people is a role she'll take more seriously than being served.
+- **316.** A measurement she takes every day teaches more than a fact does.
+- **317.** A rainbow she can make and unmake stops being magic and starts being light.
+- **318.** Naming clouds is the first time the sky has parts.
+- **319.** A scale with pictures lets her rate something she can't measure.
+- **320.** Cold is easier to investigate than hot, because she can hold it.
+- **321.** She thinks water that dries has gone, and it takes seeing it come back to fix that.
+- **322.** Being wrong in a forecast is the most useful kind of wrong.
+- **323.** Sorting the year into four is easier than remembering it.
+- **324.** A tree she's chosen is different from a tree she's shown.
+- **325.** Five months is longer than she can picture, and that's exactly why it's worth doing.
+- **326.** Absence is harder to notice than presence, and it has to be pointed out.
+- **327.** Rotting is the part of nature children are usually protected from, and it's the interesting half.
+- **328.** A collection with a purpose behaves differently from a collection.
+- **329.** Big gatherings overwhelm her faster than they overwhelm you, and she needs an exit.
+- **330.** A sharp-enough knife is safer than a blunt one, and she can learn a grip.
+- **331.** She can name what she doesn't like once she has words for the tastes.
+- **332.** A constraint is what makes her choose instead of asking for everything.
+- **333.** Doing a job with her feet is not a joke, it's how she gets her whole body into it.
+- **334.** Washing up is water play with a result, and she'll do it for the water alone.
+- **335.** Sour is the taste she'll learn to like on purpose, and that's a new experience.
+- **336.** Directing an adult is the strongest evidence of competence she can get.
+- **336.** A den changes the day more than any activity in it.
+- **336.** Water is the most reliable regulator you have, and it works in either direction.
+- **336.** The third day of a cold is the worst one for both of you.
+- **336.** Coming back to normal needs a smaller version of normal first.
+- **336.** November is the flattest month, and lowering the plan is the right response.
+- **337.** A character with a want is a story engine; a character with a name is just a doll.
+- **338.** Small worlds get played in longer when somebody lives there.
+- **339.** "Until one day" is the phrase that turns a list into a story.
+- **340.** A book with a cover and her name on it gets treated completely differently.
+- **341.** Telling a story with no pictures forces her to say what she means.
+- **342.** A mystery is the one structure that makes her ask questions instead of answering them.
+- **343.** Finishing a book and giving it away is what makes her want to make another.
+- **344.** She'll defend a category harder than she'll defend a fact.
+- **345.** A tool that only does one job explains a body part better than a picture.
+- **346.** Feeling the cold stop is more convincing than being told about insulation.
+- **347.** The garden has residents she has never met.
+- **348.** Where the eyes are tells her what an animal is afraid of.
+- **349.** Feeding birds is a promise that has to be kept once it's started.
+- **350.** A book of things she has personally seen beats any animal book you could buy.
+- **351.** Heavy and light is her theory, and it's wrong in an interesting way.
+- **352.** The same material floats or sinks depending on what shape she makes it.
+- **353.** Some experiments only work if she leaves them alone.
+- **354.** Turning four is a fact she'll try on all day, and it changes how she behaves.
+- **355.** Naming the darkest day is better than enduring it.
+- **356.** Catching a real snowflake is worth fifty paper ones.
+- **357.** A system she can change one piece of beats a toy that already works.
+- **358.** Frying is the most attention-holding cooking there is, and the most dangerous.
+- **359.** The build-up is more than she can hold, and the crash afterwards is normal.
+- **360.** Thanking someone works when she can remember what the thing actually was.
+- **361.** Giving something away only counts if she was the one who chose it.
+- **362.** A calendar is the first time the future has a shape she can point at.
+- **363.** A day off has to be visibly protected or it doesn't happen.
+- **364.** Writing to a future version of herself is a strange idea and she can just about hold it.
+- **365.** She won't remember most of this year, and that isn't the point.
+- **365.** Dark rooms make a familiar house strange, and strange is what a stuck day needs.
+- **365.** The week between the holidays is hard because the shape has gone, not because anything is wrong.
+- **365.** Being ill on a big day is disappointing for the adults, and mostly confusing for her.
+- **365.** What she remembers of a year is not what you remember, and hers is the more useful list.
+- **365.** The book ends but the things it started don't.
+
+_(425 insights)_
