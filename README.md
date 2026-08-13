@@ -1,76 +1,53 @@
-# ☀️ The Big Book of Little Days ☀️
-### *A Year of Playing, Making & Growing with Azlyn & Kreston*
-**365 Days · January 1 – December 31, 2027**
+# The Big Book of Little Days — 2027
 
-A complete day-by-day activity and lesson-plan book, written by Joseph for Brooklyn.
+A 365-day activity and lesson-plan book for 2027, written by Joseph for
+Brooklyn. One two-page spread per day, 8:00 AM to 6:00 PM, two main events,
+1,000–1,150 words. Twelve printable monthly booklets.
 
----
+This is **v2**. Version 1 covered 9:00 AM–12:45 PM and is tagged
+`v1-morning-only`.
 
-## What's here
+## Read this first
 
-| Path | What it is |
-|---|---|
-| `The-Big-Book-of-Little-Days-2027.md` | The assembled book. **This is the deliverable.** |
-| `months/` | Source files, one or two per week-block. Edit these, then reassemble. |
-| `CONTINUATION.md` | Build spec — read this first if you're picking the project up. |
+**[`CONTINUATION.md`](CONTINUATION.md)** is the authoritative build spec. The
+day format, the children's real ages week by week, the verified 2027 calendar,
+the whole-year Out Again rotation, the 52 week themes, and the validation rules
+all live there. Read it before writing anything.
 
----
+Section 14 lists every v1 rule that v2 kills. Read that too, or v1 habits will
+leak back in.
 
-## Current status
+## Layout
 
-**Complete. All 365 days written** (January 1 – December 31, 2027).
-
-Nothing is pending. Every booklet has its cover, four weeks (five in October), and a backup section.
-
-| Month | Days | Status |
-|---|---|---|
-| January | 1–35 | ✅ Complete |
-| February | 36–63 | ✅ Complete |
-| March | 64–91 | ✅ Complete |
-| April | 92–126 | ✅ Complete |
-| May | 127–154 | ✅ Complete |
-| June | 155–182 | ✅ Complete |
-| July | 183–217 | ✅ Complete |
-| August | 218–245 | ✅ Complete |
-| September | 246–273 | ✅ Complete |
-| October | 274–308 | ✅ Complete |
-| November | 309–336 | ✅ Complete |
-| December | 337–365 | ✅ Complete |
-
----
-
-## Reassembling the book
-
-```bash
-cat months/00-front.md $(ls months/*.md | grep -v 00-front) \
-  > The-Big-Book-of-Little-Days-2027.md
+```
+months/          source files, one per week-block   ← edit these
+tools/
+  validate.py    run before every commit
+  titles.tsv     every title used, for duplicate checking
+CONTINUATION.md  the spec
+The-Big-Book-of-Little-Days-2027.md                 ← generated, never edit
 ```
 
-Then validate:
+## Build
 
 ```bash
-python3 -c "
-import re
-t=open('The-Big-Book-of-Little-Days-2027.md').read()
-d=sorted(int(m.group(1)) for m in re.finditer(r'<a id=\"day-(\d+)\">',t))
-print('days:',len(d),'| gaps:',[i for i in range(1,d[-1]+1) if i not in d])
-print('insights:',t.count('A Little Parenting Insight'))
-print('love notes:',t.count('**From Joseph:**'))
-"
+cat months/*.md > The-Big-Book-of-Little-Days-2027.md
 ```
 
-Day count and insight/note counts should always match.
+## Before every commit
 
----
+```bash
+python3 tools/validate.py
+```
 
-## ⚠️ Rule Zero
+It checks day count, gaps, duplicate anchors, duplicate titles, and that every
+date and weekday matches the real 2027 calendar. It exits non-zero on failure.
 
-**Never overwrite the working file.** Commit before any bulk edit. A single regex with `re.DOTALL` destroyed a completed version of this book once. Never use `.` with DOTALL inside a repeated group; parse into blocks and reassemble rather than doing regex surgery on the whole file.
+**Rule Zero: never overwrite the working file, and commit before any bulk
+edit.** No `.` under DOTALL inside a repeated group. One of those destroyed a
+finished version of v1.
 
-After any scripted pass, assert the day count is still correct and refuse to save if not.
+## Privacy
 
----
-
-## Output
-
-Intended for conversion to PDF — one master digital book with clickable navigation, plus twelve printable month booklets that can be bound separately.
+**Keep this repository private.** It contains the children's names, ages and
+birthdays throughout.
