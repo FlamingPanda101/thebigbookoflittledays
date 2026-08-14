@@ -69,12 +69,73 @@ things she already knows. Do not pad.
   it and mark it clearly as a draft for me to rewrite. It is the one thing in
   the book only I can write.
 
-## Writing style
+## Writing style — apply to every day, no exceptions
 
-Follow `.claude/skills/stop-slop` if present. Otherwise: active voice, no
-adverbs, no em dashes, no "here's what/this/that" openers, no "not X, it's Y"
-contrasts, no dramatic sentence fragments. Vary sentence length. State things
-directly and trust the reader.
+The rules are inline below. Do not replace them with a pointer to a skill
+file. An earlier version of this section said "follow `.claude/skills/stop-slop`
+if present"; that directory is empty and untracked, so the instruction never
+fired once, and week 1 had to be rewritten because of it.
+
+**Cut**
+
+- Throat-clearing: "Here's the thing / what / why", "The truth is", "It turns
+  out", "The real X is", "Let me be honest", "Can we talk about".
+- Emphasis crutches: "Full stop.", "Let that sink in.", "This matters
+  because", "Make no mistake".
+- Filler: "At its core", "It's worth noting", "At the end of the day", "When
+  it comes to", "The reality is", "In a world where".
+- All adverbs. No -ly words. Kill: really, just, literally, genuinely,
+  honestly, simply, actually, deeply, truly, fundamentally.
+
+**Never write**
+
+- Binary contrasts: "not X, it's Y", "X isn't the problem, Y is", "stops being
+  X and starts being Y", "not just X but also Y". State Y directly and drop
+  the negation.
+- Negative listing: "Not a X. Not a Y. A Z." State Z.
+- Dramatic fragments: "[Noun]. That's it. That's the thing."
+- Rhetorical setups: "What if...?", "Think about it:", "And that's okay."
+- Em dashes in prose. Use commas, periods or parentheses.
+- Wh- sentence openers. Lead with the subject instead.
+- Passive voice and false agency. Name the person, or use "you" to put
+  Brooklyn in the scene.
+- Narrator-from-a-distance: "People tend to", "Nobody designed this".
+- Vague declaratives: "The implications are significant". Name the thing.
+
+**Rhythm**
+
+Vary sentence length. Do not let three consecutive sentences match. Do not end
+every paragraph on a punchy one-liner; that tic ran through all seven of
+week 1's days before the rewrite.
+
+### Four exceptions, learned the hard way
+
+Style never outranks a working instruction. Brooklyn is executing these steps
+with a three-year-old.
+
+1. **Schedule rows keep their em dashes.** `- **9:15–10:15 AM** — 🎨 The Main
+   Event: X` is the format set by CONTINUATION.md section 3. It is a table,
+   not prose. Leave all 15 rows alone.
+2. **Safety absolutes stay.** "Never leave Kreston in there on his own" is
+   literally true and load-bearing. Cut "never" and "always" only where they
+   are decoration, as in "a tower that never falls taught her nothing".
+3. **Materials lists and numbered steps are exempt** from "two items beat
+   three". Every material and quantity stays. Step counts are fixed by
+   section 3: 4–6 for the Main Event, 5–7 for the Second Main Event.
+4. **Titles are frozen once logged.** Activity names and insight headlines
+   live in `tools/titles.tsv`, and the week opener quotes the seven headlines
+   verbatim. Renaming one breaks three files at once.
+
+### Self-check before every commit
+
+```powershell
+Select-String -Path months\*.md -Pattern '—' | Where-Object { $_.Line -notmatch '^- (\*\*\d|\[)' }
+```
+
+Every hit is an em dash in prose. Fix them before you validate. The filter
+already drops the two structural uses: schedule rows (`- **9:15–10:15 AM** —`)
+and booklet contents rows (`- [**Week 1** · …](#week-1) —`). Nothing else gets
+a pass.
 
 ## Workflow per week
 
