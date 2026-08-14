@@ -272,6 +272,111 @@ activity	90	A Page for Every Animal
 activity	91	Five Things Are Wrong
 activity	91	Three Tricks for Joseph
 activity	91	The Longest Line in the House
+activity	92	One Egg Each
+activity	92	The Spring New Year Table
+activity	92	The Spring Questions
+activity	93	Squeezing the Egg
+activity	93	The Books on the Eggshells
+activity	93	Permission to Smash
+activity	94	No Hands Allowed
+activity	94	The Penguin Shuffle
+activity	94	Four Kinds of Beak
+activity	95	Rinsing Off the Shell
+activity	95	The Egg With No Shell
+activity	95	The April Handprint
+activity	96	Six Eggs on One Sheet
+activity	96	From Hummingbird to Ostrich
+activity	96	Feathers, Scales and Six Legs
+activity	97	The Invisible Drawing
+activity	97	The Lines the Dye Can't Cross
+activity	97	The Jar That Won't Mix
+activity	98	Two Bowls, Two Forks
+activity	98	Tamagoyaki, Twice
+activity	98	The Book of What Happened
+activity	99	Pegging Out the Square
+activity	99	Everything in the Square
+activity	99	The Worm Jar
+activity	100	Every Pot in the House
+activity	100	Which One Holds More
+activity	100	The Coat Hanger Scales
+activity	101	Three Jars of Colour
+activity	101	The Celery That Turns Blue
+activity	101	The Bundle of Straws
+activity	102	Could This Grow?
+activity	102	The Garden of Silly Things
+activity	102	The Story of What Came Up
+activity	103	Everyone Who Needs Something
+activity	103	Azlyn's Watering Round
+activity	103	Seed to Sunflower and Back
+activity	104	The Sky at Eight
+activity	104	The Weather Station by the Door
+activity	104	Rain in a Jar
+activity	105	Picking the Dandelion Clocks
+activity	105	Which Seeds Can Fly
+activity	105	Grass Blown Through a Straw
+activity	106	The Watching Seat
+activity	106	The Tally at the Glass
+activity	106	The Animals on the Glass
+activity	107	The Crayon on Its Side
+activity	107	The Tree with Her String On It
+activity	107	The House in String
+activity	108	Three Coats and a Drop of Water
+activity	108	The Duck That Stays Dry
+activity	108	Eight Ways Across the Room
+activity	109	The Tilted Tray
+activity	109	The Dam That Holds
+activity	109	Bursting It on Purpose
+activity	110	Here or Far Away
+activity	110	The Long Grass
+activity	110	The Waterhole on the Floor
+activity	111	Three Things That Match
+activity	111	The Lizards That Vanish
+activity	111	The Hide by the Window
+activity	112	Picking It Up Without Hands
+activity	112	One Street, One Bag
+activity	112	The Wild Corner
+activity	113	The Pile on the Sheet
+activity	113	Sorting by What It's Made Of
+activity	113	The Cloth That Wraps Anything
+activity	114	The Map from Bin to Truck
+activity	114	The Recycling Truck
+activity	114	The Rubbish Round
+activity	115	Five Words for One Bottle
+activity	115	Bendy, See-Through, Floats
+activity	115	Boats from the Bin
+activity	116	Soaking the Junk Mail
+activity	116	Turning Paper Back into Mush
+activity	116	Pressing the Petal Sheets
+activity	117	Emptying the Cap Jar
+activity	117	Ten Caps to a Cup
+activity	117	The Picture Made of Lids
+activity	118	What Goes in the Jars
+activity	118	The Rot Jars
+activity	118	The Bottle Filter
+activity	119	Digging for Worms
+activity	119	The Worm Tower
+activity	119	The Hotel in the Hedge
+activity	120	Taking a Flower to Pieces
+activity	120	Perfume in a Jam Jar
+activity	120	Bashing the Colour Out of the Petals
+activity	121	Cutting the Fair Shares
+activity	121	The Butterfly Plate
+activity	121	A Butterfly for Every Person
+activity	122	One Sheet, Eight Pages
+activity	122	Four Sticks and a Piece of String
+activity	122	The Flower That Opens on the Water
+activity	123	Sieving the Soil
+activity	123	Seed Balls for the Bare Patch
+activity	123	Carrying the Pollen
+activity	124	Rolling the Little Rooms
+activity	124	The Bug Hotel by the Fence
+activity	124	Two Snails and a Wet Tray
+activity	125	Six Boxes and a Picture Each
+activity	125	The Big Bug Count
+activity	125	Turning the Marks into a Picture
+activity	126	Scrubbing the Pebbles
+activity	126	The Jar That Waters Itself
+activity	126	Flowers Between Two Pieces of Tape
 insight	1	Why writing down her exact words matters more than you'd think.
 insight	2	The cardboard box beats the expensive toy, and there's a reason.
 insight	3	Narrating beats quizzing, every time.
@@ -363,3 +468,38 @@ insight	88	Anticipation is a bigger pleasure than the payoff.
 insight	89	Prediction is the beginning of scientific thinking.
 insight	90	Category words are a bigger deal than they look.
 insight	91	Lining things up is a developmental stage, not a red flag.
+insight	92	Two new years in one book is a useful idea.
+insight	93	Sanctioned rule-breaking is good for a rule-following child.
+insight	94	Trying and failing at something an animal does easily builds real respect.
+insight	95	Children can't perceive their own growth, and showing it matters.
+insight	96	Sorting into families is a more advanced move than sorting by color.
+insight	97	Resist techniques teach a real idea: some things repel others.
+insight	98	Doing your own version beside her beats helping with hers.
+insight	99	Searching is a skill, and it's more systematic than it looks.
+insight	100	Comparing quantities without numbers is where measurement starts.
+insight	101	"What do you think will happen?" before every single experiment.
+insight	102	A joke requires knowing what someone else expects.
+insight	103	Reversals help a child see the pattern she's been living inside.
+insight	104	Weather is one of the best first sciences, because it's already happening.
+insight	105	Blowing games do more than entertain.
+insight	106	Looking out a window counts as an activity.
+insight	107	Recovery days are the right time to start something slow.
+insight	108	The transition seasons are the hardest, and the weather is only part of it.
+insight	109	Predicting the breaking point is real experimental thinking.
+insight	110	Destruction before construction is a legitimate sequence.
+insight	111	"What could we change?" is the most useful question in this book.
+insight	112	Leaving and coming back is its own lesson.
+insight	113	Repetition means she's still getting information.
+insight	114	Some things she'll only understand years later, and that's fine.
+insight	115	Describing accurately is the real preschool science skill.
+insight	116	Ownership is what makes a child stick with something.
+insight	117	Grouping by ten is the foundation of the whole number system.
+insight	118	Making the invisible visible is the core trick of good science teaching.
+insight	119	Building for an animal reframes the relationship.
+insight	120	Smell is wired directly to memory in a way the other senses aren't.
+insight	121	Fairness is the strongest moral instinct a three-year-old has.
+insight	122	A record makes slow change perceptible.
+insight	123	Keep environmental talk local and hopeful at this age.
+insight	124	Giving something a face changes how a child treats it.
+insight	125	Tally marks are her first taste of representing data.
+insight	126	A closed system is a big idea in a small jar.
