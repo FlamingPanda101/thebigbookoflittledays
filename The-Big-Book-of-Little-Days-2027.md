@@ -5297,3 +5297,4354 @@ perform. She has four animals, one torch, and an audience.
 > Kreston inside arm's reach the whole time.
 
 <div style="page-break-after: always;"></div>
+<a id="week-6"></a>
+
+## Week 6: Little Bakery 🥐
+**📅 February 5 – February 11, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Four things make bread, and she counts them on her fingers on Friday morning
+before anything goes in the bowl: flour, water, salt, yeast. The rest of the
+week takes them apart one at a time. The yeast gets its own jar and then its
+own balloon, the dough gets punched flat and stretched until it tears, and the
+same lump comes back as rolls, a pizza base and a tray of cinnamon buns. She
+follows one loop all week, from dry powder foaming in warm water to a hollow
+knock on the bottom of a crust.
+
+No holiday lands in this week, so the shape comes from the theme. Four days
+run on a hot oven, three of them on real dough. Monday and Wednesday run on playdough, paper
+and a pretend shop counter, and they sit there to give your kitchen a day off.
+Thursday takes the whole thing out of the house: she boxes what she baked,
+walks a round she scouted that morning, and hands it over at four front doors.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Yeast is alive and it eats.** A jar of foam at half eight, a balloon standing up by half eleven, and an hour of waiting she can see the point of.
+- **Hands that knead, roll, cut and press.** Ten minutes of heavy work at the table on Friday, a rolling pin on Monday, and floss pulled through a log of dough on Thursday.
+- **Her own words hold still on paper.** She dictates a recipe, you read it back the same way twice, and by Thursday she picks *butter* out of the page on her own.
+- **Words for what her mouth finds.** Soft, chewy, seedy, holey. Five breads on five numbered plates and one word each.
+- **Numbers doing a job.** Twelve pastries counted onto a tray, a price written on every one, buttons counted into the till and back out at closing.
+
+---
+
+### 👩 What You'll Learn
+
+- Auditory attention is trainable, and it underpins reading
+- Dictated stories are the bridge to real literacy
+- Cabin fever is a real physiological thing, not a bad attitude
+- Pretend play is where self-control gets built
+- Regression during illness is expected, not a setback
+- Boredom on the mend is a good sign, and a useful one
+- On the days you use this page instead of the plan
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] Strong white flour, 1.5 kg
+- [ ] Plain flour, 1 kg
+- [ ] Salt, 500 g (a full cup of it goes into Monday's playdough)
+- [ ] Sugar, 250 g
+- [ ] Dried yeast, 6 sachets of 7 g
+- [ ] Butter, 250 g (100 g soft for Saturday, 75 g soft for Thursday)
+- [ ] Vegetable oil
+- [ ] 1 egg
+- [ ] Double cream, 300 ml
+- [ ] Milk
+- [ ] Ground cinnamon
+- [ ] Dried herbs
+- [ ] Her chosen additions: raisins, chocolate chips, cocoa, sprinkles or a banana
+- [ ] Passata, or a tin of chopped tomatoes
+- [ ] Grated cheese, 200 g
+- [ ] Pizza toppings from the fridge: ham, sweetcorn, peppers, olives, mushrooms
+- [ ] Five breads for Wednesday: sliced white, a seeded roll, a bagel, a pita, a crumpet
+- [ ] Crackers
+- [ ] Food colouring, 2–3 colours
+- [ ] Two clean jars, one of them with a tight-fitting lid
+- [ ] Clear plastic bottles, 2 × 500 ml, from the recycling
+- [ ] Balloons, 4 (two for the bottles, two spare)
+- [ ] Baking trays, 3
+- [ ] A round tin
+- [ ] An old baking tray and a plastic tub for the mud bakery
+- [ ] Baking paper
+- [ ] Paper cake cases
+- [ ] A wire rack, or a cold plate
+- [ ] Oven gloves
+- [ ] A rolling pin
+- [ ] Mixing bowls, 1 large and 2 small
+- [ ] A sieve
+- [ ] A wooden spoon, a teaspoon, a serving spoon per person, a fork and a pastry brush
+- [ ] A table knife and a butter knife
+- [ ] A big board for cutting the pizzas on
+- [ ] A bread knife (adult only)
+- [ ] Scissors (adult only)
+- [ ] Dental floss
+- [ ] A funnel, or paper to roll into a cone
+- [ ] A jug, 2 mugs and 5 plates
+- [ ] Two tea towels
+- [ ] A stool she can stand on
+- [ ] Plain paper, 25 sheets
+- [ ] Crayons or felt tips
+- [ ] A permanent marker and a pen
+- [ ] Stickers
+- [ ] Sticky labels, 5
+- [ ] Tape and glue
+- [ ] String
+- [ ] A hole punch, or a stapler
+- [ ] A cereal box, flattened for a cover
+- [ ] Paper bags or envelopes, 8
+- [ ] Small boxes from the recycling, 4
+- [ ] A shoebox for the till
+- [ ] Buttons or bottle tops, 30, and a purse
+- [ ] Fifty pence in coins for Thursday's charity shop
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, the oven is on four days out of seven this week and Kreston picked
+> February to start crossing floors. I know what those two cost when they land
+> in the same room, and the plan already gives some of it back. Monday and
+> Wednesday are playdough and paper on purpose, so if the bread days come down
+> to a bought pack and a lot of knocking on crusts, take that and call it done.
+> The one I would keep is Thursday. She walks the round in the morning with her
+> hands empty, and at half two she carries a box up somebody's path and gets
+> the words out herself while you stand back on the paving. I am at work for
+> that. Tell me who answered the door and what she said.
+
+---
+
+> 👶 **Kreston is 8 months this week**. He crawls or shuffles, brings two
+> objects together to bang them, and checks your face before he decides what a
+> new thing is for. **He turns 8 months on Friday the 5th, the first day of the week,
+> and stranger wariness arrives with it.**
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-36"></a>
+
+## 🌟 Day 36: The Dough That Wakes Up 🌟
+**📅 Friday, February 5, 2027**
+**Theme:** Little Bakery
+
+### 🌙 Prep Tonight
+> Set the flour, salt, sugar, a sachet of dried yeast and a clean jam jar on the table, and stand 100 g of butter out for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Fizzing Jar
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Four Things Make Bread (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Walk Past the Bakery (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Rolls and the Hollow Knock (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Bread Basket
+- **4:15–5:00 PM** — Quiet Play: Her Own Piece of Dough
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Warm Kitchen
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Fizzing Jar
+
+**🧰 You need:** 1 clean jam jar · dried yeast, 1 sachet · sugar, 1 tsp · warm water, 100 ml · 1 teaspoon.
+
+1. Fill the jar a third full from the hot tap with cold run in until it feels like bath water on your wrist. Let her test it with one finger.
+2. Tip in the yeast and the sugar and let her stir. Then walk away for ten minutes.
+3. Come back and look. The top has gone beige and foamy and smells of beer. Tell her the yeast is alive and has been eating the sugar.
+
+### 🎨 The Main Event: Four Things Make Bread
+
+**🧰 Complete Materials List:**
+- Strong white flour, 500 g
+- Dried yeast, 1 sachet (7 g)
+- Salt, 1 tsp
+- Sugar, 1 tsp
+- Warm water, 300 ml
+- Vegetable oil, 1 tbsp
+- 1 large mixing bowl
+- 1 clean tea towel
+- The jam jar of woken yeast from 8:00
+
+**📝 Step-by-Step Instructions:**
+1. Count the four things on her fingers before anything goes in the bowl: flour, water, salt, yeast.
+2. Flour into the bowl, salt to one side, and let her punch a well in the middle. The yeast goes in the well, then the oil and the warm water.
+3. She mixes with one hand until it comes together as a shaggy lump. It sticks to her. Leave it sticking.
+4. Turn it onto the table and knead: push with the heel of your hand, fold, turn a quarter, push again. Say the four words out loud and hand it over.
+5. Ten minutes of that between you. She will manage two and wander off, so take it on and hand it back when she returns. The lump goes from ragged to smooth.
+6. Oil the bowl, drop the dough in, cover it and stand it somewhere warm. Mark its height on the outside with a strip of tape.
+
+> 💡 **Tip:** Kneading is heavy work and it settles a wound-up morning better than any instruction to calm down. Give her all ten minutes.
+
+### 🌳 Get Outside: The Walk Past the Bakery
+
+Walk to whichever shop near you bakes on the premises. The supermarket counter
+counts. Cold February air holds the smell tight to the doorway, so the last
+four steps are the good ones. Count the shapes through the glass: rounds, long
+ones, plaits, rolls with seeds. Buy one thing and let her carry it home in her
+own hand.
+
+> 👶 **Infant Integration:** **Kreston turns 8 months today** and he is
+> crawling, which changes what a kitchen is. Set him up at the far end of the
+> room with two metal spoons and a plastic bowl. Banging two objects together
+> is new this month and needs both hands working to one plan. Say happy eight
+> months out loud.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Rolls and the Hollow Knock
+
+The dough has doubled by one o'clock and it holds the dent when she pushes a
+finger in.
+
+**🧰 Complete Materials List:**
+- The risen dough
+- 1 baking tray and baking paper
+- Extra flour for the table
+- 2 tbsp milk and a pastry brush or a spoon
+- 1 wire rack or a cold plate
+- Oven gloves
+- Butter for the first one, eaten warm
+
+**📝 Step-by-Step Instructions:**
+1. Tip the dough onto a floured table and let her press all the air out of it. It sighs down and she will want to do it twice.
+2. Cut it into eight or ten pieces. She cuts, you even them up afterwards without saying so.
+3. Show her the roll: hand cupped over the piece, palm circling, dough turning underneath. Hers come out as lumps and lumps bake fine.
+4. Space them on the lined tray a hand's width apart, cover, and leave them thirty minutes. Oven on to 220°C.
+5. Brush the tops with milk and bake fifteen to eighteen minutes. She watches through the glass and the door stays shut.
+6. Out onto the rack. Once one has cooled enough to hold, turn it over and knock the bottom with a knuckle. Hollow means baked through, so let her knock every one.
+7. Butter the first and eat it standing up in the kitchen before anyone suggests plates.
+
+> 💡 **Tip:** Knock on a raw one before the tray goes in. She needs the dull thud at half one to hear the hollow one an hour later.
+
+### 🎯 Afternoon Alternatives
+- A shop-bought pack of dough, and skip to the knocking.
+- Shape the whole batch as one loaf and cut a cross in the top.
+- Roll long snakes and plait three of them together.
+
+### 🌳 Out Again: **Pick one**
+- **A friend's house**, and she carries a bag of the rolls to the door herself
+- The park, for the swings before the light goes
+- The corner shop for butter and jam, both chosen by her
+- A café, where somebody else has done the baking
+- Back past the bakery window to see what has sold out
+
+> 👶 **Kreston's Afternoon:** Kreston gets a soft roll with the crust off, torn
+> small, sitting upright with you in front of him. Stranger wariness is
+> arriving this month, so at the friend's house keep him on your hip for the
+> first ten minutes. He comes off you when he leans off you and not before.
+
+### 🌍 Around the World: Bread Everywhere 🥖
+
+Almost everywhere on earth makes a bread from the same short list. India tears
+**naan** off the wall of a clay oven. Mexico presses **tortillas** flat between
+two hands. Ethiopia ferments **injera** until it turns sour, and it works as
+the plate as well as the bread. France buys a **baguette** twice a day because
+it goes stale by evening.
+
+> **✨ Try it:** Buy one bread you have never eaten, tear it at the table and
+> eat it with your hands. Azlyn decides whether it beats her rolls.
+
+> *Did you know?* Injera is cooked on one side only, which is why the top is
+> covered in tiny holes.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Auditory attention is trainable, and it underpins reading.**
+> Azlyn knocking the bottom of a roll and deciding whether it sounds hollow is
+> doing fine listening work: two sounds held side by side, one picked out from
+> the other. That skill sits underneath reading. Before she can match a letter
+> to a sound she has to hear that *bat* and *pat* start with different mouths,
+> and children who catch small differences in sound learn to read with less
+> effort later on. Kitchens are good ground for it. The kettle, the fizzing
+> jar, the knock on a crust, the oven timer. Name a sound out loud and she
+> starts collecting them.
+
+> ⚠️ **Safety:** Kreston is crawling and the oven runs at 220°C today, with hot
+> trays coming out at his head height. Block his route to the oven door with a
+> chair or the pram before the dough goes in, and check it is still there
+> before you open the door. Never leave the oven door open to cool with him
+> loose in the room.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-37"></a>
+
+## 🌟 Day 37: Azlyn's Own Recipe 🌟
+**📅 Saturday, February 6, 2027**
+**Theme:** Little Bakery
+
+### 🌙 Prep Tonight
+> Mix tomorrow's dough tonight (500 g strong flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil), cover the bowl and leave it in the fridge.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Choosing Off the Shelf
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Recipe She Tells You (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Frost Patch Hunt (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Her Page in the Cookbook (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Museum** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Cookbook Corner
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Choosing Off the Shelf
+
+**🧰 You need:** the baking cupboard · a stool to stand on · paper and a pen.
+
+1. Open the cupboard and get her up to eye level with the shelf. Read out what is in each tub and let her hold the ones with lids.
+2. She picks the additions for her recipe. If that is sprinkles and mashed banana together, it is sprinkles and mashed banana together.
+3. Write her choices at the top of a fresh page under her name. Nothing gets vetoed.
+
+### 🎨 The Main Event: The Recipe She Tells You
+
+**🧰 Complete Materials List:**
+- Soft butter, 100 g
+- Sugar, 100 g
+- Plain flour, 200 g
+- 1 egg
+- Her chosen additions: raisins, chocolate chips, cocoa, sprinkles or a mashed banana
+- 1 bowl and a wooden spoon
+- 1 baking tray and baking paper
+- Paper and a pen for her words
+
+**📝 Step-by-Step Instructions:**
+1. Sit down with her and ask how it is made, starting with the first thing into the bowl.
+2. Write every word as it comes. *And then you shake it a lot.* *Two hundred sugars.* Do not tidy the order or fix the grammar.
+3. Read it back from the top. She will change things. Cross out and write the new version underneath so both stay.
+4. Now make it off her page. Quantities come from the list above, order comes from her.
+5. Roll the mixture into walnut-sized balls, flatten them onto the lined tray with gaps between, and she adds her extras where her page says.
+6. Bake at 180°C for twelve to fifteen minutes until the edges brown. Read her recipe out loud once more while they bake.
+
+> 💡 **Tip:** Where her order makes a mess of it, follow it and say out loud what happened. A batch that comes out odd beats one you fixed behind her back.
+
+### 🌳 Get Outside: The Frost Patch Hunt
+
+Go out before the sun reaches the shady side of the street. Frost survives
+where it has not: north-facing walls, the ground under parked cars, grass in
+the shadow of a hedge. Give her five patches to find and a fingernail to
+scratch each one. Put her bare palm flat on a frosted car roof for one second,
+then back in the mitten.
+
+> 👶 **Infant Integration:** Kreston is 8 months and stranger wariness has
+> landed, so the far end of the table will not do. Sit him where he can see
+> your face while you write, with a wooden spoon and a yoghurt pot to bang
+> together. Outside, hold his bare palm on the frost for a second and watch his
+> face.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Her Page in the Cookbook
+
+This afternoon her recipe becomes a page in a book with her name on the front.
+
+**🧰 Complete Materials List:**
+- Paper, 5–6 sheets
+- The written recipe from this morning
+- Crayons or felt tips
+- Tape or glue
+- 1 cereal box cut flat for the cover
+- String and a hole punch, or a stapler
+- A permanent marker
+
+**📝 Step-by-Step Instructions:**
+1. Trim the sheets to a size her hands can turn and lay them in order.
+2. Tape the morning's recipe onto the middle page, butter stain and crossings-out and all.
+3. She draws one ingredient per sheet on the pages before it: butter, sugar, egg, flour, her own addition. Write the word underneath in your own hand, big.
+4. Cut the cereal box flat for the cover and let her colour it. Ask her the name of the book and write it across the front word for word.
+5. Punch two holes down the left edge of every sheet and thread the string. Three staples down the spine work as well.
+6. Read it back cover to cover, turning the pages at her pace.
+7. Stand it on the kitchen shelf with the real cookbooks, at her height.
+
+> 💡 **Tip:** She matches the shape of the word to the picture she made, and by Thursday she will find *butter* on the page unprompted.
+
+### 🎯 Afternoon Alternatives
+- One page only, her drawing on one side and her words on the other.
+- Photograph each step of the morning and stick the photos in instead.
+- Add a page for a recipe she invents that nobody has to make.
+
+### 🌳 Out Again: **The Museum**
+- **The museum**, first Saturday of February and the second of the year
+- Soft play, if the car park beats you
+- The park, and a bag of yesterday's rolls if any survived
+- A café, and she orders her own thing out loud
+- The Saturday market, for a stall with something baked on it
+
+> 👶 **Kreston's Afternoon:** Kreston goes in the carrier facing in today. At 8
+> months a museum is a room full of unfamiliar faces at his eye level, and your
+> chest is where he turns back to between looks. Find one low thing with lights
+> or a mirror and sit on the floor while he works it. Twenty-five minutes is a
+> full visit.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Dictated stories are the bridge to real literacy.**
+> Azlyn cannot write and she can compose. Those two come apart at three, and
+> taking her recipe down word for word lets the second run ahead of the first.
+> She watches her own speech turn into marks you read back the same way twice,
+> which is the idea underneath all of reading: the marks hold the words.
+> Teachers call it language experience, and children who dictate to an adult
+> arrive at writing with more to say and less fear of a blank page. Keep her
+> wrong grammar in. Her sentence made the trip onto paper whole and comes back
+> the same.
+
+> ⚠️ **Safety:** Raw egg and raw flour both carry a real infection risk and she
+> will eat some of the mixture. Hold it to one small spoonful, or set a
+> spoonful aside before the egg goes in. Kreston gets none of it raw, and
+> biscuits are sugar all the way through, so he skips the baked ones too. The
+> bowl goes in the sink and not on the floor.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-38"></a>
+
+## 🌟 Day 38: Pizza by Hand 🌟
+**📅 Sunday, February 7, 2027**
+**Theme:** Little Bakery
+
+### 🌙 Prep Tonight
+> Check the cupboard for a kilo of plain flour, a full tub of salt and the food colouring.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Punching It Down
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Dough That Fights Back (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Stamping the Ice (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: One Pizza Each (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Plates
+- **4:15–5:00 PM** — Quiet Play: The Flour Tray
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Long Bath After the Flour
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Punching It Down
+
+**🧰 You need:** the overnight dough, cold from the fridge · flour · a tea towel.
+
+1. Take the bowl out and let her look first. The dough has climbed the sides overnight and smells sour.
+2. Give her one instruction: fist in, all the way. The whole thing sighs to a third of its height and she will laugh.
+3. Leave it under the tea towel to come to room temperature. Cold dough will not stretch, so the wait is an hour.
+
+### 🎨 The Main Event: The Dough That Fights Back
+
+**🧰 Complete Materials List:**
+- The overnight dough (500 g strong flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil)
+- Flour for the table, a good handful
+- 2 baking trays
+- 1 tbsp oil for the trays
+- 1 tea towel
+
+**📝 Step-by-Step Instructions:**
+1. Flour the table well. Cut the dough in half and give her one half.
+2. Show her both flat hands pushing out from the middle, then work yours.
+3. She will tear hers. Pinch it shut, carry on, and say out loud that dough mends and paper does not.
+4. Once it is about tray-sized, lift an edge and let it hang from her hands. It stretches under its own weight and springs back when she lays it down. Let her try yours as well.
+5. Lay both bases on the oiled trays and push them to the corners with her fingertips. Bumpy is right.
+6. Cover them with the tea towel until one o'clock.
+
+> 💡 **Tip:** Flour her hands and keep it off the dough. Flour worked in makes it tough, and hers has four hours of poking ahead of it.
+
+### 🌳 Get Outside: Stamping the Ice
+
+Take the route with puddles. February ice is thin and goes white where air got
+trapped underneath. It cracks under a welly with a sound she will chase down
+the path. Stamp one, then lift a plate of ice out of another and hold it
+against the sky. Look for the frozen rim round a drain. Wet gloves come home in
+a pocket.
+
+> 👶 **Infant Integration:** Kreston is 8 months and shuffling, so the floured
+> floor is his now. Sweep before you put him down, then give him his own
+> scrap of dough sealed in a freezer bag. He pushes it, it dents, the dent
+> stays, and he does it again to check. On the walk, hold a plate of ice above
+> the pram for him.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: One Pizza Each
+
+Everything comes to the table in small bowls at one o'clock and nobody builds
+anybody else's.
+
+**🧰 Complete Materials List:**
+- The stretched bases
+- Passata or a tin of chopped tomatoes
+- Grated cheese, 200 g
+- Whatever is in the fridge in small bowls: ham, sweetcorn, peppers, olives, mushrooms
+- 1 spoon per person
+- Dried herbs
+- Oven gloves and a board
+
+**📝 Step-by-Step Instructions:**
+1. Set the bowls in a line down the table, a spoon standing in each.
+2. Sauce first. Show her the spoon spiralling out from the middle, then let her do her own. The edges she misses stay missed.
+3. Cheese by the handful. Everyone works down the line taking what they want, and nobody comments.
+4. She will build yours as well. Eat whatever she puts on it.
+5. Oven as hot as it goes, 240°C if you can get it. One tray at a time, top shelf, ten to twelve minutes, until the edges blister.
+6. Out onto the board, herbs over the top, and cut hers into strips.
+7. Eat at the table. This is Sunday lunch and the big meal of the day.
+
+> 💡 **Tip:** Put one bowl out with something in it she has refused for a month. Sitting near a food, touching it and putting it back down is most of the road before she eats it.
+
+### 🎯 Afternoon Alternatives
+- Shop-bought bases or split pittas, same line of bowls.
+- One big pizza cut into pieces instead of one each.
+- Faces on the pizzas, built out of the toppings.
+- Sauce and cheese only, and no argument about the rest.
+
+### 🌳 Out Again: **Pick one**
+- **The sunset walk**, out at three, because the light is going by half four this week
+- The park while the bases prove, if one o'clock ran late
+- A drive up to anywhere with a view west, and stay in the warm car
+- The duck pond, and back before the cold gets into her hands
+- Round the block with a torch each, for the novelty of needing one at four
+
+> 👶 **Kreston's Afternoon:** Kreston eats before the pizzas go in, then takes
+> a strip of cooled plain base at the table. At 8 months he brings both hands
+> and his gums to it and most of it ends up on the tray. Wrap him warm for the
+> walk and use a hat with a chin strap, since a loose one is off his head
+> inside a minute.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Cabin fever is a real physiological thing, not a bad attitude.**
+> Six weeks into winter, Azlyn is short of two things her body runs on:
+> daylight and room to move. Morning light sets the clock that governs her
+> sleep and her mood, and a February day indoors gives her a fraction of what
+> an August one hands over. Add a body built to cover a few miles a day and a
+> house that allows eight steps in a line, and the four o'clock meltdown reads
+> as a shortage of both. Twenty minutes outside under flat grey cloud beats an
+> hour under a lamp. Yours counts too, and you run the same shortage she does.
+
+> ⚠️ **Safety:** The oven goes to 240°C today and Kreston is shuffling, so
+> block his route to it with a chair or the pram before the first tray goes in,
+> and check the block is still there before you open the door. Melted cheese
+> holds its heat long after the crust has cooled. Cut hers into strips and
+> leave them three minutes on the board before the plate reaches her. There
+> will be ice underfoot on the walk, so take the gritted side of the path and
+> keep one hand free for her.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-39"></a>
+
+## 🌟 Day 39: The Bakery Opens 🌟
+**📅 Monday, February 8, 2027**
+**Theme:** Little Bakery
+
+### 🌙 Prep Tonight
+> Rinse two 500 ml plastic bottles from the recycling, stand them upside down to dry, and find two balloons that have not perished.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Colouring the Dough
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Twelve Pretend Pastries (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Mud Bakery (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Counter Opens (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Wiping the Counter
+- **4:15–5:00 PM** — Quiet Play: Minding the Shop
+- **5:00–5:45 PM** — 🛁 Wind-Down: Closing the Shop
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Colouring the Dough
+
+**🧰 You need:** plain flour, 2 cups · salt, 1 cup · warm water, 1 cup · oil, 2 tbsp · food colouring · 1 big bowl.
+
+1. Flour and salt in the bowl, her hands in to mix them dry. Then oil and warm water, stirred until it leaves the sides.
+2. Knead it on the table for two minutes while it is warm, then split it into three.
+3. Press a hollow into each piece, three drops of a different colour into each, and let her fold it in. Her hands come out patchy and wash clean by lunch.
+
+### 🎨 The Main Event: Twelve Pretend Pastries
+
+**🧰 Complete Materials List:**
+- No-cook playdough: 2 cups plain flour, 1 cup salt, 1 cup warm water, 2 tbsp oil
+- Food colouring, 2–3 colours
+- 1 table knife
+- 1 rolling pin or a straight-sided glass
+- 1 fork for pressing marks
+- Paper cake cases, or squares of baking paper
+- 1 baking tray as the display tray
+
+**📝 Step-by-Step Instructions:**
+1. Line the tray with the cake cases first, so it looks like a shop window.
+2. Croissants: roll a ball, flatten it, cut a triangle, roll from the wide end and curve the ends in. Do one, hand her the knife, let hers come out fat.
+3. Plaits: three snakes rolled under her flat palms, pinched at the top and crossed over one another.
+4. Buns and rings: balls pressed with the back of the fork, and snakes joined end to end for doughnuts.
+5. Keep going until the tray is full. Count them on out loud, one to twelve, then backwards when the dough runs out.
+6. Stand the tray on the counter you are about to build. None of it gets baked and she will ask twice.
+
+> 💡 **Tip:** Make one wrong on purpose. She corrects you, and correcting an adult's croissant buys her more practice than praise ever will.
+
+### 🌳 Get Outside: The Mud Bakery
+
+Take an old baking tray, a wooden spoon and a plastic tub to the muddiest
+patch you can reach. February mud is soft to the top of a welly and cold enough
+to hold a shape. She makes mud pastries to match the ones on the kitchen
+counter and counts them the same way. Leave them there for the frost.
+
+> 👶 **Infant Integration:** Kreston is 8 months and everything reachable goes
+> to his mouth on its way to being understood, so the pastry tray lives above
+> his line all day. Give him the spare paper cake cases instead. He crushes
+> them, drops them, hears them land and leans over to look.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Counter Opens
+
+A dining chair turned side-on is the counter. She takes the inside, you take
+the pavement side and the customer's part for the afternoon.
+
+**🧰 Complete Materials List:**
+- 1 small table or a chair as the counter
+- Paper bags or envelopes, 6–8
+- Paper and a marker for price signs
+- A purse of buttons or bottle tops as coins
+- 1 tea towel as an apron
+- 1 shoebox as the till
+- The tray of pastries
+
+**📝 Step-by-Step Instructions:**
+1. Set the counter where she says. Tray on top, shoebox till beside it, tea towel in her waistband as the apron.
+2. Write the price signs with her, a number and a drawing on each, and she decides every number.
+3. Be the first customer. Say good morning, ask for two things by name and wait for her to name a price.
+4. Pay in buttons, one at a time, counted out loud into her hand. She puts them in the till and shuts the lid.
+5. Bag the order and let it take as long as it takes. Folding the top over twice is the part she will want again.
+6. Swap over. She comes in with the purse and you get one item of her order wrong on purpose.
+7. Closing time at half two. Count the buttons out of the till, cover the tray and turn the sign round.
+
+> 💡 **Tip:** Stay in role when she goes off script. If a croissant costs a hundred buttons, count out a hundred. Stepping out to explain money ends the game.
+
+### 🎯 Afternoon Alternatives
+- Carry the tray round the house and sell door to door.
+- Line the pastries up by size and photograph the window.
+- One customer, one order, then she runs it on her own.
+
+### 🌳 Out Again: **Pick one**
+- **The field walk**, boots on, with the far hedge as the turning point
+- The neighbourhood park, if the field is under water
+- One lap of the block with a paper bag, delivering to nobody
+- The green space with a ball, after an hour behind a counter
+- The garden with a bucket of water, poured over the mud pastries
+
+> 👶 **Kreston's Afternoon:** Kreston is a customer. Sit him on your lap at the
+> counter and let Azlyn hand him an empty paper bag, which he
+> chews and then waves at her. At 8 months he checks your face to work out what
+> a new thing is for, so take it back with a big thank you.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Pretend play is where self-control gets built.**
+> Azlyn behind that counter holds a rule in her head for forty minutes.
+> Shopkeepers wait. They hand the bag over. They do not eat the stock. Nobody
+> is enforcing any of it and she does it anyway, because the role says so.
+> Researchers who watch children in role play find they stand still longer,
+> wait longer and stay with a dull task longer inside the pretend than out of
+> it. A rule she has taken on herself beats one you have imposed. Every minute
+> she spends being a baker is practice at what you will want at five, in a
+> classroom.
+
+> ⚠️ **Safety:** Playdough carries far more salt than food and Kreston will
+> have it in his mouth the second he is near the tray. Keep the tray above his
+> reach and wipe the table before he goes on the floor. Buttons and bottle tops
+> are choking-sized for an 8-month-old. Count them into the purse at the start
+> and back into the till at closing.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-40"></a>
+
+## 🌟 Day 40: What Yeast Eats 🌟
+**📅 Tuesday, February 9, 2027**
+**Theme:** Little Bakery
+
+### 🌙 Prep Tonight
+> Buy tomorrow's five breads on the way home (sliced white, a seeded roll, a bagel, a pita, a crumpet), and put five plates, the marker or the sticky labels and the bread knife out beside them.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Bath-Water Test
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Balloon That Fills Itself (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Snowdrop Hunt (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Shaking Cream into Butter (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: Toast for the Dolls
+- **5:00–5:45 PM** — 🛁 Wind-Down: Warm Milk and Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Bath-Water Test
+
+**🧰 You need:** 2 cups or mugs · the cold tap and the hot · 1 jug.
+
+1. Fill one cup from the cold tap and the second from the hot, cold run in until it feels like bath water on your wrist.
+2. She puts a finger in each and gives both a word. Warm as a bath is what yeast wants and anything hotter kills it.
+3. Pour the warm one into the jug and stand it on the side. It goes into the bottles at 9:15.
+
+### 🎨 The Main Event: The Balloon That Fills Itself
+
+**🧰 Complete Materials List:**
+- 2 clear plastic bottles, 500 ml, from the recycling
+- 2 balloons
+- Dried yeast, 2 sachets
+- Sugar, 2 tsp
+- Warm water from the morning test
+- 1 funnel, or a cone rolled from paper
+- 1 permanent marker for the level line
+
+**📝 Step-by-Step Instructions:**
+1. Stand the bottles side by side and let her mark them 1 and 2.
+2. Bottle 1 gets a sachet of yeast and a teaspoon of sugar down the funnel, then warm water. Bottle 2 gets warm water only. Draw a line on both at the same height.
+3. She swirls bottle 1 until the yeast clouds the water. Bottle 2 gets the same swirling and stays clear.
+4. Stretch a balloon over each neck, right down over the shoulder so it grips.
+5. Stand them somewhere warm and look at the clock together, then go outside.
+6. Back at half eleven, bottle 1's balloon stands up and bottle 2's is flat. Let her squeeze both and ask which had food in it.
+
+> 💡 **Tip:** Draw round each balloon on paper at half ten and again at half eleven. Two outlines on one page make an hour of slow change visible to her.
+
+### 🌳 Get Outside: The Snowdrop Hunt
+
+Snowdrops are up by the second week of February and come back in the same
+places every year: churchyards, the foot of a hedge, the bare ground under a
+tree. Give her a number and walk until she has counted twenty. Get down to
+their height, because the flower hangs face down and the markings are
+underneath. Nothing gets picked.
+
+> 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
+> with real intent this month. Give him two plastic beakers at the far end of
+> the room while the bottles work. He brings them together, misses, brings them
+> together again, and the miss is the part he works on.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Shaking Cream into Butter
+
+A jar, a tight lid, and everybody in the house taking a turn.
+
+**🧰 Complete Materials List:**
+- Double cream, 300 ml, out of the fridge an hour before
+- 1 clean jar with a tight-fitting lid
+- A pinch of salt
+- 1 sieve and a bowl
+- 1 butter knife
+- Bread or crackers
+- A cold plate for the butter
+
+**📝 Step-by-Step Instructions:**
+1. Pour the cream in until the jar is half full, no further, so there is air above it. Screw the lid down hard and check it twice.
+2. Everybody shakes. Count to fifty each and pass it on. Azlyn's fifty will be short and loud and she gets all the turns she wants.
+3. Around five minutes in it goes thick and the sloshing stops. That is whipped cream, and she is halfway.
+4. Keep going through the quiet stretch. The sound comes back as a heavier thud, then a lump rolling round in liquid. Open the jar and let her look.
+5. Strain it through the sieve over the bowl. The lump is butter, the liquid is buttermilk and she can drink some.
+6. Squeeze the butter under cold water with the back of a spoon until it runs clear, work in the salt and press it onto the cold plate.
+7. Spread it on bread and eat it at the counter. What is left goes in the fridge for tomorrow.
+
+> 💡 **Tip:** Sit on the floor and pass the jar back and forth. The passing keeps her in it once her arms have gone.
+
+### 🎯 Afternoon Alternatives
+- Whipped cream only, and stop while it is still cream.
+- Taste the buttermilk against the milk in the fridge.
+- Butter on toast, jam on top, nothing else asked of anyone.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one
+- Soft play, if the school lessons have the pool
+- The library a day early, for a book with bread in it
+- A warm café and a window seat
+- The indoor play centre
+
+> 👶 **Kreston's Afternoon:** Kreston comes to the pool. At 8 months he sits
+> supported in the water and slaps at it with a flat hand for the full twenty
+> minutes. Hold him chest to chest facing you at first, because a changing room
+> full of voices is a lot to take. Out and dressed before he cools.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Regression during illness is expected, not a setback.**
+> Azlyn will catch something this month, and when she does she will want
+> feeding, carrying and sleeping next to you, and things she has managed on her
+> own since the autumn will stop. Skills built in the last few months sit on
+> top of a lot of effort, and a body spending everything it has on fighting a
+> virus takes that effort back first. Sleep goes, then the toilet, then the
+> words. Give her what she asks for while she is ill. Children who get the
+> extra holding return to where they were within a week or two of getting well.
+
+> ⚠️ **Safety:** Balloons are the worst choking hazard in this house for an
+> 8-month-old, whole or burst, and a burst piece moulds to the airway where
+> nothing can shift it. Keep the spares in your pocket, count them out and
+> count them back in, and bin any that split. Run the cold in first and test
+> the water on your wrist before her finger goes near it, because a hot tap on
+> its own will scald. At the pool stay within arm's reach of both of them, and
+> that means arm's reach and not eyeline.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-41"></a>
+
+## 🌟 Day 41: Five Kinds of Bread 🌟
+**📅 Wednesday, February 10, 2027**
+**Theme:** Little Bakery
+
+### 🌙 Prep Tonight
+> Make tomorrow's dough before bed (500 g strong flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil) and leave it covered in the fridge, or buy a pack instead.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Numbering the Plates
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Which Bread Wins (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: One Slow Lap of the Block (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Bakery Window (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Bread Bin
+- **4:15–5:00 PM** — Quiet Play: Drawing Alone at the Window
+- **5:00–5:45 PM** — 🛁 Wind-Down: Early Bath, Long Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Numbering the Plates
+
+**🧰 You need:** 5 plates · 1 marker or 5 sticky labels · the five breads · a bread knife (**adult**).
+
+1. Lay the five plates in a row and let her put a number on each. Write yours underneath hers if the numbers come out as shapes.
+2. You cut and she plates. One piece of each bread onto its own numbered plate, each piece the size of a bite.
+3. Cover the whole row with a tea towel and walk away. She will lift the corner twice before nine.
+
+### 🎨 The Main Event: Which Bread Wins
+
+**🧰 Complete Materials List:**
+- Five breads: sliced white, a seeded roll, a bagel, a pita or tortilla, a crumpet or muffin
+- 5 plates and a marker for the numbers
+- 1 butter knife
+- A cup of water
+- Paper and crayons for the chart
+- Stickers if you have them
+
+**📝 Step-by-Step Instructions:**
+1. Sit her down with the row in front of her and the cup of water beside it.
+2. Plate 1 first. One bite, chew, a mouthful of water, then talk about it before plate 2 comes near her.
+3. Ask what her tongue found. Soft, crunchy, holey, chewy, seedy. Write her word next to the number, and hers will include *spiky* and *like a pillow*.
+4. Work along to plate 5 with water between each one. No doubling back until the row is finished.
+5. Hand her the stickers or a crayon. Every bread she would eat again gets a mark, as many as she likes.
+6. Count the marks together and say the winner out loud, then eat the rest of it with yesterday's butter.
+
+> 💡 **Tip:** Give your own answers as you go and say so when yours differ from hers. A tasting where the adult has a favourite stays a conversation.
+
+### 🌳 Get Outside: One Slow Lap of the Block
+
+Walk the block at her pace, which turns a five-minute loop into twenty, and
+let her set every stop. This is the week the buds show on the hedges, hard
+little points on bare stems, so put her fingers on one and then on a bare
+stem. Count the front doors down one side and look over every wall for the
+first green thing in anybody's garden.
+
+> 👶 **Infant Integration:** Kreston is 8 months and he gets his own plate at
+> the end of the row. Soft white bread with the crust off, torn into
+> thumb-sized pieces, and he sits upright at the table with you in front of
+> him. He rakes food in with a whole fist, so expect most of the plate down his
+> front.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Bakery Window
+
+The front window faces the street. Fill it from the inside and the house reads
+as a bakery to anyone walking past.
+
+**🧰 Complete Materials List:**
+- Paper, 6–8 sheets
+- Crayons or felt tips
+- Scissors (**adult**)
+- Tape
+- The front window
+- A marker for the shop name she chooses
+
+**📝 Step-by-Step Instructions:**
+1. Lay the paper out and start with loaves. Show her the long shape and the round shape once each, then leave her to it.
+2. Buns, plaits, cakes with something on top. Big drawings work better in a window than accurate ones.
+3. Cut each one out along her line while she draws the next. She fills sheets faster than you can cut.
+4. Ask her the name of the shop. Write it across a sheet in fat marker, saying each letter as you make it.
+5. Tape the sign up first, top of the window, facing out to the street.
+6. She decides where every item goes and you do the taping. Put a row at her eye level.
+7. Coats on, out onto the pavement, and stand across the road looking back at the house. It takes four minutes.
+
+> 💡 **Tip:** Facing out means the drawings are backwards from the inside. Say so before she notices, and let her draw two of one thing so there is one pointing each way.
+
+### 🎯 Afternoon Alternatives
+- The fridge door instead of the window, and no cutting out.
+- One big drawing of the whole shop on the back of a cereal box.
+- Cut bread pictures out of a supermarket magazine and put those up.
+
+### 🌳 Out Again: **Pick one**
+- **The church hall playgroup**, and she can tell somebody about the window
+- The library, if the hall is shut this week
+- Soft play, if the playgroup crowd is more than either of you wants
+- A walk past the front of the house so she sees her own window from the street
+- The shops for tomorrow's cinnamon, chosen and carried by her
+
+> 👶 **Kreston's Afternoon:** Kreston stays on you at playgroup longer than he
+> did in January. Stranger wariness is at its peak and a hall of unfamiliar
+> adults at knee height is the thing it exists for. Find a corner with a mat
+> and sit there rather than passing him round. He lets go once the hall has
+> stopped being new.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Boredom on the mend is a good sign, and a useful one.**
+> Two days flat on the sofa with a virus, and then Azlyn starts complaining
+> that there is nothing to do. That complaint is the first clean signal her
+> body has finished the job. It is also the most useful hour of your week: a
+> child with nothing arranged has to reach for her own idea, and the reaching
+> is the whole skill. Sit with the whining for ten minutes without solving it.
+> Suggest nothing and carry on with what you were doing. Most of the time she
+> starts something you would never have thought of, and it holds her twice as
+> long as anything you set up.
+
+> ⚠️ **Safety:** No honey for Kreston before he is one. Infant botulism is rare
+> and serious, and honey turns up in seeded loaves, malted bread and crumpet
+> toppings, so read the bag. Seeds, crusts and torn bagel are all choking-sized
+> for him at 8 months, so his plate is soft white with the crust off and
+> nothing else.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-42"></a>
+
+## 🌟 Day 42: Delivery Day 🌟
+**📅 Thursday, February 11, 2027**
+**Theme:** Little Bakery
+
+### 🌙 Prep Tonight
+> Stand 75 g of butter out to soften beside the dough, and put whatever card and coloured paper you own somewhere findable for next week.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Cinnamon Butter
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Swirl Buns (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Walking the Round Empty-Handed (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Four Boxes (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Crumb Sweep
+- **4:15–5:00 PM** — Quiet Play: The Spare Box
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath, and the Last Bun
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Cinnamon Butter
+
+**🧰 You need:** soft butter, 75 g · sugar, 75 g · ground cinnamon, 2 tsp · 1 small bowl · 1 fork · her cookbook from Saturday.
+
+1. Stand her cookbook open at the butter page and let her find the word. Butter, sugar and cinnamon into the bowl, and she mashes it to a brown paste.
+2. Let her smell the bowl, then the jar on its own. The jar is sharper and she will pull a face.
+3. Cover it and leave it on the side. Wash the fork before the mixture sets.
+
+### 🎨 The Main Event: The Swirl Buns
+
+**🧰 Complete Materials List:**
+- Bread or pizza dough, made last night, or a shop-bought pack
+- Flour for the table
+- 1 rolling pin
+- The cinnamon butter from 8:00
+- A length of dental floss, or a table knife
+- 1 round tin or a baking tray
+- Oven gloves
+
+**📝 Step-by-Step Instructions:**
+1. Flour the table and roll the dough into a rectangle the size of a tea towel. She leans on the pin, you finish the corners.
+2. She spreads the cinnamon butter to the edges with the back of a spoon. All of it goes on.
+3. Roll it up from the long side into a tight log, her hands on top of yours.
+4. Slide the floss under the log, cross the ends and pull. Cut twelve and let her count them into the tin.
+5. Space them with room to grow, cover, and leave them somewhere warm for forty minutes.
+6. Bake at 190°C for twenty-five minutes until the tops brown. Out and cooling by half eleven.
+
+> 💡 **Tip:** Cut the log with floss. A knife squashes the spiral flat, and the spiral is why she is up on that stool.
+
+### 🌳 Get Outside: Walking the Round Empty-Handed
+
+Walk the delivery round before there is anything to deliver. Stop outside each
+house, say who lives there and let her say it back and pick the door out.
+February gardens give her nothing to go on, so use what stands out: the red
+door, the van, the cat in the window.
+
+> 👶 **Infant Integration:** Kreston is 8 months and follows the smell of the
+> oven across the floor now. Put him in the high chair with the scraped-out
+> cinnamon bowl and a wooden spoon, near enough to watch her roll. He bangs
+> them together and looks at you to see whether that was allowed.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Four Boxes
+
+Twelve buns, four names, four boxes, and she decides what goes where.
+
+**🧰 Complete Materials List:**
+- 4 small boxes or paper bags from the recycling
+- Crayons and a marker
+- Tape
+- Paper for the labels and a card each
+- String
+- Baking paper to line them
+- The cooled buns
+
+**📝 Step-by-Step Instructions:**
+1. Lay the boxes out and let her pick one for each person, saying the names aloud.
+2. She colours each box for the person it is going to. The neighbour's takes twice as long.
+3. Write the names big on the labels while she watches, saying the letters. She tapes each onto the right box.
+4. Cut a card for each and let her make her mark inside. Ask what it says and write her words underneath.
+5. Line the boxes with baking paper and load them, two buns each. She decides who gets the biggest, and the last four stay here.
+6. Tie the string round and knot it, her hands over yours.
+7. Deliver at two o'clock on the round you walked this morning. She carries one box to the door and hands it over. Stay two steps back.
+
+> 💡 **Tip:** Ring the bell and say nothing. She has rehearsed this all morning and she will get the words out if the gap is long enough.
+
+### 🎯 Afternoon Alternatives
+- Paper bags instead of boxes, and stop after the names go on.
+- One box for one person, and a longer walk to get there.
+- Post the cards through the doors and keep the buns.
+- Draw the round as a map on a flattened box, houses in order.
+
+### 🌳 Out Again: **Pick one**
+- **The charity shop**, and she has fifty pence of her own for one thing off the shelf
+- The rest of the delivery round, if this afternoon ran long and there are doors left
+- The park on the way home, with a bun in a bag
+- The corner shop, and she hands over the money for the milk
+- A walk to the postbox with a card for somebody too far to deliver to
+
+> 👶 **Kreston's Afternoon:** Kreston does the round in the pram, wrapped, with
+> the boxes at his feet. At 8 months a door opening onto a new face is the
+> entire event, so give him a second at each one. In the charity shop keep him
+> on you, since the aisles are narrow and the shelves sit at grab height.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **On the days you use this page instead of the plan.**
+> Some mornings the plan is wrong. He was up four times, she is off, and the
+> page is asking for an oven and ninety minutes. Do one thing off the Afternoon
+> Alternatives instead, or none of it, and put a film on. A day where Azlyn
+> ate, got outside for twenty minutes and had you within reach is a day that
+> did her good, and the research on early childhood keeps landing there: warm,
+> responsive, unhurried adults matter more than the activities they run. The
+> book is a menu on those days, written by somebody who was not in the room.
+
+> ⚠️ **Safety:** The floss and the string go back in the drawer the moment the
+> cutting and the tying are done. A loose length of either is a strangulation
+> risk at 8 months and Kreston is on the floor all afternoon. The tin comes out
+> of a 190°C oven, so stand it at the back of the counter where he cannot pull
+> it down, and give it an hour before anyone lifts it bare-handed. Put Azlyn on
+> the stool for the rolling rather than a dining chair, since she leans her
+> whole weight onto that pin.
+
+<div style="page-break-after: always;"></div>
+<a id="week-7"></a>
+
+## Week 7: Love & Friendship 💌
+**📅 February 12 – February 18, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Everything Azlyn makes this week has somebody's name on it. Bread for next
+door on Friday, a Danish letter signed with dots instead of a name on
+Saturday, eight crooked cards on Sunday, a necklace measured against a real
+neck on Monday. The letterbox goes up by the front door on the first day and
+stays shut until Thursday, when she tips six days of post onto the floor,
+sorts it into piles and walks it round the street herself.
+
+Valentine's Day lands on the Sunday and gets the full day: hearts torn by
+hand, cards she glues without your help, and a table she sets for everyone in
+the house. Presidents' Day on Monday means a busier duck pond and not much
+else. The rest of the week runs on paper, flour and tape.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Fine-motor work with a point to it.** Threading forty pasta tubes, folding and snipping paper lace, buttering a whole slice of bread.
+- **Counting that changes the outcome.** Three stamps on a parcel, one plate per person, five dots for the five letters in her name.
+- **Choosing for somebody else.** She names the recipient first, then works out what that person would like, which is hard at three and gets easier with practice.
+- **Handling food she has opinions about.** Kneading dough, tearing lettuce, peeling satsumas, cutting cucumber into sticks with a blunt knife.
+- **Waiting when the wait is visible.** A timer set for 9:15, a dough that rises on its own schedule, a letterbox that stays shut until Thursday.
+
+---
+
+### 👩 What You'll Learn
+
+- Waiting for dough to rise is a better lesson than the bread
+- Celebrating other people's holidays does something specific
+- Ugly is fine. Ugly is better
+- Seeing the finish line is what builds persistence
+- Handling food is how picky eating loosens
+- Pretend play is where numbers stop being recitation
+- Naming the recipient at the start changes the whole activity
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] White paper, 30 sheets
+- [ ] Red or pink paper, 4 sheets
+- [ ] Cereal boxes, flattened, 3
+- [ ] Thick card, 1 sheet, for the post office sign
+- [ ] Shoeboxes with lids, 2 (the letterbox Friday, the till Wednesday)
+- [ ] A small box for the real parcel
+- [ ] Old magazines and junk mail, a stack
+- [ ] Newspaper, a stack
+- [ ] Brown paper, or a big paper bag to cut open
+- [ ] Paper bags, 2, for the rolls
+- [ ] Envelopes, 8, plus one old one to cut stamps from
+- [ ] Sticky labels
+- [ ] Crayons
+- [ ] Permanent markers, 2
+- [ ] Washable poster paint and a fine brush (if the spoon gets painted)
+- [ ] A pencil and a pen
+- [ ] Child-safe scissors
+- [ ] Heavy scissors or a craft knife (adult only)
+- [ ] Masking tape, 1 roll
+- [ ] Sticky tape
+- [ ] Parcel tape
+- [ ] A glue stick
+- [ ] String, 3 metres
+- [ ] A shoelace, or more string
+- [ ] One large bead
+- [ ] Ribbon, a scrap
+- [ ] Clothes pegs, 8
+- [ ] A bulldog clip
+- [ ] Strong white bread flour, 500 g, plus extra for the table
+- [ ] Fast-action yeast, 1 sachet (7 g)
+- [ ] Salt and sugar
+- [ ] Oil, 1 tbsp
+- [ ] Bread, 6 slices, plus more for the butter
+- [ ] Butter or cream cheese
+- [ ] Double or heavy cream, 300 ml (single will not turn)
+- [ ] Cheese, 4 slices
+- [ ] A lettuce or a bag of salad
+- [ ] Half a cucumber
+- [ ] 1 banana
+- [ ] 2 satsumas and a soft pear
+- [ ] Dried pasta tubes, 200 g
+- [ ] Food colouring, 3 colours
+- [ ] White vinegar
+- [ ] Freezer bags, 3
+- [ ] Biscuits, for the forfeits
+- [ ] Plain flour, butter, sugar, currants and an egg for the Welsh cakes
+- [ ] Jam jars with tight lids, 2
+- [ ] A clean marble or a coin for the jar
+- [ ] A sieve
+- [ ] A small pot or ramekin with a lid
+- [ ] Baking trays, 2, and baking paper
+- [ ] A large mixing bowl
+- [ ] Small bowls, 3
+- [ ] 4 plates and a chopping board
+- [ ] Blunt table knives, 4
+- [ ] Cutlery and a plate for everyone at Sunday dinner
+- [ ] Tea towels, 2
+- [ ] Napkins or kitchen roll
+- [ ] Two flannels you can get wet
+- [ ] Kitchen scales, or a coat hanger and 2 yoghurt pots
+- [ ] A timer
+- [ ] A real coin to draw round, and change for the shop and the post office
+- [ ] A candle in a stable holder, or a battery tealight
+- [ ] A plain wooden spoon
+- [ ] A laundry basket
+- [ ] An old bed sheet or blanket
+- [ ] A large cushion
+- [ ] A broom and a dustpan
+- [ ] A washing-up bowl and 2 plastic cups
+- [ ] 6 books she can carry from one room to another
+- [ ] A shopping bag or a basket
+- [ ] The postal address for Wednesday's parcel, written out large
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, this is the week the house makes things and gives them away, and
+> every delivery on the list has you standing two steps back on somebody's
+> doorstep while she does the talking. I know what the fourth knock costs.
+> Valentine's Day lands on the Sunday and eight crooked cards get glued that
+> morning, half of them for you. Keep one somewhere I can find it in December.
+> Kreston is eight months and wants whoever is holding him, so most of this
+> happens with one arm. The spoon she makes on Thursday has a name down the
+> handle. I have a guess whose.
+
+---
+
+> 👶 **Kreston is 8 months this week**. He crawls or shuffles after whatever he
+> wants, bangs two things together on purpose, and turns his face into your
+> shoulder when a stranger leans over the pram.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-43"></a>
+
+## 🌟 Day 43: Bread for Next Door 🌟
+**📅 Friday, February 12, 2027**
+**Theme:** Love & Friendship
+
+### 🌙 Prep Tonight
+> Mix the bread dough tonight (flour, yeast, salt, sugar, warm water, oil), knead it for five minutes, cover the bowl and leave it in the fridge to rise overnight.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Dough That Has to Wait
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Rolls for the People Next Door (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Delivering While It's Still Warm (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Letterbox by the Door (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Bread Basket
+- **4:15–5:00 PM** — Quiet Play: Posting Things Into the Letterbox
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Book About Friends
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Dough That Has to Wait
+
+**🧰 You need:** the risen dough in its bowl · extra flour · a timer · an envelope and a pen.
+
+1. Take the bowl out of the fridge and set it on the table in front of her. Lift the cloth and let her press one finger in. The dent stays where she put it.
+2. Ask how many rolls she thinks are in there. Write her number on the back of the envelope and prop it against the bowl.
+3. Flour the table and set the timer for 9:15. The dough is warming up and nobody touches it until the timer goes. She will check it four times.
+
+### 🎨 The Main Event: Rolls for the People Next Door
+
+**🧰 Complete Materials List:**
+- 500g strong white bread flour
+- 1 sachet (7g) fast-action yeast
+- 1 tsp salt, 1 tsp sugar
+- 300ml warm water
+- 1 tbsp oil
+- 1 large mixing bowl
+- 1 tea towel
+- 2 baking trays and baking paper
+- Extra flour for the table
+- 2 paper bags
+- Crayons
+
+**📝 Step-by-Step Instructions:**
+1. Tip the dough onto the floured table and let her drive both fists into it until it goes back down to the size it started. This is the loud part and it lasts as long as she wants.
+2. Cut it into twelve pieces. She rolls each one under a flat palm into a ball. The lumpy ones bake the same as the round ones.
+3. Six to a lined tray, two fingers apart, tea towel over the top. Somewhere warm for forty minutes.
+4. While they prove she draws on the two paper bags. Say the neighbours' names out loud so she knows where each bag is going.
+5. Oven at 425°F. Bake fifteen minutes, until the tops are brown and the bottom of one sounds hollow when you knock it. Out around 10:25.
+6. Three warm rolls into each bag at snack time. She eats one of the other six while she loads them.
+
+> 💡 **Tip:** Count the finished rolls against the number on the envelope before they go in the oven.
+
+### 🌳 Get Outside: Delivering While It's Still Warm
+
+Coats on over the flour. Go while the paper is still warm, next door first and
+the second house after. She carries both bags herself. She knocks, she holds
+the bag out, she says who made them. February wind pulls the heat out of
+bread in about ten minutes, so knock on both doors first and do the rest of
+the walk afterwards.
+
+> 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
+> on purpose now, so give him a wooden spoon and an upturned plastic bowl on
+> the kitchen floor while the rolls prove. On the doorstep, hold him facing
+> you. Stranger wariness lands hard around eight months, and a neighbour
+> leaning in gets a shoulder and a hidden face.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Letterbox by the Door
+
+Everything Azlyn makes this week needs somewhere to go until Thursday. The
+letterbox goes up by the front door this afternoon.
+
+**🧰 Complete Materials List:**
+- 1 cereal box or shoebox with a lid
+- Heavy scissors or a craft knife (**adult only**)
+- 1 roll masking tape
+- 1 permanent marker
+- Paper, 6 sheets
+- Crayons
+- A bulldog clip or more tape to hang it
+
+**📝 Step-by-Step Instructions:**
+1. Cut the slot in the lid: a long rectangle wide enough for a folded sheet and her whole hand. Your job, with her holding the far end steady.
+2. Tape the lid on all the way round so the slot is the only way in.
+3. Cover the box in paper and hand her the crayons. Every side is hers. Ask what a post box needs written on it and write down her words.
+4. Hold it against the wall by the front door and let her say when the height is right. Tape or clip it there.
+5. First post: she draws one thing for each person in the house, folds them, posts them. Nobody looks.
+6. Say the rule out loud once: it stays shut until Thursday, and anything she makes for Thursday goes in it. Some things go straight to somebody's door the same day, and you say which.
+7. Mark Thursday on the calendar and count the days with her.
+
+> 💡 **Tip:** Hang it low. A letterbox she has to ask for help with turns into your letterbox by Sunday.
+
+### 🎯 Afternoon Alternatives
+- A paper bag taped to the wall does the same job in four minutes.
+- One card for one person, posted through their real door instead.
+- Sort the junk mail into a pile for everyone in the house.
+
+### 🌳 Out Again: **Pick one**
+- **A café**, cake and a window to watch the street through
+- The corner shop for a book of stamps, and she hands the money over
+- Back to the neighbour's, if the door opened and the kettle went on
+- The playground, if a morning at the table has left her wound up
+
+> 👶 **Kreston's Afternoon:** He is crawling now and the floor belongs to him,
+> so give him the offcut lid and a crumpled sheet of the covering paper, both
+> too big for his mouth. At the café keep him in the carrier facing you. At
+> eight months a stranger's face over the pram gets a reaction, and he settles
+> faster with yours in front of him.
+
+### 🌍 Around the World: Wales and the Love Spoon 🥄
+
+In Wales a young man carved a wooden spoon for the person he was courting and
+handed it over as a way of saying so without saying it. The symbols carry the
+message: a heart for love, a key for a home, a chain for years together, beads
+for children. They hang on kitchen walls now.
+
+> **✨ Try it:** Make Welsh cakes. Rub butter into flour and sugar, add
+> currants and an egg, roll out, cut rounds and cook them on a dry pan for
+> three minutes a side. Azlyn cuts the rounds.
+
+> *Did you know?* The oldest Welsh love spoon anyone has found is dated 1667.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Waiting for dough to rise is a better lesson than the bread.**
+> Azlyn spent an hour this morning with something she wanted to touch and could
+> not, and she managed it. Children hold out longer when the wait has a visible
+> marker (a timer, a bowl on the table, a dent that stays) and when the adult
+> who set the terms has kept them before. Researchers who repeated the
+> marshmallow test found that reliability of the grown-up moved the results more
+> than willpower did. You said 9:15 and you meant 9:15, so the next wait costs
+> her less. Yeast is a good teacher because it cannot be hurried by anyone.
+
+> ⚠️ **Safety:** The oven is on and the trays come out at her head height. Say
+> so out loud every time you open the door, and keep Kreston out of the kitchen
+> while trays are moving. Raw dough and hot rolls go where he cannot reach
+> them. The craft knife goes back on a high shelf between cuts.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-44"></a>
+
+## 🌟 Day 44: A Letter from Denmark 🌟
+**📅 Saturday, February 13, 2027**
+**Theme:** Love & Friendship
+
+### 🌙 Prep Tonight
+> Put five sheets of white paper, the child-safe scissors and a pencil on the table, and check whether the envelope you want to use is somewhere you can find at eight in the morning.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Practice Snowflakes
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Letter Nobody Signs (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Looking for the First Snowdrops (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Letters She Hides (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Napkins
+- **4:15–5:00 PM** — Quiet Play: Snipping the Offcuts
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Paper Lace in the Window
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Practice Snowflakes
+
+**🧰 You need:** white paper, 3 sheets · child-safe scissors.
+
+1. Fold a sheet in half, then in half again. Show her the folded corner and tell her that corner is the middle of the paper.
+2. She snips lumps out of the folded edges. Do not pencil any guidelines on it.
+3. Open it out together. Do two more and let her work out that snipping the folded edge makes the holes. The fourth sheet is the real one and it happens at 9:15.
+
+### 🎨 The Main Event: The Letter Nobody Signs
+
+Danish children send a *gækkebrev* in the weeks before Easter: paper lace, a
+rhyme, and dots instead of a name.
+
+**🧰 Complete Materials List:**
+- White paper, 5 sheets
+- Child-safe scissors
+- 1 pencil
+- Crayons
+- 1 envelope, or a sheet folded and taped shut
+
+**📝 Step-by-Step Instructions:**
+1. Fold the good sheet the way she practised. She snips it, you keep your hands off it.
+2. Open it out flat and look at it in the window before you write on it.
+3. Ask her what the letter should say and write her rhyme in the middle of the lace. If she stalls, offer her the shape and let her fill it: *I made this, I made this thread, guess my name and get the bread.* Take whatever she gives you.
+4. Count the letters in her name on your fingers. Five. She draws five dots along the bottom of the letter.
+5. Colour the lace if she wants it coloured. Fold it into the envelope and seal it.
+6. It goes on the walk to the neighbours who got the bread yesterday, with nobody's name on the front.
+
+> 💡 **Tip:** The dots are the whole game. Let her tell three people that the letter is secret.
+
+### 🌳 Get Outside: Looking for the First Snowdrops
+
+Snowdrops are up by the middle of February, in the shade under hedges, along
+walls, at the edge of the churchyard. Look low and look for white. Hazel
+catkins are out too, and she can flick one to see the pollen come off. Post
+the letter on the way past, then pick two snowdrops with permission, or a
+green sprig if the flowers are all on somebody's land.
+
+> 👶 **Infant Integration:** Kreston is 8 months. Give him a sheet of
+> greaseproof paper too big to go in his mouth and let him crush it with both
+> hands, while the small snipped offcuts stay up on the table. Outside, crouch
+> the pram down to the snowdrops and hold one for him to swipe at.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Letters She Hides
+
+Three more letters, one for each person in this house, each hidden somewhere
+its owner has to find it.
+
+**🧰 Complete Materials List:**
+- The morning's letter as the model
+- White paper, 4 more sheets
+- Child-safe scissors
+- Crayons
+- Sticky tape
+- The snowdrop or green sprig from the walk
+- One small forfeit: a biscuit or an extra bedtime story
+
+**📝 Step-by-Step Instructions:**
+1. Fold and snip three letters. They come out faster now and better, which she will notice on her own.
+2. Five dots along the bottom of each one. She counts them out loud every time.
+3. Tape the snowdrop or the sprig inside one of them, the way the Danish letters carry one.
+4. Walk the house and pick the hiding places with her: inside a shoe, under a pillow, on a shelf in the fridge. Let her choose the daft ones.
+5. Set the terms before anybody hunts. Guess who sent it and Azlyn owes you a biscuit. Guess wrong and you owe her one.
+6. Send each person to find theirs. She watches the whole thing and gives no clues, which will take everything she has.
+7. Guessing happens at dinner. Pay the forfeits then, out loud, whoever won.
+
+> 💡 **Tip:** Guess wrong on purpose once, then pay up in front of her. A rule that costs you something is a rule she believes in.
+
+### 🎯 Afternoon Alternatives
+- One letter for Joseph, hidden in his shoe, and stop there.
+- Snip the offcuts into confetti and sweep it up together.
+- Tape the paper lace to the window and look through it at the light.
+- Draw round her hand five times and cut out the hands instead.
+
+### 🌳 Out Again: **Pick one**
+- **A train ride**, two stops out and two stops back, and she holds the tickets
+- The station platform on its own if the ride is too much today
+- A drive to look at the snowdrops in the churchyard
+- Soft play, for a Saturday that has been quiet and indoors
+- The park with the long path, on the bikes
+
+> 👶 **Kreston's Afternoon:** Take him on the train. At 8 months the window is
+> the whole trip, and he tracks a passing fence post to the edge of his vision
+> and hunts for it again. Sit him on your lap facing the glass. If the
+> carriage is full and somebody friendly leans in, turn him toward you without
+> apologising for him.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Celebrating other people's holidays does something specific.**
+> Azlyn is three, which is the age children start sorting people into groups and
+> attaching feelings to the sorting. A Danish letter cut on your own table
+> arrives before any of that hardens. She is doing a Danish thing with her
+> own hands, and at three the doing is the version that sticks. The
+> custom turns ordinary because she has one in her own hands, snipped by her,
+> hidden by her. Keep them small and keep them practical, a letter, a loaf,
+> a song, and the message underneath is that families elsewhere are
+> families, getting on with their own ordinary week.
+
+> ⚠️ **Safety:** Snowdrops are poisonous. The one Kreston swipes at stays in
+> your hand, and the taped one goes inside a letter on a shelf he cannot reach.
+> Snipped offcuts and paper confetti are mouth-sized, so sweep the floor before
+> he is down on it, and keep the greaseproof sheet whole. Scissors go back to
+> you between letters.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-45"></a>
+
+## 🌟 Day 45: The Wonky Valentines 🌟
+**📅 Sunday, February 14, 2027**
+**Theme:** Love & Friendship
+
+### 🌙 Prep Tonight
+> Flatten two cereal boxes, cut eight rectangles and fold them into cards, and put out the junk mail, the glue stick and a wet flannel.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Hearts Torn by Hand
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Cards She Makes Herself (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Hunt for Red Things (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Table She Decorates (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Carrying the Plates Through
+- **4:15–5:00 PM** — Quiet Play: The Leftover Hearts
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Card Pile
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Hearts Torn by Hand
+
+**🧰 You need:** old magazines and junk mail · a few sheets of red or pink paper.
+
+1. Fold a page in half and tear half a heart along the fold, no scissors and no pencil line. Open it.
+2. Hand her the pile and let her tear. Yours will look like hearts, hers will look like tools and animals, and both go in the box.
+3. Aim for twenty and stop when she stops. They supply 9:15 and this afternoon, so tear more than you need.
+
+### 🎨 The Main Event: The Cards She Makes Herself
+
+**🧰 Complete Materials List:**
+- Thin card or cereal-box card, 8 pieces folded in half
+- The torn hearts from this morning
+- 1 glue stick, or flour-and-water paste in a saucer
+- Crayons
+- 1 marker for the words she dictates
+- Old magazines or junk mail to tear up
+- 1 wet flannel
+
+**📝 Step-by-Step Instructions:**
+1. Line the eight blank cards up and ask her who each one is for. Write the name on the back of each one.
+2. She glues. Hearts upside down, hearts over the edge, four hearts on one card and none on the next. Keep your hands in your lap.
+3. Crayons after the glue. She scribbles across the hearts and it is meant to look like that.
+4. Card by card, ask what it should say. Write down what comes out, word for word, and sign it with her name in her own attempt at letters.
+5. Anything she wants to add after you have written on it goes on. The card is finished when she says it is.
+6. Stack them by the letterbox. Half go in it now, half get handed over in person this afternoon.
+
+> 💡 **Tip:** You will want to straighten one heart. Sit on your hands. She can see the difference between what she made and what you made.
+
+### 🌳 Get Outside: The Hunt for Red Things
+
+Cold and bright, and everything outdoors in February is brown, so red carries
+a long way. Count what you find: a post box, a front door, holly berries and
+rose hips on the stems, brake lights, somebody's scarf, a red car. On the way
+home she picks the reddest thing on the street and tells you why.
+
+> 👶 **Infant Integration:** Kreston is 8 months and holds one thing in each
+> hand while looking at a third. Give him a red scarf and a red plastic lid on
+> the floor near the gluing and he will bang one on the other. Keep the torn
+> scraps up on the table. Outside, hold a red leaf or a berry stem where he
+> can see it in the pram.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Table She Decorates
+
+She dresses the table before anybody eats at it. Everything on it is hers to
+place, including who sits where.
+
+**🧰 Complete Materials List:**
+- 3 metres of string
+- Clothes pegs or masking tape
+- The leftover torn hearts, plus more paper
+- 1 marker
+- Napkins or kitchen roll
+- 1 jam jar and whatever is growing outside
+- Cutlery and plates for everyone
+- 1 candle in a stable holder, or a battery tealight
+
+**📝 Step-by-Step Instructions:**
+1. Tape the string along the front edge of the table, low, and let her peg the hearts along it. Spacing is hers, so expect eleven at one end.
+2. One torn heart per person becomes a place card. She writes the names, you write them underneath in small letters.
+3. She decides who sits where and puts the cards down. Do not move them, even the one that puts Kreston at the head of the table.
+4. Fold the napkins into triangles and let her do the second half. Triangles are hard at three and she gets better inside ten napkins.
+5. Fill the jam jar outside: bare twigs, ivy, a sprig of something evergreen. February gives you a green centrepiece and no flowers.
+6. Cutlery last, one setting at a time, walking round the table with a fistful.
+7. Light the candle at six, in front of her, and put it in the middle where nobody can knock it.
+
+> 💡 **Tip:** Take a photo of the table before anyone sits at it. She sees the whole thing at once in the picture.
+
+### 🎯 Afternoon Alternatives
+- Place cards only, no garland, and let the rest go.
+- Draw round every plate on paper and make paper placemats.
+- Set the table for the teddies on the floor instead.
+
+### 🌳 Out Again: **Pick one**
+- **A long walk with the pram**, the whole loop, and hand out the other four cards on the way
+- The duck pond, if the far path is not too churned up
+- A drive to somebody's house to deliver a card at the door
+- The woods loop, for greenery for the jam jar
+
+> 👶 **Kreston's Afternoon:** Give him a napkin. At 8 months, cloth that
+> disappears and comes back is a joke he understands, so drop it over your
+> face and let him pull it off, again, and again. At dinner he sits at the
+> table with his own place card.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Ugly is fine. Ugly is better.**
+> Eight cards, no straight lines, and a heart glued half off the edge. The
+> version where you tidied them would look better on the mantelpiece and would
+> teach her something you would rather she did not learn, which is that her
+> work arrives at an adult for correction. Children who own the whole job stay
+> with it longer and come back to it, and the ones whose work keeps getting
+> improved start asking an adult to do it before they try. She knows which
+> marks are hers. Hand the wonky ones over as they are and let the people
+> receiving them see her handwriting.
+
+> ⚠️ **Safety:** A lit candle sits in the middle of the table, out of arm's
+> reach of a high chair, and it goes out before anyone leaves the room. A
+> battery tealight does the job if that sounds like work tonight. Take the
+> string garland down at bedtime. Loose string at toddler height is a
+> strangulation risk and it does not stay up overnight.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-46"></a>
+
+## 🌟 Day 46: The Long Necklace 🌟
+**📅 Monday, February 15, 2027**
+**Theme:** Love & Friendship
+
+### 🌙 Prep Tonight
+> Dye the pasta: 200g of tubes split between three freezer bags, a tablespoon of vinegar and a squeeze of food colouring in each, shake, then spread on a lined tray to dry overnight.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Marking Where It Ends
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Necklace with a Finish Line (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Lifting the Ice Off the Puddles (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Jobs That Need Two People (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Matching the Socks
+- **4:15–5:00 PM** — Quiet Play: The Pasta Bowl
+- **5:00–5:45 PM** — 🛁 Wind-Down: Hanging the Necklace Up
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Marking Where It Ends
+
+**🧰 You need:** 1 shoelace or a length of string · sticky tape · 1 large bead or a fat knot.
+
+1. Ask who the necklace is for. Hold the lace round that neck, loose, and let her see where the two ends meet.
+2. Tie the finish knot there, or thread the big bead on and knot it in place. Everything she threads today goes in front of that mark.
+3. Wrap the other end tight in tape until it is stiff as a bootlace tip.
+
+### 🎨 The Main Event: The Necklace with a Finish Line
+
+**🧰 Complete Materials List:**
+- Dried pasta tubes, 200g, dyed the night before
+- Food colouring, 3 colours
+- 1 tbsp vinegar and a freezer bag per colour (night before)
+- 1 shoelace, or string with one end wrapped tight in sticky tape
+- 1 large bead or a fat knot as the finish marker
+- 3 small bowls
+- 1 tray lined with baking paper
+
+**📝 Step-by-Step Instructions:**
+1. Tip the dry pasta into three bowls by colour and put the tray under her work so the runaways stay on the table.
+2. Show her once: lace through the hole, out the other side, down to the knot. Then hand it over and stop demonstrating.
+3. She threads. Say nothing about pattern for the first ten pieces. If she starts a repeat, name it out loud and leave it there.
+4. Every few minutes, hold the lace up and show her the gap between the pasta and the knot.
+5. Around forty pieces the gap closes. Tie the ends together with her finger holding the knot down, and cut the tape off.
+6. She puts it round the neck she measured. Put your phone down and be in the room for it.
+
+> 💡 **Tip:** A dropped piece rolls under the table and she will want to go after it. Hand her a spare from your pocket instead.
+
+### 🌳 Get Outside: Lifting the Ice Off the Puddles
+
+A February morning after a cold night leaves sheets of ice over puddles, the
+water gone from underneath. Slide a boot toe under the edge and lift a whole
+pane out. Hold it to the sky and look through it. Let her drop it, stamp on
+it, listen to it. Find the thickest lid on the street and come back tomorrow
+to see if it survived.
+
+> 👶 **Infant Integration:** Kreston is 8 months. Make him a rattle while she
+> threads: two dyed pasta tubes in an empty water bottle, lid taped on hard.
+> He shakes it, bangs it and rolls it away, then goes after it, which is new
+> this month. Outside, hold a shard of ice near him and let him touch it with
+> one finger.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Jobs That Need Two People
+
+Every job this afternoon is impossible on your own. Holding one end turns out
+to be a job.
+
+**🧰 Complete Materials List:**
+- 1 laundry basket
+- 1 old bed sheet or blanket
+- 6 books to move from one room to another
+- 1 large cushion
+- 1 broom and a dustpan
+- 1 washing-up bowl with two inches of water and 2 cups
+- 1 tea towel
+
+**📝 Step-by-Step Instructions:**
+1. The basket ride first. She sits in the laundry basket with the cushion and you tow it the length of the hall. Then she tows the teddies back.
+2. The sheet. One corner each, walk it across the room without letting it touch the floor, then fold it walking toward each other.
+3. The book relay. Six books from one room to another with a rule: she carries, you open doors, neither of you does both.
+4. Sweeping. You hold the dustpan, she brushes into it, then swap and let her tell you what you missed.
+5. Washing up in the bowl on the floor with two cups. She washes, you dry, then swap. Water gets everywhere and the tea towel is for the floor.
+6. Ask which job was easier with two people.
+7. Finish with the basket again. Eighty minutes of work earns a ride.
+
+> 💡 **Tip:** Do each job wrong on purpose once. Drop your corner of the sheet, miss the dustpan. Her fixing your end is worth more than her doing her end right.
+
+### 🎯 Afternoon Alternatives
+- The basket ride and nothing else, up and down the hall until you give out.
+- Carry the washing basket to the line together, one handle each.
+- Move every cushion in the house into one pile, two hands per cushion.
+
+### 🌳 Out Again: **Pick one**
+- **The duck pond**, busier than usual with everybody off for Presidents' Day
+- The neighbourhood park, on the way back from the pond
+- The green space with a ball, if the ground is not frozen solid
+- A walk past this morning's puddle to see whether the ice came back
+
+> 👶 **Kreston's Afternoon:** He comes on the basket rides on your lap and
+> shouts for more. At 8 months he anticipates a repeat: pause at the top of
+> the hall and he tenses up before you move. At the pond, hold him where he
+> can watch the ducks land.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Seeing the finish line is what builds persistence.**
+> The knot on the lace is doing more work than the pasta. A three-year-old
+> cannot hold an abstract goal in her head for forty minutes, so an unmarked
+> string runs on forever and she wanders off at piece nine. Mark the end and
+> the task turns into something she can watch herself win. Adults use progress
+> bars and mile markers for the same reason: visible progress feeds the effort
+> that produces more of it. She will start telling you how much is left. Use
+> the finish-line trick on the jobs she hates too, and put a mark on the end
+> of the tidying.
+
+> ⚠️ **Safety:** A long string necklace is a strangulation risk. It comes off
+> for sleep, it never goes near Kreston, and it hangs on a hook overnight.
+> Dried pasta on the floor is choking-sized for an 8-month-old who crawls
+> toward whatever he sees, so sweep before he is down.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-47"></a>
+
+## 🌟 Day 47: The Lunch She Made 🌟
+**📅 Tuesday, February 16, 2027**
+**Theme:** Love & Friendship
+
+### 🌙 Prep Tonight
+> Check you have double cream (single will not turn) and put the four blunt table knives, the chopping board and a jam jar with a tight lid on the counter. Take the cream out of the fridge mid-morning.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Washing What Goes on the Plates
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Plates for the People Who Live Here (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Buying the One Missing Thing (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Cream That Turns to Butter (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Butter Dish
+- **4:15–5:00 PM** — Quiet Play: The Tea Set and the Teddies
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Warm Bath After the Pool
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Washing What Goes on the Plates
+
+**🧰 You need:** the cucumber, lettuce and satsumas · 1 bowl of cool water · 1 tea towel.
+
+1. Bowl of water on the table, everything that needs washing beside it, tea towel across her lap.
+2. She washes and dries each item and lines them up. Name each one as it comes out of the water.
+3. Ask who is eating lunch today and count the names on her fingers. That number is how many plates she builds at 9:15.
+
+### 🎨 The Main Event: Plates for the People Who Live Here
+
+**🧰 Complete Materials List:**
+- 6 slices of bread
+- Butter or cream cheese
+- 1 banana
+- 2 satsumas or a soft pear
+- Half a cucumber
+- 4 slices of cheese
+- 1 lettuce or a bag of salad
+- 4 blunt table knives
+- 4 plates and 1 chopping board
+- 1 bowl of warm soapy water and a tea towel
+
+**📝 Step-by-Step Instructions:**
+1. Butter first. Blunt knife, bread flat on the board, and let her go until the whole slice is covered even if it takes four minutes.
+2. Cutting: cucumber into sticks rather than coins, cheese into strips, table knife, her hand on top of yours for the first three.
+3. Tearing is where she is strongest, so give her the lettuce and the bread crusts to tear straight onto the plates.
+4. Peeling the satsumas is a fifteen-minute job at three. Start the skin with your thumbnail and hand it over.
+5. One plate per person, side by side. She decides what goes on whose. Somebody is getting nine cucumber sticks and no bread.
+6. Cover them and put them in the fridge until twelve. She carries them to the table herself at lunch and says whose is whose.
+
+> 💡 **Tip:** Eat what she made in front of her, including the odd plate.
+
+### 🌳 Get Outside: Buying the One Missing Thing
+
+One thing lunch needs is not in the fridge. Walk to the shop for it, no list
+and no trolley. She carries the coins, finds it on the shelf, hands it over
+and takes the change. February pavements are wet and a ten-minute walk will
+take thirty, so leave early.
+
+> 👶 **Infant Integration:** Kreston is 8 months and eats lunch at the same
+> table as everyone else. Give him his own plate with a long strip of banana
+> and a soft strip of pear, both cut as long as his fist so a piece sticks out
+> of the top. He rakes food toward himself and misses. Azlyn can make his
+> plate too, with you checking the shapes.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Cream That Turns to Butter
+
+Ten minutes of shaking and the cream in the jar turns solid.
+
+**🧰 Complete Materials List:**
+- 300ml double cream at room temperature (double or heavy; single will not turn)
+- 1 jam jar with a tight lid
+- 1 clean marble or a coin (optional)
+- 1 sieve and 1 bowl
+- Cold water
+- A pinch of salt
+- 1 small pot or ramekin with a lid
+- Bread and a butter knife
+
+**📝 Step-by-Step Instructions:**
+1. Fill the jar halfway with cream and no further, drop the marble in, screw the lid down hard and check it twice.
+2. Sit her on the carpet and let her shake. Sing something with a beat: rhythm keeps her going twice as long as encouragement.
+3. Pass it round when her arms go. Everybody shakes, and it comes back to her for the last stretch.
+4. Listen for the change. The sloshing stops, the jar goes heavy and quiet, and a lump comes loose in a pool of thin liquid. Open it and look.
+5. Tip it into the sieve over the bowl. The lump is butter, the milk running through is buttermilk, and she keeps it for pancakes tomorrow.
+6. Rinse the butter under cold water, press it with the back of a spoon until the water runs clear, then work in the salt.
+7. Half into a pot with a lid, labelled, by the door to give away. The other half goes on bread now, warm.
+
+> 💡 **Tip:** Check the lid every couple of minutes, out loud, so she sees you check.
+
+### 🎯 Afternoon Alternatives
+- Whip a little cream by hand with a fork and stop at the soft stage.
+- Shake the jar in relay with the teddies lined up waiting their turn.
+- Make pancakes with the buttermilk this afternoon instead of tomorrow.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one
+- The pool's quiet session, if Tuesday afternoon is chaos this term
+- A warm bath at home with cups and jugs, if the pool is shut
+- The library on the way home, half an hour before it shuts
+
+> 👶 **Kreston's Afternoon:** He sits in the water against your chest, slaps
+> the surface and watches the splash he made. Twenty minutes, then out before
+> he cools. Hold him upright with his face level with yours so the pool noise
+> arrives with something familiar in front of it.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Handling food is how picky eating loosens.**
+> Azlyn spent an hour with her hands in food she has strong opinions about, and
+> nobody asked her to taste any of it. That is the useful part. Children who
+> handle, tear, peel and serve unfamiliar food eat more of it later, and the
+> route runs through touch and smell rather than through persuasion at the
+> table. Making a plate for somebody else adds a second thing: she has to think
+> about what Joseph likes, which puts her outside her own preferences for a
+> minute. Keep tasting optional today. The cucumber she cut has a better chance
+> tomorrow than the cucumber you cut.
+
+> ⚠️ **Safety:** A glass jar shaken hard by a three-year-old wants a carpet
+> under it and a lid you check every few minutes. Cucumber coins, cheese
+> rounds and whole grapes are choking-sized for Kreston at 8 months, so
+> everything on his plate is cut into long strips. Blunt table knives only, and
+> they go in the drawer before he is on the floor.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-48"></a>
+
+## 🌟 Day 48: The Post Office 🌟
+**📅 Wednesday, February 17, 2027**
+**Theme:** Love & Friendship
+
+### 🌙 Prep Tonight
+> Wrap six to ten small things in newspaper and tape them into parcels after she is in bed, and cut thirty stamps out of an old envelope.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Stamps, Coins and a Sign
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Post Office on the Table (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Counting the Front Doors (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Real Parcel (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Library** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Counting Out the Forks
+- **4:15–5:00 PM** — Quiet Play: The Post Office, Still Open
+- **5:00–5:45 PM** — 🛁 Wind-Down: Reading What She Chose at the Library
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Stamps, Coins and a Sign
+
+**🧰 You need:** paper · 1 real coin · 1 marker · 1 sheet of card · scissors (yours).
+
+1. She draws round the real coin twenty times and you cut the circles out. Coins done.
+2. Hand her the sheet of card and ask what the sign over the counter should say. Write her words, big, and let her colour every letter in.
+3. Tape the sign to the wall behind the kitchen table. The table is now a post office and it stays one until bedtime.
+
+### 🎨 The Main Event: The Post Office on the Table
+
+**🧰 Complete Materials List:**
+- 6–10 small parcels wrapped in newspaper and taped
+- Kitchen scales, or a coat hanger with a yoghurt pot hanging from each end
+- 30 paper stamps cut from an old envelope
+- 20 paper coins drawn round a real coin and cut out
+- 1 shoebox as the till
+- 1 marker and 1 sheet of card for the sign
+- Masking tape
+
+**📝 Step-by-Step Instructions:**
+1. Set the counter: scales at one end, stamps and coins in the shoebox till, parcels in a heap on the customer's side. She stands behind, you queue in front.
+2. Weigh the first parcel together and read the scales out loud. Turn whatever they say into a price between one and five and write it on the parcel in marker. With the coat hanger, count how many paper coins it takes to tip the pot and use that number.
+3. The rule of the shop: the number on the parcel is how many stamps it needs and how many coins it costs. Say it once, then play it.
+4. Buy a parcel. She counts the stamps out one at a time onto the paper and sticks them down, then counts your coins into the till.
+5. Miscount on purpose. Hand over two coins for a three, and wait. She will catch it.
+6. Swap. You run the counter, she queues with her purse.
+
+> 💡 **Tip:** Weigh two parcels that look wrong: a big light one and a tiny heavy one.
+
+### 🌳 Get Outside: Counting the Front Doors
+
+Walk one street and count every front door you pass. Read out the numbers on
+them and let her spot the letterboxes, the ones in the door and the ones on
+posts. Count the red doors on the way back and compare the two numbers.
+Forty-five minutes is one street and back at her pace, so pick the short side
+of the block.
+
+> 👶 **Infant Integration:** Kreston is 8 months and paper coins are the size
+> he should not have, so give him his own parcel: a scarf pushed into a box he
+> can pull out and stuff back in. Hiding and finding is his whole project this
+> month.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Real Parcel
+
+This box has a real address on it and somebody waiting at the other end.
+
+**🧰 Complete Materials List:**
+- 1 small box
+- Brown paper, or a paper bag cut open and turned inside out
+- Parcel tape
+- Scissors (**adult**)
+- 1 permanent marker
+- Newspaper for padding
+- Her drawings and letters from this week
+- The address written out large for her to copy from
+
+**📝 Step-by-Step Instructions:**
+1. Decide who it goes to before anything goes in the box. Somebody real with a real address, and she names them.
+2. Open the letterbox for the one thing she wants to send, then close it again. Everything else in there waits for Thursday.
+3. Load the box: her drawings, a card from Sunday, a letter with dots on it. Let her crumple newspaper into the gaps and press it all down.
+4. Wrap it in brown paper on the floor, her finger holding the fold while you tape. Corners are hard and hers will be lumpy and taped four times.
+5. Put the address, written out large, beside her. She copies it onto the parcel with the marker. Wobbly, backwards, too big for the box, and it goes in the post like that.
+6. She draws in the space that is left over.
+7. Stand it by the front door with the coats. It goes tomorrow morning and she needs to see it waiting.
+
+> 💡 **Tip:** Write the address once, in capitals, one line under the other.
+
+### 🎯 Afternoon Alternatives
+- Post a card instead of a parcel and let her lick the stamp.
+- Wrap a shoebox in newspaper and post it to somebody in this house.
+- Weigh everything in the kitchen cupboard and line it up lightest to heaviest.
+
+### 🌳 Out Again: **The Library**
+- **The library**, fortnightly, and she chooses her own two books
+- The librarian's story hour, if the timing lands
+- Soft play, if the library is packed after school
+- The post office to see a real counter before tomorrow
+
+> 👶 **Kreston's Afternoon:** Take him to the library and put him down in the
+> board-book corner. At 8 months he crawls to the shelf he wants, pulls one
+> out and chews the corner. Let Azlyn choose his and carry it to the desk.
+> Hold him facing you at the counter. The librarian saying hello may not go
+> down well this month.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Pretend play is where numbers stop being recitation.**
+> Behind a pretend counter Azlyn does arithmetic she will not do on request. The
+> parcel needs three stamps, and three has a consequence: put two on and the
+> customer complains, so she checks herself. Vygotsky watched this and wrote
+> that a child in play behaves a head taller than herself, and the effect shows
+> up in the research on maths play. The frame does the work. Nobody is testing
+> her. She is running a shop, and a shopkeeper who miscounts finds out from the
+> shop, which lands better than a correction from you. Play the customer with a
+> straight face.
+
+> ⚠️ **Safety:** Thirty paper stamps and twenty paper coins end up on the
+> floor, and all of them are mouth-sized for a crawling 8-month-old. Sweep the
+> floor before Kreston is down, and count the coins back into the till when the
+> shop shuts. Scissors and parcel tape stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-49"></a>
+
+## 🌟 Day 49: Delivery Day 🌟
+**📅 Thursday, February 18, 2027**
+**Theme:** Love & Friendship
+
+### 🌙 Prep Tonight
+> Put the wooden spoon, the permanent markers and a scrap of ribbon on the table, and stand the wrapped parcel by the front door with the coats.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Choosing Who It's For
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Wooden Love Spoon (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Posting the Parcel (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Emptying the Letterbox (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Putting Out the Buns
+- **4:15–5:00 PM** — Quiet Play: What's Left in the Basket
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Week's Post, Read Again
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Choosing Who It's For
+
+**🧰 You need:** 1 sheet of paper · 1 pencil.
+
+1. Tell her she is making one thing today and she chooses who gets it. Do not say what it is.
+2. Write the name she gives you at the top of the paper. She sticks with it better once she can see it written down.
+3. Ask one question about that person and write the answer underneath: something they like, or something she does with them. It comes back at 9:15.
+
+### 🎨 The Main Event: The Wooden Love Spoon
+
+Welsh love spoons carry symbols instead of words.
+
+**🧰 Complete Materials List:**
+- 1 plain wooden spoon (or a spoon shape cut from a cereal box)
+- Permanent markers, or washable poster paint and a fine brush
+- 1 scrap of ribbon or string
+- 1 sheet of paper for practising the four symbols
+- 1 pencil
+- Masking tape for the name label
+- 1 wet flannel
+
+**📝 Step-by-Step Instructions:**
+1. Draw the four symbols on the practice paper and say what each means: heart for love, key for a home, knot for staying together, beads for the people in a family.
+2. She copies each on paper first, twice. Hearts come out as blobs and keys as sticks, and both are fine.
+3. Ask which symbols belong on this spoon, for this person. Take her reasons at face value even when the key is on there because the person has a car.
+4. She draws them onto the bowl and the handle. Markers bleed on bare wood, so let the lines go fat.
+5. Write the name she chose at 8:00 down the handle and let her trace over your writing.
+6. Tie the ribbon round the neck of the spoon. Set it somewhere high to dry.
+
+> 💡 **Tip:** Do a spoon yourself alongside her. She watches your hand more than your instructions.
+
+### 🌳 Get Outside: Posting the Parcel
+
+The parcel by the door goes to a real post office this morning. She carries it
+in, hands it up to the counter, watches it go on the scales and hears the
+price. Buying the stamp is her job with your money. A grey February queue is a
+long wait at three, so bring the practice paper and let her draw hearts in the
+line.
+
+> 👶 **Infant Integration:** Kreston is 8 months and works out who is safe by
+> checking your face first. In the post office queue he will look at each
+> stranger, then back at you, then decide. Say the person's name out loud when
+> somebody speaks to him and hold him where he can see your expression.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Emptying the Letterbox
+
+Six days of post comes out on the floor at once.
+
+**🧰 Complete Materials List:**
+- The letterbox from Friday and everything in it
+- Envelopes, or paper and tape
+- 1 marker
+- Sticky labels or masking tape for names
+- 1 shopping bag or basket
+- Coats, boots and gloves
+
+**📝 Step-by-Step Instructions:**
+1. Take the box off the wall, sit on the floor with her and tip the lot out. Let her go through it before anyone sorts.
+2. One pile per person. She decides where each card, letter and drawing belongs, and she will remember more of it than you expect.
+3. Anything with no owner goes in a spare pile. Ask her at the end who those are for.
+4. Fold each pile into an envelope, or a sheet of paper taped shut. She writes a name on every one, with the letters large beside her to copy.
+5. The necklace from Monday and the spoon go in the basket with the envelopes.
+6. Coats on and walk the round: next door, the house with the dog, the friend two streets over, whoever is on her list. She knocks and hands it over herself.
+7. Anything undelivered comes home in the basket for tomorrow. No adult posts anything on her behalf tonight.
+
+> 💡 **Tip:** Stand back on the doorstep. Let her be the one who talks, even when the neighbour looks at you for translation.
+
+### 🎯 Afternoon Alternatives
+- Sort the piles and deliver two of them, not eight.
+- Photograph every piece before it leaves the house.
+- Keep one card back for the memory box.
+- Deliver to the people inside this house and stay indoors.
+
+### 🌳 Out Again: **Pick one**
+- **The bakery**, and she chooses buns for everyone by counting the people
+- The corner shop for milk, with the change in her hand
+- One more delivery street, if the basket is still full
+- The park in the last of the light, for the running she has not done today
+- A friend's doorstep with the last envelope and a cup of tea if it is offered
+
+> 👶 **Kreston's Afternoon:** He gets a pile too, and Azlyn will make sure of
+> it. Sit him in the middle of the sorting. At 8 months he bangs two envelopes
+> together, tears one and gets a fistful in his mouth, so stay next to him and
+> swap the paper for a cloth book. In the carrier for the walk round, facing
+> you.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Naming the recipient at the start changes the whole activity.**
+> Azlyn picked a person at 8:00 this morning before she knew what she was
+> making, and the spoon came out better for it. Effort goes up when the work has
+> a face attached: children this age stick with a task longer and take more care
+> when a specific person is waiting at the other end of it, and the same thing
+> shows up in adults. There is a second thing happening too. Deciding what
+> somebody else would like is perspective-taking, which is hard at three and
+> gets easier with practice on real people she can picture. The name first,
+> then the making.
+
+> ⚠️ **Safety:** A fistful of torn paper is a choking risk. Stay beside Kreston
+> in the sorting pile and swap the paper for a cloth book the moment he starts
+> tearing. Permanent markers stay capped and out of reach between symbols, and
+> the spoon dries somewhere high. On the round she does the knocking and you
+> stand within arm's reach of the kerb.
+
+<div style="page-break-after: always;"></div>
+<a id="week-8"></a>
+
+## Week 8: Art Masters Studio 🎨
+**📅 February 19 – February 25, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Azlyn starts Friday with three pots of paint and no green in the house. She
+mixes six colours before ten, names them herself, and her names run through
+the rest of the week. Saturday she tears and cuts a garden out of the junk
+mail. Sunday everyone in the house sits for a portrait and then gets built
+again in salt dough. Monday goes under the dining table, where she papers a
+cave and paints it with mud and cocoa. Tuesday is wool, weaving and dyed
+pasta. Wednesday she takes the texture off half the street with a crayon,
+posts four of the results to four people and watches at least one door open.
+
+Thursday gathers all of it. She hangs the week on a wall at her own eye
+level, writes the labels, cuts the tickets, and Joseph comes home at six
+having seen none of it. No holiday lands in these seven days, so the shape
+comes from the making and from what each day hands to the next one. February
+does the rest. The street is grey enough that a red door counts as a find,
+green is coming back into the borders while she is out looking for it, and
+the ground is soft enough to dig a colour out of on Monday.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Colour mixing, done with her own hands.** Three pots go on the table and six colours come off it, each one stirred and named by her.
+- **Scissors.** Thumb up through the top hole, two fingers below, and enough paper to waste while her wrist works the rest out.
+- **Sorting by one rule.** Red through the red slot, yellow through the yellow, and a reasoned argument for the awkward ones.
+- **Threading and weaving.** Over, under, over on a card loom, then pasta onto string, both hands meeting in front of her.
+- **Drawing what she can see.** A face counted out loud in the mirror first, then portraits of everyone in the house, including one who would not hold still.
+
+---
+
+### 👩 What You'll Learn
+
+- Discovery beats demonstration
+- Posting things through slots is a real developmental stage
+- Love is a word she's still working out the size of
+- "A long time ago" is as much history as she can hold
+- Threading is fine motor work that pays off at six
+- Children need to see the effect of their kindness
+- Anticipating someone else's future feeling is a big cognitive leap
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] Washable non-toxic poster paint in red, yellow, blue and black
+- [ ] Thick paper, 20 sheets
+- [ ] Printer paper or any thin paper, 15 sheets
+- [ ] Brown parcel paper, a roll, or 3–4 big boxes to flatten
+- [ ] A shoebox with a lid
+- [ ] A larger box with one wide slot, for Kreston
+- [ ] A cereal box or stiff card, for the loom
+- [ ] Thick card, 10 sheets, for portraits, labels and tickets
+- [ ] Junk mail, catalogues and magazines (start saving now)
+- [ ] Coloured paper, if you have it
+- [ ] A large sheet for the garden: the back of wrapping paper or a flattened box
+- [ ] Masking tape, 3 rolls
+- [ ] A glue stick
+- [ ] Child-safe scissors
+- [ ] Adult scissors (adult only)
+- [ ] A craft knife or heavy scissors (adult only)
+- [ ] Crayons, a tin nobody minds losing
+- [ ] Felt tips
+- [ ] Permanent markers, 2
+- [ ] A pen
+- [ ] Paintbrushes, 3: one thin, one wide and soft, one old one you can ruin
+- [ ] An old toothbrush
+- [ ] Jam jars for paint water, 2
+- [ ] A white plate or a white tile, for mixing
+- [ ] An egg box or ice cube tray, and a second clean egg box for Kreston
+- [ ] Kitchen roll
+- [ ] Newspaper, a stack
+- [ ] Sponges, 2: one to cut in half, one clean for wetting paper
+- [ ] A baking tray
+- [ ] A teaspoon and a tablespoon
+- [ ] Cocoa powder, 3 tablespoons
+- [ ] Paprika or turmeric, 2 tablespoons
+- [ ] Plain flour, 1 kg
+- [ ] Salt, 500 g
+- [ ] Cooking oil, 1 tablespoon
+- [ ] A mixing bowl and a wooden spoon
+- [ ] Small bowls, 4–6
+- [ ] A dinner plate for each person in the house
+- [ ] A table knife
+- [ ] Dried penne or rigatoni, for threading
+- [ ] Dried pasta shapes, lentils and dried beans, for the faces
+- [ ] Buttons, if you have a tin of them
+- [ ] Wool or string, 1 ball
+- [ ] Food colouring
+- [ ] White vinegar
+- [ ] Freezer bags, one per pasta colour and one for Kreston's dough
+- [ ] Drinking straws, 2
+- [ ] Clothes pegs, 10
+- [ ] A trowel and a bag, for collecting
+- [ ] Old plastic tubs, 2–3
+- [ ] A sieve or a tea strainer
+- [ ] A jug
+- [ ] A smooth stone, or a metal spoon for grinding
+- [ ] A sheet of sandpaper
+- [ ] Kitchen foil and a scrap of fleece, for Kreston's texture board
+- [ ] Coins, keys, a fork and a comb
+- [ ] Leaves and a piece of bark
+- [ ] Envelopes, 4
+- [ ] Stamps, 2
+- [ ] A shopping bag, to carry the letters home flat
+- [ ] Biscuits and glasses, for the gallery
+- [ ] An old shirt of Joseph's, and an old T-shirt she can ruin
+- [ ] Carrier bags and a second old T-shirt, to cut into weaving strips
+- [ ] An empty wipes box and a muslin, for Kreston
+- [ ] A hand mirror
+- [ ] A torch with fresh batteries
+- [ ] A towel for the sink, and old clothes for the mud
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, on Thursday I walk in at six to a wall of paper and get asked
+> which one I like best. She will have already guessed my answer and sealed
+> it under a plate of biscuits. Tell me nothing before I get there. I want to
+> see it cold, in her order, with her titles read out at me, and I would
+> rather be wrong about the picture than have the moment rehearsed.
+>
+> The six days before that are the messy end of the deal and they are yours.
+> Mud paint at the sink on Monday, spice on the floor under the table, dyed
+> pasta everywhere, and an eight-month-old crawling straight at every bit of
+> it. My old blue shirt is her apron on Friday. It has done nothing useful in
+> two years and it can come back covered. Somewhere around Wednesday an
+> envelope with my name on it lands at work, and I will know what the
+> afternoon behind it took out of you.
+
+---
+
+> 👶 **Kreston is 8 months this week**. He crawls or shuffles after her, bangs
+> two things together to hear what they do, and has arrived at stranger
+> wariness, so he checks a new room from your shoulder before he takes it on.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-50"></a>
+
+## 🌟 Day 50: Three Paints, Six Colours 🌟
+**📅 Friday, February 19, 2027**
+**Theme:** Art Masters Studio
+
+### 🌙 Prep Tonight
+> Put the red, yellow and blue paint on the table with a white plate, an egg box and Joseph's old shirt, and hide every other colour you own.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Only Three Paints
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Making Green (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Grey Street Colour Hunt (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Where the Colours Run (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: Sorting the Crayons by Colour
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and Three Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Only Three Paints
+
+**🧰 You need:** red, yellow and blue paint · 1 white plate · 2 brushes · thick paper.
+
+1. Put out the three pots and nothing else. Let her paint whatever she wants with what is there.
+2. She will ask for green. Tell her there is no green in the house and stay with that, however the next two minutes go.
+3. Ask which two she thinks would get closest. Put a blob of each on the white plate, side by side, and leave them unstirred. Tell her you will finish it at 9:15.
+
+### 🎨 The Main Event: Making Green
+
+**🧰 Complete Materials List:**
+- Washable poster paint in red, yellow and blue
+- 1 white plate or a white tile as the mixing palette
+- 1 egg box or ice cube tray for holding the new colours
+- 2 brushes, one thin one wide
+- 1 jam jar of water
+- Thick paper, 8–10 sheets
+- Kitchen roll
+- 1 teaspoon
+- An old shirt of Joseph's as an apron
+
+**📝 Step-by-Step Instructions:**
+1. Shirt on, water filled, kitchen roll within reach. The white plate is the only surface that matters, because colour lies to you on brown card.
+2. Start with her guess from this morning. Two teaspoons of yellow on the plate, then blue a quarter-spoon at a time, stirred in with the thin brush until she calls it green.
+3. Scrape it into a cup of the egg box. She owns green now.
+4. Do red and yellow next, then red and blue. Each new colour gets its own cup and its own stir.
+5. Let her name every one out loud. Take *mud*, *sunset* and *dark* over anything off a paint chart, and use her names all day.
+6. Hand her the paper and all six colours and leave her to paint.
+
+> 💡 **Tip:** Add the dark colour into the light one a spoonful at a time. Yellow tipped into blue gives you a jar of blue and a bad mood. Blue tipped into yellow gives you every green there is.
+
+### 🌳 Get Outside: The Grey Street Colour Hunt
+
+February has bled the colour out of the street, so go and hunt for what is
+left. A red front door, a green wheelie bin, moss on a north-facing wall,
+somebody's crocuses up early in a front garden, the yellow line on the road.
+Count them out loud as she finds them. Ask which of the six she made this
+morning comes closest to each.
+
+> 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
+> to hear what they do. Give him a clean egg box and a wooden spoon on the
+> floor at the far end of the room while the wet paint stays up on the table.
+> On the walk, wear him facing out. Stranger wariness has arrived this month,
+> so keep him on you rather than in the pram if anyone stops to talk.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Where the Colours Run
+
+Water carries paint further than a brush does. Wet the paper first and the
+colours travel on their own.
+
+**🧰 Complete Materials List:**
+- Thick paper, 6 sheets
+- The mixed colours from this morning, thinned with water
+- 1 wide soft brush
+- 1 clean sponge for wetting the paper
+- 1 baking tray or the draining board to work in
+- Kitchen roll
+- 1 jam jar of water
+
+**📝 Step-by-Step Instructions:**
+1. Set the tray on the table and lay one sheet inside it. Everything from here runs off the edges.
+2. Thin the morning's colours with water until they drip off the brush in a stream instead of a blob.
+3. Wet the whole sheet with the sponge until it shines, then mop the standing water off with kitchen roll.
+4. Show her one drop. Loaded brush held above the paper, one touch, and the colour opens out across the wet like ink.
+5. Now a second colour beside the first, close enough that the two edges meet. Green arrives where blue meets yellow.
+6. Do a dry sheet for comparison. Same paint, hard edges, no travel. Let her say which she prefers.
+7. Leave them flat where they are. Wet paper tears the moment you lift it, so nothing moves until dinner.
+
+> 💡 **Tip:** She will keep going until every sheet is brown, because brown is where these end. Take the brush after five or six drops and call it finished.
+
+### 🎯 Afternoon Alternatives
+- Three jars of water, food colouring and one pipette.
+- Sweet wrappers and cellophane held over each other at the window.
+- Ice cubes of coloured water melting on a white plate.
+
+### 🌳 Out Again: **Pick one**
+- **Playgroup**, and take one of the morning's mixed-colour paintings to give away
+- The park, for a run before the light goes
+- A friend's kitchen, if anyone will have two children and a bag of paint
+- The garden centre, for the seed packet pictures and the warm greenhouse
+- Round the block with the pram and no destination
+
+> 👶 **Kreston's Afternoon:** At 8 months he settles into a room once he has
+> checked it from your lap, so keep him facing you for the first ten minutes at
+> playgroup. Stranger wariness at this age means he has worked out who his
+> people are.
+
+### 🌍 Around the World: Mexico and the *Alebrijes* 🐉
+
+In Oaxaca and Mexico City, carvers make **alebrijes**: animals with the head of
+one creature, the wings of another and the tail of a third, painted in colours
+that fight each other on purpose. Pedro Linares dreamed them while he was ill
+in the 1930s and carved what he had seen. Whole families carve and paint them
+together now, and no two come out the same.
+
+> **✨ Try it:** Mexican *conchas* are sweet buns with a coloured sugar shell
+> scored into a pattern on top. Buy a couple, or ice a plain bun and let Azlyn
+> scratch a pattern in with a fork before it sets.
+
+> *Did you know?* Alebrijes are carved from copal wood, which is soft enough to
+> cut while the branch is still green.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Discovery beats demonstration.**
+> You could have told her at 8:05 that blue and yellow make green. She would
+> have believed you and lost it by Thursday. She stirred it herself, so what
+> she holds is a rule she can run again on the next two colours. Researchers
+> comparing direct instruction with guided discovery find the taught version
+> wins on speed and the discovered version wins on transfer, which means the
+> child uses it somewhere new. Your work was the setup. Three colours and no
+> green in the house is a question she cannot walk away from, and the answer
+> costs her a teaspoon and two minutes of stirring.
+
+> ⚠️ **Safety:** Wet paint pots at floor level with an 8-month-old who crawls
+> and mouths everything. Washable non-toxic paint only, lids back on between
+> colours, and empty the paint water down the sink the moment she finishes.
+> Never leave a full jar within his reach.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-51"></a>
+
+## 🌟 Day 51: The Paper Garden 🌟
+**📅 Saturday, February 20, 2027**
+**Theme:** Art Masters Studio
+
+### 🌙 Prep Tonight
+> Put the week's junk mail, catalogues and magazines in a pile on the table with the glue stick, and find a shoebox with a lid for this afternoon.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Tearing Up the Catalogue
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Cut-Out Garden (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Looking for the First Green (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Colour Post Box (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Cups
+- **4:15–5:00 PM** — Quiet Play: The Scrap Box
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Paper Garden
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Tearing Up the Catalogue
+
+**🧰 You need:** the pile of junk mail · 1 large sheet or a flattened box · masking tape.
+
+1. Sit down in the pile with her and pull pages out. Hands only, no scissors yet.
+2. Ask her to find you green pages, then red ones, then yellow. Tear those into one heap per colour.
+3. Tape the big sheet flat to the table so it stops sliding about. It sits there in front of her until 9:15.
+
+### 🎨 The Main Event: The Cut-Out Garden
+
+**🧰 Complete Materials List:**
+- Junk mail, catalogues and magazines
+- Coloured paper if you have it
+- 1 pair of child-safe scissors
+- 1 pair of adult scissors (adult only, kept high)
+- Glue stick, or flour-and-water paste in a saucer
+- 1 large sheet: the back of wrapping paper or a flattened box
+- 1 permanent marker
+
+**📝 Step-by-Step Instructions:**
+1. Show her the hold once. Thumb up through the top hole, two fingers below, paper gripped in the other hand. Then stop talking about it.
+2. No pencil lines and nothing to follow. She cuts into the coloured heaps and finds out what comes off.
+3. Name each piece as it lands. A long thin one is a leaf, a round one is a flower head, a raggedy one is a bush. Her names win.
+4. Once she has thirty or so pieces, put the big sheet in front of her and let her lay the garden out before any glue comes near it.
+5. Glue from the bottom up: stems first, then leaves, then flower heads on top so they overlap.
+6. Write what she calls each plant along the bottom edge in marker and read the row back to her.
+
+> 💡 **Tip:** Her cuts will be two centimetres long and jagged for months yet. Give her paper thin enough to cut and plenty to waste, and the wrist sorts itself out.
+
+### 🌳 Get Outside: Looking for the First Green
+
+Late February is where green comes back, so go and find it. Bulb shoots in the
+borders, moss in the cracks of a wall, an evergreen hedge, snowdrops if anyone
+on your street plants them. Give her a job: pick one real leaf to bring home
+and glue into the garden.
+
+> 👶 **Infant Integration:** Kreston is 8 months. Give him a whole sheet of
+> paper, too big to get into his mouth, and let him crush it. The noise arrives
+> at the same instant his hand closes, the connection he is chasing this month.
+> Soggy paper comes off him before he swallows any.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Colour Post Box
+
+Every scrap she cut this morning is still on the floor. A shoebox with three
+slots in the lid turns the clearing up into the afternoon.
+
+**🧰 Complete Materials List:**
+- 1 shoebox with a lid
+- 1 craft knife or heavy scissors (adult only)
+- The paper offcuts from this morning
+- 3 scraps of coloured paper to label the slots
+- Masking tape
+- 1 permanent marker
+- 1 larger box with one wide slot, for Kreston
+
+**📝 Step-by-Step Instructions:**
+1. Cut three slots in the lid, each a finger wide and about as long as your hand. Run masking tape along the cut edges so nobody gets a paper cut.
+2. Tape a red, a yellow and a blue scrap beside the three slots.
+3. Sweep the morning's offcuts into a bowl and put the bowl in her lap.
+4. She posts. Red through red, yellow through yellow. The awkward ones (a photo of a dog, a black-and-white page) go wherever she argues for, and let the argument run.
+5. Lift the lid, tip the lot out and do it again, four or five times.
+6. On the last round, count them in out loud as she posts. Ten reds, six yellows, however many blues.
+7. Kreston gets his own box with one wide slot and pieces too big to swallow, set down where he can reach it.
+
+> 💡 **Tip:** Let the wrong ones stay wrong. A page she calls red because the dog on it wears a red collar is a decision made from evidence, and she sharpens the rule herself over the next fortnight.
+
+### 🎯 Afternoon Alternatives
+- Post plastic lids from the recycling into a tin with a slot cut in it.
+- Sort the crayon tin by colour into an ice cube tray.
+- Cut one page of the garden and stop there.
+- Feed scraps into a paper bag and shake it like a rattle.
+
+### 🌳 Out Again: **Pick one**
+- **The pet shop and the garden centre**, for the fish tank and the warm glasshouse
+- The park, if the wind has dropped
+- A charity shop for a bag of coloured paper and a look at the toy shelf
+- A drive with the good radio station on
+- The corner shop, and she carries one thing home
+
+> 👶 **Kreston's Afternoon:** He comes to the garden centre in the carrier
+> facing out. Fish tanks hold an 8-month-old longer than anything else in the
+> building, so park in front of one and let him watch. Back home he gets the
+> big box and the fat offcuts.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Posting things through slots is a real developmental stage.**
+> Azlyn spent most of last year pushing objects into gaps, and Kreston is
+> starting on it now. Psychologists call the pattern a schema, an action a
+> child repeats to test one idea, and posting is among the most reliable. She
+> is working out that a thing still exists after it goes out of sight, that her
+> hand can aim at a target, and that a shape either fits or it does not.
+> Three-year-olds come back to the game when the sorting gets harder, which is
+> why three coloured slots hold her today far longer than a plain box would
+> have last winter.
+
+> ⚠️ **Safety:** Scissors, and small paper scraps on the floor with a crawling
+> baby. The adult scissors and the craft knife go back up on a shelf between
+> cuts, not onto the arm of the sofa. Sweep the floor before Kreston is put
+> down. Check the shoebox for staples and tape every cut edge.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-52"></a>
+
+## 🌟 Day 52: Everybody's Face 🌟
+**📅 Sunday, February 21, 2027**
+**Theme:** Art Masters Studio
+
+### 🌙 Prep Tonight
+> Check you have 2 cups of flour and 1 cup of salt in for this afternoon, and stand a chair where the morning light comes in with the hand mirror on it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Counting What's on a Face
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Sitting for a Portrait (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Finding Faces in Things (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Dough Faces (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Setting Four Places
+- **4:15–5:00 PM** — Quiet Play: Looking Through the Photos
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Family Album
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Counting What's on a Face
+
+**🧰 You need:** 1 hand mirror · paper · crayons.
+
+1. Hand her the mirror and give her a minute with it before you ask for anything.
+2. Count a face out loud together: two eyes, one nose, one mouth, two ears, and however many teeth she claims to have.
+3. Let her count yours, then Kreston's, then the cat's or the teddy's. Leave the mirror on the table. She needs it again at 9:15.
+
+### 🎨 The Main Event: Sitting for a Portrait
+
+**🧰 Complete Materials List:**
+- Thick card or paper, one sheet per person
+- Crayons and felt tips
+- 1 hand mirror
+- 1 permanent marker for names
+- Masking tape
+- A chair set where the light is good
+
+**📝 Step-by-Step Instructions:**
+1. Tape a sheet of card to the table so it cannot slide while she works.
+2. You sit first. Two minutes on the clock, chin up, and let her stare as long as she wants. Keep your eyes off her paper.
+3. She says when it is finished. Write your name on it in marker while she watches.
+4. Swap over and let her sit for you. Hand yours across whatever it looks like, and let her have opinions.
+5. Kreston next. Two minutes of a baby holding still does not exist, so let her draw him mid-wriggle and put his name on it anyway.
+6. Last one is herself, mirror propped against the fruit bowl. Three or four portraits by 10:15.
+
+> 💡 **Tip:** A three-year-old draws a head with legs coming out of the chin. It has a name (the tadpole figure), and the body turns up around four.
+
+### 🌳 Get Outside: Finding Faces in Things
+
+Faces are hiding all over the street once she is looking. Two upstairs windows
+and a front door make a face on a house, and a car has eyes and a mouth from
+the front. Knots in a fence panel, a drain cover, the two bolts and a slot on a
+postbox. Photograph the good ones and look back through them in the bath
+tonight.
+
+> 👶 **Infant Integration:** Kreston is 8 months, and faces are most of what he
+> studies. Prop the hand mirror in front of him and let him pat the glass and
+> lean into it. He knows your face and Azlyn's cold, and he is busy sorting
+> everyone else into safe or not. Let Azlyn hold her portrait of him up close
+> and watch him reach for it.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Dough Faces
+
+Salt dough holds a thumbprint, and a face made of lentils and buttons can be
+changed thirty times.
+
+**🧰 Complete Materials List:**
+- 2 cups plain flour, 1 cup salt, 1 cup water, 1 tablespoon oil
+- 1 mixing bowl and a wooden spoon
+- Dried pasta, lentils and dried beans
+- Buttons if you have a tin of them
+- Wool or string cut into short lengths for hair
+- 1 dinner plate each as a work surface
+- 1 table knife
+
+**📝 Step-by-Step Instructions:**
+1. Flour and salt in the bowl, oil in, then water in stages while she stirs. Wet dough takes another handful of flour, and she decides when it stops sticking.
+2. Knead it on the table for five minutes between you. It goes from claggy to smooth and she will feel the moment it turns.
+3. Split it into balls, one for each person in the house. She flattens each into a round the size of her palm on its own plate.
+4. Put the pasta, lentils, beans, buttons and wool out in separate piles where she can see them all at once.
+5. One plate at a time, and ask who it is before she starts. A named face gets eyebrows and hair. An unnamed one gets a handful of lentils.
+6. Photograph the finished set, then let her squash one flat and rebuild it as somebody else.
+7. Bag the leftover dough. It keeps a week in the fridge, and the faces dry hard on a windowsill in two or three days.
+
+> 💡 **Tip:** Give her the wool last. Hair is the part she will spend twenty minutes on, and it goes on better once the eyes and mouth have settled.
+
+### 🎯 Afternoon Alternatives
+- Draw faces on hard-boiled eggs and stand them in the egg cups.
+- Play dough faces from the tub you already own.
+- Build a face out of what is on the lunch plate before she eats it.
+
+### 🌳 Out Again: **Pick one**
+- **Feeding the ducks**, with yesterday's crusts and a look at how many are paired up now
+- A long loop with the pram and no destination
+- The playground, for twenty minutes of climbing
+- The riverside path, to see how high the water is after the wet week
+- A drive to somewhere with a view and stay in the warm car
+
+> 👶 **Kreston's Afternoon:** At 8 months he gets a fistful of dough sealed
+> inside a freezer bag, taped shut, to squeeze and shove around the tray of his
+> chair. At the pond, keep him on you rather than at duck height. Ducks come at
+> a sitting baby fast.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Love is a word she's still working out the size of.**
+> Azlyn will tell you she loves you, and then that she loves the yellow crayon,
+> in the same voice. She is working with the word she has. A three-year-old
+> sorts feeling into a few big bins before she gets the
+> small ones, so *love* stretches across everything from you to a biscuit, and
+> the finer words (like, miss, prefer, want) arrive across the next two years.
+> Drawing everyone in the house and naming each face is her drawing the circle.
+> Keep handing her sharper words inside your own sentences, as in *you missed
+> Daddy today*, and she picks them up when she needs them.
+
+> ⚠️ **Safety:** Lentils, dried beans, buttons and pasta are choking hazards
+> and every one of them ends up on the floor within reach of a baby who crawls.
+> Sweep before Kreston goes down. Salt dough is dangerous eaten, so keep his
+> hands out of the bowl and give him his own sealed bag.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-53"></a>
+
+## 🌟 Day 53: The Cave Wall 🌟
+**📅 Monday, February 22, 2027**
+**Theme:** Art Masters Studio
+
+### 🌙 Prep Tonight
+> Flatten two big boxes or dig out the brown parcel paper, stand it by the dining table with the masking tape, and check the torch batteries.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Papering the Cave
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Painting on the Cave Wall (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Digging for Colour (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Paint Made of Mud (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Bread
+- **4:15–5:00 PM** — Quiet Play: The Torch Under the Table
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Long Warm Bath
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Papering the Cave
+
+**🧰 You need:** brown parcel paper or flattened boxes · masking tape · 1 torch.
+
+1. Clear everything out from under the dining table and get down there with her.
+2. Tape paper to the underside of the table top and down the inside of the legs. You do the high bits, she does the low ones, and the wonky ones stay wonky.
+3. Turn the big light off and hand her the torch. Let her look at the blank walls for a minute.
+
+### 🎨 The Main Event: Painting on the Cave Wall
+
+**🧰 Complete Materials List:**
+- Brown parcel paper or flattened cardboard boxes
+- Masking tape
+- 1 torch with fresh batteries
+- Cocoa powder, 3 tablespoons
+- Paprika or turmeric, 2 tablespoons (substitute: mud from the garden, or black paint on its own)
+- Black washable poster paint
+- 2 small bowls and 1 old toothbrush
+- 1 kitchen sponge cut in half
+- Newspaper, a stack
+- An old T-shirt she can ruin
+
+**📝 Step-by-Step Instructions:**
+1. Old T-shirt on, then mix the paints on the table out of her reach: cocoa and water in one bowl, paprika or turmeric and water in the other, black poster paint straight from the pot. Everything from here happens lying down or sitting on the floor.
+2. Sponge first. Half a sponge loaded with cocoa and pressed flat gives a big soft brown mark.
+3. Now the hand. Press her palm flat on the paper, hold it there, and dab paint around the edge. Lift straight up and the shape of her hand stays behind.
+4. Newspaper down. Load the old toothbrush with spice paint and show her how to drag a thumb back across the bristles, spattering dots up the wall.
+5. Do one handprint of yours beside hers, and Kreston's on a loose sheet if he will hold still.
+6. Lights off, torch on, and look at the whole wall by torchlight. Ask her what happened in this cave and listen without adding to it.
+
+> 💡 **Tip:** The toothbrush throws spice paint further than you think. Lay the newspaper wider than seems necessary.
+
+### 🌳 Get Outside: Digging for Colour
+
+Take a trowel and a bag and go looking for ground that makes a mark. February
+ground is wet all the way through, so it gives under the blade. Look for
+red-brown clay a spade down, pale chalky stone and charcoal from a cold fire
+site. Rub each find on a paving slab, and whatever leaves a colour comes home
+in the bag.
+
+> 👶 **Infant Integration:** Kreston is 8 months and he will crawl straight
+> under the table after her. Give him the torch beam to chase across the paper
+> while the bowls stay up above. A moving light outranks everything else for his
+> attention this month.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Paint Made of Mud
+
+The bag from this morning holds mud, stone and burnt wood, none of it paint
+yet.
+
+**🧰 Complete Materials List:**
+- The mud, chalky stone and charcoal she collected
+- 2–3 old plastic tubs
+- 1 smooth stone or the back of a metal spoon for grinding
+- 1 sieve or a tea strainer
+- Water in a jug
+- 2 tablespoons plain flour as a binder
+- Sticks and 1 old brush
+- Big paper or another flattened box
+- Old clothes and a towel by the sink
+
+**📝 Step-by-Step Instructions:**
+1. Work at the sink or out on the step, because the next ninety minutes are dirty.
+2. One tub per material. She breaks each lump down with the back of the spoon, and it takes real effort.
+3. Sieve the powder into a clean tub. The fine dust is paint, and the grit left in the sieve goes in the bin.
+4. Add water a spoonful at a time until it pours like cream, then a spoonful of flour so it grips the paper.
+5. Test each tub with a stick on the box. Some give a strong colour, some a smear of wet dirt, and she sorts them into two piles.
+6. Line the good ones up and let her paint the big sheet with sticks and the old brush.
+7. Wash up in order: hands, then arms, then tubs. Tip the muddy water outside rather than down the sink.
+
+> 💡 **Tip:** Mud from the top few inches is full of leaf and root and makes a weak smear. A trowel's depth down gives you clay.
+
+### 🎯 Afternoon Alternatives
+- Cocoa and water on paper, nothing else added.
+- Draw with a stick of cold charcoal on the back of a cereal box.
+- Handprints in mud along the paving slabs, hosed off after.
+
+### 🌳 Out Again: **Pick one**
+- **The hill walk**, for the view and the wind, hats on
+- The woods loop, to see what colour the ground is up there
+- The riverside path, and check the water level again
+- Straight home to a warm bath, some Mondays
+
+> 👶 **Kreston's Afternoon:** He comes on the hill walk in the carrier with a
+> hat, facing in if the wind is up. At 8 months he sleeps most of the way back.
+> At the sink he stays out of arm's reach of the tubs.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **"A long time ago" is as much history as she can hold.**
+> Do not reach for forty thousand years today. Azlyn has no timeline yet, so
+> last night, last summer and the Ice Age all sit together in one bin marked
+> *before*. Children pick up past-tense language long before they can order
+> events or judge how long anything lasted, and dates land on a three-year-old
+> as noise. *A long time ago, people lived in caves and painted on the walls
+> with mud* is the whole lesson and it is enough. Her hand pressed flat on the
+> paper does the rest. Same hand, same wall, same idea, and she needs no number
+> to feel it.
+
+> ⚠️ **Safety:** Turmeric and paprika stain skin, grout and clothes, so keep
+> them to paper and the old T-shirt. Kreston will crawl under the table and put a
+> handful of spice paint or mud in his mouth, so the bowls live up on the table
+> between uses. Wash every hand before food. Charcoal from a fire site only if
+> it is cold all the way through.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-54"></a>
+
+## 🌟 Day 54: Over, Under, Over 🌟
+**📅 Tuesday, February 23, 2027**
+**Theme:** Art Masters Studio
+
+### 🌙 Prep Tonight
+> Dye the pasta tonight: a squirt of food colouring and a tablespoon of vinegar in a freezer bag per colour, a handful of penne in, shake, then tip onto a tray lined with kitchen roll to dry overnight.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Stringing the Loom
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Over and Under (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Fence Weave (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: One Necklace Each (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Carrying the Plates In
+- **4:15–5:00 PM** — Quiet Play: Sorting the Leftover Pasta
+- **5:00–5:45 PM** — 🛁 Wind-Down: Two Books After Swimming
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Stringing the Loom
+
+**🧰 You need:** 1 stiff cardboard rectangle · adult scissors (adult only) · wool · masking tape.
+
+1. Cut notches along the top and bottom edges of the card, a finger's width apart and about a centimetre deep. You cut, she counts them out loud.
+2. Hook the wool into the first notch, run it down to the notch opposite, round the back and up again. She holds the card steady while you wind.
+3. Tape the loose end down at the back. It looks like a small harp now, and she can pluck it until 9:15.
+
+### 🎨 The Main Event: Over and Under
+
+**🧰 Complete Materials List:**
+- 1 stiff cardboard rectangle, roughly the size of a cereal box front
+- 1 pair of adult scissors (adult only) for the notches
+- 1 ball of wool or string
+- Strips cut from magazines, carrier bags and an old T-shirt
+- Masking tape, to wrap the end of the wool into a stiff tip instead of a needle
+- 2 clothes pegs to hold the ends
+
+**📝 Step-by-Step Instructions:**
+1. Cut the strips before she sits down: magazine, carrier bag and old T-shirt, each a finger wide and longer than the loom is across.
+2. Wrap one end of each strip in masking tape to make a stiff point, a needle's job at a size her hand can hold.
+3. Say the words while she does the first row. *Over, under, over, under.* Three rows of that, then go quiet.
+4. Row two has to start under wherever row one started over. She will get this wrong, and a wrong row still looks good.
+5. Push each finished row up tight against the one above. The gaps close and the card disappears.
+6. Peg the loose ends at the sides so nothing slides back out.
+
+> 💡 **Tip:** The rhythm carries her further than the instruction does. Chant over-under while she works and her hand picks the pattern up before she can explain it.
+
+### 🌳 Get Outside: The Fence Weave
+
+Take a bag of long strips and go and weave the street. A chain-link fence, a
+gate, a railing, a bare hedge. Feed the strips, wool and dead grass in and out
+of the gaps until a patch of colour lands on a grey street. Leave it for
+whoever walks past next, and come back Thursday to see whether the wind took
+it.
+
+> 👶 **Infant Integration:** Kreston is 8 months. Stuff a scarf or a muslin into
+> an empty wipes box and let him haul it out, then stuff it back in for him and
+> watch him do it again. Pulling comes before pushing at this age.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: One Necklace Each
+
+The pasta came out of the freezer bags last night in colours nothing in this
+kitchen has any right to be.
+
+**🧰 Complete Materials List:**
+- Dried penne or rigatoni, dyed overnight
+- Food colouring and 1 tablespoon vinegar, 1 freezer bag per colour
+- 1 tray lined with kitchen roll
+- String or wool, ends wrapped in tape
+- 2 drinking straws cut into short segments
+- 1 bowl per colour
+- 1 pair of child-safe scissors, for the straws
+- 1 pair of adult scissors (adult only), for the string
+
+**📝 Step-by-Step Instructions:**
+1. Tip each colour into its own bowl and let her look at the whole set before she threads anything.
+2. Cut each string a hand's length longer than it takes to go over a head, tape one end into a point, and tie a piece of pasta at the far end so nothing slides off.
+3. Let her cut the straws into short segments with her own scissors. She will do forty given the chance.
+4. Thread. Pasta, straw, pasta, straw if she wants a pattern, any order at all if she does not.
+5. One necklace per person, and ask who each one is for before she starts. The colours are her decision.
+6. Knot every finished one loose enough to pull straight off, tested on your own head first.
+7. Hand them out before dinner and put each one on the person she made it for. Kreston's goes on his door handle where he can see it and not reach it.
+
+> 💡 **Tip:** Thread the first three yourself while she watches your hands. Stiff string aimed into a small hole, seen once at half speed, beats telling her to aim.
+
+### 🎯 Afternoon Alternatives
+- Thread cereal hoops instead and eat the failures.
+- Weave paper strips through a sheet of paper with slits cut in it.
+- Thread buttons onto a shoelace.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one
+- Soft play if the pool session is cancelled
+- The library, a day early
+- A warm café and a window, when nobody has it in them
+
+> 👶 **Kreston's Afternoon:** At 8 months he sits supported in the water and
+> slaps at the surface, and he will track Azlyn across the pool. Twenty minutes
+> and out before he cools. The changing room is loud and full of strangers, so
+> keep him against you while you queue.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Threading is fine motor work that pays off at six.**
+> Look at what her hands are doing this afternoon. One hand holds the string
+> still while the other aims the pasta, thumb and forefinger pinched, both arms
+> crossing the middle of her body to meet in front of her. Occupational
+> therapists reach for threading because that combination is what a pencil grip
+> is made of, and it takes years to build. None of it looks like schoolwork,
+> which is why she will stay with it for an hour. The child who spent three
+> years threading pasta and buttons is the one whose hand does not ache at six
+> after a page of writing.
+
+> ⚠️ **Safety:** Dry pasta and cut straw segments are the right size to choke
+> an 8-month-old, and the floor is where they land. Sweep before Kreston goes
+> down and keep his bowl separate. No cord or beaded necklace goes on a baby,
+> awake or asleep. Knot Azlyn's loose enough to pull over her head, take them
+> off before swimming and before bed, and keep the wool and loose string up out
+> of Kreston's reach all day.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-55"></a>
+
+## 🌟 Day 55: A Picture for Somebody 🌟
+**📅 Wednesday, February 24, 2027**
+**Theme:** Art Masters Studio
+
+### 🌙 Prep Tonight
+> Tip the crayon tin out on the table with the coins, keys and a comb, and find four envelopes and two stamps for tomorrow afternoon's deliveries.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Peeling the Crayons
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: What's Under the Paper (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Pavement Rubbings (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Four Doors, Four Pictures (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Napkins
+- **4:15–5:00 PM** — Quiet Play: Crayons and Nothing Else
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Quiet Corner and a Blanket
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Peeling the Crayons
+
+**🧰 You need:** crayons nobody minds losing · 1 bowl · thin paper.
+
+1. Sit with her and peel the paper off. Fingernails only. She will keep at it long after you have had enough.
+2. Snap the long ones in half and drop them in the bowl. A short crayon lies flat on its side.
+3. Rub one flat across a scrap of paper laid over the edge of the table. Something comes up out of the page. Say nothing about how, and leave the bowl there until 9:15.
+
+### 🎨 The Main Event: What's Under the Paper
+
+**🧰 Complete Materials List:**
+- Crayons, wrappers peeled off and snapped in half
+- Printer paper or any thin paper, 15 sheets
+- Coins, keys, a fork, a comb
+- Leaves and a bit of bark
+- A sheet of sandpaper
+- The doormat, the radiator grille and a brick wall
+- Masking tape to hold the paper still
+
+**📝 Step-by-Step Instructions:**
+1. Start with a coin, because a coin never fails. Tape a sheet of paper flat over it on all four edges.
+2. Crayon held flat on its side, whole hand on top, rub back and forth. The coin comes up through the paper and she will stop dead.
+3. Hand the choosing over. Fork, comb, keys, a leaf with the veins facing up, a piece of bark.
+4. Take the paper to the thing when the thing will not come to you: the doormat, the radiator grille, the brick wall by the front door.
+5. Sandpaper under the paper gives her a whole sheet of texture with no object in it, and she will want ten more.
+6. Spread them on the floor and let her match each rubbing back to the thing that made it. You need four at 1:00, so keep the strong ones aside.
+
+> 💡 **Tip:** Tape all four edges, every time. Most failed rubbings are the paper sliding, and she cannot hold it still and rub hard at once yet.
+
+### 🌳 Get Outside: The Pavement Rubbings
+
+Take paper, tape and half a dozen crayon stubs out with you. Drain covers, a
+coal-hole cover, a house number plate, the grain of a wooden bench, a memorial
+plaque, tree bark. February bark is soaked and will tear the paper, so pick a
+trunk on the dry side or go for metal. Carry them home flat in a bag rather
+than rolled.
+
+> 👶 **Infant Integration:** Kreston is 8 months and works everything out
+> through his palms. Tape a square of sandpaper, a square of foil and a square
+> of fleece onto a sheet of card and let him drag his hands across the three.
+> Loose crayon stubs stay off the floor while he is down there.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Four Doors, Four Pictures
+
+Four of the rubbings go to four people this afternoon. She picks the pictures
+and the people.
+
+**🧰 Complete Materials List:**
+- Four of her rubbings
+- 4 envelopes, or folded paper and tape
+- Stamps for the ones going by post
+- 1 pen, for the words she dictates
+- A shopping bag to carry them flat
+- The pram
+
+**📝 Step-by-Step Instructions:**
+1. Spread the morning's rubbings out and let her choose four. Take her choices even when she picks the four you would have binned.
+2. Ask who each one is for. Say the four names back to her: a neighbour, a grandparent, somebody at playgroup, Joseph at work.
+3. Ask what she wants to say about each one. Write her words on the back as they come out, then read them back to her.
+4. Fold each one into an envelope. She licks the flap and presses it shut, then draws on the front.
+5. Write the names on the front in big letters and let her point to the first letter of each.
+6. Coats on, pram out. Deliver the ones you can walk to and let her push each envelope through the letterbox or into a hand.
+7. The rest go to the postbox with stamps on. She posts them, and you tell her how many sleeps until they land.
+
+> 💡 **Tip:** Do the hand-delivered ones before the postbox. Letters that vanish into a red slot make more sense once she has watched one arrive at a real door.
+
+### 🎯 Afternoon Alternatives
+- Rubbings only. Deliver them tomorrow.
+- Draw a picture each for four people instead.
+- Photograph a rubbing and send it to somebody who will reply.
+- One huge rubbing on wallpaper lining, given to the house.
+
+### 🌳 Out Again: **Pick one**
+- **Soft play**, the quiet session, and go in the first ten minutes
+- The library, if this is a library week
+- The park for a run, if the rain holds off
+- A café with a window seat and something to watch
+- The bakery, and she chooses what everyone eats at four
+
+> 👶 **Kreston's Afternoon:** He rides the delivery round in the pram with the
+> rain cover ready. At 8 months the quiet soft play session suits him, and he
+> will crawl the length of a padded mat if you set him down at one end.
+> Neighbours lean into a pram at the door, so turn him to face you when they do.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Children need to see the effect of their kindness.**
+> Azlyn hands a neighbour a picture and watches a face open up. That reaction
+> teaches her far more than being told afterwards that she was kind. Under-fours
+> build a sense of themselves as someone who gives out of the response arriving
+> while the giving is still happening, which is why the hand-delivered picture
+> does more work than the posted one. The posted ones matter too, and they
+> teach a slower lesson about a thing that travels out of sight and lands
+> somewhere else. Give her both this afternoon, and make sure she is standing
+> there when at least one door opens.
+
+> ⚠️ **Safety:** Crayon stubs, coins and keys are all choking size, so they come
+> off the floor and the room gets swept before Kreston is put down. Check the
+> radiator is cold or turned off before she rubs it. Tape every foil edge flat
+> on the texture board, and stay with him while he has it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-56"></a>
+
+## 🌟 Day 56: The Gallery Opens 🌟
+**📅 Thursday, February 25, 2027**
+**Theme:** Art Masters Studio
+
+### 🌙 Prep Tonight
+> Gather the whole week into one pile: the mixed-colour paintings, the wet-paper ones, the cut-out garden, the portraits, the cave sheets, the woven card and the rubbings. Check you have masking tape.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Ones That Go on the Wall
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Hanging the Exhibition (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Looking at It from the Street (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: What Joseph Will Say (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Laying the Table for a Guest
+- **4:15–5:00 PM** — Quiet Play: Sitting in the Gallery
+- **5:00–5:45 PM** — 🛁 Wind-Down: Showing Joseph Round
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Ones That Go on the Wall
+
+**🧰 You need:** the week's work in one pile · a clear stretch of floor.
+
+1. Lay the whole week out on the floor in one long line. Six days of it.
+2. Ask her to pick the ones that go on the wall. Take every choice, and take the rejections without arguing.
+3. Count the chosen ones and put them in the order she wants them hung. That order is fixed from now until 10:15.
+
+### 🎨 The Main Event: Hanging the Exhibition
+
+**🧰 Complete Materials List:**
+- The week's paintings, cut-outs, rubbings, portraits and the woven card
+- Masking tape
+- String and 8 clothes pegs (hung above adult head height)
+- Card offcuts cut into label-sized rectangles
+- 1 permanent marker
+- A chair for you, for the high ones
+
+**📝 Step-by-Step Instructions:**
+1. Pick the wall. Somewhere Joseph walks past on his way in, and somewhere the light reaches.
+2. Start at her eye level and build upward, taping the low ones and pegging the high row to the string. The bottom row is hers to hang and reach, the top row is yours off the chair.
+3. Straighten every piece as it goes up. A straight row turns a wall of paper into an exhibition.
+4. Cut the card into labels. Ask her what each piece is and write her answer down, then her name and the day she made it.
+5. Tape each label under its picture. Walk the wall from end to end and read the whole thing back to her.
+6. Stand at the far side of the room together and look at the week.
+
+> 💡 **Tip:** Write her titles as she says them, the nonsense ones included. *Green one that went wrong* under a painting is worth more in ten years than *Painting, February*.
+
+### 🌳 Get Outside: Looking at It from the Street
+
+Go out the front and look back at your own window from the pavement, then walk
+the block and see what other people put in theirs. Cards on a sill, a child's
+drawing taped up, a plant, a cat asleep on a radiator. Count the windows with
+something in them. Wave at your own house on the way back in.
+
+> 👶 **Infant Integration:** Kreston is 8 months and hangs on to whatever he can
+> reach. Tape one of Azlyn's paintings low on a wall or a cupboard door at his
+> level, well away from the string, and let him crawl over and pat it. Azlyn
+> chooses which one is his.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: What Joseph Will Say
+
+One person in this house has not seen a single thing she made this week. The
+afternoon aims at the moment he walks through the door.
+
+**🧰 Complete Materials List:**
+- Card for tickets and a door sign
+- 1 permanent marker and masking tape
+- 1 sheet of paper, folded, for her prediction
+- Biscuits on a plate and a jug of water
+- A chair placed as the gallery seat
+- The hung exhibition
+
+**📝 Step-by-Step Instructions:**
+1. Make the door sign together. She dictates the words, you write them, and she signs underneath with whatever she thinks her name looks like.
+2. Cut tickets from the card, one for every person coming, and let her decide who is allowed in. Kreston gets one too.
+3. Set the room up: the chair facing the wall, biscuits on a plate, the jug and the glasses on the table.
+4. Walk the room the way a visitor would. In through the door, and ask what he sees first. Move things until she is happy with the order.
+5. Ask her which picture Joseph will like best. Take the first answer and do not steer it.
+6. Write her guess on the paper, fold it twice in front of her, and slide it under the biscuit plate. It stays there until he is in the room.
+7. Say nothing as he comes in and let her run the tour herself. Open the paper at the end and find out together.
+
+> 💡 **Tip:** Tell Joseph nothing beyond what time he needs to be home. She wants a reaction nobody rehearsed, and he will give her a better one walking in cold.
+
+### 🎯 Afternoon Alternatives
+- Tickets and biscuits, no wall. Tour the pile on the table.
+- Phone a grandparent and carry the camera along the wall.
+- Draw the gallery from the doorway, wall and all.
+- Put one piece in a real frame and hang it in the hall for good.
+
+### 🌳 Out Again: **Pick one**
+- **The pharmacy and a park bench**, with the prescription and a bag of crisps
+- The corner shop for the biscuits, and she picks them
+- The park, for a run before the gallery opens
+- Past Tuesday's fence weave, to see whether it survived
+- A short loop with the pram if the rain has set in
+
+> 👶 **Kreston's Afternoon:** He comes to the pharmacy in the carrier. At 8
+> months a queue full of strangers leaning in is hard work, so face him inward
+> and let him hide in your shoulder. He gets his ticket in your lap and he will
+> try to eat it. Sit him where he can watch the tour go past.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Anticipating someone else's future feeling is a big cognitive leap.**
+> Guessing which picture Joseph will like asks a great deal of a three-year-old.
+> She has to hold a mind that is not hers, load it with preferences that differ
+> from her own, and run it forward into an evening that has not happened yet.
+> Most children get good at that around four, so today she will pick her own
+> favourite and be taken aback when he chooses another. The guess is worth
+> making whether or not it lands. Sealing it under the biscuit plate gives her a
+> before and an after to compare, and comparing those two is where the skill
+> grows.
+
+> ⚠️ **Safety:** The pegged string comes down the moment the tour is over, and
+> it never hangs anywhere either child can reach. Use plastic beakers rather
+> than glasses with Kreston loose on the floor. His ticket stays in your lap,
+> and it comes back before it is chewed small enough to swallow.
+
+<div style="page-break-after: always;"></div>
+<a id="week-9"></a>
+
+## Week 9: My Body & Senses 🖐️
+**📅 February 26 – March 4, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Seven days on the outside and the inside of Azlyn. She gets drawn round at life
+size, sorts ten textures from rough to soft, pulls a face at a lemon, prints her
+hands and feet down the hall, builds a face out of dough that has to have a nose
+standing up off the tray, tests three paper ear trumpets and names six smells
+without being told what is in the pots. Each day hands her one sense and
+something solid to measure it against.
+
+February ends on Sunday and March starts on Monday, so the March handprint goes
+on the card first thing on Day 60, third of twelve, while her hands are still
+clean. That card and the fingerprint card are what you keep. The life-size
+outline rolls up under a bed, the dough family gets photographed and squashed
+back into a lump, and the touch line lasts until somebody needs the cardboard.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Body parts by name.** Ankle, wrist, elbow, ear, learned while your pencil is touching each one.
+- **Sorting on a scale she invents.** Ten textures laid out from rough to soft, and her order is the one that stands.
+- **Four tastes and a word for each.** Sweet, salty, sour and bitter, one saucer at a time, with yoghurt to clear her mouth between them.
+- **Whole-arm work.** Drawing at floor scale, squeezing lemons, kneading dough and rolling it flat.
+- **Fair testing.** Three paper ear trumpets, one sound, one distance, one thing changed at a time.
+
+---
+
+### 👩 What You'll Learn
+
+- Big movements come before small ones
+- Repetitive, contained tasks are surprisingly regulating
+- The gasp is the learning
+- Process art versus product art
+- Three dimensions are harder than two, and worth the time
+- Testing before committing is a habit worth encouraging
+- "What is it?" is the question to stop asking
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] Cardboard boxes to flatten, or a roll of lining paper, longer than Azlyn lying down
+- [ ] Cardboard tubes, 3
+- [ ] Masking tape, 2 rolls
+- [ ] Parcel tape
+- [ ] Plain paper, a stack, and thin card, 4 sheets
+- [ ] A paper bag
+- [ ] Thick white card, 4 sheets
+- [ ] Red and pink scrap paper
+- [ ] Fat crayons, plus a box of ordinary ones
+- [ ] A pencil, a fine pen and a permanent marker
+- [ ] A glue stick
+- [ ] Scissors and a skewer (adult only)
+- [ ] A hand mirror
+- [ ] Kitchen foil
+- [ ] Cotton wool
+- [ ] A fabric scrap, a ribbon, an emery board, a bottle cap, a piece of corrugated card and a leaf off the path
+- [ ] Sponges, 2
+- [ ] A washing-up bowl, 2 smaller bowls and 1 shallow bowl
+- [ ] A jug, 3 cups, 2 spoons and a whisk
+- [ ] Old towels, 4, and a flannel
+- [ ] Food colouring
+- [ ] Washable non-toxic poster paint in red, yellow, white and brown
+- [ ] A wide soft brush, plus a dry one for Kreston
+- [ ] Lemons, 4
+- [ ] Oranges, 3
+- [ ] An apple
+- [ ] Plain crackers
+- [ ] Plain yoghurt, a big pot
+- [ ] Plain unsweetened cocoa
+- [ ] Jam, for a second sweet taste
+- [ ] Sugar
+- [ ] Salt, 500 g (a cup of it goes into the playdough)
+- [ ] Plain flour, 500 g
+- [ ] Cooking oil, 1 tbsp
+- [ ] Ground coffee, ground cinnamon and a cinnamon stick
+- [ ] A dried herb, a sliver of soap and a drop of vanilla
+- [ ] Small saucers, 4, and teaspoons, 4
+- [ ] A table knife, a fork and a small sieve
+- [ ] A lemon squeezer, or a second fork instead
+- [ ] Small cups, one per person
+- [ ] Yoghurt pots or paper cups, 8, cleaned out
+- [ ] Wooden spoons, 2, and a metal one
+- [ ] A saucepan for banging and a small one for the hob
+- [ ] A rolling pin and a flat tray or board
+- [ ] A ruler
+- [ ] A magnifying glass
+- [ ] A torch with fresh batteries
+- [ ] A ticking clock
+- [ ] String, 5 metres
+- [ ] Elastic bands
+- [ ] Paperclips or matchsticks, 2
+- [ ] A sealable bag for Kreston's own lump of dough
+- [ ] Your phone, charged, for the sour face and the family photo
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, this week she works out how big she is by standing next to things,
+> and you are most of the things. Your foot in the frost beside her boot, your
+> hand flat against hers over the fingerprint card, your heartbeat after she has
+> found her own. Kreston is at the age where he checks your face before he
+> commits to anything, so both of them spend the week consulting you, on lemons
+> and on strangers. Take the photo on Sunday when the lemon lands. I want the
+> face, and I want to see who she looks at half a second after it.
+
+---
+
+> 👶 **Kreston is 8 months this week**. He crawls or shuffles, bangs two things
+> together for the noise of it, and has arrived at being wary of new faces.
+> **He turns 9 months on Friday the 5th, the first day of next week.**
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-57"></a>
+
+## 🌟 Day 57: Head to Toe 🌟
+**📅 Friday, February 26, 2027**
+**Theme:** My Body & Senses
+
+### 🌙 Prep Tonight
+> Flatten every box you have, or unroll lining paper, tape the pieces into one sheet longer than Azlyn, and leave it rolled by the hall door.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Biggest Paper in the House
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Life-Size Azlyn (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Footprints in the Frost (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Inside the Outline (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Outline on the Floor
+- **5:00–5:45 PM** — 🛁 Wind-Down: Naming the Parts in the Bath
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Biggest Paper in the House
+
+**🧰 You need:** the taped sheet or flattened boxes · 1 roll masking tape · fat crayons.
+
+1. Unroll the whole thing down the hall and let her walk the length of it in socks.
+2. Have her lie down on it in three different shapes while you tape the corners to the floor. Arms out, arms in, one leg up.
+3. Ask which shape she wants to keep. That is the pose she holds at 9:15, so let her practise while you count to twenty.
+
+### 🎨 The Main Event: The Life-Size Azlyn
+
+**🧰 Complete Materials List:**
+- Flattened cardboard boxes or a roll of lining paper, enough to cover her lying down
+- 1 roll masking tape
+- Fat crayons, one for each hand
+- 1 pencil
+- 1 permanent marker
+- A hand mirror
+
+**📝 Step-by-Step Instructions:**
+1. She lies down in the pose she chose. Draw round her with the pencil, feet first, naming as you go: ankle, knee, hip, elbow, wrist, ear. Keep the pencil touching her so she can feel where you are.
+2. Get her up and let her look. She will not know it for herself at first, and standing beside something her own size is the reason for all that paper.
+3. Go over the pencil line with the marker together, your hand starting each stretch and hers finishing it.
+4. Give her the mirror and let her study her own face before she draws it in. Do not name the parts for her. She puts in what she sees, and one eye will be bigger.
+5. Hand her a fat crayon for each hand. The clothes get filled in standing up and leaning over, whole arm, not sitting down with her wrist on the floor.
+6. Write her name and the date across the top, then stand it against a wall where she walks past it.
+
+> 💡 **Tip:** Draw round her in one continuous line, including the bit that goes wrong under her armpit. Lifting the pencil to tidy the shape turns her outline into your drawing.
+
+### 🌳 Get Outside: Footprints in the Frost
+
+Late February still comes up white on the shaded side of walls and on the grass
+by the car. Find frost, or mud gone stiff with cold, and let her stamp one boot
+down and lift it straight up. Put your foot beside hers and let her see the
+difference. Walk a line of prints across the white patch, then walk backwards
+in them.
+
+> 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
+> with great pleasure and no purpose beyond the noise. Lay him at the far end of
+> the paper with two wooden spoons: crackle underneath, racket on top. Draw
+> round one of his feet on a corner of the sheet while he is down there. He will
+> kick the pencil away twice before you get it.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Inside the Outline
+
+She fills in the parts of herself she has never seen.
+
+**🧰 Complete Materials List:**
+- The life-size outline
+- Red and pink scrap paper
+- 1 glue stick or masking tape
+- Scissors (**adult only**)
+- 1 cardboard tube
+- 1 permanent marker
+
+**📝 Step-by-Step Instructions:**
+1. Ask her where her heart is and let her put a flat hand on the spot she picks. Take the answer as it comes.
+2. Tear a heart out of the red paper rather than cutting one. Torn edges hand her the whole job and it can come out lopsided.
+3. Stick it on the outline where she said. Then hold the cardboard tube to her own chest and let her listen until she finds the beat, and let her hear yours after.
+4. Cut long strips of pink paper for bones while she watches, and let her lay them down the arms and legs. Have her squeeze her own forearm first to meet the hard line inside it.
+5. Add a tummy, one big oval stuck low down, and tell her what goes in and how long the trip takes.
+6. Stand her up and count twenty jumps out loud, then the tube back on her chest the second she stops.
+7. Ask her what changed. Write her answer on the outline beside the heart, word for word.
+
+> 💡 **Tip:** Roll the outline up tonight instead of binning it. She goes back to it at 4:15, and it stores flat under a bed.
+
+### 🎯 Afternoon Alternatives
+- Draw round her hands and feet only, on ordinary paper.
+- Draw round a teddy and let her fill that in instead.
+- Lie down on the floor and let her draw round you.
+
+### 🌳 Out Again: **Pick one**
+- **Meet a friend at the park**, and take the outline along to show somebody
+- The park on your own, for the swings and the cold
+- A friend's house, kettle on, both children on the floor
+- The long way home, counting who you pass who is taller than her
+
+> 👶 **Kreston's Afternoon:** At 8 months he has arrived at being wary of new
+> faces, so keep him on you at the park instead of passed round. He will study
+> your friend from your shoulder before he decides. Back home, lie him on his
+> back and let Azlyn hold the tube over his chest. He grabs it, which counts as
+> taking part.
+
+### 🌍 Around the World: Hello Everywhere 👋
+
+Hellos are made with the body, and every place picks a different part of it. In
+Japan people bow, and the deeper bow carries the more respect. Māori in New
+Zealand greet with the **hongi**, pressing noses and foreheads together. In much
+of France it is kisses on the cheek, and the number changes from town to town.
+
+> **✨ Try it:** In many countries a guest gets food before conversation. Set a
+> small plate of bread or dates up on the side and let Azlyn hand it to whoever
+> comes in today.
+
+> *Did you know?* In the hongi, two people share one breath.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Big movements come before small ones.**
+> Azlyn's control grows from the middle of her body outward: shoulder before
+> elbow, elbow before wrist, wrist before fingers. Sweeping a crayon across paper
+> the size of herself builds the shoulder and trunk strength that a pencil grip
+> later sits on top of. Occupational therapists ask for floor-scale and vertical
+> work for that reason, and the bigger the surface, the more of her arm has to
+> join in. A sheet of A4 on a table asks her fingers for control her shoulder has
+> not earned yet. Give her the floor, the wall and the driveway this year and the
+> small stuff turns up on its own.
+
+> ⚠️ **Safety:** Scissors stay with you and go back out of reach between cuts.
+> Torn scraps, tape and the glue stick come off the floor the moment you stop
+> watching Kreston. Bread and dates are a choking hazard at 8 months, so that
+> plate stays up on the side, not down by the door where he travels.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-58"></a>
+
+## 🌟 Day 58: The Feel of Things 🌟
+**📅 Saturday, February 27, 2027**
+**Theme:** My Body & Senses
+
+### 🌙 Prep Tonight
+> Cut a metre-long strip from the side of a box and leave it on the table with the parcel tape, and put two old towels by the sink.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Ten Things That Feel Different
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Touch Line (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Bare Hands on Cold Things (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Warm Water Table (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Texture Basket
+- **5:00–5:45 PM** — 🛁 Wind-Down: Warm Towel, Long Bath
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Ten Things That Feel Different
+
+**🧰 You need:** 1 paper bag · the run of the house · her hands.
+
+1. Hand her the bag and walk her round the rooms. She collects ten things that feel different, one per room if she stalls.
+2. Keep your hands out of the choosing. If she takes the emery board and leaves the ribbon in the drawer, the ribbon stays in the drawer.
+3. Sit on the floor and lay all ten in a line. Ask which is the roughest, leave that one at the end of the row, and go and have breakfast.
+
+### 🎨 The Main Event: The Touch Line
+
+**🧰 Complete Materials List:**
+- 1 long strip of cardboard, about a metre
+- Ten household textures: foil, cotton wool, corrugated card, fabric scrap, ribbon, an emery board, a bottle cap, a leaf, a strip of tape sticky side up, a sponge
+- Parcel tape and masking tape
+- Scissors (**adult only**)
+- 1 permanent marker for labels
+
+**📝 Step-by-Step Instructions:**
+1. Lay the strip on the floor and tape the roughest thing she picked at one end. That end is fixed, and everything else gets placed against it.
+2. Work along the strip. Each new thing has to feel softer than the one before, and she decides. Tape across the middle of each so the edges stay free to touch.
+3. Let her change her mind. Peel the fabric off and move it two places down if she says so. The arguing is the sorting.
+4. Put the strip of tape sticky side up somewhere in the middle. It sits outside her scale, and she will say so.
+5. Write her word for each one underneath in marker. Scratchy, fluffy, bumpy, sharpy, whatever comes out of her.
+6. Shut her eyes, set her finger on the rough end and let her run it down the line. She calls out where she thinks she has got to, then opens her eyes and checks.
+
+> 💡 **Tip:** Do not fix her order. Softness is a scale she is inventing this morning, and hers holds together even where yours would run another way.
+
+### 🌳 Get Outside: Bare Hands on Cold Things
+
+Gloves off for a minute at a time. Flat palm on a car roof, a metal gate, a
+brick wall, a railing in the sun and the same railing in the shade. Metal pulls
+heat out of her hand faster than brick, so the gate feels colder than the wall
+at the same temperature and she will say so. Gloves back on the moment she says
+cold.
+
+> 👶 **Infant Integration:** Kreston is 8 months and travelling now, so the floor
+> belongs to him. Tape a palm-sized square of foil, fabric, corrugated card and
+> sponge onto a tray and set it in his path. He crawls up, plants a hand on the
+> foil and stops dead. Keep every square bigger than his mouth.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Warm Water Table
+
+Two bowls on old towels on the kitchen floor, and nothing in the next ninety
+minutes has to be finished.
+
+**🧰 Complete Materials List:**
+- 1 washing-up bowl of warm water
+- 1 smaller bowl of cold water
+- 1 jug, 3 cups, 2 spoons
+- 2 sponges
+- 1 whisk
+- 2 old towels for the floor
+- Food colouring, 2 drops, optional
+
+**📝 Step-by-Step Instructions:**
+1. Fill the big bowl with warm water, wrist-tested, and the small one with cold. Set them a hand's width apart on the towels.
+2. Both hands into the warm bowl, count to ten together, then both hands into the cold and count again. Ask her which hand knows the difference.
+3. Put out the jug, cups, spoons, sponges and whisk, then sit down where she can see you and stop giving instructions.
+4. She will pour one bowl into the other within four minutes. Let the two temperatures become one and let her hands find out.
+5. Drop two drops of colouring into the cold bowl as interest dips. That buys you the whole second half.
+6. Hand her a sponge to soak and squeeze out over the big bowl. Heavy work for her hands, and she stays with it longest of all.
+7. Tip both bowls into the sink yourself the moment she walks away.
+
+> 💡 **Tip:** Change her top, not the plan. A wet shirt ends the afternoon at half past one, and a dry one buys you another forty minutes.
+
+### 🎯 Afternoon Alternatives
+- One bowl, warm water, one cup, nothing else.
+- Ice cubes dropped into warm water, no goal beyond watching.
+- Feet in the bowl instead of hands.
+
+### 🌳 Out Again: **Pick one**
+- **The fire station, or a field with a tractor in it**, whichever is nearer
+- A building site fence, for diggers doing something loud
+- The pet shop, for warm fur and cold glass
+- The park, for cold metal, wet rope and a slide that stings
+
+> 👶 **Kreston's Afternoon:** He goes in the sling or the highchair while the
+> bowls are on the floor, and out of the room the second you cannot watch both
+> children. Once the water is gone, hand him a dry bowl, a wooden spoon and a
+> metal one. Banging two things together is his month's work, and the metal
+> spoon wins.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Repetitive, contained tasks are surprisingly regulating.**
+> Azlyn will pour the same jug into the same bowl thirty times, and you will
+> start wondering when she plans to do something with it. The repetition is the
+> activity. A task with a clear edge round it, one bowl, one jug, one action,
+> hands her a small world she controls on a day when adults decide most of the
+> rest. The feedback never changes, so her body stops bracing for surprises and
+> settles. Montessori classrooms are built on this. Set it out, sit down, and
+> let it run well past the point where you have had enough.
+
+> ⚠️ **Safety:** Standing water and a newly crawling 8-month-old. Kreston can
+> drown in the depth of a washing-up bowl in the time it takes to answer the
+> door. Tip it out the moment she is finished, and never leave the room with it
+> full.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-59"></a>
+
+## 🌟 Day 59: Four Tastes 🌟
+**📅 Sunday, February 28, 2027**
+**Theme:** My Body & Senses
+
+### 🌙 Prep Tonight
+> Put a lemon, crackers, an apple, the cocoa and the yoghurt on the counter with four saucers and four teaspoons, and check you have three more lemons for the afternoon.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Cutting the Tasting Plate
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Sour Face Test (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Hunting for the First Green (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Fixing the Lemonade (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Empty Lemon Halves
+- **5:00–5:45 PM** — 🛁 Wind-Down: Two Books on the Sofa
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Cutting the Tasting Plate
+
+**🧰 You need:** 1 lemon · 1 apple · plain crackers · 1 table knife · 4 small saucers.
+
+1. Sit her at the table and let her hold the whole lemon in both hands, smell the skin and roll it before anything gets cut.
+2. You cut the lemon into thin wedges. She cuts the apple beside you with a table knife on a board, slow and under your hand.
+3. She loads one saucer per taste and decides where each saucer sits on the table. Nobody tastes a thing before 9:15, and telling her that is most of the hour.
+
+### 🎨 The Main Event: The Sour Face Test
+
+**🧰 Complete Materials List:**
+- 1 lemon, cut into thin wedges
+- Plain crackers and a pinch of salt
+- Apple slices or a little jam
+- Plain unsweetened cocoa, a dab on a teaspoon, for bitter
+- Plain yoghurt to reset her mouth between tastes
+- 4 small saucers and 4 teaspoons
+- Paper and a marker
+- Your phone
+
+**📝 Step-by-Step Instructions:**
+1. Line the four saucers up in front of her: apple, cracker with salt, lemon, and the dab of cocoa. Yoghurt goes in the middle as the reset.
+2. Start with the sweet one so she trusts the game. Photograph her face while she is tasting, not after.
+3. Ask for a word before you offer one of your own. Write her word on the paper under a rough drawing of that saucer.
+4. Lemon next. Have the camera up before it reaches her mouth, because the face lasts about a second and a half.
+5. Salt, then cocoa last. A spoon of yoghurt between each one clears her mouth and gives her something to look forward to.
+6. Read the four words back in order and let her choose which taste she wants again. Give her that one.
+
+> 💡 **Tip:** Let her spit the cocoa out. Bitter keeps small children away from what would harm them, and her body doing its job is worth the mess.
+
+### 🌳 Get Outside: Hunting for the First Green
+
+The last morning of February and something is up already. Snowdrops under
+hedges, daffodil spears standing in the cold, bulbs pushing through the gap
+between path and wall. Give her a bag and one job: find five green things, and
+fat buds on bare twigs count. Stand the best one in a cup of water on the
+windowsill where she can watch it.
+
+> 👶 **Infant Integration:** Kreston is 8 months and gets none of the four
+> saucers, but he can sit in the highchair through the whole thing with a strip
+> of soft apple or a spoon of plain yoghurt. Watch his face when the yoghurt
+> lands. He is wary of new things this month and checks yours first, so let him
+> see you eat before he commits.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Fixing the Lemonade
+
+Three lemons, a jug and a bag of sugar. She is in charge of how it tastes and
+you are the one doing what she says.
+
+**🧰 Complete Materials List:**
+- 3 lemons
+- 1 lemon squeezer or a fork
+- Sugar and a teaspoon
+- 1 jug of cold water
+- 1 wooden spoon
+- 1 small sieve
+- Small cups, one per person
+
+**📝 Step-by-Step Instructions:**
+1. Halve the lemons and let her squeeze them. A fork stabbed into the cut half and twisted works as well as a squeezer and takes more effort out of her arms.
+2. Pour the juice through the sieve into the jug. Let her taste it neat, one teaspoon. The face from this morning comes back.
+3. Add sugar a spoon at a time. She stirs, she tastes with a clean spoon, she says more or stop.
+4. She will overshoot and make it too sweet to drink. Say nothing, hand her the water and let her add a splash at a time, tasting after each one, until she works out she can go too far in both directions.
+5. She calls it finished. That is the recipe, and nobody adjusts it after she has said so.
+6. She pours a cup for every person in the house and carries them round herself.
+
+> 💡 **Tip:** Give her a clean teaspoon for each taste and keep them in a row. Tasting from the stirring spoon is how she ends up drinking the whole jug.
+
+### 🎯 Afternoon Alternatives
+- Squeeze one lemon into a glass of water and stop there.
+- Sweeten plain yoghurt to her order instead.
+- Set up a doorstep lemonade stand for the family only.
+
+### 🌳 Out Again: **Pick one**
+- **The scooter or the balance bike**, on the flattest path you know
+- Feeding the ducks with this morning's crusts
+- A playground you drive past and never stop at
+- The garden or the front step, with the lemonade jug
+
+> 👶 **Kreston's Afternoon:** At 8 months he goes in the pram while she scoots,
+> and the wheels beside him are the entertainment. Stop somewhere flat and put
+> him down on a rug with a plastic jug and a wooden spoon. He fills, tips, bangs
+> and starts again. Keep the squeezed lemon halves and every pip away from him.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **The gasp is the learning.**
+> The face Azlyn pulls when the lemon lands is her brain filing something away.
+> She predicted one thing, got another, and that mismatch is what makes the
+> memory stick. Researchers working with babies and toddlers find that a child
+> explores an object for longer, and remembers more about it, after it has done
+> something she did not expect. Surprise flags the moment as worth keeping. You
+> cannot manufacture it by explaining first, which is the argument for handing
+> her the lemon before you say the word sour. Her face doing that beats her
+> repeating the word back to you at teatime.
+
+> ⚠️ **Safety:** Kreston is 8 months and gets none of this. No honey before one
+> year, no salt, no lemonade. Cut anything he does get into strips rather than
+> rounds, stay at his eye level while he eats, and keep grapes, whole crackers
+> and lemon rind off the floor where he now travels.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-60"></a>
+
+## 🌟 Day 60: Hands and Feet 🌟
+**📅 Monday, March 1, 2027**
+**Theme:** My Body & Senses
+
+### 🌙 Prep Tonight
+> Tape paper or flattened boxes end to end down the hall floor, and check you have 2 cups of flour and a cup of salt, because tomorrow's playdough gets made tonight.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Mixing Her Own Colour
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Ten Fingers, Ten Toes (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Boot Prints in the Mud (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Everybody's Fingerprints (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: Crayons on the Leftover Roll
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Long Bath
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Mixing Her Own Colour
+
+**🧰 You need:** red, yellow, white and brown poster paint · 4 saucers · 1 wide soft brush.
+
+1. Put a blob of red, white and brown on three saucers and leave the fourth empty.
+2. She mixes her own skin colour in the empty saucer. She adds, you stir, she holds the back of her hand next to it and checks.
+3. Keep going until she says it matches. Nobody else gets a vote, and the colour she lands on is the one you use for the next two hours.
+
+### 🎨 The Main Event: Ten Fingers, Ten Toes
+
+**🧰 Complete Materials List:**
+- Washable non-toxic poster paint in red, yellow, white and brown
+- 4 saucers
+- A long strip of paper or flattened boxes taped end to end
+- 1 wide soft brush
+- 1 sheet of thick card for the March handprint
+- 1 bowl of warm soapy water and 2 old towels, set up before you start
+- 1 permanent marker
+
+**📝 Step-by-Step Instructions:**
+1. Water bowl and towels at the far end of the paper before a drop of paint comes out of the tub.
+2. Do the March handprint first, on the thick card, while her hands are clean. Brush the paint on, press flat, count to three, lift straight up. Write **March** and **3** beside it. Third of twelve.
+3. Paint one palm and let her print her way down the paper roll however she likes. Some will smear.
+4. Sit her on a chair at the end of the roll and paint the soles of her feet with the brush. She will laugh and snatch her foot back, and the arch is the worst of it.
+5. Hold both her hands and walk her the length of the paper. Slow steps. Wet paper slides on a hard floor, so keep hold the whole way.
+6. Straight into the warm water, feet first, before she stands anywhere else.
+
+> 💡 **Tip:** Paint her, do not dip her. A loaded brush leaves a thin even layer and gives you a print with the lines in it. A saucer gives you a blob.
+
+### 🌳 Get Outside: Boot Prints in the Mud
+
+March mud is the best mud of the year, wet through and no longer frozen. Go
+hunting in it for prints somebody else left: a bird, a dog, a tyre, the ridged
+sole of a boot. Work out together who came past and which way they went. The
+soft ones fill with water while you watch, which she will report to you at
+length.
+
+> 👶 **Infant Integration:** Kreston is 8 months and gets one foot printed on
+> the card beside Azlyn's hand. Sit him on your lap facing away, flannel open on
+> your knee, brush the sole and press the card up to the foot rather than the
+> foot down to the card. Then he stays out of the hall, because a crawling baby
+> and a painted floor make a bad afternoon.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Everybody's Fingerprints
+
+One saucer, one fingertip each, and every person in the house on a single sheet
+of card.
+
+**🧰 Complete Materials List:**
+- 1 saucer of paint
+- Thick white paper or card
+- 1 magnifying glass, or your phone camera zoomed in
+- 1 torch
+- 1 fine pen or pencil
+- 1 wet flannel in a shallow bowl
+
+**📝 Step-by-Step Instructions:**
+1. Press one finger of each person into the paint and onto the card, in a row, and write the name under each print in pen.
+2. Do Kreston's while he is calm, with the flannel already in your other hand.
+3. Hand her the magnifying glass and hold the torch at a low angle across the card, so the loops throw shadows and lift off the paper.
+4. Compare two prints at a time and ask her to find one difference. Yours against hers is the easiest pair to start on.
+5. Press a clean finger onto a window and shine the torch sideways at it, so she meets the print she leaves without any paint at all.
+6. Write the date on the card and store it with this morning's handprint card.
+
+> 💡 **Tip:** Tell her once that nobody in the world has her pattern, including Kreston, then stop talking and let her sit with it.
+
+### 🎯 Afternoon Alternatives
+- Thumbprints only, turned into caterpillars with a pen.
+- Hunt for her own prints on the fridge door with the torch.
+- Paint one big handprint each and hang them side by side.
+
+### 🌳 Out Again: **Pick one**
+- **The riverside path**, to see how high the water is running after the rain
+- The neighbourhood park, boots on and nobody there
+- A puddle circuit with no destination
+- The post box, and let her push the letter in
+
+> 👶 **Kreston's Afternoon:** At 8 months the pram is fine for the path, but give
+> him ten minutes out of it on a blanket somewhere flat. He crawls to the edge,
+> meets grass with his palm and stops to think about it. Let him meet cold ground
+> on purpose while you sit there, then back in the pram before his hands cool.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Process art versus product art.**
+> Azlyn wanted the cold paint on her palm, the squelch under her heel and the
+> walking. The sheet of paper at the end is a by-product of ninety seconds she
+> enjoyed. Three-year-olds meet almost every material this way, and a child asked
+> to produce something recognisable spends the session watching your face to find
+> out whether it counts. You did keep one thing today, the March handprint, and a
+> keepsake is a fair reason to steer her hands for two minutes. Hang the rest of
+> the roll in the hall for a week, then let it go, and tell her that is the plan.
+
+> ⚠️ **Safety:** A painted foot on a hard floor slides out from under her. Keep
+> the printing to one room, towels down at both ends, and wipe her soles before
+> she steps off the paper. Washable non-toxic paint only, and keep the saucers
+> off the floor while Kreston is crawling.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-61"></a>
+
+## 🌟 Day 61: Making a Face 🌟
+**📅 Tuesday, March 2, 2027**
+**Theme:** My Body & Senses
+
+### 🌙 Prep Tonight
+> Make the playdough while the kettle boils: 2 cups flour, 1 cup salt, 1 tbsp oil, 1 cup water, kneaded warm, and leave it bagged on the counter with the hand mirror.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Two Colours of Dough
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Nose That Sticks Out (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Faces on the Ground (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: A Family That Stands Up (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Dough Family in a Tub
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath After Swimming
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Two Colours of Dough
+
+**🧰 You need:** the dough · food colouring · 2 bowls · a floured board.
+
+1. Split the dough in half and put a few drops of colour into the middle of each lump. She pushes the colour in with her thumbs.
+2. Knead until the streaks disappear. It takes longer than she expects, which is the reason it sits at 8:00 and not at 9:15.
+3. Ask whose face she plans to make. Let her say it out loud, then leave her an hour to change her mind, because she will.
+
+### 🎨 The Main Event: The Nose That Sticks Out
+
+**🧰 Complete Materials List:**
+- Playdough: 2 cups flour, 1 cup salt, 1 tbsp oil, 1 cup water, food colouring
+- 1 hand mirror
+- 1 flat tray or board
+- 1 table knife and 1 fork for texture
+- 1 rolling pin
+
+**📝 Step-by-Step Instructions:**
+1. Prop the mirror at her eye level and let her study her own face before her hands touch the dough.
+2. Roll a flat oval on the tray for the face. She does the rolling pin, you hold the tray still.
+3. Eyes first, because she will do those first anyway. Two balls, pressed flat with a thumb.
+4. Now the nose, and it has to come up off the tray. A flat blob will not pass. Send her back to the mirror to run one finger down the side of her own.
+5. Ears next, out sideways past the edge of the oval. Have her find her own with both hands before she rolls them.
+6. Hair, eyebrows and mouth last, with the fork dragged through for texture and the knife for the mouth line. Photograph it, because a dough face does not survive the day.
+
+> 💡 **Tip:** Say the parts out loud as she puts them on, without turning it into a quiz. She fits the words to her own face while her hands are busy.
+
+### 🌳 Get Outside: Faces on the Ground
+
+Take a bag and collect face parts off the ground: two matching stones for eyes,
+a stick for a mouth, a curl of bark for a nose, moss or dead grass for hair.
+Build the face on a flat bit of pavement or on a tree stump and leave it there
+for whoever comes next. Photograph it and check tomorrow whether it survived.
+
+> 👶 **Infant Integration:** Kreston is 8 months and faces are his subject this
+> month. Hold the mirror in front of him and watch him reach for the baby in it,
+> then hide behind your hands and come back. Wariness and delight arrive in the
+> same ten seconds. Give him a sealed bag of dough to squash while Azlyn builds.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: A Family That Stands Up
+
+Everyone in the house gets made out of dough, and every one of them has to stand
+on the tray without falling over.
+
+**🧰 Complete Materials List:**
+- The dough from this morning
+- 1 flat tray as the standing ground
+- 2 cardboard tubes cut short, for anyone who needs a stand
+- 1 table knife
+- A photo of the family on your phone
+- A ruler or a strip of card for comparing heights
+
+**📝 Step-by-Step Instructions:**
+1. Prop your phone up with the family photo on it where she can see it while she works.
+2. Start with the smallest. Kreston is a body, a head and no legs worth speaking of, so he stands up on the first try.
+3. Azlyn next. She rolls two legs and tests them on the tray before the head goes on top.
+4. One of them will topple. Ask her what would fix it and wait. Thicker legs, bigger feet or a tube behind the back are all fair answers, and she picks.
+5. Build the tall ones last. They fall over most, and by then she has three collapses behind her to work from.
+6. Stand the whole family on the tray in height order, measure them against the ruler, and photograph the row beside the real family photo so she can tell you who is who.
+
+> 💡 **Tip:** Fat legs and big feet hold a dough person up, and she gets there by watching three of them fall. Do not fix the first one for her.
+
+### 🎯 Afternoon Alternatives
+- Flat dough people lying on the tray, no standing required.
+- Make the family out of pegs and scrap fabric instead.
+- Build only Kreston, twenty times, because that is where she is.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and she gets herself changed this year
+- Soft play if the session is booked out
+- The library, a day early
+- A long bath at home and an early tea, if the morning ran hot
+
+> 👶 **Kreston's Afternoon:** At 8 months the changing room is full of strangers,
+> so keep him facing you until you are both in the water. He sits supported in
+> your hands and slaps the surface with two flat palms, and twenty minutes of
+> that will do him. Get him out and dressed before he cools.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Three dimensions are harder than two, and worth the time.**
+> Drawing a face on paper asks Azlyn to flatten something she has only ever met
+> as a solid. Dough lets her keep it solid, and a nose that has to stand up off
+> the tray sets her a problem no crayon can. She holds the shape in her head,
+> turns it over, checks it against her own face and adjusts. Spatial thinking of
+> that sort predicts later maths ability better than counting practice does, and
+> it responds to this kind of work: hands on material, objects turned round,
+> decisions about how a thing sits. Twenty minutes of dough beats twenty
+> worksheets, and she stays with it longer.
+
+> ⚠️ **Safety:** Salt dough is dangerous swallowed, and at 8 months Kreston puts
+> everything in his mouth and can now reach the table leg. Give him his own
+> sealed bag of dough to squash and nothing loose. If you cook the dough, the pan
+> is hot and the doorway is where he will be.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-62"></a>
+
+## 🌟 Day 62: What Ears Are For 🌟
+**📅 Wednesday, March 3, 2027**
+**Theme:** My Body & Senses
+
+### 🌙 Prep Tonight
+> Put four sheets of paper, the masking tape and two elastic bands on the table, and wind off five metres of string onto a high shelf.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Rolling the Paper Cones
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Ear Trumpet Test (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Listening Stop (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The String Telephone (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Library** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: Listening Through the Trumpet
+- **5:00–5:45 PM** — 🛁 Wind-Down: Reading What She Chose
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Rolling the Paper Cones
+
+**🧰 You need:** 4 sheets of paper or thin card · masking tape · 2 elastic bands.
+
+1. Roll one sheet into a cone with a wide mouth and a hole at the point big enough for her ear. Hold it closed while she winds the elastic band on.
+2. She rolls the next two herself, one fat and one thin. Crooked is fine, and turns out to be useful.
+3. Hold each one to her ear and say nothing about which sounds best. She finds that out at 9:15.
+
+### 🎨 The Main Event: The Ear Trumpet Test
+
+**🧰 Complete Materials List:**
+- 4 sheets of paper or thin card
+- 1 roll masking tape
+- 2 elastic bands
+- A ticking clock, or your phone playing something quiet in the next room
+- 1 saucepan and a wooden spoon, for the far-away noise
+- Crayons for decorating the winner
+
+**📝 Step-by-Step Instructions:**
+1. Send the noise away first. A ticking clock in the next room, or the saucepan and spoon at the far end of the hall.
+2. Bare ears first. Let her tell you how much she gets from where she stands.
+3. Cone one against one ear, other ear covered with her hand. Same sound, same distance. Ask her better or the same.
+4. Cone two, then cone three, in that order, at that distance, with nothing else changed between goes.
+5. She calls the winner, even where you would have picked another. Tape that cone so it holds its shape.
+6. She decorates the winner with crayons and it is hers for the day. The other two go on the shelf until 4:15, and she says what happens to them.
+
+> 💡 **Tip:** Keep the sound the same and change one cone at a time. She is running a fair test without the words for it, and swapping the noise halfway wrecks the hour.
+
+### 🌳 Get Outside: The Listening Stop
+
+Walk to a bench or a low wall and stop dead for two minutes. Nobody talks. Hold
+up a finger for each sound she catches: a car, a crow, a door, a plane, wind in
+a bare hedge, her own breathing. Early March carries sound further than summer
+does, with no leaves out yet to soak it up. Take the trumpet and let her aim it
+at the furthest one.
+
+> 👶 **Infant Integration:** Kreston is 8 months and turns his whole head to a
+> sound now instead of moving his eyes and giving up. Sit behind him and shake a
+> set of keys to one side, then the other, and watch the head come round. Once
+> Azlyn has finished testing, hand him the saucepan and the wooden spoon. A pan
+> is the loudest thing in the house and he knows it.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The String Telephone
+
+Two cups and five metres of string between two rooms. She works out the rule
+before you get to say it.
+
+**🧰 Complete Materials List:**
+- 2 paper cups or clean yoghurt pots
+- 3–5 metres of string
+- 1 pencil or skewer to pierce the cups (**adult only**)
+- 2 paperclips or matchsticks to anchor the knots
+- Scissors (**adult only**)
+
+**📝 Step-by-Step Instructions:**
+1. Pierce one small hole in the bottom of each cup yourself, dead centre, with her hands well back.
+2. Thread the string in from the outside and knot it round a paperclip inside the cup so it cannot pull back through. She holds the cup while you tie.
+3. Test it across one room, both of you standing, string pulled tight. You talk, she listens, then swap over.
+4. Let the string go slack and try again. She gets nothing, and she will tell you before you ask. Run it round a door frame into the next room and it dies at the corner too. Leave her to find the straight line that brings it back.
+5. Whisper down it. That is the run that convinces her, because she can see your mouth moving and hears nothing without the cup at her ear.
+6. Take it down, wind the string up and put it away before you do anything else.
+
+> 💡 **Tip:** Give her the listening end first. A three-year-old handed the talking end shouts into the cup, and a shout crosses the room through the air anyway.
+
+### 🎯 Afternoon Alternatives
+- One cup and one length of string, held to the ear like a stethoscope.
+- Tap a message down the radiator pipe and listen at the other end.
+- Hide a ticking clock and let her find it by ear alone.
+
+### 🌳 Out Again: **The Library**
+- **The library**, and let her ask for the book out loud instead of pointing
+- Soft play if the library is packed with a school group
+- The park, for the swings on the way back
+- The charity shop, for a book she gets to keep
+
+> 👶 **Kreston's Afternoon:** Take him to the library and put him down in the
+> board-book corner. At 8 months he chews books, which is what board books are
+> for, and he bangs two together before he opens either. New faces at storytime
+> may be too much this month, so sit at the edge with him facing you.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Testing before committing is a habit worth encouraging.**
+> Azlyn made three cones and found out which one worked before any of them got
+> decorated. That order matters more than the cones do. A three-year-old who
+> tries the rough version first is learning that a plan is a thing you check, and
+> the check costs her nothing here, because the materials are paper and tape.
+> Engineers call it prototyping and Azlyn calls it having a go. You back it up
+> every time you let a poor idea run to its end instead of heading it off,
+> because the cone that heard nothing taught her as much as the one she kept.
+
+> ⚠️ **Safety:** Take the string telephone down and put the string away the
+> second you finish. A loop of string at toddler height is a strangulation risk,
+> and Kreston crawls now, so it never stays up while you make a cup of tea.
+> Scissors and the skewer stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-63"></a>
+
+## 🌟 Day 63: Following Her Nose 🌟
+**📅 Thursday, March 4, 2027**
+**Theme:** My Body & Senses
+
+### 🌙 Prep Tonight
+> Fill the six pots after she is in bed, foil and a band over each one with a few holes pierced through, and pare one curl of peel off an orange for the sixth pot.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Six Pots with Holes in the Lid
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Smell Words (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Wet Earth and Woodsmoke (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The House That Smells of Oranges (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Smell Pots Again
+- **5:00–5:45 PM** — 🛁 Wind-Down: Her Words from All Week
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Six Pots with Holes in the Lid
+
+**🧰 You need:** the six filled pots · masking tape · 1 marker.
+
+1. Set the six in a row on the table and let her look at them without opening a thing.
+2. Show her how to waft: cupped hand over the top, a pull of air toward her face. Nose down on the foil gets her a lungful of cinnamon.
+3. She lines them up, the one she likes best at one end and the one she likes least at the other. Nothing gets written down yet.
+
+### 🎨 The Main Event: The Smell Words
+
+**🧰 Complete Materials List:**
+- 6 small jars or yoghurt pots with foil lids
+- Elastic bands or masking tape
+- Cotton wool
+- Ground coffee, ground cinnamon, orange peel, a dried herb, a sliver of soap, a drop of vanilla
+- Masking tape for labels and a marker
+
+**📝 Step-by-Step Instructions:**
+1. Sit opposite her with the six pots on your side of the table and hand them across one at a time.
+2. Ask for a word and stop there. A word for it, not the name of it. Sit through the silence while she looks.
+3. Write her word on a strip of masking tape and stick it on that pot. Her spelling if she has any, your handwriting if she does not.
+4. If she names the thing, take that as her word too. Coffee is a word.
+5. Go round a second time in a different order. Two or three words will change, and both versions go on the tape. Read the six labels back at the end and let her move any pot she wants to.
+
+> 💡 **Tip:** Do not tell her what is in the pots. Naming them ends the sniffing, because she has the answer and no reason to go back.
+
+### 🌳 Get Outside: Wet Earth and Woodsmoke
+
+Early March smells of wet ground. Lift a handful of soil from a border, a wet
+stone, or a dead leaf from under a hedge and hold it up to her. Rain on cold
+earth releases a smell with a name of its own, petrichor, and she knows it long
+before she has the word. Then go hunting: a chimney with smoke, bin day, a
+laundry vent. One word each.
+
+> 👶 **Infant Integration:** Kreston is 8 months and knows your smell better than
+> your face on a bad day, which is why your jumper settles him faster than a toy.
+> Hold him in the kitchen doorway once the oranges start and watch his face open
+> up. Give him the third orange, whole and too big to fit in his mouth, and let
+> him gnaw the skin while you sit with him.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The House That Smells of Oranges
+
+Peel and cinnamon go on the hob at the lowest setting, and the house changes
+around her while she draws.
+
+**🧰 Complete Materials List:**
+- 1 small saucepan and water
+- The peel of 2 oranges
+- 1 cinnamon stick or a spoon of ground cinnamon
+- 1 wooden spoon
+- Paper, crayons and washable paint
+- This week's written-down words, to read back at the end
+
+**📝 Step-by-Step Instructions:**
+1. Peel two oranges with her. She pulls the pieces off in whatever sizes come away.
+2. Drop the peel into the pan with the cinnamon and enough water to cover it. Back ring, lowest heat, handle turned in.
+3. Set her up at the table beside the kitchen with paper, crayons and paint, and no subject.
+4. Say nothing about the smell. It arrives on its own over about fifteen minutes, and she will be the one who mentions it.
+5. Top the water up as it drops. She can hand you the jug.
+6. Halfway through, read her the week's written-down words: the touch words, the taste words, this morning's smell words.
+7. Ask which one she wants to keep. Write that word big across the top of whatever she has drawn, and put it on the fridge.
+
+> 💡 **Tip:** Hold off asking her what she has drawn. If she wants you to know, she tells you, and the question turns her paper into a test she can get wrong.
+
+### 🎯 Afternoon Alternatives
+- Orange peel and cloves pushed into a pomander, no hob involved.
+- Warm cinnamon toast and eat it while it fills the kitchen.
+- Bury the six pots in a basket of rice and let her dig them out.
+
+### 🌳 Out Again: **Pick one**
+- **The grocery shop**, and let her pick the fruit by smell before it goes in
+- The bakery, for the doorway more than the bun
+- The market, if it runs today
+- A loop past the chip shop, the florist and the launderette, naming each one
+
+> 👶 **Kreston's Afternoon:** At 8 months he sits up in the trolley seat and takes
+> in a shop that is loud, bright and full of strangers, so twenty minutes is
+> plenty. Keep him facing you rather than out, and give him something cold from
+> the chiller to hold, too big to fit in his mouth.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **"What is it?" is the question to stop asking.**
+> You ask because you want in, and every adult reaches for it over a
+> three-year-old's drawing. Azlyn hears a test with one right answer, and
+> half the time she did not set out to make a thing at all. Describe instead. You
+> used a lot of red down this side. That line goes all the way to the corner. You
+> pressed hard here and soft here. She picks up vocabulary for what her hands did
+> and carries no pressure to have meant something. Nine times in ten she then
+> tells you what it is anyway, and the telling comes from her rather than to
+> order.
+
+> ⚠️ **Safety:** A pan simmering on the hob for an hour with a crawling
+> 8-month-old in the house. Back ring only, handle turned in, and it goes off the
+> heat if you leave the kitchen. Ground cinnamon and coffee sting in the eyes, so
+> the pots stay lidded and go up high when she is done with them.
+
+<div style="page-break-after: always;"></div>

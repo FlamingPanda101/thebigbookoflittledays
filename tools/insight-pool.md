@@ -50,7 +50,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **41.** Waiting for dough to rise is a better lesson than the bread.
 - **42.** Celebrating other people's holidays does something specific.
 - **43.** Ugly is fine. Ugly is better.
-- **44.** Persistence is built by seeing the finish line.
+- **44.** Seeing the finish line is what builds persistence.
 - **45.** Handling food is how picky eating loosens.
 - **46.** Pretend play is where numbers stop being recitation.
 - **47.** Naming the recipient at the start changes the whole activity.
@@ -261,7 +261,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **252.** Summer's best days are usually the least planned.
 - **253.** Losing is a skill that isn't ready yet, and designing around that is not coddling.
 - **254.** Throwing develops in a predictable order, and rushing it doesn't help.
-- **255.** Balance is trained by being slightly off it.
+- **255.** Balance comes from being slightly off it.
 - **256.** Subtraction makes sense long before the symbols do.
 - **257.** Cooperation is harder than competition, and it needs the same practice.
 - **258.** Planning before doing is a real developmental leap.
@@ -296,7 +296,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **287.** Borrowing and returning is her first experience of trusted ownership.
 - **288.** Money is a story about exchange long before it's arithmetic.
 - **289.** Your own day's work is more interesting to her than you think.
-- **290.** Caring about a place is learned by improving it, not by being told to.
+- **290.** Children learn to care about a place by improving it.
 - **291.** Reading a recipe is her first experience of print that tells you what to do.
 - **292.** Handing something over in person is a separate skill from making it.
 - **293.** A field journal changes how she looks as well as what she records.
@@ -307,7 +307,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **298.** Deciding what's worth keeping is harder than collecting it.
 - **299.** A trip she packed for herself gets remembered differently.
 - **300.** Mixing colours is a lesson in irreversibility.
-- **301.** Shapes are learned by making the edges, not by naming them.
+- **301.** Making the edges teaches shapes faster than naming them.
 - **302.** Light changes what she thinks a colour is.
 - **303.** Naming a colour she invented does more than learning the standard eleven.
 - **304.** Fitting a shape into a hole is a test of mental rotation.
