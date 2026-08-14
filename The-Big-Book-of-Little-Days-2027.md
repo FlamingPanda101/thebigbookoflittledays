@@ -27975,3 +27975,5267 @@ Most of what the week made goes into one box this afternoon. She paints it, prin
 > ⚠️ **Safety:** The box fills up with the rice shaker and the drum beater at exactly Kreston's height, and at 12 months he helps himself to open boxes. Tape it shut and put it up high the moment you finish, not at bedtime. Washable non-toxic paint only, and wipe his hands before he touches his face.
 
 <div style="page-break-after: always;"></div>
+<a id="week-27"></a>
+
+## Week 27: Independence Day Celebration 🎆
+**📅 July 2 – July 8, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Everything a party takes, Azlyn makes. A cake out of a cereal box on Friday,
+streamers on the scooter for Saturday, a real cake iced on Sunday morning and a
+bag packed for after dark. Monday onward the week runs on what July hands you:
+a paper waistcoat she wears out of the house, ice melting on the path in six
+places, lunch she cuts herself, three coins at the market.
+
+Independence Day is Sunday and it gets the full day, from the parade round the
+block to the first fireworks either child has seen. Tuesday carries the other
+marker. The book is six months old, so January's handprint comes off the wall,
+and April's with it, and a July one goes up beside them, with the same four
+questions underneath and her old answers read back to her. Kreston turns 13
+months on Monday.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Cutting her own food.** A butter knife through cucumber, tomato and cheese, and the different way each one gives.
+- **Saying what she thinks will happen.** Which ice cube goes first, how many seeds are in the watermelon, written down before anyone checks.
+- **Counting past what she can hold.** Flags on the street, candles onto a plate, watermelon seeds into a jar in tens.
+- **Testing what she made and mending the part that failed.** Three paper pockets, four objects, one stone that stayed in.
+- **Three rules she can recite.** She dictates the game rules for the fridge and the market rules in the car, then holds you to both.
+
+---
+
+### 👩 What You'll Learn
+
+- One-year-olds don't understand birthdays, and that's fine
+- Discovery requires an incomplete set
+- Pointing and giving are the foundations of conversation
+- Making something she wears is a different order of pride
+- Repeating an activity across seasons produces a comparison she can make herself
+- Involvement predicts eating better than persuasion does
+- Three rules, repeated forever, beats twenty rules said once
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] A cereal box for the cake, and a second one flattened for card
+- [ ] A large paper grocery bag, or brown parcel paper
+- [ ] Coloured paper, or plain paper and crayons
+- [ ] Thick paper, 3 sheets
+- [ ] Plain paper and card, a stack (labels, pockets, lists, rules)
+- [ ] 3 old envelopes
+- [ ] Masking tape, 2 rolls
+- [ ] Scissors (adult only)
+- [ ] A large kitchen knife (adult only)
+- [ ] A butter knife, a blunt knife and a chopping board
+- [ ] A permanent marker
+- [ ] Crayons or felt tips
+- [ ] Chalk
+- [ ] A pencil
+- [ ] String or thick wool, 3 metres
+- [ ] 2 clothes pegs
+- [ ] 5 playing cards
+- [ ] 2 plastic carrier bags
+- [ ] Paper cups, 6
+- [ ] Birthday candles, 1 box
+- [ ] Matches or a lighter (adult only)
+- [ ] Washable non-toxic poster paint and a wide soft brush
+- [ ] A flannel and a tea towel
+- [ ] A torch with fresh batteries
+- [ ] Ear defenders, or cotton wool and a woolly hat
+- [ ] A rucksack, a picnic blanket, and a blanket for the floor
+- [ ] A lidded cup
+- [ ] Sun cream and a sun hat each
+- [ ] 6 saucers or jar lids
+- [ ] 2 ice trays
+- [ ] A tray, a large bowl, 2 small bowls and a serving plate
+- [ ] A saucepan
+- [ ] Kitchen scales, if you have them
+- [ ] A jar with a lid, for the seeds
+- [ ] 3 coins and a small purse or an envelope
+- [ ] A shopping bag she can carry herself
+- [ ] A ball
+- [ ] Her scooter, balance bike or trike, and her helmet
+- [ ] 3–4 teddies and one favourite toy
+- [ ] A jumper each for Azlyn and Kreston
+- [ ] 6–8 old things from round the house: a coin, a photograph, a spoon, a key, a book
+- [ ] 4 test objects: a stone, a spoon, a crayon, a toy car
+- [ ] January's and April's handprint sheets, off the wall
+- [ ] A plain sponge, a loaf cake, or 12 bought buns
+- [ ] Cream, cream cheese or thick yoghurt, 1 tub
+- [ ] Strawberries, 1 punnet
+- [ ] Blueberries, 1 punnet
+- [ ] A whole watermelon
+- [ ] Corn on the cob, 2
+- [ ] 1 cucumber, 2 tomatoes, 1 block of cheese
+- [ ] A loaf of bread
+- [ ] Yoghurt, 1 lemon, olive oil, salt
+- [ ] Crackers or grapes for the party snack
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, Sunday night is the one I keep thinking about. You on a blanket in
+> the dark with a three-year-old who has never seen a firework and a
+> one-year-old who has never heard one, and the call on when to go home is
+> yours alone. Make it at the first bang if you want to. Azlyn will hold onto
+> the walk back to the car as hard as she holds onto the sky. The rest of the
+> week is cardboard and watermelon and a paper waistcoat she refuses to take
+> off, and I would rather be in that than anywhere.
+
+---
+
+> 👶 **Kreston is 12 months this week**. He walks or is a week off it, drinks
+> from a cup with both hands, and follows a one-step instruction. **He turns 13
+> months on Monday the 5th**, and from then he walks, climbs and carries things
+> while he moves.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-183"></a>
+
+## 🌟 Day 183: A Birthday for a Country 🌟
+**📅 Friday, July 2, 2027**
+**Theme:** Independence Day Celebration
+
+### 🌙 Prep Tonight
+> Empty a cereal box and stand it on the kitchen table with the coloured paper, the masking tape and the marker beside it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: What a Party Needs
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Cake That Never Gets Eaten (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Counting the Flags on the Street (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Guest Who Doesn't Know It's a Party (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Pouring the Drinks
+- **4:15–5:00 PM** — Quiet Play: The Cake and the Teddies
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Birthday Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: What a Party Needs
+
+**🧰 You need:** 1 sheet of paper · crayons · her.
+
+1. Ask her what a party has to have. Write the list in her order, one thing per line, with a small picture beside each.
+2. Tell her the country has a birthday on Sunday and turns 251. Say the number twice and let her do what she likes with it.
+3. Circle everything on the list you could make out of a cereal box. Whatever she circled first is what you build at 9:15.
+
+### 🎨 The Main Event: The Cake That Never Gets Eaten
+
+**🧰 Complete Materials List:**
+- 1 cereal box or small shoebox
+- Coloured paper, or plain paper and crayons
+- 1 roll masking tape
+- 1 pair of scissors (**adult only**)
+- 1 pencil, for poking the candle holes
+- 1 permanent marker
+
+**📝 Step-by-Step Instructions:**
+1. Tape the box shut along every seam and stand it on its end. She tapes, you hold the flaps down.
+2. She tears the coloured paper up and tapes it over the box until no cardboard shows. Torn edges look like frosting. Plain paper gets crayoned first.
+3. Cut six paper strips, a hand long. She rolls each one round the pencil, slides it off and tapes it.
+4. Draw a flame on the top of each candle with the marker, then write **251** big on the side.
+5. Poke six holes in the top with the pencil where she points and stand a candle in each, loose enough to fall over.
+6. Sing to it. She blows, you tip the candles flat, she stands them back up. As many times as she asks.
+
+> 💡 **Tip:** Loose candles are the design. One that topples and goes back in gets blown at forty times before Sunday.
+
+### 🌳 Get Outside: Counting the Flags on the Street
+
+Go before the heat and walk the streets with the most porches. Count flags: on
+poles, on porch rails, on car windows, in shop doorways. Take her morning list
+and let her mark a line on the back for each one. She will want bunting to
+count, so let it count.
+
+> 👶 **Infant Integration:** Kreston is 12 months and walking or close to it.
+> Stick a few loops of tape and a strip of coloured paper to his tray and he
+> will pull them off and wear them for a long while. Keep the rolled candles
+> away from him, because they are the size he puts in his mouth. Let him walk
+> part of the street holding one finger.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Guest Who Doesn't Know It's a Party
+
+Kreston has never been to a party. Azlyn throws him one, and she runs it.
+
+**🧰 Complete Materials List:**
+- The cardboard cake
+- 6 paper cups
+- 1 small real snack: crackers, grapes cut lengthways, or berries
+- 1 blanket for the floor
+- 3–4 teddies
+- 1 phone, for the music
+
+**📝 Step-by-Step Instructions:**
+1. She picks the room and spreads the blanket. Wherever it lands is where the party is.
+2. Teddies round the edge, Kreston in the ring with them. She hands out the six cups and decides who sits by who.
+3. Music on. She carries the cake in from another room and stands it on a low table at the edge of the blanket, above Kreston's reach, while everybody watches her do it.
+4. Sing. She blows the candles down and stands them back up, and you sing again. Four rounds is not too many, and every candle that rolls off the table gets counted back into the cake before the next one.
+5. She shares the snack into the cups, one guest at a time, in the order she chose.
+6. She runs the dancing. The same song twice, and you on the floor for it.
+7. The party ends when she says. Cups collected in, cake up on the shelf where Kreston cannot reach the candles.
+
+> 💡 **Tip:** Sing and blow more than once. The part she is practising is the ending, and a party that finishes four times gives her four goes at it.
+
+### 🎯 Afternoon Alternatives
+- Cake and candles on the kitchen table, twenty minutes, nothing else.
+- A party for one teddy with one cup and one song.
+- Wrap five things from the toy box in newspaper for her to unwrap.
+- Paper hats from the leftover coloured paper.
+
+### 🌳 Out Again: **Pick one**
+- **The café**, and let her order the cake herself while you hold Kreston
+- The park with the shade, if the café is packed for the long weekend
+- A friend's garden, and take the cardboard cake to show
+- The shop for Sunday's berries, with her carrying the basket
+- The street with the most flags, counting the ones you missed
+
+> 👶 **Kreston's Afternoon:** He is 12 months and drinks from a cup with both
+> hands, so give him a paper cup with a splash of water and let him be a real
+> guest. He will crawl into the middle and pull the cups over, and that is his
+> part of it. Tell Azlyn that a guest who cannot talk yet joins in with his
+> hands.
+
+### 🌍 Around the World: What Countries Eat on Their Big Day 🎂
+
+Every country with a national day has a food attached to it. In Norway on the
+17th of May the parade belongs to the children, and they eat ice cream and hot
+dogs all day. In India on the 15th of August families make sweets in the
+orange, white and green of the flag. In Mexico on the 15th of September the
+dish of the night is **chiles en nogada**, which carries all three flag colours
+on one plate.
+
+> **✨ Try it:** Norway's answer is ice cream, and the children get it all day
+> long. Have yours at the ten fifteen snack, outside and standing up, and tell
+> her whose idea it was.
+
+> *Did you know?* Norway's national day parade has no soldiers in it at all.
+> It is schoolchildren, from end to end.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **One-year-olds don't understand birthdays, and that's fine.**
+> Kreston has no idea the cake means anything. He reads the room instead: the
+> singing, every face turned the same way, the pause before the clapping. Joint
+> attention and anticipation are what a party gives a 12-month-old, and both
+> are worth more to him this year than the idea of a birthday. Watch him look
+> at whoever is loudest, then look at you to check whether loud is good. Azlyn
+> is the one who needs today to mean something, so give her the running of it
+> and give him the noise and the faces. He had his own turn a month ago, and he
+> understood that one about as much as he understands this one.
+
+> ⚠️ **Safety:** The scissors are adult-only and the paper strips are all they
+> cut today, so put them back out of reach between cuts. The rolled candles are
+> the width of Kreston's throat. Count six onto the cake and six off, and count
+> them again after every blowing round at the party, because the cake sits on a
+> table and he is on the blanket below it. Never leave one on the floor while he
+> is down. Cut grapes lengthways. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-184"></a>
+
+## 🌟 Day 184: The Parade She Can Ride In 🌟
+**📅 Saturday, July 3, 2027**
+**Theme:** Independence Day Celebration
+
+### 🌙 Prep Tonight
+> Stand the scooter in the hall with two carrier bags, the pegs and the tape beside it, and check you have a plain sponge, candles and two punnets of berries for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Cutting the Streamers
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Dressing the Scooter (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Test Lap (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Museum with an Empty Shelf (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Museum** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Filling the Water Bottles
+- **4:15–5:00 PM** — Quiet Play: Her Own Museum
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Book from the Museum
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Cutting the Streamers
+
+**🧰 You need:** 2 plastic carrier bags · 1 pair of scissors (**adult only**) · 1 roll masking tape.
+
+1. Cut the handles and the base off one bag so it becomes a tube. She holds it taut and pulls each strip free.
+2. Cut the tube round and round into strips a finger wide, then do the second bag. She says how long they get.
+3. Tape a bundle to a chair back and let her run past to see them lift. The best bundle goes on the front at 9:15.
+
+### 🎨 The Main Event: Dressing the Scooter
+
+**🧰 Complete Materials List:**
+- Her scooter, balance bike, trike, or the pram
+- The cut streamers, from two carrier bags
+- 1 roll masking tape
+- 2 clothes pegs
+- 5 playing cards, or pieces of cereal-box card
+- String, 1 metre
+- Crayons and paper
+- 1 pair of scissors (**adult only**)
+
+**📝 Step-by-Step Instructions:**
+1. Tape streamers to both handlebar ends. She says how many go on each side, and she will want them uneven.
+2. Clip a peg to the frame by the back wheel with two cards in it so they clack as the wheel turns, and the same on the other side. On a pram, peg them against the frame.
+3. Cut a rectangle of paper for the front. She draws her name on it and you tape it on.
+4. Tie the longest streamers to the back of the seat with the string. Nothing goes near the front wheel.
+5. Ride it up the hall. Listen for the cards, tighten the pegs, tape down whatever flapped loose.
+6. Park it by the front door. It stays dressed until Sunday night.
+
+> 💡 **Tip:** Tape everything twice as much as looks necessary.
+
+### 🌳 Get Outside: The Test Lap
+
+Helmet on, and take the block at her pace with the pram behind. This is a
+rehearsal, so let her stop every time a card comes loose. July mornings are
+warm by half ten: shaded side, and carry water.
+
+> 👶 **Infant Integration:** Kreston is 12 months and walking, or a week off it.
+> He follows a one-step instruction now as long as the words never change, so
+> carry the fifth playing card and hand it to him at every stop with the same
+> four words: *give it to Azlyn.* He holds it out, waits for her hand, and wants
+> another go the moment she takes it. His lidded cup rides in the pram, because
+> he drinks standing up with both hands on it. Keep every cut strip of carrier
+> bag off the floor.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Museum with an Empty Shelf
+
+The real museum is at 2:30. She opens her own first, and leaves one gap in it
+on purpose.
+
+**🧰 Complete Materials List:**
+- 1 shelf, windowsill or tray
+- 6–8 old objects: a coin, a photograph, a spoon, a key, a book
+- Paper cut into label cards, 8 of them
+- 1 marker
+- 1 roll masking tape
+
+**📝 Step-by-Step Instructions:**
+1. Walk the house hunting for the oldest things in it, asking at each one: is this older than you? The wrong answers make the best conversations.
+2. Line them up on the shelf in her order, oldest first, and leave that order alone.
+3. She dictates a label for each one and you write her words on a card, including the ones that make no sense.
+4. Tape each card in front of its object. She reads the row back from memory, pointing as she goes.
+5. Leave one card blank and tape it at the end of the row. That one gets filled in at the museum.
+6. Take the blank card and the marker at 2:30. She draws the thing she liked best, standing in front of it.
+7. Tape it on the end of the shelf at home and let her give the tour again at bedtime.
+
+> 💡 **Tip:** Write the label in her words even where it is wrong. *Spoon from the olden days when Grandad was a baby* beats a correct date she never said.
+
+### 🎯 Afternoon Alternatives
+- Three objects, three labels, on a tray.
+- Sort the old things by what they are made of instead.
+- Photograph each object and make a paper catalogue.
+- A museum of her own toys, and she charges you to come in.
+
+### 🌳 Out Again: **The Museum**
+- **The museum**, first Saturday of the month, blank card in her pocket
+- The library, if the museum has the holiday crowd in it
+- The pet shop, which she will treat as a museum anyway
+- A charity shop, hunting for the oldest thing on the shelves
+- The park with shade and water
+
+> 👶 **Kreston's Afternoon:** Take him in the carrier facing out. He gets the
+> same job as this morning and the same four words: *give it to Azlyn.* Hand
+> him her blank label card, let him pass it over, let her thank him. Twenty
+> minutes is plenty.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Discovery requires an incomplete set.**
+> A finished row of objects is a thing to look at. A row with one gap in it is
+> a job. Azlyn will walk the museum hunting for the exhibit that fills her
+> blank card, and she will look hard at forty things to choose one, which is
+> far more looking than any instruction from you would buy. Bluma Zeigarnik
+> found the same effect in waiters, who held unpaid orders in mind and lost
+> them the moment the bill was settled. An open task stays live. Leave gaps on
+> purpose: one empty page, one missing piece, one card nobody has written yet.
+
+> ⚠️ **Safety:** Streamers near the front wheel will wrap and stop it dead, so
+> check the front is clear before every ride. Helmet on, and stay between her
+> and the road at every driveway. Cut carrier bag strips are a suffocation risk
+> for a 12-month-old, so bag the offcuts now. The coin and the key go above his
+> reach. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-185"></a>
+
+## 🌟 Day 185: The Fourth of July 🌟
+**📅 Sunday, July 4, 2027**
+**Theme:** Independence Day Celebration
+
+### 🌙 Prep Tonight
+> Stand the cake, the berries and the candles on the counter together, put fresh batteries in the torch, and find the ear defenders before bed.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Counting Out the Candles
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Two Hundred and Fifty-One Candles (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Parade Round the Block (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Bag for After Dark (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Clearing the Picnic Things
+- **4:15–5:00 PM** — Quiet Play: The Shady Corner of the Garden
+- **5:00–5:45 PM** — 🛁 Wind-Down: Early Bath, Late Night
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Counting Out the Candles
+
+**🧰 You need:** 1 box of birthday candles · 1 plate or tray.
+
+1. Tip the candles onto the tray and let her count them. Count them again together, touching each one.
+2. Tell her the country is 251 today and that 251 candles fit on no cake in this house. Ask how many she wants.
+3. Count her number onto the plate and put the box away. That is what the cake gets at 9:15.
+
+### 🎨 The Main Event: Two Hundred and Fifty-One Candles
+
+**🧰 Complete Materials List:**
+- 1 plain sponge, loaf cake, or 12 bought buns
+- 1 tub of cream, cream cheese or thick yoghurt
+- 1 punnet of strawberries and 1 punnet of blueberries
+- 1 blunt knife and 1 spoon
+- The birthday candles she counted out
+- 1 plate or tray
+- Matches or a lighter (**adult only**)
+
+**📝 Step-by-Step Instructions:**
+1. Cake onto the tray. She spoons the cream on and spreads it with the blunt knife. Lumpy is correct.
+2. Pull the green tops off the strawberries and let her slice them. Fruit gives under a blunt knife and she needs to feel that.
+3. Stripes of strawberry across the cake with cream showing between them, blueberries in a square in the top left. She places every berry.
+4. She pushes her candles in wherever she wants them, including all in one corner.
+5. Light them once now, sing, and let her blow. Blow out the rest yourself and put the matches back up high.
+6. Stand it beside Friday's cardboard cake and photograph the pair. One gets eaten tonight and one does not.
+
+> 💡 **Tip:** Into the fridge the moment it is photographed. July does bad things to cream on a counter.
+
+### 🌳 Get Outside: The Parade Round the Block
+
+Take the block at her speed with the pram behind, the scooter still dressed and
+the cards rattling. Wave at anyone on a porch, because on the Fourth they wave
+back. Go before eleven and carry water.
+
+> 👶 **Infant Integration:** Kreston is 12 months. Let him push the empty pram
+> down the flat stretch with both hands on the bar, which takes him further than
+> he walks alone. Quarter his strawberries lengthways and halve the blueberries.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Bag for After Dark
+
+Tonight she stays up past dark for the first time she will remember, and the
+afternoon goes on getting ready.
+
+**🧰 Complete Materials List:**
+- 1 rucksack
+- 1 picnic blanket
+- 1 torch with fresh batteries
+- Snacks and 1 lidded cup
+- Ear defenders, or cotton wool and a woolly hat
+- 1 jumper each for Azlyn and Kreston
+- 1 favourite toy
+- Paper and crayons
+
+**📝 Step-by-Step Instructions:**
+1. Spread everything on the floor and let her see the pile before anything moves. Name each thing and what it is for.
+2. She packs the rucksack herself, one item at a time. Blanket at the bottom, jumpers on top, snacks and the cup where she can reach them.
+3. Test the torch. Let her work the switch thirty times, and tell her the torch is her job tonight.
+4. Ear defenders on, and talk to her through them so she hears what they do. With cotton wool, tuck it under the woolly hat.
+5. Agree a hand signal for *too loud* and practise it ten times, you first, then her. She gives it tonight and you leave, no discussion.
+6. She draws what she thinks fireworks look like before she has seen any. It goes in the bag and comes out tomorrow.
+7. Talk the spot through: where you sit, how far the car is, where the toilets are. The toy goes in last.
+
+> 💡 **Tip:** Say the leaving plan out loud before you go, and mean it. A three-year-old who knows she can go home will last twice as long as one who suspects she is stuck.
+
+### 🎯 Afternoon Alternatives
+- Watch from a window or a doorstep, door open behind her.
+- Pack the bag and spend the rest in the paddling pool.
+- Torch games under a sheet in a dark room.
+- Chalk fireworks on the path, one for every colour she expects.
+
+### 🌳 Out Again: **Pick one**
+- **The scooter**, still dressed, on a long flat path with no road
+- Sprinklers or a paddling pool, because it will be hot
+- A shaded park with a bench for the pram
+- Feeding the ducks in the cool hour before dinner
+- The garden and the hose
+
+> 👶 **Kreston's Afternoon:** He is 12 months and has never heard a firework.
+> Put the ear defenders on him for a minute at a time this afternoon so tonight
+> is the second time and not the first. Plan on him asleep against you by the
+> second bang.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Pointing and giving are the foundations of conversation.**
+> Kreston hands you things all day and points at what he cannot reach. Both are
+> him starting a conversation with no words in it: he has something in mind and
+> he wants your attention on it. Packing the bag hands him fifty chances at it.
+> He picks the torch up, holds it out, waits for you to take it. Answer every
+> offer out loud with the name of the thing. Babies who point and give a lot at
+> twelve months tend to have bigger vocabularies at two. He chooses, you name,
+> and the word arrives attached to something he cared about first. He will hand
+> you the same jumper five times. Take it the fifth time like the first.
+
+> ⚠️ **Safety:** Lit candles come nowhere near a walking one-year-old. Put
+> Kreston in the high chair before the matches come out, not on your hip. If
+> there are sparklers tonight they stay in adult hands, and they stay hot long
+> after they go out, so have water to drop them in. July heat is the real risk:
+> water every half hour whether she asks or not. Before dark, photograph what
+> she is wearing and write your phone number on her arm.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-186"></a>
+
+## 🌟 Day 186: The Day After 🌟
+**📅 Monday, July 5, 2027**
+**Theme:** Independence Day Celebration
+
+### 🌙 Prep Tonight
+> Put the biggest paper bag you own on the table with the crayons and the string, and fill two ice trays and freeze them for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Measuring Her with String
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Paper Bag Waistcoat (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Walking on the Shady Side (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Pockets That Hold Things (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Recycling After the Party
+- **4:15–5:00 PM** — Quiet Play: Wearing It Round the House
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Quietest Books in the House
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Measuring Her with String
+
+**🧰 You need:** String or thick wool, 2 metres · 1 pair of scissors (**adult only**).
+
+1. Run the string from her shoulder to her knee and cut it there. That is how long the waistcoat will be.
+2. Take a second piece round her chest and a third round the top of her arm, cutting each one to fit.
+3. Lay the three lengths side by side and let her sort them longest to shortest. They come with you to 9:15.
+
+### 🎨 The Main Event: The Paper Bag Waistcoat
+
+**🧰 Complete Materials List:**
+- 1 large paper grocery bag, or brown parcel paper, or a large cereal box flattened
+- 1 pair of scissors (**adult only**)
+- Crayons or felt tips
+- 1 roll masking tape
+- The three lengths of string from this morning
+
+**📝 Step-by-Step Instructions:**
+1. Flatten the bag with the base at the top. Lay the shoulder-to-knee string down the front so she sees where the bottom edge lands.
+2. Cut a neck hole in the base panel and an arm hole in each side, sizing them with the arm string. Cut them bigger than looks right.
+3. Cut straight up the middle of the front, bottom edge to neck hole, so it opens like a waistcoat. Try it on her.
+4. Run masking tape round the neck and both arm holes. Paper tears at a hole first, and taped edges get this thing to Thursday.
+5. The table is hers now: both sides, inside included, every crayon she wants. No paint today and nothing wet.
+6. She wears it out at half ten and she wears it to dinner.
+
+> 💡 **Tip:** Cut it a size too big, so she can get it on without you.
+
+### 🌳 Get Outside: Walking on the Shady Side
+
+Cross to whichever side of the street has the trees and stay on it. Put her
+hand flat on a wall in the sun, then on one in the shade, and let her tell you
+the difference before you name it. Work out where that shade will be by four.
+
+> 👶 **Infant Integration:** **Kreston turns 13 months today.** He walks,
+> climbs and carries at the same time now, so fold a square of leftover bag
+> paper into a pad too big to fit in his mouth and let him ferry it from one
+> end of the room to the other. Say happy thirteen months out loud, because
+> nobody else will.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Pockets That Hold Things
+
+The waistcoat has nowhere to put anything, and she has a stone she wants to
+keep.
+
+**🧰 Complete Materials List:**
+- The waistcoat
+- Paper, card, and 3 old envelopes
+- 1 roll masking tape
+- 4 test objects: 1 stone, 1 spoon, 1 crayon, 1 toy car
+- 1 marker
+- 1 pair of scissors (**adult only**)
+
+**📝 Step-by-Step Instructions:**
+1. Cut the top off an envelope and tape it to the front of the waistcoat on three sides, top left open. That is pocket one.
+2. She loads it with the stone, then walks, jumps, spins and runs the hall. Watch which bit of tape lets go first.
+3. Fix that bit and nothing else, then send her round again with the same stone.
+4. Pocket two comes from folded paper and pocket three from card. She picks the shapes and where they go, including the back.
+5. Test all three with all four objects, one at a time. She marks a tick or a cross on each pocket with the marker.
+6. Count the ticks. Whichever shape carried the stone is the one she wants three of, so cut the extras and tape them on.
+7. Load every surviving pocket and let her walk the hall with all four objects on her.
+
+> 💡 **Tip:** Let the bad pocket fail the whole way. Reinforcing it before she tests it saves the envelope and costs her the information.
+
+### 🎯 Afternoon Alternatives
+- One pocket, one stone, ten minutes, then the garden.
+- Tape pockets onto a paper bag and make it a satchel.
+- Count how many of her real clothes have pockets.
+- Draw round the four test objects and cut pockets to match.
+
+### 🌳 Out Again: **Pick one**
+- **The woods loop**, for the shade and the cool under the trees
+- The stream or the paddling pool, if the woods are too far in this heat
+- The park at five, when the slide has cooled down
+- A slow pram walk with her scootering ahead
+- The garden with the hose, and nothing else planned
+
+> 👶 **Kreston's Afternoon:** At 13 months he climbs onto whatever is knee
+> height, and the woods are full of things at knee height. Let him do the low
+> log with a hand held rather than carrying him past it. Azlyn will want him in
+> a waistcoat too, so tape a spare pocket to his shirt.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Making something she wears is a different order of pride.**
+> She will stop the postman to show him the waistcoat, and she will ask to
+> sleep in it. Azlyn builds her sense of herself out of two things: what she
+> can do, and what belongs to her. A thing she made that then sits on her body
+> lands in both piles at once, which a drawing on the fridge never manages.
+> Expect her to defend it from Kreston harder than she defends any toy, because
+> the toy came from a shop and this came out of her hands. Let her wear it out
+> of the house, creased and torn, all week.
+
+> ⚠️ **Safety:** The scissors come out three times today. Put them on a shelf
+> between cuts, not on the arm of the sofa. The stone and the toy car are
+> choking size for a 13-month-old who walks over and picks things up, so count
+> the four test objects back into a bowl at the end. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-187"></a>
+
+## 🌟 Day 187: Ice in July 🌟
+**📅 Tuesday, July 6, 2027**
+**Theme:** Independence Day Celebration
+
+### 🌙 Prep Tonight
+> Check the two ice trays are frozen solid, stand the saucers and the chalk by the back door, and dig out January's and April's handprint sheets.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Six Chalk Circles
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Ice That Won't Last (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Same Trees, Six Months On (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Her Hand Next to January's (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Filling the Ice Tray
+- **4:15–5:00 PM** — Quiet Play: The Bowl of Water and the Cups
+- **5:00–5:45 PM** — 🛁 Wind-Down: Wet Hair and Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Six Chalk Circles
+
+**🧰 You need:** Chalk · 6 saucers or jar lids.
+
+1. Go out before the heat and ask her for six places that differ: full sun, deep shade, grass, the doorstep, a dark stone, the wall.
+2. She stands a saucer down at each one, and you draw round it in chalk and number the circles one to six.
+3. Ask which circle will empty first. Write her answer on the path in chalk and leave it where you can both read it later.
+
+### 🎨 The Main Event: The Ice That Won't Last
+
+**🧰 Complete Materials List:**
+- 2 trays of ice cubes, frozen overnight
+- Chalk
+- The 6 saucers or jar lids, already out on the circles
+- 1 tea towel
+- 1 bowl of warm water
+- The kitchen clock, or a timer on your phone
+- Paper and 1 marker, for the results
+
+**📝 Step-by-Step Instructions:**
+1. Carry one tray out under the tea towel. She puts a cube on each saucer in number order, drying her hands between them.
+2. Write the time at the top of the paper and set the timer for ten minutes.
+3. Check all six at every buzz. She calls out which are shrinking and you write it down against the numbers.
+4. Between checks, give her the bowl of warm water and a spare cube from the second tray. That one vanishes in a minute and keeps her out there.
+5. Write 1st, 2nd and 3rd on the paper as each circle empties, and let her be the one who calls it.
+6. Read her eight o'clock prediction back to her at the end, and chalk a tick beside it if she called it right.
+
+> 💡 **Tip:** Ten minutes is a long time at three. Set the timer where she can press it herself and give her the chalk between buzzes.
+
+### 🌳 Get Outside: The Same Trees, Six Months On
+
+Walk the route from Day 1 and stop under the same trees. In January they were
+bare, and the book called them sleeping. Ask her what she would call them now.
+Today the shade under them is a different temperature from the pavement, and
+she can stand with one foot in each. Take the photo from the January spot.
+
+> 👶 **Infant Integration:** Kreston is 13 months. Keep the ice cubes away from
+> him. Set the bowl of warm water on the grass in front of him and let him slap
+> it. He will carry the empty saucers to you one at a time if you ask.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Her Hand Next to January's
+
+January's handprint went up on Day 1 and April's beside it in the spring.
+July's makes three, made the same way, with the same four questions under it.
+
+**🧰 Complete Materials List:**
+- January's and April's handprint sheets, or the photos of them
+- Washable non-toxic poster paint
+- 1 wide soft brush
+- 1 wet flannel in a shallow bowl
+- Thick paper, 3 sheets
+- 1 marker
+
+**📝 Step-by-Step Instructions:**
+1. Get January's sheet and April's out first and lay them side by side. Ask whether either hand looks like her hand, and let her hold her palm over both.
+2. Paint her palm with the brush rather than dipping it. Press flat, count to three, lift straight up onto the thick paper.
+3. Flannel in your hand before she lifts, and wipe her down where she stands.
+4. Do Kreston's beside hers on the same sheet while he is calm.
+5. Write **July** and the date under both prints with the marker, and tape the new sheet up beside the other two.
+6. Ask the four questions from Day 1 again and write her answers word for word on the second sheet: favourite colour, favourite food, favourite song, what she wants to do this year.
+7. Read her January answers back to her after. She will disagree with herself, which is the best part of it.
+
+> 💡 **Tip:** She will want a second print. Let her, on the third sheet, and get the first one out of reach before she improves it.
+
+### 🎯 Afternoon Alternatives
+- Draw round her hand in pencil and skip the paint.
+- Feet as well, on the doorstep, hosed off after.
+- Ask the four questions on video instead.
+- Print both children's hands onto a paper bag and use it as a gift bag.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and the pool is the coolest room in town today
+- An outdoor pool or a lido, if the indoor one is heaving
+- The paddling pool at home with the hose
+- A shaded splash pad
+- The library, for an hour of cool air and a book each
+
+> 👶 **Kreston's Afternoon:** He comes to the pool only if a second adult comes
+> with him, and that adult holds his hand from the changing room to the water
+> every time, including the two steps to the bench. At 13 months he walks, and
+> poolside is the worst floor in the building for a new walker. In the pool he
+> wants to be upright and moving, so the shallow steps are where he will spend
+> the hour. If it is you on your own, he stays behind and Azlyn gets you to
+> herself in the water, which she will notice.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Repeating an activity across seasons produces a comparison she can make herself.**
+> Azlyn will put her palm down on January's outline without being asked, and
+> the gap round the edge of it is the whole lesson. One handprint is a keepsake
+> for you. Three, made the same way across half a year, are evidence she can
+> read without being told what to think. Same paint, same brush, same four
+> questions, same size of sheet, so the only thing that changed is her. Keep the
+> method identical every time, even where you can see a better way to do it,
+> because a bigger sheet or a different paint gives her a difference she cannot
+> pin on herself. By December she will guess the gap before the paint comes out.
+
+> ⚠️ **Safety:** Ice cubes are a choking hazard for a 13-month-old and half of
+> them end up on the ground, so count them out and sweep before he is down.
+> Swimming needs eyes on both children the whole hour, and one adult cannot
+> watch two in water. Take a second adult, or leave Kreston with someone and
+> take Azlyn on her own. July sun burns faster than it feels: hat on, cream at
+> eight, cream again at eleven.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-188"></a>
+
+## 🌟 Day 188: Azlyn Makes Lunch 🌟
+**📅 Wednesday, July 7, 2027**
+**Theme:** Independence Day Celebration
+
+### 🌙 Prep Tonight
+> Stand the watermelon on the counter where she will see it first thing, put the corn and the chopping board out, and move the big knife out of reach.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Pulling the Husks Off
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Everything She Can Cut with a Butter Knife (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: What's Ripe on This Street (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: One Whole Watermelon (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Library** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Laying Everybody's Place
+- **4:15–5:00 PM** — Quiet Play: The Washing-Up Bowl
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Library Book Nobody's Read Yet
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Pulling the Husks Off
+
+**🧰 You need:** 2 corn on the cob · 1 large bowl · 1 saucepan.
+
+1. Give her both cobs and the bowl and let her strip the green husks off. Show her once, then leave her with it.
+2. The silk is the long job. Every thread comes off, and she will hunt them for twenty minutes.
+3. Stand the bare cobs in the saucepan of cold water on the back of the hob, ready for noon.
+
+### 🎨 The Main Event: Everything She Can Cut with a Butter Knife
+
+**🧰 Complete Materials List:**
+- The 2 husked corn on the cob
+- 1 cucumber, 2 tomatoes, 1 block of cheese
+- 1 loaf of bread
+- 1 pot of yoghurt, 1 lemon, olive oil, salt
+- 1 butter knife and 1 chopping board
+- 2 bowls and 1 serving plate
+- 1 saucepan, for the corn
+
+**📝 Step-by-Step Instructions:**
+1. Cucumber onto the board first, because it gives without a fight. Show her one cut, hand over the butter knife, and step back. Cut pieces go into a bowl as she works.
+2. Tomatoes next. The skin resists and then goes all at once, and she needs to feel that. Cheese in slabs, bread torn.
+3. Dip: yoghurt into a bowl, half the lemon squeezed in, a spoon of oil, a pinch of salt. She stirs, tastes, and says what it needs.
+4. Corn onto the hob at ten to twelve. You stand at the pan, she stays the other side of the counter.
+5. She lays the whole lot out on the serving plate however she wants. Say nothing about the arrangement.
+6. It goes on the table at noon and nobody rearranges it, including you.
+
+> 💡 **Tip:** Cucumber, tomato, soft cheese and bread all give way to a butter knife. Banana and boiled egg will do the same job next week.
+
+### 🌳 Get Outside: What's Ripe on This Street
+
+July is the month the street starts producing. Walk it looking at what is
+growing where: tomatoes going red in pots, blackberries still hard and green,
+apples the size of marbles, courgettes under leaves. Ask which ones you could
+eat today. If a neighbour is out, let her ask them.
+
+> 👶 **Infant Integration:** Kreston is 13 months and wants to be at the
+> counter with everyone else. Give him the thick end of the cucumber, too big
+> to choke on and cold on gums that are working hard this month, and let him
+> gnaw it in the high chair beside her. Hand him the empty bowl to carry after.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: One Whole Watermelon
+
+One watermelon takes the whole afternoon: weighed, guessed at, opened, counted,
+eaten outside.
+
+**🧰 Complete Materials List:**
+- 1 whole watermelon
+- 1 large knife (**adult only**)
+- 1 spoon each
+- 1 large bowl and 1 tray
+- Kitchen scales, if you have them
+- 1 jar with a lid, for the saved seeds
+- Chalk, or paper and a crayon, for the guesses
+
+**📝 Step-by-Step Instructions:**
+1. Let her lift it first. Weigh it on the scales, or pass it round and see who holds it out longest. Write the weight in chalk.
+2. Guesses: how many seeds are in it? Write hers, write yours, put one down for Kreston. Nobody changes their answer later.
+3. Cut it on the tray with her standing back where she can see, and put the big knife out of reach before anyone touches a piece.
+4. Everyone eats outside, spoons only, seeds spat onto the tray. This mess hoses off.
+5. Count the seeds into the jar in tens, out loud, and let her decide whose guess was closest.
+6. Lid on the jar and onto the windowsill. Those get planted in the spring.
+7. Fill the bowl at the tap and float the rind halves in it. They sit like boats and she will push them round until dinner.
+
+> 💡 **Tip:** Let her spit the seeds. The tray catches all of it.
+
+### 🎯 Afternoon Alternatives
+- Half a melon, spoons, on the back step, nothing counted.
+- Freeze the leftover chunks on a tray for tomorrow.
+- Rind boats in the paddling pool instead of a bowl.
+- Sort the seeds into tens on a plate.
+
+### 🌳 Out Again: **The Library**
+- **The library**, and let her carry the returns bag in herself
+- The bookshop or a charity shop, if the library is shut this week
+- Soft play, if the heat has beaten everybody
+- The park with the shade and the water fountain
+- A café with cool air and the new book
+
+> 👶 **Kreston's Afternoon:** He gets watermelon scraped to a mush with a spoon,
+> no chunks and no seeds near him. At the library, put him down in the board
+> book corner and let him pull books off the low shelf. He will bring one back
+> to you over and over, so take it every time and read the first page.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Involvement predicts eating better than persuasion does.**
+> The cucumber she cut is a cucumber she eats. Children who handle, wash, cut
+> and serve food eat more of it and try new things sooner, and the effect holds
+> for foods they refused off a plate a week before. Handling wears the
+> strangeness off. By noon she has smelled the lemon, felt the tomato give under
+> the knife and tasted the dip twice while stirring, so what arrives at the
+> table is a known thing that belongs to her. Say nothing about eating it. A
+> three-year-old who made lunch and is then encouraged to eat it hears pressure
+> instead of an invitation.
+
+> ⚠️ **Safety:** The big knife is adult-only, it cuts the melon once, and it
+> goes back out of reach before anybody eats. Watermelon chunks and seeds are
+> choking size for Kreston at 13 months, so his portion gets scraped to a mush.
+> The corn pan is boiling water at her head height: handle turned in, and she
+> stays the other side of the counter while it is on.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-189"></a>
+
+## 🌟 Day 189: Three Rules 🌟
+**📅 Thursday, July 8, 2027**
+**Theme:** Independence Day Celebration
+
+### 🌙 Prep Tonight
+> Put the card, the marker and a ball by the back door, and find three coins and something she can use as a purse.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: What Makes It a Game
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Game That Goes on the Fridge (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Chalking the Pitch (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Money in Her Own Pocket (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Putting the Shopping Away
+- **4:15–5:00 PM** — Quiet Play: Playing the Game on Her Own
+- **5:00–5:45 PM** — 🛁 Wind-Down: Three Books, Her Choice
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: What Makes It a Game
+
+**🧰 You need:** 1 ball · a clear bit of floor.
+
+1. Play a game she knows, rolling the ball between you, and stop halfway through on purpose.
+2. Play it again with no rules for one minute: ball anywhere, score whenever you like, both at once. Let it get daft and let her complain.
+3. Ask what was wrong with that. Her answer is what you build the new game out of.
+
+### 🎨 The Main Event: The Game That Goes on the Fridge
+
+**🧰 Complete Materials List:**
+- 1 piece of card, or the back of a cereal box
+- 1 marker
+- Chalk
+- 1 ball
+- Masking tape, or 1 fridge magnet
+
+**📝 Step-by-Step Instructions:**
+1. Ask her to invent a game and let it run long and mad. Take every rule she says, including the ones about dragons.
+2. Play it once through as she described it. It falls apart somewhere, and that collapse is the material for the hour.
+3. Cut it down to three. Say them back as a list: *you have to do this, you can't do that, this is how you win.* Let her correct you until it matches.
+4. Write the three rules on the card in marker, with a picture beside each so she can read them back without you.
+5. Take the chalk out and mark what the game needs on the ground: a start line, a target, a place to stand.
+6. Tape the card to the fridge at her height. It stays there for the summer and anyone can play it.
+
+> 💡 **Tip:** Write her words, not the tidy version. A rule she can recite is a rule she will enforce on you at dinner.
+
+### 🌳 Get Outside: Chalking the Pitch
+
+Take the chalk and the ball to the biggest flat surface you can reach on foot
+and draw the game out full size: the line, the target, a box for each player.
+Play it five times, and anyone walking past gets asked to join.
+
+> 👶 **Infant Integration:** Kreston is 13 months, walks, and carries things
+> while he moves, which makes him a useful ball fetcher. Give him that job out
+> loud and let Azlyn be the one who hands it to him. If she wants one of the
+> three rules to be about him, write it down.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Money in Her Own Pocket
+
+The market is at half two and she is going in with three coins that belong to
+her and a list she can read.
+
+**🧰 Complete Materials List:**
+- Paper and crayons, for the picture list
+- 3 coins
+- 1 small purse, an envelope, or the waistcoat pocket
+- 1 shopping bag she can carry herself
+- 1 marker
+
+**📝 Step-by-Step Instructions:**
+1. Decide together what she is buying. Three things, and she draws each one on the paper however she likes.
+2. Write the word beside each drawing in marker, so a stallholder can read it over her shoulder if she goes shy.
+3. Count the three coins into her hand, then into the purse. Open and shut it ten times, because a purse she fumbles gets handed to you.
+4. Agree the three market rules out loud in her words: hold the bag, hands off the fruit unless we are buying it, stay where you can see me.
+5. Rehearse the asking. You be the stallholder, four times, until *can I have one please* comes out without a run-up.
+6. She packs the bag herself: the list, the purse, nothing else.
+7. At the market she hands the money over and takes the change back into her purse while you stand behind her.
+
+> 💡 **Tip:** Let her count the money out at her own speed and let the queue wait.
+
+### 🎯 Afternoon Alternatives
+- A shop instead of a market, one item, same three coins.
+- A stall at home, and she sells you the fruit bowl.
+- Draw the list and skip the trip if the heat is brutal.
+- Sort a jar of coins into piles by size.
+
+### 🌳 Out Again: **Pick one**
+- **The market**, and she buys her three things herself
+- The greengrocer or a farm stand, if the market packs up by three
+- The park after, with whatever fruit she bought
+- A bakery, and let her choose and pay for one thing
+- Home to the garden, and a picnic of the shopping
+
+> 👶 **Kreston's Afternoon:** Keep him in the carrier or strapped into the pram
+> at the market. At 13 months he points at everything he wants and he can reach
+> a fruit display from a pram, so park side-on. Name what he points at every
+> time, even the fortieth.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Three rules, repeated forever, beats twenty rules said once.**
+> Azlyn holds about three pieces of information at a time, and a loud market
+> takes that down to two. Twenty careful instructions in the car are gone
+> before the door shuts. The card on the fridge works for the same reason the
+> market rules do: three items, the same words every time, a picture she can
+> read without you. She will start reciting them at you, correcting your
+> version, enforcing them on Kreston, and the rule leaves your mouth for good.
+> Resist the fourth. Each one you add pushes another out, and the one that falls
+> off is never the one you would have chosen.
+
+> ⚠️ **Safety:** Coins are a choking hazard for a 13-month-old who walks over
+> and picks things up, so the purse lives in her pocket or your hand and the
+> change goes straight back into it. The market means traffic, a crowd and a
+> kerb: say the three rules before you get out of the car, not on the pavement,
+> and keep a hand on the pram brake while she pays.
+
+<div style="page-break-after: always;"></div>
+<a id="week-28"></a>
+
+## Week 28: Beach & Water Fun 🏖️
+**📅 July 9 – July 15, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Water is the material all week. Azlyn floats things and sinks them, moves a
+bucket of it across the garden by sponge, sends it down five bottle chutes
+taped to the fence, and paints a wall the sun wipes clean behind her. The same
+question comes back in a new form every day: what does water do, and what makes
+it stay where you put it? By Thursday she has a fleet of boats, a sea sealed in
+a bottle, four name stones and a beach she built in the garden.
+
+No holiday lands this week, so the heat is the thing to plan around. Monday is
+the longest stretch outdoors of the seven days and wants shade, a hat and a
+drink she can reach without asking. Saturday's sand goes under a bin bag and
+comes back out on Wednesday, Friday's boats sail again in the paddling pool on
+Thursday, and the salt water on Tuesday takes half an hour in the sun to show
+what it did. Nothing she makes gets thrown out before the week is finished.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Shape decides what floats.** One square of foil sinks as a ball and carries a cargo of pasta as a boat.
+- **Water is what makes sand hold.** Dry sand slumps out of the cup, damp sand keeps its corners, and one jug too many turns the lot to soup.
+- **The long out-breath**, down a straw, under a feather, and up at a paper spiral that only turns for a slow one.
+- **Pouring, aiming and squeezing** with jugs, sponges, a squeezy bottle and chutes she moves herself until the water lands where she wants it.
+- **That she can finish a job she can see.** Grubby pile on her left, clean row on her right, and she works from one side to the other.
+
+---
+
+### 👩 What You'll Learn
+
+- Same material, different shape, opposite result
+- Open-ended materials outperform toys, and cheap ones outperform expensive ones
+- Slow exhalation is the body's own calming switch
+- Give three tools and let her choose
+- Visible results are what sustain a child's effort
+- Competition at three works when everyone wins something real
+- Historical injustice, explained plainly, does not damage a three-year-old
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] Kitchen foil, 2 rolls
+- [ ] A bag of play sand (substitute: dry garden soil, or rice for the dry half)
+- [ ] Clear plastic bottles, 500 ml, 3, labels peeled off
+- [ ] Plastic bottles in mixed sizes, 5, for the water wall
+- [ ] An empty squeezy bottle, rinsed
+- [ ] A paddling pool (substitute: 2 large storage boxes, or the bath)
+- [ ] A large clear storage box
+- [ ] Washing-up bowls, 3
+- [ ] A shallow tray, 1
+- [ ] Buckets, 4
+- [ ] Jugs, 2
+- [ ] Plastic cups, 4
+- [ ] A colander
+- [ ] An empty margarine or ice cream tub
+- [ ] A jam jar
+- [ ] Clear glasses, 3
+- [ ] Ice cube trays, every one you own
+- [ ] A funnel (substitute: the top third of a spare bottle, cut off)
+- [ ] Cooking oil, 300 ml
+- [ ] Blue food colouring
+- [ ] Table salt, 6 tablespoons
+- [ ] Dried pasta, a handful, or 20 coins
+- [ ] Washing-up liquid
+- [ ] Masking tape, 2 rolls
+- [ ] Parcel or duct tape, 1 roll
+- [ ] A craft knife or heavy scissors (adult only)
+- [ ] A pair of adult scissors
+- [ ] A hole punch
+- [ ] A permanent marker
+- [ ] Plain paper, 8 sheets, for tickets, sails, flags, the sign and the spinner
+- [ ] Dark paper, 2 sheets (substitute: brown parcel paper, or a flattened cereal box coloured dark)
+- [ ] Crayons
+- [ ] Tissue paper or kitchen roll, 3 sheets
+- [ ] A pen
+- [ ] Drinking straws, 6
+- [ ] Lolly sticks, 12
+- [ ] Plastic bottle caps, 6
+- [ ] Cotton wool balls, 10
+- [ ] A ping-pong ball (substitute: a scrunched foil ball)
+- [ ] A feather (substitute: a torn strip of tissue)
+- [ ] Chalk, 2 sticks
+- [ ] Sponges, 4, one of them large
+- [ ] Brushes: 1 wide decorating brush, 1 paintbrush, 1 old toothbrush, 1 nail brush, 1 dustpan brush
+- [ ] A sieve
+- [ ] Spoons, 4, one metal and one a teaspoon
+- [ ] A potato masher
+- [ ] A saucepan lid
+- [ ] Flat stones from the garden, 4
+- [ ] String, a length
+- [ ] Clothes pegs, 8
+- [ ] Old towels, 5, and every towel in the house on Thursday
+- [ ] Old tea towels, 2
+- [ ] An old sheet
+- [ ] Dining chairs, 4
+- [ ] A laundry basket and one smaller basket
+- [ ] A bag, a towel and a book to pack for the train
+- [ ] Sun cream and sun hats
+- [ ] A phone, for the timer and the photographs
+- [ ] A cloth for drying the stones
+- [ ] A fence, shed side or wall (substitute: a large flattened box propped against a wall)
+- [ ] Eight small kitchen things that can get wet: a cork, a lid, a peg, a bottle cap
+- [ ] The grubby outdoor toys: the trike, the wellies, the plastic animals, the doll from under the hedge
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, this is the week I would want to be home for, and the garden will
+> be wet by ten every morning of it. Thursday is the one I care about. Get in
+> the pool. Azlyn has spent six days doing water at arm's length in bowls and
+> buckets, and the part she keeps will be her mother sitting in a paddling pool
+> in her clothes with Kreston on her lap. Thursday also asks you to say a hard
+> sentence out loud about who used to be kept out of the water and why. You
+> will find better words for it than the ones I put on the page. The rest of
+> the week is tape, bowls and a lot of tipping out, and I am not relaxed about
+> that last part: anything full goes down the drain the second they are done
+> with it, every time, even when it means filling the bowl again in ten
+> minutes.
+
+---
+
+> 👶 **Kreston is 13 months this week**. He walks, climbs, and carries things
+> while he moves, which in a week of water means he carries it. He gets his own
+> cup, his own sponge and his own end of the towel every day, and he stays
+> within arm's reach of anything full.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-190"></a>
+
+## 🌟 Day 190: Float It or Sink It 🌟
+**📅 Friday, July 9, 2027**
+**Theme:** Beach & Water Fun
+
+### 🌙 Prep Tonight
+> Stand the washing-up bowl on two old tea towels by the back door with the foil and the marker. Buy a bag of play sand today; tomorrow runs on it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Float Pile and the Sink Pile
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Ball, Boat, Same Foil (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Leaf Boats Down the Gutter (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Four Boats and a Wave (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Filling the Water Jug
+- **4:15–5:00 PM** — Quiet Play: The Bowl of Bottle Caps
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath With the Fleet In It
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Float Pile and the Sink Pile
+
+**🧰 You need:** 1 washing-up bowl half filled with water · 8 small things from the kitchen · 1 tea towel.
+
+1. Let her pick them: a spoon, a cork, a lid, a peg, a lolly stick, a bottle cap. Nothing that matters if it gets wet.
+2. One at a time, and she calls it before she drops it. Sinkers on the tea towel, floaters beside it.
+3. Ask what the floating pile has in common. Take the answer as it arrives and leave it until 9:15.
+
+### 🎨 The Main Event: Ball, Boat, Same Foil
+
+**🧰 Complete Materials List:**
+- 1 roll kitchen foil
+- 1 washing-up bowl or clear storage box
+- 1 jug of water
+- Dried pasta, a handful, or 20 coins as cargo
+- 1 permanent marker
+- Paper and a pen for her guesses
+- 2 old tea towels
+- 1 plastic cup and 1 shallow tray for Kreston
+
+**📝 Step-by-Step Instructions:**
+1. Tear two squares of foil the same size, a hand span each, and lay one on the other so she sees they match.
+2. Scrunch the first into a tight ball. Press the second over your fist and pinch the sides up into a boat.
+3. Write her guesses on the paper before either touches the water: ball, floats or sinks; boat, floats or sinks.
+4. Spread the tea towels, stand the bowl on them, fill two-thirds and mark the water level with the marker. Both shapes go in at once, one in each hand.
+5. Give the boat a cargo: five pieces of pasta, one at a time. It sits lower in the water and stays up, while the ball lies on the bottom carrying nothing.
+6. Now she builds the boat and you do nothing. Hers comes out a different shape, floats anyway, and the result goes on the paper under yours.
+
+> 💡 **Tip:** Drop them together rather than one after the other. She will ask you to flatten the ball out and try again.
+
+### 🌳 Get Outside: Leaf Boats Down the Gutter
+
+Take a two-litre bottle of water to the top of the street; July gutters are bone dry. Pour a slow stream into the kerb channel and send leaves down it, one each. They snag on grit and stop dead, and she will clear the channel with her fingers. Save the last of the bottle for the drink she forgets to ask for.
+
+> 👶 **Infant Integration:** Kreston is 13 months and carries things while he walks. Give him his own cup and a shallow tray with a finger of water in it at the far end of the towels. He fills the cup, walks three steps, tips it and goes back for more. That loop holds him twenty minutes.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Four Boats and a Wave
+
+The bowl stays where it is and the fleet gets bigger: four boats out of the recycling.
+
+**🧰 Complete Materials List:**
+- Kitchen foil
+- 1 empty margarine or ice cream tub
+- 6 plastic bottle caps
+- 6 lolly sticks
+- Paper for sails, 1 sheet
+- 1 roll masking tape
+- 2 drinking straws
+- The bowl of water from this morning
+
+**📝 Step-by-Step Instructions:**
+1. Four piles along the table: foil, the margarine tub, the caps, the sticks. She builds one boat from each and you keep your hands off three.
+2. Foil goes over your fist again. The margarine tub is a boat already. Five lolly sticks tape side by side into a raft, the sixth upright in the middle.
+3. The six caps tape rim to rim into a block, two rows of three.
+4. Tear four rough sails. Tape a straw mast into the foil boat and another into the tub, a sail to each. The raft's sail goes on its standing stick; the cap boat's folds into an L and tapes flat.
+5. Float all four at once and ask which boat the wave will beat.
+6. One hand each side of the bowl, rock it once. That is the wave. Watch what tips, then rock harder.
+7. Keep going until one boat is left upright. Mend the sunk ones and sail again.
+
+> 💡 **Tip:** Hand her the bowl for the last few waves and let her decide how hard.
+
+### 🎯 Afternoon Alternatives
+- One boat each, no sails, straight into the bath.
+- Race two boats across the bowl by blowing through the straws.
+- Sort the recycling into things that would float and things that would not.
+
+### 🌳 Out Again: **Pick one**
+- **Playgroup**, and the paddling trays will be out in this heat
+- A friend's garden, if anyone has a hose and the patience
+- The splash pad, early enough for a shaded bench
+- The park at the end of the day, once the grass is back in shade
+
+> 👶 **Kreston's Afternoon:** At 13 months he climbs, and a washing-up bowl on the floor is a thing to climb into. Sit him beside it with the margarine tub boat, mast pulled out, the one thing in the fleet too big to go in his mouth, and stay within arm's reach the whole time it holds water. He bangs the surface flat-handed to make his own wave.
+
+### 🌍 Around the World: Australia: Swim Between the Flags 🏖️
+
+Australian beaches carry two flags in the sand, a red and yellow pair at each
+end of a stretch of water. The water between them is the part the lifesavers
+are watching, and children there learn the phrase before they can swim. The
+flags move up and down the beach as the currents shift, so the safe patch is
+never in the same place twice.
+
+> **✨ Try it:** Push two red and yellow paper flags into the grass and let
+> Azlyn set the safe water. Eat fairy bread between them: white bread, butter
+> and a heavy shake of sprinkles, cut into triangles.
+
+> *Did you know?* Surf Life Saving Australia has over 180,000 members, and most
+> of the people on patrol are volunteers.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Same material, different shape, opposite result.**
+> Two identical squares of foil went into the same water and did opposite
+> things. Azlyn cannot hold the density explanation at three and she does not
+> need it. She keeps the rule underneath: the same stuff arranged two ways
+> behaves two ways. Children this age work out physical rules by watching one
+> thing change while everything else stays still, and you set that up for her
+> by tearing the squares the same size. She will ask why the boat floats.
+> Answer with another test. Flatten the ball out, fold it into a third shape
+> and put it back in the water.
+
+> ⚠️ **Safety:** Standing water. Kreston is 13 months, he walks, and he can
+> drown in the depth of a washing-up bowl in silence. He stays within arm's
+> reach whenever it is full, and the bowl gets tipped the moment they stop.
+> Torn foil scraps go straight in his mouth, so keep the offcuts on the table
+> and sweep before you put him down. Pasta and bottle caps are the same.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-191"></a>
+
+## 🌟 Day 191: Wet Sand Holds 🌟
+**📅 Saturday, July 10, 2027**
+**Theme:** Beach & Water Fun
+
+### 🌙 Prep Tonight
+> Spread an old towel in the garden with the storage box and the bag of play sand on it. Rinse two clear 500 ml bottles and peel the labels for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Raiding the Kitchen Drawer
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Wet Sand, Dry Sand (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Barefoot on Four Grounds (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Train to the Seaside (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Tearing the Salad
+- **4:15–5:00 PM** — Quiet Play: The Sand Tray on a Towel
+- **5:00–5:45 PM** — 🛁 Wind-Down: Sand Off in the Shower
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Raiding the Kitchen Drawer
+
+**🧰 You need:** the kitchen drawer · 1 basket · the towel in the garden.
+
+1. Hand her the basket and two rules: nothing sharp, nothing that plugs in.
+2. She chooses six things she thinks could shape sand. Let the daft ones through; a potato masher beats anything sold as a sand tool.
+3. Lay them along the edge of the towel in the order she picked them. Ask which will hold a shape and let the guess sit until 9:15.
+
+### 🎨 The Main Event: Wet Sand, Dry Sand
+
+**🧰 Complete Materials List:**
+- 1 bag play sand (substitute: dry garden soil, or a bag of rice for the dry half only)
+- 1 large storage box or washing-up bowl
+- 1 jug of water
+- 1 metal spoon, 1 sieve, 2 cups, 1 ice cube tray, 1 potato masher
+- 1 old towel underneath
+- 1 dustpan brush
+
+**📝 Step-by-Step Instructions:**
+1. Box on the towel, dry sand two hands deep, tools along the edge.
+2. Dry first. She fills both cups and the ice cube tray, turns them out and watches it slump. Sieve it, spoon it, pile it up.
+3. Half a jug of water into one end. Mix it with the spoon and let her get her hands in. Fill a cup and turn it out; somewhere in that jug the sand starts holding.
+4. Press a flat patch with the potato masher and let her stamp a print in it. Fill the ice cube tray and turn out blocks that keep their corners.
+5. The rest of the jug goes in until it turns to soup. Ask her where it went wrong; dry sand from the far end is the repair.
+6. Sweep the spills back into the box with the dustpan brush.
+
+> 💡 **Tip:** Let her ruin it in step five. She has to see the soup to know that wet has two ends.
+
+### 🌳 Get Outside: Barefoot on Four Grounds
+
+Shoes off in the garden and walk four surfaces in a row: grass, paving, gravel
+or bark, and the doormat. Test the paving with your own hand first, because a
+July slab in full sun will burn her feet. Name each one as she stands on it and
+ask which she would sleep on.
+
+> 👶 **Infant Integration:** Kreston is 13 months and he will eat a handful of
+> sand before you finish turning round, so he gets his own end of the towel and
+> his own cup with a splash of water in it. Barefoot on grass is worth five
+> minutes on its own at his age. He stands still and looks down at his feet.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Train to the Seaside
+
+Four dining chairs in a line down the hall, and the 2:30 train is a real one.
+
+**🧰 Complete Materials List:**
+- 4 dining chairs
+- Paper for tickets and a sign, 2 sheets
+- 1 marker
+- 1 hole punch, or 1 pair of adult scissors (**adult only**)
+- 1 roll masking tape
+- 1 bag, 1 towel and 1 book to pack
+- 1 saucepan lid as the whistle
+
+**📝 Step-by-Step Instructions:**
+1. Chairs in a line, two and two, all facing the same way. The front one is the driver's and she picks who sits there.
+2. Fold a sheet of paper into six, write **SEASIDE** on each panel with the marker and tear them apart into tickets.
+3. She punches a hole in every ticket, or you snip a corner off each with the adult scissors.
+4. The second sheet is the destination sign. She tells you the word, you write it, and it tapes to the front chair.
+5. Pack the bag together: the towel, the book, and whatever else she says a person needs at the sea.
+6. Everyone boards and hands over a ticket. Bang the saucepan lid for the whistle and pull out.
+7. She calls the stops, you say what goes past the window, and the last stop is the sea.
+
+> 💡 **Tip:** Keep two tickets back for the real train at 2:30. She hands one to an actual guard.
+
+### 🎯 Afternoon Alternatives
+- One row of chairs, no tickets, straight to the sea.
+- Draw the view out of the window on the back of the sign.
+- Line the chairs up as a bus and go somewhere she names.
+
+### 🌳 Out Again: **Pick one**
+- **A train ride**, two stops out and two back, with her ticket in her hand
+- The station itself, if the timetable is against you, to watch them arrive
+- A bus ride instead, upstairs at the front
+- A shaded walk somewhere with water at the end of it
+
+> 👶 **Kreston's Afternoon:** He rides too. At 13 months a moving train is hard
+> work, all vibration and strangers and things sliding past the window, so a
+> short hop out and back is plenty. Sit him on your lap facing the glass and
+> name three things as they go.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Open-ended materials outperform toys, and cheap ones outperform expensive ones.**
+> A bag of play sand costs less than a takeaway and held her for an hour.
+> Sand has no finished state, so nothing she does to it counts as
+> wrong, and she will take risks with it she would never take with a puzzle
+> that has one right answer. She wrecked the wet sand on purpose to find where
+> the edge was. Researchers who time children's play find the longest stretches
+> over materials with no built-in outcome: sand, water, dough, blocks. The toy
+> with a button and a song does one thing well, and she has finished it by
+> Tuesday. Buy the sand.
+
+> ⚠️ **Safety:** Sand in eyes, and sand in Kreston's mouth. Play sand only,
+> never builder's sand, and keep it damp so it cannot blow about. The box stays
+> at her end of the towel and he stays at the other end with his own cup. If it
+> gets in her eyes, rinse with clean water and no rubbing. The scissors stay
+> with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-192"></a>
+
+## 🌟 Day 192: The Slow Wave 🌟
+**📅 Sunday, July 11, 2027**
+**Theme:** Beach & Water Fun
+
+### 🌙 Prep Tonight
+> The bottles are rinsed and the labels are off, so stand them on the counter with the cooking oil, the blue food colouring and the parcel tape.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Choosing the Blue
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Sea in a Bottle (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Lying on the Towel Looking Up (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: What One Breath Can Move (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Filling the Ice Tray
+- **4:15–5:00 PM** — Quiet Play: The Bottle on Her Lap
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Slow Bath
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Choosing the Blue
+
+**🧰 You need:** 3 clear glasses of water · blue food colouring · 1 teaspoon · a bright window.
+
+1. One drop of colouring in the first glass, three in the second, six in the third. She counts them in and stirs each with the teaspoon.
+2. Hold all three against the window: a swimming pool, the sea on a good day, the sea in a storm.
+3. She picks the one that goes in the bottle at 9:15. Leave that glass at the front of the counter.
+
+### 🎨 The Main Event: The Sea in a Bottle
+
+**🧰 Complete Materials List:**
+- 2 clear plastic bottles, 500 ml, labels peeled off
+- Cooking oil, about 300 ml
+- Blue food colouring
+- 1 funnel (substitute: the top third of a third bottle, cut off)
+- 1 roll parcel tape for sealing the lid
+- 1 jug of water
+
+**📝 Step-by-Step Instructions:**
+1. Fill each bottle a third of the way from the jug. Add the blue she chose, counting the drops out loud, then cap and shake until the colour is even.
+2. Funnel in the neck. Pour the oil in slow, half the bottle each, stopping a hand's width from the top.
+3. Lid on tight, neck wiped dry, then two full turns of parcel tape over the lid and down onto the shoulder. This lid does not come off again.
+4. Lay it flat and lift one end, slow as you can. One wave travels the whole length and slows when you do.
+5. Now let her shake it as hard as she likes. Everything breaks into beads. Set it down and wait two minutes for the layers to find each other again.
+6. The second bottle is hers from the start, you holding the funnel and saying nothing.
+
+> 💡 **Tip:** Check the tape before you hand it over, and again next week. A leaking bottle is 300 ml of oil on the carpet.
+
+### 🌳 Get Outside: Lying on the Towel Looking Up
+
+Spread a towel in the deepest shade you can find at eleven and lie down on your
+backs. July skies are busy: swifts working high up, a plane trail going soft at
+the edges, one leaf turning over. Take her bottle out and lay it beside her so
+the sun comes through it.
+
+> 👶 **Infant Integration:** Kreston is 13 months and this bottle is built for
+> him. Once the tape is on, let him have it on the grass. It is heavy enough to
+> be interesting, it rolls, and the blue keeps moving after he has stopped. He
+> will carry it round the garden and bring it back to Azlyn.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: What One Breath Can Move
+
+A blowing station goes up on the kitchen table.
+
+**🧰 Complete Materials List:**
+- 4 drinking straws
+- 10 cotton wool balls
+- 1 feather, or a torn strip of tissue
+- Tissue paper or kitchen roll, 3 sheets
+- Paper for the spinner, 1 sheet
+- 1 pair of adult scissors (**adult only**)
+- 1 roll masking tape
+- 1 ping-pong ball, or a scrunched foil ball
+
+**📝 Step-by-Step Instructions:**
+1. Two lines of masking tape down the table a hand's width apart, a metre long. That is the track, with a strip across each end.
+2. A cotton wool ball each at the start line, a straw each, and blow them down the track. Race three or four times and let her win some.
+3. Swap in the ping-pong ball. Heavier, slower, and it wants a long steady blow rather than a hard puff.
+4. The feather comes off the table. She keeps it up with her mouth alone and you count out loud until it lands.
+5. Tear the tissue paper into squares. Hold one flat on the wall, blow at it and take your hand away. It hangs a second or two.
+6. Cut a spiral out of the paper yourself, from the outside in. Tape a loop of masking tape to the middle and hang it from a shelf edge.
+7. Blow up at the spiral. A hard puff swings it about. One long slow out-breath turns it round and round.
+
+> 💡 **Tip:** Keep the spiral. Leave it hanging, and on the afternoons that fall apart at four o'clock, take her over and both of you blow.
+
+### 🎯 Afternoon Alternatives
+- Cotton wool races on the floor with no track.
+- Blow bubbles in a glass of water through a straw.
+- Keep one feather in the air between the three of you.
+
+### 🌳 Out Again: **Pick one**
+- **A playground you've never been to**, chosen for shade over equipment
+- The one with the water feature, if the heat holds
+- A woodland path where the whole walk is under trees
+- The duck pond, late enough that the sun is off the water
+
+> 👶 **Kreston's Afternoon:** Cotton wool balls and a 13-month-old do not mix,
+> so he gets the sealed bottle and the far end of the room. At the playground
+> he wants the steps rather than the slide, so let him have the ladder with
+> your hands hovering.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Slow exhalation is the body's own calming switch.**
+> Azlyn spent the afternoon on a breathing exercise and nobody mentioned
+> breathing. The out-breath is the half of the cycle that slows the heart. A
+> long exhale raises vagal tone and takes her off the accelerator. The paper
+> spiral turns for a long steady stream of air and swings about for a hard
+> puff, so she had to slow down to make it go round. Telling a wound-up
+> three-year-old to take a deep breath fails; she gulps the air in and holds
+> it. Give her something to move with her mouth and the long breath arrives on
+> its own: a straw, a feather, birthday candles, bubbles in a glass.
+
+> ⚠️ **Safety:** Cotton wool balls, the ping-pong ball and loose straws all fit
+> down Kreston's throat. Count them out and count them back in before he is on
+> the floor, and keep the whole station at the far end of the table. The
+> scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-193"></a>
+
+## 🌟 Day 193: Water on the Wall 🌟
+**📅 Monday, July 12, 2027**
+**Theme:** Beach & Water Fun
+
+### 🌙 Prep Tonight
+> Stand the bucket, the brush, the sponge, the squeezy bottle and the chalk by the back door. Pile every grubby outdoor toy into one heap for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Brush, Sponge, Squeezy Bottle
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Painting the Sun Takes Back (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Hot Wall, Cool Wall (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Water Wall on the Fence (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Watering the Pots
+- **4:15–5:00 PM** — Quiet Play: Two Cups and a Bowl of Water
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Cool Bath and a Long Book
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Brush, Sponge, Squeezy Bottle
+
+**🧰 You need:** 1 bucket half filled with water · 1 wide brush · 1 large sponge · 1 empty squeezy bottle · one dry paving slab.
+
+1. Bucket on the slab, three tools beside it, one instruction: put water on this square of ground.
+2. She tries all three. The brush strokes, the sponge prints, the bottle squirts a line she can aim. Say nothing about which is best.
+3. Ask which she wants for the fence at 9:15. She takes all three.
+
+### 🎨 The Main Event: The Painting the Sun Takes Back
+
+**🧰 Complete Materials List:**
+- 1 bucket of water
+- 1 wide decorating brush (substitute: a washing-up brush)
+- 1 large sponge
+- 1 empty squeezy bottle, rinsed
+- 1 stick of chalk
+- 1 jug for refilling
+- A fence or shed side, and one dry paving slab
+- 1 small sponge and 1 plastic cup for Kreston
+
+**📝 Step-by-Step Instructions:**
+1. Bucket at the foot of the fence in what shade there is, jug beside it.
+2. Brush first. She paints a long stripe along the fence and the beginning has gone by the time she reaches the end.
+3. Sponge next, pressed flat on the shed door in whole prints. Count how long each lasts; the ones in shade hold longer.
+4. She lays a hand on the paving, you paint round it, then chalk the outline before it vanishes. The water goes, the chalk ghost stays.
+5. Squeezy bottle, filled from the jug. Squirting a line high up the wall is the best thing all morning; give it twenty minutes.
+6. Last one is a race. She paints a shape at one end of the fence and runs to the other end and back before it dries.
+
+> 💡 **Tip:** Keep the bucket in shade and top it up from the jug. A trip indoors to the tap ends the whole thing.
+
+### 🌳 Get Outside: Hot Wall, Cool Wall
+
+Take her round the outside of the house with one hand out, touching as she
+goes. The sunny wall, the shaded wall, the paving, the grass, the car bonnet
+(your hand first, always). July gives the biggest spread of the year. Finish in
+the coolest spot she found and have the drink there.
+
+> 👶 **Infant Integration:** Kreston is 13 months and copies whatever Azlyn is
+> holding, so give him his own small sponge and a cup with an inch of water. He
+> paints the paving by dropping the sponge and picking it up. Check the ground
+> with your hand before you set him down in bare feet.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Water Wall on the Fence
+
+Five bottles get taped to the fence with a bucket at the bottom.
+
+**🧰 Complete Materials List:**
+- 5 plastic bottles, mixed sizes
+- 1 craft knife or heavy scissors (**adult only**)
+- 1 roll parcel or duct tape
+- A fence, shed side or wall (substitute: a large flattened box propped against a wall)
+- 1 jug and 1 bucket
+- 1 washing-up bowl to catch
+- 1 plastic cup for Kreston
+
+**📝 Step-by-Step Instructions:**
+1. Cut the bottles into open chutes while she stands back: bottom off, one long side out, lid left on. Tape every cut rim twice round; the edges come out sharp.
+2. Knife away on a shelf. She picks where the first chute goes and you tape it at her angle.
+3. Pour a jug in the top. Flat chutes hold onto it, steep ones throw it clear over the next.
+4. Let her move it. One chute, one change, one jug, and the answer arrives in four seconds.
+5. Add the second and third chutes so the water lands in each in turn. Bucket at the bottom, bowl under the worst leak.
+6. All five up. She pours the whole jug in and you watch how much arrives in the bucket.
+7. Tip the bucket back into the jug and run it again. Leave the wall up.
+
+> 💡 **Tip:** Use about twice as much tape as looks necessary. A chute that peels off mid-pour costs you ten minutes.
+
+### 🎯 Afternoon Alternatives
+- Two chutes, one bucket, and stop there.
+- Float bottle caps down the run and see which make it.
+- Tape the chutes to the side of the bath and do it indoors.
+
+### 🌳 Out Again: **Pick one**
+- **A green space with a ball**, kept to the shaded half of the field
+- The park with the big trees, for a picnic tea underneath them
+- The riverside path, a few degrees cooler than the street
+- The playground after five, once the metal has come off the boil
+
+> 👶 **Kreston's Afternoon:** He is 13 months and carries things while he walks,
+> so the water wall hands him a real job: filling his cup at the bucket and
+> delivering it to the top chute. It arrives half empty. Take it, pour it in
+> and tell him what it did. Out with the ball he chases it and falls over it.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Give three tools and let her choose.**
+> Three is the number that works inside a single job. One tool at the fence is
+> an instruction. Ten tools for one wall stall her, and she stands there
+> holding nothing. Three lets her compare, pick and change her mind inside a
+> minute, and the picking is the part that kept her at the fence for an hour.
+> Choice inside limits you set is the whole trick: you decided it was water on
+> the wall, she decided it was the squeezy bottle. Researchers looking at
+> autonomy find children given a real choice within a set task stay longer and
+> argue less. Setting out three things instead of one costs you nothing.
+
+> ⚠️ **Safety:** Heat. This is the longest stretch outdoors all week, so shade,
+> a hat and a drink she can reach without asking. Cut bottle edges are sharp,
+> so tape every rim before it goes on the fence and check them with your thumb.
+> A full bucket in the sun is standing water with a 13-month-old beside it, so
+> tip it the moment you finish. The knife and the scissors stay with you, on a
+> shelf between cuts.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-194"></a>
+
+## 🌟 Day 194: The Toy Wash 🌟
+**📅 Tuesday, July 13, 2027**
+**Theme:** Beach & Water Fun
+
+### 🌙 Prep Tonight
+> Stand the two washing-up bowls by the back door with the brushes, string and pegs in one. Throw a bin bag over the sand box so it is still damp on Wednesday.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Dirty Pile by the Door
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Two-Bowl Car Wash (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Wet Wheel Tracks (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Painting With Sea Water (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Pegging Out the Tea Towels
+- **4:15–5:00 PM** — Quiet Play: The Clean Animals in a Row
+- **5:00–5:45 PM** — 🛁 Wind-Down: Washing the Pool Off
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Dirty Pile by the Door
+
+**🧰 You need:** the pile from last night · 1 old towel to lay it on · her.
+
+1. Walk the garden and add to the heap: the trike, the wellies, the plastic animals, the doll that has lived under the hedge since June.
+2. Lay it out on the towel in a line, grubbiest at one end. She sets the order.
+3. Ask which will take the longest. Leave the line where it is; at 9:15 she works down it.
+
+### 🎨 The Main Event: The Two-Bowl Car Wash
+
+**🧰 Complete Materials List:**
+- 2 washing-up bowls
+- Warm water and a squirt of washing-up liquid
+- 1 old toothbrush, 1 sponge, 1 nail brush
+- 2 old towels
+- 1 length of string and 6 pegs for the drying line
+- The trike, the wellies, the plastic animals and the dolls from the pile
+- 1 small bowl, 1 sponge and 1 plastic animal for Kreston
+
+**📝 Step-by-Step Instructions:**
+1. Tie the string between the fence and a chair back at her chest height and hang the pegs along it. That is the drying line.
+2. Bowl one gets warm water and a squirt of liquid, bowl two clean water for rinsing. Her dirty line on the left, an empty towel on her right.
+3. Three brushes, one demonstration each and then hands off: toothbrush for wheels and joints, nail brush for wellie soles, sponge for the big flat sides.
+4. Wash, rinse, then peg or lay out. Doll clothes on the line, the trike and the wellies on the towel to drip.
+5. Halfway down the pile, look at bowl one. The water is grey. Tip it on the plants and mix a fresh one.
+6. Stand back at the end and look left, then right. Nothing on her left, a full row on her right.
+
+> 💡 **Tip:** She will wash the same wheel for eleven minutes. Leave her on it.
+
+### 🌳 Get Outside: Wet Wheel Tracks
+
+Take the clean trike and one bowl of water onto the driest paving you have. She
+rides the front wheel through the water and out across the slabs, printing
+tracks that last a minute in this heat. Ride a curve, then a straight line,
+then a circle, and compare the marks.
+
+> 👶 **Infant Integration:** Kreston is 13 months and copying chores is starting
+> in earnest. Give him a small bowl with an inch of water, one sponge and one
+> plastic animal, on the towel where you can see him. He washes it the way he
+> has watched Azlyn wash hers: in and out forty times. Stay within arm's reach
+> of every bowl.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Painting With Sea Water
+
+Six spoons of salt in a jar of warm water make a paint that shows nothing for
+half an hour.
+
+**🧰 Complete Materials List:**
+- Table salt, 6 tablespoons
+- 1 jam jar of warm water
+- 1 spoon
+- Dark paper, 2 sheets (substitute: brown parcel paper, or a flattened cereal box coloured dark with a crayon)
+- 1 paintbrush
+- A sunny windowsill
+
+**📝 Step-by-Step Instructions:**
+1. Six tablespoons of salt into the jar of warm water. She counts them in and tips each one.
+2. Stir with the spoon until the salt stops disappearing. The last of it sits on the bottom; the water is full.
+3. Brush loaded, she paints on the first sheet of dark paper. It looks like wet paper, so tell her the sun finishes it.
+4. Flat on the sunny windowsill and leave it. Go and do something else for half an hour; standing over it makes the wait worse.
+5. Come back. White lines have come up out of nowhere, following every stroke her brush made.
+6. Second sheet, bigger and wetter: her name, a handprint, the sea. Back on the sill.
+7. Hold the dry one to the light and let her rub a line with one finger. The crystals come off on her skin.
+
+> 💡 **Tip:** Warm water takes about twice the salt that cold water will. Start the jar hotter rather than stirring more salt into cold.
+
+### 🎯 Afternoon Alternatives
+- Paint the paving with the salt water and watch the white come up outside.
+- Rock salt in a saucer of water on the sill, left for two days.
+- Draw with a white crayon and paint over it.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and the coolest hour of her day
+- The outdoor pool if yours has one open in the school holidays
+- The splash pad, if the pool queue is round the block
+- Soft play with the air conditioning, when nobody can face a changing room
+
+> 👶 **Kreston's Afternoon:** He goes in too. At 13 months he walks on land, and
+> the pool floor is all drag and no grip, so both your hands stay on him.
+> Twenty-five minutes, out while he is enjoying it, food within the half hour.
+> Let Azlyn show him how to slap the surface.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Visible results are what sustain a child's effort.**
+> The grubby pile on her left shrank and the clean row on her right grew, and
+> she could check her own progress without asking you. A three-year-old cannot
+> hold an abstract goal for forty minutes, and she does not have to when the
+> evidence sits in front of her in two lines. Effort follows visible change at
+> this age, which is the reason she abandons tidying her bedroom: a room
+> halfway through looks the same as a room she has not started. Set a job up so
+> the work leaves a mark she can see. Pegging washing, filling a jar, laying
+> the table.
+
+> ⚠️ **Safety:** Two full bowls at Kreston's exact height, and he walks now.
+> Mix the water warm rather than hot, keep the soapy bowl at the back out of
+> his reach, and tip both the moment she finishes. Soap in the eyes ends the
+> morning, so the rinse bowl stays clean. Take the string line down once the
+> last thing is dry, because a line pegged at her chest height is at his neck.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-195"></a>
+
+## 🌟 Day 195: Beach Games in the Garden 🌟
+**📅 Wednesday, July 14, 2027**
+**Theme:** Beach & Water Fun
+
+### 🌙 Prep Tonight
+> Put the buckets, the sponges and the chalk out by the back step. Drag the paddling pool out of the shed and hose it down; Thursday stands or falls on it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: A Stone for Every Player
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Moving the Sea by Sponge (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Chalk Sea You Jump Into (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Best Castle, Best Door, Best Moat (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Cold Drinks Tray
+- **4:15–5:00 PM** — Quiet Play: The Name Stones
+- **5:00–5:45 PM** — 🛁 Wind-Down: Feet in a Bowl, Book on Her Knees
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: A Stone for Every Player
+
+**🧰 You need:** 4 flat stones · 1 bowl of water and a cloth · 1 permanent marker.
+
+1. Hunt four flat stones from the garden or the pot plants, one for every person in the house. She chooses whose is whose.
+2. Wash them in the bowl and dry them on the cloth. Wet stones will not take a marker.
+3. Write the four names on with the marker while she tells you which is which. They mark the buckets at 9:15 and the castles at 1:00.
+
+### 🎨 The Main Event: Moving the Sea by Sponge
+
+**🧰 Complete Materials List:**
+- 4 buckets or washing-up bowls
+- 1 shallow tray for Kreston, an inch of water in it
+- 3 sponges
+- 1 stick of chalk for the lines
+- 1 jug
+- 1 towel
+- 1 phone timer
+- The name stones
+
+**📝 Step-by-Step Instructions:**
+1. Chalk a start line and a finish line as far apart as the garden allows. Grass between them if you have it.
+2. Two buckets on the start line, filled from the jug and from the tap. Two empty ones on the finish line, a name stone in front of each.
+3. A sponge each, and one rule that never bends: nobody may carry a bucket.
+4. Two minutes on the phone timer. Soak, run, squeeze, run back. Towel on the finish line for wet feet.
+5. Stop dead on the timer and look. Tip the first finish bucket into the jug, mark the level with your thumb, empty it, then do the second and see whose comes higher.
+6. Round two, and she changes one thing: two sponges at once, a bigger sponge, a longer timer, both hands.
+
+> 💡 **Tip:** Play it for real. Run, drop things, lose. A three-year-old spots a grown-up going easy on her from a long way off.
+
+### 🌳 Get Outside: The Chalk Sea You Jump Into
+
+Chalk a wide wavy sea across the paving with three or four islands in it, big
+enough to land both feet on. The rules are hers. Jump island to island, and
+whoever lands in the sea goes back to the start. Draw a shark in the gap she
+finds easiest. It washes off in the first rain, which in this heat means
+September.
+
+> 👶 **Infant Integration:** Kreston is 13 months and gets the third sponge. He
+> will not run it anywhere useful; he carries it across the grass, drops it,
+> picks it up and sets off again. His own shallow tray with an inch of water in
+> it goes at the far side, clear of the racing, so the sponge has somewhere to
+> go. Never leave him beside a full bucket while you are timing a round.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Best Castle, Best Door, Best Moat
+
+Three bowls of yesterday's damp sand, three builders, and three prizes named
+before anybody starts.
+
+**🧰 Complete Materials List:**
+- The damp sand from Saturday, split between 3 bowls
+- 1 jug of water
+- 3 spoons and 3 cups
+- 3 paper flags on lolly sticks or straws, plus masking tape to fix them
+- The name stones
+- A phone for the photographs
+
+**📝 Step-by-Step Instructions:**
+1. Three bowls out on the grass, one each, name stone on the rim of each.
+2. Say the three prizes out loud now, before a single handful gets moved: Best Castle, Best Door, Best Moat.
+3. Jug on the grass for topping up; sand that dried out overnight needs a splash before it holds.
+4. Build for as long as it runs, twenty minutes or forty. Cups as moulds, spoons for digging the moat and cutting the door.
+5. Tear three paper triangles for flags, tape one to a lolly stick each, and everyone plants theirs when they are finished.
+6. Judge it out loud and hand out all three prizes. Say what won each one and mean it.
+7. Photograph the three castles side by side with the name stones in front, then let her flatten hers.
+
+> 💡 **Tip:** Build a rubbish castle yourself. She spends half the time watching what you are doing, and a wonky door gives her room to make hers her own way.
+
+### 🎯 Afternoon Alternatives
+- One big castle, everybody on it.
+- Sand in the bowls and no prizes at all.
+- Build the house you live in out of sand instead.
+- Press shells, stones and lolly sticks into a bowl of flattened sand.
+
+### 🌳 Out Again: **Pick one**
+- **The indoor play centre**, and the cool air is the whole reason
+- The library, if this is a library week for you
+- The shaded end of the park with a cold drink each
+- A friend's house, indoors, with the curtains shut against the sun
+- The supermarket freezer aisle and one thing she chooses
+
+> 👶 **Kreston's Afternoon:** He gets the third bowl of sand and no prize he
+> understands. At 13 months he climbs, so at the play centre the low soft steps
+> are where he wants to be rather than the ball pit. Follow him up them. Say
+> happy building to him when the flags go in.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Competition at three works when everyone wins something real.**
+> Azlyn is old enough to want to win and too young to take a loss without the
+> afternoon ending. Three-year-olds have started measuring themselves against
+> other people, which is the reason she ran so hard this morning, and their
+> sense of fairness runs well ahead of their ability to absorb coming second.
+> Naming the three prizes before anyone builds keeps the wanting and takes out
+> the wreckage. She hears three real categories, picks one to aim at, and wins
+> a thing she chose in front of the whole family. Losing well
+> arrives around five or six, and this afternoon is the practice that gets her
+> there.
+
+> ⚠️ **Safety:** Wet paving and running feet. Keep the racing on grass if you
+> have any. The buckets stay full for the length of one game and get tipped
+> between rounds, because Kreston will head straight for them the second the
+> shouting starts.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-196"></a>
+
+## 🌟 Day 196: The Beach at Home 🌟
+**📅 Thursday, July 15, 2027**
+**Theme:** Beach & Water Fun
+
+### 🌙 Prep Tonight
+> Fill every ice tray you own and freeze them. Tip the three bowls of sand back into the box, and leave the old sheet, the pegs and the towels by the back door with the sun cream on top.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Everything the Week Made
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Windbreak and the Towel Line (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Ice Cube That Has to Last the Walk (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Everybody in the Pool (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Carrying the Plates Outside
+- **4:15–5:00 PM** — Quiet Play: Under the Towel Tent
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Last Warm Bath of the Beach Week
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Everything the Week Made
+
+**🧰 You need:** 1 laundry basket · the week's pile · her.
+
+1. Send her round the house with the basket for everything this week made: the fleet, the sea bottle, the name stones, the box of sand, the paintings.
+2. Lay it out on the kitchen floor and let her name each thing and the day it came from. She will get two wrong.
+3. It all goes back in the basket by the back door for 9:15.
+
+### 🎨 The Main Event: The Windbreak and the Towel Line
+
+**🧰 Complete Materials List:**
+- 1 old sheet
+- 4 dining chairs, or 2 chairs and the washing line
+- 8 clothes pegs
+- Every towel in the house
+- The 3 paper flags on lolly sticks from yesterday
+- The boats, the sea bottle, the name stones and the box of sand from this week
+- Sun hats and sun cream
+
+**📝 Step-by-Step Instructions:**
+1. Sun cream and hats before anything comes out of the basket. Today runs outdoors start to finish.
+2. Two chairs on the grass with their backs together, the other two a body's length away, or one chair at each end of the washing line. Peg the sheet along the backs with all eight pegs, curved into a corner.
+3. Towels down inside it, edge to edge, until no grass shows. Shoes come off at the edge.
+4. She unpacks the basket: boats in a row, the sea bottle in the sun, a name stone in each corner, the box of sand at one end.
+5. The three flags from yesterday's castles spaced along the top edge of the windbreak.
+6. Sit down in it and do nothing for ten minutes. She built the place; let her be in it first.
+
+> 💡 **Tip:** Peg the sheet so it curves. A flat sheet is a washing line; a curved one is a room.
+
+### 🌳 Get Outside: The Ice Cube That Has to Last the Walk
+
+One ice cube each in a cup, out the door, and the game is getting home with
+something left. Walk the shady side of the street and let her carry hers in her
+bare hand for the last stretch. Compare the cups on the step. Mid-July gives
+you six minutes.
+
+> 👶 **Infant Integration:** Kreston is 13 months and carries things while he
+> walks, so hand him a cup with one cube in it. Cold, wet, sliding about, gone.
+> He will drop it, watch it and pick it up until it is too small to hold. Fish
+> it out of his mouth before it gets small enough to swallow.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Everybody in the Pool
+
+The pool goes up on the flattest ground you have and everyone gets in,
+Brooklyn included.
+
+**🧰 Complete Materials List:**
+- 1 paddling pool (substitute: 2 large storage boxes, or the bath)
+- Warm water, mixed by jug from the kettle and the tap
+- 2 jugs, 4 cups and 1 colander
+- The fleet of boats from Friday
+- 1 bowl of ice cubes
+- 1 towel each
+- Sun cream and hats
+
+**📝 Step-by-Step Instructions:**
+1. Pool on the flattest, shadiest spot within reach of the tap. Rinse it and let it warm through for twenty minutes.
+2. Fill it cold from the tap. Sit Azlyn and Kreston down on the grass at the far side, and carry the two jugs of hot water out only once they are both down. Stir them through with your arm and test it with your own elbow.
+3. Now everyone gets in. You first, Kreston on your lap, and Azlyn watches her mother sit in a paddling pool in her clothes.
+4. Jugs and cups first: pour over shoulders, fill, tip, fill again. The colander held over a head makes rain.
+5. Friday's fleet comes in, all four boats sailing round three people's knees.
+6. Bowl of ice cubes in last. One each to hold as long as she can bear it, the rest tipped in to chase.
+7. Lunch on the towels and the afternoon out there. Sun cream again once everyone is dry.
+
+> 💡 **Tip:** Get in. She has spent a week doing water at arm's length in bowls and buckets.
+
+### 🎯 Afternoon Alternatives
+- Two storage boxes instead of the pool, one foot in each.
+- The bath, filled shallow, with the fleet and the ice.
+- Feet in a bowl on the back step and a book each.
+
+### 🌳 Out Again: **Pick one**
+- **The post office**, and she posts the letter and carries the change
+- The corner shop for an ice lolly each, eaten on the wall outside
+- The library for a stack of sea books to end the week on
+- Back in the pool, which is where she will vote to go
+
+> 👶 **Kreston's Afternoon:** At 13 months he can sit in two inches of warm
+> water and stay busy for an hour, and he will try to stand up every four
+> minutes. Keep a hand on him. He gets a cup of his own, and on the errand he
+> walks the last stretch holding one finger.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Historical injustice, explained plainly, does not damage a three-year-old.**
+> Everyone in your house got in the water today. In America, public pools and
+> beaches were closed to Black families inside living memory, which is why
+> whole generations there were never taught to swim and why the drowning-rate
+> gap still sits where it does. Azlyn reads a hesitation as a rule about what
+> may be said, so say it without the flinch: there was a time when some people
+> were kept out of the water because of their skin, that was wrong, and people
+> changed it. Say it once, answer the follow-up, let her get back in. She may
+> hand it back to you wrong next week. Correct it in one sentence and leave it
+> there.
+
+> ⚠️ **Safety:** The paddling pool is the real hazard of the week. Kreston is
+> 13 months and walks, so he is within arm's reach every second it holds water,
+> it is never left filled while you go indoors, and it gets tipped the moment
+> they are done. Check the temperature with your own elbow before either of
+> them goes in. The kettle stays in the kitchen, and the two jugs of hot water
+> cross the garden only while both children are sitting down at the far side.
+
+<div style="page-break-after: always;"></div>
+<a id="week-29"></a>
+
+## Week 29: Ice Cream & Summer Treats 🍦
+**📅 July 16 – July 22, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Everything this week is cold and she makes most of it herself. Friday she
+shakes cream and salted ice in a bag for ten minutes and eats the result out of
+the bag. That afternoon five ice cubes go into five wrappings, and she opens
+all of them every twenty minutes to see which one is still there at dinner.
+Thursday runs the same idea long: a fork dragged across a freezing tray every
+half hour from ten in the morning.
+
+Between those two ends the week turns outward. She marks where the hatch goes in
+a big box on Saturday, you cut it, and she serves you from behind it. She builds
+a sundae to everybody's order on Sunday, and freezes a pot for each person on
+Monday with the flavour picked from something she has noticed about them.
+Tuesday the pram becomes a van and the whole house moves when she rings and
+stops when she stops. Wednesday she names eight people who did something for her
+this week and rolls each name inside a paper cone. Nothing lands on the
+calendar, so the heat sets the shape: kitchen in the morning, shade or water
+after lunch.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Salt makes ice colder than ice.** She shakes a bag of cream buried in salted ice and eats ice cream out of it ten minutes later.
+- **What keeps cold in.** Foil, a tea towel, shredded paper in a lidded box, a bowl of water, bare on a saucer. She predicts first, then checks every twenty minutes.
+- **Waiting, counted down.** Eight pegs come off a string one at a time while the granita freezes, so half an hour turns into something she can see.
+- **Taking an order and giving change.** She runs the hatch of a cardboard shop, hands out the jobs, then swaps sides and queues up as the customer.
+- **Saying what she has noticed about a person.** Four frozen pots and eight paper cones, each carrying one name and one reason in her own words.
+
+---
+
+### 👩 What You'll Learn
+
+- Celebration is a legitimate way to teach history
+- Children describe parents by what they *do*, not who they are
+- Food is the most durable carrier of family memory
+- Admiration is how children choose which traits to grow
+- Moving in time with someone builds connection, measurably
+- Gratitude needs a target before it needs a feeling
+- Waiting is easier when it's visible and shrinking
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] Ice cube trays, every one you own, filled and frozen from Thursday night
+- [ ] Table salt, a full box (6 tbsp goes into the ice on Friday)
+- [ ] Double cream or whole milk, 150 ml
+- [ ] Ice cream, 2 tubs
+- [ ] Plain yogurt, 500 g
+- [ ] Sugar
+- [ ] Vanilla
+- [ ] Bananas, 4
+- [ ] Tinned peaches or other tinned fruit, plus whatever fresh fruit is in
+- [ ] Biscuits, 1 packet
+- [ ] Jam
+- [ ] Chocolate sauce, or cocoa to mix with sugar
+- [ ] Sprinkles
+- [ ] Juice or squash, 500 ml
+- [ ] 1 lemon
+- [ ] 1 watermelon
+- [ ] Large zip-seal freezer bags, 2
+- [ ] Small zip-seal sandwich bags, 2
+- [ ] Kitchen foil
+- [ ] Kitchen roll
+- [ ] Masking tape, 2 rolls
+- [ ] Permanent markers, 2
+- [ ] Pens, 2
+- [ ] Crayons and felt pens
+- [ ] Plain paper, 30 sheets
+- [ ] Index cards, 12, or a cereal box to cut up
+- [ ] Newspaper, a stack
+- [ ] Chalk
+- [ ] 1 large cardboard box, tall enough for her to stand behind
+- [ ] 3 flattened cardboard boxes, for the menu board, the van sign and the coins
+- [ ] 1 shoebox with a lid
+- [ ] 1 biscuit tin, or a second shoebox
+- [ ] 1 paper bag
+- [ ] A craft knife or heavy scissors (adult only)
+- [ ] Adult scissors
+- [ ] Paper cups, one sleeve
+- [ ] 4 small pots or cups with lids
+- [ ] 4 tall plastic beakers and 4 long spoons
+- [ ] 5 saucers
+- [ ] Teaspoons and forks for everybody
+- [ ] 1 tablespoon and 1 metal spoon
+- [ ] 1 jug and 1 small bowl
+- [ ] 1 shallow metal or plastic tray for the granita
+- [ ] 1 tray to carry things on
+- [ ] Tea towels, 3
+- [ ] 1 saucepan lid, or a bell
+- [ ] String, 2 metres
+- [ ] Clothes pegs, 8
+- [ ] Cushions, 4 or 5
+- [ ] 1 sheet or tablecloth
+- [ ] A laundry basket, or the pram
+- [ ] A timer, on the cooker or your phone
+- [ ] Two cleared freezer shelves, one of them flat
+- [ ] Old family photos, if any are to hand
+- [ ] Something real to serve through the shop hatch on Saturday afternoon
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, on Wednesday she builds a bowl for somebody who is out of the house
+> and sets a place at the table for them. We both know whose name goes on that
+> card. If the waiting turns painful, make her a second bowl. Handing something
+> over is the part that matters and she can do that with a spoon in her own
+> mouth.
+>
+> Sunday she asks me what I ate on hot days when I was small, so I will have an
+> answer ready. Monday she makes a pot for each of us out of one noticed thing.
+> Write down what she says about you before the tape comes off the lid. A week
+> of a hot kitchen with a thirteen-month-old hanging off your leg does not feel
+> like much while you are standing in it, and that label is her telling you
+> otherwise.
+
+---
+
+> 👶 **Kreston is 13 months this week**. He walks, climbs anything with a lip on
+> it, and carries things from room to room while he moves.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-197"></a>
+
+## 🌟 Day 197: Ice Cream Without a Freezer 🌟
+**📅 Friday, July 16, 2027**
+**Theme:** Ice Cream & Summer Treats
+
+### 🌙 Prep Tonight
+> Freeze every ice tray you own and stand the cream, the salt and both sizes of zip-seal bag on the counter. Saturday needs a box she can stand behind.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Filling the Cold Bag
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Ten Minutes of Shaking (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Ice Cube Race on the Step (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Keeping One Cube Till Dinner (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Ice Trays
+- **5:00–5:45 PM** — 🛁 Wind-Down: Cold Flannels and Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Filling the Cold Bag
+
+**🧰 You need:** 1 large zip-seal freezer bag · a tray of ice cubes · 6 tbsp table salt · 1 tablespoon · masking tape and a marker.
+
+1. She loads ice into the big bag by the handful until it is half full. It sticks to wet fingers and she will refuse help.
+2. Six tablespoons of salt go in on top. She spoons, you count out loud.
+3. Seal it, tape a strip across the front and write **COLD BAG** on it. Tell her the salt is doing something to that ice, and she finds out at 9:15.
+
+### 🎨 The Main Event: Ten Minutes of Shaking
+
+**🧰 Complete Materials List:**
+- 1 small zip-seal sandwich bag
+- 1 large zip-seal freezer bag (from 8:00)
+- 150 ml double cream or whole milk
+- 1 tbsp sugar
+- 1 drop of vanilla
+- Ice cubes to half-fill the big bag
+- 6 tbsp table salt
+- 1 tea towel
+- 2 spoons
+- 1 roll masking tape
+
+**📝 Step-by-Step Instructions:**
+1. Pour the cream into the small bag. She adds the sugar and a drop of vanilla, and smells it first.
+2. Press the bag flat on the table to push the air out, seal it and tape along the seal. Trapped air splits it later.
+3. Open the cold bag, bury the small bag in the ice and salt, and seal it again.
+4. Wrap the tea towel round the parcel and shake. Sing something with a long chorus, hand it over, take it back when her arms go.
+5. At five minutes she presses a finger on the small bag through the towel. It sets at the edges before the middle.
+6. At ten, lift it out, wipe the salt off with the towel, open it and eat out of the bag with the two spoons.
+
+> 💡 **Tip:** Her arms give out long before the ten minutes do. Count the swaps out loud as you pass it back and forth.
+
+### 🌳 Get Outside: The Ice Cube Race on the Step
+
+Take four cubes out to the front step on a plate at half past ten, after three
+hours of July sun on the paving. Two go on the hot slab, two in the shade of the
+wall. The hot pair is water before you finish talking about it. Bare feet on
+both slabs tell her why.
+
+> 👶 **Infant Integration:** Kreston is 13 months and carrying things while he
+> walks is his project this month. Put your hands over his round the wrapped
+> parcel for two or three shakes. Outside, stand him barefoot on the shaded slab
+> and let him step across onto the warm one and back.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Keeping One Cube Till Dinner
+
+Five ice cubes go into five wrappings at one o'clock, and one has to last until
+dinner.
+
+**🧰 Complete Materials List:**
+- 5 ice cubes the same size
+- 5 saucers
+- 1 tea towel
+- Kitchen foil
+- Newspaper or shredded paper
+- 1 shoebox with a lid
+- 1 small bowl of water
+- Masking tape and 1 marker
+- A clock or a phone timer
+
+**📝 Step-by-Step Instructions:**
+1. Tear five strips of tape, number them 1 to 5 with the marker, and she sticks one on each saucer.
+2. Cube 1 sits bare. Cube 2 goes in the folded tea towel, cube 3 in foil, cube 4 buried in shredded newspaper inside the lidded shoebox, cube 5 into the bowl of water. Each stands on its numbered saucer.
+3. Line them up out of the sun. Ask which wins, write all five numbers on a sixth strip of tape stuck to the wall and circle the one she picks to win.
+4. Set the timer for twenty minutes. Each time it goes she opens all five and you cross the dead ones off the wall strip. Leave the kitchen in between, because the timer is what brings her back.
+5. Around three, tell her where this comes from. Men sawed blocks out of frozen lakes in winter, packed them in straw inside a thick-walled ice house and sold that ice in August.
+6. Whichever cube reaches six o'clock goes in a drink at the table, and she names the winner.
+
+> 💡 **Tip:** The bowl of water goes first and she will argue. Water carries heat into a cube faster than air does.
+
+### 🎯 Afternoon Alternatives
+- Two cubes only, one bare and one in the tea towel.
+- Ice cubes and a slotted spoon in warm water.
+- Juice cubes to draw on paper with.
+
+### 🌳 Out Again: **Pick one**
+- **Meet a friend at the park**, late enough that the metal has cooled
+- The shady end of the green with a blanket and cold water
+- The splash pad, if it is running this week
+- A friend's garden, for a hose and a shaded step
+
+> 👶 **Kreston's Afternoon:** He goes to the park on his feet rather than in the
+> pram. Grass at 13 months is uneven and grabs at his shoes, so he staggers the
+> first few metres and then works it out. Give him one thing to carry the whole
+> way.
+
+### 🌍 Around the World: Frozen Treats Everywhere 🍧
+
+People ate frozen sweets long before anyone had a freezer. Iranian cooks made
+**faloodeh**, thin frozen noodles in rose water and lime, from ice kept
+underground all summer in a **yakhchāl**. Sicily has **granita**, Mexico sells
+**paletas** from street carts, and Japan shaves ice into a soft mountain called
+**kakigōri**.
+
+> **✨ Try it:** Squeeze half a lemon into a cup of apple juice, freeze it and
+> scrape it with a fork. That is granita, and Azlyn makes a tray on Thursday.
+
+> *Did you know?* Persian ice houses were built 2,400 years ago and kept ice
+> through desert summers.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Celebration is a legitimate way to teach history.**
+> Azlyn cannot hold "before freezers" as a fact. She can hold an afternoon where
+> she wrapped five ice cubes five different ways and one of them lasted until
+> dinner, and the fact rides along inside the memory. Museum educators lean on
+> the same move: give her the practice, the food, the object in her hand, and
+> the dates arrive years later with somewhere to land.
+> She shook a bag for ten minutes to earn one bowl of ice cream, so she knows
+> something true now about what a cold sweet used to cost. Make the treat, eat
+> it, say who else made it this way.
+
+> ⚠️ **Safety:** Ice packed in salt drops well below freezing and burns bare
+> skin faster than plain ice does. The parcel stays inside the tea towel and
+> never rests against her arm. Put the back of your hand on the sunny slab
+> before either of them stands on it. If you cannot hold it there, it comes off
+> bare feet and Kreston stays on the shaded side. Loose cubes and spilled salt
+> come off the floor straight away: Kreston walks at 13 months, and a cube he
+> finds is a choking risk.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-198"></a>
+
+## 🌟 Day 198: The Ice Cream Shop 🌟
+**📅 Saturday, July 17, 2027**
+**Theme:** Ice Cream & Summer Treats
+
+### 🌙 Prep Tonight
+> Stand the big box upright in the front room with the marker and tape on top, and put a tub of ice cream in the freezer for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Six Flavours and a Sign
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Hatch in the Big Box (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Chalk Menu on the Path (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Jobs She Hands Out (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: Behind the Counter
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Menu Read Out Loud
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Six Flavours and a Sign
+
+**🧰 You need:** 1 sheet of paper · crayons · 1 marker.
+
+1. Ask her for six flavours. Write them word for word and give the invented ones the same weight as the real ones.
+2. She draws a scoop beside each name in whatever colour that flavour is to her.
+3. Read the six back in a shop voice, loud. That paper is the menu and it goes on the board at 9:15.
+
+### 🎨 The Main Event: The Hatch in the Big Box
+
+**🧰 Complete Materials List:**
+- 1 large cardboard box, tall enough to stand behind
+- 1 craft knife or heavy scissors (**adult only**)
+- 1 roll masking tape
+- 1 permanent marker
+- 10 sheets of paper
+- Newspaper for the scoops
+- 1 flattened box for the menu board
+- The six-flavour menu sheet from 8:00
+- Crayons
+- Cardboard circles cut as coins, palm-sized
+
+**📝 Step-by-Step Instructions:**
+1. Stand her behind the box and mark the hatch with tape at her chest height, wide enough for a tray. Cut it with her standing back, and say why.
+2. Roll the ten sheets into cones. She rolls, you tape the seam, and the wonky ones stay in the pile.
+3. Scrunch newspaper into balls, two scoops a cone. She will make forty of them.
+4. Lay the flattened box down for the menu board and tape this morning's menu sheet to the middle of it. She copies the scoops bigger around the edge in crayon.
+5. Cut the cardboard coins palm-sized, so nothing small reaches the floor. She draws a number on each.
+6. Prop the board against the box, stand behind the hatch and buy something off her. Pay with a coin, wait for change.
+
+> 💡 **Tip:** Cut the hatch narrow. A wide one turns the box into a doorway she walks through.
+
+### 🌳 Get Outside: The Chalk Menu on the Path
+
+Take the chalk to the pavement outside the front door and let her write the
+shop's name across it, the flavours underneath and prices she invents. Third
+week of July, so work in whatever shade the house throws. Anyone walking past
+gets the menu read at them.
+
+> 👶 **Infant Integration:** Kreston is 13 months and posting things through gaps
+> is close to his favourite thing. Sit him outside the hatch and let him push a
+> paper cone through to Azlyn, then take it back when she pushes it out again.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Jobs She Hands Out
+
+The shop opens at one o'clock with staff, and the rule is that you take the job
+she gives you.
+
+**🧰 Complete Materials List:**
+- The box shop and the menu board
+- The paper cones and scoops
+- The cardboard coins
+- 1 tray
+- 1 tea towel as an apron
+- 1 bell, or a saucepan lid and a spoon
+- Crayons and 1 marker
+- A real snack to serve at 3:30
+
+**📝 Step-by-Step Instructions:**
+1. Tuck the tea towel into her waistband as an apron. She rings the bell, or bangs the lid with the spoon, and the shop is open.
+2. She hands out jobs: who scoops, who pays, who carries the tray. Take yours without negotiating.
+3. Everybody queues with coins and orders off the board. She serves two paper scoops a cone, takes the money and hands back nonsense change. Let it be nonsense.
+4. Swap over. She becomes the customer, you run a bad shop and get her order wrong.
+5. Sit her down with the crayons and the marker to draw each person doing their job on the side of the box. Write the names where she says.
+6. At half past three the real snack goes through the hatch on the tray, and the shop does a round with real food in it.
+7. Leave it standing. She is behind that counter again at quarter past four with nobody watching.
+
+> 💡 **Tip:** She will hand you the dull job on purpose. Queue up, complain about the wait, order two scoops of something she invented.
+
+### 🎯 Afternoon Alternatives
+- Serve out of the pram in the garden and skip the box.
+- Draw the menu on the window with washable pens.
+- Open a shop that sells the toys she is bored of.
+
+### 🌳 Out Again: **Pick one**
+- **The pet shop and then the garden centre**, fish tanks first, plants after
+- The garden centre on its own, for the café and the sprinklers
+- The park with a friend, if the heat has broken
+- A supermarket freezer aisle and one thing she picks
+- Home and the sprinkler
+
+> 👶 **Kreston's Afternoon:** The fish tanks are the whole trip for him at 13
+> months. Hold him at glass height and stay there while he watches. In the
+> garden centre let him walk a wide aisle holding one finger. He stops at every
+> low shelf, and the herbs are worth a touch.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Children describe parents by what they *do*, not who they are.**
+> Ask a three-year-old about her mother and you get *she makes the toast* and
+> *she does my hair.* Azlyn built you out of actions, because actions are the
+> part she can see, and the shop lets her hand them back out. Watch which job
+> she gives you. The person she puts on the till is the one she has filed as the
+> one who sorts things out, and the drawing on the side of the box will tell you
+> the same. Her picture of you is a list of what you do all day, worth knowing
+> on days when that list feels invisible.
+
+> ⚠️ **Safety:** The craft knife cuts the hatch and goes back out of reach
+> between cuts, not onto the arm of the sofa. Check inside the box for
+> staples before either child gets near it. Kreston climbs at 13 months, so
+> weight the box down or lay it flat whenever he is loose and you are not beside
+> him.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-199"></a>
+
+## 🌟 Day 199: The Sundae with Everybody In It 🌟
+**📅 Sunday, July 18, 2027**
+**Theme:** Ice Cream & Summer Treats
+
+### 🌙 Prep Tonight
+> Stand the four beakers and the long spoons by the sink, check there are two bananas, and clear a freezer shelf for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Pudding Joseph Remembers
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Tallest Glass in the House (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Berries for the Top (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Tin by the Cookbooks (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Long Spoons
+- **4:15–5:00 PM** — Quiet Play: The Photo Roll
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Long Bath and the Cold Drink
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Pudding Joseph Remembers
+
+**🧰 You need:** 1 sheet of paper · 1 pen · everybody who is in the house.
+
+1. Ask Joseph what he ate on hot days when he was small. Let him take his time over the detail, because the detail is the part she repeats later.
+2. She asks everyone else the same question in her own words.
+3. Write the answers down with a name beside each. That list sits on the table until 9:15.
+
+### 🎨 The Main Event: The Tallest Glass in the House
+
+**🧰 Complete Materials List:**
+- 1 tub of ice cream, or Friday's
+- 4 tall plastic beakers and 4 long spoons
+- 2 bananas
+- Tinned or fresh fruit
+- A handful of biscuits and 1 bag to crush them in
+- Jam, loosened with a spoon of hot water
+- Chocolate sauce, or cocoa and sugar
+- 1 spoon
+- 1 index card or cut cereal-box card, and 1 pen
+- A phone for the photo
+
+**📝 Step-by-Step Instructions:**
+1. Stand the four beakers in a row. Everybody names one layer and she goes round asking. Write each name and layer on the card in order.
+2. She breaks the bananas up with her hands. No knife, and the pieces will be huge.
+3. Biscuits into the bag, and she crushes them with her fist against the table.
+4. Loosen the jam with a spoon of hot water yourself and leave it to cool. Cocoa stirred into sugar with a splash of hot water makes the chocolate sauce if there is none in.
+5. Build all four in the order on the card, a scoop of ice cream under each new layer and the tinned fruit where the card says. Her hands, your steadying.
+6. Photograph the card next to the beakers before anyone eats, then hand out the long spoons.
+
+> 💡 **Tip:** Her running order is final. Three layers of jam and no fruit is a recipe, and it goes on the card.
+
+### 🌳 Get Outside: Berries for the Top
+
+Walk to whatever fruit is ripe within pram distance in the third week of July.
+Raspberries on somebody's fence, currants gone dark, the first blackberries if
+the summer has run warm. She picks into a tub, eats half of what she picks, and
+the rest goes in the freezer for tomorrow's pots.
+
+> 👶 **Infant Integration:** Kreston is 13 months and posts what he picks
+> straight into his mouth. Raspberries and currants are soft enough, squashed
+> between your fingers first. Give him his own tub to carry and expect it
+> upended at least once. He wants the walk on his feet, so plan on carrying him
+> home.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Tin by the Cookbooks
+
+Clear the table after lunch and fill in four cards, then put them in a tin that
+stays in this kitchen for years.
+
+**🧰 Complete Materials List:**
+- 8–10 index cards or cut cereal-box card
+- Pens and crayons
+- 1 biscuit tin or shoebox
+- Masking tape for the label
+- Old photos, if any are to hand
+- A phone to photograph each card
+
+**📝 Step-by-Step Instructions:**
+1. One card in front of her at a time. She answers out loud and you write it down.
+2. Card one: what Joseph ate on hot days when he was small, from this morning. Card two: what gets made in this house at birthdays.
+3. Card three: what Brooklyn's family ate that nobody makes now. Card four: the food she wants to be hers, the one people will say is her thing.
+4. She draws on the back of each. Her drawing is the part she will recognise in ten years.
+5. This morning's recipe card joins the pile.
+6. Spread out any old photos to hand. She names who is in them and dictates a line about each onto a card.
+7. Tape a label on the tin and write what she calls it. Photograph every card, then the tin goes on the shelf with the cookbooks.
+
+> 💡 **Tip:** Write what she says, mistakes and all. A card reading *strawbrees* is worth ten tidy ones.
+
+### 🎯 Afternoon Alternatives
+- One card only, the birthday one.
+- Ring a grandparent and ask them the same question.
+- Draw this morning's sundae instead of writing anything.
+
+### 🌳 Out Again: **Pick one**
+- **A nature hunt walk**, five things to find: something furry, something dry, something that smells
+- The shaded woods path, for the temperature drop under the trees
+- The duck pond, late enough that the light has gone gold
+- A short walk after six, if the afternoon has been too hot to move
+
+> 👶 **Kreston's Afternoon:** Take him on the hunt on foot and let him set the
+> pace, which at 13 months is twenty metres in ten minutes with a stop at every
+> drain. Give him the tub to carry. He picks up whatever is under his feet and
+> hands it to Azlyn.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Food is the most durable carrier of family memory.**
+> Ask an adult what their grandmother's kitchen smelled like and the answer
+> comes back fast. Smell and taste route through the memory and emotion centres
+> of the brain before they reach the parts that handle words, so a food memory
+> arrives whole and stays put. Azlyn will lose almost all of this year to the
+> ordinary forgetting of being three. What she keeps is the sundae with
+> everybody's layer in it, on the condition that you make it again, because
+> repetition turns one afternoon into a tradition. The tin covers your memory as
+> well as hers: the recipes you are certain you could never forget are the first
+> to go.
+
+> ⚠️ **Safety:** No nuts, no whole grapes and no hard sprinkles anywhere near
+> Kreston at 13 months. His fruit is mashed and his portion is soft. Only pick
+> what you can name. Anything you are not certain of stays on the bush, and
+> nothing goes in Kreston's mouth unwashed. Jam loosened with hot water scalds,
+> so it cools before she touches it. Plastic beakers rather than glass, and
+> nothing sweet left at his height.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-200"></a>
+
+## 🌟 Day 200: A Flavour Named After You 🌟
+**📅 Monday, July 19, 2027**
+**Theme:** Ice Cream & Summer Treats
+
+### 🌙 Prep Tonight
+> Clear a whole freezer shelf, stand the four pots and their lids by the kettle, and move the yogurt to the front of the fridge.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: One Thing They Do
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Four Pots, Four Names (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Fishing the Ice Out of the Paddling Pool (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Which One Is Yours (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Label Roll
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath, Then the Names Again
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: One Thing They Do
+
+**🧰 You need:** 1 sheet of paper · 1 pen · masking tape.
+
+1. Write the four names down the page, one under the other, and read them out.
+2. Ask her one thing each person does. Actions, so *he carries me upstairs* rather than *he is kind*. Write it word for word.
+3. Tape the list to the fridge at her height. The four pots at 9:15 take their names off it.
+
+### 🎨 The Main Event: Four Pots, Four Names
+
+**🧰 Complete Materials List:**
+- 500 g plain yogurt, or 1 tub of vanilla ice cream, softened
+- 4 small pots or cups with lids
+- Mix-ins from the cupboard: jam, crushed biscuit, cocoa, banana, tinned peaches, sprinkles, Sunday's frozen berries
+- 1 fork and 1 spoon
+- Kitchen roll
+- Masking tape and 1 marker
+- A cleared freezer shelf
+
+**📝 Step-by-Step Instructions:**
+1. Split the yogurt between the four pots with the spoon. She scrapes, and the four will not come out even.
+2. Line the mix-ins along the table and read the fridge list out. One pot per name.
+3. For each pot she picks what that person would want and says why out loud. Take the reason as it comes, including *because he is loud*.
+4. She mashes each pot with the fork, one at a time, and the fork gets wiped in between or all four taste the same.
+5. Tape a label on every lid: the name, and her reason underneath in her words.
+6. Lids on and onto the cleared shelf, front row where she can see them. They come out at one o'clock, firm at the edge and soft in the middle.
+
+> 💡 **Tip:** Veto nothing. Cocoa with tinned peaches is a decision she made about a person, and she is watching whether her reasons count.
+
+### 🌳 Get Outside: Fishing the Ice Out of the Paddling Pool
+
+Set the pool up in the shade with three inches of water and tip a tray of ice
+cubes in. She goes in barefoot and fishes them out by hand, counting them into a
+cup on the grass, and the game ends when the last one is caught or melted. The
+pool goes over the flowerbed after.
+
+> 👶 **Infant Integration:** Kreston is 13 months and the pool floor is the
+> hardest surface he has stood on, slick and shifting under him. He drops to
+> sitting inside a minute and slaps the water flat-handed for a long time after
+> that. Sit in with him and float a bath toy where his hands are. He watches
+> Azlyn chase the cubes and goes after his own with the same whole-fist grab,
+> and it bobs out of reach every time.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Which One Is Yours
+
+The pots come out at one o'clock and nobody is told which is theirs. Everybody
+tastes with their eyes shut and guesses.
+
+**🧰 Complete Materials List:**
+- The four frozen pots
+- Teaspoons for everyone
+- 1 tea towel for the eyes-shut turns
+- 1 jug of water and kitchen roll
+- 4 sheets of paper for cones
+- Crayons, masking tape and 1 marker
+
+**📝 Step-by-Step Instructions:**
+1. Bring the pots out and turn the lids face down so nobody reads a label early.
+2. Everyone takes a turn with the tea towel over their eyes and a clean teaspoon, tasting all four.
+3. A mouthful of water from the jug between tastes, kitchen roll for the chins.
+4. Each person guesses which pot was made for them. She keeps score on her fingers and gets the count wrong.
+5. Read the labels out. The reason is the part she wants heard, so let her say her own words back with you.
+6. She rolls the four sheets into cones and tapes the seams. You write the flavour name and her reason inside each with the marker, and she covers the outside in crayon.
+7. One cone handed to each person, and whatever is left of the pots goes back in the freezer.
+
+> 💡 **Tip:** Everybody guesses wrong and that is the good bit. Hearing *I thought that one was mine* tells her the flavours carry something.
+
+### 🎯 Afternoon Alternatives
+- Two pots instead of four, hers and one other.
+- Taste-test four squashes with eyes shut and rank them.
+- Draw the four labels as portraits and stop there.
+
+### 🌳 Out Again: **Pick one**
+- **The playground with the big slide**, checked with your palm first because the metal has been in the sun since seven
+- The park with the most shade, whichever one that is
+- The green with a ball and a bottle of water each
+- The riverside path, for the cool coming off the water
+
+> 👶 **Kreston's Afternoon:** At 13 months he climbs anything with a lip on it,
+> so the toddler frame steps are his whole afternoon. Let him go up, stay a
+> hand's width behind, and count the tries. He comes down the slide on your lap
+> and wants it again the second he lands, pointing rather than crying, which is
+> new this month.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Admiration is how children choose which traits to grow.**
+> Azlyn is watching the three of you and deciding which bits to keep. She
+> made a pot for each of you this morning out of one noticed thing, and the
+> noticing came first. Children build themselves out of the adults nearest to
+> them, and the traits they copy are the ones they have heard named out loud and
+> approved. Say what you admire in front of her and name the person: *Daddy
+> fixes things nobody asks him to fix.* She files it. The fridge list records
+> what she has picked up already, and it is worth reading twice before it comes
+> down.
+
+> ⚠️ **Safety:** Standing water is the hazard of the day. A 13-month-old who
+> walks can drown in the few inches of a paddling pool, in silence and in
+> seconds, so Kreston stays within arm's reach the whole time and the pool gets
+> tipped out the moment you go in, not left for later. Ice cubes go in the
+> water, never in his mouth.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-201"></a>
+
+## 🌟 Day 201: The Ice Cream Van 🌟
+**📅 Tuesday, July 20, 2027**
+**Theme:** Ice Cream & Summer Treats
+
+### 🌙 Prep Tonight
+> Empty the laundry basket and stand it by the front door with a flattened box, the marker and a saucepan lid on top of it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Three Sounds the Van Makes
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Van That Comes Down Our Street (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Three Stops and a Bell (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Passing the Cone on the Beat (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Van on the Rug
+- **5:00–5:45 PM** — 🛁 Wind-Down: Hair Dried, Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Three Sounds the Van Makes
+
+**🧰 You need:** 1 metal spoon · 1 saucepan lid · her voice.
+
+1. Ask what an ice cream van sounds like. Get three sounds out of her: the chime, the engine idling, the hatch sliding open.
+2. She makes each one with her mouth and you copy her, wrong enough that she corrects you.
+3. Settle the chime: three hits of the spoon on the lid, the same three every time. That is the signal for the rest of the day.
+
+### 🎨 The Main Event: The Van That Comes Down Our Street
+
+**🧰 Complete Materials List:**
+- The pram, or 1 laundry basket
+- 1 flattened cardboard box for the sign
+- 1 marker and masking tape
+- 1 bell, or the metal spoon and saucepan lid
+- 8 paper cups
+- The paper scoops from Saturday, or fresh newspaper
+- Chalk for the stops
+- 1 tray
+
+**📝 Step-by-Step Instructions:**
+1. Tape the flattened box to the front of the pram or the side of the basket. She says what the sign says and you write it big.
+2. Load the van: eight paper cups, the paper scoops, the tray laid across the top.
+3. Chalk three stops on the floor if it is tile or lino, tape three crosses if it is carpet. She chooses where they go and one of them will be daft.
+4. She pushes, you follow, and the chime rings the whole way. At each stop everybody stops dead and she serves whoever is standing there.
+5. The rule for the round: moving while the chime rings, still when it stops. Vary how long you leave the silence.
+6. Swap over. You push and she rings, which is the harder job, because the person holding the chime decides when everybody else moves.
+
+> 💡 **Tip:** Stopping dead is the part she cannot do and wants to practise. Give her the bell for the last ten minutes and let her catch you moving.
+
+### 🌳 Get Outside: Three Stops and a Bell
+
+Take the round out to the pavement. Chalk three stops along the path: one at the
+gate, one further than she expects, one at the corner. Then walk the loop with
+the bell going. Twenty past ten in late July is warm enough that the tarmac
+smells of it. Serve a cup of water at every stop and let her ring at the
+neighbour's gate.
+
+> 👶 **Infant Integration:** Kreston is 13 months and an empty laundry basket is
+> a walking frame. Let him push it down the hall behind the van, leaning on the
+> rim, taking longer steps than he manages on his own. He goes faster than he
+> can stop, so keep the run clear of the door frame and stay at his shoulder.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Passing the Cone on the Beat
+
+Everybody sits down for this one. One paper cone goes round a circle on a beat
+she controls by the end of it.
+
+**🧰 Complete Materials List:**
+- 1 paper cone, or 1 paper cup
+- 1 bell, or the spoon and saucepan lid
+- A phone with music on it
+- 4 cushions in a circle
+- 1 tea towel for the eyes-shut rounds
+
+**📝 Step-by-Step Instructions:**
+1. Cushions in a circle on the floor, everyone sitting close enough to pass without leaning.
+2. Tap the lid at walking pace. The cone moves one person per tap and nobody runs ahead of the beat.
+3. Speed it up until it falls apart, then slow it down to something almost too slow to sit through. She calls fast or slow.
+4. Music on the phone instead of the beat. The music stops and whoever holds the cone names a flavour, and no flavour twice.
+5. Eyes-shut round. Tea towel over her eyes, and she passes and receives by feel while everyone stays quiet.
+6. Hand her the bell. She sets the tempo and the whole circle moves to her hand, which she will test to destruction.
+7. Last round: say the name of the person you are passing to.
+
+> 💡 **Tip:** Nobody goes out and nobody wins. The cone stopping on her is the pleasure, and it evaporates the moment there is a loser in the circle.
+
+### 🎯 Afternoon Alternatives
+- Pass a cushion instead and skip the beat.
+- Musical statues with the same three-hit chime.
+- Everyone copies her rhythm on saucepan lids, one at a time.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and the coolest hour of the day
+- The splash pad if the pool is full of the holiday crowd
+- The shallow end for twenty minutes and home again
+- A shaded park and a cold drink, if the pool is shut
+
+> 👶 **Kreston's Afternoon:** He is in the water too. At 13 months he walks the
+> shallow end holding both your hands and pushes against the drag, which is hard
+> work and he will do it until he is cold. Twenty-five minutes is plenty. Get
+> him out while he is still enjoying it and feed him inside the half hour.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Moving in time with someone builds connection, measurably.**
+> Rocking a baby in time with your own breathing, clapping a rhythm, walking in
+> step: children who move in synchrony with an adult go on to help that adult
+> more and share with them more, and the effect shows up in four-year-olds in
+> the lab within minutes of a shared beat. Azlyn passing a cone round a circle
+> on your tap is doing something older than any of the words in it. She is
+> matching her timing to everybody else in the circle and feeling what that is
+> like. On a day when she has been contrary since breakfast, a shared rhythm
+> resets more than a conversation will.
+
+> ⚠️ **Safety:** An adult keeps a hand on the pram out on the pavement, whoever
+> is doing the pushing, and the round stays this side of the kerb. At the pool
+> Kreston is within arm's reach every second he is in the water, and armbands
+> are not a substitute for your hands. Clear the hall run before he pushes the
+> basket: door frames, the corner of the shoe rack, anything hard at his head
+> height, because he goes faster than he can stop.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-202"></a>
+
+## 🌟 Day 202: Thank You, In a Cone 🌟
+**📅 Wednesday, July 21, 2027**
+**Theme:** Ice Cream & Summer Treats
+
+### 🌙 Prep Tonight
+> Put eight sheets of paper and the pens on the table, leave whatever is left of Monday's pots in the freezer, and buy juice or a watermelon for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The List of Who Did Something
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Cones with Names Inside (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Two Nearest Letterboxes (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Sundae She Doesn't Eat (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Library** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Cone Box
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Book She Chose Herself
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The List of Who Did Something
+
+**🧰 You need:** 1 sheet of paper · 1 pen.
+
+1. Ask who has done something for her this week. Prompt with the specifics: who built the shop, who drove to swimming, who carried her home.
+2. Keep going until there are eight names. The neighbour counts, the woman at the library counts, Kreston counts.
+3. Write what each one did beside the name, in her words. The eight cones at 9:15 come straight off this list.
+
+### 🎨 The Main Event: The Cones with Names Inside
+
+**🧰 Complete Materials List:**
+- 8 sheets of paper
+- Crayons and felt pens
+- 1 roll masking tape
+- 1 pair of adult scissors (**adult only**)
+- 1 marker
+- 1 paper bag to carry them in
+
+**📝 Step-by-Step Instructions:**
+1. Lay a sheet flat. Write the name across the top with the marker and the reason underneath in her words.
+2. She turns it over and draws a scoop on the back in that person's colour, felt pens or crayons as she likes.
+3. Roll it so the writing ends up inside, tape the seam, and trim the top edge level. The scissors are yours and go back on the shelf between cones.
+4. Work down the list. At four cones, offer to leave the rest until after lunch and take her answer as given.
+5. Stand the finished ones along the windowsill. Eight of anything in a row is worth looking at.
+6. Two go in the paper bag for the letterboxes at half past ten, and she picks which two.
+
+> 💡 **Tip:** She will read the inside out loud as she hands it over. Let her, and write the line in anyway. It is there for the person to find on their own later.
+
+### 🌳 Get Outside: The Two Nearest Letterboxes
+
+Walk the two cones to the two nearest doors on her list. Press the seam flat and
+they go through a letterbox, or knock and hand it over if the person is the sort
+who will come out. Late July and school has broken up, so somebody will be in a
+garden and the walk will take twice as long as it should.
+
+> 👶 **Infant Integration:** Kreston is 13 months and a letterbox flap is the
+> best posting slot he has met. Hold the flap open and let him push the second
+> cone through. He will let go too early and want it back, so keep one hand on
+> it. Walking with something in his fist and giving it up on purpose are two
+> different jobs, and he is halfway through the second.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Sundae She Doesn't Eat
+
+One bowl gets made this afternoon for somebody who is out of the house, and it
+waits in the freezer with a place set at the table.
+
+**🧰 Complete Materials List:**
+- 1 lidded pot or bowl
+- Ice cream, or a leftover pot from Monday
+- 1 topping she chooses for that person
+- 1 name card, 1 pen and crayons
+- 1 spoon, a scrap of paper and masking tape for the flag
+- Freezer space at the front of a shelf
+
+**📝 Step-by-Step Instructions:**
+1. Read the morning list back and let her pick the one person who did the most. Take her choice even when it is the wrong one by your accounting.
+2. She builds the bowl: ice cream or Monday's pot, and the one topping she says that person likes best.
+3. Lid on and into the front of the freezer. Nobody tastes it, and that includes her.
+4. She writes the name on the card, or dictates it and decorates the edges.
+5. Tape the scrap of paper to the spoon as a flag and lay the spoon across the card.
+6. Set the place at the table: card, spoon, flag, chair pulled out. It stays set through dinner.
+7. She fetches it when they walk in and says the reason out loud.
+
+> 💡 **Tip:** Make her a second bowl if the waiting turns painful. Today is about handing something over, and she can do that with a spoon in her own mouth.
+
+### 🎯 Afternoon Alternatives
+- One cone for one person, posted, and nothing else.
+- Draw the person doing the thing they did, instead of writing it.
+- Phone somebody on the list and let her say it out loud.
+
+### 🌳 Out Again: **Pick one**
+- **The library**, the fortnightly one, and the coolest building she will stand in today
+- Soft play, if the library is full of the holiday crowd
+- The shops, and she carries one thing
+- The park on the way home, in the shade at the far end
+
+> 👶 **Kreston's Afternoon:** Take him to the board-book corner and put him down.
+> At 13 months he walks the shelves with one hand out, pulling books off as he
+> goes, and putting them back is your job rather than his. Let Azlyn choose one
+> for him and carry it to the desk. He will hold it the whole way home.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Gratitude needs a target before it needs a feeling.**
+> Telling a three-year-old to be grateful gets you a flat *thank you* aimed at
+> nobody. Azlyn spent this morning naming eight people and what each of them
+> did, which is the part that does the work. Gratitude research keeps landing in
+> the same place: the benefit lands when a person can say who helped, what they
+> did and what it cost them. She cannot hold all three yet, so she practises the
+> first two with a cone in her hand and a name written inside it. Ask her who
+> did something today at dinner and you get a real answer, which is the habit
+> underneath the feeling.
+
+> ⚠️ **Safety:** The scissors are the only hazard on the table and they cut
+> paper faster than anything she has used. They come out for the trim and go
+> back on a high shelf between cones, never left down while Kreston is walking
+> the room. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-203"></a>
+
+## 🌟 Day 203: The Treat That Takes All Day 🌟
+**📅 Thursday, July 22, 2027**
+**Theme:** Ice Cream & Summer Treats
+
+### 🌙 Prep Tonight
+> Clear a flat freezer shelf and stand the tray, the juice, the sugar, a lemon, the string and eight pegs on the counter.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Sweet Enough to Freeze
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Tray That Gets Scraped (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Watermelon on the Back Step (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Last Peg Comes Off (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Cups
+- **4:15–5:00 PM** — Quiet Play: The Peg Line
+- **5:00–5:45 PM** — 🛁 Wind-Down: A Cool Bath and Three Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Sweet Enough to Freeze
+
+**🧰 You need:** the juice · 2 cups · 1 tsp sugar · half a lemon · 1 spoon.
+
+1. Pour a little juice into each cup, the same amount in both, and leave the 400 ml for 9:15.
+2. Stir the teaspoon of sugar and a squeeze of lemon into the second cup until the grains are gone.
+3. She tastes both and calls which is sweeter. Tell her sweet water freezes soft enough to scrape and plain water freezes into a brick, and the tray goes in at 9:15.
+
+### 🎨 The Main Event: The Tray That Gets Scraped
+
+**🧰 Complete Materials List:**
+- 1 shallow metal or plastic tray
+- 400 ml juice, squash, or blitzed watermelon
+- 2 tbsp sugar
+- Half a lemon
+- 1 fork
+- 1 length of string and 8 clothes pegs
+- Masking tape and 1 marker
+- A cleared flat freezer shelf
+
+**📝 Step-by-Step Instructions:**
+1. Stir the sugar and the juice of the half lemon into the 400 ml until no grains are left on the bottom. She stirs, you check.
+2. Pour it into the tray, a finger deep and no deeper, and she carries it flat to the cleared shelf.
+3. Tape one end of the string to the fridge and the other to a cupboard handle, pulled taut at her height. She clips all eight pegs along it.
+4. Write **READY** on a strip of tape and stick it past the last peg, so the end of the line is a place.
+5. Every half hour from ten o'clock, open the freezer and drag the fork across the tray, breaking the frozen edges into the middle. She takes one peg off each time.
+6. Two pegs are still on the line at lunch. Leave them.
+
+> 💡 **Tip:** Scrape, do not stir. Dragging the fork across the top makes crystals; stirring makes slush that sets solid.
+
+### 🌳 Get Outside: Watermelon on the Back Step
+
+Cut a watermelon into wedges and eat it on the back step, all of you, juice down
+wrists. Spit the seeds at a target on the path. Thursday in late July is hot, so
+the fruit comes out of the fridge cold. The rinds go out for the birds.
+
+> 👶 **Infant Integration:** Kreston is 13 months and a wedge with the rind left
+> on is a handle he can manage. He sits on the step to eat it and stays sitting,
+> both hands busy. He will suck it dry, drop it, and hold his hand out for the
+> next one.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Last Peg Comes Off
+
+Lay the table at one o'clock for the end of the week. She takes the final peg
+off the line herself and serves what has been in the freezer since 9:30.
+
+**🧰 Complete Materials List:**
+- The granita tray and the peg line
+- 1 fork and 1 tea towel
+- Cups or beakers and teaspoons for everybody
+- 1 sheet of paper and 1 pen for the ranking
+- The week's photos on a phone
+- 1 sheet or tablecloth
+- Whatever is left of the week's flavours and cones
+- The recipe tin from Sunday
+
+**📝 Step-by-Step Instructions:**
+1. Lay the sheet over the table and let her set it out: cups, teaspoons, the leftover cones stood down the middle.
+2. Call everybody in. She goes to the line and takes the last peg off in front of them.
+3. Fork the tray one more time and serve it into the cups. His is scraped fine and slushy and goes to him sitting down, and what is left of the week's flavours comes out beside it.
+4. She names the week's treats down the sheet of paper while you write them, one line each.
+5. Everybody votes best and worst out loud, and she marks the votes with the pen. The count will not add up.
+6. Go through the week's photos on the phone and let her narrate them: the shaking, the shop, the sundae, the van.
+7. The ranking sheet goes into the recipe tin with Sunday's cards.
+
+> 💡 **Tip:** Serve the adults a proper cupful. She has watched this tray all day.
+
+### 🎯 Afternoon Alternatives
+- Serve it in the garden and skip the table.
+- Four pegs instead of eight and eat it after lunch.
+- Rank the week in drawings instead of words.
+
+### 🌳 Out Again: **Pick one**
+- **The garden centre**, for the watering cans and the cold glasshouse smell
+- The hardware shop, if the garden centre is a drive too far
+- The duck pond, with the watermelon rind left at home
+- The green space with a ball, once the sun is off it
+
+> 👶 **Kreston's Afternoon:** At 13 months the garden centre is a wide flat floor
+> with things at his height. Let him walk the main aisle and stop at the low
+> trays. He carries something the whole way round and hands it to a member of
+> staff, so pick it yourself.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Waiting is easier when it's visible and shrinking.**
+> Azlyn has no working sense of half an hour. Eight pegs on a string give her
+> one, because the line gets shorter in front of her and she is the one taking
+> them off. Children wait longer and complain less when the wait is represented
+> by something they can see and act on, which is why sticker charts work and
+> *soon* does not. The wait also gets easier when she has a job inside it, and
+> the fork scrape is that job. Use the same trick on car journeys and doctors'
+> waiting rooms: something countable, going down, in her hands.
+
+> ⚠️ **Safety:** Hard chunks of ice are a choking hazard for Kreston at 13
+> months, so his portion is scraped fine and slushy and handed to him sitting
+> down. Pick the seeds out of his watermelon wedge before he gets it, because a
+> seed is throat-sized at this age. A metal tray out of the freezer sticks to
+> wet hands, so it comes out on a tea towel. Keep the freezer door shut between
+> scrapes, because he climbs and pulls now, and take the string down the moment
+> the last peg comes off.
+
+<div style="page-break-after: always;"></div>
+<a id="week-30"></a>
+
+## Week 30: Under the Sea 🌊
+**📅 July 23 – July 29, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Azlyn builds a sea this week and it stays up. You tape a blue sheet down one
+wall on Friday and she hangs three fish in it at three depths, and on Saturday
+the staircase becomes the water column, bright at the top and black at the
+bottom. By Monday a whale the size of a door hangs beside the fish, and Tuesday
+adds a jellyfish in a doorway everyone has to duck through. One question runs
+underneath all the making: what floats, what sinks, and what changes the
+answer. She meets it in a squeezed bottle on Sunday morning, in foil boats
+loaded pebble by pebble after lunch, and again on Thursday with an egg and six
+spoonfuls of salt.
+
+No holiday lands in this week. Wednesday carries something else, because six
+months of the book are behind you and the day is built to mark them. Azlyn
+answers four questions into a bottle that gets taped shut until New Year's Eve,
+lays January to June along the wall in six sheets and her own words, and
+finishes at the door frame with a pencil mark beside January's. The other thing
+shaping these seven days is late July heat. Shade by eleven, water every half
+hour, and Thursday afternoon spent flat on cushions in the coolest room in the
+house with a blue torch.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **One fish, three techniques.** Torn paper, a fork dipped in paint and a hand traced round, all making the same animal, and she starts choosing the method to suit the picture in her head.
+- **Comparing length without numbers.** A string cut to her own height goes round the house, then five more cut to a seahorse, an octopus, a dolphin, a shark and a blue whale.
+- **Floating and sinking as one idea.** A sachet in a squeezed bottle, foil boats loaded until the water comes over the side, and an egg that rides high in salty water.
+- **Painting from the shoulder.** A wide brush on the floor and a two-metre wave, which is the arm work that has to happen before she can steer a pencil.
+- **Forty days and six months of her own change.** June's five ticked test cards beside what she can do today, her words written down as she says them, and two pencil marks on a door frame with a gap between them.
+
+---
+
+### 👩 What You'll Learn
+
+- Three techniques for one outcome teaches technique as a concept
+- Measuring by comparison comes before measuring by number
+- Recognizing the same principle in new clothes is real understanding
+- Big arm movements are still building the hand that will write
+- Repeating an activity across the year makes growth visible
+- The halfway point is worth marking for you as much as for her
+- Heat makes children behave badly, and it isn't a discipline problem
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] Blue and green paper from the recycling: junk mail, wrapping paper, magazines
+- [ ] Thick paper or card, 3 sheets
+- [ ] Plain paper, 20 sheets
+- [ ] Scrap paper, and scrap card for a tail and a fin
+- [ ] Large cardboard boxes, 3–4, to cut open flat (start saving now)
+- [ ] Paper bowls or paper plates, 2
+- [ ] A paper bag, for the scraps she keeps
+- [ ] Sticky labels, 5
+- [ ] Masking tape, 2 rolls
+- [ ] Parcel tape
+- [ ] A glue stick, or plain flour for paste
+- [ ] Scissors (adult only)
+- [ ] A craft knife or heavy scissors (adult only)
+- [ ] String, 1 ball of 40 metres or more (the whale alone takes 25)
+- [ ] Ribbon
+- [ ] Clothes pegs, 6
+- [ ] An elastic band
+- [ ] A tape measure
+- [ ] A permanent marker
+- [ ] A pen for writing her words down
+- [ ] A pencil
+- [ ] Crayons
+- [ ] Chalk
+- [ ] Washable non-toxic poster paint in blue and white
+- [ ] A wide decorator's brush, 2
+- [ ] A sponge, cut in half
+- [ ] Shallow trays or old plates, 3
+- [ ] Clear plastic bottles with their caps, 2, one of them 2-litre
+- [ ] A ketchup or soy sauce sachet, or a pen lid with blu-tack on the clip
+- [ ] Clear jars or pint glasses, 3
+- [ ] Table salt, a full tub
+- [ ] A raw egg, or a small potato
+- [ ] Kitchen foil, 1 roll
+- [ ] A jug
+- [ ] A washing-up bowl, and a second bowl for the spills
+- [ ] Spoons, 2
+- [ ] A fork
+- [ ] A saucer
+- [ ] A dark plate for the sun test
+- [ ] A plastic cup
+- [ ] A bucket
+- [ ] A bag of pebbles, or a jar of coins
+- [ ] A spoonful of sand, or a few small stones
+- [ ] Heavy stones, bricks or old shoes, 4
+- [ ] A blue sheet, a blue plastic tablecloth or 2 blue bin bags
+- [ ] An old sheet for the den
+- [ ] Carrier bags, 2, one of them blue, or blue cellophane
+- [ ] Old towels, 4
+- [ ] Flannels, 3
+- [ ] Cushions, 4
+- [ ] Old clothes for both of them
+- [ ] A torch with fresh batteries
+- [ ] The paddling pool
+- [ ] The whistle from June, or the shout word instead
+- [ ] Sun cream and a hat each
+- [ ] A fan, if you have one
+- [ ] Cold drinks
+- [ ] A teddy or a toy that sinks
+- [ ] The five ticked test cards from June, and your phone
+- [ ] The handprint sheets, and the door frame you have been marking
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, Wednesday is the halfway mark and I want you to stand in front of
+> it for a minute before you take it down. Six sheets on the wall, January
+> through June, and a pencil line on the door frame with a gap under it you can
+> fit two fingers into. That gap is yours. Azlyn will not remember January, and
+> I was not in most of these mornings, so that row on the wall is where the six
+> months are written down. The rest of the week is heat and blue paper and one
+> wall of the house under water until Thursday. Your own strip goes in the
+> bottle as well as hers. Write the true one, because I would rather read that
+> in December than the tidy version, and we open the bottle together on New
+> Year's Eve.
+
+---
+
+> 👶 **Kreston is 13 months this week**. He walks, climbs onto anything with a
+> rim or a step, and carries things about while he moves. Water and cut string
+> are both at his height this week, so the bowls go out and the string goes up
+> the moment you stop watching him.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-204"></a>
+
+## 🌟 Day 204: One Fish, Three Ways 🌟
+**📅 Friday, July 23, 2027**
+**Theme:** Under the Sea
+
+### 🌙 Prep Tonight
+> Pull the blue and green paper out of the recycling onto the table with three sheets of thick paper, and find a blue sheet or two blue bin bags for the afternoon.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Blue Paper Hunt
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Same Fish Three Times (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Every Blue on the Street (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Ocean Down One Wall (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Filling the Water Jugs
+- **4:15–5:00 PM** — Quiet Play: Under the Paper Ocean
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and Two Sea Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Blue Paper Hunt
+
+**🧰 You need:** the paper pile · 1 shallow tray · 1 paper bag.
+
+1. Sit down in the pile with her. One rule: blue and green stay, the rest goes back in the recycling.
+2. She tears as she goes. Torn pieces into the tray, and the four or five scraps she likes best into the paper bag, which is hers.
+3. Lay the blues along the table edge, palest to darkest. The pale ones live at the top of the sea and the dark ones at the bottom. Leave it there.
+
+### 🎨 The Main Event: The Same Fish Three Times
+
+**🧰 Complete Materials List:**
+- Blue and green paper scraps: junk mail, wrapping paper, magazines
+- 1 glue stick, or flour and water paste in a saucer
+- 3 sheets of thick paper
+- Washable poster paint, blue and white
+- 1 saucer and 1 fork
+- 1 pencil and 1 marker
+- 1 wet flannel
+
+**📝 Step-by-Step Instructions:**
+1. Sheet one is the torn fish. She tears a body, a tail and a fin from the scraps and sticks them flat with the glue stick or the paste.
+2. Sheet two is the printed fish. Draw the outline in pencil, then blue paint and a blob of white into the saucer, half mixed.
+3. Show her the back of the fork once: press, lift, move along. She fills the outline with rows of scales.
+4. Wipe her hands with the wet flannel before sheet three.
+5. Sheet three is the hand fish. Draw round her flat hand with the pencil, thumb out for the fin, go over the line with the marker and let her put the eye in.
+6. Stand all three against the wall and ask which one goes in the middle this afternoon.
+
+> 💡 **Tip:** She will want the fork fish to look like the torn one. Say out loud that this is one fish made three ways: torn, printed, drawn.
+
+### 🌳 Get Outside: Every Blue on the Street
+
+Hats on and out before the pavement gets hot. Count every blue thing between
+your door and the end of the street: a recycling bin, a parked car, a road
+sign, a front door. Ask her for the palest blue she can find, then the darkest.
+Pale at the top, dark at the bottom goes up on the wall at 1:00.
+
+> 👶 **Infant Integration:** Kreston is 13 months and carries things while he
+> walks, so give him a job with a destination. One torn blue scrap, handed
+> over, carried across the room, posted into the tray. On the street let him
+> walk a stretch of it holding your finger.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Ocean Down One Wall
+
+One wall of the house goes under water for the rest of the week. Pick the wall
+she walks past most, because Monday's whale and Tuesday's jellyfish go on it
+too.
+
+**🧰 Complete Materials List:**
+- 1 blue sheet, blue plastic tablecloth or 2 blue bin bags
+- 1 roll masking tape
+- String, 2 metres
+- The three fish from this morning
+- Scissors (**adult only**)
+- Scrap paper and crayons for more creatures
+- 1 torch
+
+**📝 Step-by-Step Instructions:**
+1. Tape the sheet flat to the wall, top edge as high as you can reach and the bottom on the skirting board.
+2. Cut three lengths of string, long, middling and short. She holds, you cut.
+3. Tape a string to the back of each fish. Palest at the top, darkest at the bottom. She decides where the third one belongs.
+4. Scrap paper and crayons on the floor. She draws more creatures, you cut them out, and every one gets a depth before it goes up.
+5. Shut the curtains, turn the big light off and give her the torch. The bottom of the wall is the part the sun never reaches.
+6. Lie on the floor together with your feet to the skirting board and look up through the whole thing.
+
+> 💡 **Tip:** Let her keep the torch and light one creature at a time from the floor, and say nothing.
+
+### 🎯 Afternoon Alternatives
+- One bin bag, one fish, ten minutes, done.
+- Tape the three fish to the window and go outside to look back in.
+- Sort the leftover scraps into pale and dark and stop there.
+
+### 🌳 Out Again: **Pick one**
+- **Grandparents, or whichever family is closest**, and she carries one fish to show them
+- The park, shaded side, before the afternoon heat sets in
+- A friend's garden with a sprinkler or a hose
+- The pet shop, for the fish tanks and the cold air
+
+> 👶 **Kreston's Afternoon:** He is 13 months and climbing, so the low end of
+> the wall belongs to him. Tape one spare paper fish at his eye level and
+> expect it pulled off within the hour. Tape it back. Lift him up to pat the
+> palest fish at the top before you set him down.
+
+### 🌍 Around the World: Pacific Wayfinding 🌊
+
+Polynesian navigators crossed thousands of miles of open Pacific with no
+compass and no chart. They read the swell under the hull, the stars rising
+along the horizon, the green light a lagoon throws onto cloud, and the flight
+lines of birds heading home at dusk. Hawaiian crews still sail the double canoe
+Hōkūleʻa that way.
+
+> **✨ Try it:** Coconut rice for dinner. One cup of rice, half a tin of coconut
+> milk, half a cup of water, a pinch of salt. Eat it with mango on the floor
+> beside the wall.
+
+> *Did you know?* Some navigators lay flat in the bottom of the canoe and read
+> the swell through their own backs.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Three techniques for one outcome teaches technique as a concept.**
+> One fish three ways hands Azlyn something a single fish cannot. She holds the
+> idea of the fish steady while the method underneath it keeps changing, and
+> that split, subject on one side and technique on the other, is where choosing
+> a tool for a job begins. Ask a three-year-old to draw a fish and you get the
+> fish she can already draw. Give her a fork and the same fish arrives through
+> a different door. Children who work across materials carry skills between
+> them, and the carrying shows up later as range. By four she will pick the
+> material to suit the picture in her head.
+
+> ⚠️ **Safety:** The scissors are adult-only and go back out of reach between
+> cuts. Kreston is 13 months and walks over to whatever you are doing, so the
+> glue stick, the torn paper and the string go up on the table the moment you
+> stop watching him. Trim the hanging string ends short and leave no loop at
+> his height. Washable non-toxic paint only.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-205"></a>
+
+## 🌟 Day 205: How Long Is a Whale 🌟
+**📅 Saturday, July 24, 2027**
+**Theme:** Under the Sea
+
+### 🌙 Prep Tonight
+> Put the ball of string, the tape measure, the pegs and a stick of chalk by the front door, and clear the stairs for this afternoon.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The String That Is Azlyn Long
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: A String for Every Creature (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Chalking the Whale Down the Path (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Down the Stairs to the Bottom of the Sea (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Laying Out the Forks
+- **4:15–5:00 PM** — Quiet Play: The Stairs Again, Alone
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath, and the Whale Book
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The String That Is Azlyn Long
+
+**🧰 You need:** 1 ball of string · scissors (adult only) · masking tape · 1 marker.
+
+1. She lies flat on the floor. Run string from her heels to the top of her head and cut it there.
+2. Wrap a tab of masking tape round one end and write **AZLYN** on it with the marker.
+3. Carry it round the house. The bath, the sofa, the front door, the car. Longer than Azlyn, shorter than Azlyn. That is the only measuring she does today.
+
+### 🎨 The Main Event: A String for Every Creature
+
+**🧰 Complete Materials List:**
+- 1 ball of string
+- Scissors (**adult only**)
+- 1 tape measure
+- Masking tape
+- 1 marker
+- Sticky labels or scrap paper
+- 6 clothes pegs to hold the ends
+
+**📝 Step-by-Step Instructions:**
+1. Write five names on the labels with the marker: seahorse, octopus, dolphin, great white shark, blue whale.
+2. Measure with the tape measure and cut while she holds the far end. Seahorse 15 centimetres. Octopus 1 metre. Dolphin 2 and a half metres. Great white shark 5 metres.
+3. Peg the right label to each length and keep the spare peg for the whale.
+4. The blue whale runs to 25 metres and will not fit in the house. Unroll that much, peg its label on and coil it by the door.
+5. Lay the four indoor lengths against real things: the seahorse against her hand, the octopus against the bath, the shark taped flat down the hallway.
+6. Line them up shortest to longest and ask which is longer, the dolphin or the shark, with both in front of her.
+
+> 💡 **Tip:** Skip numbers when she asks how big. Say *longer than the sofa* and *shorter than you*. Five metres means nothing to her yet. The sofa means a great deal.
+
+### 🌳 Get Outside: Chalking the Whale Down the Path
+
+Take the whale string and the chalk. Peg one end at your gate, walk backwards
+with the ball until the string runs out, and chalk a fat line at each end.
+Twenty-five metres of pavement, one animal. She will run it end to end six
+times and count the driveways it crosses.
+
+> 👶 **Infant Integration:** Kreston is 13 months and walks with a wide, busy
+> gait that eats distance. Set him down at the tail end of the chalked whale
+> and let him make his own way along it beside you. He stops at every drain and
+> gatepost, so allow the whole forty-five minutes for a length Azlyn covers in
+> fifteen seconds.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Down the Stairs to the Bottom of the Sea
+
+The staircase is the water column until bedtime, bright at the top and black at
+the bottom.
+
+**🧰 Complete Materials List:**
+- Paper, 10 sheets
+- Crayons
+- Masking tape
+- 1 torch
+- The string lengths from this morning
+- 1 cushion for the bottom step
+
+**📝 Step-by-Step Instructions:**
+1. Sit on the top step with the paper and crayons. The top stair is the surface: bright blue, warm, full of light.
+2. Work downward one stair at a time. Each sheet gets a darker sky than the one above, and the last three get black and nothing else.
+3. She draws one creature per sheet. Seahorse near the top, dolphin lower, shark lower again, and something with its own light at the bottom.
+4. Tape each drawing to the riser of its stair as she finishes it.
+5. Lay the octopus and dolphin strings flat along the treads beside their pictures, so the real length runs next to the drawing. Coil both and put them away before the curtains shut.
+6. Shut the curtains at the foot of the stairs, put the cushion on the bottom step and sit down with the light off.
+7. Torch on, one creature at a time. Down here the only light is the light an animal brings with it.
+
+> 💡 **Tip:** Let her hold the torch and choose the order. Ten minutes sitting in the dark naming animals is worth more than the drawing was.
+
+### 🎯 Afternoon Alternatives
+- Three drawings on three stairs and leave the rest.
+- Torch and shadows on the landing wall instead.
+- Lie on the hall floor and look up the stairs from the bottom.
+
+### 🌳 Out Again: **Pick one**
+- **The fire station**, or wherever the tractors are out working this week
+- The park, once the heat has gone off the equipment
+- The garden centre, for the fish pond and the cool aisles
+- Home with the sprinkler on and the whale string out on the grass
+
+> 👶 **Kreston's Afternoon:** At 13 months the stairs are the most interesting
+> object in his life and he heads for them the moment the gate opens. Sit him
+> on your lap on the bottom step for the torch part. Give him a spare sheet of
+> paper and a crayon of his own on the hall floor.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Measuring by comparison comes before measuring by number.**
+> A string that is Azlyn long does a job a ruler cannot do for another three
+> years. She cannot hold a shark and a dolphin side by side, so she compares
+> each one against a third thing she can carry around, and the third thing
+> settles it. Mathematicians call the finished version transitivity: this beats
+> that, that beats the sofa, so the ranking follows without laying all three
+> together. Working it out in her head comes some years after three. Today she
+> runs the physical version on the hallway floor, one string at a time against
+> one object, and the later reasoning grows out of that groundwork. Give her the
+> comparing first and the numbers have somewhere to sit.
+
+> ⚠️ **Safety:** Cut string is today's hazard. A loop at his height is a
+> strangulation risk, so nothing goes over the bannister, and you coil every
+> length and carry it out of the stairwell before the torch part starts. Never
+> leave Kreston alone in a room with one, and keep the stair gate shut while
+> the drawings go up. Outside, walk a stretch with no live driveways on it, or
+> keep a hand on Kreston past every one, and lift the whale string off the
+> pavement while anybody walks through. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-206"></a>
+
+## 🌟 Day 206: Float, Sink, Squeeze 🌟
+**📅 Sunday, July 25, 2027**
+**Theme:** Under the Sea
+
+### 🌙 Prep Tonight
+> Rinse out a clear 2-litre bottle and keep its cap, and dig a ketchup or soy sauce sachet out of the takeaway drawer.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Water Above the Rim
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Diver in the Bottle (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The River Down the Driveway (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Foil Boat and the Pebble Cargo (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Drying the Plastic Cups
+- **4:15–5:00 PM** — Quiet Play: The Bottle in the Sink
+- **5:00–5:45 PM** — 🛁 Wind-Down: Cool Bath, Lights Low
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Water Above the Rim
+
+**🧰 You need:** 1 clear 2-litre bottle with its cap · 1 jug · 1 bowl · 1 old towel.
+
+1. Towel on the table, bowl on the towel, bottle in the bowl. She pours from the jug and the bowl catches what misses.
+2. Fill it to the neck, then past it, until the water bulges above the rim. She will spill it, and that is what the bowl is for.
+3. Cap on, tip it over and hunt for the bubble at the top. No bubble is the target, and she will fill it three times to get there.
+
+### 🎨 The Main Event: The Diver in the Bottle
+
+**🧰 Complete Materials List:**
+- 1 clear 2-litre plastic bottle with its cap
+- 1 ketchup or soy sauce sachet (substitute: a pen lid with a small blob of blu-tack or plasticine on the clip)
+- Water
+- 1 jug
+- 1 bowl to catch the spills
+- 1 old towel
+
+**📝 Step-by-Step Instructions:**
+1. Half fill the bottle from the jug and drop the sachet in. It wants to float with one corner breaking the surface. A sachet that sinks straight down is the wrong one.
+2. Top the bottle up over the bowl until the water stands proud of the rim, then screw the cap down hard.
+3. Squeeze the sides with both hands. The diver sinks. Let go and it rises. Do it once, then hand her the bottle.
+4. Stand back. She will run it forty times without help, and the towel is there because she hugs the bottle to her chest.
+5. Ask her to make it stop halfway, then to tell you what she is doing to it.
+
+> 💡 **Tip:** Nothing happening means the bottle is not full to the brim. Air left in the neck soaks up the squeeze. Top it up over the bowl and try again.
+
+### 🌳 Get Outside: The River Down the Driveway
+
+A jug of water tipped out at the top of the drive makes a river, and hot July
+paving drinks it in four minutes. Race two pours down two lines. Drop a leaf in
+and follow it to the kerb. Ask her where the water goes once it leaves the
+paving.
+
+> 👶 **Infant Integration:** Kreston is 13 months, and hot paving with water
+> running over it is a whole morning for him. Sit him at the bottom of the
+> slope where the river arrives and let him slap at it. He carries things while
+> he walks now, so give him his own cup to fill and spill.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Foil Boat and the Pebble Cargo
+
+The foil boats come back out of June, and this time the cargo is pebbles, the
+numbers go on the paving in chalk, and all three boats are the same shape in
+three different sizes.
+
+**🧰 Complete Materials List:**
+- Kitchen foil, 1 roll
+- 1 washing-up bowl or the paddling pool
+- A bag of pebbles, or a jar of coins
+- Chalk
+- 1 jug
+- 2 towels
+
+**📝 Step-by-Step Instructions:**
+1. Stand the bowl in the shade and fill it from the jug. One towel down beside it.
+2. Tear three sheets of foil off the roll, a small one, a middling one and a big one. She pinches all three into the same deep cup shape, the one that carried most in June.
+3. Chalk a big **1**, **2** and **3** on the paving and park the boats on their numbers, smallest first.
+4. Float boat one and load pebbles one at a time, counting out loud, until water comes over the side. Chalk that number under the 1.
+5. Ask her for boat two's number before it goes anywhere near the water. Run two, then three, the same way, one pebble at a time, and chalk each number under its boat.
+6. Stand back with her and read all three off the paving in a row. Same shape, three sizes, and the numbers say what the size did.
+7. Tip the bowl out over the hot paving, dry her hands and feet with the second towel, and count the pebbles back into the bag.
+
+> 💡 **Tip:** Keep the one-at-a-time rule for all three. The whole idea sits in the single pebble that takes a boat under, and a fistful hides it.
+
+### 🎯 Afternoon Alternatives
+- One boat, one bowl, on the kitchen floor with a towel down.
+- Float everything in the fruit bowl and sort into sinks and floats.
+- Pebbles in the paddling pool, fished out with her toes.
+
+### 🌳 Out Again: **Pick one**
+- **The sunset walk**, out after seven when the heat drops and the light goes gold
+- The duck pond, to watch what floats and what dives
+- A river or canal path with the pram, for moving water
+- Ice creams on a bench and nowhere to be
+
+> 👶 **Kreston's Afternoon:** He is 13 months and climbs into anything with a
+> rim, the washing-up bowl included, so the pebbles and the coins stay out of
+> his reach the whole time. Give him a foil ball of his own to carry and crush.
+> Once the bowl is empty he can walk the wet paving barefoot and watch his
+> footprints dry.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Recognizing the same principle in new clothes is real understanding.**
+> Azlyn met floating in a bottle at 9:15 and meets it again in a bowl of water
+> after lunch, and the second meeting is where it sticks. A child who sees one
+> idea in one setting files it as a fact about that object: this sachet goes
+> down when you squeeze. Show her the same idea in different clothes and it
+> turns into a rule about the world. Researchers call the move transfer, and it
+> is the hardest part of teaching anything. One sentence at the bowl helps it
+> along. *This is the same as the bottle, isn't it.* Then let her tell you how.
+
+> ⚠️ **Safety:** Standing water and a 13-month-old who walks. The bowl and the
+> pool get emptied the moment you stop watching, with no exception for a
+> two-minute trip indoors. The sachet, the pen lid, the pebbles and the coins
+> are all choking-sized and stay in your pocket when they are not in her hands.
+> Never leave Kreston alone beside water, however shallow.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-207"></a>
+
+## 🌟 Day 207: Painting the Sea 🌟
+**📅 Monday, July 26, 2027**
+**Theme:** Under the Sea
+
+### 🌙 Prep Tonight
+> Cut three or four big boxes open flat and stack them by the back door with the paint, the brush and old clothes for both of them.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Flattening the Boxes for Paint
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Painting the Waves With Both Arms (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Waves in the Long Grass (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Whale That Takes Two to Carry (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Carrying the Cold Drinks Out
+- **4:15–5:00 PM** — Quiet Play: Crayons on the Dry Paint
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath, and the Paint Off Her Arms
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Flattening the Boxes for Paint
+
+**🧰 You need:** the cut-open boxes · 4 heavy stones, bricks or shoes · 1 old towel.
+
+1. Carry the boards out to the shady side of the path together, one end each.
+2. Lay them edge to edge into one long strip and weight the corners with the stones so the wind cannot lift them.
+3. Rub the towel over the damp patches and let her walk the whole length in bare feet. She knows how long her sea is before a brush touches it.
+
+### 🎨 The Main Event: Painting the Waves With Both Arms
+
+**🧰 Complete Materials List:**
+- 3–4 large cardboard boxes, cut open flat
+- Washable poster paint, blue and white
+- 1 wide decorator's brush
+- 1 sponge cut in half
+- 2 shallow trays or old plates
+- 1 bucket of water and an old towel
+- Old clothes for both of them
+
+**📝 Step-by-Step Instructions:**
+1. Blue in one tray, white in the other. Old clothes on, and say out loud that the paint is allowed to go everywhere.
+2. Show her one stroke with the decorator's brush and make it enormous: shoulder swinging, arm straight, the line running the length of a board.
+3. She paints wave after wave down the strip. Say *bigger* rather than *neater*, and keep saying it.
+4. Half a sponge dipped in white and dragged along the top of each wave makes the foam. The dry half lifts colour back off.
+5. Once the boards are covered, put the brush in the bucket and let her wash her arms in it before the towel.
+6. Drag the boards into full shade to dry and leave them until after lunch.
+
+> 💡 **Tip:** Big arm work goes wrong at a table, where her elbow stays pinned to her ribs. On the floor with a wide brush she paints from the shoulder.
+
+### 🌳 Get Outside: Waves in the Long Grass
+
+Walk out to a field edge or any patch nobody mows while the paint dries. Long
+grass in late July moves the way she has been painting: a gust arrives at one
+end and the whole thing rolls. Get her to run a flat hand over the tops, then
+lie down in it and look up at the seed heads.
+
+> 👶 **Infant Integration:** Kreston is 13 months, and long grass at his height
+> is a wall he has to push through, which is hard, hot work for a new walker.
+> He climbs now, so a low bank or a fallen branch is a better use of his legs.
+> Check him for grass seeds and ticks at home.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Whale That Takes Two to Carry
+
+She draws one whale the size of a door, and it takes both of you to get it up
+the hall.
+
+**🧰 Complete Materials List:**
+- The dry painted cardboard
+- 1 permanent marker
+- Heavy scissors or a craft knife (**adult only**)
+- Masking tape
+- Scrap card for a tail and a fin
+- String, 1 metre
+
+**📝 Step-by-Step Instructions:**
+1. Pick the best-painted board. Give her the marker and one instruction: a whale that fills the whole thing, corner to corner.
+2. Let the line be hers. She stands over the board and draws from the shoulder, and you leave the outline alone.
+3. Cut it out yourself with the knife or the heavy scissors while she stands back, and say why.
+4. She draws a tail and a fin on the scrap card, you cut those out, and she tapes them on wherever she thinks they belong.
+5. Carry it into the house together, one end each, turning it sideways at the doorway.
+6. Tape one end of the string to the whale's back and the other high on the wall above Friday's blue sheet, so the tail hangs free.
+7. Look at it with her from the far end of the room, from where the sofa is. She has never made anything this big.
+
+> 💡 **Tip:** She will want to add detail once it is up. Give her the marker and let her, because a whale she keeps adding to is one she keeps coming back to.
+
+### 🎯 Afternoon Alternatives
+- Draw the whale, skip the cutting out, hang the whole board.
+- Three small fish from the offcuts instead of one big whale.
+- Lie on the dry board and draw round each other.
+
+### 🌳 Out Again: **Pick one**
+- **The field walk**, along the edge in the cooler end of the afternoon
+- The woods loop, for shade and somewhere to sit down
+- The riverside path with the pram and a cold drink each
+- The garden with the sprinkler on and the whale watching from the wall
+
+> 👶 **Kreston's Afternoon:** Keep him well away from the cutting, then bring
+> him in for the carrying. At 13 months he carries things while he walks and
+> will want a piece of the whale to hold, so hand him an offcut of card that is
+> his.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Big arm movements are still building the hand that will write.**
+> The wide brush and the shoulder swing are groundwork for handwriting. Control
+> develops from the middle of the body outward, so a trunk and a shoulder that
+> can hold steady come before an elbow that can hold steady, which comes before
+> fingers that can steer a pencil. Azlyn painting a two-metre wave is loading
+> the joints a five-year-old needs braced before her fingers can do anything
+> fine. Vertical and floor-level surfaces do this better than a table does,
+> because her arm has to hold its own weight while it works. Every big sweeping
+> hour now buys quiet control at a desk later.
+
+> ⚠️ **Safety:** The craft knife is adult-only and goes back out of reach
+> between cuts, on a shelf rather than the arm of a chair. A July morning on a
+> paved path needs shade, hats and water within reach. Dark cardboard in full
+> sun gets hot enough to burn bare feet, so keep the boards shaded and move
+> them as the sun comes round.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-208"></a>
+
+## 🌟 Day 208: Forty Days Stronger 🌟
+**📅 Tuesday, July 27, 2027**
+**Theme:** Under the Sea
+
+### 🌙 Prep Tonight
+> Dig out the five ticked cards from June's diploma week and stand them by the back door, then put the pool out with the towels, the whistle and the sun cream.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Five Cards Back on the Table
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Five Tests Again, Forty Days On (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Barefoot on Five Surfaces (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Jellyfish in the Doorway (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Hanging Up the Swim Things
+- **4:15–5:00 PM** — Quiet Play: Under the Jellyfish
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Swim Photos
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Five Cards Back on the Table
+
+**🧰 You need:** the five ticked cards from June · 1 glass of water · her breakfast plate.
+
+1. Lay the five cards out in front of her before anything gets wet. She reads each one back off her own drawing.
+2. Ask which of the five she can do better now. Take the answer and leave it alone, because the pool settles it in an hour.
+3. Water finished, plate cleared, swim things on. She has agreed to the whole morning before she notices.
+
+### 🎨 The Main Event: The Five Tests Again, Forty Days On
+
+**🧰 Complete Materials List:**
+- Paddling pool, or the bath
+- The five ticked cards from June
+- 1 timer
+- 1 whistle, or the shout word instead
+- 1 teddy
+- 1 empty capped 2-litre bottle on a short line
+- 3 towels
+- Sun cream and a hat
+- Your phone
+
+**📝 Step-by-Step Instructions:**
+1. Pool in the shade and filled shallow, sun cream on, hat on, towels within reach. Lay the five cards along the edge in June's order and photograph her doing each test with its card in the shot.
+2. The float. She lies back on your hand, ears down, chin up, and the timer runs a minute. In June your whole hand was under her back for it.
+3. The bubbles. Chin on the water, mouth under, hum out past ten if she can, because that is where the forty days show.
+4. The reach. Teddy goes out past her arms. She throws the bottle beyond him and pulls it back so it sweeps him in, feet staying out.
+5. The shout, then the whistle. Her whole name and *HELP*, loud enough for next door. Then, while she plays, one blow on the whistle: she stops dead and comes to the edge.
+6. Out over the wall of the pool without a hand from you and into the towel. Put the line and the whistle away, and let her carry the five cards back inside.
+
+> 💡 **Tip:** Hold each card up beside what she has done and read it out as a fact. She cannot feel forty days of change from inside her body. The June card hands it to her.
+
+### 🌳 Get Outside: Barefoot on Five Surfaces
+
+Shoes off and walk five grounds in a row: mown grass, paving, gravel, a
+doormat, bare soil under a tree. Name each as her feet arrive and let her rank
+them. Test every surface with your own palm first, because late July paving can
+be too hot for bare feet by eleven.
+
+> 👶 **Infant Integration:** Kreston is 13 months and barefoot walking is
+> useful work for him, because bare soles feed his balance better than a shoe
+> does. Take him along the same five surfaces holding one of your hands, and
+> expect him to sit down hard on the gravel and think about it. Keep him off
+> anything you would not hold your own palm against.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Jellyfish in the Doorway
+
+Two paper bowls and a carrier bag turn into a jellyfish, and it hangs in a
+doorway everyone has to walk through for the rest of the week.
+
+**🧰 Complete Materials List:**
+- 2 paper bowls or paper plates
+- 1 carrier bag cut into strips, or ribbon
+- String, 1 metre
+- Masking tape
+- 1 marker
+- 1 pencil to make the holes
+- Scissors (**adult only**)
+
+**📝 Step-by-Step Instructions:**
+1. Tape the two bowls rim to rim into a dome. She holds them together while you run the tape round, as messy as it comes out.
+2. She draws the face on with the marker. Jellyfish have no face, and hers is getting one.
+3. Cut the carrier bag into long strips while she sorts them into short ones and long ones.
+4. Tape the strips round the rim one at a time, wherever she points. Twenty is not too many.
+5. Push the pencil through the top of the dome, thread the string through the hole and knot it fat so it cannot pull back out.
+6. Hang it in a doorway at her head height, high enough that Kreston cannot reach it standing up.
+7. She walks through it, backs up and walks through it again. Turn the hall light off once the sun drops.
+
+> 💡 **Tip:** Hang it where somebody has to walk through it. Everyone in the house ducking under a jellyfish all evening is the payoff.
+
+### 🎯 Afternoon Alternatives
+- One paper plate and six strips, taped up in ten minutes.
+- Ribbon streamers on a stick to run with instead.
+- Cut a shoal of small fish out of the leftover carrier bag.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and she arrives with this morning's five tests in her legs
+- The splash pad if the session is full
+- Soft play with the air conditioning on
+- The lake or river shallows, an adult hand held the whole time
+
+> 👶 **Kreston's Afternoon:** He is 13 months and walks in the shallows now
+> rather than sitting in them, which means he heads for deep water with total
+> confidence and no ability. One adult, hands free, arm's length, the whole
+> session. Twenty minutes is plenty, and Azlyn can hand him his towel.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Repeating an activity across the year makes growth visible.**
+> Running the same five tests in June and again today gives you something a
+> milestone chart never will: her, against her, forty days apart. Azlyn cannot
+> perceive her own development. She has no memory of being the child who could
+> not hum out a count of ten, so praise about how much she has grown lands as
+> noise, while her own June card held up beside this morning lands as evidence.
+> Do it for yourself as well. The days run together at this age and progress
+> hides inside them, so a repeated test drags it out where both of you can see
+> it. Keep the cards and run the five again in September.
+
+> ⚠️ **Safety:** Water twice today, the pool this morning and the real one at
+> 2:30. Kreston is never within reach of either without your hands free. Tip
+> the paddling pool onto its side the second you go indoors. Check the paving
+> with your own palm before her bare feet go on it, and hang the jellyfish high
+> enough that he cannot reach the string. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-209"></a>
+
+## 🌟 Day 209: Halfway Through the Year 🌟
+**📅 Wednesday, July 28, 2027**
+**Theme:** Under the Sea
+
+### 🌙 Prep Tonight
+> Leave a clear plastic bottle with its cap and label still on in the middle of the table, with the crayons, a pen and the parcel tape beside it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Peeling the Label Off
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Message in the Bottle (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Drain at the End of the Street (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Six Months of Azlyn on the Wall (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Setting Four Places
+- **4:15–5:00 PM** — Quiet Play: The Photo Pile
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Bottle on the Shelf
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Peeling the Label Off
+
+**🧰 You need:** 1 clear plastic bottle with a screw cap · 1 bowl of warm water · 1 old towel.
+
+1. Stand the bottle in the bowl of warm water while she eats. Warm water loosens the glue and does the hard part for her.
+2. Let her pick the label off in one piece if she can and in forty pieces if she cannot. Thumbnails only, no rush.
+3. Dry it with the towel. Tell her something is going inside it this morning that stays shut until New Year's Eve, then say no more about it.
+
+### 🎨 The Main Event: The Message in the Bottle
+
+**🧰 Complete Materials List:**
+- 1 clear plastic bottle with a screw cap
+- Paper cut into strips
+- Crayons and a pen
+- Ribbon or string
+- Parcel tape
+- A spoonful of sand or a few small stones
+
+**📝 Step-by-Step Instructions:**
+1. Strips laid out on the table. Ask her four questions and write the answers word for word with the pen: her favourite thing about this summer, who she plays with, what she is good at, what she wants to be doing at Christmas.
+2. Leave her grammar alone. The wrong words are the ones you will want in December.
+3. She fills two more strips with crayon drawings and tells you what each one is. Write the caption underneath.
+4. Write your own strip while she works. Do not read it out, and fold it before it goes in.
+5. Roll every strip and tie it with a scrap of ribbon. She posts them into the bottle one at a time.
+6. Add the spoonful of sand yourself, screw the cap down, run parcel tape round the cap and write **OPEN NEW YEAR'S EVE** across the tape with the pen. Stand it on the shelf beside January's sealed box, where she can see it and not reach it.
+
+> 💡 **Tip:** She will ask to open it tomorrow. Give her the distance in things she knows: after the leaves come off, after the snow, after her birthday.
+
+### 🌳 Get Outside: The Drain at the End of the Street
+
+Walk down to the drain on the corner with a jug of water and tip it in. Listen
+for where it lands. Then give her the plain version: the water in that hole
+ends up in the river, and the river ends up in the sea she has been building
+all week. Look at what else has gone down there.
+
+> 👶 **Infant Integration:** Kreston is 13 months and posts things through
+> holes with great commitment, which makes a street drain a problem. Keep hold
+> of his hand at the kerb and give him something bigger than the gaps, a
+> plastic cup or a stick. Let him drop leaves through the grating and count
+> them going in with him.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Six Months of Azlyn on the Wall
+
+Six sheets, one for each month gone, and she tells you what she remembers. Some
+months she will have nothing. Some she will have one sentence that stops you
+where you stand.
+
+**🧰 Complete Materials List:**
+- 6 sheets of paper
+- Crayons
+- Masking tape
+- 1 pencil
+- The photos on your phone
+- The growth chart wall or door frame
+- The handprint sheets, if they are to hand
+
+**📝 Step-by-Step Instructions:**
+1. Write a month across the top of each sheet, January through June, and lay them out on the floor.
+2. Take one month at a time. Show her three or four photos and ask what she remembers. Write what she says on that month's sheet, in her words.
+3. She draws the thing she named with the crayons. One drawing a month is plenty and a scribble counts.
+4. Tape the six along the wall in a line at her height, so the year reads left to right.
+5. Move to the door frame. Heels flat, back straight, pencil mark, today's date beside it.
+6. Show her January's mark underneath and let her put her fingers in the gap. That gap is the six months on the wall, measured in her.
+7. Lay the handprint sheets under the row and let her fit her hand onto January's.
+
+> 💡 **Tip:** She will remember odd things. A bee, a broken cup, somebody's shoes. Write the odd ones down word for word and let go of the birthday you were angling for.
+
+### 🎯 Afternoon Alternatives
+- Three months instead of six, and stop when she does.
+- Photos only, no drawing, sitting on the sofa.
+- The door frame and the date, in five minutes.
+
+### 🌳 Out Again: **Pick one**
+- **The church hall playgroup**, and she takes one of the six sheets to show
+- The library, for cool air and a new sea book
+- A friend's paddling pool and a shared afternoon
+- The shaded end of the park with a picnic blanket
+
+> 👶 **Kreston's Afternoon:** He goes on the door frame today too, standing up
+> this time, heels against the wood and your hand flat on his head. At 13
+> months that is a real measurement. Give him his own sheet of paper and a
+> crayon on the floor under the row of months.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **The halfway point is worth marking for you as much as for her.**
+> Six months of this is a great many mornings, and most of them left no trace
+> you can point at. Azlyn will not remember January. You will, and the row of
+> sheets on the wall is there for you: proof that the hours went into
+> something, on a Wednesday in July when it does not feel that way. Parents
+> underrate their own consistency because the evidence disperses into ordinary
+> days, and photographs, a door frame and a bottle on a shelf gather it back
+> up. Stand and look at the row for a minute before you take it down. You built
+> the six months it records.
+
+> ⚠️ **Safety:** The sand, the small stones and the ribbon are all
+> choking-sized, so they stay in your pocket between steps and go away before
+> Kreston is down on the floor. Once the tape is on, the bottle goes straight up
+> on the shelf out of his reach. At the drain, hold his hand from the kerb
+> onward and keep the grating on your side of him.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-210"></a>
+
+## 🌟 Day 210: Sea Water and Shade 🌟
+**📅 Thursday, July 29, 2027**
+**Theme:** Under the Sea
+
+### 🌙 Prep Tonight
+> Stand three clear jars on the counter with the salt, the spoon and the marker, check there is an egg in the fridge, and leave a bucket and two brushes by the back door.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Stirring Until It Vanishes
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Making Sea Water (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Painting the Fence With Water (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Deep, Dark, Cold Room (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Salad Leaves in the Bowl
+- **4:15–5:00 PM** — Quiet Play: Torch Under the Sheet
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Coolest Bath of the Week
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Stirring Until It Vanishes
+
+**🧰 You need:** 1 clear jar · 1 jug of water · table salt · 1 spoon.
+
+1. Half fill the jar from the jug and let her tip a spoonful of salt in. It sits on the bottom in a white heap.
+2. Hand her the spoon. Stirring until the heap disappears takes longer than she expects.
+3. Ask her where the salt went, then get her to dip a fingertip in this weak jar and taste it. Leave the question open until this afternoon.
+
+### 🎨 The Main Event: Making Sea Water
+
+**🧰 Complete Materials List:**
+- 3 clear jars or pint glasses
+- Table salt
+- 1 raw egg (a small potato also works)
+- 1 spoon
+- 1 jug of water
+- 1 dark plate for the sun test
+- Masking tape and a marker for the labels
+
+**📝 Step-by-Step Instructions:**
+1. Tape a label on each jar and write **0**, **1** and **6** with the marker. She fills all three from the jug to the same height.
+2. Jar 0 stays plain. One spoonful of salt into jar 1. Six into jar 6, stirred until the water goes clear again.
+3. Lower the egg into jar 0. It sits flat on the bottom. Try jar 1, where it sits on the bottom again. She met this egg and this jar in March, so let her tell you what happens next.
+4. Jar 6. The egg lifts off the bottom and rides at the top with a coin of shell showing, and she will ask you to do it again.
+5. Let her move the egg between the jars as long as she wants.
+6. Pour a splash from jar 6 onto the dark plate and stand it in full sun. Come back at snack time to a white crust of salt.
+
+> 💡 **Tip:** March's jar had no name on it. Today it has one: jar 6 is the sea, jar 0 is the tap, and the crust on the plate is what the sea leaves behind.
+
+### 🌳 Get Outside: Painting the Fence With Water
+
+A bucket of water, a wide brush each, and the fence in the shade. She paints
+and the water vanishes behind her, which on a hot morning takes four minutes.
+Race the drying: a big letter A at one end, then a run back to see whether it
+survived.
+
+> 👶 **Infant Integration:** Kreston is 13 months and this is the easiest win
+> of his day: one paintbrush, one shallow tub of water, one fence. He carries
+> the brush about and paints the ground, the wall and himself. Keep his hat on
+> and offer him water every twenty minutes.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Deep, Dark, Cold Room
+
+The coolest room in the house becomes the bottom of the sea for the afternoon.
+
+**🧰 Complete Materials List:**
+- The fish, the whale and the jellyfish from this week
+- 1 torch
+- 1 blue carrier bag or blue cellophane, and an elastic band
+- 1 sheet
+- 2 dining chairs
+- 2 heavy books or bags to weight the chair legs
+- A fan, if you have one
+- Cold drinks and a cold wet flannel each
+- Cushions
+
+**📝 Step-by-Step Instructions:**
+1. Shut the curtains and turn the lights off. Bring the fish, the whale and the jellyfish in and hang or lean them round the walls.
+2. Drape the sheet over the two chair backs for a low roof in one corner, weight the legs with the books and push the cushions underneath.
+3. Stretch the blue carrier bag over the head of the torch and hold it with the elastic band. Everything the beam lands on goes blue.
+4. Set the fan on the floor pointing at the cushions and let her feel the moving air with her eyes shut.
+5. Cold drinks, and a flannel each over the back of the neck.
+6. Lie under the sheet with the blue torch and pick out one creature at a time. She names each and tells you how deep it lives.
+7. Stay down there until half two. Everything between now and then happens on those cushions.
+
+> 💡 **Tip:** A hot three-year-old will fight a rest and take a game, and this one has her flat on her back inside ten minutes.
+
+### 🎯 Afternoon Alternatives
+- Sheet over the table, torch underneath, nothing else.
+- Ice cubes on a tray, pushed round the floor with her feet.
+- Books on the cushions with the fan on and no theme at all.
+
+### 🌳 Out Again: **Pick one**
+- **The charity shop**, for the cold air and a 50p book about the sea
+- The library, and read on the floor in the cool
+- The park after six, once the equipment is cool enough to touch
+- The garden with the hose at the end of the day
+
+> 👶 **Kreston's Afternoon:** At 13 months he climbs onto anything, so weight
+> the chairs holding the sheet and expect him to pull it down at least once.
+> Let him have his own cold flannel to chew and carry, and offer him a drink
+> every half hour.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Heat makes children behave badly, and it isn't a discipline problem.**
+> Azlyn heats up faster than you do, for reasons that are all plumbing. She
+> carries more skin per kilo of body, so July gets at her from a wider surface.
+> Her sweat glands are all present and still running at a fraction of adult
+> output, which is her main cooling system working at half power. She generates
+> more heat per kilo while she moves, and her thirst arrives late, behind the
+> fluid she has already lost. Shade by eleven, water every half hour, and a cold
+> flannel on the back of the neck are the levers that work on that body.
+
+> ⚠️ **Safety:** A fingertip off the weak jar at 8:00 is the point of the
+> activity. Jar 6 is not for tasting, salt water is dangerous to drink, and a
+> 13-month-old will try any of it, so all three jars stay where Kreston cannot
+> reach them and get poured away before the floor picnic. The dark plate in the
+> sun goes up high too. Heat is the day's other hazard: water every half hour,
+> shade by 11:00, hats outdoors, and everyone comes in if Azlyn goes quiet and
+> flushed.
+
+<div style="page-break-after: always;"></div>
+<a id="week-31"></a>
+
+## Week 31: Camping Adventures ⛺
+**📅 July 30 – August 5, 2027**
+
+---
+
+### 🎯 What This Week Is About
+
+Camp goes up in the garden on Friday and stays up until Thursday. A sheet over
+the washing line, a ring of stones with a paper fire inside it, four bedrolls,
+and a flag she paints herself. Every day adds one piece and every piece stays
+outside, so the thing she walks out to on Thursday morning is one she has been
+living in for a week.
+
+The week crosses from July into August and half of it runs on water: two bowls
+of washing-up out by the tent, a soapy shower curtain down the lawn, a dish put
+out for the birds in the heat. Thursday is the big day. Everything still
+living indoors goes out to the tent in one morning, she finishes the camp, and
+the whole thing comes down after lunch while everybody still likes it.
+You spend Wednesday getting it ready, and Wednesday is the half she will ask
+to do again.
+
+---
+
+### 🧒 What Azlyn Will Learn
+
+- **Pegs, weights and ties.** What holds a sheet up in a breeze, and what lets it go.
+- **A camp has an order.** It goes up in a sequence, gets lived in, and comes down in that sequence backwards.
+- **One symbol, one meaning.** She paints a flag and then reads it from thirty feet away, which is the same trick letters run on.
+- **Real kitchen work.** Snapping beans, folding a foil seam, levelling off a cup, counting spoons out loud and starting again when she loses the number.
+- **Staying still outdoors.** Twenty minutes on her back naming what she can hear, which is harder for her than any of the building.
+
+---
+
+### 👩 What You'll Learn
+
+- A space she can fit inside changes the way she plays in it
+- Fever makes children clingy, and meeting it shortens it
+- Naming a sound is how she learns to pick it out of the rest
+- Summer needs less structure than you'd think
+- Symbols are a big abstraction, and flags are the easiest entry point
+- A list she can read herself puts her in charge of the packing
+- Big days are frequently too big, and the fix is leaving early
+
+---
+
+### 🛒 This Week's Shopping List
+
+> *Everything both main events call for, all seven days. Check what you've
+> already got before Friday.*
+
+- [ ] An old flat sheet or a double duvet cover
+- [ ] Clothes pegs, 20
+- [ ] Rope, or a working washing line
+- [ ] String or garden twine, 1 ball
+- [ ] Heavy stones or bricks, about 25 (off the wall or out of the garden)
+- [ ] Tent pegs, or 4 straight sticks for the corners
+- [ ] Sticks for the fire, 15 to 30, gathered on Friday's walk
+- [ ] A garden cane, bamboo pole or broom handle
+- [ ] An old shower curtain, tarpaulin or heavy plastic sheet (two split bin bags taped together does a short one)
+- [ ] Masking tape, 2 rolls
+- [ ] A pair of adult scissors (adult only)
+- [ ] A hole punch
+- [ ] Permanent markers, 2
+- [ ] Crayons
+- [ ] Chalk, the fat outdoor sort
+- [ ] Thick card, 6 sheets (twelve strips and four luggage labels)
+- [ ] Plain paper, 10 sheets
+- [ ] A pencil
+- [ ] A hardback book or a piece of stiff card for a drawing board
+- [ ] Newspaper, a stack
+- [ ] Red, orange and yellow paper (junk mail, a magazine or a carrier bag)
+- [ ] An old white pillowcase, tea towel or plain t-shirt for the flag
+- [ ] Washable poster paint, 3 colours
+- [ ] A wide soft paintbrush
+- [ ] Sticky labels, 4
+- [ ] A bulldog clip
+- [ ] A torch with fresh batteries, and a spare set
+- [ ] Clean jam jars or small lidded tubs, 6
+- [ ] Kitchen foil, 1 roll
+- [ ] A baking tray
+- [ ] A tablespoon
+- [ ] Two bowls for the beans
+- [ ] Potatoes, 4
+- [ ] Butter
+- [ ] Grated cheese
+- [ ] Green beans, plus courgette or sweetcorn
+- [ ] Cereal hoops
+- [ ] Raisins
+- [ ] Dried apricot or dried apple
+- [ ] Greaseproof paper
+- [ ] Washing-up bowls or buckets, 4
+- [ ] Washing-up liquid
+- [ ] A scrubbing brush and a sponge
+- [ ] Tea towels, 3
+- [ ] A flannel and a damp cloth
+- [ ] Camp cups, plates and cutlery
+- [ ] A jug, and 3 cups with lids
+- [ ] Water bottles, one each
+- [ ] Blankets or large towels, 4, one per person for the bedrolls
+- [ ] Pillows, 4
+- [ ] Cushions, 2
+- [ ] An old blanket for the ground
+- [ ] An old towel or picnic blanket for the tent floor, and a rug for Thursday
+- [ ] Towels and swimsuits
+- [ ] Sun hats, one each
+- [ ] Sun cream
+- [ ] Rucksacks or tote bags, 4
+- [ ] Laundry baskets, 2
+- [ ] Paper bags, 2
+- [ ] A low bench, an upturned crate or a step
+- [ ] Two chairs to string a short line between
+- [ ] A stiff yard broom, and a dustpan and brush
+- [ ] A wide shallow dish or an old bin lid for the birds
+- [ ] A saucepan lid and a wooden spoon
+
+---
+
+### 💛 A Note from Joseph
+
+> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
+>
+> Brooklyn, every foil parcel on Saturday gets a name written on it and the
+> fourth one is mine. I put that in the page knowing I would not be at the
+> table for it, because Azlyn counts this family by how many parcels come out
+> of the oven, and I would rather be counted in and absent than left off. The
+> four bags by the door on Wednesday are the same thing. This is the hottest
+> week of the year and you are doing all of it with a thirteen-month-old on
+> your hip, so on the days when the sheet stays up and everyone sits under it,
+> that is the week going to plan. Photograph the camp on Thursday before it
+> comes down, one from inside and one from the gate, and send me both.
+
+---
+
+> 👶 **Kreston is 13 months this week**. He walks, climbs anything knee-high
+> and would rather carry something across the garden than sit down with it.
+> **He turns 14 months on Thursday the 5th**, and brings scribbles, two blocks
+> stacked, and three to five words you can make out.
+
+---
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-211"></a>
+
+## 🌟 Day 211: The Tent Goes Up 🌟
+**📅 Friday, July 30, 2027**
+**Theme:** Camping Adventures
+
+### 🌙 Prep Tonight
+> Dig out an old flat sheet, the clothes pegs and a bucket of stones by the back door, and parboil four potatoes for tomorrow's parcels.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Clearing the Ground
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Washing Line Tent (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Firewood Walk (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Paper Campfire (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Setting the Table Outside
+- **4:15–5:00 PM** — Quiet Play: The Torch and the Tent
+- **5:00–5:45 PM** — 🛁 Wind-Down: Cool Bath and a Camping Book
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Clearing the Ground
+
+**🧰 You need:** 1 stiff yard broom · 1 bucket · 4 sticks or tent pegs.
+
+1. Walk the garden with her and let her choose where camp goes. Two things decide it: flat ground and shade by midday.
+2. Sweep the loose stuff into a pile and let her pick it into the bucket. Run your flat hand over the square afterwards for the stones she missed.
+3. Push a stick into each corner. That patch is camp now, and the sheet goes over it at quarter past nine.
+
+### 🎨 The Main Event: The Washing Line Tent
+
+**🧰 Complete Materials List:**
+- 1 old flat sheet or a double duvet cover
+- The washing line, or rope tied between a fence and a tree
+- 8–10 clothes pegs
+- 6–8 stones, bricks or heavy books
+- 1 old towel or picnic blanket for the floor
+- String, 2 metres
+- 1 pair of adult scissors (**adult only**)
+- The 4 corner sticks from this morning
+
+**📝 Step-by-Step Instructions:**
+1. Throw the sheet over the line and slide it along until both sides hang the same.
+2. Peg the sheet to the line, one peg every hand's width, eight or ten in all. Every peg goes over line and sheet together.
+3. Weight both long edges from the outside with the stones, spaced along the hem so the walls hang straight. Nothing goes on the roof.
+4. Cut the string into four half-metre lengths with your scissors and tie the corners at each end out to the corner sticks, so both doorways stand open.
+5. Lay the towel or picnic blanket inside, corner to corner, and send her in.
+6. Have her crawl the length twice, in one door and out the other. Anything she brings down gets rebuilt before you call it finished.
+
+> 💡 **Tip:** Pitch it lower than you think you need to. A sheet at your shoulder sags to her head by lunchtime.
+
+### 🌳 Get Outside: The Firewood Walk
+
+Take a bag to the hedge at the end of the road and gather sticks for a fire nobody will light. Dry ones, thumb-thick and shorter than her arm. Fifteen is enough, thirty is better. She carries the bag home.
+
+> 👶 **Infant Integration:** Kreston is 13 months and walking. Give him one stick of his own, because holding something while moving is the job he is on now. He drops it, stops, picks it up and sets off again. That is the pace for the last hundred yards.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Paper Campfire
+
+Camp needs a fire. Stones, sticks, torn paper and a torch, outside the tent door all week.
+
+**🧰 Complete Materials List:**
+- The sticks from the walk
+- 10–15 stones for the ring
+- Red, orange and yellow paper (junk mail, a magazine, or a carrier bag torn into strips)
+- Masking tape
+- 1 torch with fresh batteries
+- 1 empty tin or a small plastic tub to stand the torch in
+
+**📝 Step-by-Step Instructions:**
+1. Lay the stones in a ring the size of a bike wheel, a long stride out from the tent door. She places every one.
+2. Stand three sticks against each other like a tripod and lean the rest around them. It falls over. Build it again and let her work out that the first three hold the rest up.
+3. Tear the paper into flames a hand long, twenty or so, and twist the bottom of each one into a stalk.
+4. Tape the stalks low on the sticks so the flames stand upright between them, red near the ground and yellow at the top. Tape paper to stick, never paper to paper.
+5. Stand the tin in the middle of the stack and drop the torch into it pointing straight up.
+6. Switch it on and kneel in the doorway to look at the fire from inside, where the shade lets the light show.
+7. Leave it built. At quarter past four, lift the torch out of the tin and take her into the tent with it, then untie the two corner strings so both doorways fall shut. A sheet with the doors down is as dark as July gets.
+
+> 💡 **Tip:** Give the fire one rule and hold it all week: the sticks stay inside the ring.
+
+### 🎯 Afternoon Alternatives
+- Sticks in the ring and no paper flames at all.
+- Sort the firewood into three piles by length and stop there.
+- Build the fire indoors on a tray and put the tent up tomorrow.
+
+### 🌳 Out Again: **Pick one**
+- **A friend's house**, and take the torch, because she describes a tent better with a prop in her hand
+- Your own street at half past two, walking the shady side on purpose
+- The paddling pool in the garden, if leaving camp is more than anyone can face
+- The playground with the tunnel, which she will be calling a tent by now
+
+> 👶 **Kreston's Afternoon:** At 13 months he climbs, and a knee-high ring of stones reads as an invitation. Give him two stones of his own to carry from the wall to the ring and back. Sit him in the doorway with the torch switched off, then take it back before the fire goes together.
+
+### 🌍 Around the World: Norway: *Allemannsretten* ⛺
+
+Norwegian law gives everybody the right to roam. Anyone can walk open country, swim in the lakes, pick berries and pitch a tent for a night on land they do not own, so long as they stay a hundred and fifty metres from the nearest house and leave the ground as they found it.
+
+> **✨ Try it:** Make a *matpakke*, the Norwegian packed lunch: open sandwiches stacked with a square of greaseproof paper between each one and eaten outside. Azlyn builds the pile and wraps it.
+
+> *Did you know?* Norwegian nurseries take the children out in every weather, and some spend the whole day outdoors.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A space she can fit inside changes the way she plays in it.**
+> Azlyn has been climbing into cupboards and under the table since she was two, and a sheet over the washing line gives her the same thing with a door on it. A small enclosure does two jobs at once. It cuts the amount of room her attention has to cover, so the play she starts in there runs longer and gets more complicated than the same play on open carpet. It also hands her a boundary she controls, which is why the first thing out of her mouth is who is allowed in. Children with a den of some kind take themselves back to it when they are tired or cross, and settle there before anyone suggests it.
+
+> ⚠️ **Safety:** A washing line sits at her neck height and a rope between two trees sits lower. The sheet stays on it all week, so peg something bright along any bare stretch she runs past. Kreston is 13 months, walks straight at anything new and pulls on it, so nothing heavy sits where it can come down on him. Weight the sheet from the outside and keep the roof clear. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-212"></a>
+
+## 🌟 Day 212: The Camp Kitchen 🌟
+**📅 Saturday, July 31, 2027**
+**Theme:** Camping Adventures
+
+### 🌙 Prep Tonight
+> The potatoes are boiled and cold in the fridge. Cut eight half-metre lengths of string and four luggage labels out of thick card for this afternoon, and stand the foil and the baking tray on the side.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Snapping the Beans
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Dinner in a Foil Parcel (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Chalking the Shade (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Rolling the Beds (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Butter and the Bread
+- **4:15–5:00 PM** — Quiet Play: Inside the Bedroll
+- **5:00–5:45 PM** — 🛁 Wind-Down: Laying the Table Outside
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Snapping the Beans
+
+**🧰 You need:** a bag of green beans · 2 bowls · 1 low step or upturned crate.
+
+1. Sit her on the step in the shade with the full bowl on her lap and the empty one beside her.
+2. Show her the snap once. Hold a bean at both ends, bend it until it goes, then break each half again.
+3. Leave her to it and go and get the foil out. The parcels need two handfuls at quarter past nine, and she will fill all four.
+
+### 🎨 The Main Event: Dinner in a Foil Parcel
+
+**🧰 Complete Materials List:**
+- 1 roll kitchen foil
+- 4 potatoes, parboiled and cooled
+- Butter
+- Grated cheese
+- Green beans, courgette, sweetcorn or whatever is in the fridge
+- 1 tablespoon
+- 1 permanent marker
+- 1 baking tray
+
+**📝 Step-by-Step Instructions:**
+1. Tear four sheets of foil off the roll, each about the length of your forearm, and lay them flat on the tray and the table.
+2. One cold potato into the middle of each sheet. She squashes it flat with the back of the tablespoon.
+3. Load them together: a spoon of butter, a handful of grated cheese, her snapped beans, whatever else came out of the fridge.
+4. Fold. Bring the two long edges up to meet, fold them over each other twice, then fold each end up twice. She brings the edges together and you pinch the seams shut.
+5. Write a name on every parcel in marker. Hers, Kreston's, yours, Joseph's.
+6. Back on the tray, into the fridge, and into a hot oven at half past five for thirty minutes.
+
+> 💡 **Tip:** Shiny side in or out makes no difference. The seal does: a parcel folded flat at every edge steams the potato through, and one that gapes stays hard.
+
+### 🌳 Get Outside: Chalking the Shade
+
+Take the chalk out at half past ten and draw round the shadows: the tent, the fence post, the wheelie bin, her own. Fat lines, and write the time inside one. Go back before dinner and find every shape sitting in the sun with its shadow moved. Bring the chalk out again for the redraw.
+
+> 👶 **Infant Integration:** Kreston is 13 months and carries things while he walks, so give him a fat piece of chalk and let him take it round the patio. He will not draw with it yet. He holds it, drops it, sits down on the line you chalked and slaps the ground flat-handed.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Rolling the Beds
+
+Four bedrolls, one per person, tied and labelled. They stay rolled by the tent door until Thursday.
+
+**🧰 Complete Materials List:**
+- 1 blanket or large towel per person, four in total
+- 4 pillows
+- String, cut into 8 lengths of half a metre
+- Thick card cut into 4 luggage labels
+- 1 hole punch, or scissors (**adult only**)
+- 1 marker
+
+**📝 Step-by-Step Instructions:**
+1. Blanket flat on the floor, pillow across one end, both long sides folded in over it so the roll ends up the width of the pillow.
+2. Roll from the pillow end, tight, kneeling on it as it goes to push the air out. She kneels, you roll, swap halfway.
+3. Two ties on each roll, a third of the way in from each end, knotted twice. Her finger holds the first knot while you pull the second.
+4. Punch a hole in the corner of each label. The punch is yours, or the scissors are, and they go back on the shelf after.
+5. She names each roll and you write it on the label in marker, then thread the label onto one of the ties.
+6. Stand all four on end by the tent door, then let her untie hers and lie down on it. Roll and tie it again together.
+
+> 💡 **Tip:** Tie them tighter than feels kind. A roll that sags apart the first time she lifts it gets abandoned by teatime.
+
+### 🎯 Afternoon Alternatives
+- One bedroll only, hers, and leave the other three.
+- Sleeping bags out of the loft instead, unrolled and lain on.
+- Pack a bag for the tent: one book, one teddy, one torch.
+
+### 🌳 Out Again: **Pick one**
+- **The lakeshore**, going late enough that the heat has come off the path
+- The duck pond, closer, if the drive is more than today can carry
+- A shaded woodland walk with the water bottles filled to the top
+- Home, the paddling pool, and nobody in the car at all
+
+> 👶 **Kreston's Afternoon:** He walks now, and at the lakeshore he heads for the water without breaking stride, so he stays within arm's reach. Back at camp, hand him a folded towel to carry to the tent door and let him make the trip four times. At 13 months he would rather carry laundry than a toy.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Fever makes children clingy, and meeting it shortens it.**
+> August is the month somebody in the house goes down with something. When Azlyn runs a temperature she will want to be on you all day and will drop the independence she had last week. That is her nervous system spending its energy on the infection and borrowing regulation from you. Carrying her through it is the fastest route out. Children who get the closeness they ask for while they are ill settle back into their old routines sooner than the ones you push to keep going. Cancel the day, keep the fluids coming, and let her lie on you.
+
+> ⚠️ **Safety:** The oven is on and the parcels come out hot and full of steam, which scalds worse than the tray does. You open them, away from both children, and let them stand two minutes first. At the lakeshore Kreston is 13 months and walks straight at water, so he is within arm's reach the whole time. The scissors and the hole punch stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-213"></a>
+
+## 🌟 Day 213: The Day Outside 🌟
+**📅 Sunday, August 1, 2027**
+**Theme:** Camping Adventures
+
+### 🌙 Prep Tonight
+> Put the old blanket, two cushions and the sun hats by the back door, fill a jug and leave it in the fridge, and dig out the old shower curtain for Monday afternoon.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Carrying the Day Outside
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Lying Down and Listening (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Barefoot Lap (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: What the Clouds Turned Into (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Picking the Herbs for Dinner
+- **4:15–5:00 PM** — Quiet Play: The Shady Corner
+- **5:00–5:45 PM** — 🛁 Wind-Down: Hose Rinse and Pyjamas
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Carrying the Day Outside
+
+**🧰 You need:** 1 laundry basket · the old blanket · 2 cushions.
+
+1. Hand her the basket at the back door and tell her the whole day is going outside and staying there.
+2. She loads it and carries it out. Blanket first, then the cushions, then whatever else she decides the day needs. Two trips is fine and four is better.
+3. Spread the blanket in the deepest shade in the garden and leave it. That is the floor until dinner.
+
+### 🎨 The Main Event: Lying Down and Listening
+
+**🧰 Complete Materials List:**
+- 1 old blanket
+- 2 cushions
+- 1 jug of water and 3 cups with lids, or a bottle each
+- A sun hat each
+- 1 paper bag for anything she picks up
+
+**📝 Step-by-Step Instructions:**
+1. Blanket in full shade, cushions at one end, jug and cups where you can reach them lying down. Hats on before anybody lies back.
+2. Round one, eight minutes, eyes shut. Take turns naming one thing you can hear. A bee, a car, a door, the leaves. The long silences are where the small sounds arrive, so let them run.
+3. Round two, six minutes, eyes open and still flat on your back. Name what crosses the sky: a bird, a plane, a leaf going over, one cloud pushing past another.
+4. Round three, six minutes, palms and heels down on the ground beside the blanket. Grass, a root, a stone, a dry crumbling patch, an ant on her ankle. Anything she wants to keep goes in the paper bag.
+5. Pour a cup at every change of round whether she asks or not, and refill from the jug when it runs low.
+6. Twenty minutes covers all three rounds, and the rest of the hour is hers. The blanket, the shade and the water stay where they are, and she uses them however she likes.
+
+> 💡 **Tip:** You will want to fill the gaps. Sit in them instead. Count ten after each thing she names, and she fills the space herself.
+
+### 🌳 Get Outside: The Barefoot Lap
+
+Shoes and socks off at the back step, then walk the edge of the garden the whole way round, twice. Grass in the shade, grass in the sun, the warm slab by the door, gravel, a drain cover, the cold patch under the tap. She names each one as she stands on it. Nobody puts shoes back on until lunch.
+
+> 👶 **Infant Integration:** Kreston is 13 months and has walked most of his miles on carpet. Grass moves under him, it tickles, and it will stop him dead for a minute before he commits. Take his shoes off and set him down on the edge of the blanket. Let him choose the moment he steps off it.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: What the Clouds Turned Into
+
+Today you write the sky down. She lies back to find a cloud and comes up on her elbows to watch it turn into a drawing, over and over, for an hour and a half.
+
+**🧰 Complete Materials List:**
+- 6 sheets of paper
+- Crayons
+- 1 pencil
+- 1 hardback book or a piece of stiff card as a drawing board
+- Masking tape
+- 1 clothes peg
+
+**📝 Step-by-Step Instructions:**
+1. Tape a sheet of paper to the book so the breeze cannot lift it, and sit beside her with the pencil and the board on your knees.
+2. She lies back, calls a cloud and says what it is, then sits up next to you to watch it appear. You draw the thing she said, not the thing you can see. A dog with eight legs is a dog with eight legs.
+3. Write her words along the bottom of the sheet, the ones she used, then tape on a fresh page. Six sheets, six clouds.
+4. Peg the finished pages to the corner of the blanket as they come off the board, or the first gust puts them over the fence.
+5. Hand her the crayons and let her fill in the sky round each shape while the next cloud arrives.
+6. On an empty blue afternoon she names what is moving instead: a bird, a plane, a bee, the top of the tree bending.
+7. Sit her up with the stack and let her read all six to Kreston, page by page, in her own words rather than the ones written down.
+
+> 💡 **Tip:** Draw a bad one and take your time over it. She corrects a bad drawing, and the correcting tells you what she can see up there.
+
+### 🎯 Afternoon Alternatives
+- One cloud, one page, and the rest of the hour loose on the blanket.
+- Colour six sheets of sky blue and cut the shapes out tomorrow.
+- Lie under a different tree and compare what the branches do to the sky.
+- Photograph six clouds on your phone and draw them at the table.
+
+### 🌳 Out Again: **Pick one**
+- **A long walk with the pram**, out after the worst of the heat and routed through shade
+- The riverside path, for the cool coming off the water
+- A shaded playground she has not been to since the spring
+- The woods loop, pram in front, and let her walk the downhill half
+- Nowhere, and a second hour on the blanket instead
+
+> 👶 **Kreston's Afternoon:** He goes in the pram for the walk and out of it the moment there is grass. At 13 months he climbs every kerb, every step and the low wall by the gate, one foot up and both hands out. Give him the wall to work on for five minutes rather than lifting him past it. Water into him at every stop.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Naming a sound is how she learns to pick it out of the rest.**
+> Lying still and saying *a bee* looks like nothing much and is hard work for her. A garden hands Azlyn one wash of noise, and to name a bee in it she has to hold that one thread and let the traffic, the leaves and her own breathing fall to the back. Small children get better at this with practice, and the practice needs somewhere quiet enough for the small sounds to arrive, which is what the long gaps you sit through are for. Attaching a word to a sound is what makes it a thing she can find again tomorrow. Eyes shut helps, because nothing is competing for what she has.
+
+> ⚠️ **Safety:** Walk the barefoot circuit yourself in shoes first and clear the glass, the dog mess and whatever the bins dropped overnight. Keep the drain cover and the warm slab in the route and name them both as she reaches them, but test each one with the back of your hand first and walk her round anything you would not hold for five seconds. Hats on, blanket in full shade, water at every change of round. The paper bag of stones and grit stays up on the bench with you. Kreston is 13 months and everything he picks up goes to his mouth.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-214"></a>
+
+## 🌟 Day 214: Water at Camp 🌟
+**📅 Monday, August 2, 2027**
+**Theme:** Camping Adventures
+
+### 🌙 Prep Tonight
+> Two washing-up bowls and a low bench out by the tent, the shower curtain and the swimsuits where you can find them at one o'clock, and fill the kettle.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Everything That Needs Washing
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Camp Washing-Up Station (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Water for the Birds (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Soapy Slide (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Tea Towels Off the Line
+- **4:15–5:00 PM** — Quiet Play: The Dry Towel Pile
+- **5:00–5:45 PM** — 🛁 Wind-Down: Already Bathed, Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Everything That Needs Washing
+
+**🧰 You need:** 1 laundry basket · 1 damp cloth.
+
+1. Send her round camp with the basket for every cup, plate and spoon used since Friday.
+2. Wipe the worst off each one with the damp cloth at the back door, so nothing goes into the washing-up with yesterday's cheese on it.
+3. Count the cups out loud into the basket. That number is hers for the morning.
+
+### 🎨 The Main Event: The Camp Washing-Up Station
+
+**🧰 Complete Materials List:**
+- 2 washing-up bowls or buckets
+- Warm water from the kettle, topped up cold
+- 1 squirt washing-up liquid
+- 1 scrubbing brush and 1 sponge
+- 1 tea towel
+- 6 clothes pegs and a short line
+- 2 chairs to string the line between
+- The camp cups, plates and cutlery
+- 1 low bench, upturned crate or step
+
+**📝 Step-by-Step Instructions:**
+1. Bench in the shade, two bowls side by side. Fill the left from the kettle and top it up cold until you can hold your hand in it. Fill the right one cold.
+2. One squirt of washing-up liquid into the left bowl only, and let her whisk up the foam with her arm in to the elbow.
+3. Brush for the plates, sponge for the cups. Left bowl first, then straight into the right one to rinse. She does every piece and you re-do the two that matter.
+4. Rinsed things stack on the bench to drip. She builds the stack.
+5. String the short line between two chairs, hand her the six pegs, and peg up the tea towel and whatever else got wet.
+6. Tip both bowls out onto the grass the moment the last cup is done. She carries them in one at a time, empty.
+
+> 💡 **Tip:** Give her the left bowl and keep the tap and the kettle to yourself. Stopping her to top it up ends the job.
+
+### 🌳 Get Outside: Water for the Birds
+
+Birds run short of water in early August. Stand a wide shallow dish or an upturned bin lid in the shade, fill it a thumb deep, and put a flat stone in the middle for the smaller birds. She fills it, carries it and picks the spot.
+
+> 👶 **Infant Integration:** Kreston is 13 months and walks straight at water, so site the bird dish where you can see it. Give him his own, an inch in the bottom of a bucket and a cup, with you beside it. Pouring is the whole afternoon at his age, and he is never near it unsupervised.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Soapy Slide
+
+A shower curtain, two buckets and a squirt of washing-up liquid turn the lawn into the thing she talks about for a fortnight.
+
+**🧰 Complete Materials List:**
+- 1 old shower curtain, tarpaulin or heavy plastic sheet (two split bin bags taped together works for a short one)
+- 4 heavy stones or tent pegs for the corners
+- 2 buckets of water
+- 1 squirt washing-up liquid
+- Towels
+- Swimsuits
+
+**📝 Step-by-Step Instructions:**
+1. Walk the patch first with your hand and then your bare foot, feeling for stones and buried roots before anything goes down.
+2. Lay the sheet flat on level grass, well clear of the path, the step and the fence posts, and weight all four corners with the stones.
+3. Tip the first bucket down it from the top end, add the squirt of washing-up liquid halfway along, and spread it with your hand.
+4. Swimsuits on. Show her the run-up once: three steps and sit down, feet first, head up. Sitting is the only landing.
+5. Second bucket over it whenever the middle goes dry, about every ten minutes in this heat.
+6. Stop before she is finished rather than after. Straight into a warm towel, and the swimsuit comes off out on the grass.
+7. Roll the sheet up away from the tent and stand it in the shade to dry.
+
+> 💡 **Tip:** More water and less soap. A second squirt turns the grass round the sheet into a skating rink for whoever walks past holding Kreston.
+
+### 🎯 Afternoon Alternatives
+- The paddling pool with the washing-up bowls in it.
+- Wash the bikes and the trike with the leftover foam.
+- Water fights with two cups and a bucket, no sheet.
+
+### 🌳 Out Again: **Pick one**
+- **The duck pond**, going late and taking porridge oats rather than bread
+- The riverside path for the shade and the breeze off the water
+- The splash pad, if there is one within a sensible drive
+- The garden again, with the sprinkler on low
+
+> 👶 **Kreston's Afternoon:** He stays off the sheet. A 13-month-old on wet plastic goes down backwards and hits his head, so he gets the grass beside it and a bucket with an inch in it. At the pond he will walk in, so he holds a hand or he goes in the pram.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Summer needs less structure than you'd think.**
+> This week has a plan on every page, and the days that land best are the ones where you follow half of it. Long stretches of unbroken outdoor time do what a sequence of good activities cannot: she gets bored, stays bored, and then invents. The gap between running out of ideas and finding one is where her own play comes from, and an adult who fills it with a suggestion closes it. Children with long free afternoons build longer, more complicated play than those on a run of planned blocks. Put the water out and let the afternoon go where she takes it.
+
+> ⚠️ **Safety:** Run your hand over the whole patch before the sheet goes down. A stone or a buried root under wet plastic is what turns a slide into a hospital trip. Lay it on flat grass, never near a path, a step or a fence post. Keep Kreston off the sheet and out of the bowls. A 13-month-old drowns in the depth of a washing-up bowl, so tip both out the moment you finish.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-215"></a>
+
+## 🌟 Day 215: The Camp Flag 🌟
+**📅 Tuesday, August 3, 2027**
+**Theme:** Camping Adventures
+
+### 🌙 Prep Tonight
+> Old white pillowcase, three paints, the wide brush and newspaper on the table, and the garden cane by the back door with the swim bag.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: What Our Camp Is Called
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Flag Over the Tent (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Sign Hunt Down to the Pool (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Flag Up, Flag Down (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Swim Bag by the Door
+- **4:15–5:00 PM** — Quiet Play: Drawing More Flags
+- **5:00–5:45 PM** — 🛁 Wind-Down: Pool Hair and Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: What Our Camp Is Called
+
+**🧰 You need:** 1 sheet of paper · crayons.
+
+1. Sit in the tent and ask what camp is called. Take the first answer, however daft, and say it back with *camp* in front of it.
+2. Ask what one picture would stand for it. A sun, a fish, a boat, the letter K. She picks.
+3. She draws it small five or six times while you watch. The fifth one goes on the flag at quarter past nine.
+
+### 🎨 The Main Event: The Flag Over the Tent
+
+**🧰 Complete Materials List:**
+- 1 old white pillowcase, tea towel or plain t-shirt
+- Washable poster paint, 3 colours
+- 1 wide soft brush
+- 1 garden cane, bamboo pole, broom handle or a long straight stick
+- String, 1 metre
+- Masking tape
+- 1 jar of water and a wet flannel
+- Newspaper to protect the ground
+- Her drawing from this morning
+
+**📝 Step-by-Step Instructions:**
+1. Push a ball of masking tape onto the top end of the cane before you carry it out to her. Then newspaper down in the shade, pillowcase flat on top, and slide two more sheets inside it so the paint cannot come through to the back.
+2. Her drawing goes beside it as the reference. One symbol, and it wants to fill most of the cloth.
+3. Paint. The brush is wide on purpose and the jar of water sits between the three colours. The flannel comes to her, not her to the tap.
+4. Leave it flat in the sun, which in this heat dries it in twenty minutes.
+5. Tape the top edge along the cane, three strips below the taped ball, then wind the string round the join and knot it twice.
+6. Lash the pole to the fence post by the tent door with the rest of the string.
+
+> 💡 **Tip:** One symbol, and big. A flag with six things on it reads as a smudge from the other end of the garden.
+
+### 🌳 Get Outside: The Sign Hunt Down to the Pool
+
+Walk the route you take to swimming and count the signs: the red circle that means stop, the stick figure that means children, the arrow, the triangle on the recycling bin. She spots them and you say what each tells somebody who cannot read. Turn at the pool gates and walk back.
+
+> 👶 **Infant Integration:** Kreston is 13 months and walks, so let him do the first stretch on his feet with a finger to hold, then into the pram. He points with his whole arm. Name the sign out loud when he aims at one, and keep walking.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Flag Up, Flag Down
+
+Three signals, two chalked stations and a bell. She runs the messages between them.
+
+**🧰 Complete Materials List:**
+- The flag and its pole
+- 2 tea towels as hand flags
+- String, 2 metres
+- 2 clothes pegs to hold the flag at half height
+- Chalk to mark the two stations
+- 1 saucepan lid and 1 wooden spoon as the camp bell
+
+**📝 Step-by-Step Instructions:**
+1. Chalk two circles twenty of her steps apart, camp at one end and the gate at the other.
+2. Agree three signals and no more. Flag at the top means come to camp, flag halfway means camp is shut, flag waved means dinner.
+3. Tie the string to the top corner of the flag and run it over the top of the pole so it raises and lowers. The two pegs hold it at half height for shut.
+4. She stands in the gate circle with her back to camp. One bang on the saucepan lid with the wooden spoon means look at the flag. She turns, reads it, does it.
+5. Swap. She works the string and the bell while you stand at the gate, and get it wrong on purpose twice so she has to correct you.
+6. Hand out the two tea towels as hand flags and send messages across the garden with nobody speaking, including you. Leave the flag at the top when you go swimming.
+
+> 💡 **Tip:** Three signals is the ceiling. Add a fourth and the whole thing turns into guessing.
+
+### 🎯 Afternoon Alternatives
+- Flag up and flag down only, and drop the bell.
+- Paint a second small flag for Kreston's pram.
+- Chalk the three signals on the path as pictures instead.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and the flag left flying at home
+- The splash pad, if the pool session is full
+- The paddling pool and the hose in the garden
+- A cool bath and a shady afternoon, if nobody can face the drive
+
+> 👶 **Kreston's Afternoon:** He is 13 months and will go into the water off the side without checking whether anyone has hold of him. Arm's reach means the tiles as well as the water. Twenty-five minutes is plenty. Hold him under the arms and walk him along the shallow end so he does the stepping.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Symbols are a big abstraction, and flags are the easiest entry point.**
+> The painted sun on that pillowcase is a mark standing in for an idea, which is the same trick as a letter standing in for a sound, and letters are eighteen months away. Azlyn can hold the flag version now because it is one picture with one meaning, chosen by her and visible from across the garden. Raising and lowering it adds a second layer: the same object saying two different things depending on where it sits. Every road sign she named this morning runs on that rule. She is doing the groundwork for reading in a form she can pick up and wave.
+
+> ⚠️ **Safety:** A garden cane ends at the height of a running three-year-old's eye, so push the ball of masking tape onto the top end before the cane comes out to her, and lash the pole to the fence post so it cannot topple. Kreston is 13 months and will go into the pool without warning, so he is within arm's reach on the tiles and in the water. The string comes off the pole at bedtime.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-216"></a>
+
+## 🌟 Day 216: The Day Before 🌟
+**📅 Wednesday, August 4, 2027**
+**Theme:** Camping Adventures
+
+### 🌙 Prep Tonight
+> Cut twelve strips out of thick card, a hand long each, and stand them on the table with the crayons. Put one bag per person by the front door and check the torch batteries.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: One Bag Each
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Picture Packing List (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Where Everything Goes Tomorrow (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Camp Snack Bags (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Library** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Cups Into the Bag
+- **4:15–5:00 PM** — Quiet Play: Repacking Her Own Bag
+- **5:00–5:45 PM** — 🛁 Wind-Down: Early Bath, Bag by the Door
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: One Bag Each
+
+**🧰 You need:** 1 rucksack or tote bag per person, four in all.
+
+1. Lay the four bags open in a row on the floor and let her hand them out. Hers, Kreston's, yours, Joseph's.
+2. Ask her what goes in each one and write nothing down. Let the list be as wrong as she makes it.
+3. Tell her the drawings start at quarter past nine and nothing goes in a bag until it has been drawn.
+
+### 🎨 The Main Event: The Picture Packing List
+
+**🧰 Complete Materials List:**
+- Thick card cut into 12 strips
+- Crayons
+- 1 permanent marker
+- 1 rucksack or tote bag per person, four in all
+- The things still indoors: the torch, the cups, the sun hats, the water bottles, the sun cream
+- Masking tape
+- 1 bulldog clip
+
+**📝 Step-by-Step Instructions:**
+1. Twelve strips in a row on the table. Name twelve things that have to go out to camp in the morning and let her do the naming, with you holding back the two she forgets.
+2. She draws one thing on each strip in crayon. A torch is a rectangle with lines coming out of it.
+3. You write the word underneath each drawing in marker, so anybody in the house can read her list.
+4. Loop a piece of masking tape onto the back of every strip and stick the row along the wall at her height, in the order things go into the bags.
+5. Fetch each thing off the shelf and pack against her list. She pulls a strip off the wall and lays it face down as each thing goes in.
+6. When the last strip is face down, clip all twelve together with the bulldog clip and hang it on her bag for the morning.
+
+> 💡 **Tip:** Let her pack her own bag and leave what she puts in it alone. A rucksack holding two teddies and one cup is one she carries the whole way tomorrow.
+
+### 🌳 Get Outside: Where Everything Goes Tomorrow
+
+Walk out to the tent after the snack and stand in the doorway with her. She settles four things. The shade at eleven and the shade at three. The side of the door the water bowl stands on. The spot for the bench, set so nobody carries a full jug past the fire. The first thing out of the bags in the morning. You write none of it down, because she will remember.
+
+> 👶 **Infant Integration:** Kreston is 13 months and carries things while he walks, so give him one plastic cup and the job of getting it out to the tent door and back. He will take a route nobody else would choose. He understands *bring it here* about half the time.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Camp Snack Bags
+
+You make tomorrow's food this afternoon. Four tubs, three things in each, and she scoops and counts.
+
+**🧰 Complete Materials List:**
+- 4 small tubs or clean jam jars with lids
+- Cereal hoops
+- Raisins
+- Chopped dried apricot or dried apple
+- 1 tablespoon and 1 cup for scooping
+- 1 marker and 4 sticky labels
+- 1 tray to work on
+
+**📝 Step-by-Step Instructions:**
+1. Tray on the table, four tubs in a row along it with the lids off and set aside.
+2. Cereal hoops first. One cup into each tub, and she levels the top of the cup off with her finger before it goes in.
+3. One tablespoon of raisins into each. She counts the spoons out loud and starts again if she loses count.
+4. One tablespoon of the chopped apricot into each, counted the same way.
+5. Lids on, and she presses every one until it clicks. Any tub that will not shut gets a spoonful taken back out.
+6. A sticky label on each lid. She writes her own name on hers however it comes out and you write the other three while she watches.
+7. Line all four up by the bags at the door. Kreston's is the one you chop into in the morning, not now.
+
+> 💡 **Tip:** Let her spill. A tray under the whole operation turns three spilt spoonfuls into something she tips back into the tub herself.
+
+### 🎯 Afternoon Alternatives
+- One tub, hers, and the rest done after she is in bed.
+- Bake flapjack for tomorrow instead and cut it into four.
+- Sort a bag of raisins into four piles by eye, then check them with a spoon.
+
+### 🌳 Out Again: **The Library**
+- **The library**, and ask at the desk for anything about tents or the woods at night
+- Soft play, if the library is full of the holiday crowd
+- The park with the big trees, and a book each under one
+- The shops for tomorrow's bread, and she carries it
+
+> 👶 **Kreston's Afternoon:** Take him to the library and let him walk in on his own feet, which takes four minutes. At 13 months he pulls board books off the low shelf faster than anyone can put them back, so sit on the floor and let that shelf be his. Azlyn picks his book and carries it to the desk.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A list she can read herself puts her in charge of the packing.**
+> Twelve cards on the wall do a job Azlyn cannot do in her head yet. She can hold two or three steps at a time, and camp needs twelve, so the row of drawings carries the order for her and leaves her hands and her attention free for the packing itself. Turning each card face down as the thing goes in the bag is the part that earns its keep: she checks her own work and knows where she has got to without asking you. Small children finish more of a long task on their own from a list they can see than from the same list said out loud. She drew these, so they are hers to run.
+
+> ⚠️ **Safety:** Raisins, dried apricot and cereal hoops are all the wrong size for a 13-month-old, so Kreston's portion gets chopped small in the morning and he does not get near the open tubs today. Loose food bags and cling film go straight into the bin, not onto the floor where he is working.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-217"></a>
+
+## 🌟 Day 217: The Big Camp Out 🌟
+**📅 Thursday, August 5, 2027**
+**Theme:** Camping Adventures
+
+### 🌙 Prep Tonight
+> Bags packed by the door, water bottles filled and in the fridge, and the sun cream and both hats on top of the pile.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Everything in Three Trips
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Whole Camp in One Place (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Shady Loop Back to Camp (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Striking Camp (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Carrying the Bakery Bag
+- **4:15–5:00 PM** — Quiet Play: Looking at the Camp Photos
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Last Camp Story
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Everything in Three Trips
+
+**🧰 You need:** the four packed bags · 2 laundry baskets.
+
+1. Load the two baskets with everything the bags could not take.
+2. Three trips out to the tent and no more. Count them out loud.
+3. Put it all down in one heap on the grass beside the door. The rest of camp goes on at quarter past nine.
+
+### 🎨 The Main Event: The Whole Camp in One Place
+
+**🧰 Complete Materials List:**
+- The tent, up since Friday
+- 6 spare clothes pegs
+- The bedrolls, four of them
+- The paper campfire and its ring of stones
+- The flag on its pole
+- 1 washing-up bowl and 1 jug of water
+- 1 rug or picnic blanket
+- 6 heavy stones for the edges
+- 1 damp cloth
+- A sun hat each
+
+**📝 Step-by-Step Instructions:**
+1. Hats on before anything else. Walk the tent with her first, both sides: every peg along the line, both corner ties, every stone on the hem. She finds what a week of wind has shifted and puts it back, and a spare peg goes in wherever one has blown off.
+2. Six fresh stones along the two long edges from the outside, spaced so the walls hang straight. She knows this part and will tell you where you have it wrong.
+3. Rug down inside and wiped over with the damp cloth, then the four bedrolls along the back wall in the order she decides, labels facing out.
+4. Fire ring straightened out front, sticks stacked back into their tripod, any paper flame that has come off taped back on.
+5. Flag to the top of the pole, because camp is open. Then the cups, the snack tubs and the torch out of the bags and into the tent where she wants them.
+6. Washing-up bowl down at the tent door with the jug beside it. Then stand at the gate with her and look at the whole thing from thirty feet.
+
+> 💡 **Tip:** Move the rug rather than the tent. Shade crosses the floor by noon, and shifting what she sits on takes a minute where moving the sheet takes the morning.
+
+### 🌳 Get Outside: The Shady Loop Back to Camp
+
+Out early and short. Take the route that stays under trees, fill the bottles before you leave, and turn for home before eleven. Look for what else is sheltering: the dog under the bench, birds deep in the hedge, nobody on the field. Come back in through the front of the tent.
+
+> 👶 **Infant Integration:** **Kreston turns 14 months today.** He stacks two blocks now, so give him two of the fire stones and let him try to put one on the other beside the ring. He has three to five words and one of them will come out today. Say happy fourteen months out loud to him, because nobody else is going to.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Striking Camp
+
+Camp comes down on purpose, while everybody still likes it, in the order it went up.
+
+**🧰 Complete Materials List:**
+- The whole camp
+- 2 laundry baskets or big bags
+- 1 dustpan and brush, or a stiff yard broom
+- 1 bag for the clothes pegs
+- 1 damp cloth
+- Your phone, for the photograph before it comes down
+
+**📝 Step-by-Step Instructions:**
+1. Photograph it full first, with both of them inside it, before one thing moves. Take more than you need and take one from the gate.
+2. Flag down off the pole and she folds it corner to corner twice. The pole comes off the post and lies flat on the grass.
+3. Pegs off the line into the peg bag, six at a time so she can count them, then the sheet down and shaken.
+4. Bedrolls stay tied and go into the baskets with the rug on top.
+5. Carry the fire sticks back to the hedge they came from and tip them under it. The stones go back along the wall in a line.
+6. Wipe the bowl and the cups out with the damp cloth and carry them in.
+7. Sweep the ground flat until you cannot tell camp was there. She does the last of it on her own, then walks the empty patch.
+
+> 💡 **Tip:** Strike it an hour before anybody has had enough. Taking it down while it is still good is what makes her willing to put it up again.
+
+### 🎯 Afternoon Alternatives
+- Leave the tent standing and take down everything else.
+- Photograph camp from six angles and print two.
+- Move the whole camp four feet to the left instead.
+
+### 🌳 Out Again: **Pick one**
+- **The bakery**, and she carries the bag home flat in both hands
+- The corner shop for something cold, walked to and eaten on the step
+- The library again, for the cool air as much as the books
+- The duck pond in the last of the shade
+
+> 👶 **Kreston's Afternoon:** At 14 months he wants to carry whatever everybody else is carrying, so give him the empty peg bag for the walk to the bakery. Watch the heat on him rather than the bag. He cannot tell you he is too hot, so your hand on the back of his neck says whether you keep going.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Big days are frequently too big, and the fix is leaving early.**
+> The whole camp is up, everyone is enjoying it, and the temptation is to stay until somebody falls apart. Leave while it is still good instead, at the point where she would take another twenty minutes without argument. Small children remember the end of an experience out of all proportion to the rest, so an hour that finished well outranks three hours that ended in the grass screaming. You have watched this from the other side at every party she has ever been carried home from. Cutting a good day short by an hour is what makes her ask for the same thing again.
+
+> ⚠️ **Safety:** A whole day outdoors in the first week of August is a heat day. Shade over camp by eleven, water into both of them every half hour whether they ask or not, hats on. Kreston is 14 months and cannot tell you he is overheating, so watch for a hot dry neck, a red face and a sudden flop, and take him indoors to cool down before you finish whatever you are doing.
+
+<div style="page-break-after: always;"></div>
