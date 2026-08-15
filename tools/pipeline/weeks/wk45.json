@@ -1,0 +1,115 @@
+{
+  "week": 45,
+  "booklet": "November",
+  "file_prefix": "11-nov",
+  "days": [
+    309,
+    315
+  ],
+  "theme": "On the Farm 🚜",
+  "sidebar": "Milk, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "November 5 – November 11, 2027",
+  "insight_headlines": [
+    "Her own name is the doorway and it doesn't generalise for a while.",
+    "Tracing in salt removes the fear of getting it wrong.",
+    "Hearing a rhyme and making one are two different skills, months apart.",
+    "The first sound in a word is the easiest one to hear, and that's where reading starts.",
+    "Twenty-six is too many, and five is plenty.",
+    "Print in the real world teaches more than print in a book.",
+    "Repetition of one sound all day does more than a lesson on it."
+  ],
+  "day_specs": [
+    {
+      "day": 309,
+      "weekday": "Friday",
+      "month": "November",
+      "date_num": 5,
+      "header_date": "**📅 Friday, November 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 310,
+      "weekday": "Saturday",
+      "month": "November",
+      "date_num": 6,
+      "header_date": "**📅 Saturday, November 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 311,
+      "weekday": "Sunday",
+      "month": "November",
+      "date_num": 7,
+      "header_date": "**📅 Sunday, November 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 312,
+      "weekday": "Monday",
+      "month": "November",
+      "date_num": 8,
+      "header_date": "**📅 Monday, November 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Playground (the big slide one)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 313,
+      "weekday": "Tuesday",
+      "month": "November",
+      "date_num": 9,
+      "header_date": "**📅 Tuesday, November 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 314,
+      "weekday": "Wednesday",
+      "month": "November",
+      "date_num": 10,
+      "header_date": "**📅 Wednesday, November 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 315,
+      "weekday": "Thursday",
+      "month": "November",
+      "date_num": 11,
+      "header_date": "**📅 Thursday, November 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Garden centre",
+      "holiday": "Veterans Day",
+      "holiday_treatment": "bonus note"
+    }
+  ]
+}

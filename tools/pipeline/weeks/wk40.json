@@ -1,0 +1,115 @@
+{
+  "week": 40,
+  "booklet": "October",
+  "file_prefix": "10-oct",
+  "days": [
+    274,
+    280
+  ],
+  "theme": "Numbers & Counting 🔢",
+  "sidebar": "Counting on Your Hands, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "October 1 – October 7, 2027",
+  "insight_headlines": [
+    "Inventing a game is a much bigger deal than playing one.",
+    "Hosting is a social skill, and it's learnable at three.",
+    "Predicting a sound and then testing it is her first real hypothesis.",
+    "Loud is a developmental need, not a provocation.",
+    "High and low is a confusing pair of words.",
+    "Freezing on cue is genuine impulse control.",
+    "Copying a rhythm is harder than it looks, and it's a working memory task."
+  ],
+  "day_specs": [
+    {
+      "day": 274,
+      "weekday": "Friday",
+      "month": "October",
+      "date_num": 1,
+      "header_date": "**📅 Friday, October 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 275,
+      "weekday": "Saturday",
+      "month": "October",
+      "date_num": 2,
+      "header_date": "**📅 Saturday, October 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 276,
+      "weekday": "Sunday",
+      "month": "October",
+      "date_num": 3,
+      "header_date": "**📅 Sunday, October 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 277,
+      "weekday": "Monday",
+      "month": "October",
+      "date_num": 4,
+      "header_date": "**📅 Monday, October 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Hill walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 278,
+      "weekday": "Tuesday",
+      "month": "October",
+      "date_num": 5,
+      "header_date": "**📅 Tuesday, October 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 279,
+      "weekday": "Wednesday",
+      "month": "October",
+      "date_num": 6,
+      "header_date": "**📅 Wednesday, October 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Soft play (quiet session)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 280,
+      "weekday": "Thursday",
+      "month": "October",
+      "date_num": 7,
+      "header_date": "**📅 Thursday, October 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Pharmacy + park bench",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

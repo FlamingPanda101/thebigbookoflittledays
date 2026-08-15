@@ -1,0 +1,115 @@
+{
+  "week": 17,
+  "booklet": "April",
+  "file_prefix": "04-apr",
+  "days": [
+    113,
+    119
+  ],
+  "theme": "Recycling & Earth Care ♻️",
+  "sidebar": "Japan: *Mottainai* and *Furoshiki*",
+  "sidebar_needs_writing": false,
+  "date_range": "April 23 – April 29, 2027",
+  "insight_headlines": [
+    "Repetition means she's still getting information.",
+    "Some things she'll only understand years later, and that's fine.",
+    "Describing accurately is the real preschool science skill.",
+    "Ownership is what makes a child stick with something.",
+    "Grouping by ten is the foundation of the whole number system.",
+    "Making the invisible visible is the core trick of good science teaching.",
+    "Building for an animal reframes the relationship."
+  ],
+  "day_specs": [
+    {
+      "day": 113,
+      "weekday": "Friday",
+      "month": "April",
+      "date_num": 23,
+      "header_date": "**📅 Friday, April 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 114,
+      "weekday": "Saturday",
+      "month": "April",
+      "date_num": 24,
+      "header_date": "**📅 Saturday, April 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Train ride",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 115,
+      "weekday": "Sunday",
+      "month": "April",
+      "date_num": 25,
+      "header_date": "**📅 Sunday, April 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 116,
+      "weekday": "Monday",
+      "month": "April",
+      "date_num": 26,
+      "header_date": "**📅 Monday, April 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Riverside path",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 117,
+      "weekday": "Tuesday",
+      "month": "April",
+      "date_num": 27,
+      "header_date": "**📅 Tuesday, April 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 118,
+      "weekday": "Wednesday",
+      "month": "April",
+      "date_num": 28,
+      "header_date": "**📅 Wednesday, April 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 119,
+      "weekday": "Thursday",
+      "month": "April",
+      "date_num": 29,
+      "header_date": "**📅 Thursday, April 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Grocery shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "week": 12,
+  "booklet": "March",
+  "file_prefix": "03-mar",
+  "days": [
+    78,
+    84
+  ],
+  "theme": "Baby Animals & New Beginnings 🐣",
+  "sidebar": "Spring New Years",
+  "sidebar_needs_writing": false,
+  "date_range": "March 19 – March 25, 2027",
+  "insight_headlines": [
+    "The vestibular system, and why she spins until she falls over.",
+    "Silliness is real social work.",
+    "Children understand fairness before they understand generosity.",
+    "Directing others is how a child rehearses being in charge of herself.",
+    "Choosing three from seven is real cognitive work.",
+    "A daily ritual of checking teaches more than the plant does.",
+    "Let her hold a wrong theory for a while."
+  ],
+  "day_specs": [
+    {
+      "day": 78,
+      "weekday": "Friday",
+      "month": "March",
+      "date_num": 19,
+      "header_date": "**📅 Friday, March 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 79,
+      "weekday": "Saturday",
+      "month": "March",
+      "date_num": 20,
+      "header_date": "**📅 Saturday, March 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Bus ride (nowhere in particular)",
+      "holiday": "Spring equinox",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 80,
+      "weekday": "Sunday",
+      "month": "March",
+      "date_num": 21,
+      "header_date": "**📅 Sunday, March 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Sunset walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 81,
+      "weekday": "Monday",
+      "month": "March",
+      "date_num": 22,
+      "header_date": "**📅 Monday, March 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Green space + ball",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 82,
+      "weekday": "Tuesday",
+      "month": "March",
+      "date_num": 23,
+      "header_date": "**📅 Tuesday, March 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 83,
+      "weekday": "Wednesday",
+      "month": "March",
+      "date_num": 24,
+      "header_date": "**📅 Wednesday, March 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Indoor play centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 84,
+      "weekday": "Thursday",
+      "month": "March",
+      "date_num": 25,
+      "header_date": "**📅 Thursday, March 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Post office + errand",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

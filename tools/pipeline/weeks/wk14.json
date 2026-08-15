@@ -1,0 +1,115 @@
+{
+  "week": 14,
+  "booklet": "April",
+  "file_prefix": "04-apr",
+  "days": [
+    92,
+    98
+  ],
+  "theme": "Egg-cellent Science 🥚",
+  "sidebar": "Japan: *Tamagoyaki*",
+  "sidebar_needs_writing": false,
+  "date_range": "April 2 – April 8, 2027",
+  "insight_headlines": [
+    "Two new years in one book is a useful idea.",
+    "Sanctioned rule-breaking is good for a rule-following child.",
+    "Trying and failing at something an animal does easily builds real respect.",
+    "Children can't perceive their own growth, and showing it matters.",
+    "Sorting into families is a more advanced move than sorting by color.",
+    "Resist techniques teach a real idea: some things repel others.",
+    "Doing your own version beside her beats helping with hers."
+  ],
+  "day_specs": [
+    {
+      "day": 92,
+      "weekday": "Friday",
+      "month": "April",
+      "date_num": 2,
+      "header_date": "**📅 Friday, April 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 93,
+      "weekday": "Saturday",
+      "month": "April",
+      "date_num": 3,
+      "header_date": "**📅 Saturday, April 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 94,
+      "weekday": "Sunday",
+      "month": "April",
+      "date_num": 4,
+      "header_date": "**📅 Sunday, April 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 95,
+      "weekday": "Monday",
+      "month": "April",
+      "date_num": 5,
+      "header_date": "**📅 Monday, April 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Field walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 96,
+      "weekday": "Tuesday",
+      "month": "April",
+      "date_num": 6,
+      "header_date": "**📅 Tuesday, April 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 97,
+      "weekday": "Wednesday",
+      "month": "April",
+      "date_num": 7,
+      "header_date": "**📅 Wednesday, April 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Church hall playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 98,
+      "weekday": "Thursday",
+      "month": "April",
+      "date_num": 8,
+      "header_date": "**📅 Thursday, April 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Charity shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

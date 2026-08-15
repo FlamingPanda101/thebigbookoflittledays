@@ -1,0 +1,115 @@
+{
+  "week": 19,
+  "booklet": "May",
+  "file_prefix": "05-may",
+  "days": [
+    127,
+    133
+  ],
+  "theme": "Mother's Day & Family Love 💐",
+  "sidebar": "Mother's Day Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "May 7 – May 13, 2027",
+  "insight_headlines": [
+    "Tools shape what a child notices.",
+    "The seder is possibly the oldest child-centered teaching ritual on earth.",
+    "Rituals that repeat annually do something one-off events can't.",
+    "Sorting by material is harder than sorting by color.",
+    "\"Waste\" is a concept, and it's teachable through objects.",
+    "Abundance of choice produces better work than the perfect kit.",
+    "Heavy work is the most reliable regulation tool you have."
+  ],
+  "day_specs": [
+    {
+      "day": 127,
+      "weekday": "Friday",
+      "month": "May",
+      "date_num": 7,
+      "header_date": "**📅 Friday, May 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 128,
+      "weekday": "Saturday",
+      "month": "May",
+      "date_num": 8,
+      "header_date": "**📅 Saturday, May 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Pet shop + garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 129,
+      "weekday": "Sunday",
+      "month": "May",
+      "date_num": 9,
+      "header_date": "**📅 Sunday, May 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Long walk with the pram",
+      "holiday": "💐 Mother's Day",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 130,
+      "weekday": "Monday",
+      "month": "May",
+      "date_num": 10,
+      "header_date": "**📅 Monday, May 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Woods loop",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 131,
+      "weekday": "Tuesday",
+      "month": "May",
+      "date_num": 11,
+      "header_date": "**📅 Tuesday, May 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 132,
+      "weekday": "Wednesday",
+      "month": "May",
+      "date_num": 12,
+      "header_date": "**📅 Wednesday, May 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 133,
+      "weekday": "Thursday",
+      "month": "May",
+      "date_num": 13,
+      "header_date": "**📅 Thursday, May 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Market",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

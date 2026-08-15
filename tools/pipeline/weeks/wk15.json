@@ -1,0 +1,115 @@
+{
+  "week": 15,
+  "booklet": "April",
+  "file_prefix": "04-apr",
+  "days": [
+    99,
+    105
+  ],
+  "theme": "Garden Discovery 🌱",
+  "sidebar": "The Three Sisters (Indigenous North America)",
+  "sidebar_needs_writing": false,
+  "date_range": "April 9 – April 15, 2027",
+  "insight_headlines": [
+    "Searching is a skill, and it's more systematic than it looks.",
+    "Comparing quantities without numbers is where measurement starts.",
+    "\"What do you think will happen?\" before every single experiment.",
+    "A joke requires knowing what someone else expects.",
+    "Reversals help a child see the pattern she's been living inside.",
+    "Weather is one of the best first sciences, because it's already happening.",
+    "Blowing games do more than entertain."
+  ],
+  "day_specs": [
+    {
+      "day": 99,
+      "weekday": "Friday",
+      "month": "April",
+      "date_num": 9,
+      "header_date": "**📅 Friday, April 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 100,
+      "weekday": "Saturday",
+      "month": "April",
+      "date_num": 10,
+      "header_date": "**📅 Saturday, April 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Aquarium",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 101,
+      "weekday": "Sunday",
+      "month": "April",
+      "date_num": 11,
+      "header_date": "**📅 Sunday, April 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 102,
+      "weekday": "Monday",
+      "month": "April",
+      "date_num": 12,
+      "header_date": "**📅 Monday, April 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Duck pond",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 103,
+      "weekday": "Tuesday",
+      "month": "April",
+      "date_num": 13,
+      "header_date": "**📅 Tuesday, April 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 104,
+      "weekday": "Wednesday",
+      "month": "April",
+      "date_num": 14,
+      "header_date": "**📅 Wednesday, April 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 105,
+      "weekday": "Thursday",
+      "month": "April",
+      "date_num": 15,
+      "header_date": "**📅 Thursday, April 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Bakery run",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

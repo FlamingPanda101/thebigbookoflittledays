@@ -1,0 +1,115 @@
+{
+  "week": 16,
+  "booklet": "April",
+  "file_prefix": "04-apr",
+  "days": [
+    106,
+    112
+  ],
+  "theme": "Earth Day & Wildlife 🌎",
+  "sidebar": "Kenya: Wangari Maathai",
+  "sidebar_needs_writing": false,
+  "date_range": "April 16 – April 22, 2027",
+  "insight_headlines": [
+    "Looking out a window counts as an activity.",
+    "Recovery days are the right time to start something slow.",
+    "The transition seasons are the hardest, and the weather is only part of it.",
+    "Predicting the breaking point is real experimental thinking.",
+    "Destruction before construction is a legitimate sequence.",
+    "\"What could we change?\" is the most useful question in this book.",
+    "Leaving and coming back is its own lesson."
+  ],
+  "day_specs": [
+    {
+      "day": 106,
+      "weekday": "Friday",
+      "month": "April",
+      "date_num": 16,
+      "header_date": "**📅 Friday, April 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 107,
+      "weekday": "Saturday",
+      "month": "April",
+      "date_num": 17,
+      "header_date": "**📅 Saturday, April 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Botanical garden",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 108,
+      "weekday": "Sunday",
+      "month": "April",
+      "date_num": 18,
+      "header_date": "**📅 Sunday, April 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 109,
+      "weekday": "Monday",
+      "month": "April",
+      "date_num": 19,
+      "header_date": "**📅 Monday, April 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Hill walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 110,
+      "weekday": "Tuesday",
+      "month": "April",
+      "date_num": 20,
+      "header_date": "**📅 Tuesday, April 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 111,
+      "weekday": "Wednesday",
+      "month": "April",
+      "date_num": 21,
+      "header_date": "**📅 Wednesday, April 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Soft play (quiet session)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 112,
+      "weekday": "Thursday",
+      "month": "April",
+      "date_num": 22,
+      "header_date": "**📅 Thursday, April 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Pharmacy + park bench",
+      "holiday": "🌍 Earth Day",
+      "holiday_treatment": "FULL DAY"
+    }
+  ]
+}

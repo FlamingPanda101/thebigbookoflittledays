@@ -1,0 +1,115 @@
+{
+  "week": 27,
+  "booklet": "July",
+  "file_prefix": "07-jul",
+  "days": [
+    183,
+    189
+  ],
+  "theme": "Independence Day Celebration 🎆",
+  "sidebar": "NEEDS WRITING",
+  "sidebar_needs_writing": true,
+  "date_range": "July 2 – July 8, 2027",
+  "insight_headlines": [
+    "One-year-olds don't understand birthdays, and that's fine.",
+    "Discovery requires an incomplete set.",
+    "Pointing and giving are the foundations of conversation.",
+    "Making something she wears is a different order of pride.",
+    "Repeating an activity across seasons produces a comparison she can make herself.",
+    "Involvement predicts eating better than persuasion does.",
+    "Three rules, repeated forever, beats twenty rules said once."
+  ],
+  "day_specs": [
+    {
+      "day": 183,
+      "weekday": "Friday",
+      "month": "July",
+      "date_num": 2,
+      "header_date": "**📅 Friday, July 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 184,
+      "weekday": "Saturday",
+      "month": "July",
+      "date_num": 3,
+      "header_date": "**📅 Saturday, July 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 185,
+      "weekday": "Sunday",
+      "month": "July",
+      "date_num": 4,
+      "header_date": "**📅 Sunday, July 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": "🎆 Independence Day",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 186,
+      "weekday": "Monday",
+      "month": "July",
+      "date_num": 5,
+      "header_date": "**📅 Monday, July 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Woods loop",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 187,
+      "weekday": "Tuesday",
+      "month": "July",
+      "date_num": 6,
+      "header_date": "**📅 Tuesday, July 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 188,
+      "weekday": "Wednesday",
+      "month": "July",
+      "date_num": 7,
+      "header_date": "**📅 Wednesday, July 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 189,
+      "weekday": "Thursday",
+      "month": "July",
+      "date_num": 8,
+      "header_date": "**📅 Thursday, July 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Market",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

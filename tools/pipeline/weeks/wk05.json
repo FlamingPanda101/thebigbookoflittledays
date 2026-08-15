@@ -1,0 +1,106 @@
+{
+  "week": 5,
+  "booklet": "January",
+  "days": [
+    29,
+    35
+  ],
+  "theme": "Forest Friends 🌲",
+  "sidebar": "Japan: *Shinrin-yoku* (Forest Bathing)",
+  "date_range": "January 29 – February 4, 2027",
+  "insight_headlines": [
+    "Patterns are the beginning of algebra, genuinely.",
+    "Explaining to someone else is how understanding gets locked in.",
+    "Loose parts beat finished toys.",
+    "Evidence and inference — a genuinely big idea, learnable at three.",
+    "Delayed payoff is a muscle, and this is a gentle way to work it.",
+    "Pretending to sleep is real self-regulation practice.",
+    "Shadows are confusing at three, and the confusion is worth exploring."
+  ],
+  "day_specs": [
+    {
+      "day": 29,
+      "weekday": "Friday",
+      "month": "January",
+      "date_num": 29,
+      "header_date": "**📅 Friday, January 29, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 30,
+      "weekday": "Saturday",
+      "month": "January",
+      "date_num": 30,
+      "header_date": "**📅 Saturday, January 30, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Botanical garden",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 31,
+      "weekday": "Sunday",
+      "month": "January",
+      "date_num": 31,
+      "header_date": "**📅 Sunday, January 31, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 32,
+      "weekday": "Monday",
+      "month": "February",
+      "date_num": 1,
+      "header_date": "**📅 Monday, February 1, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Playground (the big slide one)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 33,
+      "weekday": "Tuesday",
+      "month": "February",
+      "date_num": 2,
+      "header_date": "**📅 Tuesday, February 2, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Swimming",
+      "holiday": "Groundhog Day",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 34,
+      "weekday": "Wednesday",
+      "month": "February",
+      "date_num": 3,
+      "header_date": "**📅 Wednesday, February 3, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 35,
+      "weekday": "Thursday",
+      "month": "February",
+      "date_num": 4,
+      "header_date": "**📅 Thursday, February 4, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

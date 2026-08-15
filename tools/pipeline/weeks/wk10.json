@@ -1,0 +1,115 @@
+{
+  "week": 10,
+  "booklet": "March",
+  "file_prefix": "03-mar",
+  "days": [
+    64,
+    70
+  ],
+  "theme": "Circus Adventures 🎪",
+  "sidebar": "China: Acrobatics",
+  "sidebar_needs_writing": false,
+  "date_range": "March 5 – March 11, 2027",
+  "insight_headlines": [
+    "Interoception, the sense nobody lists.",
+    "Adjectives are the scaffolding for thinking.",
+    "Auditory discrimination is the reading skill nobody mentions.",
+    "Body awareness is a sense too.",
+    "Naming a feeling reduces its intensity, and the drop is measurable.",
+    "Teaching a child to notice her own body settling is a lifelong tool.",
+    "What a self-portrait tells you about her thinking."
+  ],
+  "day_specs": [
+    {
+      "day": 64,
+      "weekday": "Friday",
+      "month": "March",
+      "date_num": 5,
+      "header_date": "**📅 Friday, March 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 65,
+      "weekday": "Saturday",
+      "month": "March",
+      "date_num": 6,
+      "header_date": "**📅 Saturday, March 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 66,
+      "weekday": "Sunday",
+      "month": "March",
+      "date_num": 7,
+      "header_date": "**📅 Sunday, March 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 67,
+      "weekday": "Monday",
+      "month": "March",
+      "date_num": 8,
+      "header_date": "**📅 Monday, March 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Neighbourhood park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 68,
+      "weekday": "Tuesday",
+      "month": "March",
+      "date_num": 9,
+      "header_date": "**📅 Tuesday, March 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 69,
+      "weekday": "Wednesday",
+      "month": "March",
+      "date_num": 10,
+      "header_date": "**📅 Wednesday, March 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Soft play",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 70,
+      "weekday": "Thursday",
+      "month": "March",
+      "date_num": 11,
+      "header_date": "**📅 Thursday, March 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Hardware shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

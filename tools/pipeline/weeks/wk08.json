@@ -1,0 +1,115 @@
+{
+  "week": 8,
+  "booklet": "February",
+  "file_prefix": "02-feb",
+  "days": [
+    50,
+    56
+  ],
+  "theme": "Art Masters Studio 🎨",
+  "sidebar": "Mexico: *Alebrijes*",
+  "sidebar_needs_writing": false,
+  "date_range": "February 19 – February 25, 2027",
+  "insight_headlines": [
+    "Discovery beats demonstration.",
+    "Posting things through slots is a real developmental stage.",
+    "Love is a word she's still working out the size of.",
+    "\"A long time ago\" is as much history as she can hold.",
+    "Threading is fine motor work that pays off at six.",
+    "Children need to see the effect of their kindness.",
+    "Anticipating someone else's future feeling is a big cognitive leap."
+  ],
+  "day_specs": [
+    {
+      "day": 50,
+      "weekday": "Friday",
+      "month": "February",
+      "date_num": 19,
+      "header_date": "**📅 Friday, February 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 51,
+      "weekday": "Saturday",
+      "month": "February",
+      "date_num": 20,
+      "header_date": "**📅 Saturday, February 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Pet shop + garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 52,
+      "weekday": "Sunday",
+      "month": "February",
+      "date_num": 21,
+      "header_date": "**📅 Sunday, February 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 53,
+      "weekday": "Monday",
+      "month": "February",
+      "date_num": 22,
+      "header_date": "**📅 Monday, February 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Hill walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 54,
+      "weekday": "Tuesday",
+      "month": "February",
+      "date_num": 23,
+      "header_date": "**📅 Tuesday, February 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 55,
+      "weekday": "Wednesday",
+      "month": "February",
+      "date_num": 24,
+      "header_date": "**📅 Wednesday, February 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Soft play (quiet session)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 56,
+      "weekday": "Thursday",
+      "month": "February",
+      "date_num": 25,
+      "header_date": "**📅 Thursday, February 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Pharmacy + park bench",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

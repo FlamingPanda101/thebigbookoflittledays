@@ -1,0 +1,115 @@
+{
+  "week": 21,
+  "booklet": "May",
+  "file_prefix": "05-may",
+  "days": [
+    141,
+    147
+  ],
+  "theme": "Superheroes & Helpers 🦸",
+  "sidebar": "West Africa & the Caribbean: Anansi",
+  "sidebar_needs_writing": false,
+  "date_range": "May 21 – May 27, 2027",
+  "insight_headlines": [
+    "Preservation is a surprisingly big idea.",
+    "Combining two past activities is a real cognitive step.",
+    "Marking the end of something matters.",
+    "Being uncomfortable on purpose is a useful experience.",
+    "Understanding a frightening thing shrinks it.",
+    "Sick days shrink a child's world, and that's part of what's hard.",
+    "Recovery boredom is the right time for collections."
+  ],
+  "day_specs": [
+    {
+      "day": 141,
+      "weekday": "Friday",
+      "month": "May",
+      "date_num": 21,
+      "header_date": "**📅 Friday, May 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 142,
+      "weekday": "Saturday",
+      "month": "May",
+      "date_num": 22,
+      "header_date": "**📅 Saturday, May 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Lakeshore",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 143,
+      "weekday": "Sunday",
+      "month": "May",
+      "date_num": 23,
+      "header_date": "**📅 Sunday, May 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 144,
+      "weekday": "Monday",
+      "month": "May",
+      "date_num": 24,
+      "header_date": "**📅 Monday, May 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Playground (the big slide one)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 145,
+      "weekday": "Tuesday",
+      "month": "May",
+      "date_num": 25,
+      "header_date": "**📅 Tuesday, May 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 146,
+      "weekday": "Wednesday",
+      "month": "May",
+      "date_num": 26,
+      "header_date": "**📅 Wednesday, May 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 147,
+      "weekday": "Thursday",
+      "month": "May",
+      "date_num": 27,
+      "header_date": "**📅 Thursday, May 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

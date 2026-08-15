@@ -1,0 +1,115 @@
+{
+  "week": 24,
+  "booklet": "June",
+  "file_prefix": "06-jun",
+  "days": [
+    162,
+    168
+  ],
+  "theme": "Water Safety & Swimming Fun 🏊",
+  "sidebar": "The Netherlands: The Swimming Diploma",
+  "sidebar_needs_writing": false,
+  "date_range": "June 11 – June 17, 2027",
+  "insight_headlines": [
+    "Stillness has to be taught, and one minute is the right dose.",
+    "Invented powers tell you what she values.",
+    "Bridging imaginary heroes to real ones is worth doing deliberately.",
+    "Pretend urgency produces real problem-solving.",
+    "Moral reasoning develops faster through discussion than through rules.",
+    "Making rules is a different skill from following them.",
+    "Competence is the most reliable source of confidence."
+  ],
+  "day_specs": [
+    {
+      "day": 162,
+      "weekday": "Friday",
+      "month": "June",
+      "date_num": 11,
+      "header_date": "**📅 Friday, June 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 163,
+      "weekday": "Saturday",
+      "month": "June",
+      "date_num": 12,
+      "header_date": "**📅 Saturday, June 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Farm",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 164,
+      "weekday": "Sunday",
+      "month": "June",
+      "date_num": 13,
+      "header_date": "**📅 Sunday, June 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Sunset walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 165,
+      "weekday": "Monday",
+      "month": "June",
+      "date_num": 14,
+      "header_date": "**📅 Monday, June 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Hill walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 166,
+      "weekday": "Tuesday",
+      "month": "June",
+      "date_num": 15,
+      "header_date": "**📅 Tuesday, June 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 167,
+      "weekday": "Wednesday",
+      "month": "June",
+      "date_num": 16,
+      "header_date": "**📅 Wednesday, June 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Soft play (quiet session)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 168,
+      "weekday": "Thursday",
+      "month": "June",
+      "date_num": 17,
+      "header_date": "**📅 Thursday, June 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Pharmacy + park bench",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

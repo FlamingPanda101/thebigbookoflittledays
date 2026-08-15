@@ -1,0 +1,115 @@
+{
+  "week": 20,
+  "booklet": "May",
+  "file_prefix": "05-may",
+  "days": [
+    134,
+    140
+  ],
+  "theme": "Backyard Science Lab 🔬",
+  "sidebar": "China: The First Kites",
+  "sidebar_needs_writing": false,
+  "date_range": "May 14 – May 20, 2027",
+  "insight_headlines": [
+    "Making the thing you use every day is a genuine revelation.",
+    "Solar energy, demonstrated without a word of explanation.",
+    "Repair teaches something disposal can't.",
+    "Careful observation is a skill, and it's mostly about slowing down.",
+    "Symmetry is one of the first patterns children can produce as well as notice.",
+    "Cycles are harder than sequences.",
+    "Acting out a process beats being told it."
+  ],
+  "day_specs": [
+    {
+      "day": 134,
+      "weekday": "Friday",
+      "month": "May",
+      "date_num": 14,
+      "header_date": "**📅 Friday, May 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 135,
+      "weekday": "Saturday",
+      "month": "May",
+      "date_num": 15,
+      "header_date": "**📅 Saturday, May 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Fire station / tractor spotting",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 136,
+      "weekday": "Sunday",
+      "month": "May",
+      "date_num": 16,
+      "header_date": "**📅 Sunday, May 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 137,
+      "weekday": "Monday",
+      "month": "May",
+      "date_num": 17,
+      "header_date": "**📅 Monday, May 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Green space + ball",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 138,
+      "weekday": "Tuesday",
+      "month": "May",
+      "date_num": 18,
+      "header_date": "**📅 Tuesday, May 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 139,
+      "weekday": "Wednesday",
+      "month": "May",
+      "date_num": 19,
+      "header_date": "**📅 Wednesday, May 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Indoor play centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 140,
+      "weekday": "Thursday",
+      "month": "May",
+      "date_num": 20,
+      "header_date": "**📅 Thursday, May 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Post office + errand",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

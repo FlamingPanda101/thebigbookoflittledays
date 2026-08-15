@@ -1,0 +1,115 @@
+{
+  "week": 7,
+  "booklet": "February",
+  "file_prefix": "02-feb",
+  "days": [
+    43,
+    49
+  ],
+  "theme": "Love & Friendship 💌",
+  "sidebar": "Wales: Love Spoons",
+  "sidebar_needs_writing": false,
+  "date_range": "February 12 – February 18, 2027",
+  "insight_headlines": [
+    "Waiting for dough to rise is a better lesson than the bread.",
+    "Celebrating other people's holidays does something specific.",
+    "Ugly is fine. Ugly is better.",
+    "Persistence is built by seeing the finish line.",
+    "Handling food is how picky eating loosens.",
+    "Pretend play is where numbers stop being recitation.",
+    "Naming the recipient at the start changes the whole activity."
+  ],
+  "day_specs": [
+    {
+      "day": 43,
+      "weekday": "Friday",
+      "month": "February",
+      "date_num": 12,
+      "header_date": "**📅 Friday, February 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 44,
+      "weekday": "Saturday",
+      "month": "February",
+      "date_num": 13,
+      "header_date": "**📅 Saturday, February 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Train ride",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 45,
+      "weekday": "Sunday",
+      "month": "February",
+      "date_num": 14,
+      "header_date": "**📅 Sunday, February 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Long walk with the pram",
+      "holiday": "💗 Valentine's Day",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 46,
+      "weekday": "Monday",
+      "month": "February",
+      "date_num": 15,
+      "header_date": "**📅 Monday, February 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Duck pond",
+      "holiday": "Presidents' Day",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 47,
+      "weekday": "Tuesday",
+      "month": "February",
+      "date_num": 16,
+      "header_date": "**📅 Tuesday, February 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 48,
+      "weekday": "Wednesday",
+      "month": "February",
+      "date_num": 17,
+      "header_date": "**📅 Wednesday, February 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 49,
+      "weekday": "Thursday",
+      "month": "February",
+      "date_num": 18,
+      "header_date": "**📅 Thursday, February 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Bakery run",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

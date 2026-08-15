@@ -1,0 +1,115 @@
+{
+  "week": 39,
+  "booklet": "September",
+  "file_prefix": "09-sep",
+  "days": [
+    267,
+    273
+  ],
+  "theme": "Letters & Sounds 🔤",
+  "sidebar": "Korea: *Hangul*",
+  "sidebar_needs_writing": false,
+  "date_range": "September 24 – September 30, 2027",
+  "insight_headlines": [
+    "Jumping with both feet is a genuine milestone and it comes later than most parents expect.",
+    "\"Different\" and \"wrong\" are separate ideas, and this week teaches the difference.",
+    "Aiming improves with quantity, not instruction.",
+    "Risk and reward is a new kind of decision.",
+    "A painted face changes behaviour as well as appearance.",
+    "Building it back up is the part that's doing the work.",
+    "Saving three of something is harder than it sounds."
+  ],
+  "day_specs": [
+    {
+      "day": 267,
+      "weekday": "Friday",
+      "month": "September",
+      "date_num": 24,
+      "header_date": "**📅 Friday, September 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 268,
+      "weekday": "Saturday",
+      "month": "September",
+      "date_num": 25,
+      "header_date": "**📅 Saturday, September 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Pet shop + garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 269,
+      "weekday": "Sunday",
+      "month": "September",
+      "date_num": 26,
+      "header_date": "**📅 Sunday, September 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 270,
+      "weekday": "Monday",
+      "month": "September",
+      "date_num": 27,
+      "header_date": "**📅 Monday, September 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Duck pond",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 271,
+      "weekday": "Tuesday",
+      "month": "September",
+      "date_num": 28,
+      "header_date": "**📅 Tuesday, September 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 272,
+      "weekday": "Wednesday",
+      "month": "September",
+      "date_num": 29,
+      "header_date": "**📅 Wednesday, September 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 273,
+      "weekday": "Thursday",
+      "month": "September",
+      "date_num": 30,
+      "header_date": "**📅 Thursday, September 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Bakery run",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

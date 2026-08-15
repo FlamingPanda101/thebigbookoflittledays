@@ -1,0 +1,115 @@
+{
+  "week": 34,
+  "booklet": "August",
+  "file_prefix": "08-aug",
+  "days": [
+    232,
+    238
+  ],
+  "theme": "Backyard Carnival 🎡",
+  "sidebar": "Festivals & Fairs Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "August 20 – August 26, 2027",
+  "insight_headlines": [
+    "Doubling is visible before it's calculable.",
+    "An AABB pattern is much harder than ABAB, and it's the right next step.",
+    "Making something to someone else's specification is a real cognitive step.",
+    "Serving other people is one of the fastest routes to competence.",
+    "Habitat is a more advanced idea than category.",
+    "Passive movement is a strange idea, and worth sitting with.",
+    "Noticing a mismatch is worth more than getting the answer."
+  ],
+  "day_specs": [
+    {
+      "day": 232,
+      "weekday": "Friday",
+      "month": "August",
+      "date_num": 20,
+      "header_date": "**📅 Friday, August 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 233,
+      "weekday": "Saturday",
+      "month": "August",
+      "date_num": 21,
+      "header_date": "**📅 Saturday, August 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Farm",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 234,
+      "weekday": "Sunday",
+      "month": "August",
+      "date_num": 22,
+      "header_date": "**📅 Sunday, August 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 235,
+      "weekday": "Monday",
+      "month": "August",
+      "date_num": 23,
+      "header_date": "**📅 Monday, August 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Neighbourhood park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 236,
+      "weekday": "Tuesday",
+      "month": "August",
+      "date_num": 24,
+      "header_date": "**📅 Tuesday, August 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 237,
+      "weekday": "Wednesday",
+      "month": "August",
+      "date_num": 25,
+      "header_date": "**📅 Wednesday, August 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Soft play",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 238,
+      "weekday": "Thursday",
+      "month": "August",
+      "date_num": 26,
+      "header_date": "**📅 Thursday, August 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Hardware shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

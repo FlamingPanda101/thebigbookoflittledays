@@ -1,0 +1,115 @@
+{
+  "week": 26,
+  "booklet": "June",
+  "file_prefix": "06-jun",
+  "days": [
+    176,
+    182
+  ],
+  "theme": "Red, White & Blue Countdown 🎇",
+  "sidebar": "Independence Days Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "June 25 – July 1, 2027",
+  "insight_headlines": [
+    "Processions and parades do something specific for children.",
+    "Children take their fear reading from your face first.",
+    "Heat, hunger, and tiredness account for most \"bad behavior.\"",
+    "Storytelling with prompts is easier than storytelling from nothing.",
+    "Continuity of ownership matters during illness.",
+    "Outdoor play is the highest-return activity available, and June is when it gets easy.",
+    "A sibling's birthday is hard, and preparation helps more than correction."
+  ],
+  "day_specs": [
+    {
+      "day": 176,
+      "weekday": "Friday",
+      "month": "June",
+      "date_num": 25,
+      "header_date": "**📅 Friday, June 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 177,
+      "weekday": "Saturday",
+      "month": "June",
+      "date_num": 26,
+      "header_date": "**📅 Saturday, June 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Botanical garden",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 178,
+      "weekday": "Sunday",
+      "month": "June",
+      "date_num": 27,
+      "header_date": "**📅 Sunday, June 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 179,
+      "weekday": "Monday",
+      "month": "June",
+      "date_num": 28,
+      "header_date": "**📅 Monday, June 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Neighbourhood park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 180,
+      "weekday": "Tuesday",
+      "month": "June",
+      "date_num": 29,
+      "header_date": "**📅 Tuesday, June 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 181,
+      "weekday": "Wednesday",
+      "month": "June",
+      "date_num": 30,
+      "header_date": "**📅 Wednesday, June 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Soft play",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 182,
+      "weekday": "Thursday",
+      "month": "July",
+      "date_num": 1,
+      "header_date": "**📅 Thursday, July 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Hardware shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

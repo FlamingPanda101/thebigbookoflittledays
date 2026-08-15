@@ -1,0 +1,115 @@
+{
+  "week": 48,
+  "booklet": "November",
+  "file_prefix": "11-nov",
+  "days": [
+    330,
+    336
+  ],
+  "theme": "Kitchen Helpers 👩‍🍳",
+  "sidebar": "Noodles, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "November 26 – December 2, 2027",
+  "insight_headlines": [
+    "Machines that make hard work easier are only obvious at this scale.",
+    "Laying the track is planning, and it's harder than driving on it.",
+    "Air is invisible, and she needs to feel it push before she'll believe in it.",
+    "Pumping a tyre is the first time she'll feel her own strength do something useful.",
+    "Finishing a week by using everything she made beats one more new thing.",
+    "The moon changing shape is the first thing she'll notice that she can't touch.",
+    "Distance is the part of space that nobody tells her about."
+  ],
+  "day_specs": [
+    {
+      "day": 330,
+      "weekday": "Friday",
+      "month": "November",
+      "date_num": 26,
+      "header_date": "**📅 Friday, November 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 331,
+      "weekday": "Saturday",
+      "month": "November",
+      "date_num": 27,
+      "header_date": "**📅 Saturday, November 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Train ride",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 332,
+      "weekday": "Sunday",
+      "month": "November",
+      "date_num": 28,
+      "header_date": "**📅 Sunday, November 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Sunset walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 333,
+      "weekday": "Monday",
+      "month": "November",
+      "date_num": 29,
+      "header_date": "**📅 Monday, November 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Hill walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 334,
+      "weekday": "Tuesday",
+      "month": "November",
+      "date_num": 30,
+      "header_date": "**📅 Tuesday, November 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 335,
+      "weekday": "Wednesday",
+      "month": "December",
+      "date_num": 1,
+      "header_date": "**📅 Wednesday, December 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Soft play (quiet session)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 336,
+      "weekday": "Thursday",
+      "month": "December",
+      "date_num": 2,
+      "header_date": "**📅 Thursday, December 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Pharmacy + park bench",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "week": 23,
+  "booklet": "June",
+  "file_prefix": "06-jun",
+  "days": [
+    155,
+    161
+  ],
+  "theme": "Colors of Summer ☀️",
+  "sidebar": "Colors Mean Different Things",
+  "sidebar_needs_writing": false,
+  "date_range": "June 4 – June 10, 2027",
+  "insight_headlines": [
+    "Appreciation is different from praise, and children need more of the first.",
+    "Things that break the rules are the best teachers.",
+    "Repeating an experiment is what makes it an experiment.",
+    "\"Why is it always round?\" is a question worth leaving open.",
+    "Same object, different result, and the variable is time.",
+    "Being wrong in public is a skill, and it's built cheaply here.",
+    "Invisible forces are a big conceptual step."
+  ],
+  "day_specs": [
+    {
+      "day": 155,
+      "weekday": "Friday",
+      "month": "June",
+      "date_num": 4,
+      "header_date": "**📅 Friday, June 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 156,
+      "weekday": "Saturday",
+      "month": "June",
+      "date_num": 5,
+      "header_date": "**📅 Saturday, June 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": "🎈 Kreston turns 1",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 157,
+      "weekday": "Sunday",
+      "month": "June",
+      "date_num": 6,
+      "header_date": "**📅 Sunday, June 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 158,
+      "weekday": "Monday",
+      "month": "June",
+      "date_num": 7,
+      "header_date": "**📅 Monday, June 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Duck pond",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 159,
+      "weekday": "Tuesday",
+      "month": "June",
+      "date_num": 8,
+      "header_date": "**📅 Tuesday, June 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 160,
+      "weekday": "Wednesday",
+      "month": "June",
+      "date_num": 9,
+      "header_date": "**📅 Wednesday, June 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 161,
+      "weekday": "Thursday",
+      "month": "June",
+      "date_num": 10,
+      "header_date": "**📅 Thursday, June 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Bakery run",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "week": 11,
+  "booklet": "March",
+  "file_prefix": "03-mar",
+  "days": [
+    71,
+    77
+  ],
+  "theme": "St. Patrick's Day & Springtime Beginnings 🍀",
+  "sidebar": "Ireland: Soda Bread",
+  "sidebar_needs_writing": false,
+  "date_range": "March 12 – March 18, 2027",
+  "insight_headlines": [
+    "Novelty is a genuine intervention, not a frivolity.",
+    "Collecting and categorizing peaks around now.",
+    "Sick days need less input, not more.",
+    "Play is how children process what's happened to them.",
+    "The best activity is the one you have energy for.",
+    "A play structure that stays up gets richer, not staler.",
+    "Catching is harder than it looks, and slower is the fix."
+  ],
+  "day_specs": [
+    {
+      "day": 71,
+      "weekday": "Friday",
+      "month": "March",
+      "date_num": 12,
+      "header_date": "**📅 Friday, March 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 72,
+      "weekday": "Saturday",
+      "month": "March",
+      "date_num": 13,
+      "header_date": "**📅 Saturday, March 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Lakeshore",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 73,
+      "weekday": "Sunday",
+      "month": "March",
+      "date_num": 14,
+      "header_date": "**📅 Sunday, March 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 74,
+      "weekday": "Monday",
+      "month": "March",
+      "date_num": 15,
+      "header_date": "**📅 Monday, March 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Woods loop",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 75,
+      "weekday": "Tuesday",
+      "month": "March",
+      "date_num": 16,
+      "header_date": "**📅 Tuesday, March 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 76,
+      "weekday": "Wednesday",
+      "month": "March",
+      "date_num": 17,
+      "header_date": "**📅 Wednesday, March 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Library",
+      "holiday": "☘️ St Patrick's Day",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 77,
+      "weekday": "Thursday",
+      "month": "March",
+      "date_num": 18,
+      "header_date": "**📅 Thursday, March 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Market",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

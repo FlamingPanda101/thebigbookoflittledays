@@ -1,0 +1,115 @@
+{
+  "week": 52,
+  "booklet": "December",
+  "file_prefix": "12-dec",
+  "days": [
+    358,
+    364
+  ],
+  "theme": "Reflection & Winter Holidays 🎄",
+  "sidebar": "NEEDS WRITING",
+  "sidebar_needs_writing": true,
+  "date_range": "December 24 – December 30, 2027",
+  "insight_headlines": [
+    "Illness is a good time to be the one with the ideas rather than the hands.",
+    "A job with a visible end is what a recovering child wants.",
+    "Dark afternoons change the shape of the day, and the plan has to change with them.",
+    "Grinding grain by hand is how she finds out that food used to be work.",
+    "Making a material from scratch is rarer than making a thing.",
+    "Naming the parts of something ordinary makes it interesting again.",
+    "Waiting for cream to turn into butter is a bet she'll want to see through."
+  ],
+  "day_specs": [
+    {
+      "day": 358,
+      "weekday": "Friday",
+      "month": "December",
+      "date_num": 24,
+      "header_date": "**📅 Friday, December 24, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": "🕎 Hanukkah begins at sundown",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 359,
+      "weekday": "Saturday",
+      "month": "December",
+      "date_num": 25,
+      "header_date": "**📅 Saturday, December 25, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Lakeshore",
+      "holiday": "🎄 Christmas",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 360,
+      "weekday": "Sunday",
+      "month": "December",
+      "date_num": 26,
+      "header_date": "**📅 Sunday, December 26, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 361,
+      "weekday": "Monday",
+      "month": "December",
+      "date_num": 27,
+      "header_date": "**📅 Monday, December 27, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Green space + ball",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 362,
+      "weekday": "Tuesday",
+      "month": "December",
+      "date_num": 28,
+      "header_date": "**📅 Tuesday, December 28, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 363,
+      "weekday": "Wednesday",
+      "month": "December",
+      "date_num": 29,
+      "header_date": "**📅 Wednesday, December 29, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Indoor play centre",
+      "holiday": "🎈 Brooklyn's birthday, she gets the day off",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 364,
+      "weekday": "Thursday",
+      "month": "December",
+      "date_num": 30,
+      "header_date": "**📅 Thursday, December 30, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Post office + errand",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

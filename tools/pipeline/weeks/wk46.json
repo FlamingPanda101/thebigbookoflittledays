@@ -1,0 +1,115 @@
+{
+  "week": 46,
+  "booklet": "November",
+  "file_prefix": "11-nov",
+  "days": [
+    316,
+    322
+  ],
+  "theme": "Weather & Rainbows 🌦️",
+  "sidebar": "Rain, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "November 12 – November 18, 2027",
+  "insight_headlines": [
+    "Testing the same thing twenty times is what a three-year-old means by an experiment.",
+    "Autumn is the first season she can watch changing week by week.",
+    "Recording her and playing it back is a rare chance for her to hear herself.",
+    "Being ill is her first experience of her body not obeying her.",
+    "September restarts everything, including her, and the first few weeks of that are hard.",
+    "A number line she walks on is a different thing from a number line she looks at.",
+    "Estimating first is what makes the counting mean something."
+  ],
+  "day_specs": [
+    {
+      "day": 316,
+      "weekday": "Friday",
+      "month": "November",
+      "date_num": 12,
+      "header_date": "**📅 Friday, November 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 317,
+      "weekday": "Saturday",
+      "month": "November",
+      "date_num": 13,
+      "header_date": "**📅 Saturday, November 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Aquarium",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 318,
+      "weekday": "Sunday",
+      "month": "November",
+      "date_num": 14,
+      "header_date": "**📅 Sunday, November 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 319,
+      "weekday": "Monday",
+      "month": "November",
+      "date_num": 15,
+      "header_date": "**📅 Monday, November 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Field walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 320,
+      "weekday": "Tuesday",
+      "month": "November",
+      "date_num": 16,
+      "header_date": "**📅 Tuesday, November 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 321,
+      "weekday": "Wednesday",
+      "month": "November",
+      "date_num": 17,
+      "header_date": "**📅 Wednesday, November 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Church hall playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 322,
+      "weekday": "Thursday",
+      "month": "November",
+      "date_num": 18,
+      "header_date": "**📅 Thursday, November 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Charity shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

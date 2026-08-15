@@ -1,0 +1,115 @@
+{
+  "week": 32,
+  "booklet": "August",
+  "file_prefix": "08-aug",
+  "days": [
+    218,
+    224
+  ],
+  "theme": "Sports & Team Play ⚽",
+  "sidebar": "The World's Game",
+  "sidebar_needs_writing": false,
+  "date_range": "August 6 – August 12, 2027",
+  "insight_headlines": [
+    "Sorting by an invisible property is a step up.",
+    "Oil and water is the same lesson as the wax crayon and the sticker resist.",
+    "Freezing on cue is one of the best self-control exercises there is.",
+    "Choosing what to leave out is harder than choosing what to include.",
+    "Sand is one of the best materials there is, and it's the resistance that makes it good.",
+    "\"Too much\" and \"not enough\" is a real concept, and it's rarely taught.",
+    "Asking for her rule is better than checking her answer."
+  ],
+  "day_specs": [
+    {
+      "day": 218,
+      "weekday": "Friday",
+      "month": "August",
+      "date_num": 6,
+      "header_date": "**📅 Friday, August 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 219,
+      "weekday": "Saturday",
+      "month": "August",
+      "date_num": 7,
+      "header_date": "**📅 Saturday, August 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 220,
+      "weekday": "Sunday",
+      "month": "August",
+      "date_num": 8,
+      "header_date": "**📅 Sunday, August 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 221,
+      "weekday": "Monday",
+      "month": "August",
+      "date_num": 9,
+      "header_date": "**📅 Monday, August 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Hill walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 222,
+      "weekday": "Tuesday",
+      "month": "August",
+      "date_num": 10,
+      "header_date": "**📅 Tuesday, August 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 223,
+      "weekday": "Wednesday",
+      "month": "August",
+      "date_num": 11,
+      "header_date": "**📅 Wednesday, August 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Soft play (quiet session)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 224,
+      "weekday": "Thursday",
+      "month": "August",
+      "date_num": 12,
+      "header_date": "**📅 Thursday, August 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Pharmacy + park bench",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

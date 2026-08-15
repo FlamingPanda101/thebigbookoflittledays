@@ -1,0 +1,115 @@
+{
+  "week": 22,
+  "booklet": "May",
+  "file_prefix": "05-may",
+  "days": [
+    148,
+    154
+  ],
+  "theme": "Memorial Day & Community Heroes 🎖️",
+  "sidebar": "Remembering, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "May 28 – June 3, 2027",
+  "insight_headlines": [
+    "Outdoor time is doing more than you can see.",
+    "Family structure is confusing at three, and worth being explicit about.",
+    "Secrets are cognitively demanding, and she will probably fail.",
+    "Children can't yet imagine their parents as separate people.",
+    "Acts of service are the hardest gift for a young child to conceive of.",
+    "Video calls are hard for young children, and that's not rudeness.",
+    "Children don't have autobiographical memory the way we assume."
+  ],
+  "day_specs": [
+    {
+      "day": 148,
+      "weekday": "Friday",
+      "month": "May",
+      "date_num": 28,
+      "header_date": "**📅 Friday, May 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 149,
+      "weekday": "Saturday",
+      "month": "May",
+      "date_num": 29,
+      "header_date": "**📅 Saturday, May 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Bus ride (nowhere in particular)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 150,
+      "weekday": "Sunday",
+      "month": "May",
+      "date_num": 30,
+      "header_date": "**📅 Sunday, May 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 151,
+      "weekday": "Monday",
+      "month": "May",
+      "date_num": 31,
+      "header_date": "**📅 Monday, May 31, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Field walk",
+      "holiday": "Memorial Day",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 152,
+      "weekday": "Tuesday",
+      "month": "June",
+      "date_num": 1,
+      "header_date": "**📅 Tuesday, June 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 153,
+      "weekday": "Wednesday",
+      "month": "June",
+      "date_num": 2,
+      "header_date": "**📅 Wednesday, June 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Church hall playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 154,
+      "weekday": "Thursday",
+      "month": "June",
+      "date_num": 3,
+      "header_date": "**📅 Thursday, June 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Charity shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

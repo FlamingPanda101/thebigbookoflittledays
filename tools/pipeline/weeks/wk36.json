@@ -1,0 +1,115 @@
+{
+  "week": 36,
+  "booklet": "September",
+  "file_prefix": "09-sep",
+  "days": [
+    246,
+    252
+  ],
+  "theme": "Community Helpers 🚚",
+  "sidebar": "Feeding the Workers Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "September 3 – September 9, 2027",
+  "insight_headlines": [
+    "Carrying her own pack changes the walk.",
+    "A map is a shift from being *in* a space to seeing it from above.",
+    "Breaking the routine deliberately makes a memory.",
+    "Endings need marking, and packing up does it.",
+    "In serious heat, the physical problem comes before the behavior problem.",
+    "Cozy is a real regulatory state rather than a mood.",
+    "Being ill in summer is worse psychologically, and that's worth acknowledging."
+  ],
+  "day_specs": [
+    {
+      "day": 246,
+      "weekday": "Friday",
+      "month": "September",
+      "date_num": 3,
+      "header_date": "**📅 Friday, September 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 247,
+      "weekday": "Saturday",
+      "month": "September",
+      "date_num": 4,
+      "header_date": "**📅 Saturday, September 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 248,
+      "weekday": "Sunday",
+      "month": "September",
+      "date_num": 5,
+      "header_date": "**📅 Sunday, September 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Sunset walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 249,
+      "weekday": "Monday",
+      "month": "September",
+      "date_num": 6,
+      "header_date": "**📅 Monday, September 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Green space + ball",
+      "holiday": "Labor Day",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 250,
+      "weekday": "Tuesday",
+      "month": "September",
+      "date_num": 7,
+      "header_date": "**📅 Tuesday, September 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 251,
+      "weekday": "Wednesday",
+      "month": "September",
+      "date_num": 8,
+      "header_date": "**📅 Wednesday, September 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Indoor play centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 252,
+      "weekday": "Thursday",
+      "month": "September",
+      "date_num": 9,
+      "header_date": "**📅 Thursday, September 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Post office + errand",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

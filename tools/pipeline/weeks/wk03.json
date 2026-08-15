@@ -1,0 +1,106 @@
+{
+  "week": 3,
+  "booklet": "January",
+  "days": [
+    15,
+    21
+  ],
+  "theme": "Kindness & Community 💛",
+  "sidebar": "Southern Africa: *Ubuntu*",
+  "date_range": "January 15 – January 21, 2027",
+  "insight_headlines": [
+    "Verses she invents are worth more than verses she repeats.",
+    "Performing for one person is enough.",
+    "Kindness has to be visible before it can be learned.",
+    "The age where they want to help is right now, and it's brief.",
+    "Giving feels good only when the child does the giving.",
+    "Children notice difference early, and silence teaches something.",
+    "Gratitude is a skill, and it starts with noticing."
+  ],
+  "day_specs": [
+    {
+      "day": 15,
+      "weekday": "Friday",
+      "month": "January",
+      "date_num": 15,
+      "header_date": "**📅 Friday, January 15, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 16,
+      "weekday": "Saturday",
+      "month": "January",
+      "date_num": 16,
+      "header_date": "**📅 Saturday, January 16, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Farm",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 17,
+      "weekday": "Sunday",
+      "month": "January",
+      "date_num": 17,
+      "header_date": "**📅 Sunday, January 17, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 18,
+      "weekday": "Monday",
+      "month": "January",
+      "date_num": 18,
+      "header_date": "**📅 Monday, January 18, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Woods loop",
+      "holiday": "Martin Luther King Jr. Day",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 19,
+      "weekday": "Tuesday",
+      "month": "January",
+      "date_num": 19,
+      "header_date": "**📅 Tuesday, January 19, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 20,
+      "weekday": "Wednesday",
+      "month": "January",
+      "date_num": 20,
+      "header_date": "**📅 Wednesday, January 20, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 21,
+      "weekday": "Thursday",
+      "month": "January",
+      "date_num": 21,
+      "header_date": "**📅 Thursday, January 21, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Market",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

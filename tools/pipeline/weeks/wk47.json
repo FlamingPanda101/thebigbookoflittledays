@@ -1,0 +1,115 @@
+{
+  "week": 47,
+  "booklet": "November",
+  "file_prefix": "11-nov",
+  "days": [
+    323,
+    329
+  ],
+  "theme": "Seasons & Nature Cycles 🍂",
+  "sidebar": "Harvest, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "November 19 – November 25, 2027",
+  "insight_headlines": [
+    "Touching each thing as she counts is what stops her double-counting.",
+    "Recognising three without counting has a name, and it arrives before counting does.",
+    "A unit only works if it stays the same size, and that's the hard part.",
+    "Counting down is much harder than counting up.",
+    "Giving a number a personality is what makes it stick.",
+    "Steeper is a variable she can control, and that's rare.",
+    "Driving somewhere imaginary requires her to hold a destination in mind."
+  ],
+  "day_specs": [
+    {
+      "day": 323,
+      "weekday": "Friday",
+      "month": "November",
+      "date_num": 19,
+      "header_date": "**📅 Friday, November 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 324,
+      "weekday": "Saturday",
+      "month": "November",
+      "date_num": 20,
+      "header_date": "**📅 Saturday, November 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Botanical garden",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 325,
+      "weekday": "Sunday",
+      "month": "November",
+      "date_num": 21,
+      "header_date": "**📅 Sunday, November 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 326,
+      "weekday": "Monday",
+      "month": "November",
+      "date_num": 22,
+      "header_date": "**📅 Monday, November 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Duck pond",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 327,
+      "weekday": "Tuesday",
+      "month": "November",
+      "date_num": 23,
+      "header_date": "**📅 Tuesday, November 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 328,
+      "weekday": "Wednesday",
+      "month": "November",
+      "date_num": 24,
+      "header_date": "**📅 Wednesday, November 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 329,
+      "weekday": "Thursday",
+      "month": "November",
+      "date_num": 25,
+      "header_date": "**📅 Thursday, November 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Bakery run",
+      "holiday": "🦃 Thanksgiving",
+      "holiday_treatment": "FULL DAY"
+    }
+  ]
+}

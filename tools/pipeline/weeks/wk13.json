@@ -1,0 +1,115 @@
+{
+  "week": 13,
+  "booklet": "March",
+  "file_prefix": "03-mar",
+  "days": [
+    85,
+    91
+  ],
+  "theme": "Easter & April Fools' Fun 🐰",
+  "sidebar": "Easter Eggs Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "March 26 – April 1, 2027",
+  "insight_headlines": [
+    "Sensory bins buy focus, and novelty is not the reason.",
+    "Magical thinking peaks right about now, and it's healthy.",
+    "Chemical reactions she can see are the best first science.",
+    "Anticipation is a bigger pleasure than the payoff.",
+    "Prediction is the beginning of scientific thinking.",
+    "Category words are a bigger deal than they look.",
+    "Lining things up is a developmental stage, not a red flag."
+  ],
+  "day_specs": [
+    {
+      "day": 85,
+      "weekday": "Friday",
+      "month": "March",
+      "date_num": 26,
+      "header_date": "**📅 Friday, March 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Playgroup",
+      "holiday": "Good Friday",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 86,
+      "weekday": "Saturday",
+      "month": "March",
+      "date_num": 27,
+      "header_date": "**📅 Saturday, March 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Farm",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 87,
+      "weekday": "Sunday",
+      "month": "March",
+      "date_num": 28,
+      "header_date": "**📅 Sunday, March 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Long walk with the pram",
+      "holiday": "🐣 Easter Sunday",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 88,
+      "weekday": "Monday",
+      "month": "March",
+      "date_num": 29,
+      "header_date": "**📅 Monday, March 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Playground (the big slide one)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 89,
+      "weekday": "Tuesday",
+      "month": "March",
+      "date_num": 30,
+      "header_date": "**📅 Tuesday, March 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 90,
+      "weekday": "Wednesday",
+      "month": "March",
+      "date_num": 31,
+      "header_date": "**📅 Wednesday, March 31, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 91,
+      "weekday": "Thursday",
+      "month": "April",
+      "date_num": 1,
+      "header_date": "**📅 Thursday, April 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 9,
+      "kreston_capability": "Pulls to stand, pincer grip, waves",
+      "out_again_anchor": "Garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

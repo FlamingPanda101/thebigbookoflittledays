@@ -1,0 +1,115 @@
+{
+  "week": 44,
+  "booklet": "October",
+  "file_prefix": "10-oct",
+  "days": [
+    302,
+    308
+  ],
+  "theme": "Dinosaur Discovery 🦕",
+  "sidebar": "Dinosaurs Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "October 29 – November 4, 2027",
+  "insight_headlines": [
+    "Mixing colours is a lesson in irreversibility.",
+    "Making the edges teaches shapes faster than naming them.",
+    "Light changes what she thinks a colour is.",
+    "Naming a colour she invented does more than learning the standard eleven.",
+    "Fitting a shape into a hole is a test of mental rotation.",
+    "Matching a shade is much harder than matching a colour.",
+    "Finishing something that took all week is its own lesson."
+  ],
+  "day_specs": [
+    {
+      "day": 302,
+      "weekday": "Friday",
+      "month": "October",
+      "date_num": 29,
+      "header_date": "**📅 Friday, October 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": "🪔 Diwali",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 303,
+      "weekday": "Saturday",
+      "month": "October",
+      "date_num": 30,
+      "header_date": "**📅 Saturday, October 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Farm",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 304,
+      "weekday": "Sunday",
+      "month": "October",
+      "date_num": 31,
+      "header_date": "**📅 Sunday, October 31, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": "🎃 Halloween",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 305,
+      "weekday": "Monday",
+      "month": "November",
+      "date_num": 1,
+      "header_date": "**📅 Monday, November 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Green space + ball",
+      "holiday": "💀 Día de los Muertos",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 306,
+      "weekday": "Tuesday",
+      "month": "November",
+      "date_num": 2,
+      "header_date": "**📅 Tuesday, November 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 307,
+      "weekday": "Wednesday",
+      "month": "November",
+      "date_num": 3,
+      "header_date": "**📅 Wednesday, November 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Indoor play centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 308,
+      "weekday": "Thursday",
+      "month": "November",
+      "date_num": 4,
+      "header_date": "**📅 Thursday, November 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Post office + errand",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

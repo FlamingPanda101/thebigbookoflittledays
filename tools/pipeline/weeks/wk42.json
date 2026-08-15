@@ -1,0 +1,115 @@
+{
+  "week": 42,
+  "booklet": "October",
+  "file_prefix": "10-oct",
+  "days": [
+    288,
+    294
+  ],
+  "theme": "Space Explorers 🚀",
+  "sidebar": "The Pictures People See in the Sky",
+  "sidebar_needs_writing": false,
+  "date_range": "October 15 – October 21, 2027",
+  "insight_headlines": [
+    "A letter teaches her that writing is aimed at someone.",
+    "Borrowing and returning is her first experience of trusted ownership.",
+    "Money is a story about exchange long before it's arithmetic.",
+    "Your own day's work is more interesting to her than you think.",
+    "Children learn to care about a place by improving it.",
+    "Reading a recipe is her first experience of print that tells you what to do.",
+    "Handing something over in person is a separate skill from making it."
+  ],
+  "day_specs": [
+    {
+      "day": 288,
+      "weekday": "Friday",
+      "month": "October",
+      "date_num": 15,
+      "header_date": "**📅 Friday, October 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 289,
+      "weekday": "Saturday",
+      "month": "October",
+      "date_num": 16,
+      "header_date": "**📅 Saturday, October 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Lakeshore",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 290,
+      "weekday": "Sunday",
+      "month": "October",
+      "date_num": 17,
+      "header_date": "**📅 Sunday, October 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Sunset walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 291,
+      "weekday": "Monday",
+      "month": "October",
+      "date_num": 18,
+      "header_date": "**📅 Monday, October 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Neighbourhood park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 292,
+      "weekday": "Tuesday",
+      "month": "October",
+      "date_num": 19,
+      "header_date": "**📅 Tuesday, October 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 293,
+      "weekday": "Wednesday",
+      "month": "October",
+      "date_num": 20,
+      "header_date": "**📅 Wednesday, October 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Soft play",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 294,
+      "weekday": "Thursday",
+      "month": "October",
+      "date_num": 21,
+      "header_date": "**📅 Thursday, October 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Hardware shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

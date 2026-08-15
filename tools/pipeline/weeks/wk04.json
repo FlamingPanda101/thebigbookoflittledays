@@ -1,0 +1,106 @@
+{
+  "week": 4,
+  "booklet": "January",
+  "days": [
+    22,
+    28
+  ],
+  "theme": "Puzzles & Problem Solving 🧩",
+  "sidebar": "China: The Tangram",
+  "date_range": "January 22 – January 28, 2027",
+  "insight_headlines": [
+    "Sharing and turn-taking are different skills, and one is much easier.",
+    "Being told what someone loves about you is different from being praised.",
+    "Puzzles build a skill that has nothing to do with puzzles.",
+    "Working memory is the thing she's actually building.",
+    "Classification is quiet, invisible math.",
+    "Describing before guessing is the whole skill.",
+    "Dead ends are the point of a maze."
+  ],
+  "day_specs": [
+    {
+      "day": 22,
+      "weekday": "Friday",
+      "month": "January",
+      "date_num": 22,
+      "header_date": "**📅 Friday, January 22, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 23,
+      "weekday": "Saturday",
+      "month": "January",
+      "date_num": 23,
+      "header_date": "**📅 Saturday, January 23, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Aquarium",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 24,
+      "weekday": "Sunday",
+      "month": "January",
+      "date_num": 24,
+      "header_date": "**📅 Sunday, January 24, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 25,
+      "weekday": "Monday",
+      "month": "January",
+      "date_num": 25,
+      "header_date": "**📅 Monday, January 25, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Green space + ball",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 26,
+      "weekday": "Tuesday",
+      "month": "January",
+      "date_num": 26,
+      "header_date": "**📅 Tuesday, January 26, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 27,
+      "weekday": "Wednesday",
+      "month": "January",
+      "date_num": 27,
+      "header_date": "**📅 Wednesday, January 27, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Indoor play centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 28,
+      "weekday": "Thursday",
+      "month": "January",
+      "date_num": 28,
+      "header_date": "**📅 Thursday, January 28, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Post office + errand",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

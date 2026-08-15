@@ -1,0 +1,115 @@
+{
+  "week": 41,
+  "booklet": "October",
+  "file_prefix": "10-oct",
+  "days": [
+    281,
+    287
+  ],
+  "theme": "Things That Go 🚂",
+  "sidebar": "Vehicles Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "October 8 – October 14, 2027",
+  "insight_headlines": [
+    "Rehearsal teaches something a spontaneous performance can't.",
+    "A rehearsed thing needs a witness before it is finished.",
+    "Ice is one of the few materials that changes while she's using it.",
+    "Heavy pulling settles her faster than any conversation about the noise does.",
+    "A darkened room helps more than a quiet one.",
+    "Close looking is the one thing a tired child can still do.",
+    "Mid-autumn is a low-energy stretch, and lowering the bar is the right response."
+  ],
+  "day_specs": [
+    {
+      "day": 281,
+      "weekday": "Friday",
+      "month": "October",
+      "date_num": 8,
+      "header_date": "**📅 Friday, October 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 282,
+      "weekday": "Saturday",
+      "month": "October",
+      "date_num": 9,
+      "header_date": "**📅 Saturday, October 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Fire station / tractor spotting",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 283,
+      "weekday": "Sunday",
+      "month": "October",
+      "date_num": 10,
+      "header_date": "**📅 Sunday, October 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 284,
+      "weekday": "Monday",
+      "month": "October",
+      "date_num": 11,
+      "header_date": "**📅 Monday, October 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Riverside path",
+      "holiday": "Indigenous Peoples' Day",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 285,
+      "weekday": "Tuesday",
+      "month": "October",
+      "date_num": 12,
+      "header_date": "**📅 Tuesday, October 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 286,
+      "weekday": "Wednesday",
+      "month": "October",
+      "date_num": 13,
+      "header_date": "**📅 Wednesday, October 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 287,
+      "weekday": "Thursday",
+      "month": "October",
+      "date_num": 14,
+      "header_date": "**📅 Thursday, October 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Grocery shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

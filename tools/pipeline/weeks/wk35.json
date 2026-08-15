@@ -1,0 +1,115 @@
+{
+  "week": 35,
+  "booklet": "August",
+  "file_prefix": "08-aug",
+  "days": [
+    239,
+    245
+  ],
+  "theme": "Music & Movement 🎵",
+  "sidebar": "Rhythms of the World",
+  "sidebar_needs_writing": false,
+  "date_range": "August 27 – September 2, 2027",
+  "insight_headlines": [
+    "Numeral recognition is separate from counting.",
+    "Darkness is worth practicing when it isn't bedtime.",
+    "A large collaborative piece teaches something a small one can't.",
+    "Giving a tour is the best test of understanding there is.",
+    "Real tools and real jobs beat toy versions, every time.",
+    "Sitting in a circle changes how a group talks.",
+    "She's met shadows three times now, and each time added something."
+  ],
+  "day_specs": [
+    {
+      "day": 239,
+      "weekday": "Friday",
+      "month": "August",
+      "date_num": 27,
+      "header_date": "**📅 Friday, August 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 240,
+      "weekday": "Saturday",
+      "month": "August",
+      "date_num": 28,
+      "header_date": "**📅 Saturday, August 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Aquarium",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 241,
+      "weekday": "Sunday",
+      "month": "August",
+      "date_num": 29,
+      "header_date": "**📅 Sunday, August 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 242,
+      "weekday": "Monday",
+      "month": "August",
+      "date_num": 30,
+      "header_date": "**📅 Monday, August 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Woods loop",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 243,
+      "weekday": "Tuesday",
+      "month": "August",
+      "date_num": 31,
+      "header_date": "**📅 Tuesday, August 31, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 244,
+      "weekday": "Wednesday",
+      "month": "September",
+      "date_num": 1,
+      "header_date": "**📅 Wednesday, September 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 245,
+      "weekday": "Thursday",
+      "month": "September",
+      "date_num": 2,
+      "header_date": "**📅 Thursday, September 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Market",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

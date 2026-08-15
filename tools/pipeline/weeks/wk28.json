@@ -1,0 +1,115 @@
+{
+  "week": 28,
+  "booklet": "July",
+  "file_prefix": "07-jul",
+  "days": [
+    190,
+    196
+  ],
+  "theme": "Beach & Water Fun 🏖️",
+  "sidebar": "Australia: Swim Between the Flags",
+  "sidebar_needs_writing": false,
+  "date_range": "July 9 – July 15, 2027",
+  "insight_headlines": [
+    "Same material, different shape, opposite result.",
+    "Open-ended materials outperform toys, and cheap ones outperform expensive ones.",
+    "Slow exhalation is the body's own calming switch.",
+    "Give three tools and let her choose.",
+    "Visible results are what sustain a child's effort.",
+    "Competition at three works when everyone wins something real.",
+    "Historical injustice, explained plainly, does not damage a three-year-old."
+  ],
+  "day_specs": [
+    {
+      "day": 190,
+      "weekday": "Friday",
+      "month": "July",
+      "date_num": 9,
+      "header_date": "**📅 Friday, July 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 191,
+      "weekday": "Saturday",
+      "month": "July",
+      "date_num": 10,
+      "header_date": "**📅 Saturday, July 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Train ride",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 192,
+      "weekday": "Sunday",
+      "month": "July",
+      "date_num": 11,
+      "header_date": "**📅 Sunday, July 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "A playground you've never been to",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 193,
+      "weekday": "Monday",
+      "month": "July",
+      "date_num": 12,
+      "header_date": "**📅 Monday, July 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Green space + ball",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 194,
+      "weekday": "Tuesday",
+      "month": "July",
+      "date_num": 13,
+      "header_date": "**📅 Tuesday, July 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 195,
+      "weekday": "Wednesday",
+      "month": "July",
+      "date_num": 14,
+      "header_date": "**📅 Wednesday, July 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Indoor play centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 196,
+      "weekday": "Thursday",
+      "month": "July",
+      "date_num": 15,
+      "header_date": "**📅 Thursday, July 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Post office + errand",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

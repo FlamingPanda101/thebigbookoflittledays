@@ -1,0 +1,106 @@
+{
+  "week": 2,
+  "booklet": "January",
+  "days": [
+    8,
+    14
+  ],
+  "theme": "Nursery Rhymes & Rhythm 🎶",
+  "sidebar": "Lullabies Everywhere",
+  "date_range": "January 8 – January 14, 2027",
+  "insight_headlines": [
+    "Why she only has one volume, and it is loud.",
+    "Why the rhymes she loves are all a bit gruesome.",
+    "Why she wants the same rhyme forty times.",
+    "Rhythm and reading are more connected than they look.",
+    "Why a wind-down object works better than a wind-down instruction.",
+    "Counting words come long before counting means anything.",
+    "Why moving together matters more than moving."
+  ],
+  "day_specs": [
+    {
+      "day": 8,
+      "weekday": "Friday",
+      "month": "January",
+      "date_num": 8,
+      "header_date": "**📅 Friday, January 8, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 9,
+      "weekday": "Saturday",
+      "month": "January",
+      "date_num": 9,
+      "header_date": "**📅 Saturday, January 9, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Bus ride (nowhere in particular)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 10,
+      "weekday": "Sunday",
+      "month": "January",
+      "date_num": 10,
+      "header_date": "**📅 Sunday, January 10, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 11,
+      "weekday": "Monday",
+      "month": "January",
+      "date_num": 11,
+      "header_date": "**📅 Monday, January 11, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Neighbourhood park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 12,
+      "weekday": "Tuesday",
+      "month": "January",
+      "date_num": 12,
+      "header_date": "**📅 Tuesday, January 12, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 13,
+      "weekday": "Wednesday",
+      "month": "January",
+      "date_num": 13,
+      "header_date": "**📅 Wednesday, January 13, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Soft play",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 14,
+      "weekday": "Thursday",
+      "month": "January",
+      "date_num": 14,
+      "header_date": "**📅 Thursday, January 14, 2027**",
+      "kreston_months": 7,
+      "kreston_capability": "Reaches across midline, transfers hand to hand, babbles in strings",
+      "out_again_anchor": "Hardware shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "week": 51,
+  "booklet": "December",
+  "file_prefix": "12-dec",
+  "days": [
+    351,
+    357
+  ],
+  "theme": "Water & Weather Wonders 💧",
+  "sidebar": "Light in the Darkest Week",
+  "sidebar_needs_writing": false,
+  "date_range": "December 17 – December 23, 2027",
+  "insight_headlines": [
+    "Sorting the sweets is more interesting to her than eating them.",
+    "A photo on a table gives a dead person a place, and that helps her more than an explanation.",
+    "Big numbers mean nothing until she's walked them.",
+    "Teeth are evidence, and reading evidence is the whole of palaeontology.",
+    "Extinct is a hard word, and it's easier than she'd find \"dead\".",
+    "Scorekeeping turns a chaotic game into a calm one.",
+    "The clocks changing costs her more than it costs you."
+  ],
+  "day_specs": [
+    {
+      "day": 351,
+      "weekday": "Friday",
+      "month": "December",
+      "date_num": 17,
+      "header_date": "**📅 Friday, December 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Friend's house",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 352,
+      "weekday": "Saturday",
+      "month": "December",
+      "date_num": 18,
+      "header_date": "**📅 Saturday, December 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Fire station / tractor spotting",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 353,
+      "weekday": "Sunday",
+      "month": "December",
+      "date_num": 19,
+      "header_date": "**📅 Sunday, December 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 354,
+      "weekday": "Monday",
+      "month": "December",
+      "date_num": 20,
+      "header_date": "**📅 Monday, December 20, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Woods loop",
+      "holiday": "🎈 Azlyn turns 4",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 355,
+      "weekday": "Tuesday",
+      "month": "December",
+      "date_num": 21,
+      "header_date": "**📅 Tuesday, December 21, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": "Winter solstice",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 356,
+      "weekday": "Wednesday",
+      "month": "December",
+      "date_num": 22,
+      "header_date": "**📅 Wednesday, December 22, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 357,
+      "weekday": "Thursday",
+      "month": "December",
+      "date_num": 23,
+      "header_date": "**📅 Thursday, December 23, 2027**",
+      "azlyn_age": 4,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Market",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

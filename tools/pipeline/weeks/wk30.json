@@ -1,0 +1,115 @@
+{
+  "week": 30,
+  "booklet": "July",
+  "file_prefix": "07-jul",
+  "days": [
+    204,
+    210
+  ],
+  "theme": "Under the Sea 🌊",
+  "sidebar": "Pacific Wayfinding",
+  "sidebar_needs_writing": false,
+  "date_range": "July 23 – July 29, 2027",
+  "insight_headlines": [
+    "Three techniques for one outcome teaches technique as a concept.",
+    "Measuring by comparison comes before measuring by number.",
+    "Recognizing the same principle in new clothes is real understanding.",
+    "Big arm movements are still building the hand that will write.",
+    "Repeating an activity across the year makes growth visible.",
+    "The halfway point is worth marking for you as much as for her.",
+    "Heat makes children behave badly, and it isn't a discipline problem."
+  ],
+  "day_specs": [
+    {
+      "day": 204,
+      "weekday": "Friday",
+      "month": "July",
+      "date_num": 23,
+      "header_date": "**📅 Friday, July 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 205,
+      "weekday": "Saturday",
+      "month": "July",
+      "date_num": 24,
+      "header_date": "**📅 Saturday, July 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Fire station / tractor spotting",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 206,
+      "weekday": "Sunday",
+      "month": "July",
+      "date_num": 25,
+      "header_date": "**📅 Sunday, July 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Sunset walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 207,
+      "weekday": "Monday",
+      "month": "July",
+      "date_num": 26,
+      "header_date": "**📅 Monday, July 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Field walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 208,
+      "weekday": "Tuesday",
+      "month": "July",
+      "date_num": 27,
+      "header_date": "**📅 Tuesday, July 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 209,
+      "weekday": "Wednesday",
+      "month": "July",
+      "date_num": 28,
+      "header_date": "**📅 Wednesday, July 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Church hall playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 210,
+      "weekday": "Thursday",
+      "month": "July",
+      "date_num": 29,
+      "header_date": "**📅 Thursday, July 29, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Charity shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

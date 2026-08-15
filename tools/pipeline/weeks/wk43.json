@@ -1,0 +1,115 @@
+{
+  "week": 43,
+  "booklet": "October",
+  "file_prefix": "10-oct",
+  "days": [
+    295,
+    301
+  ],
+  "theme": "Insects & Minibeasts 🐛",
+  "sidebar": "Eating Insects, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "October 22 – October 28, 2027",
+  "insight_headlines": [
+    "A field journal changes how she looks as well as what she records.",
+    "A boundary makes a familiar place interesting again.",
+    "Excavation teaches her that finding is a process, not a moment.",
+    "Children need to see the adults in their life get celebrated too.",
+    "Direction words are harder than position words and they arrive later.",
+    "Deciding what's worth keeping is harder than collecting it.",
+    "A trip she packed for herself gets remembered differently."
+  ],
+  "day_specs": [
+    {
+      "day": 295,
+      "weekday": "Friday",
+      "month": "October",
+      "date_num": 22,
+      "header_date": "**📅 Friday, October 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 296,
+      "weekday": "Saturday",
+      "month": "October",
+      "date_num": 23,
+      "header_date": "**📅 Saturday, October 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Bus ride (nowhere in particular)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 297,
+      "weekday": "Sunday",
+      "month": "October",
+      "date_num": 24,
+      "header_date": "**📅 Sunday, October 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Long walk with the pram",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 298,
+      "weekday": "Monday",
+      "month": "October",
+      "date_num": 25,
+      "header_date": "**📅 Monday, October 25, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Woods loop",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 299,
+      "weekday": "Tuesday",
+      "month": "October",
+      "date_num": 26,
+      "header_date": "**📅 Tuesday, October 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 300,
+      "weekday": "Wednesday",
+      "month": "October",
+      "date_num": 27,
+      "header_date": "**📅 Wednesday, October 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 301,
+      "weekday": "Thursday",
+      "month": "October",
+      "date_num": 28,
+      "header_date": "**📅 Thursday, October 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 16,
+      "kreston_capability": "Stacks four blocks, copies chores, 10+ words",
+      "out_again_anchor": "Market",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

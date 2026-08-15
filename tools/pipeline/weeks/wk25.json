@@ -1,0 +1,115 @@
+{
+  "week": 25,
+  "booklet": "June",
+  "file_prefix": "06-jun",
+  "days": [
+    169,
+    175
+  ],
+  "theme": "Juneteenth & Father's Day 🕊️",
+  "sidebar": "Freedom Days Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "June 18 – June 24, 2027",
+  "insight_headlines": [
+    "Specific recognition beats general praise, every time.",
+    "Answer exactly what's asked about death, and no more.",
+    "Maps are a major abstraction, and home is the way in.",
+    "Children need external evidence of their own change.",
+    "Holding two moods in one day is a real skill.",
+    "Rehearsed safety knowledge survives panic; explained knowledge doesn't.",
+    "Rehearsing a frightening scenario reduces the fear of it."
+  ],
+  "day_specs": [
+    {
+      "day": 169,
+      "weekday": "Friday",
+      "month": "June",
+      "date_num": 18,
+      "header_date": "**📅 Friday, June 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 170,
+      "weekday": "Saturday",
+      "month": "June",
+      "date_num": 19,
+      "header_date": "**📅 Saturday, June 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Aquarium",
+      "holiday": "Juneteenth",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 171,
+      "weekday": "Sunday",
+      "month": "June",
+      "date_num": 20,
+      "header_date": "**📅 Sunday, June 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Long walk with the pram",
+      "holiday": "👔 Father's Day",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 172,
+      "weekday": "Monday",
+      "month": "June",
+      "date_num": 21,
+      "header_date": "**📅 Monday, June 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Riverside path",
+      "holiday": "Summer solstice",
+      "holiday_treatment": "bonus note"
+    },
+    {
+      "day": 173,
+      "weekday": "Tuesday",
+      "month": "June",
+      "date_num": 22,
+      "header_date": "**📅 Tuesday, June 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 174,
+      "weekday": "Wednesday",
+      "month": "June",
+      "date_num": 23,
+      "header_date": "**📅 Wednesday, June 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 175,
+      "weekday": "Thursday",
+      "month": "June",
+      "date_num": 24,
+      "header_date": "**📅 Thursday, June 24, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 12,
+      "kreston_capability": "Walking or close, drinks from a cup, one-step instructions",
+      "out_again_anchor": "Grocery shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

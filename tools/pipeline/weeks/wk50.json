@@ -1,0 +1,115 @@
+{
+  "week": 50,
+  "booklet": "December",
+  "file_prefix": "12-dec",
+  "days": [
+    344,
+    350
+  ],
+  "theme": "Animal Kingdom 🦉",
+  "sidebar": "Feeding the Birds at Midwinter",
+  "sidebar_needs_writing": false,
+  "date_range": "December 10 – December 16, 2027",
+  "insight_headlines": [
+    "Symmetry and spirals turn up in her drawing once she's looked at a web.",
+    "Following something rather than catching it is a different kind of attention.",
+    "Hiding something well means imagining another creature's point of view.",
+    "Sorting living things is harder than sorting objects, because they move.",
+    "Making it enormous is how she checks she knows the parts.",
+    "Fire and flame need rules, not avoidance.",
+    "A copy of a thing teaches her what a fossil is."
+  ],
+  "day_specs": [
+    {
+      "day": 344,
+      "weekday": "Friday",
+      "month": "December",
+      "date_num": 10,
+      "header_date": "**📅 Friday, December 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Grandparents / family visit",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 345,
+      "weekday": "Saturday",
+      "month": "December",
+      "date_num": 11,
+      "header_date": "**📅 Saturday, December 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Pet shop + garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 346,
+      "weekday": "Sunday",
+      "month": "December",
+      "date_num": 12,
+      "header_date": "**📅 Sunday, December 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 347,
+      "weekday": "Monday",
+      "month": "December",
+      "date_num": 13,
+      "header_date": "**📅 Monday, December 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Neighbourhood park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 348,
+      "weekday": "Tuesday",
+      "month": "December",
+      "date_num": 14,
+      "header_date": "**📅 Tuesday, December 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 349,
+      "weekday": "Wednesday",
+      "month": "December",
+      "date_num": 15,
+      "header_date": "**📅 Wednesday, December 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Soft play",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 350,
+      "weekday": "Thursday",
+      "month": "December",
+      "date_num": 16,
+      "header_date": "**📅 Thursday, December 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Hardware shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

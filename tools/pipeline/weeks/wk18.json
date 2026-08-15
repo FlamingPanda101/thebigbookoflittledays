@@ -1,0 +1,115 @@
+{
+  "week": 18,
+  "booklet": "April",
+  "file_prefix": "04-apr",
+  "days": [
+    120,
+    126
+  ],
+  "theme": "Bugs & Blooms 🌷",
+  "sidebar": "Bugs Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "April 30 – May 6, 2027",
+  "insight_headlines": [
+    "Smell is wired directly to memory in a way the other senses aren't.",
+    "Fairness is the strongest moral instinct a three-year-old has.",
+    "A record makes slow change perceptible.",
+    "Keep environmental talk local and hopeful at this age.",
+    "Giving something a face changes how a child treats it.",
+    "Tally marks are her first taste of representing data.",
+    "A closed system is a big idea in a small jar."
+  ],
+  "day_specs": [
+    {
+      "day": 120,
+      "weekday": "Friday",
+      "month": "April",
+      "date_num": 30,
+      "header_date": "**📅 Friday, April 30, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 121,
+      "weekday": "Saturday",
+      "month": "May",
+      "date_num": 1,
+      "header_date": "**📅 Saturday, May 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 122,
+      "weekday": "Sunday",
+      "month": "May",
+      "date_num": 2,
+      "header_date": "**📅 Sunday, May 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Sunset walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 123,
+      "weekday": "Monday",
+      "month": "May",
+      "date_num": 3,
+      "header_date": "**📅 Monday, May 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Neighbourhood park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 124,
+      "weekday": "Tuesday",
+      "month": "May",
+      "date_num": 4,
+      "header_date": "**📅 Tuesday, May 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 10,
+      "kreston_capability": "Cruises furniture, points, understands \"no\"",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 125,
+      "weekday": "Wednesday",
+      "month": "May",
+      "date_num": 5,
+      "header_date": "**📅 Wednesday, May 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Soft play",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 126,
+      "weekday": "Thursday",
+      "month": "May",
+      "date_num": 6,
+      "header_date": "**📅 Thursday, May 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 11,
+      "kreston_capability": "Stands alone briefly, first words possible",
+      "out_again_anchor": "Hardware shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

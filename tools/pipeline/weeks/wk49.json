@@ -1,0 +1,115 @@
+{
+  "week": 49,
+  "booklet": "December",
+  "file_prefix": "12-dec",
+  "days": [
+    337,
+    343
+  ],
+  "theme": "Storybook Village 📖",
+  "sidebar": "Storytellers, Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "December 3 – December 9, 2027",
+  "insight_headlines": [
+    "Being an expert on one thing is enormously motivating at three.",
+    "A crater is a record of something that already happened, and reading it backwards is new thinking.",
+    "Inventing a creature to fit conditions is her first taste of adaptation.",
+    "Making the sky small enough to hold is what lets her study it.",
+    "A mission with a beginning, a middle and a report is a story she's inside.",
+    "Putting it back exactly is part of the lesson.",
+    "A creature she has watched is much harder to squash."
+  ],
+  "day_specs": [
+    {
+      "day": 337,
+      "weekday": "Friday",
+      "month": "December",
+      "date_num": 3,
+      "header_date": "**📅 Friday, December 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 338,
+      "weekday": "Saturday",
+      "month": "December",
+      "date_num": 4,
+      "header_date": "**📅 Saturday, December 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 17,
+      "kreston_capability": "Kicks a ball, two-word combinations starting",
+      "out_again_anchor": "**MUSEUM**",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 339,
+      "weekday": "Sunday",
+      "month": "December",
+      "date_num": 5,
+      "header_date": "**📅 Sunday, December 5, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Long walk with the pram",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 340,
+      "weekday": "Monday",
+      "month": "December",
+      "date_num": 6,
+      "header_date": "**📅 Monday, December 6, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Riverside path",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 341,
+      "weekday": "Tuesday",
+      "month": "December",
+      "date_num": 7,
+      "header_date": "**📅 Tuesday, December 7, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 342,
+      "weekday": "Wednesday",
+      "month": "December",
+      "date_num": 8,
+      "header_date": "**📅 Wednesday, December 8, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 343,
+      "weekday": "Thursday",
+      "month": "December",
+      "date_num": 9,
+      "header_date": "**📅 Thursday, December 9, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 18,
+      "kreston_capability": "Climbs stairs holding on, pretend play begins, 20+ words",
+      "out_again_anchor": "Grocery shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

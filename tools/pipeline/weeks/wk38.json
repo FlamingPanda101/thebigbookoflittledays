@@ -1,0 +1,115 @@
+{
+  "week": 38,
+  "booklet": "September",
+  "file_prefix": "09-sep",
+  "days": [
+    260,
+    266
+  ],
+  "theme": "Colors & Shapes Studio 🎨",
+  "sidebar": "Morocco: *Zellij* Tilework",
+  "sidebar_needs_writing": false,
+  "date_range": "September 17 – September 23, 2027",
+  "insight_headlines": [
+    "Planning before doing is a real developmental leap.",
+    "Deciding what deserves recognition is more advanced than receiving it.",
+    "A map is an abstraction she has to be taught to read.",
+    "Food is the most memorable route into a culture at this age.",
+    "Symmetry through folding is discovered, not explained.",
+    "Repeating units are a genuine step up from alternating patterns.",
+    "Impermanence is easier to accept when it's built into the design."
+  ],
+  "day_specs": [
+    {
+      "day": 260,
+      "weekday": "Friday",
+      "month": "September",
+      "date_num": 17,
+      "header_date": "**📅 Friday, September 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 261,
+      "weekday": "Saturday",
+      "month": "September",
+      "date_num": 18,
+      "header_date": "**📅 Saturday, September 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Train ride",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 262,
+      "weekday": "Sunday",
+      "month": "September",
+      "date_num": 19,
+      "header_date": "**📅 Sunday, September 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Feeding the ducks",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 263,
+      "weekday": "Monday",
+      "month": "September",
+      "date_num": 20,
+      "header_date": "**📅 Monday, September 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Field walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 264,
+      "weekday": "Tuesday",
+      "month": "September",
+      "date_num": 21,
+      "header_date": "**📅 Tuesday, September 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 265,
+      "weekday": "Wednesday",
+      "month": "September",
+      "date_num": 22,
+      "header_date": "**📅 Wednesday, September 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Church hall playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 266,
+      "weekday": "Thursday",
+      "month": "September",
+      "date_num": 23,
+      "header_date": "**📅 Thursday, September 23, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Charity shop",
+      "holiday": "Autumn equinox",
+      "holiday_treatment": "bonus note"
+    }
+  ]
+}

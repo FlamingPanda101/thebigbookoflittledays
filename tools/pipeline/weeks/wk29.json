@@ -1,0 +1,115 @@
+{
+  "week": 29,
+  "booklet": "July",
+  "file_prefix": "07-jul",
+  "days": [
+    197,
+    203
+  ],
+  "theme": "Ice Cream & Summer Treats 🍦",
+  "sidebar": "Frozen Treats Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "July 16 – July 22, 2027",
+  "insight_headlines": [
+    "Celebration is a legitimate way to teach history.",
+    "Children describe parents by what they *do*, not who they are.",
+    "Food is the most durable carrier of family memory.",
+    "Admiration is how children choose which traits to grow.",
+    "Moving in time with someone builds connection, measurably.",
+    "Gratitude needs a target before it needs a feeling.",
+    "Waiting is easier when it's visible and shrinking."
+  ],
+  "day_specs": [
+    {
+      "day": 197,
+      "weekday": "Friday",
+      "month": "July",
+      "date_num": 16,
+      "header_date": "**📅 Friday, July 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 198,
+      "weekday": "Saturday",
+      "month": "July",
+      "date_num": 17,
+      "header_date": "**📅 Saturday, July 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Pet shop + garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 199,
+      "weekday": "Sunday",
+      "month": "July",
+      "date_num": 18,
+      "header_date": "**📅 Sunday, July 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Nature hunt walk",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 200,
+      "weekday": "Monday",
+      "month": "July",
+      "date_num": 19,
+      "header_date": "**📅 Monday, July 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Playground (the big slide one)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 201,
+      "weekday": "Tuesday",
+      "month": "July",
+      "date_num": 20,
+      "header_date": "**📅 Tuesday, July 20, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 202,
+      "weekday": "Wednesday",
+      "month": "July",
+      "date_num": 21,
+      "header_date": "**📅 Wednesday, July 21, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 203,
+      "weekday": "Thursday",
+      "month": "July",
+      "date_num": 22,
+      "header_date": "**📅 Thursday, July 22, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 13,
+      "kreston_capability": "Walks, climbs, carries things while moving",
+      "out_again_anchor": "Garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

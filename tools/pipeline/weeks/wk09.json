@@ -1,0 +1,115 @@
+{
+  "week": 9,
+  "booklet": "February",
+  "file_prefix": "02-feb",
+  "days": [
+    57,
+    63
+  ],
+  "theme": "My Body & Senses 🖐️",
+  "sidebar": "Hello Everywhere",
+  "sidebar_needs_writing": false,
+  "date_range": "February 26 – March 4, 2027",
+  "insight_headlines": [
+    "Big movements come before small ones.",
+    "Repetitive, contained tasks are surprisingly regulating.",
+    "The gasp is the learning.",
+    "Process art versus product art.",
+    "Three dimensions are harder than two, and worth the time.",
+    "Testing before committing is a habit worth encouraging.",
+    "\"What is it?\" is the question to stop asking."
+  ],
+  "day_specs": [
+    {
+      "day": 57,
+      "weekday": "Friday",
+      "month": "February",
+      "date_num": 26,
+      "header_date": "**📅 Friday, February 26, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Meet a friend at the park",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 58,
+      "weekday": "Saturday",
+      "month": "February",
+      "date_num": 27,
+      "header_date": "**📅 Saturday, February 27, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Fire station / tractor spotting",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 59,
+      "weekday": "Sunday",
+      "month": "February",
+      "date_num": 28,
+      "header_date": "**📅 Sunday, February 28, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 60,
+      "weekday": "Monday",
+      "month": "March",
+      "date_num": 1,
+      "header_date": "**📅 Monday, March 1, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Riverside path",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 61,
+      "weekday": "Tuesday",
+      "month": "March",
+      "date_num": 2,
+      "header_date": "**📅 Tuesday, March 2, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 62,
+      "weekday": "Wednesday",
+      "month": "March",
+      "date_num": 3,
+      "header_date": "**📅 Wednesday, March 3, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 63,
+      "weekday": "Thursday",
+      "month": "March",
+      "date_num": 4,
+      "header_date": "**📅 Thursday, March 4, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 8,
+      "kreston_capability": "Crawls or shuffles, stranger wariness, bangs two things together",
+      "out_again_anchor": "Grocery shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

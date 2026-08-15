@@ -1,0 +1,115 @@
+{
+  "week": 37,
+  "booklet": "September",
+  "file_prefix": "09-sep",
+  "days": [
+    253,
+    259
+  ],
+  "theme": "Backyard Explorers 🔍",
+  "sidebar": "Australia: Bush Tucker",
+  "sidebar_needs_writing": false,
+  "date_range": "September 10 – September 16, 2027",
+  "insight_headlines": [
+    "Recovery isn't a switch, and pushing it backfires.",
+    "Summer's best days are usually the least planned.",
+    "Losing is a skill that isn't ready yet, and designing around that is not coddling.",
+    "Throwing develops in a predictable order, and rushing it doesn't help.",
+    "Balance comes from being slightly off it.",
+    "Subtraction makes sense long before the symbols do.",
+    "Cooperation is harder than competition, and it needs the same practice."
+  ],
+  "day_specs": [
+    {
+      "day": 253,
+      "weekday": "Friday",
+      "month": "September",
+      "date_num": 10,
+      "header_date": "**📅 Friday, September 10, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Cafe (cake + people-watching)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 254,
+      "weekday": "Saturday",
+      "month": "September",
+      "date_num": 11,
+      "header_date": "**📅 Saturday, September 11, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Botanical garden",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 255,
+      "weekday": "Sunday",
+      "month": "September",
+      "date_num": 12,
+      "header_date": "**📅 Sunday, September 12, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Long walk with the pram",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 256,
+      "weekday": "Monday",
+      "month": "September",
+      "date_num": 13,
+      "header_date": "**📅 Monday, September 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Playground (the big slide one)",
+      "holiday": "🎈 Joseph's birthday",
+      "holiday_treatment": "FULL DAY"
+    },
+    {
+      "day": 257,
+      "weekday": "Tuesday",
+      "month": "September",
+      "date_num": 14,
+      "header_date": "**📅 Tuesday, September 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 258,
+      "weekday": "Wednesday",
+      "month": "September",
+      "date_num": 15,
+      "header_date": "**📅 Wednesday, September 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 259,
+      "weekday": "Thursday",
+      "month": "September",
+      "date_num": 16,
+      "header_date": "**📅 Thursday, September 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 15,
+      "kreston_capability": "Runs, spoons food, points at pictures in books",
+      "out_again_anchor": "Garden centre",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}

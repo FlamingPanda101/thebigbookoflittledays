@@ -1,0 +1,115 @@
+{
+  "week": 33,
+  "booklet": "August",
+  "file_prefix": "08-aug",
+  "days": [
+    225,
+    231
+  ],
+  "theme": "Pretend Passport World Adventure 🌍",
+  "sidebar": "NEEDS WRITING",
+  "sidebar_needs_writing": true,
+  "date_range": "August 13 – August 19, 2027",
+  "insight_headlines": [
+    "Sensory bottles work as a calming tool, and it's worth keeping one.",
+    "Making the material is part of the activity.",
+    "Changing one thing at a time is real experimental method.",
+    "Water play is unusually complete developmental work.",
+    "Effort makes food taste better, and that's a measurable effect.",
+    "Shop play is the most efficient math practice available at three.",
+    "Distinct layers only form if you wait, and that's a visible lesson."
+  ],
+  "day_specs": [
+    {
+      "day": 225,
+      "weekday": "Friday",
+      "month": "August",
+      "date_num": 13,
+      "header_date": "**📅 Friday, August 13, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Playgroup",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 226,
+      "weekday": "Saturday",
+      "month": "August",
+      "date_num": 14,
+      "header_date": "**📅 Saturday, August 14, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Bus ride (nowhere in particular)",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 227,
+      "weekday": "Sunday",
+      "month": "August",
+      "date_num": 15,
+      "header_date": "**📅 Sunday, August 15, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Scooter / balance bike",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 228,
+      "weekday": "Monday",
+      "month": "August",
+      "date_num": 16,
+      "header_date": "**📅 Monday, August 16, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Riverside path",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 229,
+      "weekday": "Tuesday",
+      "month": "August",
+      "date_num": 17,
+      "header_date": "**📅 Tuesday, August 17, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Swimming",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 230,
+      "weekday": "Wednesday",
+      "month": "August",
+      "date_num": 18,
+      "header_date": "**📅 Wednesday, August 18, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Library",
+      "holiday": null,
+      "holiday_treatment": null
+    },
+    {
+      "day": 231,
+      "weekday": "Thursday",
+      "month": "August",
+      "date_num": 19,
+      "header_date": "**📅 Thursday, August 19, 2027**",
+      "azlyn_age": 3,
+      "kreston_months": 14,
+      "kreston_capability": "Scribbles, stacks two blocks, 3-5 words",
+      "out_again_anchor": "Grocery shop",
+      "holiday": null,
+      "holiday_treatment": null
+    }
+  ]
+}
