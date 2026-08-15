@@ -818,6 +818,111 @@ activity	272	The Letter Window
 activity	273	Rubbing In the Butter
 activity	273	A Biscuit for Every Initial
 activity	273	Three Parcels That Have to Last
+activity	274	Forty Things in the Counting Jar
+activity	274	The Track With Twenty Squares
+activity	274	The Game in a Box
+activity	275	A Chair for Every Guest
+activity	275	Setting Eight Places
+activity	275	The Tea Party She Runs
+activity	276	One at a Time Into the Tin
+activity	276	How Many Did You Hear
+activity	276	Knock Three Times, Bring Me Three
+activity	277	Five Buckets, Biggest to Smallest
+activity	277	Five Is the Loudest
+activity	277	Zero to Ten Down the Hallway
+activity	278	One Cup, Two Cups, Eight Cups
+activity	278	Eight Jars and a Spoon
+activity	278	Up the Stairs, One Note at a Time
+activity	279	The Number That Means Freeze
+activity	279	The Number on the Door
+activity	279	The Tower That Stops Where She Says
+activity	280	Two Claps, Then Wait
+activity	280	Four Beats, Then Your Turn
+activity	280	Four Dots and a Gap
+activity	281	Marking Where the Wheels Go
+activity	281	The Car With No Floor
+activity	281	Three Runs Before the Show
+activity	282	The Fleet on the Starting Line
+activity	282	The Ramp Down the Stairs
+activity	282	The Grandstand Made of One Chair
+activity	283	Three Roads and One in the Freezer
+activity	283	Four Surfaces, One Car
+activity	283	The Multi-Storey Made of Shoeboxes
+activity	284	Taping the Track Down the Hall
+activity	284	The Hallway Railway
+activity	284	Two Ways to Shift the Same Load
+activity	285	The Signs That Catch the Light
+activity	285	The Headlight Test
+activity	285	The Tunnel Under the Table
+activity	286	Every Part She Can Name
+activity	286	The Car She Draws Twice
+activity	286	The Spotting Book
+activity	287	Emptying the Garage
+activity	287	One Road Through the Whole House
+activity	287	The Shop at the End of the Road
+activity	288	The Cone on Top
+activity	288	The Rocket She Fits Inside
+activity	288	The Message She Sends to Space
+activity	289	Sifting the Moon Dust
+activity	289	The Craters She Makes Herself
+activity	289	The Torch She Has to Give Back
+activity	290	The Purse and the Price Labels
+activity	290	Ten Coins for the Whole Mission
+activity	290	The Balloon That Flies Down the String
+activity	291	Two Cups and a Headband
+activity	291	The Desk with a Hundred Buttons
+activity	291	Clocking On and Clocking Off
+activity	292	Counting Out the Bulbs
+activity	292	The Bulbs That Wait Under the Ground
+activity	292	The Box of Things You Can't Get in Space
+activity	293	One Bowl for Every Picture
+activity	293	Moon Rocks You Can Eat
+activity	293	Eating With Nothing on the Table
+activity	294	Packing the Capsule
+activity	294	The Slow Way Down
+activity	294	Knocking on the Door Herself
+activity	295	Folding the Bug Book
+activity	295	The First Five Finds
+activity	295	The Leg Count
+activity	296	The Line Round the Patch
+activity	296	The Doormat Patch
+activity	296	The Patch in a Shoebox
+activity	297	Two Buckets and a Rule
+activity	297	Down Through the Layers
+activity	297	The Soil Strip on the Wall
+activity	298	Four Rooms and a Tunnel
+activity	298	The Nest Under the Lawn
+activity	298	The Workers' Tea
+activity	299	Worm, Snail, Beetle, Bee
+activity	299	The Arrow Course
+activity	299	Telling the Beetle Where to Go
+activity	300	Emptying Her Pockets
+activity	300	Ten Things and No More
+activity	300	The Three We Can't Name
+activity	301	Only What Fits in the Rucksack
+activity	301	The Expedition She Leads
+activity	301	The Plate of Things With Legs
+activity	302	Five Bowls of Salt
+activity	302	The Colours That Won't Come Back
+activity	302	Pinching the Little Lamps
+activity	303	Deciding Which Dinosaur
+activity	303	Where the Dinosaur Stops
+activity	303	Standing Him Up in the Hall
+activity	304	Trying the Tail On
+activity	304	The Dinosaur Suit
+activity	304	Six Colours, Two Lights
+activity	305	The Colour With Her Name On It
+activity	305	Marigolds From Kitchen Roll
+activity	305	The Path of Petals to the Table
+activity	306	The Bones Under the Oats
+activity	306	The Slot That Only Fits One Way
+activity	306	The Footprints He Left Behind
+activity	307	The Line From Lightest to Darkest
+activity	307	The Skin Made of Torn Paper
+activity	307	The Labels She Dictates
+activity	308	The Last Piece
+activity	308	Everything in the Order She Picks
+activity	308	Doors Open at One
 insight	1	Why writing down her exact words matters more than you'd think.
 insight	2	The cardboard box beats the expensive toy, and there's a reason.
 insight	3	Narrating beats quizzing, every time.
@@ -1091,3 +1196,38 @@ insight	270	Risk and reward is a new kind of decision.
 insight	271	A painted face changes behaviour as well as appearance.
 insight	272	Building it back up is the part that's doing the work.
 insight	273	Saving three of something is harder than it sounds.
+insight	274	Inventing a game is a much bigger deal than playing one.
+insight	275	Hosting is a social skill, and it's learnable at three.
+insight	276	Predicting a sound and then testing it is her first real hypothesis.
+insight	277	Loud is a developmental need, not a provocation.
+insight	278	High and low is a confusing pair of words.
+insight	279	Freezing on cue is genuine impulse control.
+insight	280	Copying a rhythm is harder than it looks, and it's a working memory task.
+insight	281	Rehearsal teaches something a spontaneous performance can't.
+insight	282	A rehearsed thing needs a witness before it is finished.
+insight	283	Ice is one of the few materials that changes while she's using it.
+insight	284	Heavy pulling settles her faster than any conversation about the noise does.
+insight	285	A darkened room helps more than a quiet one.
+insight	286	Close looking is the one thing a tired child can still do.
+insight	287	Mid-autumn is a low-energy stretch, and lowering the bar is the right response.
+insight	288	A letter teaches her that writing is aimed at someone.
+insight	289	Borrowing and returning is her first experience of trusted ownership.
+insight	290	Money is a story about exchange long before it's arithmetic.
+insight	291	Your own day's work is more interesting to her than you think.
+insight	292	Children learn to care about a place by improving it.
+insight	293	Reading a recipe is her first experience of print that tells you what to do.
+insight	294	Handing something over in person is a separate skill from making it.
+insight	295	A field journal changes how she looks as well as what she records.
+insight	296	A boundary makes a familiar place interesting again.
+insight	297	Excavation teaches her that finding is a process, not a moment.
+insight	298	Children need to see the adults in their life get celebrated too.
+insight	299	Direction words are harder than position words and they arrive later.
+insight	300	Deciding what's worth keeping is harder than collecting it.
+insight	301	A trip she packed for herself gets remembered differently.
+insight	302	Mixing colours is a lesson in irreversibility.
+insight	303	Making the edges teaches shapes faster than naming them.
+insight	304	Light changes what she thinks a colour is.
+insight	305	Naming a colour she invented does more than learning the standard eleven.
+insight	306	Fitting a shape into a hole is a test of mental rotation.
+insight	307	Matching a shade is much harder than matching a colour.
+insight	308	Finishing something that took all week is its own lesson.
