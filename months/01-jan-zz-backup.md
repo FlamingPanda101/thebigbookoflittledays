@@ -36,8 +36,8 @@ it comes in through the kitchen instead of the front step.
 - **1:00–2:30 PM** — 🎨 Second Main Event: The Tray of Things That Keep (90 min)
 - **2:30–3:30 PM** — 🎬 Movie Hour: The One She Picks (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
-- **4:00–4:15 PM** — 🧹 Her Job: Turning the Apple Rings
-- **4:15–5:00 PM** — Quiet Play: The Empty Jars
+- **4:00–4:15 PM** — 🧹 Her Job: Checking the Apple String
+- **4:15–5:00 PM** — Quiet Play: The Tray She Ranked
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath and Three Books
 - **6:00 PM** — **Dinner**
 
@@ -54,17 +54,15 @@ it comes in through the kitchen instead of the front step.
 **🧰 Complete Materials List:**
 - 3 apples, or any firm fruit in the bowl; with no fruit in the house, 1 potato or 2 thick slices of bread
 - 1 sharp knife (**adult only**)
-- Salt, 1 teaspoon
 - String, about a yard, and 2 clothespins
-- 2 saucers and 1 marker
+- 1 saucer and 1 marker
 
 **📝 Step-by-Step Instructions:**
 1. Slice the fruit across into rings about as thick as her fingernail. You cut, she counts them into a bowl and tells you when to stop.
 2. Set two rings aside on a saucer. That saucer gets nothing done to it, and it does more work today than anything else on the table.
-3. Rub the salt into two more rings and stand those on the second saucer. The day runs three ways from here: salted, plain, and one saucer left alone.
-4. Thread the plain rings onto the string with a gap between each one, hang it across the sill above the warm radiator, high up and well past her reach, and pin each end with a clothespin so it cannot slide.
-5. Write the date on both saucers. Look at the untouched one together every time either of you walks past it.
-6. Check the string at 4:00 as her job. Almost nothing will have changed, and the almost-nothing is the honest answer to how long this takes.
+3. Thread the rest of the rings onto the string with a gap between each one, hang it across the sill above the warm radiator, high up and well past her reach, and pin each end with a clothespin so it cannot slide.
+4. Write the date on the saucer, and look at it together every time either of you walks past it.
+5. Check the apple string at 4:00 as her job. Almost nothing will have changed, and the almost-nothing is the honest answer to how long this takes.
 
 > 💡 **Tip:** Do not skip the saucer that gets no treatment. The ring on the string means nothing to her without a brown one sitting beside it to compare against.
 
@@ -249,7 +247,7 @@ the change happens under her own hands inside a minute.
 4. Fish one out and rub it with the rag. It comes up bright. Hand her the rag and let her do every remaining coin herself.
 5. Rinse them all in the clean water and dry them, because ketchup left sitting on metal marks it.
 6. Line the bright coins up next to the one you left alone and ask her to tell you what happened. Write her explanation down word for word.
-7. Finish on the cutlery. A dry rag and ten minutes of buffing the forks, and she leaves them ready on the counter for 4:00.
+7. Finish on the silverware. A dry rag and ten minutes of buffing the forks, and she leaves them ready on the counter for 4:00.
 
 > 💡 **Tip:** Sixty seconds is a long minute for a three-year-old. Count it out loud with her, or she fishes them out at twenty and the trick fails on her.
 
@@ -304,7 +302,7 @@ setting up or clearing away.
 - **Whenever she wakes** · 🛋️ Making the Spot, and no decisions asked of her
 - **Once she is in it** · the first drink, small and often
 - **When lying still stops working** · 🫱 Lap Things: one at a time, dropped the moment it stops holding
-- **After the first long sleep** · more Lap Things, or the film, with no guilt attached to either
+- **After the first long sleep** · more Lap Things, or the movie, with no guilt attached to either
 - **The middle of the day** · 😴 The Rest Block
 - **When she asks for food** · small, bland, and only when she asks
 - **Before the afternoon dip** · a warm bath if she has it in her, a warm washcloth if she does not
@@ -354,13 +352,13 @@ at her today costs you both more than the missed meal does.
 He is 6 to 7 months, sitting on his own and rocking on hands and knees, and
 every week that rocking gets him a hand's width further, so anything of hers
 left within reach of his blanket is his. Set his blanket and a basket of his
-own things on the far side of the room where he can see her and not reach
-her, and take the playpen or travel crib out if you have one, since today is
-the day it earns its space. Wash your hands between them and keep
-her cup, her spoon and her washcloth off his patch. The odds are he catches it
-anyway, and the handwashing still buys you a couple of days. Feed him and
-change him on a schedule you set out loud, because she cannot wait for
-anything today and he will get skipped otherwise.
+own things on the far side of the room where he can see her and not reach her,
+and take the playpen or travel crib out if you have one, since today is the
+day it earns its space. Wash your hands between them and keep her cup, her
+spoon and her washcloth off his patch. The odds are he catches it anyway, and
+the handwashing still buys you a couple of days. Feed him and change him on a
+schedule you set out loud, because she cannot wait for anything today and he
+will get skipped otherwise.
 
 ---
 

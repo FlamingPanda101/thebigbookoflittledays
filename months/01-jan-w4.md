@@ -80,7 +80,7 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] A dishpan
 - [ ] A laundry basket
 - [ ] All your tupperware, boxes and lids
-- [ ] The cutlery drawer, knives and skewers taken out first
+- [ ] The silverware drawer, knives and skewers taken out first
 - [ ] Dining chairs, 2
 - [ ] Sofa cushions, 4
 - [ ] A blanket for the floor
@@ -676,7 +676,7 @@ herself.
 **Theme:** Puzzles & Problem Solving
 
 ### 🌙 Prep Tonight
-> Fill a laundry basket with twenty or thirty mixed things, take the knives out of the cutlery drawer, and put a cookie or stickers aside for tomorrow.
+> Fill a laundry basket with twenty or thirty mixed things, take the knives out of the silverware drawer, and put a cookie or stickers aside for tomorrow.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Basket of Everything
@@ -744,7 +744,7 @@ fixed two things you meant to fix in November.
 
 **🧰 Complete Materials List:**
 - All the tupperware boxes and lids
-- The cutlery drawer, **knives removed first**
+- The silverware drawer, **knives removed first**
 - 1 dish towel
 - 1 dishpan
 - Masking tape and a marker for labeling shelves
@@ -790,7 +790,7 @@ fixed two things you meant to fix in November.
 > that. The second sort does something further. Running a new rule over the
 > same objects, color one hour and size the next, is the flexible half of the
 > job, and it is harder than the first sort. You have her pairing socks and
-> sorting cutlery already. Same task, real result.
+> sorting silverware already. Same task, real result.
 
 > ⚠️ **Safety:** Knives, skewers and anything with a point come out of the
 > drawer before she is in the room and stay out until it goes back. Small

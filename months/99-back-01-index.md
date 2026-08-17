@@ -19,7 +19,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [The Sticky Wall](#feb-extras) — 🎲 February · Extra Ideas
 - [Dirty End, Clean End](#mar-weather-2) — 🌧️ March · Bad Weather Day 2
 - [Three Jars of Mud Paint](#mar-extras) — 🎲 March · Extra Ideas
-- [Mud Paint](#apr-extras) — 🎲 April · Extra Ideas
+- [Blowing the Paint Across the Page](#apr-extras) — 🎲 April · Extra Ideas
 - [Rain Down the Paper](#may-weather-1) — 🌧️ May · Bad Weather Day 1
 - [Grinding the Oats by Hand](#jun-weather-2) — 🌧️ June · Bad Weather Day 2
 - [The Laundry Done by Hand](#jun-weather-2) — 🌧️ June · Bad Weather Day 2
@@ -46,7 +46,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [Showing Him How It All Works](#mar-weather-1) — 🌧️ March · Bad Weather Day 1
 - [Six Games, Two Jars](#apr-weather-2) — 🌧️ April · Bad Weather Day 2
 - [The Shop That Takes Beans](#apr-weather-2) — 🌧️ April · Bad Weather Day 2
-- [The Bag You Can't See Into](#apr-extras) — 🎲 April · Extra Ideas
+- [One Thing in a Sock](#apr-extras) — 🎲 April · Extra Ideas
 - [The Taking-Apart Table](#jun-weather-1) — 🌧️ June · Bad Weather Day 1
 - [The Hour With No Words](#jul-weather-1) — 🌧️ July · Bad Weather Day 1
 - [The Rainbow She Can Turn Off](#aug-weather-1) — 🌧️ August · Bad Weather Day 1
@@ -123,7 +123,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [The Story She Can Close Her Eyes For](#mar-sick-1) — 🤒 March · Sick Day 1
 - [The Drawer She Empties and Refills](#mar-sick-2) — 🤒 March · Sick Day 2
 - [Under the Umbrella, Listening](#mar-extras) — 🎲 March · Extra Ideas
-- [The Story With No Book](#apr-sick-1) — 🤒 April · Sick Day 1
+- [The Story She Hears With Her Eyes Shut](#apr-sick-1) — 🤒 April · Sick Day 1
 - [Pairing the Socks From a Lap](#apr-sick-2) — 🤒 April · Sick Day 2
 - [The Warm Cloth and the Cold Cloth](#may-sick-1) — 🤒 May · Sick Day 1
 - [One Hand Cold, One Hand Warm](#jun-extras) — 🎲 June · Extra Ideas
@@ -150,7 +150,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [Everything That Fits in a Shoebox](#feb-extras) — 🎲 February · Extra Ideas
 - [The Bed He Has to Fit In](#mar-weather-1) — 🌧️ March · Bad Weather Day 1
 - [The Wind Spinner Off a Cereal Box](#mar-extras) — 🎲 March · Extra Ideas
-- [Mud Paint](#apr-extras) — 🎲 April · Extra Ideas
+- [Two Tubes and a Piece of String](#apr-extras) — 🎲 April · Extra Ideas
 - [Cardboard Sunglasses](#may-extras) — 🎲 May · Extra Ideas
 - [A Crown From a Cereal Box](#jun-extras) — 🎲 June · Extra Ideas
 - [The Boat That Fits the Whole Toy Box](#jul-weather-1) — 🌧️ July · Bad Weather Day 1
@@ -172,7 +172,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [The Judge's Chair](#feb-weather-1) — 🌧️ February · Bad Weather Day 1
 - [The Grocery List She Dictates](#feb-extras) — 🎲 February · Extra Ideas
 - [The Visitor at the Door](#mar-weather-1) — 🌧️ March · Bad Weather Day 1
-- [Drawing on Her Back](#apr-sick-1) — 🤒 April · Sick Day 1
+- [The Paper Road](#apr-weather-1) — 🌧️ April · Bad Weather Day 1
 - [Newspaper Hats for Everybody](#apr-extras) — 🎲 April · Extra Ideas
 - [The Card That Goes in the Mailbox](#apr-extras) — 🎲 April · Extra Ideas
 - [Tape Resist Letters](#may-extras) — 🎲 May · Extra Ideas

@@ -1085,7 +1085,7 @@ Twelve buns, four names, four boxes, and she decides what goes where.
 > **On the days you use this page instead of the plan.**
 > Some mornings the plan is wrong. He was up four times, she is off, and the
 > page is asking for an oven and ninety minutes. Do one thing off the Afternoon
-> Alternatives instead, or none of it, and put a film on. A day where Azlyn
+> Alternatives instead, or none of it, and put a movie on. A day where Azlyn
 > ate, got outside for twenty minutes and had you within reach is a day that
 > did her good. Warm, responsive, unhurried adults are what the early childhood
 > research keeps coming back to, and nothing printed on this page outranks

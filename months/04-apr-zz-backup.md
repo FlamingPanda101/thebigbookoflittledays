@@ -327,9 +327,9 @@ does anything with it. Getting up is what starts the crying.
 She keeps one hand in yours and everything else stays where it is. Squeeze her
 hand three times and wait. She squeezes three back, then sends you a number of
 her own and you send it back. Go up to five and no higher, and let her catch
-you getting it wrong. This costs her nothing, needs no eyes open and one hand,
-and it runs as long as she wants it. It stops the second she lets go, and it is
-the one thing on this page that works while she is crying.
+you getting it wrong. This costs her nothing, asks for one hand and no eyes at
+all, and it runs as long as she wants it. It stops the second she lets go, and
+it is the one thing on this page that works while she is crying.
 
 ### 🪟 The One Thing That Changed Outside
 
@@ -342,11 +342,11 @@ counts as having been out.
 
 ### 📖 The Story She Hears With Her Eyes Shut
 
-Lights off, and no book anywhere near it, because holding one up is work and
-looking at a page is more work. Use a story she knows and put her in
-it, walking to the pond, feeding the ducks, meeting the neighbor's cat. Go slow
-and repeat whole lines. She will correct you when you get a detail wrong, which
-is the best sign of the day and worth getting wrong on purpose once or twice.
+Keep the lights off and the book out of it, because holding one up is work and
+looking at a page is more work. Use a story she knows and put her in it, walking
+to the pond, feeding the ducks, meeting the neighbor's cat. Go slow and repeat
+whole lines. She will correct you when you get a detail wrong, which is the best
+sign of the day and worth getting wrong on purpose once or twice.
 
 ### 👶 Keeping Kreston Out of It Today
 
@@ -408,6 +408,14 @@ answer, then look at the mouth together and find the evidence. A rabbit, a dog,
 a horse, a bird with no teeth at all. Nothing gets set up and nothing gets
 cleared away, and she can stop after four pages.
 
+### 🧦 Pairing the Socks From a Lap
+
+Bring the clean laundry basket to the sofa and tip the socks onto the cushion
+beside her. She pairs them, one at a time, at whatever speed she has today, and
+you take the pairs as she finishes them. A recovering child wants a job with a
+visible end and no standing up in it, and this one has both. She will find the
+odd one and want to know where it went, so let that be the interesting part.
+
 ### 😴 The Rest Block: The Lie-Down She Argues About
 
 She is well enough to refuse this and not well enough to skip it. Take the
@@ -416,14 +424,6 @@ shut, she keeps her socks on, and she does not have to sleep. Put an audio
 story on, lie down at the other end yourself, and say nothing for forty minutes.
 About half the time she goes under. The other half she lies there and comes out
 of it steadier than she went in, which was the point either way.
-
-### 🧦 Pairing the Socks From a Lap
-
-Bring the clean laundry basket to the sofa and tip the socks onto the cushion
-beside her. She pairs them, one at a time, at whatever speed she has today, and
-you take the pairs as she finishes them. A recovering child wants a job with a
-visible end and no standing up in it, and this one has both. She will find the
-odd one and want to know where it went, so let that be the interesting part.
 
 ### ☎️ Telling It Down the Phone
 
@@ -440,20 +440,20 @@ every answer down word for word, including the ones nobody is cooking. She draws
 one of them at the bottom. Stick the list on the fridge, and buy or cook one
 thing off it tomorrow so the list turns out to have been real.
 
-### 👶 Where Kreston Goes Today
+### 👶 Kreston at the Other End of the Sofa
 
 She wants to be near him today and he wants everything she is holding. Sit him
 on the floor at the far end of the sofa with the sock basket between them, give
 him two socks of his own to pull apart, and keep her hands out of his mouth
-until she is a day clear. He is 10 months and cruises, so he arrives at her lap
-on his own feet whether or not you planned it. Her best twenty minutes with him
-is reading him a board book from where she is lying, which serves both of them
-and costs her nothing.
+until she is a day clear. He is 10 months and cruises the length of the
+cushions, so he arrives at her end on his own feet whether or not you planned
+it. Her best twenty minutes with him is reading him a board book from where she
+is lying, which serves both of them and costs her nothing.
 
 > ⚠️ **Safety:** Twenty-four hours clear of a fever and of throwing up before
 > she goes near other children, and the clock starts at the last one and not at
 > bedtime. Keep the fluids going even though she looks fine, because the day
-> after is when the tank runs low. Phone the doctor if the fever comes back
+> after is when the tank runs low. Call the doctor if the fever comes back
 > after a clear day, if a cough is still there in two weeks, or if she goes
 > quiet and floppy again after a morning of being herself.
 
@@ -482,12 +482,12 @@ shopping, and nothing here takes longer to set up than it takes to do.
 ### 🎲 Alternative Activities
 
 - **Naming the Puddles:** every puddle between your door and the corner gets a name and a size word.
-- **The Two-Minute Rain Run:** out in whatever she has on, once round the house, back in, towel over her head.
+- **The Two-Minute Rain Run:** out in whatever she has on, once around the house, back in, towel over her head.
 - **Barefoot on Four Floors:** carpet, tile, wood and doormat, named with her eyes shut.
 - **The Shoe Line, Biggest to Smallest:** every shoe in the house laid along the hall in one order.
 - **A Ribbon Out the Window:** tied to the latch at breakfast and checked again at every meal.
 - **The Stairs, Counted Both Ways:** counting up on the way up, counting back down on the way down.
-- **The Bag You Can't See Into:** ten things from round the house, named by hand alone.
+- **One Thing in a Sock:** one object dropped into a long sock, named by hand before it comes out.
 - **Everything Green She Can Carry:** one pile in the middle of the floor, then all of it back where it came from.
 - **The Windowsill Cafe:** two cups, two chairs at the glass, and whatever goes past.
 - **The Drawer of Spoons:** tipped onto a dish towel and sorted back into families.
@@ -495,8 +495,8 @@ shopping, and nothing here takes longer to set up than it takes to do.
 
 ### 🎨 Alternative Arts & Crafts
 
-- **Rain Painting:** fat blobs of paint on paper, ten seconds out in the rain on a tray, then back in to dry.
-- **Mud Paint:** a spoon of soil, a splash of water and a brush, on a flattened box.
+- **Blowing the Paint Across the Page:** a puddle of watery paint, a drinking straw, and how far she can push it.
+- **A Nest for the Ones Outside:** yarn scraps, dryer lint and short bits of string on a saucer by the step.
 - **Printing With the Bottom of a Boot:** paint on the sole, then walk it across a long sheet of paper.
 - **The Longest Snake in the House:** playdough rolled thin until it runs off the end of the table.
 - **Two Tubes and a Piece of String:** binoculars for the street, colored in before they get used.
@@ -509,9 +509,9 @@ shopping, and nothing here takes longer to set up than it takes to do.
 
 ### 👶 Kreston's Turn
 
-- **The Cruising Lane:** two chairs a hand apart, backs out, so he steps sideways between them and meets the gap.
+- **The Cruising Lane:** two chairs pushed together, backs out, so he sidesteps the whole run with a hand on each.
 - **In and Out of the Big Pot:** a saucepan and four things too big to swallow, taken out and put back for as long as it holds him.
-- **The Point-and-Name Lap:** carried round the room, with a word for whatever his finger lands on, including the fourth time.
+- **The Point-and-Name Lap:** carried around the room, with a word for whatever his finger lands on, including the fourth time.
 - **Paper He Is Allowed to Wreck:** one whole newspaper page, too big to get in his mouth, and the noise is the whole point.
 
 <div style="page-break-after: always;"></div>

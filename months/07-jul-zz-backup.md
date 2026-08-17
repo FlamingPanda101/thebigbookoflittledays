@@ -17,7 +17,7 @@ morning when you have ten minutes and no plan.
 
 A July storm parks over the house for hours, takes the light out of the rooms
 and makes going out a bad idea. Nobody is leaving today, and the plan runs on
-that. Everything below comes out of a cabinet you already have.
+that. Nothing on this page sends anybody to a store.
 
 ### 🌙 Prep Tonight
 
@@ -172,7 +172,7 @@ everything this one needs.
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
 - **1:00–2:30 PM** — 🎨 Second Main Event: The Coolest Clothes in the House (90 min)
-- **2:30–3:30 PM** — 🧊 Cool-Down Hour: The Washcloths in the Freezer (60 min)
+- **2:30–3:30 PM** — 🧊 Cool-Down Hour: The Frozen Bottles in a Dish Towel (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: Refilling the Pitcher for Dinner
 - **4:15–5:00 PM** — Quiet Play: The Clothes Pile and the Mirror
@@ -184,7 +184,7 @@ everything this one needs.
 **🧰 You need:** every pitcher, bottle, jar and lidded cup in the kitchen · her two hands.
 
 1. Open the cabinet doors and let her pull out everything that holds water. She lines them up along the counter, biggest to smallest, and she gets to argue the order with you.
-2. She picks the one that holds the most, and that one is the pitcher for the day. Two of the small bottles go in the freezer for the afternoon and the rest go back.
+2. She picks the one that holds the most, and that one is the pitcher for the day. Two of the small bottles go in the freezer for two thirty, each one wrapped in a dish towel when it comes out, and the rest go back in the cabinet.
 3. Give her the last job: work out which room is going to be coolest at two o'clock. That room is where the afternoon happens.
 
 ### 🎨 The Main Event: The Pitcher That Has to Be Empty by Dinner
@@ -241,7 +241,7 @@ wearing the answer.
 4. She builds an outfit for every person in the house out of the cool heap, yours included, and everybody puts theirs on. The sheet is a robe, the scarf is a headwrap, the dish towel goes over the back of a neck.
 5. Stand the mirror against the wall and let everybody look before the camera comes out. One photograph each in the doorway, and let her direct where people stand.
 6. Last job is tomorrow's. She picks what she will wear in the heat in the morning and lays it flat on the end of her bed with the hat on top of it.
-7. Everything else back in the basket, carried between the two of you.
+7. Everything else back in the basket, carried between the two of you, and the basket stays in that room with the mirror for four o'clock.
 
 > 💡 **Tip:** Wear what she picks for you. An outfit she chose that gets refused stops the game, and the whole hour runs on her being the one who decides.
 
@@ -272,9 +272,11 @@ wearing the answer.
 > for any length of time, for any reason, including a two-minute errand: the
 > inside of a car in July reaches lethal heat within minutes and the windows
 > make no difference. Upstairs rooms hold the day's heat until late, so keep
-> both of them downstairs until the sun is off the house. A floor fan tips over
-> and a 13-month-old puts fingers through a grille, so stand it high and out of
-> his reach or leave it off while he is loose in the room.
+> both of them downstairs until the sun is off the house. A bottle straight out
+> of the freezer sticks to skin, so it stays in the dish towel for both of them.
+> A floor fan tips over and a 13-month-old puts fingers through a grille, so
+> stand it high and out of his reach or leave it off while he is loose in the
+> room.
 
 <div style="page-break-after: always;"></div>
 

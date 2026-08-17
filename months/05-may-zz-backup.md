@@ -77,7 +77,7 @@ them by how loud the rain is. Run between them rather than walking. The windows
 stay shut and the front door stays closed while you can hear thunder, and both
 of you keep off the glass and the frames. Finish at the loudest one and count
 the seconds between the flash and the rumble together. A long count puts the
-storm a long way off, and a count that grows on each round means it is leaving.
+storm a long way off, and a count that grows each time means it is leaving.
 The open door waits for the end of the day. Twenty minutes after the last
 thunder, step onto the mat with her and let her smell what May rain does to hot
 ground, because that smell is one she will recognize for the rest of her life.
@@ -161,7 +161,8 @@ backward, from a run-up: the variation is hers to invent and yours to lose at.
 > gets swept before he crawls on it. Wet paper balls and torn tape both choke.
 > During a thunderstorm keep both children off the corded phone, out of the bath
 > and away from the sink until the thunder has been gone twenty minutes or more.
-> Fill the paint cups and the washcloth bowl in one trip and let the dishes wait.
+> Fill the paint cups, the roasting pan and the washcloth bowl in one trip, and
+> let the dishes wait.
 > The day ends with warm washcloths and pajamas early instead of a bath. No open
 > windows and no open front door while you can still hear it.
 

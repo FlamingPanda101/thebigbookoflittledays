@@ -23,7 +23,7 @@ you feel like it.
 > two-mile walk and nowhere to spend it, so the hall becomes the walk.*
 
 ### 🌙 Prep Tonight
-> Stack the sofa cushions at one end of the hall, put the masking tape and a wooden spoon on top of them, and move the shoe rack somewhere else.
+> Stack the sofa cushions at one end of the hall, and put the masking tape, a wooden spoon and a saucepan lid on top of them.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Clearing the Runway
@@ -47,7 +47,7 @@ you feel like it.
 
 **🧰 You need:** the hall, or the longest run of floor in the house · masking tape · 1 envelope and a pen.
 
-1. Walk the length of it together and take out everything that would hurt to land on. The plant, the shoe rack, the basket of coats. She carries what she can into another room and you take the rest.
+1. Walk the length of it together and take out everything that would hurt to land on. The plant, the basket of coats. She carries what she can into another room and you take the rest.
 2. Tape a line across the floor at each end. She decides which one is the start and stands on it to make it official.
 3. Ask her what should happen in the middle. Write every answer on the back of the envelope, the ones you can build and the ones you cannot. The stations at 9:15 come off that list.
 
@@ -366,11 +366,11 @@ morning out is worth more to you today than any amount of tidying. A face he
 has not met costs more than the two hours buy back at 8 months, so a familiar
 one or nobody. Otherwise he goes where he can see you and not reach her: a
 travel crib in the same room, the high chair pulled up beside you, or the
-kitchen floor behind a gate with his own things. Keep his cup, his spoon
-and her cup on different counters. He will catch it anyway, and washing your
-hands between the two of them still shortens the odds. His naps hold their
-usual times, and those two stretches are the only two-handed hours you get, so
-do the things that need two hands then.
+kitchen floor behind a gate with his own things. Keep his cup, his spoon and
+her cup on different counters. He will catch it anyway, and washing your hands
+between the two of them still shortens the odds. His naps hold their usual
+times, and those two stretches are the only two-handed hours you get, so do
+the things that need two hands then.
 
 ---
 
@@ -419,7 +419,7 @@ from the kitchen.
 
 Still no clock times. She will tell you where the edges are.
 
-- **Whenever she wakes.** Ask her to walk to the kitchen for her own drink. Her legs tell you both more about how she is doing than any question you could ask.
+- **Whenever she wakes.** Bring the drink to her and watch how she takes it. Her hands and her voice tell you both more about how she is doing than any question you could ask.
 - **The good stretch, which comes early.** The best hours today land in the morning, so spend them. One job with an end to it, then a book, then stop while she still has some left.
 - **When she asks for food.** Appetite comes back sideways. Offer what she asked for yesterday and was refused, and let her leave most of it.
 - **The rest block after lunch.** Shorter today and it still happens, whatever she says about it.
@@ -436,11 +436,12 @@ asleep inside the first five minutes of an argument they were winning.
 
 ### 🛋️ Things She Can Do From the Sofa
 
-**The Jobs She Can Do Lying Down.** Bring the work to her. The silverware
-basket and a tray, sorted into forks, spoons and the blunt knives. A laundry
-basket of socks matched into pairs on her stomach. The crayon box tipped out
-on a cushion and put back in some order she invents. One job at a time, and
-take the tray away when it is finished so the finish is visible.
+**The Jobs She Can Do Lying Down.** Bring the work to her. A laundry basket of
+socks matched into pairs on her stomach. The crayon box tipped out on a
+cushion and put back in some order she invents. The silverware basket and a
+tray, sorted into forks, spoons and the blunt knives, while Kreston is asleep
+or behind the gate. One job at a time, and take the tray away when it is
+finished so the finish is visible.
 
 **The Spoon on the Mug.** Give her a teaspoon and a mug on the tray and one
 rule: two taps means she needs you, and you will come every time. She uses it
@@ -512,7 +513,7 @@ to anybody else the week he comes down with it himself.
 - **The Cushion Island Game.** Every cushion on the floor, and the floor between them counts as water.
 - **The Big Pile of Shoes.** Every shoe in the house tipped out and matched into pairs, biggest to smallest.
 - **Washing the Windows From the Inside.** A spray bottle of water, a cloth each, and her half of the glass is hers.
-- **The Cold Doorstep Minute.** Coats on, sixty seconds on the step in the falling snow, back in for something warm.
+- **The Cold Doorstep Minute.** Coats on, sixty seconds on a salted step in the falling snow, back in for something warm.
 - **The Phone Call to Somebody Far Away.** She dials, she talks, and you stay out of the conversation.
 - **The Grocery List She Dictates.** She says what the house needs and you write every item down, including the four cakes.
 - **Everything That Fits in a Shoebox.** A hunt through the house, and a long argument about the things that almost fit.

@@ -75,15 +75,15 @@ the dark is back by five.
 ### 🏠 Instead of Getting Outside: Getting Warm Without a Coat
 
 The house is cold and she has not moved her whole body since breakfast. Clear
-the hallway and set six things to do at the far end of it: ten jumping jacks,
-ten stomps, ten arm circles, one lap of the living room on tiptoe, the laundry
-basket carried the length of the hall, and a slow crawl back under the low
-table. Do the round with her and count out loud. At the end of each one she
-puts the back of her hand against her own cheek and reports whether she is warm
-yet, and the answer changes by the third round. Give her the marker and the
-back of yesterday's envelope and let her mark each round off as she finishes
-it. Five rounds takes forty minutes with the arguing about tiptoe included, and
-she comes to lunch pink and loud and ready to sit down.
+the hallway and build one round out of six things: ten jumping jacks, ten
+stomps, ten arm circles, a lap of the living room on tiptoe, the laundry basket
+carried the length of the hall, and a slow crawl back under the low table. Do
+the round with her and count out loud. At the end of each one she puts the back
+of her hand against her own cheek and says whether she is warm yet. The answer
+changes by the third round. Give her the marker and the back of yesterday's
+envelope and let her mark each round off as she finishes it. Five rounds takes
+forty minutes with the arguing about tiptoe included, and she comes to lunch
+pink and loud and ready to sit down.
 
 > 👶 **Infant Integration:** Kreston is 17 months and there is no version of
 > this morning where he holds a loaded brush. Give him his own brush, a cup of

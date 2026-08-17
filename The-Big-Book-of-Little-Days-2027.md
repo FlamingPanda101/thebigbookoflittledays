@@ -3430,7 +3430,7 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] A dishpan
 - [ ] A laundry basket
 - [ ] All your tupperware, boxes and lids
-- [ ] The cutlery drawer, knives and skewers taken out first
+- [ ] The silverware drawer, knives and skewers taken out first
 - [ ] Dining chairs, 2
 - [ ] Sofa cushions, 4
 - [ ] A blanket for the floor
@@ -4026,7 +4026,7 @@ herself.
 **Theme:** Puzzles & Problem Solving
 
 ### 🌙 Prep Tonight
-> Fill a laundry basket with twenty or thirty mixed things, take the knives out of the cutlery drawer, and put a cookie or stickers aside for tomorrow.
+> Fill a laundry basket with twenty or thirty mixed things, take the knives out of the silverware drawer, and put a cookie or stickers aside for tomorrow.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Basket of Everything
@@ -4094,7 +4094,7 @@ fixed two things you meant to fix in November.
 
 **🧰 Complete Materials List:**
 - All the tupperware boxes and lids
-- The cutlery drawer, **knives removed first**
+- The silverware drawer, **knives removed first**
 - 1 dish towel
 - 1 dishpan
 - Masking tape and a marker for labeling shelves
@@ -4140,7 +4140,7 @@ fixed two things you meant to fix in November.
 > that. The second sort does something further. Running a new rule over the
 > same objects, color one hour and size the next, is the flexible half of the
 > job, and it is harder than the first sort. You have her pairing socks and
-> sorting cutlery already. Same task, real result.
+> sorting silverware already. Same task, real result.
 
 > ⚠️ **Safety:** Knives, skewers and anything with a point come out of the
 > drawer before she is in the room and stay out until it goes back. Small
@@ -5530,8 +5530,8 @@ it comes in through the kitchen instead of the front step.
 - **1:00–2:30 PM** — 🎨 Second Main Event: The Tray of Things That Keep (90 min)
 - **2:30–3:30 PM** — 🎬 Movie Hour: The One She Picks (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
-- **4:00–4:15 PM** — 🧹 Her Job: Turning the Apple Rings
-- **4:15–5:00 PM** — Quiet Play: The Empty Jars
+- **4:00–4:15 PM** — 🧹 Her Job: Checking the Apple String
+- **4:15–5:00 PM** — Quiet Play: The Tray She Ranked
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath and Three Books
 - **6:00 PM** — **Dinner**
 
@@ -5548,17 +5548,15 @@ it comes in through the kitchen instead of the front step.
 **🧰 Complete Materials List:**
 - 3 apples, or any firm fruit in the bowl; with no fruit in the house, 1 potato or 2 thick slices of bread
 - 1 sharp knife (**adult only**)
-- Salt, 1 teaspoon
 - String, about a yard, and 2 clothespins
-- 2 saucers and 1 marker
+- 1 saucer and 1 marker
 
 **📝 Step-by-Step Instructions:**
 1. Slice the fruit across into rings about as thick as her fingernail. You cut, she counts them into a bowl and tells you when to stop.
 2. Set two rings aside on a saucer. That saucer gets nothing done to it, and it does more work today than anything else on the table.
-3. Rub the salt into two more rings and stand those on the second saucer. The day runs three ways from here: salted, plain, and one saucer left alone.
-4. Thread the plain rings onto the string with a gap between each one, hang it across the sill above the warm radiator, high up and well past her reach, and pin each end with a clothespin so it cannot slide.
-5. Write the date on both saucers. Look at the untouched one together every time either of you walks past it.
-6. Check the string at 4:00 as her job. Almost nothing will have changed, and the almost-nothing is the honest answer to how long this takes.
+3. Thread the rest of the rings onto the string with a gap between each one, hang it across the sill above the warm radiator, high up and well past her reach, and pin each end with a clothespin so it cannot slide.
+4. Write the date on the saucer, and look at it together every time either of you walks past it.
+5. Check the apple string at 4:00 as her job. Almost nothing will have changed, and the almost-nothing is the honest answer to how long this takes.
 
 > 💡 **Tip:** Do not skip the saucer that gets no treatment. The ring on the string means nothing to her without a brown one sitting beside it to compare against.
 
@@ -5743,7 +5741,7 @@ the change happens under her own hands inside a minute.
 4. Fish one out and rub it with the rag. It comes up bright. Hand her the rag and let her do every remaining coin herself.
 5. Rinse them all in the clean water and dry them, because ketchup left sitting on metal marks it.
 6. Line the bright coins up next to the one you left alone and ask her to tell you what happened. Write her explanation down word for word.
-7. Finish on the cutlery. A dry rag and ten minutes of buffing the forks, and she leaves them ready on the counter for 4:00.
+7. Finish on the silverware. A dry rag and ten minutes of buffing the forks, and she leaves them ready on the counter for 4:00.
 
 > 💡 **Tip:** Sixty seconds is a long minute for a three-year-old. Count it out loud with her, or she fishes them out at twenty and the trick fails on her.
 
@@ -5798,7 +5796,7 @@ setting up or clearing away.
 - **Whenever she wakes** · 🛋️ Making the Spot, and no decisions asked of her
 - **Once she is in it** · the first drink, small and often
 - **When lying still stops working** · 🫱 Lap Things: one at a time, dropped the moment it stops holding
-- **After the first long sleep** · more Lap Things, or the film, with no guilt attached to either
+- **After the first long sleep** · more Lap Things, or the movie, with no guilt attached to either
 - **The middle of the day** · 😴 The Rest Block
 - **When she asks for food** · small, bland, and only when she asks
 - **Before the afternoon dip** · a warm bath if she has it in her, a warm washcloth if she does not
@@ -5848,13 +5846,13 @@ at her today costs you both more than the missed meal does.
 He is 6 to 7 months, sitting on his own and rocking on hands and knees, and
 every week that rocking gets him a hand's width further, so anything of hers
 left within reach of his blanket is his. Set his blanket and a basket of his
-own things on the far side of the room where he can see her and not reach
-her, and take the playpen or travel crib out if you have one, since today is
-the day it earns its space. Wash your hands between them and keep
-her cup, her spoon and her washcloth off his patch. The odds are he catches it
-anyway, and the handwashing still buys you a couple of days. Feed him and
-change him on a schedule you set out loud, because she cannot wait for
-anything today and he will get skipped otherwise.
+own things on the far side of the room where he can see her and not reach her,
+and take the playpen or travel crib out if you have one, since today is the
+day it earns its space. Wash your hands between them and keep her cup, her
+spoon and her washcloth off his patch. The odds are he catches it anyway, and
+the handwashing still buys you a couple of days. Feed him and change him on a
+schedule you set out loud, because she cannot wait for anything today and he
+will get skipped otherwise.
 
 ---
 
@@ -7144,7 +7142,7 @@ Twelve buns, four names, four boxes, and she decides what goes where.
 > **On the days you use this page instead of the plan.**
 > Some mornings the plan is wrong. He was up four times, she is off, and the
 > page is asking for an oven and ninety minutes. Do one thing off the Afternoon
-> Alternatives instead, or none of it, and put a film on. A day where Azlyn
+> Alternatives instead, or none of it, and put a movie on. A day where Azlyn
 > ate, got outside for twenty minutes and had you within reach is a day that
 > did her good. Warm, responsive, unhurried adults are what the early childhood
 > research keeps coming back to, and nothing printed on this page outranks
@@ -10455,7 +10453,7 @@ you feel like it.
 > two-mile walk and nowhere to spend it, so the hall becomes the walk.*
 
 ### 🌙 Prep Tonight
-> Stack the sofa cushions at one end of the hall, put the masking tape and a wooden spoon on top of them, and move the shoe rack somewhere else.
+> Stack the sofa cushions at one end of the hall, and put the masking tape, a wooden spoon and a saucepan lid on top of them.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Clearing the Runway
@@ -10479,7 +10477,7 @@ you feel like it.
 
 **🧰 You need:** the hall, or the longest run of floor in the house · masking tape · 1 envelope and a pen.
 
-1. Walk the length of it together and take out everything that would hurt to land on. The plant, the shoe rack, the basket of coats. She carries what she can into another room and you take the rest.
+1. Walk the length of it together and take out everything that would hurt to land on. The plant, the basket of coats. She carries what she can into another room and you take the rest.
 2. Tape a line across the floor at each end. She decides which one is the start and stands on it to make it official.
 3. Ask her what should happen in the middle. Write every answer on the back of the envelope, the ones you can build and the ones you cannot. The stations at 9:15 come off that list.
 
@@ -10798,11 +10796,11 @@ morning out is worth more to you today than any amount of tidying. A face he
 has not met costs more than the two hours buy back at 8 months, so a familiar
 one or nobody. Otherwise he goes where he can see you and not reach her: a
 travel crib in the same room, the high chair pulled up beside you, or the
-kitchen floor behind a gate with his own things. Keep his cup, his spoon
-and her cup on different counters. He will catch it anyway, and washing your
-hands between the two of them still shortens the odds. His naps hold their
-usual times, and those two stretches are the only two-handed hours you get, so
-do the things that need two hands then.
+kitchen floor behind a gate with his own things. Keep his cup, his spoon and
+her cup on different counters. He will catch it anyway, and washing your hands
+between the two of them still shortens the odds. His naps hold their usual
+times, and those two stretches are the only two-handed hours you get, so do
+the things that need two hands then.
 
 ---
 
@@ -10851,7 +10849,7 @@ from the kitchen.
 
 Still no clock times. She will tell you where the edges are.
 
-- **Whenever she wakes.** Ask her to walk to the kitchen for her own drink. Her legs tell you both more about how she is doing than any question you could ask.
+- **Whenever she wakes.** Bring the drink to her and watch how she takes it. Her hands and her voice tell you both more about how she is doing than any question you could ask.
 - **The good stretch, which comes early.** The best hours today land in the morning, so spend them. One job with an end to it, then a book, then stop while she still has some left.
 - **When she asks for food.** Appetite comes back sideways. Offer what she asked for yesterday and was refused, and let her leave most of it.
 - **The rest block after lunch.** Shorter today and it still happens, whatever she says about it.
@@ -10868,11 +10866,12 @@ asleep inside the first five minutes of an argument they were winning.
 
 ### 🛋️ Things She Can Do From the Sofa
 
-**The Jobs She Can Do Lying Down.** Bring the work to her. The silverware
-basket and a tray, sorted into forks, spoons and the blunt knives. A laundry
-basket of socks matched into pairs on her stomach. The crayon box tipped out
-on a cushion and put back in some order she invents. One job at a time, and
-take the tray away when it is finished so the finish is visible.
+**The Jobs She Can Do Lying Down.** Bring the work to her. A laundry basket of
+socks matched into pairs on her stomach. The crayon box tipped out on a
+cushion and put back in some order she invents. The silverware basket and a
+tray, sorted into forks, spoons and the blunt knives, while Kreston is asleep
+or behind the gate. One job at a time, and take the tray away when it is
+finished so the finish is visible.
 
 **The Spoon on the Mug.** Give her a teaspoon and a mug on the tray and one
 rule: two taps means she needs you, and you will come every time. She uses it
@@ -10944,7 +10943,7 @@ to anybody else the week he comes down with it himself.
 - **The Cushion Island Game.** Every cushion on the floor, and the floor between them counts as water.
 - **The Big Pile of Shoes.** Every shoe in the house tipped out and matched into pairs, biggest to smallest.
 - **Washing the Windows From the Inside.** A spray bottle of water, a cloth each, and her half of the glass is hers.
-- **The Cold Doorstep Minute.** Coats on, sixty seconds on the step in the falling snow, back in for something warm.
+- **The Cold Doorstep Minute.** Coats on, sixty seconds on a salted step in the falling snow, back in for something warm.
 - **The Phone Call to Somebody Far Away.** She dials, she talks, and you stay out of the conversation.
 - **The Grocery List She Dictates.** She says what the house needs and you write every item down, including the four cakes.
 - **Everything That Fits in a Shoebox.** A hunt through the house, and a long argument about the things that almost fit.
@@ -21745,9 +21744,9 @@ does anything with it. Getting up is what starts the crying.
 She keeps one hand in yours and everything else stays where it is. Squeeze her
 hand three times and wait. She squeezes three back, then sends you a number of
 her own and you send it back. Go up to five and no higher, and let her catch
-you getting it wrong. This costs her nothing, needs no eyes open and one hand,
-and it runs as long as she wants it. It stops the second she lets go, and it is
-the one thing on this page that works while she is crying.
+you getting it wrong. This costs her nothing, asks for one hand and no eyes at
+all, and it runs as long as she wants it. It stops the second she lets go, and
+it is the one thing on this page that works while she is crying.
 
 ### 🪟 The One Thing That Changed Outside
 
@@ -21760,11 +21759,11 @@ counts as having been out.
 
 ### 📖 The Story She Hears With Her Eyes Shut
 
-Lights off, and no book anywhere near it, because holding one up is work and
-looking at a page is more work. Use a story she knows and put her in
-it, walking to the pond, feeding the ducks, meeting the neighbor's cat. Go slow
-and repeat whole lines. She will correct you when you get a detail wrong, which
-is the best sign of the day and worth getting wrong on purpose once or twice.
+Keep the lights off and the book out of it, because holding one up is work and
+looking at a page is more work. Use a story she knows and put her in it, walking
+to the pond, feeding the ducks, meeting the neighbor's cat. Go slow and repeat
+whole lines. She will correct you when you get a detail wrong, which is the best
+sign of the day and worth getting wrong on purpose once or twice.
 
 ### 👶 Keeping Kreston Out of It Today
 
@@ -21826,6 +21825,14 @@ answer, then look at the mouth together and find the evidence. A rabbit, a dog,
 a horse, a bird with no teeth at all. Nothing gets set up and nothing gets
 cleared away, and she can stop after four pages.
 
+### 🧦 Pairing the Socks From a Lap
+
+Bring the clean laundry basket to the sofa and tip the socks onto the cushion
+beside her. She pairs them, one at a time, at whatever speed she has today, and
+you take the pairs as she finishes them. A recovering child wants a job with a
+visible end and no standing up in it, and this one has both. She will find the
+odd one and want to know where it went, so let that be the interesting part.
+
 ### 😴 The Rest Block: The Lie-Down She Argues About
 
 She is well enough to refuse this and not well enough to skip it. Take the
@@ -21834,14 +21841,6 @@ shut, she keeps her socks on, and she does not have to sleep. Put an audio
 story on, lie down at the other end yourself, and say nothing for forty minutes.
 About half the time she goes under. The other half she lies there and comes out
 of it steadier than she went in, which was the point either way.
-
-### 🧦 Pairing the Socks From a Lap
-
-Bring the clean laundry basket to the sofa and tip the socks onto the cushion
-beside her. She pairs them, one at a time, at whatever speed she has today, and
-you take the pairs as she finishes them. A recovering child wants a job with a
-visible end and no standing up in it, and this one has both. She will find the
-odd one and want to know where it went, so let that be the interesting part.
 
 ### ☎️ Telling It Down the Phone
 
@@ -21858,20 +21857,20 @@ every answer down word for word, including the ones nobody is cooking. She draws
 one of them at the bottom. Stick the list on the fridge, and buy or cook one
 thing off it tomorrow so the list turns out to have been real.
 
-### 👶 Where Kreston Goes Today
+### 👶 Kreston at the Other End of the Sofa
 
 She wants to be near him today and he wants everything she is holding. Sit him
 on the floor at the far end of the sofa with the sock basket between them, give
 him two socks of his own to pull apart, and keep her hands out of his mouth
-until she is a day clear. He is 10 months and cruises, so he arrives at her lap
-on his own feet whether or not you planned it. Her best twenty minutes with him
-is reading him a board book from where she is lying, which serves both of them
-and costs her nothing.
+until she is a day clear. He is 10 months and cruises the length of the
+cushions, so he arrives at her end on his own feet whether or not you planned
+it. Her best twenty minutes with him is reading him a board book from where she
+is lying, which serves both of them and costs her nothing.
 
 > ⚠️ **Safety:** Twenty-four hours clear of a fever and of throwing up before
 > she goes near other children, and the clock starts at the last one and not at
 > bedtime. Keep the fluids going even though she looks fine, because the day
-> after is when the tank runs low. Phone the doctor if the fever comes back
+> after is when the tank runs low. Call the doctor if the fever comes back
 > after a clear day, if a cough is still there in two weeks, or if she goes
 > quiet and floppy again after a morning of being herself.
 
@@ -21900,12 +21899,12 @@ shopping, and nothing here takes longer to set up than it takes to do.
 ### 🎲 Alternative Activities
 
 - **Naming the Puddles:** every puddle between your door and the corner gets a name and a size word.
-- **The Two-Minute Rain Run:** out in whatever she has on, once round the house, back in, towel over her head.
+- **The Two-Minute Rain Run:** out in whatever she has on, once around the house, back in, towel over her head.
 - **Barefoot on Four Floors:** carpet, tile, wood and doormat, named with her eyes shut.
 - **The Shoe Line, Biggest to Smallest:** every shoe in the house laid along the hall in one order.
 - **A Ribbon Out the Window:** tied to the latch at breakfast and checked again at every meal.
 - **The Stairs, Counted Both Ways:** counting up on the way up, counting back down on the way down.
-- **The Bag You Can't See Into:** ten things from round the house, named by hand alone.
+- **One Thing in a Sock:** one object dropped into a long sock, named by hand before it comes out.
 - **Everything Green She Can Carry:** one pile in the middle of the floor, then all of it back where it came from.
 - **The Windowsill Cafe:** two cups, two chairs at the glass, and whatever goes past.
 - **The Drawer of Spoons:** tipped onto a dish towel and sorted back into families.
@@ -21913,8 +21912,8 @@ shopping, and nothing here takes longer to set up than it takes to do.
 
 ### 🎨 Alternative Arts & Crafts
 
-- **Rain Painting:** fat blobs of paint on paper, ten seconds out in the rain on a tray, then back in to dry.
-- **Mud Paint:** a spoon of soil, a splash of water and a brush, on a flattened box.
+- **Blowing the Paint Across the Page:** a puddle of watery paint, a drinking straw, and how far she can push it.
+- **A Nest for the Ones Outside:** yarn scraps, dryer lint and short bits of string on a saucer by the step.
 - **Printing With the Bottom of a Boot:** paint on the sole, then walk it across a long sheet of paper.
 - **The Longest Snake in the House:** playdough rolled thin until it runs off the end of the table.
 - **Two Tubes and a Piece of String:** binoculars for the street, colored in before they get used.
@@ -21927,9 +21926,9 @@ shopping, and nothing here takes longer to set up than it takes to do.
 
 ### 👶 Kreston's Turn
 
-- **The Cruising Lane:** two chairs a hand apart, backs out, so he steps sideways between them and meets the gap.
+- **The Cruising Lane:** two chairs pushed together, backs out, so he sidesteps the whole run with a hand on each.
 - **In and Out of the Big Pot:** a saucepan and four things too big to swallow, taken out and put back for as long as it holds him.
-- **The Point-and-Name Lap:** carried round the room, with a word for whatever his finger lands on, including the fourth time.
+- **The Point-and-Name Lap:** carried around the room, with a word for whatever his finger lands on, including the fourth time.
 - **Paper He Is Allowed to Wreck:** one whole newspaper page, too big to get in his mouth, and the noise is the whole point.
 
 <div style="page-break-after: always;"></div>
@@ -22042,7 +22041,7 @@ hold April's sheet up beside it and put both back on the wall.
 - [ ] A tray
 - [ ] A large plate or serving dish
 - [ ] Small bowls or saucers, 8 (five for the big plate, two for the button tin, one for the handprint water)
-- [ ] Cutlery and plates for five
+- [ ] Silverware and plates for five
 - [ ] Napkins, or a roll of paper towels
 - [ ] Plastic wrap
 - [ ] A blunt table knife and a butter knife
@@ -22333,7 +22332,7 @@ questions for dinner and a name at every seat.
 - 1 permanent marker
 - 1 pair of scissors (**adult only**)
 - Napkins, or squares of paper towels
-- The cutlery and the plates for five
+- The silverware and the plates for five
 
 **📝 Step-by-Step Instructions:**
 1. Pick four questions with her for tonight: what made you laugh, what was the hard bit, what did you eat that you liked, who did you help.
@@ -22342,7 +22341,7 @@ questions for dinner and a name at every seat.
 4. Fold five more pieces of card in half so they stand up. One name on each in marker, and she covers the rest in crayon.
 5. She practices reading her four pictures back to you. Let her get one wrong and leave it wrong.
 6. Napkins folded her way, one per place.
-7. Lay the table at two for six o'clock: plates, cutlery, a name card at each seat, the four question cards stacked in the middle. Nobody eats there until dinner.
+7. Lay the table at two for six o'clock: plates, silverware, a name card at each seat, the four question cards stacked in the middle. Nobody eats there until dinner.
 
 > 💡 **Tip:** Keep the tenth card back, because one always gets torn. Leave the table laid all afternoon where she walks past it.
 
@@ -26408,7 +26407,7 @@ them by how loud the rain is. Run between them rather than walking. The windows
 stay shut and the front door stays closed while you can hear thunder, and both
 of you keep off the glass and the frames. Finish at the loudest one and count
 the seconds between the flash and the rumble together. A long count puts the
-storm a long way off, and a count that grows on each round means it is leaving.
+storm a long way off, and a count that grows each time means it is leaving.
 The open door waits for the end of the day. Twenty minutes after the last
 thunder, step onto the mat with her and let her smell what May rain does to hot
 ground, because that smell is one she will recognize for the rest of her life.
@@ -26492,7 +26491,8 @@ backward, from a run-up: the variation is hers to invent and yours to lose at.
 > gets swept before he crawls on it. Wet paper balls and torn tape both choke.
 > During a thunderstorm keep both children off the corded phone, out of the bath
 > and away from the sink until the thunder has been gone twenty minutes or more.
-> Fill the paint cups and the washcloth bowl in one trip and let the dishes wait.
+> Fill the paint cups, the roasting pan and the washcloth bowl in one trip, and
+> let the dishes wait.
 > The day ends with warm washcloths and pajamas early instead of a bath. No open
 > windows and no open front door while you can still hear it.
 
@@ -30888,7 +30888,7 @@ becomes a book.
 
 > 🧠 **A Little Parenting Insight**
 > **Storytelling with prompts is easier than storytelling from nothing.**
-> Ask Azlyn to tell you a story and she freezes or recites a film. Hand her a
+> Ask Azlyn to tell you a story and she freezes or recites a movie. Hand her a
 > picture that has already landed and she is away. The hard part of
 > storytelling at three is the choosing: settling on what comes next out of
 > everything that could come next, while also finding the words for it. The
@@ -36351,7 +36351,7 @@ again.
 - [ ] A scrubbing brush and a sponge
 - [ ] Dish towels, 3
 - [ ] A washcloth and a damp cloth
-- [ ] Camp cups, plates and cutlery
+- [ ] Camp cups, plates and silverware
 - [ ] A pitcher, and 3 cups with lids
 - [ ] Water bottles, one each
 - [ ] Blankets or large towels, 4, one per person for the bedrolls
@@ -36857,7 +36857,7 @@ elbows to watch it become a drawing, six sheets or two.
 - 1 dish towel
 - 6 clothespins and a short line
 - 2 chairs to string the line between
-- The camp cups, plates and cutlery
+- The camp cups, plates and silverware
 - 1 low bench, upturned crate or step
 
 **📝 Step-by-Step Instructions:**
@@ -37371,7 +37371,7 @@ morning when you have ten minutes and no plan.
 
 A July storm parks over the house for hours, takes the light out of the rooms
 and makes going out a bad idea. Nobody is leaving today, and the plan runs on
-that. Everything below comes out of a cabinet you already have.
+that. Nothing on this page sends anybody to a store.
 
 ### 🌙 Prep Tonight
 
@@ -37526,7 +37526,7 @@ everything this one needs.
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
 - **1:00–2:30 PM** — 🎨 Second Main Event: The Coolest Clothes in the House (90 min)
-- **2:30–3:30 PM** — 🧊 Cool-Down Hour: The Washcloths in the Freezer (60 min)
+- **2:30–3:30 PM** — 🧊 Cool-Down Hour: The Frozen Bottles in a Dish Towel (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: Refilling the Pitcher for Dinner
 - **4:15–5:00 PM** — Quiet Play: The Clothes Pile and the Mirror
@@ -37538,7 +37538,7 @@ everything this one needs.
 **🧰 You need:** every pitcher, bottle, jar and lidded cup in the kitchen · her two hands.
 
 1. Open the cabinet doors and let her pull out everything that holds water. She lines them up along the counter, biggest to smallest, and she gets to argue the order with you.
-2. She picks the one that holds the most, and that one is the pitcher for the day. Two of the small bottles go in the freezer for the afternoon and the rest go back.
+2. She picks the one that holds the most, and that one is the pitcher for the day. Two of the small bottles go in the freezer for two thirty, each one wrapped in a dish towel when it comes out, and the rest go back in the cabinet.
 3. Give her the last job: work out which room is going to be coolest at two o'clock. That room is where the afternoon happens.
 
 ### 🎨 The Main Event: The Pitcher That Has to Be Empty by Dinner
@@ -37595,7 +37595,7 @@ wearing the answer.
 4. She builds an outfit for every person in the house out of the cool heap, yours included, and everybody puts theirs on. The sheet is a robe, the scarf is a headwrap, the dish towel goes over the back of a neck.
 5. Stand the mirror against the wall and let everybody look before the camera comes out. One photograph each in the doorway, and let her direct where people stand.
 6. Last job is tomorrow's. She picks what she will wear in the heat in the morning and lays it flat on the end of her bed with the hat on top of it.
-7. Everything else back in the basket, carried between the two of you.
+7. Everything else back in the basket, carried between the two of you, and the basket stays in that room with the mirror for four o'clock.
 
 > 💡 **Tip:** Wear what she picks for you. An outfit she chose that gets refused stops the game, and the whole hour runs on her being the one who decides.
 
@@ -37626,9 +37626,11 @@ wearing the answer.
 > for any length of time, for any reason, including a two-minute errand: the
 > inside of a car in July reaches lethal heat within minutes and the windows
 > make no difference. Upstairs rooms hold the day's heat until late, so keep
-> both of them downstairs until the sun is off the house. A floor fan tips over
-> and a 13-month-old puts fingers through a grille, so stand it high and out of
-> his reach or leave it off while he is loose in the room.
+> both of them downstairs until the sun is off the house. A bottle straight out
+> of the freezer sticks to skin, so it stays in the dish towel for both of them.
+> A floor fan tips over and a 13-month-old puts fingers through a grille, so
+> stand it high and out of his reach or leave it off while he is loose in the
+> room.
 
 <div style="page-break-after: always;"></div>
 
@@ -43364,7 +43366,7 @@ does as they are told.
 - 2 flashlights with fresh batteries
 - 2–3 blankets or towels for the windows
 - 1 basket of unmatched socks
-- Cutlery for the table
+- Silverware for the table
 - 1 lidded cup of water for Kreston
 - 1 alarm clock or a kitchen timer
 - Her list from 8:00
@@ -43373,7 +43375,7 @@ does as they are told.
 1. Blankets over the curtain rail or wedged into the frame, every light off, doors shut. Half past nine, and the room needs a flashlight.
 2. Set the alarm clock for thirty minutes. That is the shift, and it ends when the bell goes.
 3. One flashlight each. She can point hers anywhere she likes for the first two minutes.
-4. Four jobs off her list by flashlight: match the sock basket, lay the cutlery, find one red thing, carry Kreston's water through.
+4. Four jobs off her list by flashlight: match the sock basket, lay the silverware, find one red thing, carry Kreston's water through.
 5. Sock matching is the hard one in the dark. Let two pairs go wrong and let her find out when the blankets come down.
 6. At the bell, pull the blankets off together. Ask which job the dark made harder.
 
@@ -50609,7 +50611,7 @@ shutters up. Ask what each job is for. Mid-October gives you everybody's
 breath in the air.
 
 > 👶 **Infant Integration:** Kreston is 16 months and copies chores, so a
-> garbage truck is a whole film to him. Stop the stroller and let him watch the
+> garbage truck is a whole movie to him. Stop the stroller and let him watch the
 > arm go up and come down twice. He waves at the crew and they wave back.
 
 <div style="page-break-after: always;"></div>
@@ -50897,7 +50899,7 @@ Afternoon snack, the way it works with no gravity. Everything gets taped down.
 2. Tape the tray to the table by all four corners and push it. It does not move, and that is the rule for the rest.
 3. Yogurt into the squeezy bottle, apple pieces into one bag, moon rocks into another. She loads them.
 4. Tape each bag to the tray by one corner, and the straw and the cup as well.
-5. She eats the apple out of the bag with no hands on the bag, and the yogurt straight out of the bottle. No plates, no bowls, no cutlery.
+5. She eats the apple out of the bag with no hands on the bag, and the yogurt straight out of the bottle. No plates, no bowls, no silverware.
 6. Halfway through, let go of everything at once and see what stays put. The tape is the reason any of it works.
 7. Untape, wipe down, and ask whether she would want dinner like that every night. She will say no.
 
@@ -53281,7 +53283,7 @@ whole thing runs on her telling them what each thing is.
 > everybody else. He walks the tour holding a hand and reaches for whatever he
 > should not, so move the fragile end of the wall out of range before one
 > o'clock. He has ten or more words and he will spend one of them on the
-> dinosaur. That is the bit of the film you keep.
+> dinosaur. That is the bit of the movie you keep.
 
 ---
 
@@ -58381,15 +58383,15 @@ the dark is back by five.
 ### 🏠 Instead of Getting Outside: Getting Warm Without a Coat
 
 The house is cold and she has not moved her whole body since breakfast. Clear
-the hallway and set six things to do at the far end of it: ten jumping jacks,
-ten stomps, ten arm circles, one lap of the living room on tiptoe, the laundry
-basket carried the length of the hall, and a slow crawl back under the low
-table. Do the round with her and count out loud. At the end of each one she
-puts the back of her hand against her own cheek and reports whether she is warm
-yet, and the answer changes by the third round. Give her the marker and the
-back of yesterday's envelope and let her mark each round off as she finishes
-it. Five rounds takes forty minutes with the arguing about tiptoe included, and
-she comes to lunch pink and loud and ready to sit down.
+the hallway and build one round out of six things: ten jumping jacks, ten
+stomps, ten arm circles, a lap of the living room on tiptoe, the laundry basket
+carried the length of the hall, and a slow crawl back under the low table. Do
+the round with her and count out loud. At the end of each one she puts the back
+of her hand against her own cheek and says whether she is warm yet. The answer
+changes by the third round. Give her the marker and the back of yesterday's
+envelope and let her mark each round off as she finishes it. Five rounds takes
+forty minutes with the arguing about tiptoe included, and she comes to lunch
+pink and loud and ready to sit down.
 
 > 👶 **Infant Integration:** Kreston is 17 months and there is no version of
 > this morning where he holds a loaded brush. Give him his own brush, a cup of
@@ -60055,7 +60057,7 @@ three than it sounds.
 - [ ] A laundry basket
 - [ ] An ice cube tray, filled the night before
 - [ ] A clock or a phone timer
-- [ ] Your phone, for one film and one recording
+- [ ] Your phone, for one video and one recording
 - [ ] An animal book, whatever is already on the shelf
 - [ ] Every soft toy and toy animal in the house
 - [ ] Every coat and jacket by the front door
@@ -63922,7 +63924,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [The Sticky Wall](#feb-extras) — 🎲 February · Extra Ideas
 - [Dirty End, Clean End](#mar-weather-2) — 🌧️ March · Bad Weather Day 2
 - [Three Jars of Mud Paint](#mar-extras) — 🎲 March · Extra Ideas
-- [Mud Paint](#apr-extras) — 🎲 April · Extra Ideas
+- [Blowing the Paint Across the Page](#apr-extras) — 🎲 April · Extra Ideas
 - [Rain Down the Paper](#may-weather-1) — 🌧️ May · Bad Weather Day 1
 - [Grinding the Oats by Hand](#jun-weather-2) — 🌧️ June · Bad Weather Day 2
 - [The Laundry Done by Hand](#jun-weather-2) — 🌧️ June · Bad Weather Day 2
@@ -63949,7 +63951,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [Showing Him How It All Works](#mar-weather-1) — 🌧️ March · Bad Weather Day 1
 - [Six Games, Two Jars](#apr-weather-2) — 🌧️ April · Bad Weather Day 2
 - [The Shop That Takes Beans](#apr-weather-2) — 🌧️ April · Bad Weather Day 2
-- [The Bag You Can't See Into](#apr-extras) — 🎲 April · Extra Ideas
+- [One Thing in a Sock](#apr-extras) — 🎲 April · Extra Ideas
 - [The Taking-Apart Table](#jun-weather-1) — 🌧️ June · Bad Weather Day 1
 - [The Hour With No Words](#jul-weather-1) — 🌧️ July · Bad Weather Day 1
 - [The Rainbow She Can Turn Off](#aug-weather-1) — 🌧️ August · Bad Weather Day 1
@@ -64026,7 +64028,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [The Story She Can Close Her Eyes For](#mar-sick-1) — 🤒 March · Sick Day 1
 - [The Drawer She Empties and Refills](#mar-sick-2) — 🤒 March · Sick Day 2
 - [Under the Umbrella, Listening](#mar-extras) — 🎲 March · Extra Ideas
-- [The Story With No Book](#apr-sick-1) — 🤒 April · Sick Day 1
+- [The Story She Hears With Her Eyes Shut](#apr-sick-1) — 🤒 April · Sick Day 1
 - [Pairing the Socks From a Lap](#apr-sick-2) — 🤒 April · Sick Day 2
 - [The Warm Cloth and the Cold Cloth](#may-sick-1) — 🤒 May · Sick Day 1
 - [One Hand Cold, One Hand Warm](#jun-extras) — 🎲 June · Extra Ideas
@@ -64053,7 +64055,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [Everything That Fits in a Shoebox](#feb-extras) — 🎲 February · Extra Ideas
 - [The Bed He Has to Fit In](#mar-weather-1) — 🌧️ March · Bad Weather Day 1
 - [The Wind Spinner Off a Cereal Box](#mar-extras) — 🎲 March · Extra Ideas
-- [Mud Paint](#apr-extras) — 🎲 April · Extra Ideas
+- [Two Tubes and a Piece of String](#apr-extras) — 🎲 April · Extra Ideas
 - [Cardboard Sunglasses](#may-extras) — 🎲 May · Extra Ideas
 - [A Crown From a Cereal Box](#jun-extras) — 🎲 June · Extra Ideas
 - [The Boat That Fits the Whole Toy Box](#jul-weather-1) — 🌧️ July · Bad Weather Day 1
@@ -64075,7 +64077,7 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 - [The Judge's Chair](#feb-weather-1) — 🌧️ February · Bad Weather Day 1
 - [The Grocery List She Dictates](#feb-extras) — 🎲 February · Extra Ideas
 - [The Visitor at the Door](#mar-weather-1) — 🌧️ March · Bad Weather Day 1
-- [Drawing on Her Back](#apr-sick-1) — 🤒 April · Sick Day 1
+- [The Paper Road](#apr-weather-1) — 🌧️ April · Bad Weather Day 1
 - [Newspaper Hats for Everybody](#apr-extras) — 🎲 April · Extra Ideas
 - [The Card That Goes in the Mailbox](#apr-extras) — 🎲 April · Extra Ideas
 - [Tape Resist Letters](#may-extras) — 🎲 May · Extra Ideas
