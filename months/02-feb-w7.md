@@ -10,8 +10,8 @@
 Everything Azlyn makes this week has somebody's name on it. Bread for next
 door on Friday, a Danish letter signed with dots instead of a name on
 Saturday, eight crooked cards on Sunday, a necklace measured against a real
-neck on Monday. The letterbox goes up by the front door on the first day and
-stays shut until Thursday, when she tips six days of post onto the floor,
+neck on Monday. The mailbox goes up by the front door on the first day and
+stays shut until Thursday, when she tips six days of mail onto the floor,
 sorts it into piles and walks it round the street herself.
 
 Valentine's Day lands on the Sunday and gets the full day: hearts torn by
@@ -26,8 +26,8 @@ else. The rest of the week runs on paper, flour and tape.
 - **Fine-motor work with a point to it.** Threading forty pasta tubes, folding and snipping paper lace, buttering a whole slice of bread.
 - **Counting that changes the outcome.** Three stamps on a parcel, one plate per person, five dots for the five letters in her name.
 - **Choosing for somebody else.** She names the recipient first, then works out what that person would like, which is hard at three and gets easier with practice.
-- **Handling food she has opinions about.** Kneading dough, tearing lettuce, peeling satsumas, cutting cucumber into sticks with a blunt knife.
-- **Waiting when the wait is visible.** A timer set for 9:15, a dough that rises on its own schedule, a letterbox that stays shut until Thursday.
+- **Handling food she has opinions about.** Kneading dough, tearing lettuce, peeling clementines, cutting cucumber into sticks with a blunt knife.
+- **Waiting when the wait is visible.** A timer set for 9:15, a dough that rises on its own schedule, a mailbox that stays shut until Thursday.
 
 ---
 
@@ -52,7 +52,7 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Red or pink paper, 4 sheets
 - [ ] Cereal boxes, flattened, 3
 - [ ] Thick card, 1 sheet, for the post office sign
-- [ ] Shoeboxes with lids, 2 (the letterbox Friday, the register Wednesday)
+- [ ] Shoeboxes with lids, 2 (the mailbox Friday, the register Wednesday)
 - [ ] A small box for the real parcel
 - [ ] Old magazines and junk mail, a stack
 - [ ] Newspaper, a stack
@@ -67,7 +67,7 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Child-safe scissors
 - [ ] Heavy scissors or a craft knife (adult only)
 - [ ] Masking tape, 1 roll
-- [ ] Sticky tape
+- [ ] Clear tape
 - [ ] Packing tape
 - [ ] A glue stick
 - [ ] String, 3 meters
@@ -76,8 +76,8 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Ribbon, a scrap
 - [ ] Clothespins, 8
 - [ ] A bulldog clip
-- [ ] Strong white bread flour, 500 g, plus extra for the table
-- [ ] Fast-action yeast, 1 sachet (7 g)
+- [ ] Bread flour, 500 g, plus extra for the table
+- [ ] Instant yeast, 1 packet (7 g)
 - [ ] Salt and sugar
 - [ ] Oil, 1 tbsp
 - [ ] Bread, 6 slices
@@ -89,7 +89,7 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] A lettuce or a bag of salad
 - [ ] 1 cucumber
 - [ ] 1 banana
-- [ ] 2 satsumas and a soft pear
+- [ ] 2 clementines and a soft pear
 - [ ] Dried pasta tubes, 200 g
 - [ ] Food coloring, 3 colors
 - [ ] White vinegar
@@ -103,15 +103,15 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Baking trays, 2, and baking paper
 - [ ] A large mixing bowl
 - [ ] Small bowls, 3
-- [ ] 4 plates and a chopping board
+- [ ] 4 plates and a cutting board
 - [ ] Blunt table knives, 4
-- [ ] Cutlery and a plate for everyone at Sunday dinner
+- [ ] Silverware and a plate for everyone at Sunday dinner
 - [ ] Dish towels, 2
 - [ ] Napkins or paper towels
 - [ ] Two washcloths you can get wet
-- [ ] Kitchen scales, or a coat hanger and 2 yogurt pots
+- [ ] A kitchen scale, or a coat hanger and 2 yogurt cups
 - [ ] A timer
-- [ ] A real coin to draw round, and change for the shop and the post office
+- [ ] A real coin to draw round, and change for the store and the post office
 - [ ] A candle in a stable holder, or a battery tealight
 - [ ] A plain wooden spoon
 - [ ] A laundry basket
@@ -127,16 +127,16 @@ else. The rest of the week runs on paper, flour and tape.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
-> Brooklyn, this is the week the house makes things and gives them away, and
-> every delivery on the list has you standing two steps back on somebody's
-> doorstep while she does the talking. I know what the fourth knock costs.
-> Valentine's Day lands on the Sunday and eight crooked cards get glued that
-> morning, half of them for you. Keep one somewhere I can find it in December.
-> Kreston is eight months and wants whoever is holding him, so most of this
-> happens with one arm. The spoon she makes on Thursday has a name down the
-> handle. I have a guess whose.
+> The mailbox goes up by the front door on Friday and does not get opened
+> until Thursday. That is six days of her checking it and asking, and every
+> one of those asks lands on you, because I set the rule at a desk in
+> December and put myself nowhere near the cost of it. Monday I renamed the
+> housework Jobs That Need Two People, which is a trick, and it will hold
+> until about the fourth time you tow her down the hall in the laundry
+> basket. Sunday is the fourteenth and there will be eight cards glued
+> crooked, a few of them for me. Put one somewhere I can find it in December.
+> If the box gets opened on Tuesday because she cannot stand it any longer,
+> that was always allowed.
 
 ---
 
@@ -167,11 +167,11 @@ else. The rest of the week runs on paper, flour and tape.
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
-- **1:00–2:30 PM** — 🎨 Second Main Event: The Letterbox by the Door (90 min)
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Mailbox by the Door (90 min)
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Bread Basket
-- **4:15–5:00 PM** — Quiet Play: Posting Things Into the Letterbox
+- **4:15–5:00 PM** — Quiet Play: Posting Things Into the Mailbox
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Book About Friends
 - **6:00 PM** — **Dinner**
 
@@ -186,8 +186,8 @@ else. The rest of the week runs on paper, flour and tape.
 ### 🎨 The Main Event: Rolls for the People Next Door
 
 **🧰 Complete Materials List:**
-- 500g strong white bread flour
-- 1 sachet (7g) fast-action yeast
+- 500g bread flour
+- 1 packet (7g) instant yeast
 - 1 tsp salt, 1 tsp sugar
 - 300ml warm water
 - 1 tbsp oil
@@ -203,7 +203,7 @@ else. The rest of the week runs on paper, flour and tape.
 1. Tip the dough onto the floured table and let her drive both fists into it until it goes back down to the size it started. This is the loud part and it lasts as long as she wants.
 2. Cut it into twelve pieces. She rolls each one under a flat palm into a ball. The lumpy ones bake the same as the round ones.
 3. Six to a lined tray, two fingers apart, dish towel over the top. Somewhere warm for forty minutes.
-4. While they prove she draws on the two paper bags. Say the neighbors' names out loud so she knows where each bag is going.
+4. While they proof she draws on the two paper bags. Say the neighbors' names out loud so she knows where each bag is going.
 5. Oven at 425°F. Bake fifteen minutes, until the tops are brown and the bottom of one sounds hollow when you knock it. Out around 10:25.
 6. Three warm rolls into each bag at snack time. She eats one of the other six while she loads them.
 
@@ -225,10 +225,10 @@ the walk afterwards.
 
 <div style="page-break-after: always;"></div>
 
-### 🎨 Second Main Event: The Letterbox by the Door
+### 🎨 Second Main Event: The Mailbox by the Door
 
 Everything Azlyn makes this week needs somewhere to go until Thursday. The
-letterbox goes up by the front door this afternoon.
+mailbox goes up by the front door this afternoon.
 
 **🧰 Complete Materials List:**
 - 1 cereal box or shoebox with a lid
@@ -244,11 +244,11 @@ letterbox goes up by the front door this afternoon.
 2. Tape the lid on all the way round so the slot is the only way in.
 3. Cover the box in paper and hand her the crayons. Every side is hers. Ask what a mailbox needs written on it and write down her words.
 4. Hold it against the wall by the front door and let her say when the height is right. Tape or clip it there.
-5. First post: she draws one thing for each person in the house, folds them, posts them. Nobody looks.
+5. First delivery: she draws one thing for each person in the house, folds them, posts them. Nobody looks.
 6. Say the rule out loud once: it stays shut until Thursday, and anything she makes for Thursday goes in it. Some things go straight to somebody's door the same day, and you say which.
 7. Mark Thursday on the calendar and count the days with her.
 
-> 💡 **Tip:** Hang it low. A letterbox she has to ask for help with turns into your letterbox by Sunday.
+> 💡 **Tip:** Hang it low. A mailbox she has to ask for help with turns into your mailbox by Sunday.
 
 ### 🎯 Afternoon Alternatives
 - A paper bag taped to the wall does the same job in four minutes.
@@ -257,7 +257,7 @@ letterbox goes up by the front door this afternoon.
 
 ### 🌳 Out Again: **Pick one**
 - **A café**, cake and a window to watch the street through
-- The corner shop for a book of stamps, and she hands the money over
+- The corner store for a book of stamps, and she hands the money over
 - Back to the neighbor's, if the door opened and the kettle went on
 - The playground, if a morning at the table has left her wound up
 
@@ -362,9 +362,9 @@ rhyme, and dots instead of a name.
 Pussy willows break in February and the buds come out gray and furry, which is
 the whole reason to walk to one. Look along a ditch, a damp corner of the park,
 the edge of a parking lot. Let her run a thumb over a bud before she looks at
-it. Post the letter on the way past, then take one twig with permission. A
-florist or the grocery store sells the cut branches all month if none grow near
-you.
+it. Drop the letter through their door on the way past, then take one twig with
+permission. A florist or the grocery store sells the cut branches all month if
+none grow near you.
 
 > 👶 **Infant Integration:** Kreston is 8 months. Give him a sheet of
 > parchment paper too big to go in his mouth and let him crush it with both
@@ -383,7 +383,7 @@ its owner has to find it.
 - White paper, 4 more sheets
 - Child-safe scissors
 - Crayons
-- Sticky tape
+- Clear tape
 - The willow twig or a green sprig from the walk
 - One small forfeit: a cookie or an extra bedtime story
 
@@ -408,13 +408,13 @@ its owner has to find it.
 - **A train ride**, two stops out and two stops back, and she holds the tickets
 - The station platform on its own if the ride is too much today
 - A drive to the park with the willows along the water
-- Soft play, for a Saturday that has been quiet and indoors
+- The indoor play center, for a Saturday that has been quiet and indoors
 - The park with the long path, on the bikes
 
 > 👶 **Kreston's Afternoon:** Take him on the train. At 8 months the window is
 > the whole trip, and he tracks a passing fence post to the edge of his vision
 > and hunts for it again. Sit him on your lap facing the glass. If the
-> carriage is full and somebody friendly leans in, turn him toward you without
+> train car is full and somebody friendly leans in, turn him toward you without
 > apologizing for him.
 
 ---
@@ -490,7 +490,7 @@ its owner has to find it.
 3. Crayons after the glue. She scribbles across the hearts and it is meant to look like that.
 4. Card by card, ask what it should say. Write down what comes out, word for word, and sign it with her name in her own attempt at letters.
 5. Anything she wants to add after you have written on it goes on. The card is finished when she says it is.
-6. Stack them by the letterbox. Half go in it now, half get handed over in person this afternoon.
+6. Stack them by the mailbox. Half go in it now, half get handed over in person this afternoon.
 
 > 💡 **Tip:** You will want to straighten one heart. Sit on your hands. She can see the difference between what she made and what you made.
 
@@ -502,10 +502,10 @@ rose hips on the stems, brake lights, somebody's scarf, a red car. On the way
 home she picks the reddest thing on the street and tells you why.
 
 > 👶 **Infant Integration:** Kreston is 8 months and holds one thing in each
-> hand while looking at a third. Give him a red scarf and a red plastic lid on
-> the floor near the gluing and he will bang one on the other. Keep the torn
-> scraps up on the table. Outside, hold a red leaf or a berry stem where he
-> can see it in the stroller.
+> hand while looking at a third. Give him a red burp cloth and a red plastic
+> lid wider than his mouth on the floor near the gluing, and he will bang one
+> on the other. Keep the torn scraps up on the table. Outside, hold a red leaf
+> or a berry stem where he can see it in the stroller.
 
 <div style="page-break-after: always;"></div>
 
@@ -521,16 +521,16 @@ place, including who sits where.
 - 1 marker
 - Napkins or paper towels
 - 1 jam jar and whatever is growing outside
-- Cutlery and plates for everyone
+- Silverware and plates for everyone
 - 1 candle in a stable holder, or a battery tealight
 
 **📝 Step-by-Step Instructions:**
-1. Tape the string along the front edge of the table, low, and let her clip the hearts along it. Spacing is hers, so expect eleven at one end.
+1. Tape the string flat along the front edge of the table, pulled taut, with a tab of tape every hand's width so no loop hangs down. She clips the hearts along it, and spacing is hers, so expect eleven at one end.
 2. One torn heart per person becomes a place card. She writes the names, you write them underneath in small letters.
 3. She decides who sits where and puts the cards down. Do not move them, even the one that puts Kreston at the head of the table.
 4. Fold the napkins into triangles and let her do the second half. Triangles are hard at three and she gets better inside ten napkins.
-5. Fill the jam jar outside: bare twigs, ivy, a sprig of something evergreen. February gives you a green centrepiece and no flowers.
-6. Cutlery last, one setting at a time, walking round the table with a fistful.
+5. Fill the jam jar outside: bare twigs, ivy, a sprig of something evergreen. February gives you a green centerpiece and no flowers.
+6. Silverware last, one setting at a time, walking round the table with a fistful.
 7. Light the candle at six, in front of her, and put it in the middle where nobody can knock it.
 
 > 💡 **Tip:** Take a photo of the table before anyone sits at it. She sees the whole thing at once in the picture.
@@ -556,7 +556,7 @@ place, including who sits where.
 > 🧠 **A Little Parenting Insight**
 > **Ugly is fine. Ugly is better.**
 > Eight cards, no straight lines, and a heart glued half off the edge. The
-> version where you tidied them would look better on the mantelpiece and would
+> version where you tidied them would look better on the mantel and would
 > teach her something you would rather she did not learn, which is that her
 > work arrives at an adult for correction. A child who owns the whole job comes
 > back to it on her own. Straighten one heart for her and she notices, and the
@@ -566,9 +566,10 @@ place, including who sits where.
 
 > ⚠️ **Safety:** A lit candle sits in the middle of the table, out of arm's
 > reach of a high chair, and it goes out before anyone leaves the room. A
-> battery tealight does the job if that sounds like work tonight. Take the
-> string garland down at bedtime. Loose string at toddler height is a
-> strangulation risk and it does not stay up overnight.
+> battery tealight does the job if that sounds like work tonight. The garland
+> runs at Kreston's standing height, so it stays taped flat and taut with no
+> loop hanging anywhere, and it comes down at bedtime. Loose string at toddler
+> height is a strangulation risk.
 
 <div style="page-break-after: always;"></div>
 
@@ -601,11 +602,11 @@ place, including who sits where.
 
 ### 🌅 Opening Activity: Marking Where It Ends
 
-**🧰 You need:** 1 shoelace or a length of string · sticky tape · 1 large bead or a fat knot.
+**🧰 You need:** 1 shoelace or a length of string · clear tape · 1 large bead or a fat knot.
 
 1. Ask who the necklace is for, anybody in the house except Kreston, and say why. Hold the lace round that neck, loose, and let her see where the two ends meet.
 2. Tie the finish knot there, or thread the big bead on and knot it in place. Everything she threads today goes in front of that mark.
-3. Wrap the other end tight in tape until it is stiff as a bootlace tip.
+3. Wrap the other end tight in tape until it is stiff as a shoelace tip.
 
 ### 🎨 The Main Event: The Necklace with a Finish Line
 
@@ -613,7 +614,7 @@ place, including who sits where.
 - Dried pasta tubes, 200g, dyed the night before, or plain undyed tubes, which thread the same
 - Food coloring, 3 colors
 - 1 tbsp vinegar and a freezer bag per color (night before)
-- 1 shoelace, or string with one end wrapped tight in sticky tape
+- 1 shoelace, or string with one end wrapped tight in clear tape
 - 1 large bead or a fat knot as the finish marker
 - 3 small bowls
 - 1 tray lined with baking paper
@@ -664,7 +665,7 @@ to be a job.
 2. The sheet. One corner each, walk it across the room without letting it touch the floor, then fold it walking toward each other.
 3. The book relay. Six books from one room to another with a rule: she carries, you open doors, neither of you does both.
 4. Sweeping. You hold the dustpan, she brushes into it, then swap and let her tell you what you missed.
-5. Washing up in the bowl on the floor with two cups. She washes, you dry, then swap. Water gets everywhere and the dish towel is for the floor.
+5. Washing dishes in the dishpan on the floor with two cups. She washes, you dry, then swap. Water gets everywhere and the dish towel is for the floor.
 6. Ask which job was easier with two people.
 7. Finish with the basket again. Eighty minutes of work earns a ride.
 
@@ -672,7 +673,7 @@ to be a job.
 
 ### 🎯 Afternoon Alternatives
 - The basket ride and nothing else, up and down the hall until you give out.
-- Carry the washing basket to the line together, one handle each.
+- Carry the laundry basket out to the clothesline together, one handle each.
 - Move every cushion in the house into one pile, two hands per cushion.
 
 ### 🌳 Out Again: **Pick one**
@@ -713,7 +714,7 @@ to be a job.
 **Theme:** Love & Friendship
 
 ### 🌙 Prep Tonight
-> Put the four blunt table knives and the chopping board on the counter, stand the yogurt and the cream cheese at the front of the fridge, and find a blanket big enough for everyone to sit on.
+> Put the four blunt table knives and the cutting board on the counter, stand the yogurt and the cream cheese at the front of the fridge, and find a blanket big enough for everyone to sit on.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Washing What Goes on the Plates
@@ -735,7 +736,7 @@ to be a job.
 
 ### 🌅 Opening Activity: Washing What Goes on the Plates
 
-**🧰 You need:** the cucumber, lettuce and satsumas · 1 bowl of cool water · 1 dish towel.
+**🧰 You need:** the cucumber, lettuce and clementines · 1 bowl of cool water · 1 dish towel.
 
 1. Bowl of water on the table, everything that needs washing beside it, dish towel across her lap.
 2. She washes and dries each item and lines them up. Name each one as it comes out of the water.
@@ -747,19 +748,19 @@ to be a job.
 - 6 slices of bread
 - Butter or cream cheese
 - 1 banana
-- 2 satsumas or a soft pear
+- 2 clementines or a soft pear
 - Half a cucumber
 - 4 slices of cheese
 - 1 lettuce or a bag of salad
 - 4 blunt table knives
-- 4 plates and 1 chopping board
+- 4 plates and 1 cutting board
 - 1 bowl of warm soapy water and a dish towel
 
 **📝 Step-by-Step Instructions:**
 1. Butter first. Blunt knife, bread flat on the board, and let her go until the whole slice is covered even if it takes four minutes.
 2. Cutting: cucumber into sticks rather than coins, cheese into strips, table knife, her hand on top of yours for the first three.
 3. Tearing is where she is strongest, so give her the lettuce and the bread crusts to tear straight onto the plates.
-4. Peeling the satsumas is a fifteen-minute job at three. Start the skin with your thumbnail and hand it over.
+4. Peeling the clementines is a fifteen-minute job at three. Start the skin with your thumbnail and hand it over.
 5. One plate per person, side by side. She decides what goes on whose. Somebody is getting nine cucumber sticks and no bread.
 6. Cover them and put them in the fridge until twelve. She carries them to the table herself at lunch and says whose is whose.
 
@@ -767,7 +768,7 @@ to be a job.
 
 ### 🌳 Get Outside: Buying the One Missing Thing
 
-One thing lunch needs is not in the fridge. Walk to the shop for it, no list
+One thing lunch needs is not in the fridge. Walk to the store for it, no list
 and no cart. She carries the coins, finds it on the shelf, hands it over
 and takes the change. February sidewalks are wet and a ten-minute walk will
 take thirty, so leave early.
@@ -791,7 +792,7 @@ the one carrying it in.
 - The other half of the cucumber and whatever salad is left
 - Crackers or breadsticks
 - 2 small bowls and 2 teaspoons
-- 1 blunt table knife and 1 chopping board
+- 1 blunt table knife and 1 cutting board
 - 1 blanket or a big towel for the floor
 - 1 tray or a basket to carry it through
 - 1 pitcher of water and a small cup each
@@ -814,7 +815,7 @@ the one carrying it in.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one
-- The pool's quiet session, if Tuesday afternoon is chaos this term
+- The pool's quiet session, if Tuesday afternoons are chaos right now
 - A warm bath at home with cups and pitchers, if the pool is shut
 - The library on the way home, half an hour before it shuts
 
@@ -884,7 +885,7 @@ the one carrying it in.
 
 **🧰 Complete Materials List:**
 - 6–10 small parcels wrapped in newspaper and taped
-- Kitchen scales, or a coat hanger with a yogurt pot hanging from each end
+- A kitchen scale, or a coat hanger with a yogurt cup hanging from each end
 - 30 paper stamps cut from an old envelope
 - 20 paper coins drawn round a real coin and cut out
 - 1 shoebox as the register
@@ -892,19 +893,19 @@ the one carrying it in.
 - Masking tape
 
 **📝 Step-by-Step Instructions:**
-1. Set the counter: scales at one end, stamps and coins in the shoebox register, parcels in a heap on the customer's side. She stands behind, you line in front.
-2. Weigh the first parcel together and read the scales out loud. Turn whatever they say into a price between one and five and write it on the parcel in marker. With the coat hanger, count how many paper coins it takes to tip the pot and use that number.
-3. The rule of the shop: the number on the parcel is how many stamps it needs and how many coins it costs. Say it once, then play it.
+1. Set the counter: the scale at one end, stamps and coins in the shoebox register, parcels in a heap on the customer's side. She stands behind, you line up in front.
+2. Weigh the first parcel together and read the scale out loud. Turn whatever it says into a price between one and five and write it on the parcel in marker. With the coat hanger, count how many paper coins it takes to tip the pot and use that number.
+3. The rule of the counter: the number on the parcel is how many stamps it needs and how many coins it costs. Say it once, then play it.
 4. Buy a parcel. She counts the stamps out one at a time onto the paper and sticks them down, then counts your coins into the register.
 5. Miscount on purpose. Hand over two coins for a three, and wait. She will catch it.
-6. Swap. You run the counter, she queues with her purse.
+6. Swap. You run the counter, she stands in line with her coin purse.
 
 > 💡 **Tip:** Weigh two parcels that look wrong: a big light one and a tiny heavy one.
 
 ### 🌳 Get Outside: Counting the Front Doors
 
 Walk one street and count every front door you pass. Read out the numbers on
-them and let her spot the letterboxes, the ones in the door and the ones on
+them and let her spot the mailboxes, the ones by the door and the ones on
 posts. Count the red doors on the way back and compare the two numbers.
 Forty-five minutes is one street and back at her pace, so pick the short side
 of the block.
@@ -932,24 +933,24 @@ This box has a real address on it and somebody waiting at the other end.
 
 **📝 Step-by-Step Instructions:**
 1. Decide who it goes to before anything goes in the box. Somebody real with a real address, and she names them.
-2. Open the letterbox for the one thing she wants to send, then close it again. Everything else in there waits for Thursday.
+2. Open the mailbox for the one thing she wants to send, then close it again. Everything else in there waits for Thursday.
 3. Load the box: her drawings, a card from Sunday, a letter with dots on it. Let her crumple newspaper into the gaps and press it all down.
 4. Wrap it in brown paper on the floor, her finger holding the fold while you tape. Corners are hard and hers will be lumpy and taped four times.
-5. Put the address, written out large, beside her. She copies it onto the parcel with the marker. Wobbly, backwards, too big for the box, and it goes in the post like that.
+5. Put the address, written out large, beside her. She copies it onto the parcel with the marker. Wobbly, backwards, too big for the box, and it goes in the mail like that.
 6. She draws in the space that is left over.
 7. Stand it by the front door with the coats. It goes tomorrow morning and she needs to see it waiting.
 
 > 💡 **Tip:** Write the address once, in capitals, one line under the other.
 
 ### 🎯 Afternoon Alternatives
-- Post a card instead of a parcel and let her lick the stamp.
-- Wrap a shoebox in newspaper and post it to somebody in this house.
+- Mail a card instead of a parcel and let her lick the stamp.
+- Wrap a shoebox in newspaper and mail it to somebody in this house.
 - Weigh everything in the kitchen cupboard and line it up lightest to heaviest.
 
 ### 🌳 Out Again: **The Library**
 - **The library**, every two weeks, and she chooses her own two books
 - The librarian's story hour, if the timing lands
-- Soft play, if the library is packed after school
+- The indoor play center, if the library is packed after school
 - The post office to see a real counter before tomorrow
 
 > 👶 **Kreston's Afternoon:** Take him to the library and put him down in the
@@ -967,14 +968,14 @@ This box has a real address on it and somebody waiting at the other end.
 > customer complains, so she checks herself. Vygotsky watched this and wrote
 > that a child in play behaves a head taller than herself, and a pretend
 > counter is where you will see it happen. The frame does the work. Nobody is
-> testing her. She is running a shop, and a shopkeeper who miscounts finds out
-> from the shop, which lands better than a correction from you. Play the
-> customer with a straight face.
+> testing her. She is running a post office, and a clerk who miscounts finds
+> out from the customer, which lands better than a correction from you. Play
+> the customer with a straight face.
 
 > ⚠️ **Safety:** Thirty paper stamps and twenty paper coins end up on the
 > floor, and all of them are mouth-sized for a crawling 8-month-old. Sweep the
-> floor before Kreston is down, and count the coins back into the register when the
-> shop shuts. Scissors and packing tape stay with you.
+> floor before Kreston is down, and count the coins back into the register
+> when the counter closes. Scissors and packing tape stay with you.
 
 <div style="page-break-after: always;"></div>
 
@@ -992,17 +993,17 @@ This box has a real address on it and somebody waiting at the other end.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Wooden Love Spoon (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: Posting the Parcel (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Mailing the Parcel (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
-- **1:00–2:30 PM** — 🎨 Second Main Event: Emptying the Letterbox (90 min)
+- **1:00–2:30 PM** — 🎨 Second Main Event: Emptying the Mailbox (90 min)
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: Putting Out the Buns
 - **4:15–5:00 PM** — Quiet Play: What's Left in the Basket
-- **5:00–5:45 PM** — 🛁 Wind-Down: The Week's Post, Read Again
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Week's Mail, Read Again
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: Choosing Who It's For
@@ -1036,10 +1037,10 @@ Welsh love spoons carry symbols instead of words.
 
 > 💡 **Tip:** Do a spoon yourself alongside her. She watches your hand more than your instructions.
 
-### 🌳 Get Outside: Posting the Parcel
+### 🌳 Get Outside: Mailing the Parcel
 
 The parcel by the door goes to a real post office this morning. She carries it
-in, hands it up to the counter, watches it go on the scales and hears the
+in, hands it up to the counter, watches it go on the scale and hears the
 price. Buying the stamp is her job with your money. A gray February line is a
 long wait at three, so bring the practice paper and let her draw hearts in the
 line.
@@ -1051,12 +1052,12 @@ line.
 
 <div style="page-break-after: always;"></div>
 
-### 🎨 Second Main Event: Emptying the Letterbox
+### 🎨 Second Main Event: Emptying the Mailbox
 
-Six days of post comes out on the floor at once.
+Six days of mail comes out on the floor at once.
 
 **🧰 Complete Materials List:**
-- The letterbox from Friday and everything in it
+- The mailbox from Friday and everything in it
 - Envelopes, or paper and tape
 - 1 marker
 - Sticky labels or masking tape for names
@@ -1070,7 +1071,7 @@ Six days of post comes out on the floor at once.
 4. Fold each pile into an envelope, or a sheet of paper taped shut. She writes a name on every one, with the letters large beside her to copy.
 5. The necklace from Monday and the spoon go in the basket with the envelopes.
 6. Coats on and walk the round: next door, the house with the dog, the friend two streets over, whoever is on her list. She knocks and hands it over herself.
-7. Anything undelivered comes home in the basket for tomorrow. No adult posts anything on her behalf tonight.
+7. Anything undelivered comes home in the basket for tomorrow. No adult mails anything on her behalf tonight.
 
 > 💡 **Tip:** Stand back on the doorstep. Let her be the one who talks, even when the neighbor looks at you for translation.
 
@@ -1082,7 +1083,7 @@ Six days of post comes out on the floor at once.
 
 ### 🌳 Out Again: **Pick one**
 - **The bakery**, and she chooses buns for everyone by counting the people
-- The corner shop for milk, with the change in her hand
+- The corner store for milk, with the change in her hand
 - One more delivery street, if the basket is still full
 - The park in the last of the light, for the running she has not done today
 - A friend's doorstep with the last envelope and a cup of tea if it is offered

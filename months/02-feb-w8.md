@@ -12,7 +12,7 @@ mixes six colors before ten, names them herself, and her names run through
 the rest of the week. Saturday she tears and cuts a garden out of the junk
 mail. Sunday everyone in the house sits for a portrait and then gets built
 again in salt dough. Monday goes under the dining table, where she papers a
-cave and paints it with mud and cocoa. Tuesday is wool, weaving and dyed
+cave and paints it with mud and cocoa. Tuesday is yarn, weaving and dyed
 pasta. Wednesday she takes the texture off half the street with a crayon,
 posts four of the results to four people and watches at least one door open.
 
@@ -21,7 +21,7 @@ level, writes the labels, cuts the tickets, and Joseph comes home at six
 having seen none of it. No holiday lands in these seven days, so the shape
 comes from the making and from what each day hands to the next one. February
 does the rest. The street is gray enough that a red door counts as a find,
-green is coming back into the borders while she is out looking for it, and
+green is coming back into the flower beds while she is out looking for it, and
 the ground is soft enough to dig a color out of on Monday.
 
 ---
@@ -56,12 +56,12 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] Washable non-toxic poster paint in red, yellow, blue and black
 - [ ] Thick paper, 20 sheets
 - [ ] Printer paper or any thin paper, 15 sheets
-- [ ] Brown parcel paper, a roll, or 3–4 big boxes to flatten
+- [ ] Brown kraft paper, a roll, or 3–4 big boxes to flatten
 - [ ] A shoebox with a lid
 - [ ] A larger box with one wide slot, for Kreston
 - [ ] A cereal box or stiff card, for the loom
 - [ ] Thick card, 10 sheets, for portraits, labels and tickets
-- [ ] Junk mail, catalogues and magazines (start saving now)
+- [ ] Junk mail, catalogs and magazines (start saving now)
 - [ ] Colored paper, if you have it
 - [ ] A large sheet for the garden: the back of wrapping paper or a flattened box
 - [ ] Masking tape, 3 rolls
@@ -69,15 +69,15 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] Child-safe scissors
 - [ ] Adult scissors (adult only)
 - [ ] A craft knife or heavy scissors (adult only)
-- [ ] Crayons, a tin nobody minds losing
-- [ ] Felt tips
+- [ ] Crayons, a box nobody minds losing
+- [ ] Markers
 - [ ] Permanent markers, 2
 - [ ] A pen
 - [ ] Paintbrushes, 3: one thin, one wide and soft, one old one you can ruin
 - [ ] An old toothbrush
 - [ ] Jam jars for paint water, 2
 - [ ] A white plate or a white tile, for mixing
-- [ ] An egg box or ice cube tray, and a second clean egg box for Kreston
+- [ ] An egg carton or ice cube tray, and a second clean egg carton for Kreston
 - [ ] Paper towels
 - [ ] Newspaper, a stack
 - [ ] Sponges, 2: one to cut in half, one clean for wetting paper
@@ -94,8 +94,8 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] A table knife
 - [ ] Dried penne or rigatoni, for threading
 - [ ] Dried pasta shapes, lentils and dried beans, for the faces
-- [ ] Buttons, if you have a tin of them
-- [ ] Wool or string, 1 ball
+- [ ] Buttons, if you have a jar of them
+- [ ] Yarn or string, 1 ball
 - [ ] Food coloring
 - [ ] White vinegar
 - [ ] Freezer bags, one per pasta color
@@ -114,10 +114,10 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] Envelopes, 4
 - [ ] Stamps, 2
 - [ ] A shopping bag, to carry the letters home flat
-- [ ] Cookies and glasses, for the gallery
+- [ ] Cookies and plastic cups, for the gallery
 - [ ] An old shirt of Joseph's, and an old T-shirt she can ruin
 - [ ] Grocery bags and a second old T-shirt, to cut into weaving strips
-- [ ] An empty wipes box and a muslin, for Kreston
+- [ ] An empty wipes box and a burp cloth, for Kreston
 - [ ] A hand mirror
 - [ ] A flashlight with fresh batteries
 - [ ] A towel for the sink, and old clothes for the mud
@@ -126,21 +126,16 @@ the ground is soft enough to dig a color out of on Monday.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
-> Brooklyn, on Thursday I walk in at six to a wall of paper and get asked
-> which one I like best. She will have already guessed my answer and sealed
-> it under a plate of cookies. Tell me nothing before I get there. I want to
-> see it cold, in her order, with her titles read out at me, and I would
-> rather be wrong about the picture than have the moment rehearsed.
->
-> The six days before that are the messy end of the deal and they are yours.
-> Mud paint at the sink on Monday, spice on the floor under the table, dyed
-> pasta everywhere, and an eight-month-old crawling straight at every bit of
-> it. My old blue shirt is her apron on Friday. It has done nothing useful in
-> two years and it can come back covered. Somewhere around Wednesday an
-> envelope with my name on it lands at work, and I will know what the
-> afternoon behind it took out of you.
+> My old blue shirt is the apron on Friday. It has sat folded in the bottom of
+> the closet doing nothing for two years, so whatever comes back on it is an
+> improvement and nobody has to get it clean. Monday is cocoa and turmeric
+> under the dining table and mud at the sink after lunch, with an eight-month-
+> old crawling straight at all of it, which reads fine on the page and is
+> another thing at eleven in the morning with both of them down there.
+> Thursday she hangs the week on a wall, and the first I see of it is whatever
+> is still up there in the evening. Tell me nothing beforehand. I would rather
+> guess wrong in front of her than have it rehearsed, and that costs you a
+> whole day of not mentioning it.
 
 ---
 
@@ -159,7 +154,7 @@ the ground is soft enough to dig a color out of on Monday.
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Put the red, yellow and blue paint on the table with a white plate, an egg box and Joseph's old shirt, and hide every other color you own.
+> Put the red, yellow and blue paint on the table with a white plate, an egg carton and Joseph's old shirt, and hide every other color you own.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Only Three Paints
@@ -192,7 +187,7 @@ the ground is soft enough to dig a color out of on Monday.
 **🧰 Complete Materials List:**
 - Washable poster paint in red, yellow and blue
 - 1 white plate or a white tile as the mixing palette
-- 1 egg box or ice cube tray for holding the new colors
+- 1 egg carton or ice cube tray for holding the new colors
 - 2 brushes, one thin one wide
 - 1 jam jar of water
 - Thick paper, 8–10 sheets
@@ -203,7 +198,7 @@ the ground is soft enough to dig a color out of on Monday.
 **📝 Step-by-Step Instructions:**
 1. Shirt on, water filled, paper towels within reach. The white plate is the only surface that matters, because color lies to you on brown card.
 2. Start with her guess from this morning. Two teaspoons of yellow on the plate, then blue a quarter-spoon at a time, stirred in with the thin brush until she calls it green.
-3. Scrape it into a cup of the egg box. She owns green now.
+3. Scrape it into a cup of the egg carton. She owns green now.
 4. Do red and yellow next, then red and blue. Each new color gets its own cup and its own stir.
 5. Let her name every one out loud. Take *mud*, *sunset* and *dark* over anything off a paint chart, and use her names all day.
 6. Hand her the paper and all six colors and leave her to paint.
@@ -214,12 +209,12 @@ the ground is soft enough to dig a color out of on Monday.
 
 February has bled the color out of the street, so go and hunt for what is
 left. A red front door, a green trash can, moss on a north-facing wall,
-somebody's crocuses up early in a front garden, the yellow line on the road.
+somebody's crocuses up early in a front yard, the yellow line on the road.
 Count them out loud as she finds them. Ask which of the six she made this
 morning comes closest to each.
 
 > 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
-> to hear what they do. Give him a clean egg box and a wooden spoon on the
+> to hear what they do. Give him a clean egg carton and a wooden spoon on the
 > floor at the far end of the room while the wet paint stays up on the table.
 > On the walk, wear him facing out. Stranger wariness has arrived this month,
 > so keep him on you rather than in the stroller if anyone stops to talk.
@@ -310,7 +305,7 @@ together now, and no two come out the same.
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Put the week's junk mail, catalogues and magazines in a pile on the table with the glue stick, and find a shoebox with a lid for this afternoon.
+> Put the week's junk mail, catalogs and magazines in a pile on the table with the glue stick, and find a shoebox with a lid for this afternoon.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Tearing Up the Catalogue
@@ -341,7 +336,7 @@ together now, and no two come out the same.
 ### 🎨 The Main Event: The Cut-Out Garden
 
 **🧰 Complete Materials List:**
-- Junk mail, catalogues and magazines
+- Junk mail, catalogs and magazines
 - Colored paper if you have it
 - 1 pair of child-safe scissors
 - 1 pair of adult scissors (adult only, kept high)
@@ -357,14 +352,14 @@ together now, and no two come out the same.
 5. Glue from the bottom up: stems first, then leaves, then flower heads on top so they overlap.
 6. Write what she calls each plant along the bottom edge in marker and read the row back to her.
 
-> 💡 **Tip:** Her cuts will be two centimeters long and jagged for months yet. Give her paper thin enough to cut and plenty to waste, and the wrist sorts itself out.
+> 💡 **Tip:** Her cuts will be an inch long and jagged for months yet. Give her paper thin enough to cut and plenty to waste, and the wrist sorts itself out.
 
 ### 🌳 Get Outside: Looking for the First Green
 
 Late February is where green comes back, so go and find it. Bulb shoots in the
-borders, moss in the cracks of a wall, an evergreen hedge, crocus tips where
+flower beds, moss in the cracks of a wall, an evergreen shrub, crocus tips where
 the sun reaches a south-facing wall. Give her a job: pick one real leaf to
-bring home and glue into the garden.
+bring home and glue into the yard.
 
 > 👶 **Infant Integration:** Kreston is 8 months. Give him a whole sheet of
 > paper, too big to get into his mouth, and let him crush it. The noise arrives
@@ -394,22 +389,22 @@ slots in the lid turns the clearing up into the afternoon.
 4. She posts. Red through red, yellow through yellow. The awkward ones (a photo of a dog, a black-and-white page) go wherever she argues for, and let the argument run.
 5. Lift the lid, tip the lot out and do it again, four or five times.
 6. On the last round, count them in out loud as she posts. Ten reds, six yellows, however many blues.
-7. Kreston gets his own box with one wide slot and pieces too big to swallow, set down where he can reach it.
+7. Sweep the small scraps up and lift Azlyn's bowl onto the table, then set Kreston's own box down where he can reach it, one wide slot and pieces too big to swallow.
 
 > 💡 **Tip:** Let the wrong ones stay wrong. A page she calls red because the dog on it wears a red collar is a decision made from evidence, and she sharpens the rule herself over the next two weeks.
 
 ### 🎯 Afternoon Alternatives
-- Post plastic lids from the recycling into a tin with a slot cut in it.
-- Sort the crayon tin by color into an ice cube tray.
+- Post plastic lids from the recycling into a coffee can with a slot cut in the lid.
+- Sort the crayon box by color into an ice cube tray.
 - Cut one page of the garden and stop there.
 - Feed scraps into a paper bag and shake it like a rattle.
 
 ### 🌳 Out Again: **Pick one**
-- **The pet shop and the garden center**, for the fish tank and the warm glasshouse
+- **The pet store and the garden center**, for the fish tank and the warm greenhouse
 - The park, if the wind has dropped
-- A charity shop for a bag of colored paper and a look at the toy shelf
+- A thrift store for a bag of colored paper and a look at the toy shelf
 - A drive with the good radio station on
-- The corner shop, and she carries one thing home
+- The corner store, and she carries one thing home
 
 > 👶 **Kreston's Afternoon:** He comes to the garden center in the carrier
 > facing out. Fish tanks hold an 8-month-old longer than anything else in the
@@ -476,7 +471,7 @@ slots in the lid turns the clearing up into the afternoon.
 
 **🧰 Complete Materials List:**
 - Thick card or paper, one sheet per person
-- Crayons and felt tips
+- Crayons and markers
 - 1 hand mirror
 - 1 permanent marker for names
 - Masking tape
@@ -517,8 +512,8 @@ changed thirty times.
 - 2 cups all-purpose flour, 1 cup salt, 1 cup water, 1 tablespoon oil
 - 1 mixing bowl and a wooden spoon
 - Dried pasta, lentils and dried beans
-- Buttons if you have a tin of them
-- Wool or string cut into short lengths for hair
+- Buttons if you have a jar of them
+- Yarn or string cut into short lengths for hair
 - 1 dinner plate each as a work surface
 - 1 table knife
 
@@ -526,12 +521,12 @@ changed thirty times.
 1. Flour and salt in the bowl, oil in, then water in stages while she stirs. Wet dough takes another handful of flour, and she decides when it stops sticking.
 2. Knead it on the table for five minutes between you. It goes from claggy to smooth and she will feel the moment it turns.
 3. Split it into balls, one for each person in the house. She flattens each into a round the size of her palm on its own plate.
-4. Put the pasta, lentils, beans, buttons and wool out in separate piles where she can see them all at once.
+4. Put the pasta, lentils, beans, buttons and yarn out in separate piles where she can see them all at once.
 5. One plate at a time, and ask who it is before she starts. A named face gets eyebrows and hair. An unnamed one gets a handful of lentils.
 6. Photograph the finished set, then let her squash one flat and rebuild it as somebody else.
 7. Bag the leftover dough. It keeps a week in the fridge, and the faces dry hard on a windowsill in two or three days.
 
-> 💡 **Tip:** Give her the wool last. Hair is the part she will spend twenty minutes on, and it goes on better once the eyes and mouth have settled.
+> 💡 **Tip:** Give her the yarn last. Hair is the part she will spend twenty minutes on, and it goes on better once the eyes and mouth have settled.
 
 ### 🎯 Afternoon Alternatives
 - Draw faces on hard-boiled eggs and stand them in the egg cups.
@@ -579,7 +574,7 @@ changed thirty times.
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Flatten two big boxes or dig out the brown parcel paper, stand it by the dining table with the masking tape, and check the flashlight batteries.
+> Flatten two big boxes or dig out the brown kraft paper, stand it by the dining table with the masking tape, and check the flashlight batteries.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Papering the Cave
@@ -601,7 +596,7 @@ changed thirty times.
 
 ### 🌅 Opening Activity: Papering the Cave
 
-**🧰 You need:** brown parcel paper or flattened boxes · masking tape · 1 flashlight.
+**🧰 You need:** brown kraft paper or flattened boxes · masking tape · 1 flashlight.
 
 1. Clear everything out from under the dining table and get down there with her.
 2. Tape paper to the underside of the table top and down the inside of the legs. You do the high bits, she does the low ones, and the wonky ones stay wonky.
@@ -610,11 +605,11 @@ changed thirty times.
 ### 🎨 The Main Event: Painting on the Cave Wall
 
 **🧰 Complete Materials List:**
-- Brown parcel paper or flattened cardboard boxes
+- Brown kraft paper or flattened cardboard boxes
 - Masking tape
 - 1 flashlight with fresh batteries
 - Cocoa powder, 3 tablespoons
-- Paprika or turmeric, 2 tablespoons (substitute: mud from the garden, or black paint on its own)
+- Paprika or turmeric, 2 tablespoons (substitute: mud from the yard, or black paint on its own)
 - Black washable poster paint
 - 2 small bowls and 1 old toothbrush
 - 1 kitchen sponge cut in half
@@ -635,8 +630,8 @@ changed thirty times.
 
 Take a trowel and a bag and go looking for ground that makes a mark. February
 ground is wet all the way through, so it gives under the blade. Look for
-red-brown clay a spade down, pale chalky stone and charcoal from a cold fire
-site. Rub each find on a paving slab, and whatever leaves a color comes home
+red-brown clay a shovel down, pale chalky stone and charcoal from a cold fire
+site. Rub each find on a paving stone, and whatever leaves a color comes home
 in the bag.
 
 > 👶 **Infant Integration:** Kreston is 8 months and he will crawl straight
@@ -665,18 +660,18 @@ yet.
 **📝 Step-by-Step Instructions:**
 1. Work at the sink or out on the step, because the next ninety minutes are dirty.
 2. One tub per material. She breaks each lump down with the back of the spoon, and it takes real effort.
-3. Sieve the powder into a clean tub. The fine dust is paint, and the grit left in the sieve goes in the bin.
+3. Sieve the powder into a clean tub. The fine dust is paint, and the grit left in the sieve goes in the trash.
 4. Add water a spoonful at a time until it pours like cream, then a spoonful of flour so it grips the paper.
 5. Test each tub with a stick on the box. Some give a strong color, some a smear of wet dirt, and she sorts them into two piles.
 6. Line the good ones up and let her paint the big sheet with sticks and the old brush.
-7. Wash up in order: hands, then arms, then tubs. Tip the muddy water outside rather than down the sink.
+7. Wash in order: hands, then arms, then tubs. Tip the muddy water outside rather than down the sink.
 
 > 💡 **Tip:** Mud from the top few inches is full of leaf and root and makes a weak smear. A trowel's depth down gives you clay.
 
 ### 🎯 Afternoon Alternatives
 - Cocoa and water on paper, nothing else added.
 - Draw with a stick of cold charcoal on the back of a cereal box.
-- Handprints in mud along the paving slabs, hosed off after.
+- Handprints in mud along the paving stones, hosed off after.
 
 ### 🌳 Out Again: **Pick one**
 - **The hill walk**, for the view and the wind, hats on
@@ -738,10 +733,10 @@ yet.
 
 ### 🌅 Opening Activity: Stringing the Loom
 
-**🧰 You need:** 1 stiff cardboard rectangle · adult scissors (adult only) · wool · masking tape.
+**🧰 You need:** 1 stiff cardboard rectangle · adult scissors (adult only) · yarn · masking tape.
 
-1. Cut notches along the top and bottom edges of the card, a finger's width apart and about a centimeter deep. You cut, she counts them out loud.
-2. Hook the wool into the first notch, run it down to the notch opposite, round the back and up again. She holds the card steady while you wind.
+1. Cut notches along the top and bottom edges of the card, a finger's width apart and about half an inch deep. You cut, she counts them out loud.
+2. Hook the yarn into the first notch, run it down to the notch opposite, round the back and up again. She holds the card steady while you wind.
 3. Tape the loose end down at the back. It looks like a small harp now, and she can pluck it until 9:15.
 
 ### 🎨 The Main Event: Over and Under
@@ -749,9 +744,9 @@ yet.
 **🧰 Complete Materials List:**
 - 1 stiff cardboard rectangle, roughly the size of a cereal box front
 - 1 pair of adult scissors (adult only) for the notches
-- 1 ball of wool or string
+- 1 ball of yarn or string
 - Strips cut from magazines, grocery bags and an old T-shirt
-- Masking tape, to wrap the end of the wool into a stiff tip instead of a needle
+- Masking tape, to wrap the end of the yarn into a stiff tip instead of a needle
 - 2 clothespins to hold the ends
 
 **📝 Step-by-Step Instructions:**
@@ -767,13 +762,13 @@ yet.
 ### 🌳 Get Outside: The Fence Weave
 
 Take a bag of long strips and go and weave the street. A chain-link fence, a
-gate, a railing, a bare hedge. Feed the strips, wool and dead grass in and out
+gate, a railing, a bare hedge. Feed the strips, yarn and dead grass in and out
 of the gaps until a patch of color lands on a gray street. Leave it for
 whoever walks past next, and come back Thursday to see whether the wind took
 it.
 
-> 👶 **Infant Integration:** Kreston is 8 months. Stuff a scarf or a muslin into
-> an empty wipes box and let him haul it out, then stuff it back in for him and
+> 👶 **Infant Integration:** Kreston is 8 months. Stuff a burp cloth into an
+> empty wipes box and let him haul it out, then stuff it back in for him and
 > watch him do it again. Pulling comes before pushing at this age.
 
 <div style="page-break-after: always;"></div>
@@ -787,7 +782,7 @@ kitchen has any right to be.
 - Dried penne or rigatoni, dyed overnight
 - Food coloring and 1 tablespoon vinegar, 1 freezer bag per color
 - 1 tray lined with paper towels
-- String or wool, ends wrapped in tape
+- String or yarn, ends wrapped in tape
 - 2 drinking straws cut into short segments
 - 1 bowl per color
 - 1 pair of child-safe scissors, for the straws
@@ -811,14 +806,14 @@ kitchen has any right to be.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one
-- Soft play if the pool session is cancelled
+- The indoor play center if the pool session is canceled
 - The library, a day early
 - A warm café and a window, when nobody has it in them
 
 > 👶 **Kreston's Afternoon:** At 8 months he sits supported in the water and
 > slaps at the surface, and he will track Azlyn across the pool. Twenty minutes
 > and out before he cools. The changing room is loud and full of strangers, so
-> keep him against you while you line.
+> keep him against you while you wait in line.
 
 ---
 
@@ -837,7 +832,7 @@ kitchen has any right to be.
 > an 8-month-old, and the floor is where they land. Sweep before Kreston goes
 > down and keep his bowl separate. No cord or beaded necklace goes on a baby,
 > awake or asleep. Knot Azlyn's loose enough to pull over her head, take them
-> off before swimming and before bed, and keep the wool and loose string up out
+> off before swimming and before bed, and keep the yarn and loose string up out
 > of Kreston's reach all day.
 
 <div style="page-break-after: always;"></div>
@@ -849,7 +844,7 @@ kitchen has any right to be.
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Tip the crayon tin out on the table with the coins, keys and a comb, and find four envelopes and two stamps for tomorrow afternoon's deliveries.
+> Tip the crayon box out on the table with the coins, keys and a comb, and find four envelopes and two stamps for tomorrow afternoon's deliveries.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Peeling the Crayons
@@ -927,31 +922,31 @@ and the people.
 - The stroller
 
 **📝 Step-by-Step Instructions:**
-1. Spread the morning's rubbings out and let her choose four. Take her choices even when she picks the four you would have binned.
+1. Spread the morning's rubbings out and let her choose four. Take her choices even when she picks the four you would have thrown out.
 2. Ask who each one is for. Say the four names back to her: a neighbor, a grandparent, somebody at playgroup, Joseph at work.
 3. Ask what she wants to say about each one. Write her words on the back as they come out, then read them back to her.
 4. Fold each one into an envelope. She licks the flap and presses it shut, then draws on the front.
 5. Write the names on the front in big letters and let her point to the first letter of each.
-6. Coats on, stroller out. Deliver the ones you can walk to and let her push each envelope through the letterbox or into a hand.
-7. The rest go to the mailbox with stamps on. She posts them, and you tell her how many sleeps until they land.
+6. Coats on, stroller out. Deliver the ones you can walk to and let her push each envelope through the mail slot or into a hand.
+7. The rest go to the mailbox with stamps on. She mails them, and you tell her how many sleeps until they land.
 
-> 💡 **Tip:** Do the hand-delivered ones before the mailbox. Letters that vanish into a red slot make more sense once she has watched one arrive at a real door.
+> 💡 **Tip:** Do the hand-delivered ones before the mailbox. Letters that vanish into a blue collection box make more sense once she has watched one arrive at a real door.
 
 ### 🎯 Afternoon Alternatives
 - Rubbings only. Deliver them tomorrow.
 - Draw a picture each for four people instead.
 - Photograph a rubbing and send it to somebody who will reply.
-- One huge rubbing on wallpaper lining, given to the house.
+- One huge rubbing on butcher paper, given to the house.
 
 ### 🌳 Out Again: **Pick one**
-- **Soft play**, the quiet session, and go in the first ten minutes
+- **The indoor play center**, the quiet session, and go in the first ten minutes
 - The library, if this is a library week
 - The park for a run, if the rain holds off
 - A café with a window seat and something to watch
 - The bakery, and she chooses what everyone eats at four
 
 > 👶 **Kreston's Afternoon:** He rides the delivery round in the stroller with the
-> rain cover ready. At 8 months the quiet soft play session suits him, and he
+> rain cover ready. At 8 months the quiet play-center session suits him, and he
 > will crawl the length of a padded mat if you set him down at one end.
 > Neighbors lean into a stroller at the door, so turn him to face you when they do.
 
@@ -1053,14 +1048,14 @@ afternoon aims at the moment he walks through the door.
 - Card for tickets and a door sign
 - 1 permanent marker and masking tape
 - 1 sheet of paper, folded, for her prediction
-- Cookies on a plate and a pitcher of water
+- Cookies on a plate, a pitcher of water and plastic cups
 - A chair placed as the gallery seat
 - The hung exhibition
 
 **📝 Step-by-Step Instructions:**
 1. Make the door sign together. She dictates the words, you write them, and she signs underneath with whatever she thinks her name looks like.
 2. Cut tickets from the card, one for every person coming, and let her decide who is allowed in. Kreston gets one too.
-3. Set the room up: the chair facing the wall, cookies on a plate, the pitcher and the glasses on the table.
+3. Set the room up: the chair facing the wall, cookies on a plate, the pitcher and the cups on the table.
 4. Walk the room the way a visitor would. In through the door, and ask what he sees first. Move things until she is happy with the order.
 5. Ask her which picture Joseph will like best. Take the first answer and do not steer it.
 6. Write her guess on the paper, fold it twice in front of her, and slide it under the cookie plate. It stays there until he is in the room.
@@ -1075,8 +1070,8 @@ afternoon aims at the moment he walks through the door.
 - Put one piece in a real frame and hang it in the hall for good.
 
 ### 🌳 Out Again: **Pick one**
-- **The pharmacy and a park bench**, with the prescription and a bag of fries
-- The corner shop for the cookies, and she picks them
+- **The pharmacy and a park bench**, with the prescription and a bag of chips
+- The corner store for the cookies, and she picks them
 - The park, for a run before the gallery opens
 - Past Tuesday's fence weave, to see whether it survived
 - A short loop with the stroller if the rain has set in
@@ -1100,7 +1095,7 @@ afternoon aims at the moment he walks through the door.
 > grows.
 
 > ⚠️ **Safety:** The clipped string comes down the moment the tour is over, and
-> it never hangs anywhere either child can reach. Use plastic beakers rather
+> it never hangs anywhere either child can reach. Use plastic cups rather
 > than glasses with Kreston loose on the floor. His ticket stays in your lap,
 > and it comes back before it is chewed small enough to swallow.
 

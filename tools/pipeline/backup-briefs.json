@@ -1,0 +1,242 @@
+[
+  {
+    "month": "January",
+    "prefix": "01",
+    "abbrev": "jan",
+    "weather": "deep winter, short days, frozen ground, dark by 5",
+    "file": "01-jan-zz-backup.md",
+    "anchors": [
+      "jan-weather-1",
+      "jan-weather-2",
+      "jan-sick-1",
+      "jan-sick-2",
+      "jan-extras"
+    ],
+    "insight_headlines": [
+      "\"What is it?\" is the question to stop asking.",
+      "The seder is possibly the oldest child-centered teaching ritual on earth.",
+      "Sorting by material is harder than sorting by color.",
+      "Preservation is a surprisingly big idea."
+    ]
+  },
+  {
+    "month": "February",
+    "prefix": "02",
+    "abbrev": "feb",
+    "weather": "cold and wet, the longest-feeling month, still dark early",
+    "file": "02-feb-zz-backup.md",
+    "anchors": [
+      "feb-weather-1",
+      "feb-weather-2",
+      "feb-sick-1",
+      "feb-sick-2",
+      "feb-extras"
+    ],
+    "insight_headlines": [
+      "Specific recognition beats general praise, every time.",
+      "Outdoor play is the highest-return activity available, and May is when it gets easy.",
+      "Children calibrate fear from your face, not from the facts.",
+      "Fever makes children clingy, and meeting it shortens it."
+    ]
+  },
+  {
+    "month": "March",
+    "prefix": "03",
+    "abbrev": "mar",
+    "weather": "mud, wind, first warm afternoons that do not last",
+    "file": "03-mar-zz-backup.md",
+    "anchors": [
+      "mar-weather-1",
+      "mar-weather-2",
+      "mar-sick-1",
+      "mar-sick-2",
+      "mar-extras"
+    ],
+    "insight_headlines": [
+      "Giving a tour is the best test of understanding there is.",
+      "Jumping with both feet is a genuine milestone and it comes later than most parents expect.",
+      "Late summer is a low-energy stretch, and lowering the bar is the right response.",
+      "Sorting the candy is more interesting to her than eating them."
+    ]
+  },
+  {
+    "month": "April",
+    "prefix": "04",
+    "abbrev": "apr",
+    "weather": "rain showers, sudden warmth, everything coming up",
+    "file": "04-apr-zz-backup.md",
+    "anchors": [
+      "apr-weather-1",
+      "apr-weather-2",
+      "apr-sick-1",
+      "apr-sick-2",
+      "apr-extras"
+    ],
+    "insight_headlines": [
+      "Big numbers mean nothing until she's walked them.",
+      "Teeth are evidence, and reading evidence is the whole of palaeontology.",
+      "Extinct is a hard word, and it's easier than she'd find \"dead\".",
+      "Scorekeeping turns a chaotic game into a calm one."
+    ]
+  },
+  {
+    "month": "May",
+    "prefix": "05",
+    "abbrev": "may",
+    "weather": "warm but unreliable, thunderstorms, long light evenings",
+    "file": "05-may-zz-backup.md",
+    "anchors": [
+      "may-weather-1",
+      "may-weather-2",
+      "may-sick-1",
+      "may-sick-2",
+      "may-extras"
+    ],
+    "insight_headlines": [
+      "The clocks changing costs her more than it costs you.",
+      "Illness is a good time to be the one with the ideas rather than the hands.",
+      "A job with a visible end is what a recovering child wants.",
+      "Dark afternoons change the shape of the day, and the plan has to change with them."
+    ]
+  },
+  {
+    "month": "June",
+    "prefix": "06",
+    "abbrev": "jun",
+    "weather": "heat arriving, longest days, first properly hot afternoons",
+    "file": "06-jun-zz-backup.md",
+    "anchors": [
+      "jun-weather-1",
+      "jun-weather-2",
+      "jun-sick-1",
+      "jun-sick-2",
+      "jun-extras"
+    ],
+    "insight_headlines": [
+      "Grinding grain by hand is how she finds out that food used to be work.",
+      "Making a material from scratch is rarer than making a thing.",
+      "Naming the parts of something ordinary makes it interesting again.",
+      "Waiting for cream to turn into butter is a bet she'll want to see through."
+    ]
+  },
+  {
+    "month": "July",
+    "prefix": "07",
+    "abbrev": "jul",
+    "weather": "heat, thunderstorms, days too hot to be out at noon",
+    "file": "07-jul-zz-backup.md",
+    "anchors": [
+      "jul-weather-1",
+      "jul-weather-2",
+      "jul-sick-1",
+      "jul-sick-2",
+      "jul-extras"
+    ],
+    "insight_headlines": [
+      "A game with a whistle and rules teaches listening better than being told to listen.",
+      "Thinking about what an animal needs in winter is easier than thinking about herself.",
+      "Serving other people is a role she'll take more seriously than being served.",
+      "A measurement she takes every day teaches more than a fact does."
+    ]
+  },
+  {
+    "month": "August",
+    "prefix": "08",
+    "abbrev": "aug",
+    "weather": "heavy heat, humid, the flat end of summer",
+    "file": "08-aug-zz-backup.md",
+    "anchors": [
+      "aug-weather-1",
+      "aug-weather-2",
+      "aug-sick-1",
+      "aug-sick-2",
+      "aug-extras"
+    ],
+    "insight_headlines": [
+      "A rainbow she can make and unmake stops being magic and starts being light.",
+      "Naming clouds is the first time the sky has parts.",
+      "A scale with pictures lets her rate something she can't measure.",
+      "Cold is easier to investigate than hot, because she can hold it."
+    ]
+  },
+  {
+    "month": "September",
+    "prefix": "09",
+    "abbrev": "sep",
+    "weather": "cooling, first cold mornings, light going earlier",
+    "file": "09-sep-zz-backup.md",
+    "anchors": [
+      "sep-weather-1",
+      "sep-weather-2",
+      "sep-sick-1",
+      "sep-sick-2",
+      "sep-extras"
+    ],
+    "insight_headlines": [
+      "She thinks water that dries has gone, and it takes seeing it come back to fix that.",
+      "Being wrong in a forecast is the most useful kind of wrong.",
+      "Sorting the year into four is easier than remembering it.",
+      "A tree she's chosen is different from a tree she's shown."
+    ]
+  },
+  {
+    "month": "October",
+    "prefix": "10",
+    "abbrev": "oct",
+    "weather": "wind and rain, leaves down, dark by 6 after the clocks",
+    "file": "10-oct-zz-backup.md",
+    "anchors": [
+      "oct-weather-1",
+      "oct-weather-2",
+      "oct-sick-1",
+      "oct-sick-2",
+      "oct-extras"
+    ],
+    "insight_headlines": [
+      "Five months is longer than she can picture, and that's exactly why it's worth doing.",
+      "Absence is harder to notice than presence, and it has to be pointed out.",
+      "Rotting is the part of nature children are usually protected from, and it's the interesting half.",
+      "A collection with a purpose behaves differently from a collection."
+    ]
+  },
+  {
+    "month": "November",
+    "prefix": "11",
+    "abbrev": "nov",
+    "weather": "grey, wet, dark by 5, the flattest month",
+    "file": "11-nov-zz-backup.md",
+    "anchors": [
+      "nov-weather-1",
+      "nov-weather-2",
+      "nov-sick-1",
+      "nov-sick-2",
+      "nov-extras"
+    ],
+    "insight_headlines": [
+      "Big gatherings overwhelm her faster than they overwhelm you, and she needs an exit.",
+      "A sharp-enough knife is safer than a blunt one, and she can learn a grip.",
+      "She can name what she doesn't like once she has words for the tastes.",
+      "A constraint is what makes her choose instead of asking for everything."
+    ]
+  },
+  {
+    "month": "December",
+    "prefix": "12",
+    "abbrev": "dec",
+    "weather": "cold, dark by 4:30, possible snow, indoors a lot",
+    "file": "12-dec-zz-backup.md",
+    "anchors": [
+      "dec-weather-1",
+      "dec-weather-2",
+      "dec-sick-1",
+      "dec-sick-2",
+      "dec-extras"
+    ],
+    "insight_headlines": [
+      "Doing a job with her feet is how she gets her whole body into it.",
+      "Washing up is water play with a result, and she'll do it for the water alone.",
+      "Sour is the taste she'll learn to like on purpose, and that's a new experience.",
+      "Directing an adult is the strongest evidence of competence she can get."
+    ]
+  }
+]

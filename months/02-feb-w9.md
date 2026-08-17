@@ -49,7 +49,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 > *Everything both main events call for, all seven days. Check what you've
 > already got before Friday.*
 
-- [ ] Cardboard boxes to flatten, or a roll of lining paper, longer than Azlyn lying down
+- [ ] Cardboard boxes to flatten, or a roll of butcher paper, longer than Azlyn lying down
 - [ ] Cardboard tubes, 3
 - [ ] Masking tape, 2 rolls
 - [ ] Packing tape
@@ -89,7 +89,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] A table knife, a fork and a small sieve
 - [ ] A lemon squeezer, or a second fork instead
 - [ ] Small cups, one per person
-- [ ] Yogurt pots or paper cups, 8, cleaned out
+- [ ] Yogurt cups or paper cups, 8, cleaned out
 - [ ] Wooden spoons, 2, and a metal one
 - [ ] A saucepan for banging and a small one for the stovetop
 - [ ] A flat tray or board
@@ -98,7 +98,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] A flashlight with fresh batteries
 - [ ] A ticking clock
 - [ ] String, 5 meters
-- [ ] Elastic bands
+- [ ] Rubber bands
 - [ ] Paperclips or matchsticks, 2
 - [ ] A small rigid pot with a lid, for Kreston's own lump of dough
 - [ ] Your phone, charged, for the six faces, the sour face and the family photo
@@ -107,15 +107,15 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
-> Brooklyn, this week she works out how big she is by standing next to things,
-> and you are most of the things. Your foot in the frost beside her boot, your
-> hand flat against hers over the fingerprint card, your heartbeat after she has
-> found her own. Kreston is at the age where he checks your face before he
-> commits to anything, so both of them spend the week consulting you, on lemons
-> and on strangers. Take the photo on Sunday when the lemon lands. I want the
-> face, and I want to see who she looks at half a second after it.
+> She gets drawn round at life size on Friday, then goes out and stands her
+> back against a lamp post and a mailbox to find out which of them she beats.
+> The whole week runs on her measuring herself against whatever is nearest,
+> and for ten hours a day what is nearest is you. Monday is the March
+> handprint, third of twelve, and the January one is still the only one I
+> have watched go onto the card. On Sunday, when the lemon lands, take the
+> photo. I want her face, and I want to know who she looked at half a second
+> later, though I have a guess. February ends inside this week and I am not
+> sorry about it.
 
 ---
 
@@ -134,7 +134,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 **Theme:** My Body & Senses
 
 ### 🌙 Prep Tonight
-> Flatten every box you have, or unroll lining paper, tape the pieces into one sheet longer than Azlyn, and leave it rolled by the hall door.
+> Flatten every box you have, or unroll butcher paper, tape the pieces into one sheet longer than Azlyn, and leave it rolled by the hall door.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Biggest Paper in the House
@@ -165,7 +165,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 ### 🎨 The Main Event: The Life-Size Azlyn
 
 **🧰 Complete Materials List:**
-- Flattened cardboard boxes or a roll of lining paper, enough to cover her lying down
+- Flattened cardboard boxes or a roll of butcher paper, enough to cover her lying down
 - 1 roll masking tape
 - Fat crayons, one for each hand
 - 1 pencil
@@ -219,7 +219,7 @@ She fills in the parts of herself she has never seen.
 6. Stand her up and count twenty jumps out loud, then the tube back on her chest the second she stops.
 7. Ask her what changed. Write her answer on the outline beside the heart, word for word.
 
-> 💡 **Tip:** Roll the outline up tonight instead of binning it. She goes back to it at 4:15, and it stores flat under a bed.
+> 💡 **Tip:** Roll the outline up tonight instead of throwing it out. She goes back to it at 4:15, and it stores flat under a bed.
 
 ### 🎯 Afternoon Alternatives
 - Draw round her hands and feet only, on ordinary paper.
@@ -260,9 +260,9 @@ of France it is kisses on the cheek, and the number changes from town to town.
 > the size of herself builds the shoulder and trunk strength that a pencil grip
 > later sits on top of. Occupational therapists ask for floor-scale and vertical
 > work for that reason, and the bigger the surface, the more of her arm has to
-> join in. A sheet of A4 on a table asks her fingers for control her shoulder has
-> not earned yet. Give her the floor, the wall and the driveway this year and the
-> small stuff turns up on its own.
+> join in. A sheet of letter paper on a table asks her fingers for control her
+> shoulder has not earned yet. Give her the floor, the wall and the driveway
+> this year and the small stuff turns up on its own.
 
 > ⚠️ **Safety:** Scissors stay with you and go back out of reach between cuts.
 > Torn scraps, tape and the glue stick come off the floor the moment you stop
@@ -363,7 +363,7 @@ minutes has to be finished.
 6. Hand her a sponge to soak and squeeze out over the big bowl. Heavy work for her hands, and she stays with it longest of all.
 7. Tip both bowls into the sink yourself the moment she walks away.
 
-> 💡 **Tip:** Change her top, not the plan. A wet shirt ends the afternoon at half past one, and a dry one buys you another twenty minutes.
+> 💡 **Tip:** Change her top, not the plan. A wet shirt ends the afternoon at one thirty, and a dry one buys you another twenty minutes.
 
 ### 🎯 Afternoon Alternatives
 - One bowl, warm water, one cup, nothing else.
@@ -372,8 +372,8 @@ minutes has to be finished.
 
 ### 🌳 Out Again: **Pick one**
 - **The fire station, or a field with a tractor in it**, whichever is nearer
-- A building site fence, for diggers doing something loud
-- The pet shop, for warm fur and cold glass
+- A construction site fence, for diggers doing something loud
+- The pet store, for warm fur and cold glass
 - The park, for cold metal, wet rope and a slide that stings
 
 > 👶 **Kreston's Afternoon:** He goes in the sling or the highchair while the
@@ -507,12 +507,12 @@ you are the one doing what she says.
 - **The scooter or the balance bike**, on the flattest path you know
 - Feeding the ducks with this morning's crusts
 - A playground you drive past and never stop at
-- The garden or the front step, with the lemonade pitcher
+- The yard or the front step, with the lemonade pitcher
 
 > 👶 **Kreston's Afternoon:** At 8 months he goes in the stroller while she scoots,
 > and the wheels beside him are the entertainment. Stop somewhere flat and put
 > him down on a rug with a plastic pitcher and a wooden spoon. He fills, tips, bangs
-> and starts again. Keep the squeezed lemon halves and every pip away from him.
+> and starts again. Keep the squeezed lemon halves and every seed away from him.
 
 ---
 
@@ -525,7 +525,7 @@ you are the one doing what she says.
 > something she did not expect. Surprise flags the moment as worth keeping. You
 > cannot manufacture it by explaining first, which is the argument for handing
 > her the lemon before you say the word sour. Her face doing that beats her
-> repeating the word back to you at teatime.
+> repeating the word back to you at dinnertime.
 
 > ⚠️ **Safety:** Kreston is 8 months and gets none of this. No honey before one
 > year, no salt, no lemonade. Cut anything he does get into strips rather than
@@ -652,7 +652,7 @@ of card.
 > Azlyn wanted the cold paint on her palm, the squelch under her heel and the
 > walking. The sheet of paper at the end is a by-product of ninety seconds she
 > enjoyed. Three-year-olds meet almost every material this way, and a child asked
-> to produce something recognisable spends the session watching your face to find
+> to produce something recognizable spends the session watching your face to find
 > out whether it counts. You did keep one thing today, the March handprint, and a
 > keepsake is a fair reason to steer her hands for two minutes. Hang the rest of
 > the roll in the hall for a week, then let it go, and tell her that is the plan.
@@ -759,14 +759,14 @@ on the tray without falling over.
 
 ### 🎯 Afternoon Alternatives
 - Flat dough people lying on the tray, no standing required.
-- Make the family out of pegs and scrap fabric instead.
+- Make the family out of clothespins and scrap fabric instead.
 - Build only Kreston, twenty times, because that is where she is.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one, and she gets herself changed this year
-- Soft play if the session is booked out
+- The indoor play center if the session is booked out
 - The library, a day early
-- A long bath at home and an early tea, if the morning ran hot
+- A long bath at home and an early dinner, if the morning ran hot
 
 > 👶 **Kreston's Afternoon:** At 8 months the changing room is full of strangers,
 > so keep him facing you until you are both in the water. He sits supported in
@@ -788,8 +788,8 @@ on the tray without falling over.
 
 > ⚠️ **Safety:** Salt dough is dangerous swallowed, and at 8 months Kreston puts
 > everything in his mouth and can now reach the table leg. Give him his own pot
-> of dough with the lid taped on hard, and nothing loose. If you cook the
-> dough, the pan is hot and the doorway is where he will be.
+> of dough with the lid taped on hard, and nothing loose. The table knife and
+> the cut tubes go back up out of reach the moment the family is standing.
 
 <div style="page-break-after: always;"></div>
 
@@ -800,7 +800,7 @@ on the tray without falling over.
 **Theme:** My Body & Senses
 
 ### 🌙 Prep Tonight
-> Put four sheets of paper, the masking tape and two elastic bands on the table, and wind off five meters of string onto a high shelf.
+> Put four sheets of paper, the masking tape and two rubber bands on the table, and wind off five meters of string onto a high shelf.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Rolling the Paper Cones
@@ -822,9 +822,9 @@ on the tray without falling over.
 
 ### 🌅 Opening Activity: Rolling the Paper Cones
 
-**🧰 You need:** 4 sheets of paper or thin card · masking tape · 2 elastic bands.
+**🧰 You need:** 4 sheets of paper or thin card · masking tape · 2 rubber bands.
 
-1. Roll one sheet into a cone with a wide mouth and a hole at the point big enough for her ear. Hold it closed while she winds the elastic band on.
+1. Roll one sheet into a cone with a wide mouth and a hole at the point big enough for her ear. Hold it closed while she winds the rubber band on.
 2. She rolls the next two herself, one fat and one thin. Crooked is fine, and turns out to be useful.
 3. Hold each one to her ear and say nothing about which sounds best. She finds that out at 9:15.
 
@@ -833,7 +833,7 @@ on the tray without falling over.
 **🧰 Complete Materials List:**
 - 4 sheets of paper or thin card
 - 1 roll masking tape
-- 2 elastic bands
+- 2 rubber bands
 - A ticking clock, or your phone playing something quiet in the next room
 - 1 saucepan and a wooden spoon, for the far-away noise
 - Crayons for decorating the winner
@@ -870,7 +870,7 @@ Two cups and five meters of string between two rooms. She works out the rule
 before you get to say it.
 
 **🧰 Complete Materials List:**
-- 2 paper cups or clean yogurt pots
+- 2 paper cups or clean yogurt cups
 - 3–5 meters of string
 - 1 pencil or skewer to pierce the cups (**adult only**)
 - 2 paperclips or matchsticks to anchor the knots
@@ -893,9 +893,9 @@ before you get to say it.
 
 ### 🌳 Out Again: **The Library**
 - **The library**, and let her ask for the book out loud instead of pointing
-- Soft play if the library is packed with a school group
+- The indoor play center if the library is packed with a school group
 - The park, for the swings on the way back
-- The charity shop, for a book she gets to keep
+- The thrift store, for a book she gets to keep
 
 > 👶 **Kreston's Afternoon:** Take him to the library and put him down in the
 > board-book corner. At 8 months he chews books, which is what board books are
@@ -910,7 +910,7 @@ before you get to say it.
 > decorated. That order matters more than the cones do. A three-year-old who
 > tries the rough version first is learning that a plan is a thing you check, and
 > the check costs her nothing here, because the materials are paper and tape.
-> Engineers call it prototyping and Azlyn calls it having a go. You back it up
+> Engineers call it prototyping and Azlyn calls it trying it out. You back it up
 > every time you let a poor idea run to its end instead of heading it off,
 > because the cone that heard nothing taught her as much as the one she kept.
 
@@ -959,8 +959,8 @@ before you get to say it.
 ### 🎨 The Main Event: The Smell Words
 
 **🧰 Complete Materials List:**
-- 6 small jars or yogurt pots with foil lids
-- Elastic bands or masking tape
+- 6 small jars or yogurt cups with foil lids
+- Rubber bands or masking tape
 - Cotton balls
 - Ground coffee, ground cinnamon, orange peel, a dried herb, a sliver of soap, a drop of vanilla
 - Masking tape for labels and a marker
@@ -976,10 +976,10 @@ before you get to say it.
 
 ### 🌳 Get Outside: Wet Earth and Woodsmoke
 
-Early March smells of wet ground. Lift a handful of soil from a border, a wet
+Early March smells of wet ground. Lift a handful of soil from a flower bed, a wet
 stone, or a dead leaf from under a hedge and hold it up to her. Rain on cold
 earth releases a smell with a name of its own, petrichor, and she knows it long
-before she has the word. Then go hunting: a chimney with smoke, bin day, a
+before she has the word. Then go hunting: a chimney with smoke, trash day, a
 laundry vent. One word each.
 
 > 👶 **Infant Integration:** Kreston is 8 months and knows your smell better than
@@ -1006,7 +1006,7 @@ around her while she draws.
 
 **📝 Step-by-Step Instructions:**
 1. Peel two oranges with her. She pulls the pieces off in whatever sizes come away.
-2. Drop the peel into the pan with the cinnamon and enough water to cover it. Back ring, lowest heat, handle turned in.
+2. Drop the peel into the pan with the cinnamon and enough water to cover it. Back burner, lowest heat, handle turned in.
 3. Set her up at the table beside the kitchen with paper, crayons and paint, and no subject.
 4. Say nothing about the smell. It arrives on its own over about fifteen minutes, and she will be the one who mentions it.
 5. Top the water up as it drops. She can hand you the pitcher.
@@ -1021,13 +1021,13 @@ around her while she draws.
 - Bury the six pots in a basket of rice and let her dig them out.
 
 ### 🌳 Out Again: **Pick one**
-- **The grocery shop**, and let her pick the fruit by smell before it goes in
+- **The grocery store**, and let her pick the fruit by smell before it goes in
 - The bakery, for the doorway more than the bun
 - The market, if it runs today
 - A loop past the pizza place, the florist and the laundromat, naming each one
 
 > 👶 **Kreston's Afternoon:** At 8 months he sits up in the cart seat and takes
-> in a shop that is loud, bright and full of strangers, so twenty minutes is
+> in a store that is loud, bright and full of strangers, so twenty minutes is
 > plenty. Keep him facing you rather than out, and give him something cold from
 > the chiller to hold, too big to fit in his mouth.
 
@@ -1045,7 +1045,7 @@ around her while she draws.
 > own timing.
 
 > ⚠️ **Safety:** A pan simmering on the stovetop for an hour with a crawling
-> 8-month-old in the house. Back ring only, handle turned in, and it goes off the
+> 8-month-old in the house. Back burner only, handle turned in, and it goes off the
 > heat if you leave the kitchen. Ground cinnamon and coffee sting in the eyes, so
 > the pots stay lidded and go up high when she is done with them.
 

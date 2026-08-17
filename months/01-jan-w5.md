@@ -11,10 +11,9 @@ Azlyn prints four animal coats on Friday morning and builds the animals after
 lunch, then spends the rest of the week finding places for them to live. A
 tree up the living room wall on Saturday, a forest floor in a baking tray on
 Sunday, tracks across the hall on Monday, feeders outside the window on
-Tuesday, a cave in a cardboard box on Wednesday.
-Every day inherits the day before it. By Thursday she has a forest in the
-house and enough of it in her head to tell the whole week back to you through
-a lit sheet.
+Tuesday, a cave in a cardboard box on Wednesday. Every day inherits the day
+before it. By Thursday she has a forest in the house and enough of it in her
+head to tell the whole week back to you through a lit sheet.
 
 February arrives on Monday, and Groundhog Day lands on Tuesday the 2nd as a
 bonus note inside the afternoon: people in America gather round a hole to
@@ -75,21 +74,21 @@ long at eleven in the morning.
 - [ ] Scissors and a skewer (adult only)
 - [ ] Craft sticks, straws or spare pencils
 - [ ] Corks, 6–8
-- [ ] Clothespins or bulldog clips, 8
-- [ ] Bottle tops
+- [ ] Clothespins or binder clips, 8
+- [ ] Bottle caps
 - [ ] Cotton balls and fabric scraps
 - [ ] A tuft of wool, for a trail clue
 - [ ] A jar lid
 - [ ] A baking tray, the biggest you own, or a large shallow box lid
 - [ ] Soil or sand, a few handfuls
-- [ ] Small stones and twigs from the garden
+- [ ] Small stones and twigs from the yard
 - [ ] A pitcher and a spray bottle
 - [ ] All-purpose flour, 1 kg
 - [ ] A sieve
 - [ ] A sponge, for the paw stamps
 - [ ] A dustpan and brush
 - [ ] Sunflower seeds, mixed birdseed, oats with breadcrumbs, and raisins, a cup of each
-- [ ] The four feeders hung on January 17, brought back in
+- [ ] The four feeders hung on January 17, brought back in (or 4 clean yogurt pots with a string through the base, if the wind has taken them)
 - [ ] A dish brush, a cloth and dish soap
 - [ ] A wooden spoon
 - [ ] A fork and a roll of paper towels
@@ -107,15 +106,14 @@ long at eleven in the morning.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
-> Brooklyn, this week has me in it twice and I am not in the room for either.
-> Saturday you record the forest tour and send it to me, and Monday she lays a
-> trail across the floor so I can follow it in at six with the lights down. I
-> know what both of those cost you. An afternoon of flour on a hard floor, and
-> a video you had to remember to take with Kreston on your hip. She will never
-> notice I was missing from those hours, and that is your doing. Leave the
-> animals on the shelf where she put them. I want to be shown them by her, in
+> Five weeks in and the book has stopped being new. It sits on the counter
+> with something spilled down it and you open it at 8:00 without deciding to,
+> which is what I was after and is stranger than I expected. Monday there is a
+> flour trail across the floor and one hour that evening where the thing I
+> planned and the thing I am standing in are the same thing. That is the only
+> hour like it in the month. The flour goes down at nine in the morning and
+> the broom will have been out twice before I get anywhere near it. Leave the
+> animals on the shelf where she puts them. I want to be shown them by her, in
 > her order, with the wrong ears still on.
 
 ---
@@ -160,7 +158,7 @@ long at eleven in the morning.
 
 **🧰 You need:** 1 grocery bag · the recycling · the odds drawer.
 
-1. Hand her the bag and one job: find things that make a mark. A cork, a fork, a spool of thread, a tube end, a bottle top.
+1. Hand her the bag and one job: find things that make a mark. A cork, a fork, a spool of thread, a tube end, a bottle cap.
 2. Press each find into your palm and ask what shape it would leave. Take her guesses without fixing them.
 3. Line the winners along the table edge in the order she wants to use them. That is the plan for 9:15.
 
@@ -170,7 +168,7 @@ long at eleven in the morning.
 - Long paper strips cut from a paper bag or the back of wrapping paper, 6
 - Washable non-toxic poster paint in brown, black, white and orange
 - 1 saucer or old plate for each color
-- Cardboard tube ends, 1 cork, 1 fork, 1 scrunched piece of paper towels
+- Cardboard tube ends, 1 cork, 1 fork, 1 crumpled piece of paper towel
 - 1 wet washcloth in a shallow bowl
 - Newspaper for the table
 
@@ -179,7 +177,7 @@ long at eleven in the morning.
 2. Start the fawn. Two spots with the cork, a stripe dragged with the back of the fork, two spots again. Say it as you print: *spot, spot, stripe.* Hand her the cork on the third repeat.
 3. Raccoon next. Wide dark and pale bands from a tube squashed flat, alternating down the strip like a ringed tail. She takes over after two.
 4. Owl on the third strip: rings from the open end of a tube, rows of them, brown on brown.
-5. Fox on the fourth: orange the whole length with the scrunched paper towels, then a white tip.
+5. Fox on the fourth: orange the whole length with the crumpled paper towel, then a white tip.
 6. Hand her the last two strips with no pattern to follow. Those two are hers, printed however she likes. Lay all six flat to dry, wash hands, then walk the row and ask what comes next on the four you started.
 
 > 💡 **Tip:** Print the first repeat and stop. She finishes the strip. A pattern she completed is one she can read back at you an hour later.
@@ -192,11 +190,11 @@ and ridged, birch close to smooth, and she feels the difference through the
 paper before she sees it. January bark holds the wet, so work the sheltered
 side of each trunk.
 
-> 👶 **Infant Integration:** Kreston is 7 months and passes things from hand
-> to hand now. Give him a wooden spoon and a folded washcloth, the second set out
+> 👶 **Infant Integration:** Kreston is 7 months and passes things from hand to
+> hand now. Give him a wooden spoon and a folded washcloth, the second set out
 > to his side so he has to reach across his body for it. He keeps up a running
-> commentary at both of them while Azlyn prints. On the walk, hold his open palm
-> flat against a trunk for a second.
+> commentary at both of them while Azlyn prints. On the walk, hold his open
+> palm flat against a trunk for a second.
 
 <div style="page-break-after: always;"></div>
 
@@ -261,14 +259,14 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 > 🧠 **A Little Parenting Insight**
 > **Patterns are the beginning of algebra.**
 > Azlyn printed spot, spot, stripe, spot, spot, stripe down a paper strip this
-> morning, and the work underneath it is the work a nine-year-old does with x.
-> A pattern is a rule that holds while the pieces change. Once she can say
-> what comes next on the raccoon strip, she can find the rule in a row of cups,
-> a clapped rhythm or a line of numbers, because one skill sits under all
-> three. Researchers who track early math find pattern work predicts where a
-> child lands later, alongside counting, and it adds something counting does
-> not. You never have to name any of it. Print the first repeat, hand her the
-> cork, and let her carry the rule to the end.
+> morning, and the work underneath it is what a nine-year-old does with x. A
+> pattern is a rule that holds while the pieces change. Once she can say what
+> comes next on the raccoon strip, she can find the rule in a row of cups, a
+> clapped rhythm or a line of numbers, because one skill sits under all three.
+> Researchers who track early math find pattern work predicts where a child
+> lands later, alongside counting, and it adds something counting does not.
+> You never have to name it. Print the first repeat, hand her the cork, and
+> let her carry the rule to the end.
 
 > ⚠️ **Safety:** Kreston is 7 months and everything he reaches goes in his
 > mouth. Corks, tube ends and card scraps go up out of reach the moment you
@@ -339,10 +337,10 @@ give a reason, and any reason counts. Put both arms round the trunk to see
 whether they meet, then count the big branches. Photograph her against it
 today, the last Saturday in January, and again in April, July and October.
 
-> 👶 **Infant Integration:** Kreston is 7 months and tracks Azlyn across a
-> room now. Lay him on his back under the wall tree to look up at the leaves.
-> Tape one green paper leaf at the height of his hand, off to one side so he
-> has to reach across his body for it. He crumples it and passes it over.
+> 👶 **Infant Integration:** Kreston is 7 months and tracks Azlyn across a room
+> now. Lay him on his back under the wall tree to look up at the leaves. Tape
+> one green paper leaf at the height of his hand, off to one side so he has to
+> reach across his body for it. He crumples it and passes it over.
 
 <div style="page-break-after: always;"></div>
 
@@ -377,13 +375,13 @@ out loud to an audience that cannot get up and leave.
 - Give the whole tour to Joseph on a video call.
 
 ### 🌳 Out Again: **Pick one**
-- **The botanical garden**, glasshouse first if the wind is up
+- **The botanical garden**, greenhouse first if the wind is up
 - A garden center with an indoor plant section, the same trees in miniature
 - The park with the biggest trees you know, for the shapes of them bare
 - A churchyard or an arboretum, both good for old trunks in winter
 - A café near the garden and a hot chocolate on the way home
 
-> 👶 **Kreston's Afternoon:** At 7 months the wet warm air of the glasshouse,
+> 👶 **Kreston's Afternoon:** At 7 months the wet warm air of the greenhouse,
 > the smell and the change in sound as the door shuts all land at once, and he
 > goes still and stares. Carry him facing out and stop at three plants, his hand
 > under yours on one big rubbery leaf. Back home he props against a cushion at
@@ -417,7 +415,7 @@ out loud to an audience that cannot get up and leave.
 **Theme:** Forest Friends
 
 ### 🌙 Prep Tonight
-> Empty the odds drawer into a bowl on the table (corks, clothespins, bottle tops, cotton balls, fabric scraps) and dig out the biggest baking tray you own.
+> Empty the odds drawer into a bowl on the table (corks, clothespins, bottle caps, cotton balls, fabric scraps) and dig out the biggest baking tray you own.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Odds and Ends Hunt
@@ -442,7 +440,7 @@ out loud to an audience that cannot get up and leave.
 **🧰 You need:** the bowl of odds and ends · 1 baking tray · 1 jar lid.
 
 1. Tip the bowl into the middle of the table and let her go through it.
-2. Give her three words: **log**, **rock**, **leaf**. Ask which things in the pile could be each. A cork can be a log, a bottle top a rock.
+2. Give her three words: **log**, **rock**, **leaf**. Ask which things in the pile could be each. A cork can be a log, a bottle cap a rock.
 3. Set the jar lid in the middle of the empty tray and tell her it is the pond. Nothing else goes in until 9:15.
 
 ### 🎨 The Main Event: The Forest Floor Tray
@@ -450,9 +448,9 @@ out loud to an audience that cannot get up and leave.
 **🧰 Complete Materials List:**
 - 1 baking tray or a large shallow box lid
 - Soil, sand or torn brown paper for the ground
-- Corks, clothespins, bottle tops, cotton balls, fabric scraps
+- Corks, clothespins, bottle caps, cotton balls, fabric scraps
 - 1 jar lid for the pond
-- Small stones and twigs from the garden
+- Small stones and twigs from the yard
 - 1 pitcher of water
 
 **📝 Step-by-Step Instructions:**
@@ -469,8 +467,8 @@ out loud to an audience that cannot get up and leave.
 
 Take a paper bag and turn over the leaf litter at the bottom of a hedge. The
 underneath of January is wet, dark and busy: leaves gone to skeleton, a pill
-bug, an empty snail shell, twigs going soft. Lift one stone, look, and
-put it back as you found it. Fill the bag with moss, bark and four good twigs.
+bug, an empty snail shell, twigs going soft. Lift one stone, look, and put it
+back as you found it. Fill the bag with moss, bark and four good twigs.
 
 > 👶 **Infant Integration:** Kreston is 7 months and everything goes to his
 > mouth. Keep him clear of the tray and give him a bowl of his own with a
@@ -526,15 +524,15 @@ bare corner of the tray, and the Forest Family moves in on top.
 
 > 🧠 **A Little Parenting Insight**
 > **Loose parts beat finished toys.**
-> A bowl of corks, pegs and bottle tops puts a decision in front of Azlyn on
-> every piece she picks up. The cork has to become a log, and she makes it one.
-> Architects and playworkers call these loose parts: the more a material can
-> turn into, the longer a child stays with it and the more she says. A toy fox
-> stays a fox for as long as you own it. Her cork is a log, then a seat, then a
-> bear, and each change is a thought she had. Keep a bowl of them where she can
-> reach and top it up from the recycling.
+> A bowl of corks, clothespins and bottle caps puts a decision in front of
+> Azlyn on every piece she picks up. The cork has to become a log, and she
+> makes it one. Architects and playworkers call these loose parts: the more a
+> material can turn into, the longer a child stays with it and the more she
+> says. A toy fox stays a fox for as long as you own it. Her cork is a log,
+> then a seat, then a bear, and each change is a thought she had. Keep a bowl
+> of them where she can reach and top it up from the recycling.
 
-> ⚠️ **Safety:** Small stones, corks and bottle tops sit at mouth height for a
+> ⚠️ **Safety:** Small stones, corks and bottle caps sit at mouth height for a
 > 7-month-old. The tray lives on the table between sessions and never on the
 > floor while Kreston is loose in the room. Soil and leaf litter mean hands
 > washed before the snack. Tip the pond out when she has finished.
@@ -589,7 +587,7 @@ bare corner of the tray, and the Forest Family moves in on top.
 **📝 Step-by-Step Instructions:**
 1. Open the door and stand back. Let her look before anybody says a word.
 2. Follow it from the start on hands and knees. Count the prints out loud and let her take over.
-3. Stop at every clue and ask the same question: what does this tell us. A chewed leaf says it eats plants, a tuft of wool says it is furry, crumbs say it went past the bin.
+3. Stop at every clue and ask the same question: what does this tell us. A chewed leaf says it eats plants, a tuft of wool says it is furry, crumbs say it went past the trash can.
 4. Find the animal at the end. She lifts whatever it is hiding under and says the name.
 5. Now walk it backwards, animal to door, and ask which way it was going. This is the hard part.
 6. Sweep up together. Keep half a cup of flour back for after lunch.
@@ -600,10 +598,9 @@ bare corner of the tray, and the Forest Family moves in on top.
 
 Early February holds frost on grass and car roofs until the sun comes round,
 and a mild morning gives you soft mud instead, which takes a print better.
-Walk the shaded side of the street and read what crossed it in the
-night: a cat's prints along a wall, bird feet in a puddle, her own boots
-on white grass. Send her across the lawn, then turn her round to see
-what she left.
+Walk the shaded side of the street and read what crossed it in the night: a
+cat's prints along a wall, bird feet in a puddle, her own boots on white
+grass. Send her across the lawn, then turn her round to see what she left.
 
 > 👶 **Infant Integration:** Kreston is 7 months and sits solid with both hands
 > free. Put him at the far end of the trail on a blanket with a wooden spoon
@@ -663,10 +660,11 @@ Azlyn spends the afternoon making sure there is.
 > A chewed leaf on the floor and a fox at the end of the hallway are different
 > kinds of thing, and Azlyn spent the morning getting from one to the other.
 > Scientists call the move inference: the leaf is what you can see, the fox is
-> what you worked out. Three-year-olds do this better than the age suggests, as
-> long as the evidence sits in front of them. Ask *what does this tell us*
+> what you worked out. Three-year-olds do this better than the age suggests,
+> as long as the evidence sits in front of them. Ask *what does this tell us*
 > instead of *who was it*, and she has to say the middle step out loud. That
-> middle step is the whole of science, and she will use it on you within a week.
+> middle step is the whole of science, and she will use it on you
+> within a week.
 
 > ⚠️ **Safety:** Flour on a hard floor is slippery in a way that puts adults
 > down as fast as children. Sweep between rounds, keep it off tile and
@@ -713,7 +711,7 @@ Azlyn spends the afternoon making sure there is.
 ### 🎨 The Main Event: What the Birds Take First
 
 **🧰 Complete Materials List:**
-- The four feeders from January 17, brought in off their branches
+- The four feeders from January 17, brought in off their branches (or 4 clean yogurt pots and string, if the wind took them)
 - Warm soapy water, 1 dish brush and a cloth
 - 4 foods, a cup of each: sunflower seeds, mixed birdseed, oats and breadcrumbs, raisins
 - Masking tape and 1 marker
@@ -778,7 +776,7 @@ feeder that has moved, so build her somewhere to sit and wait.
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one
 - The quiet hour, if the after-school crowd is in
-- Soft play if the pool is shut
+- Indoor playground if the pool is shut
 - A warm café and the new binoculars, aimed at the pigeons
 - Straight home, if the morning ran long
 
@@ -913,7 +911,7 @@ spoon and a pan lid, and winter ends whenever she says it does.
 
 ### 🌳 Out Again: **The Library**
 - **The library**, and ask at the desk for one book about bears and one about winter
-- Soft play if the library is shut or heaving
+- Indoor playground if the library is shut or packed
 - The park on the way back, for twenty minutes of running
 - A café, with both new books read cover to cover
 - The bookshop window, if the library run is not happening today
@@ -934,8 +932,8 @@ spoon and a pan lid, and winter ends whenever she says it does.
 > because the rule belongs to the game. The round where she holds the pan lid
 > works harder: running the stop and the go for somebody else takes more
 > control than following it. Freeze games, musical statues and sleeping lions
-> sit in the same family. Reach for one on the afternoons she is climbing the
-> walls.
+> sit in the same family. Reach for one on the afternoons she is
+> climbing the walls.
 
 > ⚠️ **Safety:** Kreston is 7 months and cannot get himself out of anywhere.
 > He goes in the cave only with you in it, and never on his own for a second.
@@ -1002,15 +1000,14 @@ spoon and a pan lid, and winter ends whenever she says it does.
 ### 🌳 Get Outside: The Longest Shadow
 
 Stop at the feeders on the way out. The sunflower seeds have gone down, and a
-chickadee comes back for more if you hold still. Let her tick
-the chart when you get in. The sun stays low all day in early February, so
-shadows run long. Stand her on the sidewalk at eleven, draw round her shadow
-in chalk, and pace it out in her steps. Come back past the chalk mark on the
-way home.
+chickadee comes back for more if you hold still. Let her tick the chart when
+you get in. The sun stays low all day in early February, so shadows run long.
+Stand her on the sidewalk at eleven, draw round her shadow in chalk, and pace
+it out in her steps. Come back past the chalk mark on the way home.
 
 > 👶 **Infant Integration:** Kreston is 7 months. Lay him on his back and hold
-> the flashlight above him off to one side, your hand between the beam and his face.
-> Move your fingers through it. He follows the shape across the ceiling,
+> the flashlight above him off to one side, your hand between the beam and his
+> face. Move your fingers through it. He follows the shape across the ceiling,
 > loses it, finds it again. Outside, park him with the low sun behind him and
 > wave from a few feet back.
 
@@ -1023,7 +1020,7 @@ perform. She has four animals, one flashlight, and an audience.
 
 **🧰 Complete Materials List:**
 - 1 white or pale sheet
-- Clothespins or bulldog clips, 6
+- Clothespins or binder clips, 6
 - A doorway, or 2 dining chairs back to back
 - 1 flashlight
 - The shadow puppets
@@ -1048,29 +1045,29 @@ perform. She has four animals, one flashlight, and an audience.
 
 ### 🌳 Out Again: **Pick one**
 - **The garden center**, for the indoor trees and a warm greenhouse in February
-- The hardware shop, for flashlights and a spare set of batteries
+- The hardware store, for flashlights and a spare set of batteries
 - The park on the way back, for the low sun and the long shadows
-- The grocery shop, and she chooses one thing for Friday breakfast
+- The grocery store, and she chooses one thing for Friday breakfast
 - Home and the sofa, if the show ran long and nobody wants a coat on
 
 > 👶 **Kreston's Afternoon:** The garden center is warm and bright, so sit him
-> on your lap for ten minutes. Hold a big leaf out to one side, where he
-> has to reach across himself. At 7 months that cross-body reach is new work.
-> At the show he sits in the front row, and moving shapes on a lit sheet hold
-> him longer than a book.
+> on your lap for ten minutes. Hold a big leaf out to one side, where he has
+> to reach across himself. At 7 months that cross-body reach is new work. At
+> the show he sits in the front row, and moving shapes on a lit sheet hold him
+> longer than a book.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Shadows are confusing at three, and the confusion is worth exploring.**
-> Ask Azlyn what a shadow is made of and you get real thought in the answer and
-> no truth in it. Three-year-olds treat a shadow as a thing that belongs to an
-> object and travels with it, rather than as blocked light. The real version
-> takes a couple of years of flashlight time. Every test today feeds that
-> version: close to the sheet, back near the flashlight, one hand in the beam. Hold
-> off on the tidy explanation. Give her the flashlight, let her run the
-> tests, and answer the questions she asks rather than the ones she has not
-> reached.
+> Ask Azlyn what a shadow is made of and you get real thought in the answer
+> and no truth in it. Three-year-olds treat a shadow as a thing that belongs
+> to an object and travels with it, rather than as blocked light. The real
+> version takes a couple of years of flashlight time. Every test today feeds
+> that version: close to the sheet, back near the flashlight, one hand in the
+> beam. Hold off on the tidy explanation. Give her the flashlight, let her run
+> the tests, and answer the questions she asks rather than the ones she has
+> not reached.
 
 > ⚠️ **Safety:** Loose craft sticks and straws stay off the floor while Kreston
 > is down. They splinter, and they fit down his throat, so count them onto the

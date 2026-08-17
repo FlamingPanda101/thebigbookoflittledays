@@ -10,11 +10,12 @@
 Most of the kindness around Azlyn happens out of her sight. The shopping
 arrives, the heating comes on, somebody made the dinner. This week she does it
 herself seven times over: a verse for every person in the house, a show for an
-audience of one, bird cakes for a frozen January, three real jobs before lunch,
-soup for the neighbors, a box of her own toys given away, cookies and cards
-on Thursday. One thread runs under all of it. The Good Thing Jar goes on the
-kitchen table on Friday and takes a paper strip every time somebody here does
-something for somebody else, and nobody reads a single strip until Day 21.
+audience of one, bird cakes for a frozen January, three real jobs before
+lunch, soup for the neighbors, a box of her own toys given away, cookies and
+cards on Thursday. One thread runs under all of it. The Good Thing Jar goes on
+the kitchen table on Friday and takes a paper strip every time somebody here
+does something for somebody else, and nobody reads a single strip
+until Day 21.
 
 Martin Luther King Jr. Day lands on Monday, and Day 18 marks it with work. She
 gets three jobs she can finish before lunch and a pot of soup after it, and
@@ -62,18 +63,18 @@ goes to and carries the jar to the door herself.
 - [ ] Stickers
 - [ ] Scissors (adult only)
 - [ ] A skewer, for the string holes in the bird cake pots
-- [ ] String, 2 m
+- [ ] String, 6 feet
 - [ ] Envelopes, or paper to fold into them
 - [ ] 1 stamp
 - [ ] A hand mirror
 - [ ] A clean jar with a lid, or a plastic tub, for the Good Thing Jar
 - [ ] A second clean jar with a screw lid, for the soup
-- [ ] 4–6 clean yogurt pots or empty tins
+- [ ] 4–6 clean yogurt pots or empty cans
 - [ ] A shoebox, or an empty wipes tub
 - [ ] A strong box or 2 sturdy bags, plus one spare bag for anything broken
 - [ ] A sheet or thin blanket for the curtain
 - [ ] 2 blankets, one for the window seat and one for the sofa
-- [ ] 6 clothespins or bulldog clips
+- [ ] 6 clothespins or binder clips
 - [ ] A flashlight with working batteries
 - [ ] A cushion
 - [ ] 3 chairs you can move, two for the curtain and one for the window
@@ -85,7 +86,7 @@ goes to and carries the jar to the door herself.
 - [ ] A large pot and a ladle
 - [ ] A rolling pin
 - [ ] A cookie cutter, or an upturned glass
-- [ ] A baking tray and baking paper
+- [ ] A baking tray and parchment paper
 - [ ] A cooling rack, or a cold plate
 - [ ] A table knife and a chopping board for her
 - [ ] A dishpan
@@ -94,7 +95,7 @@ goes to and carries the jar to the door herself.
 - [ ] A spray bottle of water
 - [ ] 2 cloths and an old towel for the floor
 - [ ] A dish towel
-- [ ] A shallow dish, an old plant saucer or a takeaway lid
+- [ ] A shallow dish, an old plant saucer or a takeout lid
 - [ ] A hairbrush, the second microphone
 - [ ] 250 g lard or solid vegetable fat (smooth peanut butter works instead)
 - [ ] 500 g birdseed, or rolled oats, breadcrumbs, raisins and sunflower seeds
@@ -107,7 +108,7 @@ goes to and carries the jar to the door herself.
 - [ ] Carrots, 3 for the soup and a few spare
 - [ ] 1 onion
 - [ ] 1 zucchini, or a handful of mushrooms
-- [ ] 1 tin of chopped tomatoes, or 2 stock cubes
+- [ ] 1 can of chopped tomatoes, or 2 bouillon cubes
 - [ ] 2 cookies and a drink for Saturday's audience of one
 - [ ] The sock basket, left unsorted until Monday
 - [ ] Three people lined up for Wednesday's phone calls
@@ -117,15 +118,15 @@ goes to and carries the jar to the door herself.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
-> Brooklyn, this is the week the house gives things away, and you are the one
-> at every door. The jar on the table takes a strip whenever somebody does
-> something for somebody else, and the person who had both of them dressed and
-> fed before 8:00 is the one nobody writes a strip for. Write your own and post
-> it. On Thursday she tips the jar out and reads the lot, yours included. Cook
-> Monday's soup big enough that our half is dinner. If Saturday's audience of
-> one turns out to be you, send me the thirty seconds.
+> The jar goes on the kitchen table Friday and takes a strip every time
+> somebody here does something for somebody else. I am out of the house for
+> most of what would go in it. Some of this book got built so that I would be
+> doing something for the three of you in hours I am not there, and I would
+> rather write that down than leave it sitting under every page. Monday is
+> Martin Luther King Jr. Day and half that pot of soup leaves the house before
+> dinner, so cook it big enough that our half is dinner too. I did not put a
+> lighter afternoon anywhere in these seven days, and by Thursday, with the
+> cookies and the three doorsteps and the cards, I can see that I should have.
 
 ---
 
@@ -193,15 +194,24 @@ goes to and carries the jar to the door herself.
 
 ### 🌳 Get Outside: The Singing Walk
 
-Take the song out and sing it down the street. Cold January air carries a voice further than she expects, and she will hear her own noise come back off the houses. Sing your verse first so she sees a grown adult do it outdoors. Let her pick who gets a verse: a dog, a parked van, the woman at the bus stop.
+Take the song out and sing it down the street. Cold January air carries a
+voice further than she expects, and she will hear her own noise come back off
+the houses. Sing your verse first so she sees a grown adult do it outdoors.
+Let her pick who gets a verse: a dog, a parked van, the woman at the bus stop.
 
-> 👶 **Infant Integration:** Kreston is 7 months and babbling in long strings now, which is singing with the words still missing. Sit him on the floor with the second wooden spoon and the upturned saucepan while Azlyn works. He bangs it, and the noise lands in the middle of her song instead of beside it. Set the spoon down on his far side once or twice, because reaching across his own body is new this month and worth the stretch.
+> 👶 **Infant Integration:** Kreston is 7 months and babbling in long strings
+> now, which is singing with the words still missing. Sit him on the floor
+> with the second wooden spoon and the upturned saucepan while Azlyn works. He
+> bangs it, and the noise lands in the middle of her song instead of beside
+> it. Set the spoon down on his far side once or twice, because reaching
+> across his own body is new this month and worth the stretch.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: The Good Thing Jar
 
-The jar lands on the kitchen table today and stays all week. Good things go in on paper strips, and on Thursday you tip the lot out and read them.
+The jar lands on the kitchen table today and stays all week. Good things go in
+on paper strips, and on Thursday you tip the lot out and read them.
 
 **🧰 Complete Materials List:**
 - 1 clean jar with a lid, or a plastic tub
@@ -225,7 +235,7 @@ The jar lands on the kitchen table today and stays all week. Good things go in o
 ### 🎯 Afternoon Alternatives
 - Decorate the jar, post one strip, and leave the week to fill it.
 - Draw the good things instead of writing them, one per strip.
-- Post strips for people outside the house: grandparents, the woman at the shop.
+- Post strips for people outside the house: grandparents, the woman at the store.
 - Tape a paper chain to the wall and add a link for each one.
 
 ### 🌳 Out Again: **Pick one**
@@ -233,9 +243,12 @@ The jar lands on the kitchen table today and stays all week. Good things go in o
 - A friend's house, one child, one hour
 - The park, for whoever needs the noise taken out of them
 - A café with a window seat and one hot drink you get to finish
-- The corner shop, and she carries the basket to the register
+- The corner store, and she carries the basket to the register
 
-> 👶 **Kreston's Afternoon:** Cut him two or three strips from thicker paper and let him crumple them while Azlyn posts hers. At 7 months he moves a thing from one hand to the other and back, and paper that crackles holds him longer than a toy that stays silent. Keep his strips too big for his mouth.
+> 👶 **Kreston's Afternoon:** Cut him two or three strips from thicker paper
+> and let him crumple them while Azlyn posts hers. At 7 months he moves a
+> thing from one hand to the other and back, and paper that crackles holds him
+> longer than a toy that stays silent. Keep his strips too big for his mouth.
 
 ### 🌍 Around the World: Southern Africa & *Ubuntu* 💛
 
@@ -255,14 +268,14 @@ a one-word translation, and no single English word holds it.
 
 > 🧠 **A Little Parenting Insight**
 > **Verses she invents are worth more than verses she repeats.**
-> Azlyn can sing back a nursery rhyme she has heard two hundred times, and that
-> is memory doing its work. Making up a verse asks for something harder. She
-> has to hold the tune, feel where the beats fall, and land a line that fits
-> before the bar runs out. Adults pay for lessons in that. She does it at three
-> because nobody has told her it is difficult. Writing the lines down changes
-> the transaction, because the words she pulled out of nothing now exist on
-> paper and get read back to her. Children who invent language rather than
-> recite it build a stronger sense of what words can do.
+> Azlyn can sing back a nursery rhyme she has heard two hundred times, and
+> that is memory doing its work. Making up a verse asks for something harder.
+> She has to hold the tune, feel where the beats fall, and land a line that
+> fits before the bar runs out. Adults pay for lessons in that. She does it at
+> three because nobody has told her it is difficult. Writing the lines down
+> changes the transaction, because the words she pulled out of nothing now
+> exist on paper and get read back to her. Children who invent language rather
+> than recite it build a stronger sense of what words can do.
 
 > ⚠️ **Safety:** A glass jar carried by a three-year-old with Kreston on the
 > floor is a bad combination. Use a plastic tub, or keep the jar on the table
@@ -311,7 +324,7 @@ a one-word translation, and no single English word holds it.
 **🧰 Complete Materials List:**
 - 1 sheet or thin blanket for the curtain
 - 2 dining chairs
-- 6 clothespins or bulldog clips
+- 6 clothespins or binder clips
 - 1 flashlight as a spotlight
 - 1 cushion for the audience seat
 - The ticket she made at 8:00
@@ -329,15 +342,24 @@ a one-word translation, and no single English word holds it.
 
 ### 🌳 Get Outside: Posting the Invitation
 
-Take the ticket off the kettle and walk it to whoever is coming at 1:00. If the audience lives in this house, she posts it through your own front door and you act surprised when it lands on the mat. A grandparent up the road means the whole walk, with the letterbox flap hers to push. Gloves on. January makes that flap colder than she expects.
+Take the ticket off the kettle and walk it to whoever is coming at 1:00. If
+the audience lives in this house, she posts it through your own front door and
+you act surprised when it lands on the mat. A grandparent up the road means
+the whole walk, with the mail slot flap hers to push. Gloves on. January makes
+that flap colder than she expects.
 
-> 👶 **Infant Integration:** Kreston is 7 months, and a curtain that opens and shuts is the best offer he has had all week. Sit him at the audience end and let Azlyn drag the sheet across and back. He holds onto the idea of a thing after it leaves his sight, and every pull tests that. Keep the sheet clear of his face.
+> 👶 **Infant Integration:** Kreston is 7 months, and a curtain that opens and
+> shuts is the best offer he has had all week. Sit him at the audience end and
+> let Azlyn drag the sheet across and back. He holds onto the idea of a thing
+> after it leaves his sight, and every pull tests that. Keep the sheet clear
+> of his face.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: The One-Person Show
 
-At one o'clock the ticket holder sits down, and everybody else in the house is either backstage or out of the room.
+At one o'clock the ticket holder sits down, and everybody else in the house is
+either backstage or out of the room.
 
 **🧰 Complete Materials List:**
 - The stage and curtain
@@ -363,29 +385,33 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 - One song from behind the sofa. Same idea, four minutes.
 - A puppet show over a chair back with two socks.
 - She directs and you perform the whole thing.
-- Ring a grandparent and do the show down the phone.
+- Call a grandparent and do the show over the phone.
 
 ### 🌳 Out Again: **Pick one**
 - **The farm**, for the indoor barn and whatever gets fed at three
-- Soft play, if the farm has turned to mud
+- Indoor playground, if the farm has turned to mud
 - The park, and the show gets performed again on the climbing frame
 - A friend's house, and a second audience of one
-- The pet shop, twenty minutes, nothing bought
+- The pet store, twenty minutes, nothing bought
 
-> 👶 **Kreston's Afternoon:** He goes to the farm in the carrier, where at 7 months the smell of a barn is new information and he goes quiet in it because he is working. Keep him clear of anything with teeth and wash both pairs of hands before anybody eats. Back home he gets the hairbrush microphone, and the shouting into it is aimed at a person now.
+> 👶 **Kreston's Afternoon:** He goes to the farm in the carrier, where at 7
+> months the smell of a barn is new information and he goes quiet in it
+> because he is working. Keep him clear of anything with teeth and wash both
+> pairs of hands before anybody eats. Back home he gets the hairbrush
+> microphone, and the shouting into it is aimed at a person now.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Performing for one person is enough.**
 > A three-year-old singing to a room of adults is doing a different job from a
-> three-year-old singing to one. The audience of one keeps her attention on the
-> thing itself, on the song and the order and the ending she planned, with no
-> crowd to read. She gets the whole arc: waiting behind a curtain, starting,
-> finishing, watched the entire way through. Children build social confidence
-> in doses about this size. One
-> person who stays until the end teaches her that a thing has a finish, and
-> that finishing it is the good part.
+> three-year-old singing to one. The audience of one keeps her attention on
+> the thing itself, on the song and the order and the ending she planned, with
+> no crowd to read. She gets the whole arc: waiting behind a curtain,
+> starting, finishing, watched the entire way through. Children build social
+> confidence in doses about this size. One person who stays until the end
+> teaches her that a thing has a finish, and that finishing it is
+> the good part.
 
 > ⚠️ **Safety:** She will climb on a dining chair to reach the curtain. You
 > hang it, she stands back. Nothing tied at neck height, no cord left running
@@ -401,7 +427,7 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 **Theme:** Kindness & Community
 
 ### 🌙 Prep Tonight
-> Take the lard out to soften overnight and put the yogurt pots, the birdseed and a meter of string beside it.
+> Take the lard out to soften overnight and put the yogurt pots, the birdseed and three feet of string beside it.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Window Count
@@ -434,8 +460,8 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 **🧰 Complete Materials List:**
 - 250 g lard or solid vegetable fat, left out to soften (smooth peanut butter works instead)
 - 500 g birdseed, or rolled oats, breadcrumbs, raisins and sunflower seeds mixed
-- 4–6 clean yogurt pots or empty tins
-- String, 1 m
+- 4–6 clean yogurt pots or empty cans
+- String, 3 feet
 - 1 large mixing bowl and 1 wooden spoon
 - 1 skewer or the point of the scissors, adult only, for the string hole
 
@@ -451,20 +477,29 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 
 ### 🌳 Get Outside: Where the Birds Are
 
-Walk the usual route with one job: find where the birds already are. In January they cluster in thick hedges, in anything with berries still on it, and in the tangle at the back of a yard. Stand still under a hedge for a minute and listen before either of you looks up. Let her choose the branch the cakes hang from on the way home.
+Walk the usual route with one job: find where the birds already are. In
+January they cluster in thick hedges, in anything with berries still on it,
+and in the tangle at the back of a yard. Stand still under a hedge for a
+minute and listen before either of you looks up. Let her choose the branch the
+cakes hang from on the way home.
 
-> 👶 **Infant Integration:** Kreston is 7 months. Hold him up to the glass before you go out, tap where a bird lands and wait. He follows a pointing finger on a good day and stares at the finger on a bad one. Outside, stop the stroller under the hedge and let him turn his head towards a sound with nothing attached to it.
+> 👶 **Infant Integration:** Kreston is 7 months. Hold him up to the glass
+> before you go out, tap where a bird lands and wait. He follows a pointing
+> finger on a good day and stares at the finger on a bad one. Outside, stop
+> the stroller under the hedge and let him turn his head toward a sound with
+> nothing attached to it.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: The Feeding Station
 
-The cakes come out of the fridge set hard, and the afternoon happens at the window under a blanket.
+The cakes come out of the fridge set hard, and the afternoon happens at the
+window under a blanket.
 
 **🧰 Complete Materials List:**
 - The set bird cakes
 - String and scissors
-- 1 shallow dish, an old plant saucer or a takeaway lid
+- 1 shallow dish, an old plant saucer or a takeout lid
 - A pitcher of warm water to thaw the dish
 - 1 chair pulled to the window
 - Paper and 1 crayon for the tally
@@ -492,9 +527,13 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 - The park, counting birds there and back
 - A long loop with the stroller and no destination
 - Feed the ducks with the crusts she has been saving
-- The pet shop and its seed aisle, if the rain has set in
+- The pet store and its seed aisle, if it is too wet to be out
 
-> 👶 **Kreston's Afternoon:** He faces Azlyn in the stroller while she scoots, so turn the seat round. At 7 months he tracks a moving thing across his whole field of view, and a sister on wheels is the best one going. Back at the window he sits on your lap and slaps the glass, which is a fair contribution to the tally.
+> 👶 **Kreston's Afternoon:** He faces Azlyn in the stroller while she scoots,
+> so turn the seat round. At 7 months he tracks a moving thing across his
+> whole field of view, and a sister on wheels is the best one going. Back at
+> the window he sits on your lap and slaps the glass, which is a fair
+> contribution to the tally.
 
 ---
 
@@ -504,9 +543,9 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 > heating comes on, and none of it looks to her like a choice anybody made.
 > Feeding birds in January puts one act of care in front of her start to
 > finish. The need is real, the animal is cold, and she is the one with her
-> hands in the fat. Children copy what they can watch being done more than what
-> they are told about, and a dish of thawed water on a frozen morning is a
-> kindness with all its working shown.
+> hands in the fat. Children copy what they can watch being done more than
+> what they are told about, and a dish of thawed water on a frozen morning is
+> a kindness with all its working shown.
 
 > ⚠️ **Safety:** Loose birdseed on the floor near a seven-month-old who mouths
 > everything, so sweep before you put Kreston down. Wash both pairs of hands
@@ -573,20 +612,30 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 
 ### 🌳 Get Outside: Taking the Trash Cans In
 
-Monday, and the bins are out. Wheel yours back down the path with her hands on the handle beside yours, then knock next door and bring theirs in too. She holds on and does almost none of the pulling, and she knows it. Walk the block after and let her pick up three pieces of litter with a bag over her hand.
+Monday, and the trash cans are out. Wheel yours back down the path with her
+hands on the handle beside yours, then knock next door and bring theirs in
+too. She holds on and does almost none of the pulling, and she knows it. Walk
+the block after and let her pick up three pieces of litter with a bag
+over her hand.
 
-> 👶 **Infant Integration:** Kreston is 7 months and copies the shape of a job long before he can do one. Sit him on the towel with a dry cloth of his own and a wooden spoon, a full arm's length clear of the water. Raw potato breaks off in hard pieces under a gum, so the potatoes stay on her side. He bangs the spoon, hands it to you and waits for it back, which is the game of his month.
+> 👶 **Infant Integration:** Kreston is 7 months and copies the shape of a job
+> long before he can do one. Sit him on the towel with a dry cloth of his own
+> and a wooden spoon, a full arm's length clear of the water. Raw potato
+> breaks off in hard pieces under a gum, so the potatoes stay on her side. He
+> bangs the spoon, hands it to you and waits for it back, which is the game
+> of his month.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: Soup for Two Houses
 
-Today is Martin Luther King Jr. Day, marked by doing something for somebody else. Half of this pot leaves the house before dinner.
+Today is Martin Luther King Jr. Day, marked by doing something for somebody
+else. Half of this pot leaves the house before dinner.
 
 **🧰 Complete Materials List:**
 - 1 onion, 3 carrots, the 6 potatoes she scrubbed this morning
 - 1 zucchini or a handful of mushrooms, soft for her knife
-- 1 tin of chopped tomatoes or 2 stock cubes
+- 1 can of chopped tomatoes or 2 bouillon cubes
 - 2 liters water
 - 1 table knife and 1 chopping board for her
 - 1 large pot and 1 ladle
@@ -600,14 +649,14 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 4. Onto the stovetop with the tomatoes, the stock and the water. She stirs from the stool with your hand over hers, pan handle turned in.
 5. Thirty minutes of simmering, and in the gap she chooses which house gets the jar.
 6. Ladle half in once it has stopped steaming, screw the lid down, wrap the dish towel round it and hand it to her.
-7. Deliver it before dinner, or ring ahead and take it tomorrow. She hands it over herself.
+7. Deliver it before dinner, or call ahead and take it tomorrow. She hands it over herself.
 
 > 💡 **Tip:** Do not give her a line to say at the door. Whatever comes out will be better than anything you could have written.
 
 ### 🎯 Afternoon Alternatives
 - Sandwiches instead of soup, and half of them go next door.
 - She washes and you cook, and the whole pot stays here.
-- Bag up tins she chooses for the food bank.
+- Bag up cans she chooses for the food bank.
 - Draw a card for the person getting the jar.
 
 ### 🌳 Out Again: **Pick one**
@@ -617,7 +666,11 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 - A drive to drop the jar off, with her holding it
 - The indoor play center, if the woods have washed out
 
-> 👶 **Kreston's Afternoon:** He goes in the carrier for the woods, facing out. At 7 months he grabs everything within reach, so keep low branches away from his hands and check what comes back in his fist. He stays out of the kitchen while the pot is on the stovetop, and gets the empty tin and a wooden spoon once it is off.
+> 👶 **Kreston's Afternoon:** He goes in the carrier for the woods, facing out.
+> At 7 months he grabs everything within reach, so keep low branches away from
+> his hands and check what comes back in his fist. He stays out of the kitchen
+> while the pot is on the stovetop, and gets the empty can and a wooden spoon
+> once it is off.
 
 ---
 
@@ -626,9 +679,9 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 > Azlyn wants the brush, the cloth and the spray bottle, because the work is
 > real and she has watched you do it. Toddlers offer help without being asked
 > from around eighteen months, and the offers thin out across the school years
-> as the help keeps getting turned down for being slow. She scrubs
-> six potatoes in the time you would take over twenty, and those six go in the
-> pot in front of her. Take the offer while she is still making it, and let the
+> as the help keeps getting turned down for being slow. She scrubs six
+> potatoes in the time you would take over twenty, and those six go in the pot
+> in front of her. Take the offer while she is still making it, and let the
 > standard be hers.
 
 > ⚠️ **Safety:** Hot pot on the stovetop with a three-year-old at counter height:
@@ -694,15 +747,24 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 
 ### 🌳 Get Outside: Delivering the Box
 
-The box goes today, while it still means something to her. Load it into the bottom of the stroller and walk it to the charity shop, the church porch or the family two streets over with a smaller child. Let her carry it the last twenty feet even though it is too big for her, and hand it across herself. Ask whoever takes it to tell her where it goes next.
+The box goes today, while it still means something to her. Load it into the
+bottom of the stroller and walk it to the thrift store, the church porch or
+the family two streets over with a smaller child. Let her carry it the last
+twenty feet even though it is too big for her, and hand it across herself. Ask
+whoever takes it to tell her where it goes next.
 
-> 👶 **Infant Integration:** Kreston is 7 months and everything in that box has been in his mouth at some point, so wipe as you pack. Give him one toy that is staying, a soft one of Azlyn's she has agreed to lend for the morning, and watch what happens when she takes it back. He does not mind yet. That window shuts somewhere around his first birthday.
+> 👶 **Infant Integration:** Kreston is 7 months and everything in that box has
+> been in his mouth at some point, so wipe as you pack. Give him one toy that
+> is staying, a soft one of Azlyn's she has agreed to lend for the morning,
+> and watch what happens when she takes it back. He does not mind yet. That
+> window shuts somewhere around his first birthday.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: Kreston's Posting Box
 
-Something arrives in the house this afternoon instead of leaving it, and Azlyn makes it for her brother.
+Something arrives in the house this afternoon instead of leaving it, and Azlyn
+makes it for her brother.
 
 **🧰 Complete Materials List:**
 - 1 shoebox or empty wipes tub
@@ -731,12 +793,15 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one, and she carries her own bag in
-- Soft play if the pool session is cancelled
+- Indoor playground if the pool session is canceled
 - The library, a day early, for something to read in the bath
 - A warm café and a window, if the morning has used everybody up
 - The indoor play center
 
-> 👶 **Kreston's Afternoon:** He comes to the pool if he is coming. At 7 months he sits supported in the water and slaps at it with both hands, and he aims the splash at a person now. Twenty minutes, then out and dressed before he goes cold. Never out of arm's reach.
+> 👶 **Kreston's Afternoon:** He comes to the pool if he is coming. At 7 months
+> he sits supported in the water and slaps at it with both hands, and he aims
+> the splash at a person now. Twenty minutes, then out and dressed before he
+> goes cold. Never out of arm's reach.
 
 ---
 
@@ -744,15 +809,15 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 > **Giving feels good only when the child does the giving.**
 > Sorting her toys while she is at playgroup and dropping the bag off yourself
 > clears the cupboard. Azlyn takes nothing from it, because she was not in the
-> room. The good feeling arrives through the doing: choosing it, holding it one
-> last time, walking it to a door and putting it into a stranger's hands.
+> room. The good feeling arrives through the doing: choosing it, holding it
+> one last time, walking it to a door and putting it into a stranger's hands.
 > Researchers who watch toddlers hand over treats find the pleasure shows up
 > when the child does the handing, and less of it when the treat was never
-> hers. She needs the whole sequence, including the part where it costs her
-> something.
+> hers. She needs the whole sequence, including the part where it costs
+> her something.
 
 > ⚠️ **Safety:** Everything that goes in Kreston's box has to be bigger than
-> his fist. No bottle tops, no coins, no small lids. Cut the discs palm-sized,
+> his fist. No bottle caps, no coins, no small lids. Cut the discs palm-sized,
 > count them in and out, and the scissors stay with you. The scarf comes out of
 > the box the moment you stop watching.
 
@@ -765,7 +830,7 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 **Theme:** Kindness & Community
 
 ### 🌙 Prep Tonight
-> Tip the whole crayon box out on the table, browns and pinks included, and text the three people she is ringing at 1:00.
+> Tip the whole crayon box out on the table, browns and pinks included, and text the three people she is calling at 1:00.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Hands on the Table
@@ -807,22 +872,31 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 2. She holds crayons against her own forearm one at a time until she finds the closest match. The hunting takes longer than you expect and it is the work.
 3. Do the same on your arm, then on Kreston's. Three people, three crayons, and she picks all three.
 4. Line the three up on the paper and let her see how close together they sit.
-5. Open the photos on your phone. She names people she knows and picks a crayon for each: grandparents, the girl from playgroup, the man at the shop counter.
+5. Open the photos on your phone. She names people she knows and picks a crayon for each: grandparents, the girl from playgroup, the man at the store counter.
 6. She draws everybody in the colors she chose. Write the names on for her and put one on the fridge before lunch.
 
 > 💡 **Tip:** If she decides somebody's color is wrong, agree that skin comes in more colors than the box holds, and show her how to lay two crayons over each other.
 
 ### 🌳 Get Outside: The Hello Walk
 
-Walk with one job: say hello to every person you pass and keep score of how many say it back. A Wednesday morning in mid-January hands you dog walkers and the postman, so go where the people are: the parade of shops, the bus stop, the school gates at eleven. She does the hello with you a step behind her, and she counts the answers on her fingers.
+Walk with one job: say hello to every person you pass and keep score of how
+many say it back. A Wednesday morning in mid-January hands you dog walkers and
+the mail carrier, so go where the people are: the row of stores, the bus stop,
+the school pickup line at eleven. She does the hello with you a step behind her, and
+she counts the answers on her fingers.
 
-> 👶 **Infant Integration:** Kreston is 7 months and studies a face that does not look like the four he sees every day. Point him at people instead of the road. Babies his age hold a gaze longer on a new face, the first version of the noticing Azlyn is doing on paper. Back home, hold him in front of the mirror with Azlyn beside him.
+> 👶 **Infant Integration:** Kreston is 7 months and studies a face that does
+> not look like the four he sees every day. Point him at people instead of the
+> road. Babies his age hold a gaze longer on a new face, the first version of
+> the noticing Azlyn is doing on paper. Back home, hold him in front of the
+> mirror with Azlyn beside him.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: Three Phone Calls
 
-Three people are expecting a call from Azlyn this afternoon. She rings each one and asks the same three questions.
+Three people are expecting a call from Azlyn this afternoon. She calls each
+one and asks the same three questions.
 
 **🧰 Complete Materials List:**
 - 1 phone
@@ -835,40 +909,44 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 **📝 Step-by-Step Instructions:**
 1. Choose the three questions together and write them big enough for her to see while she talks: **What did you have for breakfast? What is the weather like? What made you laugh today?**
 2. Get on the sofa under the blanket, phone on speaker, her drawings on her lap and the crayons within reach.
-3. Ring the first one. She says hello, a long silence follows, and the person at the other end has been warned to wait through it. She asks the questions in her own order and forgets the third: prompt once, then leave it.
+3. Call the first one. She says hello, a long silence follows, and the person at the other end has been warned to wait through it. She asks the questions in her own order and forgets the third: prompt once, then leave it.
 4. Write each answer down as it comes and read the three back to her once you have hung up.
 5. She holds her drawing of that person up to the phone, which makes no sense and matters to her. Tell them what she drew, then she starts a fresh drawing of whoever is next while the number rings.
 6. Lay the three sheets side by side once the calls are done and find the one thing all three people said. There is always one.
 7. Turn each sheet over and let her draw what she was told: the weather at their window, the breakfast, the thing that made them laugh.
 
-> 💡 **Tip:** Three questions, thirty seconds each, and nobody asks her how nursery is going. A phone call with a job inside it is one she can do. If she is still going at two, she rings a fourth.
+> 💡 **Tip:** Three questions, thirty seconds each, and nobody asks her how preschool is going. A phone call with a job inside it is one she can do. If she is still going at two, she calls a fourth.
 
 ### 🎯 Afternoon Alternatives
 - One call instead of three, and she draws while it happens.
-- Record a voice message for each person instead of ringing.
-- Post the drawings to all three instead of ringing.
+- Record a voice message for each person instead of calling.
+- Mail the drawings to all three instead of calling.
 
 ### 🌳 Out Again: **The Library**
 - **The library**, every two weeks, with her own book bag both ways
-- Soft play, if the library has a school group in
-- The shops, and she chooses one thing off the list
+- Indoor playground, if the library has a school group in
+- The store, and she chooses one thing off the list
 - The park on the way home, ten minutes, coats on
 - A café and the first new book read cover to cover
 
-> 👶 **Kreston's Afternoon:** He goes down in the library's picture-book corner. At 7 months he reads a board book by getting a corner into his mouth and turning it over. Hunt out books with real photographs of faces, hold one in front of him and see which face he stays with longest. Azlyn chooses his second one.
+> 👶 **Kreston's Afternoon:** He goes down in the library's picture-book
+> corner. At 7 months he reads a board book by getting a corner into his mouth
+> and turning it over. Hunt out books with real photographs of faces, hold one
+> in front of him and see which face he stays with longest. Azlyn chooses
+> his second one.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Children notice difference early, and silence teaches something.**
 > Azlyn clocked skin color around her second birthday and has sorted people by
-> it ever since, the same way she sorts crayons and socks. Saying nothing feels
-> neutral from the inside. Children read an adult's silence as a signal that a
-> subject is off limits, then fill the gap with an explanation of their own.
-> Naming what she sees, in plain words with none of your anxiety in it, hands
-> her the language before she invents worse for herself. The crayon she chose
-> for her own arm and the one she chose for Kreston are different, and both
-> drawings are on the fridge.
+> it ever since, the same way she sorts crayons and socks. Saying nothing
+> feels neutral from the inside. Children read an adult's silence as a signal
+> that a subject is off limits, then fill the gap with an explanation of their
+> own. Naming what she sees, in plain words with none of your anxiety in it,
+> hands her the language before she invents worse for herself. The crayon she
+> chose for her own arm and the one she chose for Kreston are different, and
+> both drawings are on the fridge.
 
 > ⚠️ **Safety:** The hand mirror is glass, so keep it in your hand or use a
 > plastic one, and put it away when you finish. Crayons go off the floor while
@@ -921,7 +999,7 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 - 2 tbsp milk
 - 1 rolling pin
 - 1 cutter or an upturned glass
-- 1 baking tray and baking paper
+- 1 baking tray and parchment paper
 - 1 cooling rack or a cold plate
 - Sprinkles, if you have them
 
@@ -937,15 +1015,24 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 
 ### 🌳 Get Outside: The Cookie Round
 
-Bag the cookies in twos and walk them round. The neighbor who took the parcel in, the woman at the corner shop, the friend who has had a rough month. She knocks, she hands them over, she says her own version of the words. Ten minutes a stop, so pick three doors and stop at three. Keep two back for the walk home.
+Bag the cookies in twos and walk them round. The neighbor who took the package
+in, the woman at the corner store, the friend who has had a rough month. She
+knocks, she hands them over, she says her own version of the words. Ten
+minutes a stop, so pick three doors and stop at three. Keep two back for
+the walk home.
 
-> 👶 **Infant Integration:** Kreston is 7 months and the kitchen at 9:15 is loud, floury and full of things moving out of his reach. Give him the empty flour bag and a wooden spoon at the far end of the room. On the round, wariness of an unfamiliar face is new this month, so keep him facing you when somebody leans in.
+> 👶 **Infant Integration:** Kreston is 7 months and the kitchen at 9:15 is
+> loud, floury and full of things moving out of his reach. Give him the empty
+> flour bag and a wooden spoon at the far end of the room. On the round,
+> wariness of an unfamiliar face is new this month, so keep him facing you
+> when somebody leans in.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: The Thank-You Cards
 
-Every strip in that jar has a name on it, and every one of those people gets a card this afternoon.
+Every strip in that jar has a name on it, and every one of those people gets a
+card this afternoon.
 
 **🧰 Complete Materials List:**
 - Card, or cereal boxes cut into rectangles, 8–10
@@ -954,16 +1041,16 @@ Every strip in that jar has a name on it, and every one of those people gets a c
 - Stickers
 - The strips from the jar
 - Envelopes or folded paper
-- 1 stamp, if one is going in the post
+- 1 stamp, if one is going in the mail
 
 **📝 Step-by-Step Instructions:**
 1. Cut the card into rectangles and fold them. Cereal boxes work fine and the printed side goes on the inside.
 2. Take the strips one person at a time. Read them out loud, then ask her what the card should say.
 3. Write her words down word for word. **THANK YOU FOR CARRYING ME UP THE STAIRS WHEN MY LEGS WERE TIRED.** Do not shorten it or fix the grammar.
-4. She draws the thing they did on the front. The drawing will be unrecognisable and the person will recognize it, because her words sit underneath.
+4. She draws the thing they did on the front. The drawing will be unrecognizable and the person will recognize it, because her words sit underneath.
 5. She signs each one: a shape, a letter A, a single line, the same mark on every card so it becomes her signature.
 6. Stickers and glue on whatever needs them, then stack the finished cards next to the cookie bags by the door.
-7. One card goes in the post with a stamp on it. Walk to the mailbox before dinner and let her drop it in.
+7. One card goes in the mail with a stamp on it. Walk to the mailbox before dinner and let her drop it in.
 
 > 💡 **Tip:** Do the cards for the people in this house last, and find a reason to leave the room when she gets to yours.
 
@@ -976,23 +1063,28 @@ Every strip in that jar has a name on it, and every one of those people gets a c
 ### 🌳 Out Again: **Pick one**
 - **The market**, late on, when the stalls are selling off what is left
 - The bakery, and she picks the thing for after dinner
-- The post office, if the card missed the post this morning
+- The post office, if the card missed the mail this morning
 - The park, for whatever the oven and the doorsteps left in her
-- The corner shop and the long way home past the mailbox
+- The corner store and the long way home past the mailbox
 
-> 👶 **Kreston's Afternoon:** Take him to the market in the carrier facing out and stop at one loud or bright stall. At 7 months he babbles in long runs and a busy street pulls it out of him, so answer him as though he said words. Give him a lidded tin or an unopened packet to hold while Azlyn hands the money over. Raw apple and raw carrot break off in hard pieces, so neither goes in his hands.
+> 👶 **Kreston's Afternoon:** Take him to the market in the carrier facing out
+> and stop at one loud or bright stall. At 7 months he babbles in long runs
+> and a busy street pulls it out of him, so answer him as though he said
+> words. Give him a lidded can or an unopened box to hold while Azlyn hands
+> the money over. Raw apple and raw carrot break off in hard pieces, so
+> neither goes in his hands.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Gratitude is a skill, and it starts with noticing.**
 > Prompting *say thank you* teaches Azlyn a word to produce on cue. The jar
-> teaches the step underneath the word. All week she has watched for the things
-> people did and heard them written down, so by Thursday she can name eleven of
-> them. The noticing is the part that carries. A child who works out what
-> somebody did for her, and then does something back, holds onto it longer than
-> one reminded to be polite. She made a cookie for each name, and that is a
-> thank you with a cost inside it.
+> teaches the step underneath the word. All week she has watched for the
+> things people did and heard them written down, so by Thursday she can name
+> eleven of them. The noticing is the part that carries. A child who works out
+> what somebody did for her, and then does something back, holds onto it
+> longer than one reminded to be polite. She made a cookie for each name, and
+> that is a thank you with a cost inside it.
 
 > ⚠️ **Safety:** The oven is on and the tray comes out at her eye level. She
 > stays back from the door, the hot tray goes to the middle of the counter, and

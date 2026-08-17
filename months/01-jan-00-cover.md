@@ -16,13 +16,17 @@
 - [**Week 3** · Kindness & Community](#week-3) — *Days 15–21*
 - [**Week 4** · Puzzles & Problem Solving](#week-4) — *Days 22–28*
 - [**Week 5** · Forest Friends](#week-5) — *Days 29–35*
-- [🌧️ **Backup Days & Extra Ideas**](#backup-january)
+- [🌧️ **Backup Days & Extra Ideas**](#backup-jan)
 
 > 👶 **Kreston this month:** 6 months on Day 1, turning **7 months on January 5**.
 > He sits solid, mouths whatever he can reach, reaches across his body, and
 > rocks on hands and knees without going anywhere yet.
 
 > 🧒 **Azlyn this month:** She is three, and she stays three until December 20.
+
+> ♻️ **Start the cap jar now:** rinse every plastic bottle cap and milk-bottle
+> lid and drop it in a jar on the counter. You need a hundred of them for one
+> April morning, and a hundred takes this many months to collect.
 
 ---
 

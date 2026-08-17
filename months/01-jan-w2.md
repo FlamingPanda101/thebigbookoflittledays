@@ -61,7 +61,7 @@ writes about Kreston. Back those up before Thursday.
 - [ ] Five bread rolls, if you want real buns in the bun shop
 - [ ] 5 small plastic bottles or yogurt pots with lids
 - [ ] Empty cereal boxes, 4 (start saving now)
-- [ ] A large cookie tin, or any empty tin
+- [ ] A large cookie tin, or any large empty can
 - [ ] A plastic tub with a lid
 - [ ] A shoebox
 - [ ] Paper cups, one sleeve
@@ -103,15 +103,15 @@ writes about Kreston. Back those up before Thursday.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
-> Brooklyn, this is the loud week and I am sorry for it. Seven days of
-> saucepans, and a three-year-old with a scarf in her fist deciding when you
-> get louder. Tuesday afternoon is the one I would keep. She makes up a verse
-> about her brother and you record it in one take, and I want that sent to me
-> the day it happens rather than at the end of the week. Take the whisper verse
-> on Friday for yourself as much as for her. By then you will have been holding
-> Kreston since six in the morning.
+> Second week, and the house goes loud. I wrote Monday in about twenty
+> minutes, a saucepan taped to the floor and two wooden spoons, and at no
+> point did I think about what that room sounds like at 9:40 with a baby in
+> it. Tuesday afternoon she makes up a verse about her brother and you record
+> it in one take. Send me that one the day it happens, while it is still
+> Tuesday. Friday's whisper verse sits after the loud one because I wanted
+> something quiet on the other side of it. The scarf that afternoon means a
+> three-year-old decides when everything in the room gets louder, and I am the
+> one who handed her the scarf.
 
 ---
 
@@ -155,9 +155,9 @@ writes about Kreston. Back those up before Thursday.
 
 **🧰 You need:** the dry-goods cupboard, open · 1 metal spoon · 5 empty pots with lids.
 
-1. Sit her in front of the open cupboard and let her tap the packets with the back of the spoon. Rice, pasta, lentils, cereal, sugar. Each answers in a different voice.
+1. Sit her in front of the open cupboard and let her tap the packages with the back of the spoon. Rice, pasta, lentils, cereal, sugar. Each answers in a different voice.
 2. Shut your eyes and let her tap one for you to name. Get one wrong on purpose.
-3. Line up the five pots and let her decide which packet goes in which. You label them at 9:15.
+3. Line up the five pots and let her decide which package goes in which. You label them at 9:15.
 
 ### 🎨 The Main Event: The Shaker Set
 
@@ -259,14 +259,14 @@ never heard, and the babies settled to those too.
 
 > 🧠 **A Little Parenting Insight**
 > **Why she only has one volume, and it is loud.**
-> Azlyn can do quiet on request and hold it for about four seconds. The holding
-> is the hard part, and it runs on the same slow-growing machinery as waiting
-> her turn and stopping halfway down the hall. Volume control is inhibition,
-> and a three-year-old has a thin supply. She gets better at it by practicing
-> the switch rather than by being asked for less noise. Handing her the loud
-> verse first and the whisper verse second gives her both ends to feel in her
-> own throat a minute apart. The scarf makes her the one calling the change,
-> and running the switch builds it faster than obeying it.
+> Azlyn can do quiet on request and hold it for about four seconds. The
+> holding is the hard part, and it runs on the same slow-growing machinery as
+> waiting her turn and stopping halfway down the hall. Volume control is
+> inhibition, and a three-year-old has a thin supply. She gets better at it by
+> practicing the switch rather than by being asked for less noise. Handing her
+> the loud verse first and the whisper verse second gives her both ends to
+> feel in her own throat a minute apart. The scarf makes her the one calling
+> the change, and running the switch builds it faster than obeying it.
 
 > ⚠️ **Safety:** Dried rice, lentils and pasta on the floor are a choking
 > hazard for a 7-month-old, and a taped lid can still come off. Tape all the way
@@ -379,9 +379,9 @@ afternoon, the one thing the rhyme insists nobody could do.
 ### 🌳 Out Again: **Pick one**
 - **A bus ride to nowhere in particular**, upstairs at the front
 - The park, for the low wall she balanced on this morning
-- Soft play if the weather has gone sideways
+- Indoor playground if the weather has gone sideways
 - A walk to look at real brick walls and count the courses
-- The shop for eggs, since you are four down
+- The store for eggs, since you are four down
 
 > 👶 **Kreston's Afternoon:** Keep him at the table and off the shells. Stick a
 > long strip of masking tape to his high chair tray and let him work it loose.
@@ -395,12 +395,13 @@ afternoon, the one thing the rhyme insists nobody could do.
 > **Why the rhymes she loves are all a bit gruesome.**
 > Humpty smashes. The cradle falls out of the tree, baby and all. Three mice
 > lose their tails to a carving knife. Azlyn asks for these on repeat and then
-> sleeps fine, because a rhyme keeps a small disaster inside a shape that never
-> alters. She knows the ending before it arrives, so the fall frightens her the
-> way a slide frightens her, with the floor already in view. Rehearsing an
-> alarming thing at a safe distance is how she works out its real size.
-> Dropping the egg herself went further again: she caused the crack, she stood
-> over it, and it turned out smaller than the rhyme makes it sound.
+> sleeps fine, because a rhyme keeps a small disaster inside a shape that
+> never alters. She knows the ending before it arrives, so the fall frightens
+> her the way a slide frightens her, with the floor already in view.
+> Rehearsing an alarming thing at a safe distance is how she works out its
+> real size. Dropping the egg herself went further again: she caused the
+> crack, she stood over it, and it turned out smaller than the rhyme
+> makes it sound.
 
 > ⚠️ **Safety:** Shell fragments have sharp edges and are exactly the size
 > Kreston puts in his mouth. Keep the tray and the glued sheet up high, sweep
@@ -442,7 +443,7 @@ afternoon, the one thing the rhyme insists nobody could do.
 
 1. Draw five duck shapes on the plain side of the box. Rough ovals with a beak on the front will do.
 2. You cut, she colors. Give each one something different, and let her choose which is the mother duck.
-3. Clip a peg to the bottom of each so they stand up. Line all five along the table and count them twice.
+3. Clip a clothespin to the bottom of each so they stand up. Line all five along the table and count them twice.
 
 ### 🎨 The Main Event: Over the Hill and Far Away
 
@@ -579,7 +580,7 @@ sings.
 ### 🎨 The Main Event: The Kitchen Drum Kit
 
 **🧰 Complete Materials List:**
-- 1 large cookie tin or empty tin
+- 1 large cookie tin or a large empty can
 - 1 plastic tub with a lid
 - 1 cereal box
 - 1 saucepan
@@ -601,7 +602,7 @@ sings.
 ### 🌳 Get Outside: Stamping Out the Names
 
 Walk the street and stamp what you pass. GATE is one stamp. LAMP-POST is two.
-LET-TER-BOX is three. Frozen puddles sit in the shade all day this month and a
+FIRE HY-DRANT is three. Frozen puddles sit in the shade all day this month and a
 stamp on thin ice gives her a crack and a splinter pattern. She names the
 thing, she stamps it, and you take her count.
 
@@ -646,9 +647,9 @@ the row left to right.
 ### 🌳 Out Again: **Pick one**
 - **The neighborhood park**, for the swings and the bark chippings
 - The riverside path, if the puddles from this morning held
-- A walk to post something and stamp the whole way there
-- The corner shop, and let her carry one thing home
-- Soft play if the cold has beaten everybody
+- A walk to mail something and stamp the whole way there
+- The corner store, and let her carry one thing home
+- Indoor playground if the cold has beaten everybody
 
 > 👶 **Kreston's Afternoon:** He goes on the row. Put him at one end with a
 > cushion behind him and let his sock be the last object in the pattern. At 7
@@ -736,8 +737,9 @@ the row left to right.
 
 Walk the usual route hunting for things that have shut down for winter. Buds
 on the bare twigs are sealed tight and will sit there until March. Ask her
-where the birds go at night, take her answer at face value, then go and look at the
-places she might be right about. The light goes not long after five this month.
+where the birds go at night, take her answer at face value, then go and look
+at the places she might be right about. The light goes not long after
+five this month.
 
 > 👶 **Infant Integration:** Kreston is 7 months. Lay him on his back in the
 > dark room for five minutes with the star cup on. He follows a slow-moving
@@ -777,35 +779,36 @@ brother.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one, and she can sing in the changing room
-- Soft play if the pool is shut or the line is out the door
+- Indoor playground if the pool is shut or the line is out the door
 - The library, a day early
 - A warm cafe and a window, if nobody has the energy for a pool
 - Home, with the star cup and the curtains shut
 
 > 👶 **Kreston's Afternoon:** He swims too. At 7 months he sits supported in
-> the water and reaches for anything floating within a hand's reach, so take an
-> upturned cup in and let him chase it. Your hands stay on him the whole time
-> he is in the water. Sing the star song at him in there, where the tiled echo
-> turns your voice into something new. Twenty minutes,
-> then out before he cools.
+> the water and reaches for anything floating within a hand's reach, so take
+> an upturned cup in and let him chase it. Your hands stay on him the whole
+> time he is in the water. Sing the star song at him in there, where the tiled
+> echo turns your voice into something new. Twenty minutes, then out
+> before he cools.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Why a wind-down object works better than a wind-down instruction.**
 > Telling a lit-up three-year-old to calm down hands her the entire job. She
-> has to notice the state, want it changed, and run the change herself, and she
-> can manage about one of those on a good evening. An object takes the work off
-> her. The star cup comes out, the big light goes off, the same song plays, and
-> the sequence does the slowing for her. She has met that order often enough
-> that the first step predicts the rest, so her body starts settling at the cup
-> rather than at the bed. You already run this with the bath and the books. The
-> cup joins the end of the line tonight.
+> has to notice the state, want it changed, and run the change herself, and
+> she can manage about one of those on a good evening. An object takes the
+> work off her. The star cup comes out, the big light goes off, the same song
+> plays, and the sequence does the slowing for her. She has met that order
+> often enough that the first step predicts the rest, so her body starts
+> settling at the cup rather than at the bed. You already run this with the
+> bath and the books. The cup joins the end of the line tonight.
 
 > ⚠️ **Safety:** The skewer is adult-only and goes back in the drawer between
-> cups, not on the table. If the flashlight takes button cells, tape the compartment
-> shut; a swallowed button battery burns through a child's throat within hours.
-> At the pool, Kreston stays in arm's reach in the water, every second.
+> cups, not on the table. If the flashlight takes button cells, tape the
+> compartment shut; a swallowed button battery burns through a child's throat
+> within hours. At the pool, Kreston stays in arm's reach in the water,
+> every second.
 
 <div style="page-break-after: always;"></div>
 
@@ -902,19 +905,19 @@ money in their hand.
 > 💡 **Tip:** Do the buying in real time. A pause between sales, a walk to the door, a knock before you come in. She has to hold the number while the shop waits.
 
 ### 🎯 Afternoon Alternatives
-- Three buns, no coins, no till.
+- Three buns, no coins, no register.
 - Real rolls, and eat the stock at snack time.
 - Set the shop up and let her sell to the ten bears instead.
 - Draw a shop front on a flattened box and stop there.
 
 ### 🌳 Out Again: **Pick one**
-- **Soft play**, and the quiet hour before the school run if there is one
-- The library, if soft play is heaving
+- **Indoor playground**, and the quiet hour before school pickup if there is one
+- The library, if indoor playground is packed
 - The park in the cold, for twenty minutes and hot chocolate after
 - A friend's house, with the rhyme bag in your coat pocket
 - The indoor play center, if the weather has shut everything else down
 
-> 👶 **Kreston's Afternoon:** Soft play at 7 months means the baby corner and
+> 👶 **Kreston's Afternoon:** Indoor playground at 7 months means the baby corner and
 > nothing beyond it. He sits without help now, so put him on the mats with two
 > soft blocks in reach and let the older children run past him. Half an hour,
 > before the noise catches up with him.
@@ -926,11 +929,11 @@ money in their hand.
 > Azlyn can chant to ten and still not know that the last word she said is the
 > answer. Rote counting arrives first, as a song with numbers in it. The idea
 > underneath, that the number you land on tells you how many there are, takes
-> another year or so and it arrives through touching. One finger on one bear as
-> one word leaves her mouth is the whole bridge, and so is a bun going off the
-> tray and the tray having one fewer on it. Both were in today. Ask her how
-> many and let her recount from one every single time, because starting again
-> from one is the work at three.
+> another year or so and it arrives through touching. One finger on one bear
+> as one word leaves her mouth is the whole bridge, and so is a bun going off
+> the tray and the tray having one fewer on it. Both were in today. Ask her
+> how many and let her recount from one every single time, because starting
+> again from one is the work at three.
 
 > ⚠️ **Safety:** Ten in the Bed ends with somebody going over the edge. Do it
 > on a mattress on the floor, or pillow the drop side and stay on it. Card
@@ -998,7 +1001,7 @@ money in their hand.
 March the block. Left, right, left, right, called out loud, everyone setting
 off on the same foot. She loses the step inside twenty paces and finds it
 again. Halt at each corner and freeze for a count of five. January sidewalks
-are wet or gritted, so drop the calling for a stretch and listen to the boots
+are wet or salted, so drop the calling for a stretch and listen to the boots
 instead.
 
 > 👶 **Infant Integration:** Kreston is 7 months and rides this one in the
@@ -1035,31 +1038,31 @@ The parade needs a route, and she draws it before anybody marches anywhere.
 - One stop, one rhyme, the hall and back.
 - Draw the map today and march it tomorrow.
 - Parade for an audience of ten soft toys lined up in the hall.
-- Take the instruments into the garden and march the fence line.
+- Take the instruments into the yard and march the fence line.
 
 ### 🌳 Out Again: **Pick one**
-- **The hardware shop**, for tape, batteries and a look at the paint fries
+- **The hardware store**, for tape, batteries and a look at the paint chips
 - The park on the way back, for the swings
-- The corner shop, and let her pay
+- The corner store, and let her pay
 - A walk to drop something at a neighbor's door
-- The library, if the shop can wait until tomorrow
+- The library, if the store can wait until tomorrow
 
-> 👶 **Kreston's Afternoon:** Take him into the hardware shop in the carrier
-> facing out. At 7 months the high shelves, the strip lights and the racket of
-> a shop floor are work for him, so twenty minutes is enough. Back home he gets
-> his taped shaker for the last parade run, checked once more before it reaches
-> his hands.
+> 👶 **Kreston's Afternoon:** Take him into the hardware store in the carrier
+> facing out. At 7 months the high shelves, the fluorescent lights and the
+> racket of a big store are work for him, so twenty minutes is enough. Back
+> home he gets his taped shaker for the last parade run, checked once more
+> before it reaches his hands.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Why moving together matters more than moving.**
-> Marching in step with Azlyn does something that dancing on your own round the
-> kitchen does not. Move in time with another person and you both come away
-> more inclined to help each other, and it shows up young. Bounce a
-> fourteen-month-old in time with you and he hands back an object you drop more
-> often than a baby bounced out of time. Four-year-olds show something like it
-> after they have made music together. Shared rhythm reads as
+> Marching in step with Azlyn does something that dancing on your own round
+> the kitchen does not. Move in time with another person and you both come
+> away more inclined to help each other, and it shows up young. Bounce a
+> fourteen-month-old in time with you and he hands back an object you drop
+> more often than a baby bounced out of time. Four-year-olds show something
+> like it after they have made music together. Shared rhythm reads as
 > belonging, at any age, which is most of what a nursery rhyme has ever been
 > for. Everything sung in this house since Friday has been two or four people
 > locking onto one beat. Today it has hats.

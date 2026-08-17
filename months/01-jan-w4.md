@@ -69,7 +69,7 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] A plastic screw-lid jar
 - [ ] Clip-lid tubs, 2
 - [ ] A ziplock bag
-- [ ] String or thick wool
+- [ ] String or thick yarn
 - [ ] Elastic bands
 - [ ] Six small treasures: stickers, raisins, a small toy
 - [ ] A small prize for the hunt: a cookie or stickers
@@ -95,18 +95,15 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
-> Brooklyn, the hard part of this week is the waiting. Every day asks you to
-> count to twenty in your head while she fails at something, and doing that
-> with Kreston on your hip and a jar lid she cannot turn in front of you is
-> more work than helping would be. I know which one I would pick at half nine
-> on a Sunday.
->
-> The ten things on the back of Saturday's jigsaw pieces are the part I want
-> you to take your time over. Write what you see in her, the door she holds
-> for Kreston, the singing in the bath. If the pieces were mine to write on,
-> your name would be on two of them.
+> Every day this week asks you to count to twenty in your head while she fails
+> at something. I wrote that instruction into seven days without once having a
+> seven-month-old on my hip while I did it. Sunday is six lids and a knotted
+> string, and the knot will beat her; I left it in anyway, which tells you how
+> easy it is to design a morning you will not be standing in. Saturday you
+> write ten things you love about her on the backs of the jigsaw pieces, and
+> she will have those read to her all year. If a piece were mine to write on,
+> it would say that you sat on your hands on a Sunday and let her get the lid
+> off herself.
 
 ---
 
@@ -147,7 +144,7 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 
 ### 🌅 Opening Activity: Cutting the Seven Pieces
 
-**🧰 You need:** 1 cereal-box card cut to a 20 cm square · a ruler or any straight edge · 1 pencil · scissors (adult only).
+**🧰 You need:** 1 cereal-box card cut to an 8-inch square · a ruler or any straight edge · 1 pencil · scissors (adult only).
 
 1. Rule a line corner to corner and cut along it. Two big triangles. She holds the card flat while you cut.
 2. Cut one of those in half again, then work the other down into a medium triangle, two small ones, a square and a slanted four-sided piece.
@@ -218,7 +215,7 @@ a timer.
 ### 🎯 Afternoon Alternatives
 - One set only, taking turns to build on the same tray.
 - Solve the four outline cards and stop there.
-- Cut a third set and post one piece to a grandparent.
+- Cut a third set and mail one piece to a grandparent.
 - Draw round every piece on one sheet and color them in.
 
 ### 🌳 Out Again: **Pick one**
@@ -237,9 +234,9 @@ a timer.
 
 The seven pieces on your table are Chinese and they are old. The puzzle is
 called *qi qiao ban*, seven boards of skill, and Chinese printers were selling
-books of tangram figures by the early 1800s. Sets traveled, and by 1818
-Europe and America were in the middle of a tangram craze, thousands of shapes,
-every one using all seven pieces and nothing else.
+books of tangram figures by the early 1800s. Sets traveled, and by 1818 Europe
+and America were in the middle of a tangram craze, thousands of shapes, every
+one using all seven pieces and nothing else.
 
 > **✨ Try it:** Cut her lunchtime sandwich into the same seven shapes and
 > let her rebuild the square on the plate before she eats it.
@@ -326,9 +323,9 @@ every one using all seven pieces and nothing else.
 ### 🌳 Get Outside: The Winter Bird Match
 
 Sketch three birds on a scrap of paper before you go, whichever three turn up
-in January: a crow, a robin, a fat pigeon. Give her a crayon to
-tick each one off. The hedges are empty, so they show up from a long way off.
-Home when all three are ticked, or when her hands get cold.
+in January: a crow, a robin, a fat pigeon. Give her a crayon to tick each one
+off. The hedges are empty, so they show up from a long way off. Home when all
+three are ticked, or when her hands get cold.
 
 > 👶 **Infant Integration:** Kreston is 7 months and passing things hand to
 > hand. Give him two cardboard tubes while Azlyn cuts: he takes the second
@@ -366,12 +363,12 @@ comes back.
 - Three pieces instead of five, done in ten minutes at the table.
 - Cut the morning jigsaw down into twenty pieces and try again.
 - Draw on one sheet together, taking turns with the crayon.
-- Post a piece of card to a grandparent and ask for it back decorated.
+- Mail a piece of card to a grandparent and ask for it back decorated.
 
 ### 🌳 Out Again: **Pick one**
 - **The aquarium**, the week's big outing, and the dark rooms suit Kreston
-- Soft play if the aquarium line is a Saturday one
-- The pet shop, for fish at a tenth of the price
+- Indoor playground if the aquarium line is a Saturday one
+- The pet store, for fish at a tenth of the price
 - A walk to water, a river or a pond, and count what moves in it
 - Home, blankets, and the jigsaw on the floor
 
@@ -398,7 +395,7 @@ comes back.
 > Glue sticks come apart in a mouth, so the lid goes on and the stick goes up
 > whenever you leave the table. Crayons snap into mouth-sized pieces, so keep
 > your hand round Kreston's for his ten seconds and put the crayon straight
-> back in the tin. The scissors are adult only.
+> back in the box. The scissors are adult only.
 
 <div style="page-break-after: always;"></div>
 
@@ -492,7 +489,7 @@ across is through.
 2. Cut a dinner-plate circle high in the panel while she stands back, and put the knife away before the box goes upright.
 3. Tape the box between the chair backs so it stands like a wall, blanket underneath.
 4. She goes through the circle first. Starting easy is why she is still going at the fourth.
-5. Take the box down, cut a new hole, stand it back up. A tall slot, a letterbox low down she crosses on her belly, one cut too small on purpose. Knife away before it goes up.
+5. Take the box down, cut a new hole, stand it back up. A tall slot, a mail slot low down she crosses on her belly, one cut too small on purpose. Knife away before it goes up.
 6. Let her name each shape and work out her own way through. She tries head-first twice before discovering feet.
 7. Her own outline comes last, and cutting it takes the middle out of the wall. She walks through the shape of herself and the wall goes with her.
 
@@ -523,11 +520,11 @@ across is through.
 > different thing. That loop is the skill and it travels. Researchers who
 > follow children into school find that staying with a hard task predicts
 > school outcomes as strongly as anything they can measure at four. A closed
-> container is a good place to practice, because the problem is honest: the lid
-> is off or it is not, no adult decides whether she did well, and the treasure
-> pays out the second she solves it.
-> She sets her own difficulty, picking which one to attack next. You keep your
-> hands still and she banks another minute.
+> container is a good place to practice, because the problem is honest: the
+> lid is off or it is not, no adult decides whether she did well, and the
+> treasure pays out the second she solves it. She sets her own difficulty,
+> picking which one to attack next. You keep your hands still and she banks
+> another minute.
 
 > ⚠️ **Safety:** Elastic bands, raisins and a ziplock bag are hazards for a
 > 7-month-old. Work at the table, count the six treasures in and out, and pick
@@ -646,9 +643,9 @@ herself.
 
 > 👶 **Kreston's Afternoon:** Give him two of anything identical, two wooden
 > spoons or two cups, one for each hand. At 7 months he holds both and studies
-> them, and the banging-together stage is weeks off. On the grass, sit
-> him on a folded blanket where he can watch the ball go past. He turns his
-> whole body after it.
+> them, and the banging-together stage is weeks off. On the grass, sit him on
+> a folded blanket where he can watch the ball go past. He turns his whole
+> body after it.
 
 ---
 
@@ -659,14 +656,14 @@ herself.
 > something with them. At three she can hold two or three items, which is why
 > *go upstairs, get your socks and bring down the blue cup* arrives as one
 > item, and it is seldom the right one. The tray gives the same system a
-> workout she volunteered for. Eight objects sit above her
-> ceiling, so she leans on the layout and the gap in the rows, which is memory
-> strategy showing up early.
+> workout she volunteered for. Eight objects sit above her ceiling, so she
+> leans on the layout and the gap in the rows, which is memory strategy
+> showing up early.
 
 > ⚠️ **Safety:** Count the sixteen cards into the shoebox lid and out of it
 > every time, and keep the tray of objects up at table height while Kreston is
 > on the floor. Sweep under the table before he goes down. Crayons snap into
-> mouth-sized pieces, so the broken halves go in the bin as they happen, and
+> mouth-sized pieces, so the broken halves go in the trash as they happen, and
 > the wooden spoon he drops off the high chair is the only thing off that tray
 > he gets.
 
@@ -730,7 +727,7 @@ herself.
 
 Two paper bags and one rule set at the front gate: things that came off a tree
 in the left bag, things that never did in the right. Late January hands over
-brown leaves, bare twigs, a seed head, a bottle top, gravel. The arguments are
+brown leaves, bare twigs, a seed head, a bottle cap, gravel. The arguments are
 the good part. Ten minutes of collecting is plenty in this cold.
 
 > 👶 **Infant Integration:** Kreston is 7 months. Give him his own bowl with
@@ -754,7 +751,7 @@ fixed two things you meant to fix in November.
 
 **📝 Step-by-Step Instructions:**
 1. Take every knife and skewer out of the drawer and onto the top of the fridge before she comes into the kitchen.
-2. Tip all the tupperware onto the floor. Lids in one heap, boxes in another, a meter apart.
+2. Tip all the tupperware onto the floor. Lids in one heap, boxes in another, three feet apart.
 3. She matches. Hand her the three most obvious, then stand back. A lid that almost fits is the best part of the job.
 4. Any box with no lid goes in the dishpan, out of the house or into the craft pile. She makes the call.
 5. Stack the matched boxes biggest at the bottom and put them back on the shelf. Tape a label on the shelf edge and let her say what to write.
@@ -767,7 +764,7 @@ fixed two things you meant to fix in November.
 
 ### 🎯 Afternoon Alternatives
 - The lids only, and stop when the tupperware is done.
-- Sort the toy basket into two boxes, one of them for the charity shop.
+- Sort the toy basket into two boxes, one of them for the thrift store.
 - Pair the shoes by the front door, all facing the same way.
 
 ### 🌳 Out Again: **Swimming**
@@ -836,7 +833,7 @@ fixed two things you meant to fix in November.
 
 1. Send her round for things that feel different, one out of every room. Rough, cold, furry, prickly, smooth.
 2. Feel each one before it goes in, hands only and eyes on the ceiling. Give her three words for it and ask for three back.
-3. Post them all into the pillowcase and stand it where she can see it and not reach in. She will try anyway.
+3. Mail them all into the pillowcase and stand it where she can see it and not reach in. She will try anyway.
 
 ### 🎨 The Main Event: The Bag You Can't See Into
 
@@ -863,9 +860,9 @@ a plane, your own boots on the grit. Do it again by a road and behind a hedge,
 and ask which was louder. She points at the road with her eyes still shut.
 
 > 👶 **Infant Integration:** Kreston is 7 months and his mouth is still his
-> best instrument for finding out what a thing is. Give him a washcloth, a wooden
-> spoon and a silicone spatula, one at a time. Put words on each while he
-> works it over. Keep the bath sponge in the bag and out of his reach,
+> best instrument for finding out what a thing is. Give him a washcloth, a
+> wooden spoon and a silicone spatula, one at a time. Put words on each while
+> he works it over. Keep the bath sponge in the bag and out of his reach,
 > because it comes apart in bits.
 
 <div style="page-break-after: always;"></div>
@@ -884,7 +881,7 @@ waits.
 
 **📝 Step-by-Step Instructions:**
 1. Hide teddy first with the prize under him, somewhere she walks past twenty times a day.
-2. Draw six clues, one per card: the bath, the fridge, her boots, the sofa, the kitchen bin, and last of all teddy's spot. Rough drawings are fine.
+2. Draw six clues, one per card: the bath, the fridge, her boots, the sofa, the kitchen trash can, and last of all teddy's spot. Rough drawings are fine.
 3. Tape clue one where she will start. Every card sends her to the place drawn on it, where the next waits.
 4. Walk it with her and carry nothing. She holds the card, she decides where the drawing means, she gets to be wrong about the fridge.
 5. She finds teddy, gets the prize and eats it standing up in the hall.
@@ -901,9 +898,9 @@ waits.
 
 ### 🌳 Out Again: **Pick one**
 - **The indoor play center**, the Wednesday slot, and it is too cold for the park
-- Soft play with the quiet session, if the big one is full of school-run crowds
+- Indoor playground with the quiet session, if the big one is full of the school-pickup crowd
 - The library, a week early, and take out something with flaps in it
-- The shops, and let her carry one thing and pay for it
+- The store, and let her carry one thing and pay for it
 - A friend's house with the mystery bag in your coat pocket
 
 > 👶 **Kreston's Afternoon:** The baby area at the play center is his. Sit him
@@ -915,8 +912,8 @@ waits.
 
 > 🧠 **A Little Parenting Insight**
 > **Describing before guessing is the whole skill.**
-> Guessing is fast and closes the thinking down. Describing keeps it open
-> and costs her more, because she has to find words for weight, temperature,
+> Guessing is fast and closes the thinking down. Describing keeps it open and
+> costs her more, because she has to find words for weight, temperature,
 > texture and shape while her hand is the only thing telling her anything.
 > Every one of those words is a category she can carry to the next object.
 > Teachers call this attribute language, and children with plenty of it find
@@ -925,10 +922,10 @@ waits.
 > anybody guesses, is what does the work.
 
 > ⚠️ **Safety:** The bath sponge comes apart in bits, so it goes back in the
-> bag between turns and the bag stays off the floor. Hide the cookie
-> somewhere Kreston cannot get to, and let Azlyn eat it before you put him
-> down. Press the tape ends flat on every clue you stick up at his height, and
-> pull them all off the walls once the hunt is over.
+> bag between turns and the bag stays off the floor. Hide the cookie somewhere
+> Kreston cannot get to, and let Azlyn eat it before you put him down. Press
+> the tape ends flat on every clue you stick up at his height, and pull them
+> all off the walls once the hunt is over.
 
 <div style="page-break-after: always;"></div>
 
@@ -997,7 +994,7 @@ those are the good ones. The cold sits in her hands this week, so mittens on.
 
 > 👶 **Infant Integration:** Kreston is 7 months. The ping-pong ball and the
 > foil stay up on the table, so give him something too big to swallow: a
-> football, or a rolled-up towel. Roll it across him at walking pace so he
+> soccer ball, or a rolled-up towel. Roll it across him at walking pace so he
 > follows it over his own midline and reaches across. He may push himself
 > backwards trying and end up under the sofa, which is how a lot of babies
 > move first.
@@ -1035,9 +1032,9 @@ thing going through the maze is her.
 - Draw a maze on paper and let her find the way out with a finger.
 
 ### 🌳 Out Again: **Pick one**
-- **The post office**, with a letter she posts herself
-- The hardware shop, for the aisles that go on forever
-- The grocery shop, and she navigates to the bananas
+- **The post office**, with a letter she mails herself
+- The hardware store, for the aisles that go on forever
+- The grocery store, and she navigates to the bananas
 - The playground on the way home, twenty minutes
 
 > 👶 **Kreston's Afternoon:** Put him at the finish next to teddy, so Azlyn's

@@ -14,7 +14,7 @@ activity	4	The Wrecking Ball
 activity	5	Rolling the Bricks
 activity	5	Salt Dough Bricks
 activity	5	Building the Brick Wall
-activity	6	Craft stick Shapes
+activity	6	Craft Stick Shapes
 activity	6	The Triangle Test
 activity	6	The Zip Line
 activity	7	Choosing the Fort Spot
@@ -104,6 +104,12 @@ activity	34	Waking the Bears
 activity	35	Guess the Shadow
 activity	35	The Shadow Animals
 activity	35	The Puppet Show Behind the Sheet
+activity	35	What Lives in the Cold
+activity	35	Drying the Apple Rings
+activity	35	The Tray of Things That Keep
+activity	35	The Back of Her Hand
+activity	35	The Coldest Thing in the House
+activity	35	The Coins That Come Back
 activity	36	The Fizzing Jar
 activity	36	Four Things Make Bread
 activity	36	The Rolls and the Hollow Knock
@@ -127,7 +133,7 @@ activity	42	The Swirl Buns
 activity	42	The Four Boxes
 activity	43	The Dough That Has to Wait
 activity	43	Rolls for the People Next Door
-activity	43	The Letterbox by the Door
+activity	43	The Mailbox by the Door
 activity	44	The Practice Snowflakes
 activity	44	The Letter Nobody Signs
 activity	44	The Letters She Hides
@@ -145,7 +151,7 @@ activity	48	The Post Office on the Table
 activity	48	The Real Parcel
 activity	49	Choosing Who It's For
 activity	49	The Wooden Love Spoon
-activity	49	Emptying the Letterbox
+activity	49	Emptying the Mailbox
 activity	50	Only Three Paints
 activity	50	Making Green
 activity	50	Where the Colors Run
@@ -188,6 +194,12 @@ activity	62	The String Telephone
 activity	63	Six Pots with Holes in the Lid
 activity	63	The Smell Words
 activity	63	The House That Smells of Oranges
+activity	63	Clearing the Runway
+activity	63	Six Stations Down the Hall
+activity	63	The Judge's Chair
+activity	63	Counting the Gusts
+activity	63	The Bangs and What Makes Them
+activity	63	The Pretend Power Cut
 activity	64	Marking Out the Ring
 activity	64	The Big Top
 activity	64	The Ringmaster
@@ -243,11 +255,11 @@ activity	81	The Badge and the Clipboard
 activity	81	The Nursery She Runs
 activity	81	You Do Exactly What She Says
 activity	82	Seven Things on the Tray
-activity	82	Choosing Three for the Nest
+activity	82	Weaving Three Into the Mesh
 activity	82	A Nest for Every Small Thing
 activity	83	The Pot That Went Pale
 activity	83	Roots Against the Glass
-activity	83	The Windowsill Row
+activity	83	Down at Kreston's Height
 activity	84	Twelve Blank Cards
 activity	84	The Baby and the Grown-Up
 activity	84	The Letter to Kreston Next Spring
@@ -272,6 +284,12 @@ activity	90	A Page for Every Animal
 activity	91	Five Things Are Wrong
 activity	91	Three Tricks for Joseph
 activity	91	The Longest Line in the House
+activity	91	The Visitor at the Door
+activity	91	Showing Him How It All Works
+activity	91	The Bed He Has to Fit In
+activity	91	The Grubby Parade
+activity	91	Dirty End, Clean End
+activity	91	Clipped Up in Size Order
 activity	92	One Egg Each
 activity	92	The Spring New Year Table
 activity	92	The Spring Questions
@@ -377,6 +395,12 @@ activity	125	Turning the Marks into a Picture
 activity	126	Scrubbing the Pebbles
 activity	126	The Jar That Waters Itself
 activity	126	Flowers Between Two Pieces of Tape
+activity	126	Counting Out the Route
+activity	126	Three Hundred Steps to the Duck Pond
+activity	126	The Paper Road
+activity	126	Choosing the Six Games
+activity	126	Six Games, Two Jars
+activity	126	The Shop That Takes Beans
 activity	127	The Cardboard Viewfinder
 activity	127	Her Turn With the Camera
 activity	127	The World From Kreston's Height
@@ -400,7 +424,7 @@ activity	133	The Wet Basket and the Line
 activity	133	Clean Sheets on Every Bed
 activity	134	The Bubble Mix That Has to Rest
 activity	134	Every Wand Makes a Round Bubble
-activity	134	The Grocery bag Kite
+activity	134	The Grocery Bag Kite
 activity	135	Lining the Box with Foil
 activity	135	The Oven with No Plug
 activity	135	The Chalk Clock
@@ -415,7 +439,7 @@ activity	138	The Paint That Copies Itself
 activity	138	Half a Thing in the Mirror
 activity	139	The Chalk Line Round the Water
 activity	139	Where the Puddle Goes
-activity	139	Rain Under the Plastic wrap
+activity	139	Rain Under the Plastic Wrap
 activity	140	Sleeves Rolled and Pinned
 activity	140	The Three Stations
 activity	140	The Sandwich Line
@@ -461,6 +485,12 @@ activity	153	Their Room and Ours
 activity	154	Telling the Week Back
 activity	154	The Week in Seven Pictures
 activity	154	Sealing Up May
+activity	154	Fifty Paper Balls
+activity	154	The Sticky Doorway
+activity	154	Rain Down the Paper
+activity	154	Three Piles on the Bed
+activity	154	The Show Down the Hallway
+activity	154	Kreston in Her Old Clothes
 activity	155	White Changes Everything
 activity	155	Five Steps from Red to Pink
 activity	155	The Summer Color Board
@@ -501,7 +531,7 @@ activity	167	The Rules She Already Knows
 activity	167	Five Rules on One Sign
 activity	167	How Many Before It Sinks
 activity	168	The Five Things She Can Do
-activity	168	The Five Tests in the Paddling Pool
+activity	168	The Five Tests in the Kiddie Pool
 activity	168	The Diploma She Signs Herself
 activity	169	Who Goes on the Chain
 activity	169	The Chain of People
@@ -545,6 +575,12 @@ activity	181	The Course She Sets Out Herself
 activity	182	Three Links Left
 activity	182	Setting the Table Four Days Early
 activity	182	The Box That Waits Until Sunday
+activity	182	Shutting the House Against the Sun
+activity	182	The Taking-Apart Table
+activity	182	The Rope She Twists Herself
+activity	182	Three Bowls of Grain
+activity	182	Grinding the Oats by Hand
+activity	182	The Laundry Done by Hand
 activity	183	What a Party Needs
 activity	183	The Cake That Never Gets Eaten
 activity	183	The Guest Who Doesn't Know It's a Party
@@ -555,7 +591,7 @@ activity	185	Counting Out the Candles
 activity	185	Two Hundred and Fifty-One Candles
 activity	185	The Bag for After Dark
 activity	186	Measuring Her with String
-activity	186	The Paper Bag Waistcoat
+activity	186	The Paper Bag Vest
 activity	186	Pockets That Hold Things
 activity	187	Six Chalk Circles
 activity	187	The Ice That Won't Last
@@ -616,7 +652,7 @@ activity	205	A String for Every Creature
 activity	205	Down the Stairs to the Bottom of the Sea
 activity	206	Water Above the Rim
 activity	206	The Diver in the Bottle
-activity	206	The Foil Boat and the Pebble Cargo
+activity	206	How Many Pebbles Until It Goes Under
 activity	207	Flattening the Boxes for Paint
 activity	207	Painting the Waves With Both Arms
 activity	207	The Whale That Takes Two to Carry
@@ -650,6 +686,12 @@ activity	216	The Camp Snack Bags
 activity	217	Everything in Three Trips
 activity	217	The Whole Camp in One Place
 activity	217	Striking Camp
+activity	217	What the Whistle Will Mean
+activity	217	The Hour With No Words
+activity	217	The Boat That Fits the Whole Toy Box
+activity	217	Lining Up Everything That Holds Cold Water
+activity	217	The Pitcher That Has to Be Empty by Dinner
+activity	217	The Coolest Clothes in the House
 activity	218	Rounding Up the Balls
 activity	218	High Bouncer, Low Bouncer
 activity	218	The Ball Made of Bags and String
@@ -686,7 +728,7 @@ activity	228	The Gondolas on the Lagoon
 activity	229	Warm Water Into the Flour
 activity	229	The Tortilla Press Made of Two Plates
 activity	229	Napkin Flowers for the Table
-activity	230	Coins Made From Bottle Tops
+activity	230	Coins Made From Bottle Caps
 activity	230	The Souk on the Rug
 activity	230	Pouring the Tea From High Up
 activity	231	Which Cup Goes to the Bottom
@@ -709,7 +751,7 @@ activity	236	Hooking the Ducks Out
 activity	236	The Pond, the Field and the Burrow
 activity	237	Pegs with Faces On
 activity	237	The Peg Carousel
-activity	237	The Big Wheel
+activity	237	The Wheel That Stands on Its Side
 activity	238	Ten at a Time
 activity	238	Nobody Guesses Right
 activity	238	The Whole Carnival at Once
@@ -734,6 +776,12 @@ activity	244	Whoever Holds the Spoon Sings
 activity	245	The Sheet and the Lamp
 activity	245	The Shadow That Grows and Shrinks
 activity	245	Everybody Gets a Turn in the Light
+activity	245	Every Clear Thing in the House
+activity	245	The Rainbow She Can Turn Off
+activity	245	The Puddle That Goes Hard When She Hits It
+activity	245	Cold Water in Four Jars
+activity	245	The Foam Cloud That Rains
+activity	245	Everything the Fan Can Lift
 activity	246	What Goes Out Today
 activity	246	The Bag That Holds the Whole Round
 activity	246	The Depot in the Hallway
@@ -753,7 +801,7 @@ activity	251	Bringing All the Books to One Place
 activity	251	The Lending Library on the Bottom Shelf
 activity	251	Story Hour on the Rug
 activity	252	What's in the First Aid Box
-activity	252	The Poorly Box
+activity	252	The Sick Box
 activity	252	The Last Delivery of the Week
 activity	253	What an Explorer Carries
 activity	253	The Six-Cup Finds Box
@@ -782,7 +830,7 @@ activity	260	Four Tiles That Turn
 activity	261	Making the Rosettes First
 activity	261	The Best Blue in the House
 activity	261	Matching the Blue Exactly
-activity	262	Looking Down at the Table
+activity	262	Counting the Corners of Every Room
 activity	262	Every Room Is a Shape
 activity	262	The X on the Map
 activity	263	The Colors in the Fridge Drawer
@@ -790,7 +838,7 @@ activity	263	The Tile You Can Eat
 activity	263	The Table on the Floor
 activity	264	One Fold, Two Halves
 activity	264	The Shape That Comes Out Twice
-activity	264	Folding the Washing in Half
+activity	264	Folding the Laundry in Half
 activity	265	Three Stamps Before Breakfast
 activity	265	The Border That Goes All the Way Round
 activity	265	Three Then Start Again
@@ -818,6 +866,12 @@ activity	272	The Letter Window
 activity	273	Rubbing In the Butter
 activity	273	A Cookie for Every Initial
 activity	273	Three Parcels That Have to Last
+activity	273	Wet Hands on the Dark Tray
+activity	273	Where the Water Comes Back
+activity	273	Washing Day at the Kitchen Sink
+activity	273	Four Guesses Taped to the Glass
+activity	273	Everything in the Drawer Into One Pot
+activity	273	Eight Things and a Card Each
 activity	274	Forty Things in the Counting Jar
 activity	274	The Track With Twenty Squares
 activity	274	The Game in a Box
@@ -847,7 +901,7 @@ activity	282	The Ramp Down the Stairs
 activity	282	The Grandstand Made of One Chair
 activity	283	Three Roads and One in the Freezer
 activity	283	Four Surfaces, One Car
-activity	283	The Multi-Story Made of Shoeboxes
+activity	283	The Parking Garage Made of Shoeboxes
 activity	284	Taping the Track Down the Hall
 activity	284	The Hallway Railway
 activity	284	Two Ways to Shift the Same Load
@@ -888,7 +942,7 @@ activity	296	The Line Round the Patch
 activity	296	The Doormat Patch
 activity	296	The Patch in a Shoebox
 activity	297	Two Buckets and a Rule
-activity	297	Down Through the Layers
+activity	297	Reading the Side of the Hole
 activity	297	The Soil Strip on the Wall
 activity	298	Four Rooms and a Tunnel
 activity	298	The Nest Under the Lawn
@@ -912,7 +966,7 @@ activity	304	Trying the Tail On
 activity	304	The Dinosaur Suit
 activity	304	Six Colors, Two Lights
 activity	305	The Color With Her Name On It
-activity	305	Marigolds From Paper towels
+activity	305	Marigolds From Paper Towels
 activity	305	The Path of Petals to the Table
 activity	306	The Bones Under the Oats
 activity	306	The Slot That Only Fits One Way
@@ -923,6 +977,12 @@ activity	307	The Labels She Dictates
 activity	308	The Last Piece
 activity	308	Everything in the Order She Picks
 activity	308	Doors Open at One
+activity	308	Every Sound the Rain Makes
+activity	308	The Race Down the Glass
+activity	308	The Chain That Gets Shorter
+activity	308	The Oldest Thing in the Kitchen
+activity	308	One Apple, Four Saucers
+activity	308	Where the Laundry Dries First
 activity	309	Every Animal in the House
 activity	309	Fields, Pens and a Track
 activity	309	Naming the Farm
@@ -1007,6 +1067,12 @@ activity	335	Cheese Straws, Two Tins
 activity	336	The Menu on the Fridge
 activity	336	Six Jobs on Six Cards
 activity	336	From the Pan to the Plates
+activity	336	Nine Grays in an Egg Carton
+activity	336	The Street in Three Colors
+activity	336	The Picnic That Never Went Outside
+activity	336	The Thumb Test
+activity	336	The Bridge and the Claw
+activity	336	What's Inside the Broken Thing
 activity	337	Two Rows and a Road Between
 activity	337	Nine Boxes Become a Street
 activity	337	The Signs Above the Shops
@@ -1083,7 +1149,7 @@ activity	361	The Tray, the Cloth and the Cup of Water
 activity	361	What a Flame Does
 activity	361	The Handle Turns In
 activity	362	What Has a Pattern Underneath
-activity	362	The Shape Left in the Dough
+activity	362	The Clay Keeps the Shape
 activity	362	Digging Up What She Made
 activity	363	Everything Sweet in the House
 activity	363	One of Every Kind in a Row
@@ -1094,6 +1160,12 @@ activity	364	Letters to the People in the Photos
 activity	365	Getting Them Down Off the Shelf
 activity	365	Opening the January Box
 activity	365	What the Bottle Was Holding
+activity	365	The Basket of Grubby Things
+activity	365	The Sink at Her Height
+activity	365	The Sock Mountain
+activity	365	Which Floors Slide
+activity	365	Polishing the Hall on Two Towels
+activity	365	Everybody's Feet in a Row
 insight	1	Why writing down her exact words matters more than you'd think.
 insight	2	The cardboard box beats the expensive toy, and there's a reason.
 insight	3	Narrating beats quizzing, every time.
@@ -1129,6 +1201,10 @@ insight	32	Evidence and inference, a big idea learnable at three.
 insight	33	Delayed payoff is a muscle, and this is a gentle way to work it.
 insight	34	Pretending to sleep is real self-regulation practice.
 insight	35	Shadows are confusing at three, and the confusion is worth exploring.
+insight	35	Preservation is a surprisingly big idea.
+insight	35	Sorting by material is harder than sorting by color.
+insight	35	A day off has to be visibly protected or it doesn't happen.
+insight	35	"What is it?" is the question to stop asking.
 insight	36	Auditory attention is trainable, and it underpins reading.
 insight	37	Dictated stories are the bridge to real literacy.
 insight	38	Cabin fever is a real physiological thing, not a bad attitude.
@@ -1157,6 +1233,10 @@ insight	60	Process art versus product art.
 insight	61	Three dimensions are harder than two, and worth the time.
 insight	62	Testing before committing is a habit worth encouraging.
 insight	63	She tells you what it is once nobody has asked.
+insight	63	Specific recognition beats general praise, every time.
+insight	63	Children take the reading off your face before they take it off the weather.
+insight	63	The third day of a cold is the worst one for both of you.
+insight	63	Coming back to normal needs a smaller version of normal first.
 insight	64	Interoception, the sense nobody lists.
 insight	65	Adjectives are the scaffolding for thinking.
 insight	66	Auditory discrimination is the reading skill nobody mentions.
@@ -1185,6 +1265,10 @@ insight	88	Anticipation is a bigger pleasure than the payoff.
 insight	89	Prediction is the beginning of scientific thinking.
 insight	90	Category words are a bigger deal than they look.
 insight	91	Lining things up is a developmental stage, not a red flag.
+insight	91	Giving a tour is the best test of understanding there is.
+insight	91	Water is the most reliable regulator you have, and it works in either direction.
+insight	91	Naming the darkest day is better than enduring it.
+insight	91	The build-up is more than she can hold, and the crash afterwards is normal.
 insight	92	Two new years in one book is a useful idea.
 insight	93	Sanctioned rule-breaking is good for a rule-following child.
 insight	94	Trying and failing at something an animal does easily builds real respect.
@@ -1220,6 +1304,10 @@ insight	123	Keep environmental talk local and hopeful at this age.
 insight	124	Giving something a face changes how a child treats it.
 insight	125	Tally marks are her first taste of representing data.
 insight	126	A closed system is a big idea in a small jar.
+insight	126	Big numbers mean nothing until she's walked them.
+insight	126	Scorekeeping turns a chaotic game into a calm one.
+insight	126	Telling a story with no pictures forces her to say what she means.
+insight	126	Teeth are evidence, and reading evidence is the whole of paleontology.
 insight	127	Tools shape what a child notices.
 insight	128	One of the oldest child-centered teaching rituals we still have.
 insight	129	Rituals that repeat annually do something one-off events can't.
@@ -1248,6 +1336,10 @@ insight	151	Children can't yet imagine their parents as separate people.
 insight	152	Acts of service are the hardest gift for a young child to conceive of.
 insight	153	Video calls are hard for young children, and that's not rudeness.
 insight	154	Children don't have autobiographical memory the way we assume.
+insight	154	A system she can change one piece of beats a toy that already works.
+insight	154	She'll defend a category harder than she'll defend a fact.
+insight	154	Illness is a good time to be the one with the ideas rather than the hands.
+insight	154	A job with a visible end is what a recovering child wants.
 insight	155	Appreciation is different from praise, and children need more of the first.
 insight	156	Things that break the rules are the best teachers.
 insight	157	Repeating an experiment is what makes it an experiment.
@@ -1276,6 +1368,10 @@ insight	179	Storytelling with prompts is easier than storytelling from nothing.
 insight	180	Continuity of ownership matters during illness.
 insight	181	Outdoor play is the highest-return activity available, and June is when it gets easy.
 insight	182	A sibling's birthday is hard, and preparation helps more than correction.
+insight	182	Making a material from scratch is rarer than making a thing.
+insight	182	Grinding grain by hand is how she finds out that food used to be work.
+insight	182	Naming the parts of something ordinary makes it interesting again.
+insight	182	Waiting for cream to turn into butter is a bet she'll want to see through.
 insight	183	One-year-olds don't understand birthdays, and that's fine.
 insight	184	Discovery requires an incomplete set.
 insight	185	Pointing and giving are the foundations of conversation.
@@ -1305,12 +1401,16 @@ insight	208	Repeating an activity across the year makes growth visible.
 insight	209	The halfway point is worth marking for you as much as for her.
 insight	210	Heat makes children behave badly, and it isn't a discipline problem.
 insight	211	A space she can fit inside changes the way she plays in it.
-insight	212	Fever makes children clingy, and meeting it shortens it.
+insight	212	Fever makes children clingy, and meeting it is the fastest way through the day.
 insight	213	Naming a sound is how she learns to pick it out of the rest.
 insight	214	Summer needs less structure than you'd think.
 insight	215	Symbols are a big abstraction, and flags are the easiest entry point.
 insight	216	A list she can read herself puts her in charge of the packing.
 insight	217	Big days are frequently too big, and the fix is leaving early.
+insight	217	A game with a whistle and rules teaches listening better than being told to listen.
+insight	217	A measurement she takes every day teaches more than a fact does.
+insight	217	Thinking about what an animal needs in winter is easier than thinking about herself.
+insight	217	Serving other people is a role she'll take more seriously than being served.
 insight	218	Sorting by an invisible property is a step up.
 insight	219	Oil and water is the same lesson as the wax crayon and the sticker resist.
 insight	220	Freezing on cue is one of the best self-control exercises there is.
@@ -1335,10 +1435,14 @@ insight	238	Noticing a mismatch is worth more than getting the answer.
 insight	239	Numeral recognition is separate from counting.
 insight	240	Darkness is worth practicing when it isn't bedtime.
 insight	241	A large collaborative piece teaches something a small one can't.
-insight	242	Giving a tour is the best test of understanding there is.
+insight	242	Explaining it to a stranger sends her back through it another way.
 insight	243	Real tools and real jobs beat toy versions, every time.
 insight	244	Sitting in a circle changes how a group talks.
 insight	245	She's met shadows three times now, and each time added something.
+insight	245	A rainbow with a switch on it puts the cause in her hand.
+insight	245	Naming clouds is the first time the sky has parts.
+insight	245	A scale with pictures lets her rate something she can't measure.
+insight	245	Cold is easier to investigate than hot, because she can hold it.
 insight	246	Carrying her own pack changes the walk.
 insight	247	A map is a shift from being *in* a space to seeing it from above.
 insight	248	Breaking the routine deliberately makes a memory.
@@ -1360,13 +1464,17 @@ insight	263	Food is the most memorable route into a culture at this age.
 insight	264	Symmetry through folding is discovered, not explained.
 insight	265	Repeating units are a genuine step up from alternating patterns.
 insight	266	Impermanence is easier to accept when it's built into the design.
-insight	267	Jumping with both feet is a genuine milestone and it comes later than most parents expect.
+insight	267	Jumping is a year-old skill by now, and distance is the part still arriving.
 insight	268	"Different" and "wrong" are separate ideas, and this week teaches the difference.
 insight	269	Aiming improves with quantity, not instruction.
 insight	270	Risk and reward is a new kind of decision.
 insight	271	A painted face changes behavior as well as appearance.
 insight	272	Building it back up is the part that's doing the work.
 insight	273	Saving three of something is harder than it sounds.
+insight	273	She thinks water that dries has gone, and it takes seeing it come back to fix that.
+insight	273	Being wrong in a forecast is the most useful kind of wrong.
+insight	273	A tree she's chosen is different from a tree she's shown.
+insight	273	Sorting the year into four is easier than remembering it.
 insight	274	Inventing a game is a much bigger deal than playing one.
 insight	275	Hosting is a social skill, and it's learnable at three.
 insight	276	Predicting a sound and then testing it is her first real hypothesis.
@@ -1402,6 +1510,10 @@ insight	305	Naming a color she invented does more than learning the standard ele
 insight	306	Fitting a shape into a hole is a test of mental rotation.
 insight	307	Matching a shade is much harder than matching a color.
 insight	308	Finishing something that took all week is its own lesson.
+insight	308	Five months is longer than she can picture, and that's exactly why it's worth doing.
+insight	308	Rotting is the part of nature children are usually protected from, and it's the interesting half.
+insight	308	Absence is harder to notice than presence, and it has to be pointed out.
+insight	308	A collection with a purpose behaves differently from a collection.
 insight	309	Her own name is the doorway and it doesn't generalize for a while.
 insight	310	Tracing in salt removes the fear of getting it wrong.
 insight	311	Hearing a rhyme and making one are two different skills, months apart.
@@ -1430,6 +1542,10 @@ insight	333	Pumping a tire is the first time she'll feel her own strength do som
 insight	334	Finishing a week by using everything she made beats one more new thing.
 insight	335	The moon changing shape is the first thing she'll notice that she can't touch.
 insight	336	Distance is the part of space that nobody tells her about.
+insight	336	A constraint is what makes her choose instead of asking for everything.
+insight	336	A sharp-enough knife is safer than a blunt one, and she can learn a grip.
+insight	336	Dark afternoons change the shape of the day, and the plan has to change with them.
+insight	336	She can name what she doesn't like once she has words for the tastes.
 insight	337	Asking what happens in it beats asking what it is.
 insight	338	The oldest teaching rituals put a child's question at the center.
 insight	339	Her hands know a sorting rule she cannot say yet.
@@ -1441,7 +1557,7 @@ insight	344	Outdoors helps even when nothing is happening.
 insight	345	The day before is often better than the day itself.
 insight	346	Performing for one attentive person is enough.
 insight	347	Cabin fever is physiological, not attitudinal.
-insight	348	Mid-December is a low-energy stretch, and lowering the bar is the right response.
+insight	348	Mid-December takes more than it gives, and the day should shrink.
 insight	349	Being an expert on one thing is enormously motivating at three.
 insight	350	A crater is a record of something that already happened, and reading it backwards is new thinking.
 insight	351	Inventing a creature to fit conditions is her first taste of adaptation.
@@ -1459,3 +1575,7 @@ insight	362	A copy of a thing teaches her what a fossil is.
 insight	363	Sorting the candy is more interesting to her than eating it.
 insight	364	A photo on a table gives a dead person a place, and that helps her more than an explanation.
 insight	365	She won't remember most of this year, and that isn't the point.
+insight	365	Doing the dishes is water play with a result, and she'll do it for the water alone.
+insight	365	Doing a job with her feet is how she gets her whole body into it.
+insight	365	Directing an adult is the strongest evidence of competence she can get.
+insight	365	Sour is the taste she'll learn to like on purpose, and that's a new experience.

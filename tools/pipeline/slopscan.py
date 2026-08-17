@@ -13,10 +13,13 @@ lines = []
 for f in sorted(glob.glob(os.path.join(REPO, "months", "*.md"))):
     lines.extend(open(f, encoding="utf-8").read().split("\n"))
 
-# prose only: drop schedule rows, headings, checkbox list items, TOC rows
+# prose only: drop schedule rows, headings at every level, checkbox list
+# items, TOC rows. The em dash in "# 🌧️ January — Backup Days & Extra Ideas"
+# and "## 🤒 Sick Day 1 — Better But Not Well" is title punctuation, the same
+# class as the schedule rows and the booklet contents rows.
 prose = [x for x in lines
-         if not x.startswith("- **") and not x.startswith("###")
-         and not x.startswith("- [") and not x.startswith("## ")
+         if not x.startswith("- **") and not x.startswith("#")
+         and not x.startswith("- [")
          and not x.startswith("<") and not x.startswith("**")]
 blob = "\n".join(prose)
 words = len(blob.split())

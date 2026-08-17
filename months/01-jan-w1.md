@@ -48,6 +48,7 @@ week runs on cardboard.
 
 - [ ] Cardboard boxes, 10–15 in mixed sizes (start saving now)
 - [ ] Cardboard tubes, as many as you have
+- [ ] Plastic bottle caps and milk-bottle lids, washed (start saving now, you need a hundred by April)
 - [ ] Paper cups, one sleeve
 - [ ] Masking tape, 2 rolls
 - [ ] Packing tape
@@ -59,7 +60,7 @@ week runs on cardboard.
 - [ ] A craft knife or heavy scissors (adult only)
 - [ ] Crayons
 - [ ] A pencil and a measuring tape
-- [ ] A bulldog clip or a length of ribbon
+- [ ] A binder clip or a length of ribbon
 - [ ] Newspaper, a stack
 - [ ] Two old washcloths
 - [ ] A flashlight with fresh batteries
@@ -67,10 +68,10 @@ week runs on cardboard.
 - [ ] All-purpose flour, 1.5 kg
 - [ ] Salt, 500 g
 - [ ] Dried pasta and dried beans
-- [ ] String or thick wool, 1 ball
+- [ ] String or thick yarn, 1 ball
 - [ ] Craft sticks, 40
-- [ ] Clothespins or bulldog clips, 8
-- [ ] Baking paper and a baking tray
+- [ ] Clothespins or binder clips, 8
+- [ ] Parchment paper and a baking tray
 - [ ] A rolling pin and a table knife
 - [ ] A clean sock you don't want back
 
@@ -78,8 +79,6 @@ week runs on cardboard.
 
 ### 💛 A Note from Joseph
 
-> *(Draft. Rewrite this. I can guess the shape of it, not the feeling.)*
->
 > Brooklyn, this is the first page of the first week. The book is me handing
 > you something at 8:00 in the morning so you don't have to invent a whole day
 > from nothing while a six-month-old chews your sleeve. Treat it as a menu.
@@ -160,10 +159,10 @@ worth keeping. It goes in the capsule this afternoon, so tell her that now.
 > 👶 **Infant Integration:** Kreston is 6 months and sits propped, hands free
 > for short stretches. Put a cushion behind him and give him his own cardboard
 > tube and one paper cup on the floor near the building. He will bang, mouth
-> and drop them, running the same investigation
-> Azlyn is running with the tower. On the walk, wear him facing out. He is
-> alert enough now to take in the street, and cold air on his cheeks is a new
-> sensation. Name three things you pass out loud.
+> and drop them, running the same investigation Azlyn is running with the
+> tower. On the walk, wear him facing out. He is alert enough now to take in
+> the street, and cold air on his cheeks is a new sensation. Name three things
+> you pass out loud.
 
 <div style="page-break-after: always;"></div>
 
@@ -204,21 +203,21 @@ it away for a year.
 - The park, emptier today than any other day this year
 - The same walk again in fading light. Ask what is different; the answer is usually the sound
 - Drive somewhere with a view and stay in the warm car
-- Post a letter to Azlyn for her to open when she is five
+- Mail a letter to Azlyn for her to open when she is five
 
-> 👶 **Kreston's Afternoon:** He goes on the growth chart too, lying down.
-> Mark and date his length on the same wall as everyone else. After that, give
-> him the flattened box to lie on. At six months he will stay with the crackle
-> and the give under his hands longer than he stays with a toy, and down there
-> he is at floor level with Azlyn while she works.
+> 👶 **Kreston's Afternoon:** He goes on the growth chart too, lying down. Mark
+> and date his length on the same wall as everyone else. After that, give him
+> the flattened box to lie on. At six months he will stay with the crackle and
+> the give under his hands longer than he stays with a toy, and down there he
+> is at floor level with Azlyn while she works.
 
 ### 🌍 Around the World: Mongolia, the Arctic & the American Southwest 🏠
 
-Houses come in shapes other than boxes. Mongolian families build round
-felt **gers** they pack up and move with the seasons. Inuit builders cut snow
+Houses come in shapes other than boxes. Mongolian families build round felt
+**gers** they pack up and move with the seasons. Inuit builders cut snow
 blocks and lay them in a spiral to close an **igloo**. In the American
-Southwest, builders shape **adobe** homes from mud brick that keeps the
-inside cool through the heat.
+Southwest, builders shape **adobe** homes from mud brick that keeps the inside
+cool through the heat.
 
 > **✨ Try it:** Swap the square house for a round one. A blanket over a
 > laundry basket makes a good ger. Ask Azlyn which shape feels stronger.
@@ -277,7 +276,7 @@ inside cool through the heat.
 **🧰 You need:** the big box · masking tape · 1 permanent marker.
 
 1. Let her climb in before anything else happens. She will do this anyway.
-2. Ask what it should be: house, shop, boat, rocket. Write her answer on the side in marker. The decision is now fixed and it is hers.
+2. Ask what it should be: house, store, boat, rocket. Write her answer on the side in marker. The decision is now fixed and it is hers.
 3. Give her the tape and let her mark where the door and the windows go. She decides now, and you cut along her marks at 9:15.
 
 ### 🎨 The Main Event: The Box House
@@ -347,9 +346,9 @@ the furniture.
 ### 🌳 Out Again: **Pick one**
 - **The museum**, first Saturday of the month and the year's first
 - The park, to run off whatever the box didn't
-- Soft play if it's raining sideways
+- Indoor playground if it's raining sideways
 - A café with a window seat and something to look at
-- The hardware shop to look at boxes, lumber and things that stack
+- The hardware store to look at boxes, lumber and things that stack
 
 > 👶 **Kreston's Afternoon:** Give him one of the small furniture boxes to
 > handle before you tape it down. At 6 months he passes objects hand to hand and
@@ -456,14 +455,14 @@ growing. Cardboard gets strong once she changes its shape.
 - Craft sticks and cardboard tubes
 - 1 roll masking tape
 - 1 teddy or doll
-- A tin of beans as the heavy test weight
+- A can of beans as the heavy test weight
 
 **📝 Step-by-Step Instructions:**
 1. Set the chairs close together. Lay one flat piece of card between them and stand teddy on it. It holds.
 2. Move the chairs a hand's width apart and try again. Keep going until it sags.
 3. Ask *what could we change?* and wait. Odds are she says a bigger piece of card. Try it, and watch it sag again.
 4. Show her one trick and then step back: fold the card into a concertina, or roll it into tubes and lay them side by side. Let her work out which way up it goes.
-5. Test with teddy, then the tin of beans, then both at once.
+5. Test with teddy, then the can of beans, then both at once.
 6. Push the chairs as far apart as the bridge will survive and mark the floor with tape.
 7. Take a photo of the winning bridge with teddy standing on it.
 
@@ -495,9 +494,9 @@ growing. Cardboard gets strong once she changes its shape.
 > pull is to turn the rest into a quiz (*what color is that? how many? is it
 > big or small?*), because her answers feel like proof that she learned
 > something, and you end up with a three-year-old performing for an adult.
-> Give her the running commentary instead and she gets new vocabulary in a real
-> context, sentence structures she has not built yet, and no pressure to be
-> right. Parents who narrate hand their children more words to hear, and a
+> Give her the running commentary instead and she gets new vocabulary in a
+> real context, sentence structures she has not built yet, and no pressure to
+> be right. Parents who narrate hand their children more words to hear, and a
 > wider range of them. Save your questions for the ones you cannot answer
 > yourself, like *what could we change?* over a bridge that keeps sagging.
 
@@ -569,9 +568,9 @@ past it tomorrow to see whether it survived.
 
 > 👶 **Infant Integration:** Kreston is 6 months. Build him a two-cup tower
 > within arm's reach and let him swipe it down. He will do it again and again
-> without tiring of it, the same experiment Azlyn is running with three
-> towers and a sheet of paper. Keep his cups separate from hers so nothing
-> chewed goes back in the build box.
+> without tiring of it, the same experiment Azlyn is running with three towers
+> and a sheet of paper. Keep his cups separate from hers so nothing chewed
+> goes back in the build box.
 
 <div style="page-break-after: always;"></div>
 
@@ -583,7 +582,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 **🧰 Complete Materials List:**
 - 1 clean sock
 - Dried beans or rice to fill it
-- 1 ball of string, about two meters
+- 1 ball of string, about six feet
 - A door frame, a broom handle across two chairs, or a curtain rail bracket
 - All the boxes and cups
 - Masking tape
@@ -610,7 +609,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 - The woods loop, hunting for fallen trees and what pulled them down
 - The neighborhood park
 - The duck pond, and the bridge over it
-- Soft play, if the rain has set in and nobody can face the coats
+- Indoor playground, if it is pouring and nobody can face the coats
 
 > 👶 **Kreston's Afternoon:** Keep him well clear of the swinging sock. Put him
 > in the far corner with the flattened box he liked on Friday. Once the
@@ -622,15 +621,15 @@ she pulls a weight back, lets go, and the swing does the work for her.
 
 > 🧠 **A Little Parenting Insight**
 > **Knocking it down *is* the science.**
-> You watch her flatten something she spent a solid fifteen minutes making, and
-> it looks like fifteen minutes thrown out. She made a prediction while she
-> built it, and knocking it down is how she collects the answer, so the
-> demolition carries as much of the learning as the stacking did. Children work
-> out the physical rules of the world by breaking things and watching how they
-> break, which is why the same tower goes up and down eleven times. Say
+> You watch her flatten something she spent a solid fifteen minutes making,
+> and it looks like fifteen minutes thrown out. She made a prediction while
+> she built it, and knocking it down is how she collects the answer, so the
+> demolition carries as much of the learning as the stacking did. Children
+> work out the physical rules of the world by breaking things and watching how
+> they break, which is why the same tower goes up and down eleven times. Say
 > *don't, you worked so hard on that* and you save the cardboard while ending
-> the experiment. Take a photo if you want the tower kept, then let her flatten
-> it.
+> the experiment. Take a photo if you want the tower kept, then let
+> her flatten it.
 
 > ⚠️ **Safety:** Tie the string to something that cannot come down on top of
 > her: a door frame, not a curtain pole or a shelf. Take the sock down and put
@@ -680,7 +679,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 **🧰 Complete Materials List:**
 - The salt dough, 2 cups flour to 1 cup salt to 1 cup water
 - 1 rolling pin, 1 table knife
-- 1 baking tray and baking paper
+- 1 baking tray and parchment paper
 - Extra flour for the board
 - 1 pencil for scoring
 
@@ -697,10 +696,10 @@ she pulls a weight back, lets go, and the swing does the work for her.
 ### 🌳 Get Outside: The Cold Walk
 
 Keep it short and brisk today, because the oven is on. Go past yesterday's
-stone stack first and see whether it survived. Look for frost on car
-roofs and in the shade at the bottom of walls. Let her breathe out and watch
-it. Find one brick wall and put her hand flat on it so she can feel how cold
-stone gets and see how many bricks it took.
+stone stack first and see whether it survived. Look for frost on car roofs and
+in the shade at the bottom of walls. Let her breathe out and watch it. Find
+one brick wall and put her hand flat on it so she can feel how cold stone gets
+and see how many bricks it took.
 
 > 👶 **Infant Integration:** **Kreston turns 7 months today.** He reaches
 > across his own body for something on the far side now, so press a spare lump
@@ -743,7 +742,7 @@ and the thirty she cut are the whole supply.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one and the first of fifty-two
-- Soft play if the pool is shut for the holidays
+- Indoor playground if the pool is shut for the holidays
 - The library, a day early
 - A warm café and a window, if nobody has the energy
 - The indoor play center
@@ -767,11 +766,10 @@ and the thirty she cut are the whole supply.
 > it on a morning that has gone loud will settle her further than a talk about
 > calming down.
 
-> ⚠️ **Safety:** The oven is on for three hours today, so say it out loud
-> when she comes near, and keep Kreston out of the kitchen while the trays
-> move. Salt dough is dangerous if eaten, and seriously so for a 7-month-old
-> and for any dog in the house. Count the bricks in and out and store them
-> high.
+> ⚠️ **Safety:** The oven is on for three hours today, so say it out loud when
+> she comes near, and keep Kreston out of the kitchen while the trays move.
+> Salt dough is dangerous if eaten, and seriously so for a 7-month-old and for
+> any dog in the house. Count the bricks in and out and store them high.
 
 <div style="page-break-after: always;"></div>
 
@@ -782,10 +780,10 @@ and the thirty she cut are the whole supply.
 **Theme:** Shape Engineers & Building
 
 ### 🌙 Prep Tonight
-> Put the craft sticks, the string and the masking tape on the table, and stand two dining chairs about two meters apart in the living room.
+> Put the craft sticks, the string and the masking tape on the table, and stand two dining chairs about six feet apart in the living room.
 
 ### ⏰ At-a-Glance Schedule
-- **8:00–9:00 AM** — 🌅 Opening Activity: Craft stick Shapes
+- **8:00–9:00 AM** — 🌅 Opening Activity: Craft Stick Shapes
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Triangle Test (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
@@ -802,7 +800,7 @@ and the thirty she cut are the whole supply.
 - **5:00–5:45 PM** — 🛁 Wind-Down: The New Library Book
 - **6:00 PM** — **Dinner**
 
-### 🌅 Opening Activity: Craft stick Shapes
+### 🌅 Opening Activity: Craft Stick Shapes
 
 **🧰 You need:** craft sticks · masking tape cut into short tabs.
 
@@ -839,10 +837,9 @@ wind took it.
 
 > 👶 **Infant Integration:** Kreston is 7 months, rocking on hands and knees
 > and starting to pull himself forward. Lay the taped triangle tower on its
-> side within his reach and let
-> him post his fingers through the gaps. He is learning that a shape has an
-> inside. His hand goes in, meets air, comes back out, and then he tries the
-> next gap along.
+> side within his reach and let him post his fingers through the gaps. He is
+> learning that a shape has an inside. His hand goes in, meets air, comes back
+> out, and then he tries the next gap along.
 
 <div style="page-break-after: always;"></div>
 
@@ -852,7 +849,7 @@ She has spent the week building things that push down. A zip line pulls, the
 opposite force and a new idea for her.
 
 **🧰 Complete Materials List:**
-- 1 ball of string, 3 meters
+- 1 ball of string, 10 feet
 - 2 dining chairs, or a door handle and a chair
 - 1 paper cup
 - 1 cardboard tube cut into a short ring
@@ -872,14 +869,14 @@ opposite force and a new idea for her.
 
 ### 🎯 Afternoon Alternatives
 - One string, one cup, no ring. It slides fine.
-- Post things down the bannister instead.
+- Post things down the banister instead.
 - Make a pulley by looping the string over a door handle and hauling a bag up.
 - Tape a string across the bath and float things along it.
 
-### 🌳 Out Again: **Pick one**
+### 🌳 Out Again: **The Library**
 - **The library** (every two weeks, and the first visit of the year)
-- Soft play if the library is packed with the holiday crowd
-- The shops, and let her carry one thing
+- Indoor playground if the library is packed with the holiday crowd
+- The store, and let her carry one thing
 - The park on the way home
 - A café and the new book, read cover to cover once
 
@@ -893,13 +890,13 @@ opposite force and a new idea for her.
 > 🧠 **A Little Parenting Insight**
 > **The pause before you help.**
 > Azlyn wrestling with a joint that will not hold looks like a child who needs
-> you. Most of the time she needs four more seconds. Adults step in fast, often
-> before the frustration has arrived, and every early rescue teaches the same
-> background lesson: hard things get solved by someone else. Count to five
-> before you move. If she is still stuck, give her the smallest nudge you can,
-> the loose stick set on the table beside her while your hands stay off the
-> tape. You are protecting the willingness she will need next year to stay with
-> a hard thing.
+> you. Most of the time she needs four more seconds. Adults step in fast,
+> often before the frustration has arrived, and every early rescue teaches the
+> same background lesson: hard things get solved by someone else. Count to
+> five before you move. If she is still stuck, give her the smallest nudge you
+> can, the loose stick set on the table beside her while your hands stay off
+> the tape. You are protecting the willingness she will need next year to stay
+> with a hard thing.
 
 > ⚠️ **Safety:** Take the zip line down and put the string away the second you
 > finish. String at toddler height is a strangulation risk, and a serious one.
@@ -951,14 +948,14 @@ opposite force and a new idea for her.
 - 3–4 blankets or sheets
 - 4 dining chairs
 - Sofa cushions
-- Clothespins or bulldog clips
+- Clothespins or binder clips
 - Heavy books to weight the edges
 - The salt dough bricks from Tuesday
 
 **📝 Step-by-Step Instructions:**
 1. Set the chairs on the tape marks with their backs outward. That is the frame.
 2. Drape the first sheet across the top and clip it to the chair backs. Clips hold where tucked edges pull loose.
-3. Ask her where the door goes. Peg that edge so it can be lifted and dropped.
+3. Ask her where the door goes. Clip that edge so it can be lifted and dropped.
 4. Send her inside with the cushions to build the floor. Leave her to it for a full ten minutes.
 5. Once the roof sags, remind her what fixed the sagging bridge on Sunday and let her work out the rest.
 6. Weight every outside edge with books and line the doorway with the salt dough bricks, so she walks past Tuesday's work on her way in.
@@ -1013,13 +1010,13 @@ there, draws in there, and it stays up until bedtime.
 - Take the fort down and rebuild it somewhere else entirely.
 
 ### 🌳 Out Again: **Pick one**
-- The grocery shop, and let her choose one thing for the fort picnic
+- The grocery store, and let her choose one thing for the fort picnic
 - The park, for the tunnel and the climbing frame
 - A friend's house, if the fort can wait an hour
 - Feed the ducks and look at where they shelter
-- The hardware shop, to look at real roofs and joists
+- The hardware store, to look at real roofs and joists
 
-> 👶 **Kreston's Afternoon:** Take him into the shop in the carrier facing out.
+> 👶 **Kreston's Afternoon:** Take him into the store in the carrier facing out.
 > At 7 months the noise, lights and strangers of a supermarket are work for him,
 > so twenty minutes is plenty. Back home, put him in the fort doorway with one
 > board book while Azlyn reads inside. He will hold it upside down and be
@@ -1030,15 +1027,16 @@ there, draws in there, and it stays up until bedtime.
 > 🧠 **A Little Parenting Insight**
 > **Why small enclosed spaces are so appealing right now.**
 > Azlyn goes under the table, into the cupboard, behind the sofa. She hides in
-> them, and she also uses them to shrink the world. A small space cuts how much
-> arrives at once, and she cannot filter noise and light and movement yet, so
-> walls close enough to touch give her relief. The fort is also the first
-> territory she controls: she picked the shape, the door and who comes in. If
-> she wants to be in there on her own, let her. Leave it up for a few days.
+> them, and she also uses them to shrink the world. A small space cuts how
+> much arrives at once, and she cannot filter noise and light and movement
+> yet, so walls close enough to touch give her relief. The fort is also the
+> first territory she controls: she picked the shape, the door and who comes
+> in. If she wants to be in there on her own, let her. Leave it up
+> for a few days.
 
 > ⚠️ **Safety:** Nothing heavy on top of the fort and nothing that can fall
-> inward. Books go on the outside edges, never on the roof. No cords, no fairy
-> lights, no string left from yesterday. Never leave Kreston in there on his own,
-> and keep pillows and loose blankets away from his face.
+> inward. Books go on the outside edges, never on the roof. No cords, no
+> holiday lights, no string left from yesterday. Never leave Kreston in there
+> on his own, and keep pillows and loose blankets away from his face.
 
 <div style="page-break-after: always;"></div>

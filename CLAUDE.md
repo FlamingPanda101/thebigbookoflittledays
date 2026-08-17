@@ -69,6 +69,28 @@ things she already knows. Do not pad.
   it and mark it clearly as a draft for me to rewrite. It is the one thing in
   the book only I can write.
 
+## Schedule rows are editable. The row must match its heading.
+
+The 16 At-a-Glance rows used to be frozen. They are not any more, because
+freezing them made two defects unfixable: a British "letterbox" locked into
+three rows, and a day whose Second Main Event had to be replaced for safety.
+
+The rule that replaces the freeze:
+
+**A schedule row and its section heading name the same activity, character for
+character.** `- **1:00–2:30 PM** — 🎨 Second Main Event: The Box House (90 min)`
+requires `### 🎨 Second Main Event: The Box House`. Rename one, rename the
+other, and rename anything else on the page that points at it.
+
+Also check the rows that have NO prose section of their own, Her Job, Quiet
+Play and Wind-Down. Day 83 lost its planting activity and kept
+`🧹 Her Job: Watering the Windowsill Row`, leaving a job for a windowsill that
+no longer existed. If you replace an activity, read the whole schedule block
+and fix every row that referred to it.
+
+Still frozen and never edited: the anchors, the day header, the date line, the
+theme line, the week header, and the page-break divs.
+
 ## Locale — American, and it is not only spelling
 
 The book is **US English throughout**. Joseph confirmed this. The holidays in

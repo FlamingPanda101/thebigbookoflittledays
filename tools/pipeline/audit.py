@@ -58,7 +58,9 @@ starts = [(i, int(m.group(1))) for i, ln in enumerate(lines)
 # the second condition the last day of a week absorbs the following week's
 # opener, which shows up as a phantom third page break.
 stops = [i for i, ln in enumerate(lines)
-         if ln.startswith('<a id="week-') or ln.startswith('<a id="booklet-')]
+         if ln.startswith('<a id="week-') or ln.startswith('<a id="booklet-')
+         or ln.startswith('<a id="backup-')
+         or re.match(r'^<a id="\w+-(weather|sick|extras)', ln)]
 days = {}
 for idx, (i, n) in enumerate(starts):
     end = starts[idx + 1][0] if idx + 1 < len(starts) else len(lines)
@@ -108,6 +110,28 @@ for n, blk in days.items():
                 "A Little Parenting Insight"):
         if req not in txt:
             fails.append(f"D{n}: missing section {req}")
+
+    # a schedule row and its heading must name the same activity. this is the
+    # rule that replaced freezing the rows: Day 83 once kept a Her Job row
+    # for a windowsill whose planting activity had been deleted.
+    ROW = re.compile(r"^- \*\*.+?\*\* — \S+ (Opening Activity|The Main Event|"
+                     r"Second Main Event|Get Outside|Out Again): "
+                     r"(.+?)(?: \(\d+ min\))?\s*$")
+    HEAD = re.compile(r"^### \S+ (Opening Activity|The Main Event|"
+                      r"Second Main Event|Get Outside|Out Again): (.+?)\s*$")
+    rows = {}
+    for x in blk:
+        m = ROW.match(x)
+        if m:
+            rows[m.group(1)] = m.group(2).strip().strip("*")
+    for x in blk:
+        m = HEAD.match(x)
+        if m and m.group(1) in rows:
+            head = m.group(2).strip().strip("*")
+            if head.lower() != rows[m.group(1)].lower() \
+               and "pick one" not in head.lower():
+                fails.append(f"D{n}: {m.group(1)} row says "
+                             f"{rows[m.group(1)]!r} but heading says {head!r}")
 
     sec, cur = defaultdict(list), None
     for x in blk:

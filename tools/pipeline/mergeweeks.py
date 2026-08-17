@@ -43,8 +43,20 @@ for wk in weeks:
 
 # --- regenerate titles.tsv from every file in months/, the source of truth
 acts, ins = [], []
+# backup sections carry activities and insights too, and they were invisible
+# to this ledger until five agents duplicated the same sick-day headline while
+# checking a titles.tsv that did not contain it. A backup file has no
+# "## 🌟 Day N" header, so its titles are logged against the last day of the
+# booklet it belongs to.
+BACKUP_DAY = {"jan": 35, "feb": 63, "mar": 91, "apr": 126, "may": 154,
+              "jun": 182, "jul": 217, "aug": 245, "sep": 273, "oct": 308,
+              "nov": 336, "dec": 365}
+
 for f in sorted(glob.glob(os.path.join(MONTHS, "*.md"))):
     day = None
+    base = os.path.basename(f)
+    if "zz-backup" in base:
+        day = BACKUP_DAY.get(base.split("-")[1])
     pending = False
     for ln in open(f, encoding="utf-8").read().split("\n"):
         m = DAY_HDR.match(ln)
