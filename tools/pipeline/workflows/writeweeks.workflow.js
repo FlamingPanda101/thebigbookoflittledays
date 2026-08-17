@@ -11,7 +11,9 @@ export const meta = {
   ],
 }
 
-const SP = 'C:\\Users\\Josep\\AppData\\Local\\Temp\\claude\\C--Users-Josep--claude\\f2051431-8954-4594-9860-3b743569602a\\scratchpad'
+// lives in the repo now, not a session scratchpad: a scratchpad is wiped when
+// a session ends and that lost a whole month's output once.
+const SP = 'C:\\Users\\Josep\\The-Big-Book-of-Little-Days-2027\\tools\\pipeline'
 const REPO = 'C:\\Users\\Josep\\The-Big-Book-of-Little-Days-2027'
 const BRIEFS = SP + '\\weeks'
 const OUT = SP + '\\newweeks'

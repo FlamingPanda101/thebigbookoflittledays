@@ -7,7 +7,7 @@ export const meta = {
   ],
 }
 
-const SP = 'C:\\Users\\Josep\\AppData\\Local\\Temp\\claude\\C--Users-Josep--claude\\f2051431-8954-4594-9860-3b743569602a\\scratchpad'
+const SP = 'C:\\Users\\Josep\\The-Big-Book-of-Little-Days-2027\\tools\\pipeline'
 const REPO = 'C:\\Users\\Josep\\The-Big-Book-of-Little-Days-2027'
 const OUT = SP + '\\newweeks'
 const pad = (n) => String(n).padStart(2, '0')
