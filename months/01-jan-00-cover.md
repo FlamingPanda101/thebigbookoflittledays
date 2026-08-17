@@ -28,7 +28,7 @@
 
 ## ⚠️ Quick Safety Reminders
 
-- **Small parts**: dried beans, pasta, lolly sticks, salt dough bricks. *Both* children can choke on these. Count them out and count them back in.
+- **Small parts**: dried beans, pasta, craft sticks, salt dough bricks. *Both* children can choke on these. Count them out and count them back in.
 - **String and cord**: the zip line and the wrecking ball both use it. Take it down the moment the activity ends. Never leave a hanging loop within reach.
 - **Adult-only steps**: craft knives, scissors, the oven. Look for the adult-only mark in each activity.
 - **Salt dough is not food.** It is dangerous if eaten, especially for Kreston and for any dog in the house.

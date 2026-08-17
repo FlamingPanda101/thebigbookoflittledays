@@ -32,7 +32,7 @@ long at eleven in the morning.
 - **Where forest animals live.** Roots, trunk, branches, top, and which animal belongs at which height.
 - **Reading evidence.** A print, a chewed leaf and a tuft of wool add up to an animal she never saw.
 - **Waiting, and holding still on purpose.** She packs four feeders on Tuesday and the birds come on Thursday; she hibernates on Wednesday while you count to twenty.
-- **Telling the week back.** Two tours, a puppet show, and a shadow fox that swells up the sheet as she walks him toward the torch.
+- **Telling the week back.** Two tours, a puppet show, and a shadow fox that swells up the sheet as she walks him toward the flashlight.
 
 ---
 
@@ -73,7 +73,7 @@ long at eleven in the morning.
 - [ ] A pencil
 - [ ] Chalk
 - [ ] Scissors and a skewer (adult only)
-- [ ] Lolly sticks, straws or spare pencils
+- [ ] Craft sticks, straws or spare pencils
 - [ ] Corks, 6–8
 - [ ] Clothes pegs or bulldog clips, 8
 - [ ] Bottle tops
@@ -83,7 +83,7 @@ long at eleven in the morning.
 - [ ] A baking tray, the biggest you own, or a large shallow box lid
 - [ ] Soil or sand, a few handfuls
 - [ ] Small stones and twigs from the garden
-- [ ] A jug and a spray bottle
+- [ ] A pitcher and a spray bottle
 - [ ] Plain flour, 1 kg
 - [ ] A sieve
 - [ ] A sponge, for the paw stamps
@@ -92,9 +92,9 @@ long at eleven in the morning.
 - [ ] Birdseed, 3 cups, or porridge oats with breadcrumbs and raisins
 - [ ] Empty yoghurt pots, 4, or pine cones
 - [ ] A mixing bowl and a wooden spoon
-- [ ] A fork and a roll of kitchen roll
-- [ ] A flannel and a shallow bowl
-- [ ] A torch, with fresh batteries and a spare set
+- [ ] A fork and a roll of paper towels
+- [ ] A washcloth and a shallow bowl
+- [ ] A flashlight, with fresh batteries and a spare set
 - [ ] A pan lid
 - [ ] A white or pale sheet
 - [ ] Blankets, 2, and 2 cushions
@@ -169,17 +169,17 @@ long at eleven in the morning.
 **🧰 Complete Materials List:**
 - Long paper strips cut from a paper bag or the back of wrapping paper, 6
 - Washable non-toxic poster paint in brown, black, white and orange
-- 1 saucer or old plate for each colour
-- Cardboard tube ends, 1 cork, 1 fork, 1 scrunched piece of kitchen roll
-- 1 wet flannel in a shallow bowl
+- 1 saucer or old plate for each color
+- Cardboard tube ends, 1 cork, 1 fork, 1 scrunched piece of paper towels
+- 1 wet washcloth in a shallow bowl
 - Newspaper for the table
 
 **📝 Step-by-Step Instructions:**
-1. Spread the newspaper, lay one strip in front of her the long way, and pour a thin puddle of each colour into its own saucer.
+1. Spread the newspaper, lay one strip in front of her the long way, and pour a thin puddle of each color into its own saucer.
 2. Start the fawn. Two spots with the cork, a stripe dragged with the back of the fork, two spots again. Say it as you print: *spot, spot, stripe.* Hand her the cork on the third repeat.
 3. Badger next. Wide black and white bands from a tube squashed flat, alternating down the strip. She takes over after two.
 4. Owl on the third strip: rings from the open end of a tube, rows of them, brown on brown.
-5. Fox on the fourth: orange the whole length with the scrunched kitchen roll, then a white tip.
+5. Fox on the fourth: orange the whole length with the scrunched paper towels, then a white tip.
 6. Hand her the last two strips with no pattern to follow. Those two are hers, printed however she likes. Lay all six flat to dry, wash hands, then walk the row and ask what comes next on the four you started.
 
 > 💡 **Tip:** Print the first repeat and stop. She finishes the strip. A pattern she completed is one she can read back at you an hour later.
@@ -193,7 +193,7 @@ paper before she sees it. January bark holds the wet, so work the sheltered
 side of each trunk.
 
 > 👶 **Infant Integration:** Kreston is 7 months and passes things from hand
-> to hand now. Give him a wooden spoon and a folded flannel, the second set out
+> to hand now. Give him a wooden spoon and a folded washcloth, the second set out
 > to his side so he has to reach across his body for it. He keeps up a running
 > commentary at both of them while Azlyn prints. On the walk, hold his open palm
 > flat against a trunk for a second.
@@ -227,7 +227,7 @@ each one stands up on the table by itself.
 ### 🎯 Afternoon Alternatives
 - One strip, one tube, one animal, and stop there.
 - Draw faces onto plain tubes and skip the printing.
-- Sort the dried strips by colour, then by pattern.
+- Sort the dried strips by color, then by pattern.
 - Line the animals up by height and photograph them.
 
 ### 🌳 Out Again: **Pick one**
@@ -353,7 +353,7 @@ out loud to an audience that cannot get up and leave.
 
 **🧰 Complete Materials List:**
 - The wall tree
-- 1 torch
+- 1 flashlight
 - 1 cardboard tube, for a megaphone
 - Paper scraps and 1 crayon, for tickets
 - Your phone, to record one tour for Joseph
@@ -362,7 +362,7 @@ out loud to an audience that cannot get up and leave.
 **📝 Step-by-Step Instructions:**
 1. Set the chairs in a row facing the tree with a teddy in every one. Kreston sits at the end, propped against the cushion.
 2. Make tickets. She scribbles on the paper scraps and hands one to every seat, Kreston included.
-3. Give her the tube and the torch. The tube is her voice and the torch is her pointer.
+3. Give her the tube and the flashlight. The tube is her voice and the flashlight is her pointer.
 4. Take a seat and be the audience. Who lives at the top. Why does nobody live in the roots. What happens up there when it rains.
 5. Let her be wrong. Owls in the roots is a claim, and a claim beats a correct answer copied off you.
 6. Record one tour start to finish with no retakes. Joseph gets it tonight.
@@ -378,7 +378,7 @@ out loud to an audience that cannot get up and leave.
 
 ### 🌳 Out Again: **Pick one**
 - **The botanical garden**, glasshouse first if the wind is up
-- A garden centre with an indoor plant section, the same trees in miniature
+- A garden center with an indoor plant section, the same trees in miniature
 - The park with the biggest trees you know, for the shapes of them bare
 - A churchyard or an arboretum, both good for old trunks in winter
 - A café near the garden and a hot chocolate on the way home
@@ -453,11 +453,11 @@ out loud to an audience that cannot get up and leave.
 - Corks, clothes pegs, bottle tops, cotton wool, fabric scraps
 - 1 jar lid for the pond
 - Small stones and twigs from the garden
-- 1 jug of water
+- 1 pitcher of water
 
 **📝 Step-by-Step Instructions:**
 1. Spread the ground first: soil, sand, or brown paper torn small. Her hands do it. Sweep at the end.
-2. Press the jar lid in and let her pour water from the jug. Refill it rather than telling her to go careful.
+2. Press the jar lid in and let her pour water from the pitcher. Refill it rather than telling her to go careful.
 3. Lay the corks as fallen logs and the pegs as branches. Stand the twigs up as trees, pushed in or taped to the tray edge.
 4. Build one hollow under a cork to sleep in, and one heap of cotton wool for a nest.
 5. Ring the pond with the small stones. Ask what is missing and put in whatever she names.
@@ -474,7 +474,7 @@ put it back as you found it. Fill the bag with moss, bark and four good twigs.
 
 > 👶 **Infant Integration:** Kreston is 7 months and everything goes to his
 > mouth. Keep him clear of the tray and give him a bowl of his own with a
-> wooden spoon and a folded flannel in it. On the walk, hold one big dry leaf
+> wooden spoon and a folded washcloth in it. On the walk, hold one big dry leaf
 > out for him to grab. He gets it to his mouth in under a second, so keep hold
 > of your half.
 
@@ -512,7 +512,7 @@ bare corner of the tray, and the Forest Family moves in on top.
 
 ### 🌳 Out Again: **Pick one**
 - **A nature hunt walk** with a list of five: something red, rough, round, soft, and older than her
-- The same hedge again with a torch as the light goes
+- The same hedge again with a flashlight as the light goes
 - A woodland path, for trees she has not met yet
 - The duck pond, to see what the water does in January
 - The garden, re-hunted with a magnifying glass, if the weather has turned
@@ -622,7 +622,7 @@ Azlyn spends the afternoon making sure there is.
 - Paper and crayons for arrow cards
 - 1 roll masking tape
 - One thing to hide at the end, chosen by her
-- 1 torch
+- 1 flashlight
 - 1 dustpan and brush
 
 **📝 Step-by-Step Instructions:**
@@ -632,7 +632,7 @@ Azlyn spends the afternoon making sure there is.
 4. Make three arrow cards. She draws them, you tape them at Joseph's eye height rather than hers.
 5. Add two clues of her own. Ask what each is meant to tell him and write her answer on the back.
 6. Walk it once as a test, her leading and you playing Joseph. She will fix two things.
-7. Turn the lights down at six and hand him the torch at the door.
+7. Turn the lights down at six and hand him the flashlight at the door.
 
 > 💡 **Tip:** Write her clues down word for word. She will not remember the reasoning by Friday.
 
@@ -644,7 +644,7 @@ Azlyn spends the afternoon making sure there is.
 
 ### 🌳 Out Again: **Pick one**
 - **The big slide playground**, and check under the swings for tracks
-- The neighbourhood park, for the muddy path along the far end
+- The neighborhood park, for the muddy path along the far end
 - A field walk, for the biggest frozen puddles you can find
 - The woods loop, looking for holes in banks and under roots
 - Another trail upstairs, if the wind has made outside a bad idea
@@ -759,7 +759,7 @@ new one, so build her somewhere to sit and wait.
 
 **📝 Step-by-Step Instructions:**
 1. Tape two tubes side by side for her pair, and two more for yours. Nothing goes round her neck: she holds hers to her eyes with both hands.
-2. Let her colour both pairs.
+2. Let her color both pairs.
 3. Build the window seat: cushions under the window, blanket over her knees, chart and pencil beside her.
 4. Draw the chart with her. Five rows, one bird per row, a tick box at the end.
 5. Sit and watch. Ten minutes is a long time at three, so set the deal now: watch, something else, watch again.
@@ -853,7 +853,7 @@ new one, so build her somewhere to sit and wait.
 - Newspaper or scrap paper to tear for leaves
 - 1 blanket and 1 cushion
 - 1 roll masking tape
-- 1 torch
+- 1 flashlight
 - The Forest Family animals, or any toy animals
 
 **📝 Step-by-Step Instructions:**
@@ -861,8 +861,8 @@ new one, so build her somewhere to sit and wait.
 2. Tear the paper into leaves together. Fill a carrier bag and let the tearing run as long as she wants.
 3. Line the floor of the cave with the leaves, the blanket over them, and the cushion at the back wall.
 4. Tape a flap of card across part of the opening so the inside goes dark. She decides how much light gets in.
-5. Send her in with the torch and stay outside. Give her five clear minutes on her own before you ask a single question.
-6. Move the animals in one at a time, each to a spot she picks. Then get in with her, turn the torch off, and let the cave go dark.
+5. Send her in with the flashlight and stay outside. Give her five clear minutes on her own before you ask a single question.
+6. Move the animals in one at a time, each to a spot she picks. Then get in with her, turn the flashlight off, and let the cave go dark.
 
 > 💡 **Tip:** Let her tear far more paper than the cave needs. Two hands pulling in opposite directions is work she can keep up for twenty minutes.
 
@@ -891,15 +891,15 @@ spoon and a pan lid, and winter ends whenever she says it does.
 - 1 blanket each
 - 1 beaker of warm milk and a snack, for eating inside
 - Books about bears or winter, 2–3
-- 1 torch
+- 1 flashlight
 
 **📝 Step-by-Step Instructions:**
 1. Everybody hibernates. Into the cave or under a blanket, eyes shut, and hold it while you count to twenty out loud.
 2. Bang the pan lid once with the spoon. That is spring. Everybody wakes, stretches and comes out slow.
 3. Go round again with her holding the spoon. She decides how long winter lasts, three seconds the first time and two minutes the fourth.
-4. Change one rule each round. Sleep standing up. Sleep in a pile. Sleep with the torch on. Sleep and snore.
+4. Change one rule each round. Sleep standing up. Sleep in a pile. Sleep with the flashlight on. Sleep and snore.
 5. Creep past a sleeping bear without waking it, then swap and let her creep past you. Getting caught is the fun of it, so get caught.
-6. Take the milk and the snack into the cave and eat in there with the torch on.
+6. Take the milk and the snack into the cave and eat in there with the flashlight on.
 7. Read the books in the cave and finish with everybody asleep and nobody banging anything.
 
 > 💡 **Tip:** Let her hold the pan lid for most of the rounds. Deciding when winter ends is a lot of power for a three-year-old.
@@ -950,7 +950,7 @@ spoon and a pan lid, and winter ends whenever she says it does.
 **Theme:** Forest Friends
 
 ### 🌙 Prep Tonight
-> Flatten two cereal boxes onto the table with the scissors and a marker, put fresh batteries in the torch, and clear the wall.
+> Flatten two cereal boxes onto the table with the scissors and a marker, put fresh batteries in the flashlight, and clear the wall.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Guess the Shadow
@@ -966,32 +966,32 @@ spoon and a pan lid, and winter ends whenever she says it does.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
-- **4:15–5:00 PM** — Quiet Play: The Torch and the Wall
+- **4:15–5:00 PM** — Quiet Play: The Flashlight and the Wall
 - **5:00–5:45 PM** — 🛁 Wind-Down: Last Story of the Week
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: Guess the Shadow
 
-**🧰 You need:** 1 torch · a pale wall · 3 toy animals · your hands.
+**🧰 You need:** 1 flashlight · a pale wall · 3 toy animals · your hands.
 
-1. Turn the big light off, sit her facing the wall, and hold the torch behind your shoulder.
+1. Turn the big light off, sit her facing the wall, and hold the flashlight behind your shoulder.
 2. Put one animal in the beam. Ask which one it is before she turns round.
-3. Move it closer to the torch and let the shadow swell. Hand her the torch until 9:15.
+3. Move it closer to the flashlight and let the shadow swell. Hand her the flashlight until 9:15.
 
 ### 🎨 The Main Event: The Shadow Animals
 
 **🧰 Complete Materials List:**
 - Cereal boxes or thick card, 4–5
 - Scissors (**adult**)
-- Lolly sticks, straws or pencils
+- Craft sticks, straws or pencils
 - 1 roll masking tape
-- 1 torch
+- 1 flashlight
 - A pale wall or a white door
 
 **📝 Step-by-Step Instructions:**
 1. Draw the four animals on the cereal box: fox, owl, deer, hedgehog. Big simple outlines, no detail inside. You draw, she directs.
 2. Cut them out. Card this thick is adult work: she holds the box flat while you cut.
-3. Tape a lolly stick low on the back of each, so her hand stays out of the beam.
+3. Tape a craft stick low on the back of each, so her hand stays out of the beam.
 4. Test the first one against the wall. If the ears are too small or the legs have joined into a block, cut wider and test again.
 5. Do the same to all four. Deer antlers have to be fat, and an owl needs a notch between its ear tufts.
 6. Line them up and test from across the room. Any animal she cannot name goes back for cutting.
@@ -1003,12 +1003,12 @@ spoon and a pan lid, and winter ends whenever she says it does.
 Stop at the feeders on the way out. Something has been at the fat, and a blue
 tit comes back to finish it if you hold still. Let her tick
 the chart when you get in. The sun stays low all day in early February, so
-shadows run long. Stand her on the pavement at eleven, draw round her shadow
+shadows run long. Stand her on the sidewalk at eleven, draw round her shadow
 in chalk, and pace it out in her steps. Come back past the chalk mark on the
 way home.
 
 > 👶 **Infant Integration:** Kreston is 7 months. Lay him on his back and hold
-> the torch above him off to one side, your hand between the beam and his face.
+> the flashlight above him off to one side, your hand between the beam and his face.
 > Move your fingers through it. He follows the shape across the ceiling,
 > loses it, finds it again. Outside, park him with the low sun behind him and
 > wave from a few feet back.
@@ -1018,41 +1018,41 @@ way home.
 ### 🎨 Second Main Event: The Puppet Show Behind the Sheet
 
 A sheet pegged across a doorway turns the week into something she can
-perform. She has four animals, one torch, and an audience.
+perform. She has four animals, one flashlight, and an audience.
 
 **🧰 Complete Materials List:**
 - 1 white or pale sheet
 - Clothes pegs or bulldog clips, 6
 - A doorway, or 2 dining chairs back to back
-- 1 torch
+- 1 flashlight
 - The shadow puppets
 - Paper and crayons for tickets and a poster
 
 **📝 Step-by-Step Instructions:**
 1. Peg the sheet across the doorway, pulled tight, floor to above her head. Two chairs back to back work if clips will not hold.
-2. Stand the torch behind the sheet on the floor or a low stool, aimed at the middle.
-3. Test the distance. Close to the sheet the fox is small and sharp; back near the torch he is huge and soft.
+2. Stand the flashlight behind the sheet on the floor or a low stool, aimed at the middle.
+3. Test the distance. Close to the sheet the fox is small and sharp; back near the flashlight he is huge and soft.
 4. Make the poster and the tickets. She draws, you write the words she dictates.
 5. Sit the audience down: Kreston propped on cushions, teddies either side, whoever else is home.
 6. She tells the week back through the puppets: coats on Friday, the tree on Saturday, somebody past in the night on Monday. Give her the day and she supplies the rest.
-7. Swap sides at the end. You run the fox, and the last five minutes go with the torch off.
+7. Swap sides at the end. You run the fox, and the last five minutes go with the flashlight off.
 
-> 💡 **Tip:** Move the torch back further than feels right. A torch against the sheet gives one bright spot and four tiny animals.
+> 💡 **Tip:** Move the flashlight back further than feels right. A flashlight against the sheet gives one bright spot and four tiny animals.
 
 ### 🎯 Afternoon Alternatives
-- Torch and bare hands on the wall, no sheet and no puppets.
+- Flashlight and bare hands on the wall, no sheet and no puppets.
 - Shadow shapes on the ceiling from under a blanket.
-- Draw round the puppets' shadows on paper and colour them in.
+- Draw round the puppets' shadows on paper and color them in.
 - Retire the puppets into the forest floor tray and stop there.
 
 ### 🌳 Out Again: **Pick one**
-- **The garden centre**, for the indoor trees and a warm greenhouse in February
-- The hardware shop, for torches and a spare set of batteries
+- **The garden center**, for the indoor trees and a warm greenhouse in February
+- The hardware shop, for flashlights and a spare set of batteries
 - The park on the way back, for the low sun and the long shadows
 - The grocery shop, and she chooses one thing for Friday breakfast
 - Home and the sofa, if the show ran long and nobody wants a coat on
 
-> 👶 **Kreston's Afternoon:** The garden centre is warm and bright, so sit him
+> 👶 **Kreston's Afternoon:** The garden center is warm and bright, so sit him
 > on your lap for ten minutes. Hold a big leaf out to one side, where he
 > has to reach across himself. At 7 months that cross-body reach is new work.
 > At the show he sits in the front row, and moving shapes on a lit sheet hold
@@ -1065,17 +1065,17 @@ perform. She has four animals, one torch, and an audience.
 > Ask Azlyn what a shadow is made of and you get real thought in the answer and
 > no truth in it. Three-year-olds treat a shadow as a thing that belongs to an
 > object and travels with it, rather than as blocked light. The real version
-> takes a couple of years of torch time. Every test today feeds that
-> version: close to the sheet, back near the torch, one hand in the beam. Hold
-> off on the tidy explanation. Give her the torch, let her run the
+> takes a couple of years of flashlight time. Every test today feeds that
+> version: close to the sheet, back near the flashlight, one hand in the beam. Hold
+> off on the tidy explanation. Give her the flashlight, let her run the
 > tests, and answer the questions she asks rather than the ones she has not
 > reached.
 
-> ⚠️ **Safety:** Loose lolly sticks and straws stay off the floor while Kreston
+> ⚠️ **Safety:** Loose craft sticks and straws stay off the floor while Kreston
 > is down. They splinter, and they fit down his throat, so count them onto the
 > table and back off it. Card this thick is yours to cut and the scissors stay
 > with you. Peg the sheet where it can come down without bringing anything with
-> it, a door frame rather than a curtain pole or a shelf. Stand the torch on
+> it, a door frame rather than a curtain pole or a shelf. Stand the flashlight on
 > the floor instead of a stack of books, and with the room lights off keep
 > Kreston inside arm's reach the whole time.
 

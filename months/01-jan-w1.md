@@ -61,14 +61,14 @@ week runs on cardboard.
 - [ ] A pencil and a measuring tape
 - [ ] A bulldog clip or a length of ribbon
 - [ ] Newspaper, a stack
-- [ ] Two old flannels
-- [ ] A torch with fresh batteries
+- [ ] Two old washcloths
+- [ ] A flashlight with fresh batteries
 - [ ] Paper lunch bags
 - [ ] Plain flour, 1.5 kg
 - [ ] Salt, 500 g
 - [ ] Dried pasta and dried beans
 - [ ] String or thick wool, 1 ball
-- [ ] Lolly sticks, 40
+- [ ] Craft sticks, 40
 - [ ] Clothes pegs or bulldog clips, 8
 - [ ] Baking paper and a baking tray
 - [ ] A rolling pin and a table knife
@@ -175,7 +175,7 @@ it away for a year.
 - 1 shoebox with a lid
 - Thick card, 2 sheets
 - Washable paint and a wide brush
-- 1 wet flannel in a shallow bowl
+- 1 wet washcloth in a shallow bowl
 - 1 pencil, 1 permanent marker
 - 1 measuring tape
 - Parcel tape
@@ -183,9 +183,9 @@ it away for a year.
 
 **📝 Step-by-Step Instructions:**
 1. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **January** and **3** beside it.
-2. Do Kreston's on the same sheet while he is calm, flannel already in your hand.
+2. Do Kreston's on the same sheet while he is calm, washcloth already in your hand.
 3. Stand them both against the door frame. Mark, date and write the names. Draw round Azlyn's flat hand next to her mark. Do everyone in the house so she can see the row.
-4. Ask her four questions and write the answers **word for word**: favourite colour, favourite food, favourite song, what she wants to do this year. Do not tidy her grammar. Her wrong words are the ones you will want to read next December.
+4. Ask her four questions and write the answers **word for word**: favorite color, favorite food, favorite song, what she wants to do this year. Do not tidy her grammar. Her wrong words are the ones you will want to read next December.
 5. Let her draw the family. Whatever comes out goes in.
 6. Load the box: the drawing, her answers, the walk treasure, a photo. Photograph everything first. Boxes go missing, and the photos on your phone will still be there.
 7. Tape it shut, write **OPEN DECEMBER 31, 2027** across the lid, and put it somewhere she can see and not reach.
@@ -195,7 +195,7 @@ it away for a year.
 ### 🎯 Afternoon Alternatives
 - Handprints only. Skip the box and do the rest tomorrow.
 - Trace round her whole body on the back of a flattened box instead.
-- Sort the walk treasure by colour, then by size.
+- Sort the walk treasure by color, then by size.
 - Look through last year's photos and name who is in each one.
 
 ### 🌳 Out Again: **Pick one**
@@ -237,7 +237,7 @@ inside cool through the heat.
 > outside? what did you see?*) and she picks up the exception on her own
 > timeline.
 
-> ⚠️ **Safety:** Keep tape rolls, lolly sticks and walk treasure out of
+> ⚠️ **Safety:** Keep tape rolls, craft sticks and walk treasure out of
 > Kreston's reach the moment you stop watching him. Build the tower away from
 > where he is sitting. Azlyn can step back when a cardboard tower comes down
 > and Kreston cannot move out of the way. Washable non-toxic paint only.
@@ -322,7 +322,7 @@ the furniture.
 - The box house
 - 6–10 small boxes, cups and tubes
 - 1 roll masking tape
-- 1 scrap of fabric or an old tea towel
+- 1 scrap of fabric or an old dish towel
 - 1 permanent marker
 - Crayons or paint
 
@@ -333,7 +333,7 @@ the furniture.
 4. Cut a rectangle of card and tape it inside as a picture. She draws whatever hangs in it.
 5. Make one thing from her list that you would not have thought of. Follow her design down to the parts you would fix.
 6. Move a doll or a teddy in. Give it a name and write the name on the door.
-7. Turn the big light off and give her the torch. The cardboard glows and she will not want to come out.
+7. Turn the big light off and give her the flashlight. The cardboard glows and she will not want to come out.
 
 > 💡 **Tip:** Resist tidying the furniture into sensible positions. A stool on the roof is a decision, and if you move it she will stop making decisions.
 
@@ -404,11 +404,11 @@ the furniture.
 
 ### 🌅 Opening Activity: Taping the Tubes
 
-**🧰 You need:** cardboard tubes · masking tape · scissors · a smooth wall or the side of a wardrobe.
+**🧰 You need:** cardboard tubes · masking tape · scissors · a smooth wall or the side of a closet.
 
 1. Cut two or three tubes in half lengthways so they become open channels. You cut, she holds.
 2. Tape one channel to the wall at a slope. Roll a dried bean down it and watch where it lands.
-3. Ask her where the next one should go so the bean keeps travelling. Tape it exactly where she says, even if it will not work.
+3. Ask her where the next one should go so the bean keeps traveling. Tape it exactly where she says, even if it will not work.
 
 ### 🎨 The Main Event: The Ball Run
 
@@ -417,7 +417,7 @@ the furniture.
 - 1 roll masking tape
 - Dried beans, dried pasta, a ping-pong ball if you have one
 - 1 shallow box or saucepan for the bottom
-- A wall or wardrobe side you don't mind taping
+- A wall or closet side you don't mind taping
 
 **📝 Step-by-Step Instructions:**
 1. Put the catching box on the floor at the bottom. You aim the whole run at that box.
@@ -452,7 +452,7 @@ growing. Cardboard gets strong once she changes its shape.
 **🧰 Complete Materials List:**
 - 2 dining chairs, set a hand's width apart to start
 - Flattened cardboard, several pieces
-- Lolly sticks and cardboard tubes
+- Craft sticks and cardboard tubes
 - 1 roll masking tape
 - 1 teddy or doll
 - A tin of beans as the heavy test weight
@@ -475,7 +475,7 @@ growing. Cardboard gets strong once she changes its shape.
 - Lay a plank between two low stools outside and walk across it.
 
 ### 🌳 Out Again: **Pick one**
-- A long walk with the pram, the whole loop, no destination
+- A long walk with the stroller, the whole loop, no destination
 - Feed the ducks and count the bridges you cross
 - The park, for the climbing frame she can look at as a structure now
 - A drive to somewhere with a real bridge, and stand under it
@@ -490,7 +490,7 @@ growing. Cardboard gets strong once she changes its shape.
 
 > 🧠 **A Little Parenting Insight**
 > **Narrating beats quizzing, every time.**
-> You will want to turn the morning into a quiz (*what colour is that? how
+> You will want to turn the morning into a quiz (*what color is that? how
 > many? is it big or small?*), because her answers feel like proof that she
 > learned something. You end up with a three-year-old performing for an adult.
 > Give her the running commentary instead and she gets new vocabulary in a real
@@ -581,7 +581,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 **🧰 Complete Materials List:**
 - 1 clean sock
 - Dried beans or rice to fill it
-- 1 ball of string, about two metres
+- 1 ball of string, about two meters
 - A door frame, a broom handle across two chairs, or a curtain rail bracket
 - All the boxes and cups
 - Masking tape
@@ -606,7 +606,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 ### 🌳 Out Again: **Pick one**
 - The riverside path, to look at what holds the bank up
 - The woods loop, hunting for fallen trees and what pulled them down
-- The neighbourhood park
+- The neighborhood park
 - The duck pond, and the bridge over it
 - A green space with a ball, for anyone who has had enough of indoors
 
@@ -743,7 +743,7 @@ and the thirty she cut are the whole supply.
 - Soft play if the pool is shut for the holidays
 - The library, a day early
 - A warm café and a window, if nobody has the energy
-- The indoor play centre
+- The indoor play center
 
 > 👶 **Kreston's Afternoon:** He has swimming today too if he is coming. At 7
 > months he can sit supported in the water and splash with real intent. Keep it
@@ -779,10 +779,10 @@ and the thirty she cut are the whole supply.
 **Theme:** Shape Engineers & Building
 
 ### 🌙 Prep Tonight
-> Put the lolly sticks, the string and the masking tape on the table, and stand two dining chairs about two metres apart in the living room.
+> Put the craft sticks, the string and the masking tape on the table, and stand two dining chairs about two meters apart in the living room.
 
 ### ⏰ At-a-Glance Schedule
-- **8:00–9:00 AM** — 🌅 Opening Activity: Lolly Stick Shapes
+- **8:00–9:00 AM** — 🌅 Opening Activity: Craft stick Shapes
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Triangle Test (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
@@ -799,9 +799,9 @@ and the thirty she cut are the whole supply.
 - **5:00–5:45 PM** — 🛁 Wind-Down: The New Library Book
 - **6:00 PM** — **Dinner**
 
-### 🌅 Opening Activity: Lolly Stick Shapes
+### 🌅 Opening Activity: Craft stick Shapes
 
-**🧰 You need:** lolly sticks · masking tape cut into short tabs.
+**🧰 You need:** craft sticks · masking tape cut into short tabs.
 
 1. Tape four sticks into a square. Let her do the taping, however it comes out, with your thumb holding the corners.
 2. Tape three sticks into a triangle beside it.
@@ -810,7 +810,7 @@ and the thirty she cut are the whole supply.
 ### 🎨 The Main Event: The Triangle Test
 
 **🧰 Complete Materials List:**
-- 30–40 lolly sticks
+- 30–40 craft sticks
 - 1 roll masking tape
 - The square and triangle from this morning
 - Cardboard tubes, 4 or 5
@@ -848,7 +848,7 @@ She has spent the week building things that push down. A zip line pulls, the
 opposite force and a new idea for her.
 
 **🧰 Complete Materials List:**
-- 1 ball of string, 3 metres
+- 1 ball of string, 3 meters
 - 2 dining chairs, or a door handle and a chair
 - 1 paper cup
 - 1 cardboard tube cut into a short ring
@@ -899,7 +899,7 @@ opposite force and a new idea for her.
 
 > ⚠️ **Safety:** Take the zip line down and put the string away the second you
 > finish. String at toddler height is a strangulation risk, and a serious one.
-> Loose lolly sticks stay off the floor while Kreston is down. They splinter,
+> Loose craft sticks stay off the floor while Kreston is down. They splinter,
 > and they fit down his throat. He gets a taped structure too big for his mouth
 > and nothing looser than that, and it comes back to you the moment you stop
 > watching. The scissors stay with you.
@@ -913,7 +913,7 @@ opposite force and a new idea for her.
 **Theme:** Shape Engineers & Building
 
 ### 🌙 Prep Tonight
-> Get every blanket, sheet and spare pillow out of the cupboard and pile them on the sofa. Check the torch batteries.
+> Get every blanket, sheet and spare pillow out of the cupboard and pile them on the sofa. Check the flashlight batteries.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Choosing the Fort Spot
@@ -984,7 +984,7 @@ there, draws in there, and it stays up until bedtime.
 
 **🧰 Complete Materials List:**
 - The fort
-- 1 torch
+- 1 flashlight
 - A picnic blanket or towel for the floor
 - Snack and a drink in a lidded cup
 - 4–5 books
@@ -992,10 +992,10 @@ there, draws in there, and it stays up until bedtime.
 - Your phone, for the week's photos
 
 **📝 Step-by-Step Instructions:**
-1. Move in. Floor covering first, then the torch, then the books.
+1. Move in. Floor covering first, then the flashlight, then the books.
 2. Eat the afternoon snack inside. Food in a fort is most of the appeal.
 3. Turn the big light off and do shadow shapes on the roof (triangle, square, house).
-4. Read two books in there by torchlight, and let her hold the torch even though it will point at the ceiling the whole time.
+4. Read two books in there by torchlight, and let her hold the flashlight even though it will point at the ceiling the whole time.
 5. Look back through the week's photos together: the tower, the box house, the bridge with teddy on it, the brick wall. Ask which one she would build again.
 6. Let her draw the fort from the inside while she is inside it.
 7. Leave it standing overnight. Tomorrow you turn it into something else.
@@ -1005,7 +1005,7 @@ there, draws in there, and it stays up until bedtime.
 ### 🎯 Afternoon Alternatives
 - One sheet over the dining table. Four minutes, same result.
 - Read in the fort and skip everything else.
-- Torch and shadow puppets on the wall instead.
+- Flashlight and shadow puppets on the wall instead.
 - Take the fort down and rebuild it somewhere else entirely.
 
 ### 🌳 Out Again: **Pick one**

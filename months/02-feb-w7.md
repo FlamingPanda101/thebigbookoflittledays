@@ -70,7 +70,7 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Sticky tape
 - [ ] Parcel tape
 - [ ] A glue stick
-- [ ] String, 3 metres
+- [ ] String, 3 meters
 - [ ] A shoelace, or more string
 - [ ] One large bead
 - [ ] Ribbon, a scrap
@@ -89,10 +89,10 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] 1 banana
 - [ ] 2 satsumas and a soft pear
 - [ ] Dried pasta tubes, 200 g
-- [ ] Food colouring, 3 colours
+- [ ] Food coloring, 3 colors
 - [ ] White vinegar
 - [ ] Freezer bags, 3
-- [ ] Biscuits, for the forfeits
+- [ ] Cookies, for the forfeits
 - [ ] Plain flour, butter, sugar, currants and an egg for the Welsh cakes
 - [ ] Jam jars with tight lids, 2
 - [ ] A clean marble or a coin for the jar
@@ -104,9 +104,9 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] 4 plates and a chopping board
 - [ ] Blunt table knives, 4
 - [ ] Cutlery and a plate for everyone at Sunday dinner
-- [ ] Tea towels, 2
-- [ ] Napkins or kitchen roll
-- [ ] Two flannels you can get wet
+- [ ] Dish towels, 2
+- [ ] Napkins or paper towels
+- [ ] Two washcloths you can get wet
 - [ ] Kitchen scales, or a coat hanger and 2 yoghurt pots
 - [ ] A timer
 - [ ] A real coin to draw round, and change for the shop and the post office
@@ -140,7 +140,7 @@ else. The rest of the week runs on paper, flour and tape.
 
 > 👶 **Kreston is 8 months this week**. He crawls or shuffles after whatever he
 > wants, bangs two things together on purpose, and turns his face into your
-> shoulder when a stranger leans over the pram.
+> shoulder when a stranger leans over the stroller.
 
 ---
 
@@ -190,7 +190,7 @@ else. The rest of the week runs on paper, flour and tape.
 - 300ml warm water
 - 1 tbsp oil
 - 1 large mixing bowl
-- 1 tea towel
+- 1 dish towel
 - 2 baking trays and baking paper
 - Extra flour for the table
 - 2 paper bags
@@ -199,8 +199,8 @@ else. The rest of the week runs on paper, flour and tape.
 **📝 Step-by-Step Instructions:**
 1. Tip the dough onto the floured table and let her drive both fists into it until it goes back down to the size it started. This is the loud part and it lasts as long as she wants.
 2. Cut it into twelve pieces. She rolls each one under a flat palm into a ball. The lumpy ones bake the same as the round ones.
-3. Six to a lined tray, two fingers apart, tea towel over the top. Somewhere warm for forty minutes.
-4. While they prove she draws on the two paper bags. Say the neighbours' names out loud so she knows where each bag is going.
+3. Six to a lined tray, two fingers apart, dish towel over the top. Somewhere warm for forty minutes.
+4. While they prove she draws on the two paper bags. Say the neighbors' names out loud so she knows where each bag is going.
 5. Oven at 425°F. Bake fifteen minutes, until the tops are brown and the bottom of one sounds hollow when you knock it. Out around 10:25.
 6. Three warm rolls into each bag at snack time. She eats one of the other six while she loads them.
 
@@ -217,7 +217,7 @@ the walk afterwards.
 > 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
 > on purpose now, so give him a wooden spoon and an upturned plastic bowl on
 > the kitchen floor while the rolls prove. On the doorstep, hold him facing
-> you. Stranger wariness lands hard around eight months, and a neighbour
+> you. Stranger wariness lands hard around eight months, and a neighbor
 > leaning in gets a shoulder and a hidden face.
 
 <div style="page-break-after: always;"></div>
@@ -239,7 +239,7 @@ letterbox goes up by the front door this afternoon.
 **📝 Step-by-Step Instructions:**
 1. Cut the slot in the lid: a long rectangle wide enough for a folded sheet and her whole hand. Your job, with her holding the far end steady.
 2. Tape the lid on all the way round so the slot is the only way in.
-3. Cover the box in paper and hand her the crayons. Every side is hers. Ask what a post box needs written on it and write down her words.
+3. Cover the box in paper and hand her the crayons. Every side is hers. Ask what a mailbox needs written on it and write down her words.
 4. Hold it against the wall by the front door and let her say when the height is right. Tape or clip it there.
 5. First post: she draws one thing for each person in the house, folds them, posts them. Nobody looks.
 6. Say the rule out loud once: it stays shut until Thursday, and anything she makes for Thursday goes in it. Some things go straight to somebody's door the same day, and you say which.
@@ -255,13 +255,13 @@ letterbox goes up by the front door this afternoon.
 ### 🌳 Out Again: **Pick one**
 - **A café**, cake and a window to watch the street through
 - The corner shop for a book of stamps, and she hands the money over
-- Back to the neighbour's, if the door opened and the kettle went on
+- Back to the neighbor's, if the door opened and the kettle went on
 - The playground, if a morning at the table has left her wound up
 
 > 👶 **Kreston's Afternoon:** He is crawling now and the floor belongs to him,
 > so give him the offcut lid and a crumpled sheet of the covering paper, both
 > too big for his mouth. At the café keep him in the carrier facing you. At
-> eight months a stranger's face over the pram gets a reaction, and he settles
+> eight months a stranger's face over the stroller gets a reaction, and he settles
 > faster with yours in front of him.
 
 ### 🌍 Around the World: Wales and the Love Spoon 🥄
@@ -344,12 +344,12 @@ rhyme, and dots instead of a name.
 - 1 envelope, or a sheet folded and taped shut
 
 **📝 Step-by-Step Instructions:**
-1. Fold the good sheet the way she practised. She snips it, you keep your hands off it.
+1. Fold the good sheet the way she practiced. She snips it, you keep your hands off it.
 2. Open it out flat and look at it in the window before you write on it.
 3. Ask her what the letter should say and write her rhyme in the middle of the lace. If she stalls, offer her the shape and let her fill it: *I made this, I made this thread, guess my name and get the bread.* Take whatever she gives you.
 4. Count the letters in her name on your fingers. Five. She draws five dots along the bottom of the letter.
-5. Colour the lace if she wants it coloured. Fold it into the envelope and seal it.
-6. It goes on the walk to the neighbours who got the bread yesterday, with nobody's name on the front.
+5. Color the lace if she wants it colored. Fold it into the envelope and seal it.
+6. It goes on the walk to the neighbors who got the bread yesterday, with nobody's name on the front.
 
 > 💡 **Tip:** The dots are the whole game. Let her tell three people that the letter is secret.
 
@@ -362,9 +362,9 @@ the letter on the way past, then pick two snowdrops with permission, or a
 green sprig if the flowers are all on somebody's land.
 
 > 👶 **Infant Integration:** Kreston is 8 months. Give him a sheet of
-> greaseproof paper too big to go in his mouth and let him crush it with both
+> parchment paper too big to go in his mouth and let him crush it with both
 > hands, while the small snipped offcuts stay up on the table. Outside, crouch
-> the pram down to the snowdrops and hold one for him to swipe at.
+> the stroller down to the snowdrops and hold one for him to swipe at.
 
 <div style="page-break-after: always;"></div>
 
@@ -380,14 +380,14 @@ its owner has to find it.
 - Crayons
 - Sticky tape
 - The snowdrop or green sprig from the walk
-- One small forfeit: a biscuit or an extra bedtime story
+- One small forfeit: a cookie or an extra bedtime story
 
 **📝 Step-by-Step Instructions:**
 1. Fold and snip three letters. They come out faster now and better, which she will notice on her own.
 2. Five dots along the bottom of each one. She counts them out loud every time.
 3. Tape the snowdrop or the sprig inside one of them, the way the Danish letters carry one.
 4. Walk the house and pick the hiding places with her: inside a shoe, under a pillow, on a shelf in the fridge. Let her choose the daft ones.
-5. Set the terms before anybody hunts. Guess who sent it and Azlyn owes you a biscuit. Guess wrong and you owe her one.
+5. Set the terms before anybody hunts. Guess who sent it and Azlyn owes you a cookie. Guess wrong and you owe her one.
 6. Send each person to find theirs. She watches the whole thing and gives no clues, which will take everything she has.
 7. Guessing happens at dinner. Pay the forfeits then, out loud, whoever won.
 
@@ -440,7 +440,7 @@ its owner has to find it.
 **Theme:** Love & Friendship
 
 ### 🌙 Prep Tonight
-> Flatten two cereal boxes, cut eight rectangles and fold them into cards, and put out the junk mail, the glue stick and a wet flannel.
+> Flatten two cereal boxes, cut eight rectangles and fold them into cards, and put out the junk mail, the glue stick and a wet washcloth.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Hearts Torn by Hand
@@ -477,7 +477,7 @@ its owner has to find it.
 - Crayons
 - 1 marker for the words she dictates
 - Old magazines or junk mail to tear up
-- 1 wet flannel
+- 1 wet washcloth
 
 **📝 Step-by-Step Instructions:**
 1. Line the eight blank cards up and ask her who each one is for. Write the name on the back of each one.
@@ -492,7 +492,7 @@ its owner has to find it.
 ### 🌳 Get Outside: The Hunt for Red Things
 
 Cold and bright, and everything outdoors in February is brown, so red carries
-a long way. Count what you find: a post box, a front door, holly berries and
+a long way. Count what you find: a mailbox, a front door, holly berries and
 rose hips on the stems, brake lights, somebody's scarf, a red car. On the way
 home she picks the reddest thing on the street and tells you why.
 
@@ -500,7 +500,7 @@ home she picks the reddest thing on the street and tells you why.
 > hand while looking at a third. Give him a red scarf and a red plastic lid on
 > the floor near the gluing and he will bang one on the other. Keep the torn
 > scraps up on the table. Outside, hold a red leaf or a berry stem where he
-> can see it in the pram.
+> can see it in the stroller.
 
 <div style="page-break-after: always;"></div>
 
@@ -510,11 +510,11 @@ She dresses the table before anybody eats at it. Everything on it is hers to
 place, including who sits where.
 
 **🧰 Complete Materials List:**
-- 3 metres of string
+- 3 meters of string
 - Clothes pegs or masking tape
 - The leftover torn hearts, plus more paper
 - 1 marker
-- Napkins or kitchen roll
+- Napkins or paper towels
 - 1 jam jar and whatever is growing outside
 - Cutlery and plates for everyone
 - 1 candle in a stable holder, or a battery tealight
@@ -536,7 +536,7 @@ place, including who sits where.
 - Set the table for the teddies on the floor instead.
 
 ### 🌳 Out Again: **Pick one**
-- **A long walk with the pram**, the whole loop, and hand out the other four cards on the way
+- **A long walk with the stroller**, the whole loop, and hand out the other four cards on the way
 - The duck pond, if the far path is not too churned up
 - A drive to somebody's house to deliver a card at the door
 - The woods loop, for greenery for the jam jar
@@ -574,7 +574,7 @@ place, including who sits where.
 **Theme:** Love & Friendship
 
 ### 🌙 Prep Tonight
-> Dye the pasta: 200g of tubes split between three freezer bags, a tablespoon of vinegar and a squeeze of food colouring in each, shake, then spread on a lined tray to dry overnight.
+> Dye the pasta: 200g of tubes split between three freezer bags, a tablespoon of vinegar and a squeeze of food coloring in each, shake, then spread on a lined tray to dry overnight.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Marking Where It Ends
@@ -606,15 +606,15 @@ place, including who sits where.
 
 **🧰 Complete Materials List:**
 - Dried pasta tubes, 200g, dyed the night before
-- Food colouring, 3 colours
-- 1 tbsp vinegar and a freezer bag per colour (night before)
+- Food coloring, 3 colors
+- 1 tbsp vinegar and a freezer bag per color (night before)
 - 1 shoelace, or string with one end wrapped tight in sticky tape
 - 1 large bead or a fat knot as the finish marker
 - 3 small bowls
 - 1 tray lined with baking paper
 
 **📝 Step-by-Step Instructions:**
-1. Tip the dry pasta into three bowls by colour and put the tray under her work so the runaways stay on the table.
+1. Tip the dry pasta into three bowls by color and put the tray under her work so the runaways stay on the table.
 2. Show her once: lace through the hole, out the other side, down to the knot. Then hand it over and stop demonstrating.
 3. She threads. Say nothing about pattern for the first ten pieces. If she starts a repeat, name it out loud and leave it there.
 4. Every few minutes, hold the lace up and show her the gap between the pasta and the knot.
@@ -651,14 +651,14 @@ to be a job.
 - 1 large cushion
 - 1 broom and a dustpan
 - 1 washing-up bowl with two inches of water and 2 cups
-- 1 tea towel
+- 1 dish towel
 
 **📝 Step-by-Step Instructions:**
 1. The basket ride first. She sits in the laundry basket with the cushion and you tow it the length of the hall. Then she tows the teddies back.
 2. The sheet. One corner each, walk it across the room without letting it touch the floor, then fold it walking toward each other.
 3. The book relay. Six books from one room to another with a rule: she carries, you open doors, neither of you does both.
 4. Sweeping. You hold the dustpan, she brushes into it, then swap and let her tell you what you missed.
-5. Washing up in the bowl on the floor with two cups. She washes, you dry, then swap. Water gets everywhere and the tea towel is for the floor.
+5. Washing up in the bowl on the floor with two cups. She washes, you dry, then swap. Water gets everywhere and the dish towel is for the floor.
 6. Ask which job was easier with two people.
 7. Finish with the basket again. Eighty minutes of work earns a ride.
 
@@ -671,7 +671,7 @@ to be a job.
 
 ### 🌳 Out Again: **Pick one**
 - **The duck pond**, busier than usual with everybody off for Presidents' Day
-- The neighbourhood park, on the way back from the pond
+- The neighborhood park, on the way back from the pond
 - The green space with a ball, if the ground is not frozen solid
 - A walk past this morning's puddle to see whether the ice came back
 
@@ -729,9 +729,9 @@ to be a job.
 
 ### 🌅 Opening Activity: Washing What Goes on the Plates
 
-**🧰 You need:** the cucumber, lettuce and satsumas · 1 bowl of cool water · 1 tea towel.
+**🧰 You need:** the cucumber, lettuce and satsumas · 1 bowl of cool water · 1 dish towel.
 
-1. Bowl of water on the table, everything that needs washing beside it, tea towel across her lap.
+1. Bowl of water on the table, everything that needs washing beside it, dish towel across her lap.
 2. She washes and dries each item and lines them up. Name each one as it comes out of the water.
 3. Ask who is eating lunch today and count the names on her fingers. That number is how many plates she builds at 9:15.
 
@@ -747,7 +747,7 @@ to be a job.
 - 1 lettuce or a bag of salad
 - 4 blunt table knives
 - 4 plates and 1 chopping board
-- 1 bowl of warm soapy water and a tea towel
+- 1 bowl of warm soapy water and a dish towel
 
 **📝 Step-by-Step Instructions:**
 1. Butter first. Blunt knife, bread flat on the board, and let her go until the whole slice is covered even if it takes four minutes.
@@ -763,7 +763,7 @@ to be a job.
 
 One thing lunch needs is not in the fridge. Walk to the shop for it, no list
 and no trolley. She carries the coins, finds it on the shelf, hands it over
-and takes the change. February pavements are wet and a ten-minute walk will
+and takes the change. February sidewalks are wet and a ten-minute walk will
 take thirty, so leave early.
 
 > 👶 **Infant Integration:** Kreston is 8 months and eats lunch at the same
@@ -795,7 +795,7 @@ Ten minutes of shaking and the cream in the jar turns solid.
 4. Listen for the change. The sloshing stops, the jar goes heavy and quiet, and a lump comes loose in a pool of thin liquid. Open it and look.
 5. Tip it into the sieve over the bowl. The lump is butter, the milk running through is buttermilk, and she keeps it for pancakes tomorrow.
 6. Rinse the butter under cold water, press it with the back of a spoon until the water runs clear, then work in the salt.
-7. Half into a pot with a lid, labelled, by the door to give away. The other half goes on bread now, warm.
+7. Half into a pot with a lid, labeled, by the door to give away. The other half goes on bread now, warm.
 
 > 💡 **Tip:** Check the lid every couple of minutes, out loud, so she sees you check.
 
@@ -807,7 +807,7 @@ Ten minutes of shaking and the cream in the jar turns solid.
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one
 - The pool's quiet session, if Tuesday afternoon is chaos this term
-- A warm bath at home with cups and jugs, if the pool is shut
+- A warm bath at home with cups and pitchers, if the pool is shut
 - The library on the way home, half an hour before it shuts
 
 > 👶 **Kreston's Afternoon:** He sits in the water against your chest, slaps
@@ -868,7 +868,7 @@ Ten minutes of shaking and the cream in the jar turns solid.
 **🧰 You need:** paper · 1 real coin · 1 marker · 1 sheet of card · scissors (yours).
 
 1. She draws round the real coin twenty times and you cut the circles out. Coins done.
-2. Hand her the sheet of card and ask what the sign over the counter should say. Write her words, big, and let her colour every letter in.
+2. Hand her the sheet of card and ask what the sign over the counter should say. Write her words, big, and let her color every letter in.
 3. Tape the sign to the wall behind the kitchen table. The table is now a post office and it stays one until bedtime.
 
 ### 🎨 The Main Event: The Post Office on the Table
@@ -883,7 +883,7 @@ Ten minutes of shaking and the cream in the jar turns solid.
 - Masking tape
 
 **📝 Step-by-Step Instructions:**
-1. Set the counter: scales at one end, stamps and coins in the shoebox till, parcels in a heap on the customer's side. She stands behind, you queue in front.
+1. Set the counter: scales at one end, stamps and coins in the shoebox till, parcels in a heap on the customer's side. She stands behind, you line in front.
 2. Weigh the first parcel together and read the scales out loud. Turn whatever they say into a price between one and five and write it on the parcel in marker. With the coat hanger, count how many paper coins it takes to tip the pot and use that number.
 3. The rule of the shop: the number on the parcel is how many stamps it needs and how many coins it costs. Say it once, then play it.
 4. Buy a parcel. She counts the stamps out one at a time onto the paper and sticks them down, then counts your coins into the till.
@@ -1012,10 +1012,10 @@ Welsh love spoons carry symbols instead of words.
 - 1 plain wooden spoon (or a spoon shape cut from a cereal box)
 - Permanent markers, or washable poster paint and a fine brush
 - 1 scrap of ribbon or string
-- 1 sheet of paper for practising the four symbols
+- 1 sheet of paper for practicing the four symbols
 - 1 pencil
 - Masking tape for the name label
-- 1 wet flannel
+- 1 wet washcloth
 
 **📝 Step-by-Step Instructions:**
 1. Draw the four symbols on the practice paper and say what each means: heart for love, key for a home, knot for staying together, beads for the people in a family.
@@ -1031,12 +1031,12 @@ Welsh love spoons carry symbols instead of words.
 
 The parcel by the door goes to a real post office this morning. She carries it
 in, hands it up to the counter, watches it go on the scales and hears the
-price. Buying the stamp is her job with your money. A grey February queue is a
+price. Buying the stamp is her job with your money. A gray February line is a
 long wait at three, so bring the practice paper and let her draw hearts in the
 line.
 
 > 👶 **Infant Integration:** Kreston is 8 months and works out who is safe by
-> checking your face first. In the post office queue he will look at each
+> checking your face first. In the post office line he will look at each
 > stranger, then back at you, then decide. Say the person's name out loud when
 > somebody speaks to him and hold him where he can see your expression.
 
@@ -1063,7 +1063,7 @@ Six days of post comes out on the floor at once.
 6. Coats on and walk the round: next door, the house with the dog, the friend two streets over, whoever is on her list. She knocks and hands it over herself.
 7. Anything undelivered comes home in the basket for tomorrow. No adult posts anything on her behalf tonight.
 
-> 💡 **Tip:** Stand back on the doorstep. Let her be the one who talks, even when the neighbour looks at you for translation.
+> 💡 **Tip:** Stand back on the doorstep. Let her be the one who talks, even when the neighbor looks at you for translation.
 
 ### 🎯 Afternoon Alternatives
 - Sort the piles and deliver two of them, not eight.
@@ -1101,6 +1101,6 @@ Six days of post comes out on the floor at once.
 > in the sorting pile and swap the paper for a cloth book the moment he starts
 > tearing. Permanent markers stay capped and out of reach between symbols, and
 > the spoon dries somewhere high. On the round she does the knocking and you
-> stand within arm's reach of the kerb.
+> stand within arm's reach of the curb.
 
 <div style="page-break-after: always;"></div>

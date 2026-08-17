@@ -8,7 +8,7 @@
 ### 🎯 What This Week Is About
 
 Azlyn starts Friday with three pots of paint and no green in the house. She
-mixes six colours before ten, names them herself, and her names run through
+mixes six colors before ten, names them herself, and her names run through
 the rest of the week. Saturday she tears and cuts a garden out of the junk
 mail. Sunday everyone in the house sits for a portrait and then gets built
 again in salt dough. Monday goes under the dining table, where she papers a
@@ -20,15 +20,15 @@ Thursday gathers all of it. She hangs the week on a wall at her own eye
 level, writes the labels, cuts the tickets, and Joseph comes home at six
 having seen none of it. No holiday lands in these seven days, so the shape
 comes from the making and from what each day hands to the next one. February
-does the rest. The street is grey enough that a red door counts as a find,
+does the rest. The street is gray enough that a red door counts as a find,
 green is coming back into the borders while she is out looking for it, and
-the ground is soft enough to dig a colour out of on Monday.
+the ground is soft enough to dig a color out of on Monday.
 
 ---
 
 ### 🧒 What Azlyn Will Learn
 
-- **Colour mixing, done with her own hands.** Three pots go on the table and six colours come off it, each one stirred and named by her.
+- **Color mixing, done with her own hands.** Three pots go on the table and six colors come off it, each one stirred and named by her.
 - **Scissors.** Thumb up through the top hole, two fingers below, and enough paper to waste while her wrist works the rest out.
 - **Sorting by one rule.** Red through the red slot, yellow through the yellow, and a reasoned argument for the awkward ones.
 - **Threading and weaving.** Over, under, over on a card loom, then pasta onto string, both hands meeting in front of her.
@@ -62,7 +62,7 @@ the ground is soft enough to dig a colour out of on Monday.
 - [ ] A cereal box or stiff card, for the loom
 - [ ] Thick card, 10 sheets, for portraits, labels and tickets
 - [ ] Junk mail, catalogues and magazines (start saving now)
-- [ ] Coloured paper, if you have it
+- [ ] Colored paper, if you have it
 - [ ] A large sheet for the garden: the back of wrapping paper or a flattened box
 - [ ] Masking tape, 3 rolls
 - [ ] A glue stick
@@ -78,7 +78,7 @@ the ground is soft enough to dig a colour out of on Monday.
 - [ ] Jam jars for paint water, 2
 - [ ] A white plate or a white tile, for mixing
 - [ ] An egg box or ice cube tray, and a second clean egg box for Kreston
-- [ ] Kitchen roll
+- [ ] Paper towels
 - [ ] Newspaper, a stack
 - [ ] Sponges, 2: one to cut in half, one clean for wetting paper
 - [ ] A baking tray
@@ -96,15 +96,15 @@ the ground is soft enough to dig a colour out of on Monday.
 - [ ] Dried pasta shapes, lentils and dried beans, for the faces
 - [ ] Buttons, if you have a tin of them
 - [ ] Wool or string, 1 ball
-- [ ] Food colouring
+- [ ] Food coloring
 - [ ] White vinegar
-- [ ] Freezer bags, one per pasta colour and one for Kreston's dough
+- [ ] Freezer bags, one per pasta color and one for Kreston's dough
 - [ ] Drinking straws, 2
 - [ ] Clothes pegs, 10
 - [ ] A trowel and a bag, for collecting
 - [ ] Old plastic tubs, 2–3
 - [ ] A sieve or a tea strainer
-- [ ] A jug
+- [ ] A pitcher
 - [ ] A smooth stone, or a metal spoon for grinding
 - [ ] A sheet of sandpaper
 - [ ] Kitchen foil and a scrap of fleece, for Kreston's texture board
@@ -113,12 +113,12 @@ the ground is soft enough to dig a colour out of on Monday.
 - [ ] Envelopes, 4
 - [ ] Stamps, 2
 - [ ] A shopping bag, to carry the letters home flat
-- [ ] Biscuits and glasses, for the gallery
+- [ ] Cookies and glasses, for the gallery
 - [ ] An old shirt of Joseph's, and an old T-shirt she can ruin
 - [ ] Carrier bags and a second old T-shirt, to cut into weaving strips
 - [ ] An empty wipes box and a muslin, for Kreston
 - [ ] A hand mirror
-- [ ] A torch with fresh batteries
+- [ ] A flashlight with fresh batteries
 - [ ] A towel for the sink, and old clothes for the mud
 
 ---
@@ -129,7 +129,7 @@ the ground is soft enough to dig a colour out of on Monday.
 >
 > Brooklyn, on Thursday I walk in at six to a wall of paper and get asked
 > which one I like best. She will have already guessed my answer and sealed
-> it under a plate of biscuits. Tell me nothing before I get there. I want to
+> it under a plate of cookies. Tell me nothing before I get there. I want to
 > see it cold, in her order, with her titles read out at me, and I would
 > rather be wrong about the picture than have the moment rehearsed.
 >
@@ -153,28 +153,28 @@ the ground is soft enough to dig a colour out of on Monday.
 
 <a id="day-50"></a>
 
-## 🌟 Day 50: Three Paints, Six Colours 🌟
+## 🌟 Day 50: Three Paints, Six Colors 🌟
 **📅 Friday, February 19, 2027**
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Put the red, yellow and blue paint on the table with a white plate, an egg box and Joseph's old shirt, and hide every other colour you own.
+> Put the red, yellow and blue paint on the table with a white plate, an egg box and Joseph's old shirt, and hide every other color you own.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Only Three Paints
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: Making Green (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: The Grey Street Colour Hunt (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Gray Street Color Hunt (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
-- **1:00–2:30 PM** — 🎨 Second Main Event: Where the Colours Run (90 min)
+- **1:00–2:30 PM** — 🎨 Second Main Event: Where the Colors Run (90 min)
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
-- **4:15–5:00 PM** — Quiet Play: Sorting the Crayons by Colour
+- **4:15–5:00 PM** — Quiet Play: Sorting the Crayons by Color
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath and Three Books
 - **6:00 PM** — **Dinner**
 
@@ -191,27 +191,27 @@ the ground is soft enough to dig a colour out of on Monday.
 **🧰 Complete Materials List:**
 - Washable poster paint in red, yellow and blue
 - 1 white plate or a white tile as the mixing palette
-- 1 egg box or ice cube tray for holding the new colours
+- 1 egg box or ice cube tray for holding the new colors
 - 2 brushes, one thin one wide
 - 1 jam jar of water
 - Thick paper, 8–10 sheets
-- Kitchen roll
+- Paper towels
 - 1 teaspoon
 - An old shirt of Joseph's as an apron
 
 **📝 Step-by-Step Instructions:**
-1. Shirt on, water filled, kitchen roll within reach. The white plate is the only surface that matters, because colour lies to you on brown card.
+1. Shirt on, water filled, paper towels within reach. The white plate is the only surface that matters, because color lies to you on brown card.
 2. Start with her guess from this morning. Two teaspoons of yellow on the plate, then blue a quarter-spoon at a time, stirred in with the thin brush until she calls it green.
 3. Scrape it into a cup of the egg box. She owns green now.
-4. Do red and yellow next, then red and blue. Each new colour gets its own cup and its own stir.
+4. Do red and yellow next, then red and blue. Each new color gets its own cup and its own stir.
 5. Let her name every one out loud. Take *mud*, *sunset* and *dark* over anything off a paint chart, and use her names all day.
-6. Hand her the paper and all six colours and leave her to paint.
+6. Hand her the paper and all six colors and leave her to paint.
 
-> 💡 **Tip:** Add the dark colour into the light one a spoonful at a time. Yellow tipped into blue gives you a jar of blue and a bad mood. Blue tipped into yellow gives you every green there is.
+> 💡 **Tip:** Add the dark color into the light one a spoonful at a time. Yellow tipped into blue gives you a jar of blue and a bad mood. Blue tipped into yellow gives you every green there is.
 
-### 🌳 Get Outside: The Grey Street Colour Hunt
+### 🌳 Get Outside: The Gray Street Color Hunt
 
-February has bled the colour out of the street, so go and hunt for what is
+February has bled the color out of the street, so go and hunt for what is
 left. A red front door, a green wheelie bin, moss on a north-facing wall,
 somebody's crocuses up early in a front garden, the yellow line on the road.
 Count them out loud as she finds them. Ask which of the six she made this
@@ -221,46 +221,46 @@ morning comes closest to each.
 > to hear what they do. Give him a clean egg box and a wooden spoon on the
 > floor at the far end of the room while the wet paint stays up on the table.
 > On the walk, wear him facing out. Stranger wariness has arrived this month,
-> so keep him on you rather than in the pram if anyone stops to talk.
+> so keep him on you rather than in the stroller if anyone stops to talk.
 
 <div style="page-break-after: always;"></div>
 
-### 🎨 Second Main Event: Where the Colours Run
+### 🎨 Second Main Event: Where the Colors Run
 
 Water carries paint further than a brush does. Wet the paper first and the
-colours travel on their own.
+colors travel on their own.
 
 **🧰 Complete Materials List:**
 - Thick paper, 6 sheets
-- The mixed colours from this morning, thinned with water
+- The mixed colors from this morning, thinned with water
 - 1 wide soft brush
 - 1 clean sponge for wetting the paper
 - 1 baking tray or the draining board to work in
-- Kitchen roll
+- Paper towels
 - 1 jam jar of water
 
 **📝 Step-by-Step Instructions:**
 1. Set the tray on the table and lay one sheet inside it. Everything from here runs off the edges.
-2. Thin the morning's colours with water until they drip off the brush in a stream instead of a blob.
-3. Wet the whole sheet with the sponge until it shines, then mop the standing water off with kitchen roll.
-4. Show her one drop. Loaded brush held above the paper, one touch, and the colour opens out across the wet like ink.
-5. Now a second colour beside the first, close enough that the two edges meet. Green arrives where blue meets yellow.
+2. Thin the morning's colors with water until they drip off the brush in a stream instead of a blob.
+3. Wet the whole sheet with the sponge until it shines, then mop the standing water off with paper towels.
+4. Show her one drop. Loaded brush held above the paper, one touch, and the color opens out across the wet like ink.
+5. Now a second color beside the first, close enough that the two edges meet. Green arrives where blue meets yellow.
 6. Do a dry sheet for comparison. Same paint, hard edges, no travel. Let her say which she prefers.
 7. Leave them flat where they are. Wet paper tears the moment you lift it, so nothing moves until dinner.
 
 > 💡 **Tip:** She will keep going until every sheet is brown, because brown is where these end. Take the brush after five or six drops and call it finished.
 
 ### 🎯 Afternoon Alternatives
-- Three jars of water, food colouring and one pipette.
+- Three jars of water, food coloring and one pipette.
 - Sweet wrappers and cellophane held over each other at the window.
-- Ice cubes of coloured water melting on a white plate.
+- Ice cubes of colored water melting on a white plate.
 
 ### 🌳 Out Again: **Pick one**
-- **Playgroup**, and take one of the morning's mixed-colour paintings to give away
+- **Playgroup**, and take one of the morning's mixed-color paintings to give away
 - The park, for a run before the light goes
 - A friend's kitchen, if anyone will have two children and a bag of paint
-- The garden centre, for the seed packet pictures and the warm greenhouse
-- Round the block with the pram and no destination
+- The garden center, for the seed packet pictures and the warm greenhouse
+- Round the block with the stroller and no destination
 
 > 👶 **Kreston's Afternoon:** At 8 months he settles into a room once he has
 > checked it from your lap, so keep him facing you for the first ten minutes at
@@ -270,12 +270,12 @@ colours travel on their own.
 ### 🌍 Around the World: Mexico and the *Alebrijes* 🐉
 
 In Oaxaca and Mexico City, carvers make **alebrijes**: animals with the head of
-one creature, the wings of another and the tail of a third, painted in colours
+one creature, the wings of another and the tail of a third, painted in colors
 that fight each other on purpose. Pedro Linares dreamed them while he was ill
 in the 1930s and carved what he had seen. Whole families carve and paint them
 together now, and no two come out the same.
 
-> **✨ Try it:** Mexican *conchas* are sweet buns with a coloured sugar shell
+> **✨ Try it:** Mexican *conchas* are sweet buns with a colored sugar shell
 > scored into a pattern on top. Buy a couple, or ice a plain bun and let Azlyn
 > scratch a pattern in with a fork before it sets.
 
@@ -288,16 +288,16 @@ together now, and no two come out the same.
 > **Discovery beats demonstration.**
 > You could have told her at 8:05 that blue and yellow make green. She would
 > have believed you and lost it by Thursday. She stirred it herself, so what
-> she holds is a rule she can run again on the next two colours. Researchers
+> she holds is a rule she can run again on the next two colors. Researchers
 > comparing direct instruction with guided discovery find the taught version
 > wins on speed and the discovered version wins on transfer, which means the
-> child uses it somewhere new. Your work was the setup. Three colours and no
+> child uses it somewhere new. Your work was the setup. Three colors and no
 > green in the house is a question she cannot walk away from, and the answer
 > costs her a teaspoon and two minutes of stirring.
 
 > ⚠️ **Safety:** Wet paint pots at floor level with an 8-month-old who crawls
 > and mouths everything. Washable non-toxic paint only, lids back on between
-> colours, and empty the paint water down the sink the moment she finishes.
+> colors, and empty the paint water down the sink the moment she finishes.
 > Never leave a full jar within his reach.
 
 <div style="page-break-after: always;"></div>
@@ -321,7 +321,7 @@ together now, and no two come out the same.
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
-- **1:00–2:30 PM** — 🎨 Second Main Event: The Colour Post Box (90 min)
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Color Mailbox (90 min)
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Cups
@@ -334,14 +334,14 @@ together now, and no two come out the same.
 **🧰 You need:** the pile of junk mail · 1 large sheet or a flattened box · masking tape.
 
 1. Sit down in the pile with her and pull pages out. Hands only, no scissors yet.
-2. Ask her to find you green pages, then red ones, then yellow. Tear those into one heap per colour.
+2. Ask her to find you green pages, then red ones, then yellow. Tear those into one heap per color.
 3. Tape the big sheet flat to the table so it stops sliding about. It sits there in front of her until 9:15.
 
 ### 🎨 The Main Event: The Cut-Out Garden
 
 **🧰 Complete Materials List:**
 - Junk mail, catalogues and magazines
-- Coloured paper if you have it
+- Colored paper if you have it
 - 1 pair of child-safe scissors
 - 1 pair of adult scissors (adult only, kept high)
 - Glue stick, or flour-and-water paste in a saucer
@@ -350,13 +350,13 @@ together now, and no two come out the same.
 
 **📝 Step-by-Step Instructions:**
 1. Show her the hold once. Thumb up through the top hole, two fingers below, paper gripped in the other hand. Then stop talking about it.
-2. No pencil lines and nothing to follow. She cuts into the coloured heaps and finds out what comes off.
+2. No pencil lines and nothing to follow. She cuts into the colored heaps and finds out what comes off.
 3. Name each piece as it lands. A long thin one is a leaf, a round one is a flower head, a raggedy one is a bush. Her names win.
 4. Once she has thirty or so pieces, put the big sheet in front of her and let her lay the garden out before any glue comes near it.
 5. Glue from the bottom up: stems first, then leaves, then flower heads on top so they overlap.
 6. Write what she calls each plant along the bottom edge in marker and read the row back to her.
 
-> 💡 **Tip:** Her cuts will be two centimetres long and jagged for months yet. Give her paper thin enough to cut and plenty to waste, and the wrist sorts itself out.
+> 💡 **Tip:** Her cuts will be two centimeters long and jagged for months yet. Give her paper thin enough to cut and plenty to waste, and the wrist sorts itself out.
 
 ### 🌳 Get Outside: Looking for the First Green
 
@@ -372,7 +372,7 @@ and glue into the garden.
 
 <div style="page-break-after: always;"></div>
 
-### 🎨 Second Main Event: The Colour Post Box
+### 🎨 Second Main Event: The Color Mailbox
 
 Every scrap she cut this morning is still on the floor. A shoebox with three
 slots in the lid turns the clearing up into the afternoon.
@@ -381,7 +381,7 @@ slots in the lid turns the clearing up into the afternoon.
 - 1 shoebox with a lid
 - 1 craft knife or heavy scissors (adult only)
 - The paper offcuts from this morning
-- 3 scraps of coloured paper to label the slots
+- 3 scraps of colored paper to label the slots
 - Masking tape
 - 1 permanent marker
 - 1 larger box with one wide slot, for Kreston
@@ -399,18 +399,18 @@ slots in the lid turns the clearing up into the afternoon.
 
 ### 🎯 Afternoon Alternatives
 - Post plastic lids from the recycling into a tin with a slot cut in it.
-- Sort the crayon tin by colour into an ice cube tray.
+- Sort the crayon tin by color into an ice cube tray.
 - Cut one page of the garden and stop there.
 - Feed scraps into a paper bag and shake it like a rattle.
 
 ### 🌳 Out Again: **Pick one**
-- **The pet shop and the garden centre**, for the fish tank and the warm glasshouse
+- **The pet shop and the garden center**, for the fish tank and the warm glasshouse
 - The park, if the wind has dropped
-- A charity shop for a bag of coloured paper and a look at the toy shelf
+- A charity shop for a bag of colored paper and a look at the toy shelf
 - A drive with the good radio station on
 - The corner shop, and she carries one thing home
 
-> 👶 **Kreston's Afternoon:** He comes to the garden centre in the carrier
+> 👶 **Kreston's Afternoon:** He comes to the garden center in the carrier
 > facing out. Fish tanks hold an 8-month-old longer than anything else in the
 > building, so park in front of one and let him watch. Back home he gets the
 > big box and the fat offcuts.
@@ -425,7 +425,7 @@ slots in the lid turns the clearing up into the afternoon.
 > is working out that a thing still exists after it goes out of sight, that her
 > hand can aim at a target, and that a shape either fits or it does not.
 > Three-year-olds come back to the game when the sorting gets harder, which is
-> why three coloured slots hold her today far longer than a plain box would
+> why three colored slots hold her today far longer than a plain box would
 > have last winter.
 
 > ⚠️ **Safety:** Scissors, and small paper scraps on the floor with a crawling
@@ -495,7 +495,7 @@ slots in the lid turns the clearing up into the afternoon.
 Faces are hiding all over the street once she is looking. Two upstairs windows
 and a front door make a face on a house, and a car has eyes and a mouth from
 the front. Knots in a fence panel, a drain cover, the two bolts and a slot on a
-postbox. Photograph the good ones and look back through them in the bath
+mailbox. Photograph the good ones and look back through them in the bath
 tonight.
 
 > 👶 **Infant Integration:** Kreston is 8 months, and faces are most of what he
@@ -538,7 +538,7 @@ changed thirty times.
 
 ### 🌳 Out Again: **Pick one**
 - **Feeding the ducks**, with yesterday's crusts and a look at how many are paired up now
-- A long loop with the pram and no destination
+- A long loop with the stroller and no destination
 - The playground, for twenty minutes of climbing
 - The riverside path, to see how high the water is after the wet week
 - A drive to somewhere with a view and stay in the warm car
@@ -555,7 +555,7 @@ changed thirty times.
 > Azlyn will tell you she loves you, and then that she loves the yellow crayon,
 > in the same voice. She is working with the word she has. A three-year-old
 > sorts feeling into a few big bins before she gets the
-> small ones, so *love* stretches across everything from you to a biscuit, and
+> small ones, so *love* stretches across everything from you to a cookie, and
 > the finer words (like, miss, prefer, want) arrive across the next two years.
 > Drawing everyone in the house and naming each face is her drawing the circle.
 > Keep handing her sharper words inside your own sentences, as in *you missed
@@ -575,14 +575,14 @@ changed thirty times.
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Flatten two big boxes or dig out the brown parcel paper, stand it by the dining table with the masking tape, and check the torch batteries.
+> Flatten two big boxes or dig out the brown parcel paper, stand it by the dining table with the masking tape, and check the flashlight batteries.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Papering the Cave
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: Painting on the Cave Wall (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: Digging for Colour (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Digging for Color (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -591,24 +591,24 @@ changed thirty times.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Bread
-- **4:15–5:00 PM** — Quiet Play: The Torch Under the Table
+- **4:15–5:00 PM** — Quiet Play: The Flashlight Under the Table
 - **5:00–5:45 PM** — 🛁 Wind-Down: The Long Warm Bath
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: Papering the Cave
 
-**🧰 You need:** brown parcel paper or flattened boxes · masking tape · 1 torch.
+**🧰 You need:** brown parcel paper or flattened boxes · masking tape · 1 flashlight.
 
 1. Clear everything out from under the dining table and get down there with her.
 2. Tape paper to the underside of the table top and down the inside of the legs. You do the high bits, she does the low ones, and the wonky ones stay wonky.
-3. Turn the big light off and hand her the torch. Let her look at the blank walls for a minute.
+3. Turn the big light off and hand her the flashlight. Let her look at the blank walls for a minute.
 
 ### 🎨 The Main Event: Painting on the Cave Wall
 
 **🧰 Complete Materials List:**
 - Brown parcel paper or flattened cardboard boxes
 - Masking tape
-- 1 torch with fresh batteries
+- 1 flashlight with fresh batteries
 - Cocoa powder, 3 tablespoons
 - Paprika or turmeric, 2 tablespoons (substitute: mud from the garden, or black paint on its own)
 - Black washable poster paint
@@ -623,20 +623,20 @@ changed thirty times.
 3. Now the hand. Press her palm flat on the paper, hold it there, and dab paint around the edge. Lift straight up and the shape of her hand stays behind.
 4. Newspaper down. Load the old toothbrush with spice paint and show her how to drag a thumb back across the bristles, spattering dots up the wall.
 5. Do one handprint of yours beside hers, and Kreston's on a loose sheet if he will hold still.
-6. Lights off, torch on, and look at the whole wall by torchlight. Ask her what happened in this cave and listen without adding to it.
+6. Lights off, flashlight on, and look at the whole wall by torchlight. Ask her what happened in this cave and listen without adding to it.
 
 > 💡 **Tip:** The toothbrush throws spice paint further than you think. Lay the newspaper wider than seems necessary.
 
-### 🌳 Get Outside: Digging for Colour
+### 🌳 Get Outside: Digging for Color
 
 Take a trowel and a bag and go looking for ground that makes a mark. February
 ground is wet all the way through, so it gives under the blade. Look for
 red-brown clay a spade down, pale chalky stone and charcoal from a cold fire
-site. Rub each find on a paving slab, and whatever leaves a colour comes home
+site. Rub each find on a paving slab, and whatever leaves a color comes home
 in the bag.
 
 > 👶 **Infant Integration:** Kreston is 8 months and he will crawl straight
-> under the table after her. Give him the torch beam to chase across the paper
+> under the table after her. Give him the flashlight beam to chase across the paper
 > while the bowls stay up above. A moving light outranks everything else for his
 > attention this month.
 
@@ -652,7 +652,7 @@ yet.
 - 2–3 old plastic tubs
 - 1 smooth stone or the back of a metal spoon for grinding
 - 1 sieve or a tea strainer
-- Water in a jug
+- Water in a pitcher
 - 2 tablespoons plain flour as a binder
 - Sticks and 1 old brush
 - Big paper or another flattened box
@@ -663,7 +663,7 @@ yet.
 2. One tub per material. She breaks each lump down with the back of the spoon, and it takes real effort.
 3. Sieve the powder into a clean tub. The fine dust is paint, and the grit left in the sieve goes in the bin.
 4. Add water a spoonful at a time until it pours like cream, then a spoonful of flour so it grips the paper.
-5. Test each tub with a stick on the box. Some give a strong colour, some a smear of wet dirt, and she sorts them into two piles.
+5. Test each tub with a stick on the box. Some give a strong color, some a smear of wet dirt, and she sorts them into two piles.
 6. Line the good ones up and let her paint the big sheet with sticks and the old brush.
 7. Wash up in order: hands, then arms, then tubs. Tip the muddy water outside rather than down the sink.
 
@@ -676,7 +676,7 @@ yet.
 
 ### 🌳 Out Again: **Pick one**
 - **The hill walk**, for the view and the wind, hats on
-- The woods loop, to see what colour the ground is up there
+- The woods loop, to see what color the ground is up there
 - The riverside path, and check the water level again
 - Straight home to a warm bath, some Mondays
 
@@ -712,7 +712,7 @@ yet.
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Dye the pasta tonight: a squirt of food colouring and a tablespoon of vinegar in a freezer bag per colour, a handful of penne in, shake, then tip onto a tray lined with kitchen roll to dry overnight.
+> Dye the pasta tonight: a squirt of food coloring and a tablespoon of vinegar in a freezer bag per color, a handful of penne in, shake, then tip onto a tray lined with paper towels to dry overnight.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Stringing the Loom
@@ -736,7 +736,7 @@ yet.
 
 **🧰 You need:** 1 stiff cardboard rectangle · adult scissors (adult only) · wool · masking tape.
 
-1. Cut notches along the top and bottom edges of the card, a finger's width apart and about a centimetre deep. You cut, she counts them out loud.
+1. Cut notches along the top and bottom edges of the card, a finger's width apart and about a centimeter deep. You cut, she counts them out loud.
 2. Hook the wool into the first notch, run it down to the notch opposite, round the back and up again. She holds the card steady while you wind.
 3. Tape the loose end down at the back. It looks like a small harp now, and she can pluck it until 9:15.
 
@@ -764,7 +764,7 @@ yet.
 
 Take a bag of long strips and go and weave the street. A chain-link fence, a
 gate, a railing, a bare hedge. Feed the strips, wool and dead grass in and out
-of the gaps until a patch of colour lands on a grey street. Leave it for
+of the gaps until a patch of color lands on a gray street. Leave it for
 whoever walks past next, and come back Thursday to see whether the wind took
 it.
 
@@ -776,25 +776,25 @@ it.
 
 ### 🎨 Second Main Event: One Necklace Each
 
-The pasta came out of the freezer bags last night in colours nothing in this
+The pasta came out of the freezer bags last night in colors nothing in this
 kitchen has any right to be.
 
 **🧰 Complete Materials List:**
 - Dried penne or rigatoni, dyed overnight
-- Food colouring and 1 tablespoon vinegar, 1 freezer bag per colour
-- 1 tray lined with kitchen roll
+- Food coloring and 1 tablespoon vinegar, 1 freezer bag per color
+- 1 tray lined with paper towels
 - String or wool, ends wrapped in tape
 - 2 drinking straws cut into short segments
-- 1 bowl per colour
+- 1 bowl per color
 - 1 pair of child-safe scissors, for the straws
 - 1 pair of adult scissors (adult only), for the string
 
 **📝 Step-by-Step Instructions:**
-1. Tip each colour into its own bowl and let her look at the whole set before she threads anything.
+1. Tip each color into its own bowl and let her look at the whole set before she threads anything.
 2. Cut each string a hand's length longer than it takes to go over a head, tape one end into a point, and tie a piece of pasta at the far end so nothing slides off.
 3. Let her cut the straws into short segments with her own scissors. She will do forty given the chance.
 4. Thread. Pasta, straw, pasta, straw if she wants a pattern, any order at all if she does not.
-5. One necklace per person, and ask who each one is for before she starts. The colours are her decision.
+5. One necklace per person, and ask who each one is for before she starts. The colors are her decision.
 6. Knot every finished one loose enough to pull straight off, tested on your own head first.
 7. Hand them out before dinner and put each one on the person she made it for. Kreston's goes on his door handle where he can see it and not reach it.
 
@@ -814,7 +814,7 @@ kitchen has any right to be.
 > 👶 **Kreston's Afternoon:** At 8 months he sits supported in the water and
 > slaps at the surface, and he will track Azlyn across the pool. Twenty minutes
 > and out before he cools. The changing room is loud and full of strangers, so
-> keep him against you while you queue.
+> keep him against you while you line.
 
 ---
 
@@ -852,7 +852,7 @@ kitchen has any right to be.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: What's Under the Paper (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: The Pavement Rubbings (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Sidewalk Rubbings (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -894,7 +894,7 @@ kitchen has any right to be.
 
 > 💡 **Tip:** Tape all four edges, every time. Most failed rubbings are the paper sliding, and she cannot hold it still and rub hard at once yet.
 
-### 🌳 Get Outside: The Pavement Rubbings
+### 🌳 Get Outside: The Sidewalk Rubbings
 
 Take paper, tape and half a dozen crayon stubs out with you. Drain covers, a
 coal-hole cover, a house number plate, the grain of a wooden bench, a memorial
@@ -920,18 +920,18 @@ and the people.
 - Stamps for the ones going by post
 - 1 pen, for the words she dictates
 - A shopping bag to carry them flat
-- The pram
+- The stroller
 
 **📝 Step-by-Step Instructions:**
 1. Spread the morning's rubbings out and let her choose four. Take her choices even when she picks the four you would have binned.
-2. Ask who each one is for. Say the four names back to her: a neighbour, a grandparent, somebody at playgroup, Joseph at work.
+2. Ask who each one is for. Say the four names back to her: a neighbor, a grandparent, somebody at playgroup, Joseph at work.
 3. Ask what she wants to say about each one. Write her words on the back as they come out, then read them back to her.
 4. Fold each one into an envelope. She licks the flap and presses it shut, then draws on the front.
 5. Write the names on the front in big letters and let her point to the first letter of each.
-6. Coats on, pram out. Deliver the ones you can walk to and let her push each envelope through the letterbox or into a hand.
-7. The rest go to the postbox with stamps on. She posts them, and you tell her how many sleeps until they land.
+6. Coats on, stroller out. Deliver the ones you can walk to and let her push each envelope through the letterbox or into a hand.
+7. The rest go to the mailbox with stamps on. She posts them, and you tell her how many sleeps until they land.
 
-> 💡 **Tip:** Do the hand-delivered ones before the postbox. Letters that vanish into a red slot make more sense once she has watched one arrive at a real door.
+> 💡 **Tip:** Do the hand-delivered ones before the mailbox. Letters that vanish into a red slot make more sense once she has watched one arrive at a real door.
 
 ### 🎯 Afternoon Alternatives
 - Rubbings only. Deliver them tomorrow.
@@ -946,16 +946,16 @@ and the people.
 - A café with a window seat and something to watch
 - The bakery, and she chooses what everyone eats at four
 
-> 👶 **Kreston's Afternoon:** He rides the delivery round in the pram with the
+> 👶 **Kreston's Afternoon:** He rides the delivery round in the stroller with the
 > rain cover ready. At 8 months the quiet soft play session suits him, and he
 > will crawl the length of a padded mat if you set him down at one end.
-> Neighbours lean into a pram at the door, so turn him to face you when they do.
+> Neighbors lean into a stroller at the door, so turn him to face you when they do.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Children need to see the effect of their kindness.**
-> Azlyn hands a neighbour a picture and watches a face open up. That reaction
+> Azlyn hands a neighbor a picture and watches a face open up. That reaction
 > teaches her far more than being told afterwards that she was kind. Under-fours
 > build a sense of themselves as someone who gives out of the response arriving
 > while the giving is still happening, which is why the hand-delivered picture
@@ -978,7 +978,7 @@ and the people.
 **Theme:** Art Masters Studio
 
 ### 🌙 Prep Tonight
-> Gather the whole week into one pile: the mixed-colour paintings, the wet-paper ones, the cut-out garden, the portraits, the cave sheets, the woven card and the rubbings. Check you have masking tape.
+> Gather the whole week into one pile: the mixed-color paintings, the wet-paper ones, the cut-out garden, the portraits, the cave sheets, the woven card and the rubbings. Check you have masking tape.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Ones That Go on the Wall
@@ -1028,7 +1028,7 @@ and the people.
 
 ### 🌳 Get Outside: Looking at It from the Street
 
-Go out the front and look back at your own window from the pavement, then walk
+Go out the front and look back at your own window from the sidewalk, then walk
 the block and see what other people put in theirs. Cards on a sill, a child's
 drawing taped up, a plant, a cat asleep on a radiator. Count the windows with
 something in them. Wave at your own house on the way back in.
@@ -1049,36 +1049,36 @@ afternoon aims at the moment he walks through the door.
 - Card for tickets and a door sign
 - 1 permanent marker and masking tape
 - 1 sheet of paper, folded, for her prediction
-- Biscuits on a plate and a jug of water
+- Cookies on a plate and a pitcher of water
 - A chair placed as the gallery seat
 - The hung exhibition
 
 **📝 Step-by-Step Instructions:**
 1. Make the door sign together. She dictates the words, you write them, and she signs underneath with whatever she thinks her name looks like.
 2. Cut tickets from the card, one for every person coming, and let her decide who is allowed in. Kreston gets one too.
-3. Set the room up: the chair facing the wall, biscuits on a plate, the jug and the glasses on the table.
+3. Set the room up: the chair facing the wall, cookies on a plate, the pitcher and the glasses on the table.
 4. Walk the room the way a visitor would. In through the door, and ask what he sees first. Move things until she is happy with the order.
 5. Ask her which picture Joseph will like best. Take the first answer and do not steer it.
-6. Write her guess on the paper, fold it twice in front of her, and slide it under the biscuit plate. It stays there until he is in the room.
+6. Write her guess on the paper, fold it twice in front of her, and slide it under the cookie plate. It stays there until he is in the room.
 7. Say nothing as he comes in and let her run the tour herself. Open the paper at the end and find out together.
 
 > 💡 **Tip:** Tell Joseph nothing beyond what time he needs to be home. She wants a reaction nobody rehearsed, and he will give her a better one walking in cold.
 
 ### 🎯 Afternoon Alternatives
-- Tickets and biscuits, no wall. Tour the pile on the table.
+- Tickets and cookies, no wall. Tour the pile on the table.
 - Phone a grandparent and carry the camera along the wall.
 - Draw the gallery from the doorway, wall and all.
 - Put one piece in a real frame and hang it in the hall for good.
 
 ### 🌳 Out Again: **Pick one**
-- **The pharmacy and a park bench**, with the prescription and a bag of crisps
-- The corner shop for the biscuits, and she picks them
+- **The pharmacy and a park bench**, with the prescription and a bag of chips
+- The corner shop for the cookies, and she picks them
 - The park, for a run before the gallery opens
 - Past Tuesday's fence weave, to see whether it survived
-- A short loop with the pram if the rain has set in
+- A short loop with the stroller if the rain has set in
 
 > 👶 **Kreston's Afternoon:** He comes to the pharmacy in the carrier. At 8
-> months a queue full of strangers leaning in is hard work, so face him inward
+> months a line full of strangers leaning in is hard work, so face him inward
 > and let him hide in your shoulder. He gets his ticket in your lap and he will
 > try to eat it. Sit him where he can watch the tour go past.
 
@@ -1090,8 +1090,8 @@ afternoon aims at the moment he walks through the door.
 > She has to hold a mind that is not hers, load it with preferences that differ
 > from her own, and run it forward into an evening that has not happened yet.
 > Most children get good at that around four, so today she will pick her own
-> favourite and be taken aback when he chooses another. The guess is worth
-> making whether or not it lands. Sealing it under the biscuit plate gives her a
+> favorite and be taken aback when he chooses another. The guess is worth
+> making whether or not it lands. Sealing it under the cookie plate gives her a
 > before and an after to compare, and comparing those two is where the skill
 > grows.
 

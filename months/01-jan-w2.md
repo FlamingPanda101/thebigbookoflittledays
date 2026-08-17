@@ -61,7 +61,7 @@ writes about Kreston. Back those up before Thursday.
 - [ ] Five bread rolls, if you want real buns in the bun shop
 - [ ] 5 small plastic bottles or yoghurt pots with lids
 - [ ] Empty cereal boxes, 4 (start saving now)
-- [ ] A large biscuit tin, or any empty tin
+- [ ] A large cookie tin, or any empty tin
 - [ ] A plastic tub with a lid
 - [ ] A shoebox
 - [ ] Paper cups, one sleeve
@@ -84,8 +84,8 @@ writes about Kreston. Back those up before Thursday.
 - [ ] Spoons: 2 wooden, 1 metal, 1 teaspoon, and 8 of any kind for the pattern row
 - [ ] Socks, 8
 - [ ] A scarf for the conductor
-- [ ] A blue tea towel or a second scarf for the pond
-- [ ] A tea towel to stuff inside a drum
+- [ ] A blue dish towel or a second scarf for the pond
+- [ ] A dish towel to stuff inside a drum
 - [ ] An old towel to line the tray
 - [ ] A pillowcase or a tote bag
 - [ ] A blanket, and Kreston's own blanket
@@ -94,7 +94,7 @@ writes about Kreston. Back those up before Thursday.
 - [ ] A spare duvet, or a mattress on the floor
 - [ ] Books or small boxes, 6–8, to build Humpty's wall
 - [ ] Clothes pegs, 5
-- [ ] A torch with fresh batteries, and spares
+- [ ] A flashlight with fresh batteries, and spares
 - [ ] A watch for the rhyme bag
 - [ ] A hat each
 - [ ] Your phone, with room on it to record
@@ -229,7 +229,7 @@ and decides which way comes next.
 
 ### 🌳 Out Again: **Pick one**
 - **A cafe with cake**, a window seat and a street to watch
-- The neighbourhood park, for twenty minutes of running
+- The neighborhood park, for twenty minutes of running
 - The bakery counter, and let her choose for tomorrow
 - A friend's house, if anyone can take an afternoon of shakers
 - Home, with the shakers in the bath
@@ -262,7 +262,7 @@ never heard, and the babies settled to those too.
 > Azlyn can do quiet on request and hold it for about four seconds. The holding
 > is the hard part, and it runs on the same slow-growing machinery as waiting
 > her turn and stopping halfway down the hall. Volume control is inhibition,
-> and a three-year-old has a thin supply. She gets better at it by practising
+> and a three-year-old has a thin supply. She gets better at it by practicing
 > the switch rather than by being asked for less noise. Handing her the loud
 > verse first and the whisper verse second gives her both ends to feel in her
 > own throat a minute apart. The scarf makes her the one calling the change,
@@ -333,7 +333,7 @@ never heard, and the babies settled to those too.
 
 ### 🌳 Get Outside: The Low Wall Balance
 
-Find a low garden wall, a kerb edge or the flat top of a step and walk her
+Find a low garden wall, a curb edge or the flat top of a step and walk her
 along it holding one hand. She sits at the far end with her legs over and says
 the rhyme from up there, then jumps into your hands. January stone keeps its
 frost all morning in the shade, so put your own hand flat on the top first.
@@ -441,7 +441,7 @@ afternoon, the one thing the rhyme insists nobody could do.
 **🧰 You need:** 1 flattened cereal box · scissors (adult only) · crayons · 5 clothes pegs.
 
 1. Draw five duck shapes on the plain side of the box. Rough ovals with a beak on the front will do.
-2. You cut, she colours. Give each one something different, and let her choose which is the mother duck.
+2. You cut, she colors. Give each one something different, and let her choose which is the mother duck.
 3. Clip a peg to the bottom of each so they stand up. Line all five along the table and count them twice.
 
 ### 🎨 The Main Event: Over the Hill and Far Away
@@ -452,11 +452,11 @@ afternoon, the one thing the rhyme insists nobody could do.
 - Crayons
 - 5 clothes pegs to stand the ducks up
 - 1 upturned laundry basket or a sofa cushion
-- 1 blue tea towel or scarf for the pond
+- 1 blue dish towel or scarf for the pond
 - Masking tape
 
 **📝 Step-by-Step Instructions:**
-1. Turn the laundry basket upside down in the middle of the floor for the hill. Spread the tea towel in front of it for the pond and tape the corners flat.
+1. Turn the laundry basket upside down in the middle of the floor for the hill. Spread the dish towel in front of it for the pond and tape the corners flat.
 2. Stand all five ducks on the pond. Run a strip of masking tape across the floor behind the hill to mark where far away starts.
 3. Sing the first verse. On the line about only four coming back, she takes one duck over the hill and stands it on the tape.
 4. Count what is left on the pond after each verse, touching each duck as its number comes. She does the quacking, all of it.
@@ -511,12 +511,12 @@ sings.
 ### 🌳 Out Again: **Pick one**
 - **Feeding the ducks** at the pond, with oats or defrosted peas rather than bread
 - The park, for the swings and a shorter walk home
-- A long loop with the pram if the pond is frozen over
+- A long loop with the stroller if the pond is frozen over
 - The playground with the tunnel, out of the wind
 - A drive to somewhere with water, and stay in the warm car
 
 > 👶 **Kreston's Afternoon:** Wrap him well for the pond. At 7 months a bank
-> full of birds moving against grey water is the biggest thing he has been
+> full of birds moving against gray water is the biggest thing he has been
 > shown all week. Keep him off the ground at the edge. Twenty minutes in that
 > cold is plenty.
 
@@ -579,19 +579,19 @@ sings.
 ### 🎨 The Main Event: The Kitchen Drum Kit
 
 **🧰 Complete Materials List:**
-- 1 large biscuit tin or empty tin
+- 1 large cookie tin or empty tin
 - 1 plastic tub with a lid
 - 1 cereal box
 - 1 saucepan
 - Parcel tape
 - 2 wooden spoons
-- 1 tea towel, to mute one drum
+- 1 dish towel, to mute one drum
 - 1 permanent marker
 
 **📝 Step-by-Step Instructions:**
-1. Line the tin, the tub, the cereal box and the saucepan along the floor and tape their bases down so they stop travelling.
-2. Hit each one and let her say which is high and which is low. Stuff the tea towel into the box, hit it again, and she hears the same drum go dull.
-3. Names first, one hit per piece. Everyone in the house, then the neighbours, then the cat, then people she has invented.
+1. Line the tin, the tub, the cereal box and the saucepan along the floor and tape their bases down so they stop traveling.
+2. Hit each one and let her say which is high and which is low. Stuff the dish towel into the box, hit it again, and she hears the same drum go dull.
+3. Names first, one hit per piece. Everyone in the house, then the neighbors, then the cat, then people she has invented.
 4. Move on to food for longer words. BREAD is one hit. BA-NA-NA is three. SPA-GHET-TI is four and she will want that one over and over.
 5. Play a rhyme line by line. TWIN-KLE TWIN-KLE LIT-TLE STAR, one hit per piece. Number the drums one to four in marker if she starts calling for a particular one.
 6. She plays something short and you copy it back, then you play and she copies. Keep them to three hits.
@@ -644,7 +644,7 @@ the row left to right.
 - Bang the drums while she conducts with the scarf from Friday.
 
 ### 🌳 Out Again: **Pick one**
-- **The neighbourhood park**, for the swings and the bark chippings
+- **The neighborhood park**, for the swings and the bark chippings
 - The riverside path, if the puddles from this morning held
 - A walk to post something and stamp the whole way there
 - The corner shop, and let her carry one thing home
@@ -683,7 +683,7 @@ the row left to right.
 **Theme:** Nursery Rhymes & Rhythm
 
 ### 🌙 Prep Tonight
-> Check the torch batteries, and keep three or four paper cups back from the recycling.
+> Check the flashlight batteries, and keep three or four paper cups back from the recycling.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Finding the Darkest Corner
@@ -705,17 +705,17 @@ the row left to right.
 
 ### 🌅 Opening Activity: Finding the Darkest Corner
 
-**🧰 You need:** 1 torch · every door in the house · her.
+**🧰 You need:** 1 flashlight · every door in the house · her.
 
-1. Walk her round with the torch off, shutting doors and pulling curtains as you go. Stand in each room for a slow count of ten and let your eyes adjust.
+1. Walk her round with the flashlight off, shutting doors and pulling curtains as you go. Stand in each room for a slow count of ten and let your eyes adjust.
 2. Ask her which one is darkest. Bathrooms and the cupboard under the stairs tend to win.
-3. Test the winner. Shine the torch at the ceiling and watch the circle arrive. Leave those curtains shut for the rest of the day.
+3. Test the winner. Shine the flashlight at the ceiling and watch the circle arrive. Leave those curtains shut for the rest of the day.
 
 ### 🎨 The Main Event: The Star Cup
 
 **🧰 Complete Materials List:**
 - 3–4 paper cups, or squares of dark card
-- 1 torch with fresh batteries
+- 1 flashlight with fresh batteries
 - 1 metal skewer, or a sharpened pencil (adult only)
 - 1 marker
 - Masking tape
@@ -726,9 +726,9 @@ the row left to right.
 1. Sit her at the table with a cup and the marker and let her dot a pattern over the base and the sides. Ten or fifteen dots is plenty. A hundred dots makes a lamp.
 2. Stand the cup on the old magazine and push the skewer through each dot. You do all the pushing, she counts them off as they go.
 3. Make a second cup with a different pattern and let her name them both.
-4. Take the cups and the torch into the dark room. Torch pointing up, cup over the end of it, a strip of tape round the join if the fit is loose.
-5. Light off. Her stars land on the ceiling and travel when you tilt the torch. Lie on your backs underneath and sing the rhyme.
-6. Hand her the torch. It will go across the wall, the floor and your face.
+4. Take the cups and the flashlight into the dark room. Flashlight pointing up, cup over the end of it, a strip of tape round the join if the fit is loose.
+5. Light off. Her stars land on the ceiling and travel when you tilt the flashlight. Lie on your backs underneath and sing the rhyme.
+6. Hand her the flashlight. It will go across the wall, the floor and your face.
 
 > 💡 **Tip:** Give the stars some distance. A cup held close to the ceiling throws a tight patch. Down at floor level the same cup throws a sky.
 
@@ -753,7 +753,7 @@ be about anything. Azlyn picks what goes in the verse, and she picks her
 brother.
 
 **🧰 Complete Materials List:**
-- The star cup and torch
+- The star cup and flashlight
 - Your phone, to record
 - Paper and crayons for the picture that goes with the song
 - Kreston's blanket
@@ -772,12 +772,12 @@ brother.
 ### 🎯 Afternoon Alternatives
 - New words to Twinkle about the cat, the bath or dinner.
 - Draw the picture and skip the recording.
-- Star cup and torch on the ceiling for an hour, nothing else.
+- Star cup and flashlight on the ceiling for an hour, nothing else.
 - Sing the old words in four voices and let her pick a winner.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one, and she can sing in the changing room
-- Soft play if the pool is shut or the queue is out the door
+- Soft play if the pool is shut or the line is out the door
 - The library, a day early
 - A warm cafe and a window, if nobody has the energy for a pool
 - Home, with the star cup and the curtains shut
@@ -802,7 +802,7 @@ brother.
 > cup joins the end of the line tonight.
 
 > ⚠️ **Safety:** The skewer is adult-only and goes back in the drawer between
-> cups, not on the table. If the torch takes button cells, tape the compartment
+> cups, not on the table. If the flashlight takes button cells, tape the compartment
 > shut; a swallowed button battery burns through a child's throat within hours.
 > At the pool, Kreston stays in arm's reach in the water, every second.
 
@@ -911,7 +911,7 @@ money in their hand.
 - The library, if soft play is heaving
 - The park in the cold, for twenty minutes and hot squash after
 - A friend's house, with the rhyme bag in your coat pocket
-- The indoor play centre, if the weather has shut everything else down
+- The indoor play center, if the weather has shut everything else down
 
 > 👶 **Kreston's Afternoon:** Soft play at 7 months means the baby corner and
 > nothing beyond it. He sits without help now, so put him on the mats with two
@@ -996,7 +996,7 @@ money in their hand.
 
 March the block. Left, right, left, right, called out loud, everyone setting
 off on the same foot. She loses the step inside twenty paces and finds it
-again. Halt at each corner and freeze for a count of five. January pavements
+again. Halt at each corner and freeze for a count of five. January sidewalks
 are wet or gritted, so drop the calling for a stretch and listen to the boots
 instead.
 
@@ -1037,10 +1037,10 @@ The parade needs a route, and she draws it before anybody marches anywhere.
 - Take the instruments into the garden and march the fence line.
 
 ### 🌳 Out Again: **Pick one**
-- **The hardware shop**, for tape, batteries and a look at the paint chips
+- **The hardware shop**, for tape, batteries and a look at the paint fries
 - The park on the way back, for the swings
 - The corner shop, and let her pay
-- A walk to drop something at a neighbour's door
+- A walk to drop something at a neighbor's door
 - The library, if the shop can wait until tomorrow
 
 > 👶 **Kreston's Afternoon:** Take him into the hardware shop in the carrier

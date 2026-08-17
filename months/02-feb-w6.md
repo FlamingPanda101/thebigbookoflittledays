@@ -62,13 +62,13 @@ walks a round she scouted that morning, and hands it over at four front doors.
 - [ ] Milk
 - [ ] Ground cinnamon
 - [ ] Dried herbs
-- [ ] Her chosen additions: raisins, chocolate chips, cocoa, sprinkles or a banana
+- [ ] Her chosen additions: raisins, chocolate fries, cocoa, sprinkles or a banana
 - [ ] Passata, or a tin of chopped tomatoes
 - [ ] Grated cheese, 200 g
 - [ ] Pizza toppings from the fridge: ham, sweetcorn, peppers, olives, mushrooms
 - [ ] Five breads for Wednesday: sliced white, a seeded roll, a bagel, a pita, a crumpet
 - [ ] Crackers
-- [ ] Food colouring, 2–3 colours
+- [ ] Food coloring, 2–3 colors
 - [ ] Two clean jars, one of them with a tight-fitting lid
 - [ ] Clear plastic bottles, 2 × 500 ml, from the recycling
 - [ ] Balloons, 4 (two for the bottles, two spare)
@@ -89,8 +89,8 @@ walks a round she scouted that morning, and hands it over at four front doors.
 - [ ] Scissors (adult only)
 - [ ] Dental floss
 - [ ] A funnel, or paper to roll into a cone
-- [ ] A jug, 2 mugs and 5 plates
-- [ ] Two tea towels
+- [ ] A pitcher, 2 mugs and 5 plates
+- [ ] Two dish towels
 - [ ] A stool she can stand on
 - [ ] Plain paper, 25 sheets
 - [ ] Crayons or felt tips
@@ -179,7 +179,7 @@ walks a round she scouted that morning, and hands it over at four front doors.
 - Warm water, 300 ml
 - Vegetable oil, 1 tbsp
 - 1 large mixing bowl
-- 1 clean tea towel
+- 1 clean dish towel
 - The jam jar of woken yeast from 8:00
 
 **📝 Step-by-Step Instructions:**
@@ -279,7 +279,7 @@ it goes stale by evening.
 
 > ⚠️ **Safety:** Kreston is crawling and the oven runs at 220°C today, with hot
 > trays coming out at his head height. Block his route to the oven door with a
-> chair or the pram before the dough goes in, and check it is still there
+> chair or the stroller before the dough goes in, and check it is still there
 > before you open the door. Never leave the oven door open to cool with him
 > loose in the room.
 
@@ -327,7 +327,7 @@ it goes stale by evening.
 - Sugar, 100 g
 - Plain flour, 200 g
 - 1 egg
-- Her chosen additions: raisins, chocolate chips, cocoa, sprinkles or a mashed banana
+- Her chosen additions: raisins, chocolate fries, cocoa, sprinkles or a mashed banana
 - 1 bowl and a wooden spoon
 - 1 baking tray and baking paper
 - Paper and a pen for her words
@@ -375,7 +375,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 1. Trim the sheets to a size her hands can turn and lay them in order.
 2. Tape the morning's recipe onto the middle page, butter stain and crossings-out and all.
 3. She draws one ingredient per sheet on the pages before it: butter, sugar, egg, flour, her own addition. Write the word underneath in your own hand, big.
-4. Cut the cereal box flat for the cover and let her colour it. Ask her the name of the book and write it across the front word for word.
+4. Cut the cereal box flat for the cover and let her color it. Ask her the name of the book and write it across the front word for word.
 5. Punch two holes down the left edge of every sheet and thread the string. Three staples down the spine work as well.
 6. Read it back cover to cover, turning the pages at her pace.
 7. Stand it on the kitchen shelf with the real cookbooks, at her height.
@@ -389,7 +389,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 
 ### 🌳 Out Again: **The Museum**
 - **The museum**, first Saturday of February and the second of the year
-- Soft play, if the car park beats you
+- Soft play, if the parking lot beats you
 - The park, and a bag of yesterday's rolls if any survived
 - A café, and she orders her own thing out loud
 - The Saturday market, for a stall with something baked on it
@@ -416,7 +416,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 > ⚠️ **Safety:** Raw egg and raw flour both carry a real infection risk and she
 > will eat some of the mixture. Hold it to one small spoonful, or set a
 > spoonful aside before the egg goes in. Kreston gets none of it raw, and
-> biscuits are sugar all the way through, so he skips the baked ones too. The
+> cookies are sugar all the way through, so he skips the baked ones too. The
 > bowl goes in the sink and not on the floor.
 
 <div style="page-break-after: always;"></div>
@@ -428,7 +428,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Check the cupboard for a kilo of plain flour, a full tub of salt and the food colouring.
+> Check the cupboard for a kilo of plain flour, a full tub of salt and the food coloring.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Punching It Down
@@ -450,11 +450,11 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 
 ### 🌅 Opening Activity: Punching It Down
 
-**🧰 You need:** the overnight dough, cold from the fridge · flour · a tea towel.
+**🧰 You need:** the overnight dough, cold from the fridge · flour · a dish towel.
 
 1. Take the bowl out and let her look first. The dough has climbed the sides overnight and smells sour.
 2. Give her one instruction: fist in, all the way. The whole thing sighs to a third of its height and she will laugh.
-3. Leave it under the tea towel to come to room temperature. Cold dough will not stretch, so the wait is an hour.
+3. Leave it under the dish towel to come to room temperature. Cold dough will not stretch, so the wait is an hour.
 
 ### 🎨 The Main Event: The Dough That Fights Back
 
@@ -463,7 +463,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 - Flour for the table, a good handful
 - 2 baking trays
 - 1 tbsp oil for the trays
-- 1 tea towel
+- 1 dish towel
 
 **📝 Step-by-Step Instructions:**
 1. Flour the table well. Cut the dough in half and give her one half.
@@ -471,7 +471,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 3. She will tear hers. Pinch it shut, carry on, and say out loud that dough mends and paper does not.
 4. Once it is about tray-sized, lift an edge and let it hang from her hands. It stretches under its own weight and springs back when she lays it down. Let her try yours as well.
 5. Lay both bases on the oiled trays and push them to the corners with her fingertips. Bumpy is right.
-6. Cover them with the tea towel until one o'clock.
+6. Cover them with the dish towel until one o'clock.
 
 > 💡 **Tip:** Flour her hands and keep it off the dough. Flour worked in makes it tough, and hers has four hours of poking ahead of it.
 
@@ -487,7 +487,7 @@ a pocket.
 > floor is his now. Sweep before you put him down, then give him his own
 > scrap of dough sealed in a freezer bag. He pushes it, it dents, the dent
 > stays, and he does it again to check. On the walk, hold a plate of ice above
-> the pram for him.
+> the stroller for him.
 
 <div style="page-break-after: always;"></div>
 
@@ -527,7 +527,7 @@ anybody else's.
 - The park while the bases prove, if one o'clock ran late
 - A drive up to anywhere with a view west, and stay in the warm car
 - The duck pond, and back before the cold gets into her hands
-- Round the block with a torch each, for the novelty of needing one at four
+- Round the block with a flashlight each, for the novelty of needing one at four
 
 > 👶 **Kreston's Afternoon:** Kreston eats before the pizzas go in, then takes
 > a strip of cooled plain base at the table. At 8 months he brings both hands
@@ -544,11 +544,11 @@ anybody else's.
 > sleep and her mood, and a February day indoors gives her a fraction of what
 > an August one hands over. Add a body built to cover a few miles a day and a
 > house that allows eight steps in a line, and the four o'clock meltdown reads
-> as a shortage of both. Twenty minutes outside under flat grey cloud beats an
+> as a shortage of both. Twenty minutes outside under flat gray cloud beats an
 > hour under a lamp. Yours counts too, and you run the same shortage she does.
 
 > ⚠️ **Safety:** The oven goes to 240°C today and Kreston is shuffling, so
-> block his route to it with a chair or the pram before the first tray goes in,
+> block his route to it with a chair or the stroller before the first tray goes in,
 > and check the block is still there before you open the door. Melted cheese
 > holds its heat long after the crust has cooled. Cut hers into strips and
 > leave them three minutes on the board before the plate reaches her. There
@@ -567,7 +567,7 @@ anybody else's.
 > Rinse two 500 ml plastic bottles from the recycling, stand them upside down to dry, and find two balloons that have not perished.
 
 ### ⏰ At-a-Glance Schedule
-- **8:00–9:00 AM** — 🌅 Opening Activity: Colouring the Dough
+- **8:00–9:00 AM** — 🌅 Opening Activity: Coloring the Dough
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: Twelve Pretend Pastries (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
@@ -584,19 +584,19 @@ anybody else's.
 - **5:00–5:45 PM** — 🛁 Wind-Down: Closing the Shop
 - **6:00 PM** — **Dinner**
 
-### 🌅 Opening Activity: Colouring the Dough
+### 🌅 Opening Activity: Coloring the Dough
 
-**🧰 You need:** plain flour, 2 cups · salt, 1 cup · warm water, 1 cup · oil, 2 tbsp · food colouring · 1 big bowl.
+**🧰 You need:** plain flour, 2 cups · salt, 1 cup · warm water, 1 cup · oil, 2 tbsp · food coloring · 1 big bowl.
 
 1. Flour and salt in the bowl, her hands in to mix them dry. Then oil and warm water, stirred until it leaves the sides.
 2. Knead it on the table for two minutes while it is warm, then split it into three.
-3. Press a hollow into each piece, three drops of a different colour into each, and let her fold it in. Her hands come out patchy and wash clean by lunch.
+3. Press a hollow into each piece, three drops of a different color into each, and let her fold it in. Her hands come out patchy and wash clean by lunch.
 
 ### 🎨 The Main Event: Twelve Pretend Pastries
 
 **🧰 Complete Materials List:**
 - No-cook playdough: 2 cups plain flour, 1 cup salt, 1 cup warm water, 2 tbsp oil
-- Food colouring, 2–3 colours
+- Food coloring, 2–3 colors
 - 1 table knife
 - 1 rolling pin or a straight-sided glass
 - 1 fork for pressing marks
@@ -630,19 +630,19 @@ counter and counts them the same way. Leave them there for the frost.
 ### 🎨 Second Main Event: The Counter Opens
 
 A dining chair turned side-on is the counter. She takes the inside, you take
-the pavement side and the customer's part for the afternoon.
+the sidewalk side and the customer's part for the afternoon.
 
 **🧰 Complete Materials List:**
 - 1 small table or a chair as the counter
 - Paper bags or envelopes, 6–8
 - Paper and a marker for price signs
 - A purse of buttons or bottle tops as coins
-- 1 tea towel as an apron
+- 1 dish towel as an apron
 - 1 shoebox as the till
 - The tray of pastries
 
 **📝 Step-by-Step Instructions:**
-1. Set the counter where she says. Tray on top, shoebox till beside it, tea towel in her waistband as the apron.
+1. Set the counter where she says. Tray on top, shoebox till beside it, dish towel in her waistband as the apron.
 2. Write the price signs with her, a number and a drawing on each, and she decides every number.
 3. Be the first customer. Say good morning, ask for two things by name and wait for her to name a price.
 4. Pay in buttons, one at a time, counted out loud into her hand. She puts them in the till and shuts the lid.
@@ -659,7 +659,7 @@ the pavement side and the customer's part for the afternoon.
 
 ### 🌳 Out Again: **Pick one**
 - **The field walk**, boots on, with the far hedge as the turning point
-- The neighbourhood park, if the field is under water
+- The neighborhood park, if the field is under water
 - One lap of the block with a paper bag, delivering to nobody
 - The green space with a ball, after an hour behind a counter
 - The garden with a bucket of water, poured over the mud pastries
@@ -719,11 +719,11 @@ the pavement side and the customer's part for the afternoon.
 
 ### 🌅 Opening Activity: The Bath-Water Test
 
-**🧰 You need:** 2 cups or mugs · the cold tap and the hot · 1 jug.
+**🧰 You need:** 2 cups or mugs · the cold tap and the hot · 1 pitcher.
 
 1. Fill one cup from the cold tap and the second from the hot, cold run in until it feels like bath water on your wrist.
 2. She puts a finger in each and gives both a word. Warm as a bath is what yeast wants and anything hotter kills it.
-3. Pour the warm one into the jug and stand it on the side. It goes into the bottles at 9:15.
+3. Pour the warm one into the pitcher and stand it on the side. It goes into the bottles at 9:15.
 
 ### 🎨 The Main Event: The Balloon That Fills Itself
 
@@ -795,7 +795,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 - Soft play, if the school lessons have the pool
 - The library a day early, for a book with bread in it
 - A warm café and a window seat
-- The indoor play centre
+- The indoor play center
 
 > 👶 **Kreston's Afternoon:** Kreston comes to the pool. At 8 months he sits
 > supported in the water and slaps at it with a flat hand for the full twenty
@@ -815,7 +815,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 > extra holding return to where they were within a week or two of getting well.
 
 > ⚠️ **Safety:** Balloons are the worst choking hazard in this house for an
-> 8-month-old, whole or burst, and a burst piece moulds to the airway where
+> 8-month-old, whole or burst, and a burst piece molds to the airway where
 > nothing can shift it. Keep the spares in your pocket, count them out and
 > count them back in, and bin any that split. Run the cold in first and test
 > the water on your wrist before her finger goes near it, because a hot tap on
@@ -857,7 +857,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 
 1. Lay the five plates in a row and let her put a number on each. Write yours underneath hers if the numbers come out as shapes.
 2. You cut and she plates. One piece of each bread onto its own numbered plate, each piece the size of a bite.
-3. Cover the whole row with a tea towel and walk away. She will lift the corner twice before nine.
+3. Cover the whole row with a dish towel and walk away. She will lift the corner twice before nine.
 
 ### 🎨 The Main Event: Which Bread Wins
 
@@ -877,7 +877,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 5. Hand her the stickers or a crayon. Every bread she would eat again gets a mark, as many as she likes.
 6. Count the marks together and say the winner out loud, then eat the rest of it with yesterday's butter.
 
-> 💡 **Tip:** Give your own answers as you go and say so when yours differ from hers. A tasting where the adult has a favourite stays a conversation.
+> 💡 **Tip:** Give your own answers as you go and say so when yours differ from hers. A tasting where the adult has a favorite stays a conversation.
 
 ### 🌳 Get Outside: One Slow Lap of the Block
 
@@ -915,7 +915,7 @@ as a bakery to anyone walking past.
 4. Ask her the name of the shop. Write it across a sheet in fat marker, saying each letter as you make it.
 5. Tape the sign up first, top of the window, facing out to the street.
 6. She decides where every item goes and you do the taping. Put a row at her eye level.
-7. Coats on, out onto the pavement, and stand across the road looking back at the house. It takes four minutes.
+7. Coats on, out onto the sidewalk, and stand across the road looking back at the house. It takes four minutes.
 
 > 💡 **Tip:** Facing out means the drawings are backwards from the inside. Say so before she notices, and let her draw two of one thing so there is one pointing each way.
 
@@ -965,7 +965,7 @@ as a bakery to anyone walking past.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Stand 75 g of butter out to soften beside the dough, and put whatever card and coloured paper you own somewhere findable for next week.
+> Stand 75 g of butter out to soften beside the dough, and put whatever card and colored paper you own somewhere findable for next week.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Cinnamon Butter
@@ -1005,7 +1005,7 @@ as a bakery to anyone walking past.
 - Oven gloves
 
 **📝 Step-by-Step Instructions:**
-1. Flour the table and roll the dough into a rectangle the size of a tea towel. She leans on the pin, you finish the corners.
+1. Flour the table and roll the dough into a rectangle the size of a dish towel. She leans on the pin, you finish the corners.
 2. She spreads the cinnamon butter to the edges with the back of a spoon. All of it goes on.
 3. Roll it up from the long side into a tight log, her hands on top of yours.
 4. Slide the floss under the log, cross the ends and pull. Cut twelve and let her count them into the tin.
@@ -1043,7 +1043,7 @@ Twelve buns, four names, four boxes, and she decides what goes where.
 
 **📝 Step-by-Step Instructions:**
 1. Lay the boxes out and let her pick one for each person, saying the names aloud.
-2. She colours each box for the person it is going to. The neighbour's takes twice as long.
+2. She colors each box for the person it is going to. The neighbor's takes twice as long.
 3. Write the names big on the labels while she watches, saying the letters. She tapes each onto the right box.
 4. Cut a card for each and let her make her mark inside. Ask what it says and write her words underneath.
 5. Line the boxes with baking paper and load them, two buns each. She decides who gets the biggest, and the last four stay here.
@@ -1063,9 +1063,9 @@ Twelve buns, four names, four boxes, and she decides what goes where.
 - The rest of the delivery round, if this afternoon ran long and there are doors left
 - The park on the way home, with a bun in a bag
 - The corner shop, and she hands over the money for the milk
-- A walk to the postbox with a card for somebody too far to deliver to
+- A walk to the mailbox with a card for somebody too far to deliver to
 
-> 👶 **Kreston's Afternoon:** Kreston does the round in the pram, wrapped, with
+> 👶 **Kreston's Afternoon:** Kreston does the round in the stroller, wrapped, with
 > the boxes at his feet. At 8 months a door opening onto a new face is the
 > entire event, so give him a second at each one. In the charity shop keep him
 > on you, since the aisles are narrow and the shelves sit at grab height.

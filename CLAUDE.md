@@ -69,6 +69,40 @@ things she already knows. Do not pad.
   it and mark it clearly as a draft for me to rewrite. It is the one thing in
   the book only I can write.
 
+## Locale — American, and it is not only spelling
+
+The book is **US English throughout**. Joseph confirmed this. The holidays in
+CONTINUATION.md section 2 were always the US set; the prose was not, because
+it inherited v1's British voice, and 2,700 terms had to be converted after ten
+months were already written. Do not reintroduce it.
+
+- **Spelling:** color, favorite, practice, realize, meter, center, gray.
+- **Vocabulary:** stroller not pram, craft sticks not lolly sticks, rain boots
+  not wellies, flashlight not torch, sidewalk not pavement, curb not kerb,
+  trash not rubbish, dish towel not tea towel, washcloth not flannel, paper
+  towels not kitchen roll, popsicle not ice lolly, cookie not biscuit,
+  candy not sweets, pitcher not jug, stove not cooker, closet not wardrobe,
+  parking lot not car park, mailbox not postbox, diaper not nappy, crib not
+  cot, bandage not plaster, plastic wrap not cling film, parchment not
+  greaseproof.
+- **Groceries:** superfine sugar, self-rising flour, baking soda, zucchini,
+  eggplant, heavy cream.
+- **Money:** dollars and cents. Never pence or pounds.
+- **Measurements:** cups and spoons first. Grams and millilitres only where a
+  recipe genuinely needs them.
+- **Keep "autumn".** It is standard American English in writing, and the book
+  uses fall/falls/falling eighty times for toppling towers. Converting it
+  produces "the fall will stop".
+
+**The plant and weather calendar must be American too.** v1's phenology is
+British: snowdrops in February, frogspawn in late March, blackthorn, elder,
+bluebell woods, cow parsley, hazel catkins. Write what is actually outside in
+that month where the reader lives, and prefer plants that are widespread
+across the US.
+
+`tools/pipeline/americanise.py` does the mechanical sweep. Run it after any
+merge, then re-validate.
+
 ## Writing style — apply to every day, no exceptions
 
 The rules are inline below. Do not replace them with a pointer to a skill

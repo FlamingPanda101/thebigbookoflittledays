@@ -67,9 +67,9 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] A fabric scrap, a ribbon, an emery board, a bottle cap, a piece of corrugated card and a leaf off the path
 - [ ] Sponges, 2
 - [ ] A washing-up bowl, 2 smaller bowls and 1 shallow bowl
-- [ ] A jug, 3 cups, 2 spoons and a whisk
-- [ ] Old towels, 4, and a flannel
-- [ ] Food colouring
+- [ ] A pitcher, 3 cups, 2 spoons and a whisk
+- [ ] Old towels, 4, and a washcloth
+- [ ] Food coloring
 - [ ] Washable non-toxic poster paint in red, yellow, white and brown
 - [ ] A wide soft brush, plus a dry one for Kreston
 - [ ] Lemons, 4
@@ -91,13 +91,13 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] Small cups, one per person
 - [ ] Yoghurt pots or paper cups, 8, cleaned out
 - [ ] Wooden spoons, 2, and a metal one
-- [ ] A saucepan for banging and a small one for the hob
+- [ ] A saucepan for banging and a small one for the stovetop
 - [ ] A rolling pin and a flat tray or board
 - [ ] A ruler
 - [ ] A magnifying glass
-- [ ] A torch with fresh batteries
+- [ ] A flashlight with fresh batteries
 - [ ] A ticking clock
-- [ ] String, 5 metres
+- [ ] String, 5 meters
 - [ ] Elastic bands
 - [ ] Paperclips or matchsticks, 2
 - [ ] A sealable bag for Kreston's own lump of dough
@@ -160,7 +160,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 
 1. Unroll the whole thing down the hall and let her walk the length of it in socks.
 2. Have her lie down on it in three different shapes while you tape the corners to the floor. Arms out, arms in, one leg up.
-3. Ask which shape she wants to keep. That is the pose she holds at 9:15, so let her practise while you count to twenty.
+3. Ask which shape she wants to keep. That is the pose she holds at 9:15, so let her practice while you count to twenty.
 
 ### 🎨 The Main Event: The Life-Size Azlyn
 
@@ -278,7 +278,7 @@ of France it is kisses on the cheek, and the number changes from town to town.
 **Theme:** My Body & Senses
 
 ### 🌙 Prep Tonight
-> Cut a metre-long strip from the side of a box and leave it on the table with the parcel tape, and put two old towels by the sink.
+> Cut a meter-long strip from the side of a box and leave it on the table with the parcel tape, and put two old towels by the sink.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Ten Things That Feel Different
@@ -309,7 +309,7 @@ of France it is kisses on the cheek, and the number changes from town to town.
 ### 🎨 The Main Event: The Touch Line
 
 **🧰 Complete Materials List:**
-- 1 long strip of cardboard, about a metre
+- 1 long strip of cardboard, about a meter
 - Ten household textures: foil, cotton wool, corrugated card, fabric scrap, ribbon, an emery board, a bottle cap, a leaf, a strip of tape sticky side up, a sponge
 - Parcel tape and masking tape
 - Scissors (**adult only**)
@@ -333,7 +333,7 @@ heat out of her hand faster than brick, so the gate feels colder than the wall
 at the same temperature and she will say so. Gloves back on the moment she says
 cold.
 
-> 👶 **Infant Integration:** Kreston is 8 months and travelling now, so the floor
+> 👶 **Infant Integration:** Kreston is 8 months and traveling now, so the floor
 > belongs to him. Tape a palm-sized square of foil, fabric, corrugated card and
 > sponge onto a tray and set it in his path. He crawls up, plants a hand on the
 > foil and stops dead. Keep every square bigger than his mouth.
@@ -348,18 +348,18 @@ minutes has to be finished.
 **🧰 Complete Materials List:**
 - 1 washing-up bowl of warm water
 - 1 smaller bowl of cold water
-- 1 jug, 3 cups, 2 spoons
+- 1 pitcher, 3 cups, 2 spoons
 - 2 sponges
 - 1 whisk
 - 2 old towels for the floor
-- Food colouring, 2 drops, optional
+- Food coloring, 2 drops, optional
 
 **📝 Step-by-Step Instructions:**
 1. Fill the big bowl with warm water, wrist-tested, and the small one with cold. Set them a hand's width apart on the towels.
 2. Both hands into the warm bowl, count to ten together, then both hands into the cold and count again. Ask her which hand knows the difference.
-3. Put out the jug, cups, spoons, sponges and whisk, then sit down where she can see you and stop giving instructions.
+3. Put out the pitcher, cups, spoons, sponges and whisk, then sit down where she can see you and stop giving instructions.
 4. She will pour one bowl into the other within four minutes. Let the two temperatures become one and let her hands find out.
-5. Drop two drops of colouring into the cold bowl as interest dips. That buys you the whole second half.
+5. Drop two drops of coloring into the cold bowl as interest dips. That buys you the whole second half.
 6. Hand her a sponge to soak and squeeze out over the big bowl. Heavy work for her hands, and she stays with it longest of all.
 7. Tip both bowls into the sink yourself the moment she walks away.
 
@@ -386,9 +386,9 @@ minutes has to be finished.
 
 > 🧠 **A Little Parenting Insight**
 > **Repetitive, contained tasks are surprisingly regulating.**
-> Azlyn will pour the same jug into the same bowl thirty times, and you will
+> Azlyn will pour the same pitcher into the same bowl thirty times, and you will
 > start wondering when she plans to do something with it. The repetition is the
-> activity. A task with a clear edge round it, one bowl, one jug, one action,
+> activity. A task with a clear edge round it, one bowl, one pitcher, one action,
 > hands her a small world she controls on a day when adults decide most of the
 > rest. The feedback never changes, so her body stops bracing for surprises and
 > settles. Montessori classrooms are built on this. Set it out, sit down, and
@@ -476,27 +476,27 @@ windowsill where she can watch it.
 
 ### 🎨 Second Main Event: Fixing the Lemonade
 
-Three lemons, a jug and a bag of sugar. She is in charge of how it tastes and
+Three lemons, a pitcher and a bag of sugar. She is in charge of how it tastes and
 you are the one doing what she says.
 
 **🧰 Complete Materials List:**
 - 3 lemons
 - 1 lemon squeezer or a fork
 - Sugar and a teaspoon
-- 1 jug of cold water
+- 1 pitcher of cold water
 - 1 wooden spoon
 - 1 small sieve
 - Small cups, one per person
 
 **📝 Step-by-Step Instructions:**
 1. Halve the lemons and let her squeeze them. A fork stabbed into the cut half and twisted works as well as a squeezer and takes more effort out of her arms.
-2. Pour the juice through the sieve into the jug. Let her taste it neat, one teaspoon. The face from this morning comes back.
+2. Pour the juice through the sieve into the pitcher. Let her taste it neat, one teaspoon. The face from this morning comes back.
 3. Add sugar a spoon at a time. She stirs, she tastes with a clean spoon, she says more or stop.
 4. She will overshoot and make it too sweet to drink. Say nothing, hand her the water and let her add a splash at a time, tasting after each one, until she works out she can go too far in both directions.
 5. She calls it finished. That is the recipe, and nobody adjusts it after she has said so.
 6. She pours a cup for every person in the house and carries them round herself.
 
-> 💡 **Tip:** Give her a clean teaspoon for each taste and keep them in a row. Tasting from the stirring spoon is how she ends up drinking the whole jug.
+> 💡 **Tip:** Give her a clean teaspoon for each taste and keep them in a row. Tasting from the stirring spoon is how she ends up drinking the whole pitcher.
 
 ### 🎯 Afternoon Alternatives
 - Squeeze one lemon into a glass of water and stop there.
@@ -507,11 +507,11 @@ you are the one doing what she says.
 - **The scooter or the balance bike**, on the flattest path you know
 - Feeding the ducks with this morning's crusts
 - A playground you drive past and never stop at
-- The garden or the front step, with the lemonade jug
+- The garden or the front step, with the lemonade pitcher
 
-> 👶 **Kreston's Afternoon:** At 8 months he goes in the pram while she scoots,
+> 👶 **Kreston's Afternoon:** At 8 months he goes in the stroller while she scoots,
 > and the wheels beside him are the entertainment. Stop somewhere flat and put
-> him down on a rug with a plastic jug and a wooden spoon. He fills, tips, bangs
+> him down on a rug with a plastic pitcher and a wooden spoon. He fills, tips, bangs
 > and starts again. Keep the squeezed lemon halves and every pip away from him.
 
 ---
@@ -544,7 +544,7 @@ you are the one doing what she says.
 > Tape paper or flattened boxes end to end down the hall floor, and check you have 2 cups of flour and a cup of salt, because tomorrow's playdough gets made tonight.
 
 ### ⏰ At-a-Glance Schedule
-- **8:00–9:00 AM** — 🌅 Opening Activity: Mixing Her Own Colour
+- **8:00–9:00 AM** — 🌅 Opening Activity: Mixing Her Own Color
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: Ten Fingers, Ten Toes (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
@@ -561,13 +561,13 @@ you are the one doing what she says.
 - **5:00–5:45 PM** — 🛁 Wind-Down: The Long Bath
 - **6:00 PM** — **Dinner**
 
-### 🌅 Opening Activity: Mixing Her Own Colour
+### 🌅 Opening Activity: Mixing Her Own Color
 
 **🧰 You need:** red, yellow, white and brown poster paint · 4 saucers · 1 wide soft brush.
 
 1. Put a blob of red, white and brown on three saucers and leave the fourth empty.
-2. She mixes her own skin colour in the empty saucer. She adds, you stir, she holds the back of her hand next to it and checks.
-3. Keep going until she says it matches. Nobody else gets a vote, and the colour she lands on is the one you use for the next two hours.
+2. She mixes her own skin color in the empty saucer. She adds, you stir, she holds the back of her hand next to it and checks.
+3. Keep going until she says it matches. Nobody else gets a vote, and the color she lands on is the one you use for the next two hours.
 
 ### 🎨 The Main Event: Ten Fingers, Ten Toes
 
@@ -593,13 +593,13 @@ you are the one doing what she says.
 ### 🌳 Get Outside: Boot Prints in the Mud
 
 March mud is the best mud of the year, wet through and no longer frozen. Go
-hunting in it for prints somebody else left: a bird, a dog, a tyre, the ridged
+hunting in it for prints somebody else left: a bird, a dog, a tire, the ridged
 sole of a boot. Work out together who came past and which way they went. The
 soft ones fill with water while you watch, which she will report to you at
 length.
 
 > 👶 **Infant Integration:** Kreston is 8 months and gets one foot printed on
-> the card beside Azlyn's hand. Sit him on your lap facing away, flannel open on
+> the card beside Azlyn's hand. Sit him on your lap facing away, washcloth open on
 > your knee, brush the sole and press the card up to the foot rather than the
 > foot down to the card. Then he stays out of the hall, because a crawling baby
 > and a painted floor make a bad afternoon.
@@ -615,35 +615,35 @@ of card.
 - 1 saucer of paint
 - Thick white paper or card
 - 1 magnifying glass, or your phone camera zoomed in
-- 1 torch
+- 1 flashlight
 - 1 fine pen or pencil
-- 1 wet flannel in a shallow bowl
+- 1 wet washcloth in a shallow bowl
 
 **📝 Step-by-Step Instructions:**
 1. Press one finger of each person into the paint and onto the card, in a row, and write the name under each print in pen.
-2. Do Kreston's while he is calm, with the flannel already in your other hand.
-3. Hand her the magnifying glass and hold the torch at a low angle across the card, so the loops throw shadows and lift off the paper.
+2. Do Kreston's while he is calm, with the washcloth already in your other hand.
+3. Hand her the magnifying glass and hold the flashlight at a low angle across the card, so the loops throw shadows and lift off the paper.
 4. Compare two prints at a time and ask her to find one difference. Yours against hers is the easiest pair to start on.
-5. Press a clean finger onto a window and shine the torch sideways at it, so she meets the print she leaves without any paint at all.
+5. Press a clean finger onto a window and shine the flashlight sideways at it, so she meets the print she leaves without any paint at all.
 6. Write the date on the card and store it with this morning's handprint card.
 
 > 💡 **Tip:** Tell her once that nobody in the world has her pattern, including Kreston, then stop talking and let her sit with it.
 
 ### 🎯 Afternoon Alternatives
 - Thumbprints only, turned into caterpillars with a pen.
-- Hunt for her own prints on the fridge door with the torch.
+- Hunt for her own prints on the fridge door with the flashlight.
 - Paint one big handprint each and hang them side by side.
 
 ### 🌳 Out Again: **Pick one**
 - **The riverside path**, to see how high the water is running after the rain
-- The neighbourhood park, boots on and nobody there
+- The neighborhood park, boots on and nobody there
 - A puddle circuit with no destination
-- The post box, and let her push the letter in
+- The mailbox, and let her push the letter in
 
-> 👶 **Kreston's Afternoon:** At 8 months the pram is fine for the path, but give
+> 👶 **Kreston's Afternoon:** At 8 months the stroller is fine for the path, but give
 > him ten minutes out of it on a blanket somewhere flat. He crawls to the edge,
 > meets grass with his palm and stops to think about it. Let him meet cold ground
-> on purpose while you sit there, then back in the pram before his hands cool.
+> on purpose while you sit there, then back in the stroller before his hands cool.
 
 ---
 
@@ -674,7 +674,7 @@ of card.
 > Make the playdough while the kettle boils: 2 cups flour, 1 cup salt, 1 tbsp oil, 1 cup water, kneaded warm, and leave it bagged on the counter with the hand mirror.
 
 ### ⏰ At-a-Glance Schedule
-- **8:00–9:00 AM** — 🌅 Opening Activity: Two Colours of Dough
+- **8:00–9:00 AM** — 🌅 Opening Activity: Two Colors of Dough
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Nose That Sticks Out (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
@@ -691,18 +691,18 @@ of card.
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath After Swimming
 - **6:00 PM** — **Dinner**
 
-### 🌅 Opening Activity: Two Colours of Dough
+### 🌅 Opening Activity: Two Colors of Dough
 
-**🧰 You need:** the dough · food colouring · 2 bowls · a floured board.
+**🧰 You need:** the dough · food coloring · 2 bowls · a floured board.
 
-1. Split the dough in half and put a few drops of colour into the middle of each lump. She pushes the colour in with her thumbs.
+1. Split the dough in half and put a few drops of color into the middle of each lump. She pushes the color in with her thumbs.
 2. Knead until the streaks disappear. It takes longer than she expects, which is the reason it sits at 8:00 and not at 9:15.
 3. Ask whose face she plans to make. Let her say it out loud, then leave her an hour to change her mind, because she will.
 
 ### 🎨 The Main Event: The Nose That Sticks Out
 
 **🧰 Complete Materials List:**
-- Playdough: 2 cups flour, 1 cup salt, 1 tbsp oil, 1 cup water, food colouring
+- Playdough: 2 cups flour, 1 cup salt, 1 tbsp oil, 1 cup water, food coloring
 - 1 hand mirror
 - 1 flat tray or board
 - 1 table knife and 1 fork for texture
@@ -722,7 +722,7 @@ of card.
 
 Take a bag and collect face parts off the ground: two matching stones for eyes,
 a stick for a mouth, a curl of bark for a nose, moss or dead grass for hair.
-Build the face on a flat bit of pavement or on a tree stump and leave it there
+Build the face on a flat bit of sidewalk or on a tree stump and leave it there
 for whoever comes next. Photograph it and check tomorrow whether it survived.
 
 > 👶 **Infant Integration:** Kreston is 8 months and faces are his subject this
@@ -798,7 +798,7 @@ on the tray without falling over.
 **Theme:** My Body & Senses
 
 ### 🌙 Prep Tonight
-> Put four sheets of paper, the masking tape and two elastic bands on the table, and wind off five metres of string onto a high shelf.
+> Put four sheets of paper, the masking tape and two elastic bands on the table, and wind off five meters of string onto a high shelf.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Rolling the Paper Cones
@@ -864,18 +864,18 @@ at the furthest one.
 
 ### 🎨 Second Main Event: The String Telephone
 
-Two cups and five metres of string between two rooms. She works out the rule
+Two cups and five meters of string between two rooms. She works out the rule
 before you get to say it.
 
 **🧰 Complete Materials List:**
 - 2 paper cups or clean yoghurt pots
-- 3–5 metres of string
+- 3–5 meters of string
 - 1 pencil or skewer to pierce the cups (**adult only**)
 - 2 paperclips or matchsticks to anchor the knots
 - Scissors (**adult only**)
 
 **📝 Step-by-Step Instructions:**
-1. Pierce one small hole in the bottom of each cup yourself, dead centre, with her hands well back.
+1. Pierce one small hole in the bottom of each cup yourself, dead center, with her hands well back.
 2. Thread the string in from the outside and knot it round a paperclip inside the cup so it cannot pull back through. She holds the cup while you tie.
 3. Test it across one room, both of you standing, string pulled tight. You talk, she listens, then swap over.
 4. Let the string go slack and try again. She gets nothing, and she will tell you before you ask. Run it round a door frame into the next room and it dies at the corner too. Leave her to find the straight line that brings it back.
@@ -981,7 +981,7 @@ before she has the word. Then go hunting: a chimney with smoke, bin day, a
 laundry vent. One word each.
 
 > 👶 **Infant Integration:** Kreston is 8 months and knows your smell better than
-> your face on a bad day, which is why your jumper settles him faster than a toy.
+> your face on a bad day, which is why your sweater settles him faster than a toy.
 > Hold him in the kitchen doorway once the oranges start and watch his face open
 > up. Give him the third orange, whole and too big to fit in his mouth, and let
 > him gnaw the skin while you sit with him.
@@ -990,7 +990,7 @@ laundry vent. One word each.
 
 ### 🎨 Second Main Event: The House That Smells of Oranges
 
-Peel and cinnamon go on the hob at the lowest setting, and the house changes
+Peel and cinnamon go on the stovetop at the lowest setting, and the house changes
 around her while she draws.
 
 **🧰 Complete Materials List:**
@@ -1006,14 +1006,14 @@ around her while she draws.
 2. Drop the peel into the pan with the cinnamon and enough water to cover it. Back ring, lowest heat, handle turned in.
 3. Set her up at the table beside the kitchen with paper, crayons and paint, and no subject.
 4. Say nothing about the smell. It arrives on its own over about fifteen minutes, and she will be the one who mentions it.
-5. Top the water up as it drops. She can hand you the jug.
+5. Top the water up as it drops. She can hand you the pitcher.
 6. Halfway through, read her the week's written-down words: the touch words, the taste words, this morning's smell words.
 7. Ask which one she wants to keep. Write that word big across the top of whatever she has drawn, and put it on the fridge.
 
 > 💡 **Tip:** Hold off asking her what she has drawn. If she wants you to know, she tells you, and the question turns her paper into a test she can get wrong.
 
 ### 🎯 Afternoon Alternatives
-- Orange peel and cloves pushed into a pomander, no hob involved.
+- Orange peel and cloves pushed into a pomander, no stovetop involved.
 - Warm cinnamon toast and eat it while it fills the kitchen.
 - Bury the six pots in a basket of rice and let her dig them out.
 
@@ -1041,7 +1041,7 @@ around her while she draws.
 > tells you what it is anyway, and the telling comes from her rather than to
 > order.
 
-> ⚠️ **Safety:** A pan simmering on the hob for an hour with a crawling
+> ⚠️ **Safety:** A pan simmering on the stovetop for an hour with a crawling
 > 8-month-old in the house. Back ring only, handle turned in, and it goes off the
 > heat if you leave the kitchen. Ground cinnamon and coffee sting in the eyes, so
 > the pots stay lidded and go up high when she is done with them.

@@ -72,10 +72,10 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] String or thick wool
 - [ ] Elastic bands
 - [ ] Six small treasures: stickers, raisins, a small toy
-- [ ] A small prize for the hunt: a biscuit or stickers
+- [ ] A small prize for the hunt: a cookie or stickers
 - [ ] An egg timer, or the timer on your phone
 - [ ] A ping-pong ball, or foil to roll a tight one
-- [ ] Tea towels, 2
+- [ ] Dish towels, 2
 - [ ] Bowls, 4, or use the paper bags
 - [ ] A washing-up bowl
 - [ ] A laundry basket
@@ -86,7 +86,7 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] A blanket for the floor
 - [ ] A teddy she can spare for the day
 - [ ] Household objects bigger than her fist, 8–10: mug, wooden spoon, hairbrush, sock, apple, board book, sponge, shoe
-- [ ] Objects that feel different from each other, 8–10: orange, flannel, scrubbing brush, bath sponge
+- [ ] Objects that feel different from each other, 8–10: orange, washcloth, scrubbing brush, bath sponge
 - [ ] A pillowcase or a tote bag
 - [ ] Mixed objects and toys for the sorting basket, 20–30
 - [ ] A printed photo of her, in case the drawing does not happen
@@ -200,7 +200,7 @@ a timer.
 - 2 trays or baking sheets
 - 2 sheets of paper
 - 1 marker
-- 1 tea towel
+- 1 dish towel
 - An egg timer or the phone timer
 
 **📝 Step-by-Step Instructions:**
@@ -209,7 +209,7 @@ a timer.
 3. Two minutes on the clock. Build a picture on your tray without showing her while she builds one on hers.
 4. Slide your tray alongside hers with your picture still standing on it. She clears her own tray and copies yours piece by piece. Set the timer again.
 5. She will get stuck. Let her pick her tray up and turn it round rather than point at the piece she needs.
-6. One round from memory, three pieces only. Build a small shape, give her a slow count of five, drop the tea towel over it and let her go. Three she can hold in her head at this age. Asking for seven ends the afternoon.
+6. One round from memory, three pieces only. Build a small shape, give her a slow count of five, drop the dish towel over it and let her go. Three she can hold in her head at this age. Asking for seven ends the afternoon.
 7. Let her set the timer for the last round, then tip both sets into one pile and build one enormous animal.
 
 > 💡 **Tip:** Rebuilding someone else's picture is harder than making your own,
@@ -219,7 +219,7 @@ a timer.
 - One set only, taking turns to build on the same tray.
 - Solve the four outline cards and stop there.
 - Cut a third set and post one piece to a grandparent.
-- Draw round every piece on one sheet and colour them in.
+- Draw round every piece on one sheet and color them in.
 
 ### 🌳 Out Again: **Pick one**
 - **Meet a friend at the park**, and take the outline cards
@@ -237,7 +237,7 @@ a timer.
 
 The seven pieces on your table are Chinese and they are old. The puzzle is
 called *qi qiao ban*, seven boards of skill, and Chinese printers were selling
-books of tangram figures by the early 1800s. Sets travelled, and by 1818
+books of tangram figures by the early 1800s. Sets traveled, and by 1818
 Europe and America were in the middle of a tangram craze, thousands of shapes,
 every one using all seven pieces and nothing else.
 
@@ -298,7 +298,7 @@ every one using all seven pieces and nothing else.
 
 **🧰 You need:** 1 sheet of cereal-box card · crayons · 1 printed photo of her, in case the drawing does not happen · 1 glue stick.
 
-1. Give her the card blank side up and ask for a drawing that goes to the edges. Big shapes, heavy colour, no white left. A photo does the same job if she is not in the mood.
+1. Give her the card blank side up and ask for a drawing that goes to the edges. Big shapes, heavy color, no white left. A photo does the same job if she is not in the mood.
 2. Sit and draw your own beside her without commenting on hers.
 3. Tell her what happens at 9:15: you cut it into pieces. Let her add anything she wants first.
 
@@ -370,7 +370,7 @@ comes back.
 
 ### 🌳 Out Again: **Pick one**
 - **The aquarium**, the week's big outing, and the dark rooms suit Kreston
-- Soft play if the aquarium queue is a Saturday one
+- Soft play if the aquarium line is a Saturday one
 - The pet shop, for fish at a tenth of the price
 - A walk to water, a river or a pond, and count what moves in it
 - Home, blankets, and the jigsaw on the floor
@@ -464,12 +464,12 @@ comes back.
 
 Walk the street and try every fastening you are allowed to touch. The park
 gate with the drop bolt, the churchyard latch, your back gate, the catch on
-the recycling bin, the brake on the pram. Cold metal takes a firmer hand than
+the recycling bin, the brake on the stroller. Cold metal takes a firmer hand than
 a plastic lid.
 
 > 👶 **Infant Integration:** Kreston is 7 months. Seal something rattly inside
 > a clip-lid tub and hand it over. He cannot open it, so he shakes it, bangs
-> it and passes it hand to hand. Hide a toy under a tea towel while he
+> it and passes it hand to hand. Hide a toy under a dish towel while he
 > watches, and the first time he pulls it off he will look up at you.
 
 <div style="page-break-after: always;"></div>
@@ -506,7 +506,7 @@ across is through.
 
 ### 🌳 Out Again: **Pick one**
 - **A playground you have never been to**, and let her lead once you are there
-- Your usual park, if the new one is a car park with a swing
+- Your usual park, if the new one is a parking lot with a swing
 - The woods loop, for gates, stiles and cold mud
 - A drive to somewhere with a view, staying in the warm car
 
@@ -522,7 +522,7 @@ across is through.
 > Six lids is an hour of Azlyn trying a thing, failing, and trying a different
 > thing. That loop is the skill and it travels. Researchers who follow
 > children into school find that staying with a hard task predicts more than
-> early letter knowledge. A closed container is a good place to practise,
+> early letter knowledge. A closed container is a good place to practice,
 > because the problem is honest: the lid is off or it is not, no adult decides
 > whether she did well, and the treasure pays out the second she solves it.
 > She sets her own difficulty, picking which one to attack next. You keep your
@@ -545,7 +545,7 @@ across is through.
 **Theme:** Puzzles & Problem Solving
 
 ### 🌙 Prep Tonight
-> Cut sixteen palm-sized cards from the week's offcuts, leave them in a shoebox lid with the crayons, and put a clean tray and a tea towel on the table.
+> Cut sixteen palm-sized cards from the week's offcuts, leave them in a shoebox lid with the crayons, and put a clean tray and a dish towel on the table.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Filling the Tray
@@ -567,18 +567,18 @@ across is through.
 
 ### 🌅 Opening Activity: Filling the Tray
 
-**🧰 You need:** 1 tray · the run of the house · 1 tea towel.
+**🧰 You need:** 1 tray · the run of the house · 1 dish towel.
 
 1. Hand her the tray and send her round the house for eight things bigger than her fist. You veto nothing that fits the rule.
 2. Lay them out in two rows of four and name each one out loud. Let her shuffle them until it looks right to her.
-3. Cover the tray with the tea towel and leave it on the table. Say nothing about what happens next.
+3. Cover the tray with the dish towel and leave it on the table. Say nothing about what happens next.
 
 ### 🎨 The Main Event: What's Missing from the Tray
 
 **🧰 Complete Materials List:**
 - 1 tray
 - 8–10 household objects bigger than her fist: mug, wooden spoon, hairbrush, sock, apple, board book, sponge, shoe
-- 1 tea towel to cover the tray
+- 1 dish towel to cover the tray
 - Paper and a pencil for keeping score
 
 **📝 Step-by-Step Instructions:**
@@ -596,13 +596,13 @@ across is through.
 
 Walk ten minutes out from the door, taking three or four turns, then hand the
 job over: she gets you home. Name what you pass on the way out, the red door,
-the postbox, the dog behind the fence. January sun sits low enough to change
+the mailbox, the dog behind the fence. January sun sits low enough to change
 how the street looks coming back, so expect one wrong turn and let her walk
 into it.
 
 > 👶 **Infant Integration:** Kreston is 7 months and working on Azlyn's
 > question: does a thing still exist when nobody can see it. Play peekaboo
-> with the tea towel over your face, then over a toy. Give him the wooden
+> with the dish towel over your face, then over a toy. Give him the wooden
 > spoon off the tray and let him drop it from the high chair. He is checking
 > that it lands every time, and it does.
 
@@ -638,7 +638,7 @@ herself.
 
 ### 🌳 Out Again: **Pick one**
 - **Green space and a ball**, the Monday slot, and a ball is warmer than a bench
-- The neighbourhood park if the grass is under water
+- The neighborhood park if the grass is under water
 - A walk with one job: find five things you saw this morning
 - The big field, for running in a straight line until she stops
 - Round the block on the scooter while the light holds
@@ -678,7 +678,7 @@ herself.
 **Theme:** Puzzles & Problem Solving
 
 ### 🌙 Prep Tonight
-> Fill a laundry basket with twenty or thirty mixed things, take the knives out of the cutlery drawer, and put a biscuit or stickers aside for tomorrow.
+> Fill a laundry basket with twenty or thirty mixed things, take the knives out of the cutlery drawer, and put a cookie or stickers aside for tomorrow.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Basket of Everything
@@ -695,7 +695,7 @@ herself.
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
 - **4:15–5:00 PM** — Quiet Play: The Sorting Bowls
-- **5:00–5:45 PM** — 🛁 Wind-Down: After Swimming, Straight to Pyjamas
+- **5:00–5:45 PM** — 🛁 Wind-Down: After Swimming, Straight to Pajamas
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: The Basket of Everything
@@ -715,7 +715,7 @@ herself.
 - Masking tape
 
 **📝 Step-by-Step Instructions:**
-1. Four bowls, four colours. Tape a coloured scrap to each or write the colour word on it. She sorts the whole pile, and the two-colour ones are hers to call.
+1. Four bowls, four colors. Tape a colored scrap to each or write the color word on it. She sorts the whole pile, and the two-color ones are hers to call.
 2. Walk her along the four bowls and count each one out loud. Announce the winner.
 3. Tip the lot back into one pile.
 4. Same objects, new rule: things that need two hands, things that fit in one. Two bowls. She will complain about starting again, then beat her own time.
@@ -747,17 +747,17 @@ fixed two things you meant to fix in November.
 **🧰 Complete Materials List:**
 - All the tupperware boxes and lids
 - The cutlery drawer, **knives removed first**
-- 1 tea towel
+- 1 dish towel
 - 1 washing-up bowl
-- Masking tape and a marker for labelling shelves
+- Masking tape and a marker for labeling shelves
 
 **📝 Step-by-Step Instructions:**
 1. Take every knife and skewer out of the drawer and onto the top of the fridge before she comes into the kitchen.
-2. Tip all the tupperware onto the floor. Lids in one heap, boxes in another, a metre apart.
+2. Tip all the tupperware onto the floor. Lids in one heap, boxes in another, a meter apart.
 3. She matches. Hand her the three most obvious, then stand back. A lid that almost fits is the best part of the job.
 4. Any box with no lid goes in the washing-up bowl, out of the house or into the craft pile. She makes the call.
 5. Stack the matched boxes biggest at the bottom and put them back on the shelf. Tape a label on the shelf edge and let her say what to write.
-6. Now the drawer. Tip it onto the tea towel and let her sort each piece back into its slot: forks, spoons, teaspoons, a bowl for the odd stuff.
+6. Now the drawer. Tip it onto the dish towel and let her sort each piece back into its slot: forks, spoons, teaspoons, a bowl for the odd stuff.
 7. Leave the drawer open. She checks her own work at 4:00 when she does the forks.
 
 > 💡 **Tip:** Do not re-sort behind her tonight. She walks past that drawer
@@ -771,7 +771,7 @@ fixed two things you meant to fix in November.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the Tuesday anchor, and the fourth of the year
-- The indoor play centre if the pool is shut
+- The indoor play center if the pool is shut
 - A warm café and a window seat, if nobody has it in them
 - Home, a warm bath instead, and an extra book at five
 
@@ -787,10 +787,10 @@ fixed two things you meant to fix in November.
 > **Classification is quiet, invisible math.**
 > Before Azlyn can count six forks she has to decide what a fork is and that
 > these six are all one kind of thing. Sorting is where that gets settled.
-> Every bowl she fills is a set, every argument about the two-colour ones is
+> Every bowl she fills is a set, every argument about the two-color ones is
 > her testing where the edge of a category sits, and number is built on top of
 > that. The second sort does something further. Running a new rule over the
-> same objects, colour one hour and size the next, is the flexible half of the
+> same objects, color one hour and size the next, is the flexible half of the
 > job, and it is harder than the first sort. You have her pairing socks and
 > sorting cutlery already. Same task, real result.
 
@@ -809,7 +809,7 @@ fixed two things you meant to fix in November.
 **Theme:** Puzzles & Problem Solving
 
 ### 🌙 Prep Tonight
-> Leave an empty pillowcase and a clean tray on the table, hide the biscuit or the stickers, and check you have two rolls of masking tape for tomorrow.
+> Leave an empty pillowcase and a clean tray on the table, hide the cookie or the stickers, and check you have two rolls of masking tape for tomorrow.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Choosing the Secret Objects
@@ -841,7 +841,7 @@ fixed two things you meant to fix in November.
 
 **🧰 Complete Materials List:**
 - 1 pillowcase or tote bag
-- 8–10 objects with different textures, all bigger than a fist: orange, hairbrush, scrubbing brush, wooden spoon, flannel, shoe, mug, bath sponge
+- 8–10 objects with different textures, all bigger than a fist: orange, hairbrush, scrubbing brush, wooden spoon, washcloth, shoe, mug, bath sponge
 - 1 tray to lay the guessed ones on
 
 **📝 Step-by-Step Instructions:**
@@ -862,7 +862,7 @@ a plane, your own boots on the grit. Do it again by a road and behind a hedge,
 and ask which was louder. She points at the road with her eyes still shut.
 
 > 👶 **Infant Integration:** Kreston is 7 months and his mouth is still his
-> best instrument for finding out what a thing is. Give him a flannel, a wooden
+> best instrument for finding out what a thing is. Give him a washcloth, a wooden
 > spoon and a silicone spatula, one at a time. Put words on each while he
 > works it over. Keep the bath sponge in the bag and out of his reach,
 > because it comes apart in bits.
@@ -878,7 +878,7 @@ waits.
 - Paper cut into 6 cards
 - Crayons
 - Masking tape
-- 1 small prize: a biscuit or a sticker
+- 1 small prize: a cookie or a sticker
 - 1 teddy to hide
 
 **📝 Step-by-Step Instructions:**
@@ -899,13 +899,13 @@ waits.
 - Draw a map of the downstairs and mark an X on it.
 
 ### 🌳 Out Again: **Pick one**
-- **The indoor play centre**, the Wednesday slot, and it is too cold for the park
+- **The indoor play center**, the Wednesday slot, and it is too cold for the park
 - Soft play with the quiet session, if the big one is full of school-run crowds
 - The library, a week early, and take out something with flaps in it
 - The shops, and let her carry one thing and pay for it
 - A friend's house with the mystery bag in your coat pocket
 
-> 👶 **Kreston's Afternoon:** The baby area at the play centre is his. Sit him
+> 👶 **Kreston's Afternoon:** The baby area at the play center is his. Sit him
 > in the ball pit shallows with a hand on his back, because at 7 months he
 > sits well but tips at speed. Mirrors at his level beat any of the toys.
 > Twenty minutes, then out to somewhere quieter.
@@ -924,7 +924,7 @@ waits.
 > anybody guesses, is what does the work.
 
 > ⚠️ **Safety:** The bath sponge comes apart in bits, so it goes back in the
-> bag between turns and the bag stays off the floor. Hide the biscuit
+> bag between turns and the bag stays off the floor. Hide the cookie
 > somewhere Kreston cannot get to, and let Azlyn eat it before you put him
 > down. Press the tape ends flat on every clue you stick up at his height, and
 > pull them all off the walls once the hunt is over.
@@ -1042,7 +1042,7 @@ thing going through the maze is her.
 > 👶 **Kreston's Afternoon:** Put him at the finish next to teddy, so Azlyn's
 > arrival is the reward for the pair of them. He is 7 months and picking at
 > edges with his fingers, so press the tape ends flat and pull up anything
-> that has lifted. In the post office queue, hand him something to hold before
+> that has lifted. In the post office line, hand him something to hold before
 > he decides for himself.
 
 ---

@@ -11,7 +11,7 @@ Most of the kindness around Azlyn happens out of her sight. The shopping
 arrives, the heating comes on, somebody made the dinner. This week she does it
 herself seven times over: a verse for every person in the house, a show for an
 audience of one, bird cakes for a frozen January, three real jobs before lunch,
-soup for the neighbours, a box of her own toys given away, biscuits and cards
+soup for the neighbors, a box of her own toys given away, cookies and cards
 on Thursday. One thread runs under all of it. The Good Thing Jar goes on the
 kitchen table on Friday and takes a paper strip every time somebody here does
 something for somebody else, and nobody reads a single strip until Day 21.
@@ -28,7 +28,7 @@ goes to and carries the jar to the door herself.
 - **Making up a verse to a tune she knows.** Holding the beat, feeling where the line has to land, and getting words there before the bar runs out.
 - **Running a show start to finish.** Waiting behind a curtain, coming out on her name, doing three items in the order she chose, and ending it.
 - **Real jobs with a real result.** Six potatoes scrubbed go in the soup, socks come back as pairs, soft vegetables get cut with a table knife she controls.
-- **Choosing what to give and handing it over.** A toy box into a stranger's hands, a jar of soup next door, biscuits on three doorsteps.
+- **Choosing what to give and handing it over.** A toy box into a stranger's hands, a jar of soup next door, cookies on three doorsteps.
 - **Plain words for how people look.** Skin, hair and eyes named out loud, and a crayon found for her own arm, yours and Kreston's.
 
 ---
@@ -74,7 +74,7 @@ goes to and carries the jar to the door herself.
 - [ ] A sheet or thin blanket for the curtain
 - [ ] 2 blankets, one for the window seat and one for the sofa
 - [ ] 6 clothes pegs or bulldog clips
-- [ ] A torch with working batteries
+- [ ] A flashlight with working batteries
 - [ ] A cushion
 - [ ] 3 chairs you can move, two for the curtain and one for the window
 - [ ] A low stool
@@ -84,31 +84,31 @@ goes to and carries the jar to the door herself.
 - [ ] A large mixing bowl
 - [ ] A large pot and a ladle
 - [ ] A rolling pin
-- [ ] A biscuit cutter, or an upturned glass
+- [ ] A cookie cutter, or an upturned glass
 - [ ] A baking tray and baking paper
 - [ ] A cooling rack, or a cold plate
 - [ ] A table knife and a chopping board for her
 - [ ] A washing-up bowl
-- [ ] A jug
+- [ ] A pitcher
 - [ ] A small scrubbing brush
 - [ ] A spray bottle of water
 - [ ] 2 cloths and an old towel for the floor
-- [ ] A tea towel
+- [ ] A dish towel
 - [ ] A shallow dish, an old plant saucer or a takeaway lid
 - [ ] A hairbrush, the second microphone
 - [ ] 250 g lard or solid vegetable fat (smooth peanut butter works instead)
 - [ ] 500 g birdseed, or porridge oats, breadcrumbs, raisins and sunflower seeds
 - [ ] 200 g butter
-- [ ] 100 g caster sugar
+- [ ] 100 g superfine sugar
 - [ ] 300 g plain flour
 - [ ] Milk
 - [ ] Sprinkles
 - [ ] 6 potatoes, scrubbed by her and cooked in Monday's soup
 - [ ] Carrots, 3 for the soup and a few spare
 - [ ] 1 onion
-- [ ] 1 courgette, or a handful of mushrooms
+- [ ] 1 zucchini, or a handful of mushrooms
 - [ ] 1 tin of chopped tomatoes, or 2 stock cubes
-- [ ] 2 biscuits and a drink for Saturday's audience of one
+- [ ] 2 cookies and a drink for Saturday's audience of one
 - [ ] The sock basket, left unsorted until Monday
 - [ ] Three people lined up for Wednesday's phone calls
 - [ ] Your phone, charged, for one song on Friday and one on Saturday
@@ -220,7 +220,7 @@ The jar lands on the kitchen table today and stays all week. Good things go in o
 6. Do three strips about her without using the word *good* or the word *girl*. Name the action: **Azlyn carried the basket to the door.**
 7. Put the jar where she can reach it. Anybody can post one, any time, and nobody reads them until Thursday.
 
-> 💡 **Tip:** Write what the person did, never what the person is. "Azlyn shared the biscuit" is something she can do again tomorrow. "Azlyn is kind" is a verdict, and a verdict is harder to live with.
+> 💡 **Tip:** Write what the person did, never what the person is. "Azlyn shared the cookie" is something she can do again tomorrow. "Azlyn is kind" is a verdict, and a verdict is harder to live with.
 
 ### 🎯 Afternoon Alternatives
 - Decorate the jar, post one strip, and leave the week to fill it.
@@ -278,7 +278,7 @@ a one-word translation, and no single English word holds it.
 **Theme:** Kindness & Community
 
 ### 🌙 Prep Tonight
-> Find a sheet or thin blanket for a curtain, dig out six pegs and the torch, and stand two dining chairs either side of the kitchen doorway.
+> Find a sheet or thin blanket for a curtain, dig out six pegs and the flashlight, and stand two dining chairs either side of the kitchen doorway.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The One Ticket
@@ -312,7 +312,7 @@ a one-word translation, and no single English word holds it.
 - 1 sheet or thin blanket for the curtain
 - 2 dining chairs
 - 6 clothes pegs or bulldog clips
-- 1 torch as a spotlight
+- 1 flashlight as a spotlight
 - 1 cushion for the audience seat
 - The ticket she made at 8:00
 - Card and crayons for a sign
@@ -322,7 +322,7 @@ a one-word translation, and no single English word holds it.
 2. Put the cushion on the floor a few paces back. The auditorium seats one.
 3. Ask her what the show is. Take the first three answers and write them on the card in order: a song, a dance, a jump off the bottom stair.
 4. Rehearse the opening on its own. She waits behind the sheet, you say her name, she pulls the curtain and comes out. Do it four times. The coming out is the part she is learning.
-5. Run all three items once in order with the torch on her from the cushion.
+5. Run all three items once in order with the flashlight on her from the cushion.
 6. Stop while she still wants more. The show is at 1:00.
 
 > 💡 **Tip:** Resist adding a fourth item. Three things she can hold in her head beat six she has to be reminded of, and a show she runs unprompted is one she owns.
@@ -342,19 +342,19 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 **🧰 Complete Materials List:**
 - The stage and curtain
 - The ticket
-- 1 torch
+- 1 flashlight
 - 1 hairbrush as a microphone
 - 1 saucepan drum
-- 2 biscuits and a drink for the audience
+- 2 cookies and a drink for the audience
 - Your phone, to film one song
 
 **📝 Step-by-Step Instructions:**
-1. Seat the audience. One cushion, one person, biscuits and a drink in their hands. Nobody watches from the doorway.
+1. Seat the audience. One cushion, one person, cookies and a drink in their hands. Nobody watches from the doorway.
 2. Take the delivered ticket at the door and tear the corner off. She will care about this more than any other thirty seconds of the afternoon.
-3. Announce her by her full name from behind the curtain, then get out of the way. Torch on, big light off.
+3. Announce her by her full name from behind the curtain, then get out of the way. Flashlight on, big light off.
 4. Watch the whole thing. No correcting the running order, no feeding her the words. Clap after each item.
 5. Ask for one of them again. An encore from an audience of one is the point of the afternoon.
-6. Swap over. She takes the cushion and the second biscuit, you go behind the curtain and do a song.
+6. Swap over. She takes the cushion and the second cookie, you go behind the curtain and do a song.
 7. Leave the stage up. She runs the show again at 4:15 with nobody watching, and that version belongs to her.
 
 > 💡 **Tip:** Film one song at the start, then put the phone face down. She can tell a parent watching from a parent recording, and she plays to the room she is given.
@@ -401,7 +401,7 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 **Theme:** Kindness & Community
 
 ### 🌙 Prep Tonight
-> Take the lard out to soften overnight and put the yoghurt pots, the birdseed and a metre of string beside it.
+> Take the lard out to soften overnight and put the yoghurt pots, the birdseed and a meter of string beside it.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Window Count
@@ -453,7 +453,7 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 
 Walk the usual route with one job: find where the birds already are. In January they cluster in thick hedges, in anything with berries still on it, and in whatever the bramble kept. Stand still under a hedge for a minute and listen before either of you looks up. Let her choose the branch the cakes hang from on the way home.
 
-> 👶 **Infant Integration:** Kreston is 7 months. Hold him up to the glass before you go out, tap where a bird lands and wait. He follows a pointing finger on a good day and stares at the finger on a bad one. Outside, stop the pram under the hedge and let him turn his head towards a sound with nothing attached to it.
+> 👶 **Infant Integration:** Kreston is 7 months. Hold him up to the glass before you go out, tap where a bird lands and wait. He follows a pointing finger on a good day and stares at the finger on a bad one. Outside, stop the stroller under the hedge and let him turn his head towards a sound with nothing attached to it.
 
 <div style="page-break-after: always;"></div>
 
@@ -465,7 +465,7 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 - The set bird cakes
 - String and scissors
 - 1 shallow dish, an old plant saucer or a takeaway lid
-- A jug of warm water to thaw the dish
+- A pitcher of warm water to thaw the dish
 - 1 chair pulled to the window
 - Paper and 1 crayon for the tally
 - 1 blanket
@@ -490,11 +490,11 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 ### 🌳 Out Again: **Pick one**
 - **The scooter or the balance bike**, helmet on, to the end of the road and back
 - The park, counting birds there and back
-- A long loop with the pram and no destination
+- A long loop with the stroller and no destination
 - Feed the ducks with the crusts she has been saving
 - The playing field, empty on a January Sunday
 
-> 👶 **Kreston's Afternoon:** He faces Azlyn in the pram while she scoots, so turn the seat round. At 7 months he tracks a moving thing across his whole field of view, and a sister on wheels is the best one going. Back at the window he sits on your lap and slaps the glass, which is a fair contribution to the tally.
+> 👶 **Kreston's Afternoon:** He faces Azlyn in the stroller while she scoots, so turn the seat round. At 7 months he tracks a moving thing across his whole field of view, and a sister on wheels is the best one going. Back at the window he sits on your lap and slaps the glass, which is a fair contribution to the tally.
 
 ---
 
@@ -585,21 +585,21 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 
 **🧰 Complete Materials List:**
 - 1 onion, 3 carrots, the 6 potatoes she scrubbed this morning
-- 1 courgette or a handful of mushrooms, soft for her knife
+- 1 zucchini or a handful of mushrooms, soft for her knife
 - 1 tin of chopped tomatoes or 2 stock cubes
-- 2 litres water
+- 2 liters water
 - 1 table knife and 1 chopping board for her
 - 1 large pot and 1 ladle
 - 1 clean jar with a screw lid
-- 1 tea towel
+- 1 dish towel
 
 **📝 Step-by-Step Instructions:**
 1. Set her up at the table with the board, the table knife and the soft vegetables. The hard ones are yours.
 2. Show her the grip once: fingers curled back, other hand flat on the blade, push down and forward. Then let her do it her own way.
 3. Everything she cuts goes in the pot, including the pieces the size of her fist. Soup forgives.
-4. Onto the hob with the tomatoes, the stock and the water. She stirs from the stool with your hand over hers, pan handle turned in.
+4. Onto the stovetop with the tomatoes, the stock and the water. She stirs from the stool with your hand over hers, pan handle turned in.
 5. Thirty minutes of simmering, and in the gap she chooses which house gets the jar.
-6. Ladle half in once it has stopped steaming, screw the lid down, wrap the tea towel round it and hand it to her.
+6. Ladle half in once it has stopped steaming, screw the lid down, wrap the dish towel round it and hand it to her.
 7. Deliver it before dinner, or ring ahead and take it tomorrow. She hands it over herself.
 
 > 💡 **Tip:** Do not give her a line to say at the door. Whatever comes out will be better than anything you could have written.
@@ -613,11 +613,11 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 ### 🌳 Out Again: **Pick one**
 - **The woods loop**, muddy in January and better for it
 - The riverside path, to see how high the water is
-- The neighbourhood park, twenty minutes, then home to the pot
+- The neighborhood park, twenty minutes, then home to the pot
 - A drive to drop the jar off, with her holding it
 - The green space with a ball, for whatever the morning left in her
 
-> 👶 **Kreston's Afternoon:** He goes in the carrier for the woods, facing out. At 7 months he grabs everything within reach, so keep low branches away from his hands and check what comes back in his fist. He stays out of the kitchen while the pot is on the hob, and gets the empty tin and a wooden spoon once it is off.
+> 👶 **Kreston's Afternoon:** He goes in the carrier for the woods, facing out. At 7 months he grabs everything within reach, so keep low branches away from his hands and check what comes back in his fist. He stays out of the kitchen while the pot is on the stovetop, and gets the empty tin and a wooden spoon once it is off.
 
 ---
 
@@ -631,7 +631,7 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 > pot in front of her. Take the offer while she is still making it, and let the
 > standard be hers.
 
-> ⚠️ **Safety:** Hot pot on the hob with a three-year-old at counter height:
+> ⚠️ **Safety:** Hot pot on the stovetop with a three-year-old at counter height:
 > pan handles turned in, she stirs from the stool with your hand on hers, and
 > the soup goes into the jar cool enough to hold. The knives you use stay out
 > of reach between cuts.
@@ -686,7 +686,7 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 1. Start with clothes. Anything she has grown out of comes off the shelf, and she holds each thing once before it goes in.
 2. Move on to toys. She chooses. You get one veto for the whole morning, so hold onto it.
 3. She wipes every item with the damp cloth before it goes in. She is sending these out in good condition and her hands do that part.
-4. Anything broken goes in the separate bag. Broken things are rubbish, and she gets to be the one who says which is which.
+4. Anything broken goes in the separate bag. Broken things are trash, and she gets to be the one who says which is which.
 5. Ask her for one line about each toy, meant for the child who gets it. Write it word for word on a strip of tape and stick it on: **THIS ONE ROLLS DOWN THE STAIRS.**
 6. Tape the box shut, let her draw on the lid, and stand it by the front door where she walks past it.
 
@@ -694,7 +694,7 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 
 ### 🌳 Get Outside: Delivering the Box
 
-The box goes today, while it still means something to her. Load it into the bottom of the pram and walk it to the charity shop, the church porch or the family two streets over with a smaller child. Let her carry it the last twenty feet even though it is too big for her, and hand it across herself. Ask whoever takes it to tell her where it goes next.
+The box goes today, while it still means something to her. Load it into the bottom of the stroller and walk it to the charity shop, the church porch or the family two streets over with a smaller child. Let her carry it the last twenty feet even though it is too big for her, and hand it across herself. Ask whoever takes it to tell her where it goes next.
 
 > 👶 **Infant Integration:** Kreston is 7 months and everything in that box has been in his mouth at some point, so wipe as you pack. Give him one toy that is staying, a soft one of Azlyn's she has agreed to lend for the morning, and watch what happens when she takes it back. He does not mind yet. That window shuts somewhere around his first birthday.
 
@@ -734,7 +734,7 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 - Soft play if the pool session is cancelled
 - The library, a day early, for something to read in the bath
 - A warm café and a window, if the morning has used everybody up
-- The indoor play centre
+- The indoor play center
 
 > 👶 **Kreston's Afternoon:** He comes to the pool if he is coming. At 7 months he sits supported in the water and slaps at it with both hands, and he aims the splash at a person now. Twenty minutes, then out and dressed before he goes cold. Never out of arm's reach.
 
@@ -802,14 +802,14 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 - 1 pencil
 
 **📝 Step-by-Step Instructions:**
-1. Tip the whole box out. Every colour on the table, nothing sorted, nothing put back.
+1. Tip the whole box out. Every color on the table, nothing sorted, nothing put back.
 2. She holds crayons against her own forearm one at a time until she finds the closest match. The hunting takes longer than you expect and it is the work.
 3. Do the same on your arm, then on Kreston's. Three people, three crayons, and she picks all three.
 4. Line the three up on the paper and let her see how close together they sit.
 5. Open the photos on your phone. She names people she knows and picks a crayon for each: grandparents, the girl from playgroup, the man at the shop counter.
-6. She draws everybody in the colours she chose. Write the names on for her and put one on the fridge before lunch.
+6. She draws everybody in the colors she chose. Write the names on for her and put one on the fridge before lunch.
 
-> 💡 **Tip:** If she decides somebody's colour is wrong, agree that skin comes in more colours than the box holds, and show her how to lay two crayons over each other.
+> 💡 **Tip:** If she decides somebody's color is wrong, agree that skin comes in more colors than the box holds, and show her how to lay two crayons over each other.
 
 ### 🌳 Get Outside: The Hello Walk
 
@@ -860,7 +860,7 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 
 > 🧠 **A Little Parenting Insight**
 > **Children notice difference early, and silence teaches something.**
-> Azlyn clocked skin colour around her second birthday and has sorted people by
+> Azlyn clocked skin color around her second birthday and has sorted people by
 > it ever since, the same way she sorts crayons and socks. Saying nothing feels
 > neutral from the inside. Children read an adult's silence as a signal that a
 > subject is off limits, then fill the gap with an explanation of their own.
@@ -888,9 +888,9 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Reading the Jar
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — 🎨 The Main Event: Thank-You Biscuits (60 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Thank-You Cookies (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: The Biscuit Round (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Cookie Round (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -909,13 +909,13 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 
 1. Tip the whole jar out and let her push the strips around with both hands. There should be twenty or more.
 2. Read every one out loud. All of them, including the four that say the same thing.
-3. Sort them into piles, one per person, and count each pile out loud. That count is how many biscuits get cut at 9:15.
+3. Sort them into piles, one per person, and count each pile out loud. That count is how many cookies get cut at 9:15.
 
-### 🎨 The Main Event: Thank-You Biscuits
+### 🎨 The Main Event: Thank-You Cookies
 
 **🧰 Complete Materials List:**
 - 200 g butter, softened
-- 100 g caster sugar
+- 100 g superfine sugar
 - 300 g plain flour, plus extra for the board
 - 2 tbsp milk
 - 1 rolling pin
@@ -932,11 +932,11 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 5. Bake at 180°C for 12 to 15 minutes, until the edges turn gold. She stays at the table. You move the tray.
 6. Slide them onto the cold plate once they firm up, and count them again with her when they are cool.
 
-> 💡 **Tip:** Let her cut whatever shapes she wants. Somebody is getting a triangle with a thumbprint in it, and that person is getting the better biscuit.
+> 💡 **Tip:** Let her cut whatever shapes she wants. Somebody is getting a triangle with a thumbprint in it, and that person is getting the better cookie.
 
-### 🌳 Get Outside: The Biscuit Round
+### 🌳 Get Outside: The Cookie Round
 
-Bag the biscuits in twos and walk them round. The neighbour who took the parcel in, the woman at the corner shop, the friend who has had a rough month. She knocks, she hands them over, she says her own version of the words. Ten minutes a stop, so pick three doors and stop at three. Keep two back for the walk home.
+Bag the cookies in twos and walk them round. The neighbor who took the parcel in, the woman at the corner shop, the friend who has had a rough month. She knocks, she hands them over, she says her own version of the words. Ten minutes a stop, so pick three doors and stop at three. Keep two back for the walk home.
 
 > 👶 **Infant Integration:** Kreston is 7 months and the kitchen at 9:15 is loud, floury and full of things moving out of his reach. Give him the empty flour bag and a wooden spoon at the far end of the room. On the round, wariness of an unfamiliar face is new this month, so keep him facing you when somebody leans in.
 
@@ -959,10 +959,10 @@ Every strip in that jar has a name on it, and every one of those people gets a c
 1. Cut the card into rectangles and fold them. Cereal boxes work fine and the printed side goes on the inside.
 2. Take the strips one person at a time. Read them out loud, then ask her what the card should say.
 3. Write her words down word for word. **THANK YOU FOR CARRYING ME UP THE STAIRS WHEN MY LEGS WERE TIRED.** Do not shorten it or fix the grammar.
-4. She draws the thing they did on the front. The drawing will be unrecognisable and the person will recognise it, because her words sit underneath.
+4. She draws the thing they did on the front. The drawing will be unrecognisable and the person will recognize it, because her words sit underneath.
 5. She signs each one: a shape, a letter A, a single line, the same mark on every card so it becomes her signature.
-6. Stickers and glue on whatever needs them, then stack the finished cards next to the biscuit bags by the door.
-7. One card goes in the post with a stamp on it. Walk to the postbox before dinner and let her drop it in.
+6. Stickers and glue on whatever needs them, then stack the finished cards next to the cookie bags by the door.
+7. One card goes in the post with a stamp on it. Walk to the mailbox before dinner and let her drop it in.
 
 > 💡 **Tip:** Do the cards for the people in this house last, and find a reason to leave the room when she gets to yours.
 
@@ -977,7 +977,7 @@ Every strip in that jar has a name on it, and every one of those people gets a c
 - The bakery, and she picks the thing for after dinner
 - The post office, if the card missed the post this morning
 - The park, for whatever the oven and the doorsteps left in her
-- The corner shop and the long way home past the postbox
+- The corner shop and the long way home past the mailbox
 
 > 👶 **Kreston's Afternoon:** Take him to the market in the carrier facing out and stop at one loud or bright stall. At 7 months he babbles in long runs and a busy street pulls it out of him, so answer him as though he said words. Give him an apple or a whole carrot to hold while Azlyn hands the money over.
 
@@ -991,7 +991,7 @@ Every strip in that jar has a name on it, and every one of those people gets a c
 > them. Gratitude research keeps landing in the same place: the noticing
 > carries most of the effect. Children asked what somebody did for them, who
 > then do something back, hold onto it longer than children reminded to be
-> polite. She made a biscuit for each name, and that is a thank you with a cost
+> polite. She made a cookie for each name, and that is a thank you with a cost
 > inside it.
 
 > ⚠️ **Safety:** The oven is on and the tray comes out at her eye level. She
