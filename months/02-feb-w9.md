@@ -108,14 +108,16 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 ### 💛 A Note from Joseph
 
 > She gets drawn round at life size on Friday, then goes out and stands her
-> back against a lamp post and a mailbox to find out which of them she beats.
-> The whole week runs on her measuring herself against whatever is nearest,
-> and for ten hours a day what is nearest is you. Monday is the March
-> handprint, third of twelve, and the January one is still the only one I
-> have watched go onto the card. On Sunday, when the lemon lands, take the
-> photo. I want her face, and I want to know who she looked at half a second
-> later, though I have a guess. February ends inside this week and I am not
-> sorry about it.
+> back against a lamp post and a mailbox to find out which of them she
+> beats. The whole week runs on her measuring herself against whatever is
+> nearest, and for ten hours a day what is nearest is you. Monday is the
+> March handprint, third of twelve, and the January one is still the only
+> one I have watched go onto the card. Tuesday she builds all four of us out
+> of dough and every one of us has to stand up on the tray without help.
+> Kreston goes up on the first try, being a head and a body and no legs
+> worth speaking of, and the tall ones fall over most, so I expect to spend
+> that afternoon on my back on a tray. February ends inside this week and I
+> am not sorry about it.
 
 ---
 

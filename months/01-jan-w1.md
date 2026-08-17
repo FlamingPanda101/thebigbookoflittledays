@@ -47,33 +47,52 @@ week runs on cardboard.
 > already got before Friday.*
 
 - [ ] Cardboard boxes, 10–15 in mixed sizes (start saving now)
+- [ ] One large box, tall enough for Azlyn to sit up inside
+- [ ] Flattened cardboard, several large pieces, for the bridge and the fort roof
 - [ ] Cardboard tubes, as many as you have
 - [ ] Plastic bottle caps and milk-bottle lids, washed (start saving now, you need a hundred by April)
 - [ ] Paper cups, one sleeve
+- [ ] A shoebox with a lid
 - [ ] Masking tape, 2 rolls
 - [ ] Packing tape
-- [ ] A shoebox with a lid
+- [ ] String or thick yarn, 1 ball
+- [ ] Clothespins or binder clips, 8, and a length of ribbon
+- [ ] Craft sticks, 40
 - [ ] Washable non-toxic poster paint in red, blue, yellow and white
-- [ ] Thick card, 20 sheets
 - [ ] A wide soft paintbrush
-- [ ] A permanent marker
-- [ ] A craft knife or heavy scissors (adult only)
 - [ ] Crayons
-- [ ] A pencil and a measuring tape
-- [ ] A binder clip or a length of ribbon
+- [ ] Thick card, 20 sheets
+- [ ] Plain paper, a stack, for the records and the drawings
 - [ ] Newspaper, a stack
-- [ ] Two old washcloths
-- [ ] A flashlight with fresh batteries
 - [ ] Paper lunch bags
+- [ ] A permanent marker
+- [ ] A pencil, a measuring tape and a ruler
+- [ ] Scissors, and a craft knife or heavy scissors for cutting the box house (adult only)
 - [ ] All-purpose flour, 1.5 kg
 - [ ] Salt, 500 g
-- [ ] Dried pasta and dried beans
-- [ ] String or thick yarn, 1 ball
-- [ ] Craft sticks, 40
-- [ ] Clothespins or binder clips, 8
-- [ ] Parchment paper and a baking tray
+- [ ] Dried pasta, dried beans and dried rice
+- [ ] A can of beans, or any full can, as the heavy test weight
+- [ ] A ping-pong ball, if you have one
 - [ ] A rolling pin and a table knife
+- [ ] A teaspoon, for the flour and water paste
+- [ ] Two small bowls, one shallow for the washcloth and one for the paste
+- [ ] A saucepan
+- [ ] Parchment paper, and 3 baking trays or flat trays: two for the bricks, one for the wall
 - [ ] A clean sock you don't want back
+- [ ] A scrap of fabric, or an old dish towel, for the doll's bed
+- [ ] Two old washcloths
+- [ ] A picnic blanket or an old towel for the fort floor
+- [ ] Blankets or sheets, 3–4, and any spare pillows
+- [ ] Sofa cushions
+- [ ] Heavy books to weight the fort edges, and 4–5 more to read inside it
+- [ ] A teddy or a doll
+- [ ] Small toys, a handful, for the test load and the zip line cargo
+- [ ] A spoon
+- [ ] A flashlight with fresh batteries
+- [ ] A broom handle, if there is no door frame to hang the wrecking ball from
+- [ ] A snack and a drink in a lidded cup, for the fort picnic
+- [ ] A printed photo to go in the time capsule
+- [ ] Your phone, with room on it for the week's photos
 
 ---
 

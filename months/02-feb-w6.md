@@ -119,10 +119,12 @@ walks a round she scouted that morning, and hands it over at four front doors.
 > trays. The day I keep thinking about is Wednesday, where the whole outdoor
 > hour is one slow lap of the block at her pace and the light is gone by
 > five. Some of these days are going to be flat the whole way down, and I
-> have not put anything in this book that fixes that. When it gets to four
-> o'clock and the honest report is that everyone ate and the walk happened,
-> that is the report. You will give it to me at six and it will sound better
-> than the day was.
+> have not put anything in this book that fixes that. Saturday her own
+> recipe goes onto the shelf with the real cookbooks at her height, in her
+> words and her order, and by Thursday morning she opens it and finds the
+> word butter on her own. That book is still going to be on that shelf when
+> she can read every word in it. You will give it to me at six and it will
+> sound better than the day was.
 
 ---
 

@@ -95,15 +95,16 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 
 ### 💛 A Note from Joseph
 
-> Every day this week asks you to count to twenty in your head while she fails
-> at something. I wrote that instruction into seven days without once having a
-> seven-month-old on my hip while I did it. Sunday is six lids and a knotted
-> string, and the knot will beat her; I left it in anyway, which tells you how
-> easy it is to design a morning you will not be standing in. Saturday you
-> write ten things you love about her on the backs of the jigsaw pieces, and
-> she will have those read to her all year. If a piece were mine to write on,
-> it would say that you sat on your hands on a Sunday and let her get the lid
-> off herself.
+> Thursday's maze stays taped to the floor through dinner, so I come in at six
+> and get walked into three dead ends with my bag still on my shoulder, and she
+> is the one telling me which corner is a wall. Tuesday she sorts the whole
+> silverware drawer and it stays sorted, and I find that out by opening it for a
+> fork. Saturday my name is on the back of one of the five puzzle pieces, and
+> mine is the piece missing from the table when she gathers them in at two.
+> Kreston has started running long strings of bababa with the shape of sentences
+> in them, and he leaves a pause at the end of each one. I answered into those
+> pauses for about four minutes last week before I worked out that he was taking
+> turns with me.
 
 ---
 

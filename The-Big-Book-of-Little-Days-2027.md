@@ -184,33 +184,52 @@ week runs on cardboard.
 > already got before Friday.*
 
 - [ ] Cardboard boxes, 10–15 in mixed sizes (start saving now)
+- [ ] One large box, tall enough for Azlyn to sit up inside
+- [ ] Flattened cardboard, several large pieces, for the bridge and the fort roof
 - [ ] Cardboard tubes, as many as you have
 - [ ] Plastic bottle caps and milk-bottle lids, washed (start saving now, you need a hundred by April)
 - [ ] Paper cups, one sleeve
+- [ ] A shoebox with a lid
 - [ ] Masking tape, 2 rolls
 - [ ] Packing tape
-- [ ] A shoebox with a lid
+- [ ] String or thick yarn, 1 ball
+- [ ] Clothespins or binder clips, 8, and a length of ribbon
+- [ ] Craft sticks, 40
 - [ ] Washable non-toxic poster paint in red, blue, yellow and white
-- [ ] Thick card, 20 sheets
 - [ ] A wide soft paintbrush
-- [ ] A permanent marker
-- [ ] A craft knife or heavy scissors (adult only)
 - [ ] Crayons
-- [ ] A pencil and a measuring tape
-- [ ] A binder clip or a length of ribbon
+- [ ] Thick card, 20 sheets
+- [ ] Plain paper, a stack, for the records and the drawings
 - [ ] Newspaper, a stack
-- [ ] Two old washcloths
-- [ ] A flashlight with fresh batteries
 - [ ] Paper lunch bags
+- [ ] A permanent marker
+- [ ] A pencil, a measuring tape and a ruler
+- [ ] Scissors, and a craft knife or heavy scissors for cutting the box house (adult only)
 - [ ] All-purpose flour, 1.5 kg
 - [ ] Salt, 500 g
-- [ ] Dried pasta and dried beans
-- [ ] String or thick yarn, 1 ball
-- [ ] Craft sticks, 40
-- [ ] Clothespins or binder clips, 8
-- [ ] Parchment paper and a baking tray
+- [ ] Dried pasta, dried beans and dried rice
+- [ ] A can of beans, or any full can, as the heavy test weight
+- [ ] A ping-pong ball, if you have one
 - [ ] A rolling pin and a table knife
+- [ ] A teaspoon, for the flour and water paste
+- [ ] Two small bowls, one shallow for the washcloth and one for the paste
+- [ ] A saucepan
+- [ ] Parchment paper, and 3 baking trays or flat trays: two for the bricks, one for the wall
 - [ ] A clean sock you don't want back
+- [ ] A scrap of fabric, or an old dish towel, for the doll's bed
+- [ ] Two old washcloths
+- [ ] A picnic blanket or an old towel for the fort floor
+- [ ] Blankets or sheets, 3–4, and any spare pillows
+- [ ] Sofa cushions
+- [ ] Heavy books to weight the fort edges, and 4–5 more to read inside it
+- [ ] A teddy or a doll
+- [ ] Small toys, a handful, for the test load and the zip line cargo
+- [ ] A spoon
+- [ ] A flashlight with fresh batteries
+- [ ] A broom handle, if there is no door frame to hang the wrecking ball from
+- [ ] A snack and a drink in a lidded cup, for the fort picnic
+- [ ] A printed photo to go in the time capsule
+- [ ] Your phone, with room on it for the week's photos
 
 ---
 
@@ -3445,15 +3464,16 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 
 ### 💛 A Note from Joseph
 
-> Every day this week asks you to count to twenty in your head while she fails
-> at something. I wrote that instruction into seven days without once having a
-> seven-month-old on my hip while I did it. Sunday is six lids and a knotted
-> string, and the knot will beat her; I left it in anyway, which tells you how
-> easy it is to design a morning you will not be standing in. Saturday you
-> write ten things you love about her on the backs of the jigsaw pieces, and
-> she will have those read to her all year. If a piece were mine to write on,
-> it would say that you sat on your hands on a Sunday and let her get the lid
-> off herself.
+> Thursday's maze stays taped to the floor through dinner, so I come in at six
+> and get walked into three dead ends with my bag still on my shoulder, and she
+> is the one telling me which corner is a wall. Tuesday she sorts the whole
+> silverware drawer and it stays sorted, and I find that out by opening it for a
+> fork. Saturday my name is on the back of one of the five puzzle pieces, and
+> mine is the piece missing from the table when she gathers them in at two.
+> Kreston has started running long strings of bababa with the shape of sentences
+> in them, and he leaves a pause at the end of each one. I answered into those
+> pauses for about four minutes last week before I worked out that he was taking
+> turns with me.
 
 ---
 
@@ -4520,15 +4540,17 @@ long at eleven in the morning.
 
 ### 💛 A Note from Joseph
 
-> Five weeks in and the book has stopped being new. It sits on the counter
-> with something spilled down it and you open it at 8:00 without deciding to,
-> which is what I was after and is stranger than I expected. Monday there is a
-> flour trail across the floor and one hour that evening where the thing I
-> planned and the thing I am standing in are the same thing. That is the only
-> hour like it in the month. The flour goes down at nine in the morning and
-> the broom will have been out twice before I get anywhere near it. Leave the
-> animals on the shelf where she puts them. I want to be shown them by her, in
-> her order, with the wrong ears still on.
+> Monday afternoon she lays a trail of flour across the floor for me and tapes
+> the arrow cards up at my eye height. Lights down at six, a flashlight in my
+> hand at the door, and for that hour the thing I planned and the thing I am
+> standing in are the same thing. There is no other hour like it in the month.
+> The morning trail goes down the night before behind a shut door, so she gets
+> the flour twice on the same day and the broom comes out after both. Saturday's
+> tour comes to me as one recording with no retakes, and the parts where she is
+> wrong about who lives in the roots are the parts I will play twice. The four
+> animals get their names written on the base on Friday, and by Sunday she is
+> shifting them round the tray to keep them out of the rain she makes with a
+> spray bottle.
 
 ---
 
@@ -6176,10 +6198,12 @@ walks a round she scouted that morning, and hands it over at four front doors.
 > trays. The day I keep thinking about is Wednesday, where the whole outdoor
 > hour is one slow lap of the block at her pace and the light is gone by
 > five. Some of these days are going to be flat the whole way down, and I
-> have not put anything in this book that fixes that. When it gets to four
-> o'clock and the honest report is that everyone ate and the walk happened,
-> that is the report. You will give it to me at six and it will sound better
-> than the day was.
+> have not put anything in this book that fixes that. Saturday her own
+> recipe goes onto the shelf with the real cookbooks at her height, in her
+> words and her order, and by Thursday morning she opens it and finds the
+> word butter on her own. That book is still going to be on that shelf when
+> she can read every word in it. You will give it to me at six and it will
+> sound better than the day was.
 
 ---
 
@@ -7287,16 +7311,17 @@ else. The rest of the week runs on paper, flour and tape.
 
 ### 💛 A Note from Joseph
 
-> The mailbox goes up by the front door on Friday and does not get opened
-> until Thursday. That is six days of her checking it and asking, and every
-> one of those asks lands on you, because I set the rule at a desk in
-> December and put myself nowhere near the cost of it. Monday I renamed the
-> housework Jobs That Need Two People, which is a trick, and it will hold
-> until about the fourth time you tow her down the hall in the laundry
-> basket. Sunday is the fourteenth and there will be eight cards glued
-> crooked, a few of them for me. Put one somewhere I can find it in December.
-> If the box gets opened on Tuesday because she cannot stand it any longer,
-> that was always allowed.
+> Saturday she cuts a letter full of holes, signs it with five dots instead
+> of her name, and then stands in the kitchen while three people hunt for
+> theirs. She is three years old and the whole game rests on her giving
+> nothing away. My guess is she cracks before the second person has found
+> one, and I would like to be wrong about it. Tuesday she builds a plate for
+> every person in the house and decides what goes on each one, so somebody
+> is getting nine cucumber sticks and no bread. Thursday there is a key
+> drawn on a wooden spoon because a key stands for a home, and she will have
+> her own reason for putting it there that has nothing to do with homes.
+> Sunday is the fourteenth and there will be eight cards glued crooked, a
+> few of them for me.
 
 ---
 
@@ -8402,16 +8427,18 @@ the ground is soft enough to dig a color out of on Monday.
 
 ### 💛 A Note from Joseph
 
-> My old blue shirt is the apron on Friday. It has sat folded in the bottom of
-> the closet doing nothing for two years, so whatever comes back on it is an
-> improvement and nobody has to get it clean. Monday is cocoa and turmeric
-> under the dining table and mud at the sink after lunch, with an eight-month-
-> old crawling straight at all of it, which reads fine on the page and is
-> another thing at eleven in the morning with both of them down there.
-> Thursday she hangs the week on a wall, and the first I see of it is whatever
-> is still up there in the evening. Tell me nothing beforehand. I would rather
-> guess wrong in front of her than have it rehearsed, and that costs you a
-> whole day of not mentioning it.
+> My old blue shirt is the apron on Friday. It has sat folded in the bottom
+> of the closet doing nothing for two years, so whatever comes back on it is
+> an improvement and nobody has to get it clean. There is no green in the
+> house that morning until she makes some, and she names all six colors she
+> mixes, so the rest of the week runs on mud and sunset and dark. Sunday
+> afternoon there is a ball of salt dough for every person in this house,
+> and one of them gets built into a face of me out of lentils and yarn by
+> somebody who last saw me at breakfast. Thursday she seals a guess under
+> the cookie plate about which picture on that wall I am going to pick, and
+> my own guess is that she names her favorite and gets a surprise off me at
+> six. Kreston has a ticket to the gallery and it will be in his mouth
+> before the tour reaches the second wall.
 
 ---
 
@@ -9486,14 +9513,16 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 ### 💛 A Note from Joseph
 
 > She gets drawn round at life size on Friday, then goes out and stands her
-> back against a lamp post and a mailbox to find out which of them she beats.
-> The whole week runs on her measuring herself against whatever is nearest,
-> and for ten hours a day what is nearest is you. Monday is the March
-> handprint, third of twelve, and the January one is still the only one I
-> have watched go onto the card. On Sunday, when the lemon lands, take the
-> photo. I want her face, and I want to know who she looked at half a second
-> later, though I have a guess. February ends inside this week and I am not
-> sorry about it.
+> back against a lamp post and a mailbox to find out which of them she
+> beats. The whole week runs on her measuring herself against whatever is
+> nearest, and for ten hours a day what is nearest is you. Monday is the
+> March handprint, third of twelve, and the January one is still the only
+> one I have watched go onto the card. Tuesday she builds all four of us out
+> of dough and every one of us has to stand up on the tray without help.
+> Kreston goes up on the first try, being a head and a body and no legs
+> worth speaking of, and the tall ones fall over most, so I expect to spend
+> that afternoon on my back on a tray. February ends inside this week and I
+> am not sorry about it.
 
 ---
 
@@ -11123,15 +11152,17 @@ wobbly video are what is left of the week.
 
 ### 💛 A Note from Joseph
 
-> The tent goes up Friday morning and does not come down until Thursday
-> night, which is six days of a bedsheet over four chairs in the middle of
-> the room and a rope taped down the hall. I wrote that sitting at a desk.
-> You are the one stepping over the rope at six thirty in the morning with a
-> baby on your hip, and I did not think about that end of it hard enough.
-> Take the tent down early if it stops earning the floor it stands on.
-> Thursday is hers, and the running order on the fridge is the part she will
-> guard. Tell me what she called the acts, and I will buy a ticket off the
-> pile when I get in and sit through the whole thing again for one person.
+> She copies a giant 100 onto the side of a barbell made out of two cereal
+> boxes and a broom handle on Monday, and the whole thing weighs about as much
+> as a loaf of bread. Wednesday she cuts the tickets for the show and numbers
+> them, and the numbers go wherever she thinks they go. Thursday the tent comes
+> down and the barbell goes out with the recycling, so the poster with her
+> drawn on it as the star is what the week leaves in the house. The part I
+> would buy a ticket for is Friday afternoon, Kreston propped in the tent
+> doorway with a parade of teddies coming down the hall at him. He turns nine
+> months that morning and waves at anything that waves first, so a line of
+> bears steered by his sister is the biggest thing that has ever happened to
+> him.
 
 ---
 
@@ -13328,15 +13359,18 @@ on it, and the rest of it runs on odd socks, dried beans and masking tape.
 
 ### 💛 A Note from Joseph
 
-> On Friday afternoon she is going to look at a photograph of a baby and be
-> told that the baby is her, and she will need telling twice. I put that in
-> on purpose and then handed it to you and left for work. It may land as
-> nothing at all. She may look at the picture, look at Kreston, and go back
-> to the tape measure. Whatever she says while she is working it out, write
-> it on the back of the sheet with the two feet drawn on it. Saturday is the
-> equinox, the day and the night the same length, and everything after it
-> tips toward the light. That is the first thing this year the calendar has
-> done for us rather than to us.
+> The letter she mails on Thursday is addressed to the Kreston of next spring,
+> with his length off the tape measure at the top of it, her account of what he
+> is like now in her own words, and her drawing of him on the second sheet. It
+> comes back through the door in a day or two, takes OPEN MARCH 2028 across the
+> front, and goes in a drawer, so a three-year-old at a mailbox has booked the
+> two of us something for March 2028. The day before that she crosses a room on
+> her hands and knees at his height with a flashlight, and every small thing
+> that comes out from under the sofa gets held against her own mouth to decide
+> whether it would fit in his. Her mouth is the only ruler she has for that
+> job, and it is a fair piece of thinking for three. Saturday is the equinox,
+> the day and the night the same length, and everything after it leans toward
+> the light.
 
 ---
 
@@ -14398,16 +14432,15 @@ and the paper bin set up on Friday stays out until somebody needs the tub back.
 
 ### 💛 A Note from Joseph
 
-> Thursday is April 1, which makes it day 91 and a quarter of this book gone.
-> Twelve of these notes behind us and I am still writing them on a guess about
-> what a Friday morning in that house is like. Sunday is the one I mind about.
-> You will be down on the floor at eleven at night laying a paper trail from
-> the doorstep to a basket made out of an ice cream tub, and taking a carrot
-> off a saucer, and there is no version of that evening where I am holding the
-> other end of it. Keep the trail short. Six pieces of torn paper get the same
-> face out of her as sixty. Let the rain have the chalk, and tell me on Monday
-> what went on that sill, because I want to know what she thought was going to
-> grow.
+> April 1 falls on Thursday, and I am the mark. Three tricks get built at a
+> quarter past nine in the morning: a plate of playdough dinner under a dish
+> towel at my place, a ball of paper pushed into the toe of each shoe, and a
+> drawing of my mug taped inside the cupboard with the real one behind the
+> cereal. Then she sits on all three until six, which is a long day to hold a
+> secret at three years old. My guess is she cracks on the doorstep, gives me
+> the shoes first, and forgets the mug until dinner. All three get me anyway,
+> and APRIL 1 goes on the back of that paper plate, so this is now a thing we
+> do every year.
 
 ---
 
@@ -16092,9 +16125,10 @@ shelf beside the January time capsule.
 > is twelve of the cheapest eggs in the store and one rule, which is that the
 > shells go in the bowl. I put that day in on purpose. She has had be careful
 > out of me all winter, and one morning of the opposite squares it up a
-> little. Photograph the four question sheets on Friday before they go in the
-> envelope, because I want what she says about her brother now, in April's
-> words, before she has better ones.
+> little. Friday she answers a question about the best thing about her
+> brother and it goes into an envelope until the last day of December, so the
+> version of her that answers it will be nine months gone by the time either
+> of us reads it back.
 
 ---
 
@@ -17180,16 +17214,15 @@ of it at breakfast.
 
 ### 💛 A Note from Joseph
 
-> You told her on Tuesday that an ostrich is taller than me, and her answer
+> You told her last Tuesday that an ostrich is taller than me, and her answer
 > got to me at nine at night, secondhand, with her already asleep. I laughed
-> at it in an empty kitchen. That is the arrangement, and I built this book
-> knowing it. You get the room it happens in and I get the report. Monday is
-> the day the week stops being serious: a fork planted in a cup of newspaper,
-> weeds named wrong along the wall, and you keeping a straight face through
-> the lot of it. Her sentences go down the way they arrive, wrong grammar and
-> all, because that is the part that goes first. The afternoon list on Monday
-> says you can phone me and let her tell me what grew, and if the day has come
-> apart by then, use it. I will pull over.
+> at it in an empty kitchen. Monday is the day the week stops being serious:
+> a fork planted in a cup of newspaper, weeds named wrong along the wall, and
+> you keeping a straight face through the lot of it. Her sentences go into
+> that booklet the way they arrive, wrong grammar and all, because that is
+> the part that goes first. The afternoon list on Monday says you can phone
+> me and let her tell me what grew, and if the day has come apart by then,
+> use it. I will pull over.
 
 ---
 
@@ -18247,16 +18280,17 @@ name on a craft stick in front of it.
 
 ### 💛 A Note from Joseph
 
-> Saturday she ties a string round a tree at her shoulder height, and it goes
-> up the wall next to the growth chart until July, when we cut the second one
-> and hang the two together. Thursday she gives away a corner of the garden
-> and then leaves it alone until Christmas. Most of what I have asked for
-> this week pays out in months, and months are cheap for me. You are the one
-> who has to get from the string on the wall to four o'clock on the same day.
-> Monday is a tray of standing water on the floor with a boy who cruises, and
-> I have read that day back twice without fixing it, so do the bath version
-> and tell her the river moved house. Send me the photograph of her with both
-> arms round the trunk. I want the whole set of four.
+> Saturday she names a tree and the name sticks, which means the rest of us
+> spend the year using it out loud in front of other people. Kreston goes up
+> on the same wall that afternoon, flat along the baseboard with a string run
+> heel to head, and it takes three tries to get one, because he has no
+> interest in holding still for it. Friday the paper animals go into a soap
+> tree on the window facing out at the street, so anyone walking past gets
+> the fronts and she gets the backs. Monday she has to name a number of
+> pitchers before the first pour, and her own dam settles it in front of her.
+> Thursday the corner of the garden gets a craft stick with her name on it
+> and then nothing else until Christmas, which is the one thing in these
+> seven days that works by being left alone.
 
 ---
 
@@ -19346,16 +19380,18 @@ the year, and it wants a walk past and a bag every week from here.
 
 ### 💛 A Note from Joseph
 
-> In the January list I wrote start saving bottle caps now, you need a
-> hundred by April. That was a man at a kitchen table in January, pleased
-> with himself, handing you fourteen weeks of rinsing lids at the sink.
-> Tuesday that jar gets tipped onto a tray, and if it comes out at sixty, the
-> button tin makes up the rest and nobody is any the wiser. Wednesday is the
-> day I would keep if the other six went out with the recycling: four jars,
-> an apple core pressed flat against the glass, and her guess about what will
-> still be in there at Christmas written down in your handwriting. Saturday
-> is a cardboard truck driven through every room at volume for ninety
-> minutes, and I will be at work, which is the quieter job.
+> Monday she puts her hands into a bowl of warm water full of torn junk mail
+> and the print comes off on her fingers, which is the closest thing to magic
+> in the week and costs nothing. Tuesday the cap jar gets tipped onto a
+> tray, and if it comes out at sixty, the button tin makes up the rest and
+> nobody is any the wiser. Wednesday is the day I would keep if the other six
+> went out with the recycling: four jars, an apple core pressed flat against
+> the glass, and her guess about what will still be in there at Christmas
+> written down in your handwriting. Thursday she digs worms out from under a
+> flowerpot, builds them a tower of soil and sand in a cut bottle, and puts
+> them back in the same patch before dinner, which is more courtesy than most
+> people manage. Saturday is a cardboard truck driven through every room at
+> volume for ninety minutes, and I will be at work, which is the quieter job.
 
 ---
 
@@ -23160,16 +23196,17 @@ Keep Friday's bubble mix and Monday's magnifier where you can find them again.
 
 ### 💛 A Note from Joseph
 
-> Take the white shirt off my side of the closet on Thursday, pin the sleeves
-> back and let her wreck it. I wrote this week in the winter with no idea what
-> May would do, so Friday wants wind and Saturday wants sun, and you may get a
-> wet Tuesday and neither. Move the days around, or drop one. The chocolate on
-> those cookies sits there doing nothing for an hour and a half and then goes
-> all at once, and the waiting is the stretch I would ruin by hurrying her
-> along. Sealing the batteries in a bag on a high shelf before the flashlight
-> comes apart is me being anxious about a table I am not sitting at. Leave the
-> shirt over a chair when she is finished with it. I would like to see what
-> she did to it before anybody folds it away.
+> Thursday takes a white shirt off my side of the closet, and the one with the
+> soft collar has been asking for this for about a year. She gets the sleeves
+> pinned back at her wrists, the goggles up on her forehead and three stations
+> to run, and she keeps a clipboard score of everything her visitor gets right.
+> I would ruin Monday afternoon. One leaf drawn a meter wide, vein by vein,
+> takes the whole of it, and I am the one who would call it finished at the
+> fourth vein and suggest a walk to the green. Saturday she checks a watch
+> every fifteen minutes and reports that nothing has happened, and then the
+> chocolate goes all at once near the end of it. Kreston gets a square of foil
+> on a card to bat at in the shade, and he will turn it over looking for where
+> the light went.
 
 ---
 
@@ -25359,15 +25396,17 @@ top of the bookcase.
 
 ### 💛 A Note from Joseph
 
-> Monday's second story is mine, so call me and let me tell it to her in my
-> own voice instead of handing you my half of the remembering along with
-> yours. If the shelf ends up being for somebody off my side, I would want the
-> name said plain and her hands on the object before it goes down. I have told
-> her a sad thing once with my face doing something wrong and watched her stop
-> asking questions, so I had that part backwards first. Wednesday's call will
-> come apart in the middle, and that is the call doing its job. Kreston turns
-> one two days after this week closes, and the last month of him being a baby
-> went by while I was at work.
+> Story two on Monday morning is supposed to be mine, and you have sat through
+> the table version enough times to tell it better than I do. The tip on that
+> page says to tell the sad story the way you told the funny one, and that is
+> the part I have gotten wrong. I told her a sad thing once with my face doing
+> something wrong and watched her stop asking questions. Tuesday she picks
+> Kreston's clothes out of the drawer and he wears the whole outfit, and by
+> lunchtime he will be looking for her when he wants something. Wednesday's
+> call comes apart in the middle, and that is the call doing its job. He turns
+> one on Saturday the 5th, two days after this week closes, and the thing he
+> learned in his last month as a baby was handing something over and waiting
+> to get it back.
 
 ---
 
@@ -28143,17 +28182,16 @@ Wednesday the tipping out is Azlyn's job.
 
 ### 💛 A Note from Joseph
 
-> There is a whistle in this week and a dining chair with a three-year-old up
-> on it, watching the water and calling herself the lifeguard. The real one is
-> down on the grass with a one-year-old on her hip and no chair. I typed
-> *stay within arm's reach* into six of these seven days before I noticed how
-> many times I had written it, and it takes me two seconds to type and takes
-> you seven mornings to do. The float is the part I want to be in the room
-> for: your hand flat between her shoulder blades, her ears under, a minute
-> she breaks four times before she holds it. She will have forgotten the
-> bottles and the whistle by August, and the hand under her back is the part
-> that stays. Tell me on Tuesday night whether she got her face in the water,
-> because I will be at a desk wondering about it all afternoon.
+> The word *lifeguard* lands on Sunday attached to a dining chair, a red towel
+> rolled tight for a float, and a whistle on a loop of wool. The real one is
+> down on the grass with a one-year-old on her hip and no chair. I typed *stay
+> within arm's reach* into three of these seven days before I noticed I had put
+> it in more than once. Monday is the page I keep going back to. She learns her
+> first, middle and last name said as one thing, in the same hour she learns to
+> stand in the yard and shout for a grown-up at full volume. She has had three
+> years of being told to keep it down indoors, and this week the shout is the
+> thing being taught. On Saturday she gets asked what powers she would want in
+> water, and the answer nobody hands her is that one of them is her own breath.
 
 ---
 
@@ -29235,16 +29273,16 @@ whoever else has her about the lamp post.
 
 ### 💛 A Note from Joseph
 
-> Sunday has my name on it and the arithmetic on that has never worked. She
-> sets my place, I get the floor and the map and the questions, and the job
-> being marked is the one you do from Monday to Friday with nobody drawing a
-> card about it. I am not going to pretend that evens out. The half hour I
-> want is the one after my three questions run out, when she starts asking
-> about that house in her own order and gets to something I could not have
-> guessed at. Then Wednesday and Thursday have her practicing being lost, so
-> you carry that picture around for two mornings while your voice stays
-> ordinary for her. I wrote it into a book and handed it over rather than
-> standing in the aisle myself.
+> She finds out on Wednesday morning that you have a whole name. It gets said
+> at the table right after hers is written out big, first, middle and last, and
+> she has never heard it before. On Thursday she has to get that name out at
+> full volume across an aisle built from dining chairs, because the word Mommy
+> moves nobody in a store full of mothers. The first time I said your whole
+> name to somebody who had never met you it came out of me like a fact I was
+> reporting. Sunday I am on the floor drawing the street I grew up on, and one
+> of her three questions is where I got told off. The answer is a garage door
+> that came down years ago and I have no photograph of it, so the crayon
+> version she watches me draw is the only one there is going to be.
 
 ---
 
@@ -31967,17 +32005,16 @@ months on Monday.
 
 ### 💛 A Note from Joseph
 
-> The part of this week I cannot help with is Sunday after dark. You will be
-> on a blanket with a three-year-old who has never seen a firework and a
-> one-year-old who has never heard one, and the call on when to walk back to
-> the car belongs to you alone. Make it at the first bang if that is what it
-> turns out to be, and she will hold onto the walk back as hard as she holds
-> onto the sky. I put the hand signal and the ear defenders and the phone
-> number on her arm into the page, and none of that is the same as a second
-> pair of hands on the blanket. The rest of the week is a cardboard cake she
-> blows out forty times, a paper vest she will refuse to take off, and one
-> whole watermelon spat onto a tray. Kreston turns thirteen months on Monday
-> and will spend the parade trying to push the empty stroller himself.
+> Sunday afternoon she draws fireworks she has never seen, and the drawing
+> goes into the bag and comes out again on Monday. My money is on the paper
+> version having more colors in it. Saturday she leaves one label blank on her
+> own shelf and walks a whole museum with that card in her fist before she
+> will spend it, which is the same instinct that has her saving the good
+> sticker until the sheet is gone. Kreston will be asleep against you by the
+> second bang and will keep none of it. Monday the vest gets three pockets and
+> one of them is built to fail, and the one that fails is what comes up at
+> dinner. Thursday she counts three dollar bills out of her own purse at a
+> market stall with a line waiting behind her.
 
 ---
 
@@ -33064,17 +33101,16 @@ what it did. Nothing she makes gets thrown out before the week is finished.
 
 ### 💛 A Note from Joseph
 
-> Four dining chairs in a line down the hall on Saturday, tickets with SEASIDE
-> written on them, and I know what that is. It is a coast we are not getting
-> to this year, built out of the furniture. She will not know the difference
-> at three and I do, and that is mine to carry rather than yours. The seven
-> days hand you sand under a trash bag instead, five bottle chutes taped to
-> the fence, and a garden wet by ten every morning. Thursday you get in the
-> pool with them, after a week of water at arm's length in bowls, and Thursday
-> also asks you to say a hard sentence out loud about who used to be kept out
-> of the water. You will find better words for it standing there than I found
-> sitting here. Anything full goes down the drain the second they are done
-> with it, which I will keep repeating until it bores you.
+> Four dining chairs in a line down the hall on Saturday and six tickets with
+> SEASIDE written on them, and I know what that is. It is a coast we are not
+> getting to this year, built out of the furniture, and at three she will not
+> know the difference. Thursday afternoon puts you in the paddling pool in
+> your clothes with Kreston on your lap, and Azlyn stands on the grass
+> watching her mother sit down in it. Six days of water at arm's length in
+> bowls come before that one. The same afternoon carries a plain sentence
+> about people once being kept out of public pools, and the page says she may
+> hand it back to you wrong next week. Thursday morning Kreston gets the
+> beachcombing bag to hold, so one feather goes into it about five times.
 
 ---
 
@@ -35271,17 +35307,16 @@ house with a blue flashlight.
 
 ### 💛 A Note from Joseph
 
-> You reach six months in on Wednesday and the book gives it one afternoon,
-> which is about the right amount of fuss. Six sheets along the wall, four
-> questions into a bottle taped shut until New Year's Eve, and a pencil line on
-> the door frame with January's underneath and two fingers of gap between them.
-> Your own strip goes in the bottle as well as hers. Write the true one,
-> because the tidy version will be no use to either of us come December. Azlyn
-> will not remember January and I was not in most of those mornings, so that
-> row on the wall is where the six months are kept. The rest of the week is
-> blue paper and one wall of the house underwater, and by Thursday it is too
-> hot for anything except lying on cushions in a dark room with a flashlight,
-> which I would take over most of my own Thursdays.
+> Wednesday is the halfway mark and the book gives it one afternoon, which is
+> about the right amount of fuss. Six sheets on the floor, January through
+> June, and she tells you what she has kept of each one. My guess is you get a
+> bee, a broken cup and somebody's shoes, and the months I would have bet on
+> come back empty. There is a strip in that bottle for you as well as for her,
+> folded before it goes in, and I am not reading it before New Year's Eve
+> either. Azlyn will not remember January, so the row along the wall is the
+> only place the first half of this is kept. Tuesday the five test cards from
+> June come back onto the table forty days on, and by Thursday it is a blue
+> flashlight beam on the ceiling of the coolest room in the house.
 
 ---
 
@@ -36375,16 +36410,18 @@ again.
 
 ### 💛 A Note from Joseph
 
-> For once the thing you made is out where I can see it. The tent stands in
-> the garden from Friday to Thursday, and I will see her flag over the sheet
-> from the gate at six every evening without having been there for an hour of
-> the building of it. Thursday is the big one, everything indoors carried out
-> to the camp in a single morning, and I wrote it that way knowing it is too
-> much to ask of the hottest week of the year. There is a paragraph on
-> Thursday about leaving early, and that paragraph is the honest version of
-> the plan. If two o'clock is the hour when everyone still likes it, two
-> o'clock is when the camp comes down. Take one photo from inside before the
-> sheet moves, because I would like to see it the way she saw it.
+> This week belongs to Kreston more than the page admits. Friday he gets one
+> stick out of the hedge and the walk home runs at the pace of a boy who drops
+> it, stops, picks it up and sets off again. Sunday he stands at the edge of
+> the blanket and will not put a foot on grass, having done most of his
+> walking on carpet. Wednesday he is handed a plastic cup and the job of
+> carrying it out to the tent door, and he takes a route no adult would have
+> picked. Thursday he turns fourteen months in the middle of camp and stacks
+> two fire stones beside the ring, and the day page has a line in it about
+> saying happy fourteen months out loud to him because nobody else is going
+> to. His first summer is one object at a time carried across a yard. He has
+> three to five words now and one of them is due on Thursday, which gives him
+> better odds of saying something worth repeating that day than I have.
 
 ---
 
@@ -37999,15 +38036,13 @@ what it is for.
 
 ### 💛 A Note from Joseph
 
-> The jump strings go up on Tuesday, and the rule on the page is that anybody
-> who turns up gets one. I get in after both of them are asleep, so mine gets
-> cut in the hallway at nine at night with my shoes off, and she finds a new
-> string on the wall Wednesday morning with nobody attached to it. That is a
-> fair picture of what I am in a work week. I put the running-and-jumping week
-> in the hottest stretch of the year without checking a calendar, so by
-> Wednesday the whole tournament will be bottle caps flicked across a table
-> indoors, and that is the version that survives August. The whistle ends up in
-> Kreston's mouth at some point no matter where it lives.
+> The strings go up on the hall wall Tuesday and stay up, and the rule on
+> that page is that anybody who turns up gets a jump and a string. I get in
+> at six and go off the tape line in my socks like everyone else. There is a
+> line further down that page telling the adult not to shorten his jump to
+> keep it close to hers, and I put it there because I would. She sorts the
+> whole set longest to shortest before anything gets taped down. Mine goes
+> first in the row and she thinks nothing of it.
 
 ---
 
@@ -39084,16 +39119,15 @@ the week.
 
 ### 💛 A Note from Joseph
 
-> Seven countries this week and not one of them past the back step, which is
-> as close to an airport as anybody in this house gets this year. Saturday is
-> the one I would sit and watch. She spends a whole morning pinching colored
-> flour into chalk petals on the front step, and then pours a pitcher of water
-> over all of it and brushes it into the drain before dinner. Kreston will
-> walk through it first, and there is no version of that morning where he does
-> not. The passport is the only thing this week makes that keeps, which is
-> what the four staples are for. A whole week of things that get washed away
-> was an easy week to plan in December, and the sweeping of that step is not
-> written down anywhere in it.
+> Sunday's flight leaves from the hallway with four boarding passes on it,
+> and the fourth one goes to a toy. Hers, yours, Kreston's, and a thing with
+> a face gets a seat number taped to the back of a dining chair. I have gone
+> down that list four times looking for myself and I am not on it. The line
+> under it tells the adult to take the smallest role going, and passenger is
+> the one job in that airport I could hold down. Kreston is in the second row
+> with his pass in his mouth, so the bar on that flight is low enough for me.
+> Seven stamps in seven days, and the furthest anybody gets is the drain at
+> the end of the path.
 
 ---
 
@@ -40228,15 +40262,16 @@ lasts about a minute.
 
 ### 💛 A Note from Joseph
 
-> A carnival wants a crowd, and the crowd this week is you, a fourteen-month-
-> old, and whoever picks up the phone on Thursday morning. She opens six
-> stalls and works three of them, so the tin cans and the water bowl stand
-> there with nobody on them while she runs the gate, and the three she drops
-> land on you. None of that is written down on the page. Monday she carries
-> cold water and cut melon out to a chair in the shade, and the only thing
-> asked of whoever sits in that chair is to stay in it, which is the one job
-> in this book I would be good at. Make her sell you the ticket for it. She
-> will hold the line on the price, and I want to hear what it was.
+> Sunday she takes paper slips round the house and asks everyone to draw the
+> one thing they want off the prize stall, and Kreston gets a slip like
+> everyone else. He is fourteen months old. A scribble comes back, she is the
+> one who decides what it is, and then she has to go and build the thing she
+> said it was. She carries it over and holds it up beside his drawing and
+> waits for him to say yes. Friday he has a card coin of his own at the gate
+> and hands it across and stands there until the ticket comes back, and the
+> standing there is the new part. Monday he sits at her counter as a customer
+> and she slows down and puts the melon inside his reach with nobody telling
+> her to.
 
 ---
 
@@ -43008,15 +43043,17 @@ day indoors.
 
 ### 💛 A Note from Joseph
 
-> This week is seven days of jobs people leave the house to do, and I wrote it
-> from the one seat in this family that gets to leave. Monday is the
-> correction. She makes the sandwiches, she carries the tray out, and the page
-> says no adult gets up for an hour. Take the hour lying down. I have watched
-> you sit a whole picnic out on the edge of the blanket with your knees ready,
-> and there is nothing to get up for until half past two. Kreston turns fifteen
-> months on Sunday and will run the flat stretch of sidewalk in his pajamas at
-> seven that night. If most of the week goes, the bag on her shoulder and
-> Thursday's six cards are the two worth keeping.
+> Six things wrapped in newspaper with a number on each will hold her longer
+> than anything I have bought her. On Friday she addresses a card to herself
+> at this house and drops it in the blue box, and it lands on the doorstep on
+> Tuesday, because the people who carry it have Labor Day off as well. Four
+> days is most of forever at three. Monday is the one I keep looking at. I
+> have watched you sit a whole picnic out on the edge of the blanket with your
+> knees ready, and the page says no adult gets up for an hour. Kreston turns
+> fifteen months on Sunday and spends that evening in the stroller in his
+> pajamas, switching a flashlight on and off the whole way to the corner. If
+> most of the week goes, the bag on her shoulder and Thursday's six cards are
+> the two worth keeping.
 
 ---
 
@@ -45238,17 +45275,17 @@ and cinnamon in the middle.
 
 ### 💛 A Note from Joseph
 
-> On Thursday the day and the night come out level, and from Friday the dark
-> takes a little more of it every week until December. My version of that is
-> leaving in the light and coming home in the dark, which is the cheap version.
-> Yours is the stretch after four getting longer indoors with two of them and
-> the paint still on the table. Three of these seven days end with color on the
-> floor, and the apron and the two washcloths are on the list because I know
-> whose floor it is. Tuesday afternoon is the laundry basket tipped out on the
-> living room rug, a real job wearing a costume, and she will fold six dish
-> towels and then leave. Take the six. I keep noticing that the pages that work
-> are the ones where you are doing the thing beside her, and I did not put that
-> in on purpose.
+> Monday puts everybody on the floor round a low table, orange wheels with
+> cinnamon on them and no plate each. Our first place had one chair and a
+> coffee table, and we ate like that for a year and a half before Azlyn
+> existed. Thursday the day and the night come out level, and from Friday the
+> dark takes a little more of it every week until the shortest day. Wednesday
+> she threads pasta in threes and drops back to two when she is tired, which
+> is what I do with anything by four in the afternoon. The chalk circle on the
+> path gets swept into a bucket by the same person who spent the morning
+> building it, and she pours the water herself. At the thrift store on
+> Thursday Kreston will carry something to the register out of a fifty-cent
+> box and keep hold of it all week.
 
 ---
 
@@ -46338,14 +46375,16 @@ a tin on a high shelf and a girl checking it every ten minutes until six.
 
 ### 💛 A Note from Joseph
 
-> A J goes on my door on Friday afternoon and I am at work when it goes up.
-> Tell her whose it is anyway, and leave it there when the week ends. Thursday
-> she wraps three shortbread letters, ties them with string, and puts the tin
-> somewhere she can see and not reach, then checks it every ten minutes until
-> six. That afternoon costs you tape, knots and a three-year-old asking for the
-> tin down, and it costs me a cookie handed over at the table. Kreston runs at
-> everything now and will walk through most of what she builds this week. If
-> something has to go, drop Wednesday and keep the cookies.
+> On Wednesday four names get cut into loose cards and she counts the letters
+> along each. Hers is five, mine is six, and yours is the longest on the tray,
+> and I have never counted the letters in it before. Sunday is five odd socks
+> filled with rice, thrown at letters taped to a wall, half a mug in each so
+> nobody gets hurt when one lands. Tuesday she picks an animal, stays it until
+> half past two, and dictates a book about its morning with her own grammar
+> left in. Thursday's three wrapped cookies sit in a tin on a high shelf from
+> the afternoon until six, and she hands them out herself. Kreston gets the
+> trimmings baked in a line of their own, which is the only reason four
+> letters reach the table unbroken.
 
 ---
 
@@ -47979,17 +48018,16 @@ Thursday afternoon, when she walks it one last time and peels it up.
 
 ### 💛 A Note from Joseph
 
-> October first, and that is nine months of these behind you. I worked it out
-> on the way to work and then thought about nothing else for most of the
-> drive. Five of the seven days this week bring the counting jar down, and I
-> wrote the same line about putting it back up high five separate times,
-> because Kreston is fifteen months and quick and that jar is at his height
-> whether anybody has a free hand or not. Monday is five buckets and two
-> wooden spoons in the middle of the living room and I put it on a workday,
-> which I knew I was doing when I did it. Saturday she seats eight guests,
-> takes the orders in scribble and pours with both hands on the pitcher.
-> Somewhere in it she will serve a teddy before she serves you. Sit down and
-> let her.
+> Her rules go onto a card on Friday in your handwriting, one line each, and
+> they will lean her way. Somewhere in the second game one of them lands on
+> the person who wrote it down, and that is the moment she is watching for. I
+> have lost to her under a rule that changed twice on the way round and then
+> got read back to me off the card. Kreston turns sixteen months on Tuesday in
+> a week that belongs to her from end to end, and his whole part in it is four
+> blocks up and flat again. Wednesday they work opposite jobs on the same rug,
+> her stopping a tower at seven with the next cup still in the air, him
+> getting one down as fast as his arm allows. Thursday the tape comes off the
+> hall floor, ten back down to zero, and the house is a hallway again.
 
 ---
 
@@ -50110,15 +50148,16 @@ stroller.
 
 ### 💛 A Note from Joseph
 
-> Monday is the day I wrote for me, and it went into the book under her name.
-> She draws a desk, works a shift, stops because a timer says so, and props
-> her log by the front door for me to find when I get in. I wanted the hours I
-> am gone to have a shape she can picture. Tuesday runs the other way, bulbs
-> set three deep in a pot by the back door with nothing showing above the soil
-> until March, a wait she gets to check on herself. The rocket stands in the
-> hallway from Friday to Thursday and the stroller will not fit past it. It is
-> also the one place this week where nobody is asking her anything, so between
-> the box and the stroller I would move the stroller.
+> The jar of tap water goes into her box on Tuesday and it is the one thing in
+> there she will not be able to account for. A leaf, a stone, a handful of
+> grass with the soil still on it, all of that she can explain, and then water
+> out of a wall she has never once stopped to think about. I would have packed
+> something with a battery in it. Thursday she knocks on a neighbor's door
+> with a bag she carried the whole way, and she gets a doorstep of adult talk
+> aimed over the top of her head. Her account of it on the walk home will not
+> match a word of what got said, and her account is the one that lasts. Sunday
+> the ten coins run out with the blanket still up on the shelf, and the long
+> quiet after that is the part of the day she keeps.
 
 ---
 
@@ -52314,14 +52353,14 @@ carries straight through them.
 
 ### 💛 A Note from Joseph
 
-> Three holidays land in four days and not one of them has to happen on the day
-> it says. Push Monday's table to Tuesday, skip the pumpkin, let two of the
-> lamps crack in the oven. The part I keep coming back to is that table, set for
-> people who are not coming, and the plate of fries she will put down next to a
-> photograph of somebody who died before she was born. Thursday she hands out
-> tickets and walks people along a wall she filled herself, doubling back twice
-> for whatever she skipped. Hold the phone low if you film it. Her voice telling
-> me what everything is beats the pictures of it.
+> Three holidays land in four days and not one of them has to happen on the
+> day it says. Push Monday's table to Tuesday, skip the pumpkin, let two of
+> the lamps crack in the oven. The part I keep coming back to is that table,
+> set for people who are not coming, and the plate of fries she will put down
+> next to a photograph of somebody who died before she was born. Thursday she
+> hands out tickets and walks people along a wall she filled herself, doubling
+> back twice for whatever she skipped. Her voice telling me what everything is
+> beats the pictures of it.
 
 ---
 
@@ -53981,16 +54020,15 @@ covers it, and she will ask again next year.
 
 ### 💛 A Note from Joseph
 
-> Seven days of farm on your living room floor, laid out in fields and pens by
-> somebody who was not going to be standing in any of it. The masking tape
-> lifts off boards clean and Thursday afternoon is built around peeling it up
-> with her, so the floor comes back. It did not occur to me how much room that
-> leaves once a seventeen-month-old is walking through the middle of it, and
-> Kreston walks now. Thursday is Veterans Day, and somewhere between the shed
-> and the house you stop at a flag and tell her whose day it is. I am at work
-> for that minute and for every other hour of this week. The gate sign with
-> her name on it is the thing still working in March, and it costs one
-> afternoon of cardboard.
+> The Z is the one I lost the argument about, three days of it, and you
+> were right. Tuesday it comes off a cereal box the size of a stamp and
+> gets tied round the leg of a toy sheep with a length of wool. That
+> afternoon all five letters go missing round the room and she calls them
+> back in through a shoebox lid, one at a time, with a clipboard of her
+> own. Saturday there is a line on the salt tray page about saying nothing
+> when a letter comes out backwards. I put that line in for myself. The
+> correcting is the part I am no good at, and the tray shakes flat with
+> nothing left to point at.
 
 ---
 
@@ -55084,11 +55122,18 @@ without breaking anything.
 
 ### 💛 A Note from Joseph
 
-> By the time I get in this week the sky has been gone an hour. I put a
-> weather week in the month with the least sky worth looking at. Thursday she
-> fills seven squares with what the weather did, and that chart on the fridge
-> is the only version of these days I will get. The eighth square is blank,
-> and her guess at tomorrow is worth the same as mine.
+> Somebody is going to sneeze in the middle of a take on Wednesday
+> afternoon, and that is the one I get played at dinner, eleven times, with
+> her hand on the phone. She records five sounds, puts them in her own
+> order, and calls each one as it goes. Sunday you are both flat on a
+> blanket in a park in November naming clouds, and the one rule on that
+> page is that neither of you argues with the other's. Tuesday she grows
+> frost on the outside of a tin in a warm kitchen, then stands in a dark
+> doorway and breathes out until she can see it. The three bottles have
+> been out in the weather since Friday filling on their own, which is the
+> one part of this week that runs without anybody. Thursday it all goes on
+> the fridge as seven squares and an eighth left blank for her guess at
+> Friday.
 
 ---
 
@@ -57283,12 +57328,14 @@ Thursday as parts of a dinner nobody helped her design.
 
 > December arrives on Wednesday, which leaves about four weeks of this book.
 > Thursday she walks the route you walked on New Year's Day and stands under
-> the same bare tree, and I wrote that page in January knowing nothing about
-> how the year would go. Most of what I guessed was wrong. Thursday night she
-> cooks and the house eats it, and that is one of the few days in this book I
-> am at the table for. Somebody will want to fix her seasoning, and if it
-> turns out to be me you can hold me to the no. The drawer on Wednesday
-> outlasts every meal this week.
+> the same bare tree. Kreston walked none of that route in January and
+> manages most of it now, with a washed carrot in his fist that he drops
+> once. Thursday night she cooks and the house eats it, and that is one of
+> the few days in this book I am at the table for. She has the ladle, so the
+> plates come out uneven and whoever gets the short bowl gets the short
+> bowl. Somebody will want to fix her seasoning, and if it turns out to be
+> me you can hold me to the no. The drawer on Wednesday outlasts every meal
+> this week.
 
 ---
 
@@ -58991,15 +59038,17 @@ street built in a doorway.
 
 ### 💛 A Note from Joseph
 
-> Tuesday afternoon is the piece of this week I get: third showing, phone
-> propped on a chair, you holding the flashlight while she winds the box. I
-> have been working out my one question since I laid the week out. Prop it low
-> enough that I can see her hands. The rest is yours and it is the heavier
-> half, a dozen villagers with a name each and their answers written down in
-> your pencil while Kreston hauls on the paper. She will carry those names for
-> years without once wondering who wrote them down. The village holds one
-> patch of floor until Thursday, and whichever patch it turns out to be, it
-> will be in the way of something you do at eleven at night.
+> Saturday is a dozen villagers with a name each and one question, and your
+> pencil taking down what every one of them answers with her verbs left
+> wrong. In January the cardboard goes out for recycling. I would keep that
+> page. Kreston turns eighteen months on Sunday at the far end of the room
+> with a dry pile of newspaper, a bowl and a spoon, and the thing worth
+> watching is whether he feeds any of it to a toy. Wednesday the house gives
+> up its own names, the hall for the road and the bathroom for the river, and
+> the labels stay taped up overnight, so it is still the village at breakfast
+> and she will check. Thursday the big light goes off at one o'clock and she
+> tells the dark part herself with the flashlight in her own hand, wolf and
+> all.
 
 ---
 
@@ -60067,16 +60116,17 @@ three than it sounds.
 
 ### 💛 A Note from Joseph
 
-> A trail of flour comes across the hall toward the door on Thursday night,
-> laid by her for me to find. I get to walk in on that. The three evenings
-> before it are the part I miss: the sofa taken apart into a row of dens,
-> every soft toy carried up the stairs a bagful at a time, a cardboard wolf as
-> long as the hallway. I filled the week with heavy work on purpose, because a
-> December kid climbs the walls without it, and the putting back is yours
-> after seven with Kreston on your hip. Tuesday I wrote too much in. There is
-> ice water, a pool and a zoo made of cushions on one page, and the light goes
-> at half past four. The feeders outside the kitchen window are what I want to
-> see when I come in on Friday.
+> The trail goes down on the kitchen floor on Wednesday night after she is
+> asleep, and you are the one on your knees with the flour. She finds it at
+> eight the next morning in the dark with a flashlight, and her face in that
+> first second is the piece of this week I lose. She will ask whether you did
+> it, and the answer that keeps the morning alive is another question. It
+> comes off the floor at four, two hours before I am through the door, and
+> the only evidence left by then is a tray of salt dough going hard in a low
+> oven. Sunday I get the other end of it, her own voice coming out of your
+> phone at dinner while she stands next to it and watches me listen. Monday
+> she hauls every soft toy in the house up the stairs a bagful at a time, and
+> Tuesday she puts one bare hand in ice water and calls it before you ask.
 
 ---
 
@@ -62263,16 +62313,18 @@ more open flame in it than any other week of the year.
 
 ### 💛 A Note from Joseph
 
-> Wednesday is yours, and the only present I had the power to put in this book
-> is a morning where you stay on the sofa while she makes three trips for the
-> candy. She frosts the cake with her fingers, writes the card, and says where
-> everyone sits, including you. On Thursday she asks about the people on that
-> table, and she asks again on Friday, and the fourth answer has to come out
-> in the same voice as the first. A year ago I handed you this and told you to
-> treat it as a menu. I was guessing at nearly all of it, and every page that
-> turned out to work only turned out that way in your hands. This is the last
-> of these pages. Fifty-two weeks, and you were in all of them at eight in the
-> morning, and I was not.
+> Wednesday belongs to you and she runs all of it, from the frosting spread
+> with four fingers to the seating plan that puts you where she wants you.
+> The first slice is yours, and the card she reads out will not match the
+> drawing on the front of it. Thursday the photographs go up on the covered
+> table with the pine she cut round the base, and the people who have died
+> get a stand the same size as everybody else's. She will ask the plain
+> question there and three more times before the week is out, and the fourth
+> answer is the one I would get wrong. A four-year-old who can run a birthday
+> is copying somebody, down to the order she does it in, and the thing I did
+> not know in January is how exact the copying would get. This is the last of
+> these pages, and it leaves her four, Kreston eighteen months, and the candy
+> divided into bags with everybody's name taped on.
 
 ---
 

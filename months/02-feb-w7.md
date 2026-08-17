@@ -127,16 +127,17 @@ else. The rest of the week runs on paper, flour and tape.
 
 ### 💛 A Note from Joseph
 
-> The mailbox goes up by the front door on Friday and does not get opened
-> until Thursday. That is six days of her checking it and asking, and every
-> one of those asks lands on you, because I set the rule at a desk in
-> December and put myself nowhere near the cost of it. Monday I renamed the
-> housework Jobs That Need Two People, which is a trick, and it will hold
-> until about the fourth time you tow her down the hall in the laundry
-> basket. Sunday is the fourteenth and there will be eight cards glued
-> crooked, a few of them for me. Put one somewhere I can find it in December.
-> If the box gets opened on Tuesday because she cannot stand it any longer,
-> that was always allowed.
+> Saturday she cuts a letter full of holes, signs it with five dots instead
+> of her name, and then stands in the kitchen while three people hunt for
+> theirs. She is three years old and the whole game rests on her giving
+> nothing away. My guess is she cracks before the second person has found
+> one, and I would like to be wrong about it. Tuesday she builds a plate for
+> every person in the house and decides what goes on each one, so somebody
+> is getting nine cucumber sticks and no bread. Thursday there is a key
+> drawn on a wooden spoon because a key stands for a home, and she will have
+> her own reason for putting it there that has nothing to do with homes.
+> Sunday is the fourteenth and there will be eight cards glued crooked, a
+> few of them for me.
 
 ---
 

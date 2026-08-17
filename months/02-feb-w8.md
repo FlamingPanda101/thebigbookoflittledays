@@ -126,16 +126,18 @@ the ground is soft enough to dig a color out of on Monday.
 
 ### 💛 A Note from Joseph
 
-> My old blue shirt is the apron on Friday. It has sat folded in the bottom of
-> the closet doing nothing for two years, so whatever comes back on it is an
-> improvement and nobody has to get it clean. Monday is cocoa and turmeric
-> under the dining table and mud at the sink after lunch, with an eight-month-
-> old crawling straight at all of it, which reads fine on the page and is
-> another thing at eleven in the morning with both of them down there.
-> Thursday she hangs the week on a wall, and the first I see of it is whatever
-> is still up there in the evening. Tell me nothing beforehand. I would rather
-> guess wrong in front of her than have it rehearsed, and that costs you a
-> whole day of not mentioning it.
+> My old blue shirt is the apron on Friday. It has sat folded in the bottom
+> of the closet doing nothing for two years, so whatever comes back on it is
+> an improvement and nobody has to get it clean. There is no green in the
+> house that morning until she makes some, and she names all six colors she
+> mixes, so the rest of the week runs on mud and sunset and dark. Sunday
+> afternoon there is a ball of salt dough for every person in this house,
+> and one of them gets built into a face of me out of lentils and yarn by
+> somebody who last saw me at breakfast. Thursday she seals a guess under
+> the cookie plate about which picture on that wall I am going to pick, and
+> my own guess is that she names her favorite and gets a surprise off me at
+> six. Kreston has a ticket to the gallery and it will be in his mouth
+> before the tour reaches the second wall.
 
 ---
 

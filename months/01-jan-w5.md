@@ -106,15 +106,17 @@ long at eleven in the morning.
 
 ### 💛 A Note from Joseph
 
-> Five weeks in and the book has stopped being new. It sits on the counter
-> with something spilled down it and you open it at 8:00 without deciding to,
-> which is what I was after and is stranger than I expected. Monday there is a
-> flour trail across the floor and one hour that evening where the thing I
-> planned and the thing I am standing in are the same thing. That is the only
-> hour like it in the month. The flour goes down at nine in the morning and
-> the broom will have been out twice before I get anywhere near it. Leave the
-> animals on the shelf where she puts them. I want to be shown them by her, in
-> her order, with the wrong ears still on.
+> Monday afternoon she lays a trail of flour across the floor for me and tapes
+> the arrow cards up at my eye height. Lights down at six, a flashlight in my
+> hand at the door, and for that hour the thing I planned and the thing I am
+> standing in are the same thing. There is no other hour like it in the month.
+> The morning trail goes down the night before behind a shut door, so she gets
+> the flour twice on the same day and the broom comes out after both. Saturday's
+> tour comes to me as one recording with no retakes, and the parts where she is
+> wrong about who lives in the roots are the parts I will play twice. The four
+> animals get their names written on the base on Friday, and by Sunday she is
+> shifting them round the tray to keep them out of the rain she makes with a
+> spray bottle.
 
 ---
 
