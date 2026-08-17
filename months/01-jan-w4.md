@@ -61,7 +61,7 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] A craft knife or heavy scissors (adult only)
 - [ ] A glue stick
 - [ ] Masking tape, 3 rolls
-- [ ] Parcel tape
+- [ ] Packing tape
 - [ ] Envelopes or freezer bags, 8
 - [ ] Paper lunch bags, 5
 - [ ] Trays or baking sheets, 3
@@ -77,7 +77,7 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] A ping-pong ball, or foil to roll a tight one
 - [ ] Dish towels, 2
 - [ ] Bowls, 4, or use the paper bags
-- [ ] A washing-up bowl
+- [ ] A dishpan
 - [ ] A laundry basket
 - [ ] All your tupperware, boxes and lids
 - [ ] The cutlery drawer, knives and skewers taken out first
@@ -484,7 +484,7 @@ across is through.
 - 1 permanent marker
 - 1 craft knife or heavy scissors (**adult only**)
 - 2 dining chairs
-- Parcel tape
+- Packing tape
 - 1 blanket for the floor
 
 **📝 Step-by-Step Instructions:**
@@ -519,12 +519,13 @@ across is through.
 
 > 🧠 **A Little Parenting Insight**
 > **Puzzles build a skill that has nothing to do with puzzles.**
-> Six lids is an hour of Azlyn trying a thing, failing, and trying a different
-> thing. That loop is the skill and it travels. Researchers who follow
-> children into school find that staying with a hard task predicts more than
-> early letter knowledge. A closed container is a good place to practice,
-> because the problem is honest: the lid is off or it is not, no adult decides
-> whether she did well, and the treasure pays out the second she solves it.
+> Six lids is a morning of Azlyn trying a thing, failing, and trying a
+> different thing. That loop is the skill and it travels. Researchers who
+> follow children into school find that staying with a hard task predicts
+> school outcomes as strongly as anything they can measure at four. A closed
+> container is a good place to practice, because the problem is honest: the lid
+> is off or it is not, no adult decides whether she did well, and the treasure
+> pays out the second she solves it.
 > She sets her own difficulty, picking which one to attack next. You keep your
 > hands still and she banks another minute.
 
@@ -590,7 +591,7 @@ across is through.
 6. Keep score in tally marks, hers and yours, and leave the tray out so she can run it on whoever walks in.
 
 > 💡 **Tip:** Let her win most of them. A three-year-old who is getting them
-> right plays for forty minutes. One stretched every round leaves after four.
+> right stays at the table. One stretched every round leaves after four rounds.
 
 ### 🌳 Get Outside: She Leads the Way Home
 
@@ -748,14 +749,14 @@ fixed two things you meant to fix in November.
 - All the tupperware boxes and lids
 - The cutlery drawer, **knives removed first**
 - 1 dish towel
-- 1 washing-up bowl
+- 1 dishpan
 - Masking tape and a marker for labeling shelves
 
 **📝 Step-by-Step Instructions:**
 1. Take every knife and skewer out of the drawer and onto the top of the fridge before she comes into the kitchen.
 2. Tip all the tupperware onto the floor. Lids in one heap, boxes in another, a meter apart.
 3. She matches. Hand her the three most obvious, then stand back. A lid that almost fits is the best part of the job.
-4. Any box with no lid goes in the washing-up bowl, out of the house or into the craft pile. She makes the call.
+4. Any box with no lid goes in the dishpan, out of the house or into the craft pile. She makes the call.
 5. Stack the matched boxes biggest at the bottom and put them back on the shelf. Tape a label on the shelf edge and let her say what to write.
 6. Now the drawer. Tip it onto the dish towel and let her sort each piece back into its slot: forks, spoons, teaspoons, a bowl for the odd stuff.
 7. Leave the drawer open. She checks her own work at 4:00 when she does the forks.
@@ -826,7 +827,7 @@ fixed two things you meant to fix in November.
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
 - **4:15–5:00 PM** — Quiet Play: The Mystery Bag on Her Own
-- **5:00–5:45 PM** — 🛁 Wind-Down: Torchlight and One Long Book
+- **5:00–5:45 PM** — 🛁 Wind-Down: Flashlight and One Long Book
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: Choosing the Secret Objects

@@ -85,7 +85,7 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] A teaspoon and a tablespoon
 - [ ] Cocoa powder, 3 tablespoons
 - [ ] Paprika or turmeric, 2 tablespoons
-- [ ] Plain flour, 1 kg
+- [ ] All-purpose flour, 1 kg
 - [ ] Salt, 500 g
 - [ ] Cooking oil, 1 tablespoon
 - [ ] A mixing bowl and a wooden spoon
@@ -98,9 +98,10 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] Wool or string, 1 ball
 - [ ] Food coloring
 - [ ] White vinegar
-- [ ] Freezer bags, one per pasta color and one for Kreston's dough
+- [ ] Freezer bags, one per pasta color
+- [ ] A small rigid pot with a lid, for Kreston's dough
 - [ ] Drinking straws, 2
-- [ ] Clothes pegs, 10
+- [ ] Clothespins, 10
 - [ ] A trowel and a bag, for collecting
 - [ ] Old plastic tubs, 2–3
 - [ ] A sieve or a tea strainer
@@ -115,7 +116,7 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] A shopping bag, to carry the letters home flat
 - [ ] Cookies and glasses, for the gallery
 - [ ] An old shirt of Joseph's, and an old T-shirt she can ruin
-- [ ] Carrier bags and a second old T-shirt, to cut into weaving strips
+- [ ] Grocery bags and a second old T-shirt, to cut into weaving strips
 - [ ] An empty wipes box and a muslin, for Kreston
 - [ ] A hand mirror
 - [ ] A flashlight with fresh batteries
@@ -212,7 +213,7 @@ the ground is soft enough to dig a color out of on Monday.
 ### 🌳 Get Outside: The Gray Street Color Hunt
 
 February has bled the color out of the street, so go and hunt for what is
-left. A red front door, a green wheelie bin, moss on a north-facing wall,
+left. A red front door, a green trash can, moss on a north-facing wall,
 somebody's crocuses up early in a front garden, the yellow line on the road.
 Count them out loud as she finds them. Ask which of the six she made this
 morning comes closest to each.
@@ -361,9 +362,9 @@ together now, and no two come out the same.
 ### 🌳 Get Outside: Looking for the First Green
 
 Late February is where green comes back, so go and find it. Bulb shoots in the
-borders, moss in the cracks of a wall, an evergreen hedge, snowdrops if anyone
-on your street plants them. Give her a job: pick one real leaf to bring home
-and glue into the garden.
+borders, moss in the cracks of a wall, an evergreen hedge, crocus tips where
+the sun reaches a south-facing wall. Give her a job: pick one real leaf to
+bring home and glue into the garden.
 
 > 👶 **Infant Integration:** Kreston is 8 months. Give him a whole sheet of
 > paper, too big to get into his mouth, and let him crush it. The noise arrives
@@ -395,7 +396,7 @@ slots in the lid turns the clearing up into the afternoon.
 6. On the last round, count them in out loud as she posts. Ten reds, six yellows, however many blues.
 7. Kreston gets his own box with one wide slot and pieces too big to swallow, set down where he can reach it.
 
-> 💡 **Tip:** Let the wrong ones stay wrong. A page she calls red because the dog on it wears a red collar is a decision made from evidence, and she sharpens the rule herself over the next fortnight.
+> 💡 **Tip:** Let the wrong ones stay wrong. A page she calls red because the dog on it wears a red collar is a decision made from evidence, and she sharpens the rule herself over the next two weeks.
 
 ### 🎯 Afternoon Alternatives
 - Post plastic lids from the recycling into a tin with a slot cut in it.
@@ -422,8 +423,9 @@ slots in the lid turns the clearing up into the afternoon.
 > Azlyn spent most of last year pushing objects into gaps, and Kreston is
 > starting on it now. Psychologists call the pattern a schema, an action a
 > child repeats to test one idea, and posting is among the most reliable. She
-> is working out that a thing still exists after it goes out of sight, that her
-> hand can aim at a target, and that a shape either fits or it does not.
+> is working out that her hand can aim at a target, that a shape either fits or
+> it does not, and that a thing she cannot see is still somewhere, which she
+> settled as a baby and is now checking against harder cases.
 > Three-year-olds come back to the game when the sorting gets harder, which is
 > why three colored slots hold her today far longer than a plain box would
 > have last winter.
@@ -512,7 +514,7 @@ Salt dough holds a thumbprint, and a face made of lentils and buttons can be
 changed thirty times.
 
 **🧰 Complete Materials List:**
-- 2 cups plain flour, 1 cup salt, 1 cup water, 1 tablespoon oil
+- 2 cups all-purpose flour, 1 cup salt, 1 cup water, 1 tablespoon oil
 - 1 mixing bowl and a wooden spoon
 - Dried pasta, lentils and dried beans
 - Buttons if you have a tin of them
@@ -543,10 +545,12 @@ changed thirty times.
 - The riverside path, to see how high the water is after the wet week
 - A drive to somewhere with a view and stay in the warm car
 
-> 👶 **Kreston's Afternoon:** At 8 months he gets a fistful of dough sealed
-> inside a freezer bag, taped shut, to squeeze and shove around the tray of his
-> chair. At the pond, keep him on you rather than at duck height. Ducks come at
-> a sitting baby fast.
+> 👶 **Kreston's Afternoon:** At 8 months he gets a fistful of dough shut in a
+> small rigid pot with the lid taped on hard, to shove around the tray of his
+> chair. Salt dough is dangerous eaten and a food bag is a suffocation risk at
+> his age, so it is the pot, and the pot comes back when you stop watching. At
+> the pond, keep him on you rather than at duck height. Ducks come at a sitting
+> baby fast.
 
 ---
 
@@ -564,7 +568,7 @@ changed thirty times.
 > ⚠️ **Safety:** Lentils, dried beans, buttons and pasta are choking hazards
 > and every one of them ends up on the floor within reach of a baby who crawls.
 > Sweep before Kreston goes down. Salt dough is dangerous eaten, so keep his
-> hands out of the bowl and give him his own sealed bag.
+> hands out of the bowl and give him his own pot with the lid taped on.
 
 <div style="page-break-after: always;"></div>
 
@@ -623,7 +627,7 @@ changed thirty times.
 3. Now the hand. Press her palm flat on the paper, hold it there, and dab paint around the edge. Lift straight up and the shape of her hand stays behind.
 4. Newspaper down. Load the old toothbrush with spice paint and show her how to drag a thumb back across the bristles, spattering dots up the wall.
 5. Do one handprint of yours beside hers, and Kreston's on a loose sheet if he will hold still.
-6. Lights off, flashlight on, and look at the whole wall by torchlight. Ask her what happened in this cave and listen without adding to it.
+6. Lights off, flashlight on, and look at the whole wall by flashlight. Ask her what happened in this cave and listen without adding to it.
 
 > 💡 **Tip:** The toothbrush throws spice paint further than you think. Lay the newspaper wider than seems necessary.
 
@@ -653,7 +657,7 @@ yet.
 - 1 smooth stone or the back of a metal spoon for grinding
 - 1 sieve or a tea strainer
 - Water in a pitcher
-- 2 tablespoons plain flour as a binder
+- 2 tablespoons all-purpose flour as a binder
 - Sticks and 1 old brush
 - Big paper or another flattened box
 - Old clothes and a towel by the sink
@@ -746,17 +750,17 @@ yet.
 - 1 stiff cardboard rectangle, roughly the size of a cereal box front
 - 1 pair of adult scissors (adult only) for the notches
 - 1 ball of wool or string
-- Strips cut from magazines, carrier bags and an old T-shirt
+- Strips cut from magazines, grocery bags and an old T-shirt
 - Masking tape, to wrap the end of the wool into a stiff tip instead of a needle
-- 2 clothes pegs to hold the ends
+- 2 clothespins to hold the ends
 
 **📝 Step-by-Step Instructions:**
-1. Cut the strips before she sits down: magazine, carrier bag and old T-shirt, each a finger wide and longer than the loom is across.
+1. Cut the strips before she sits down: magazine, grocery bag and old T-shirt, each a finger wide and longer than the loom is across.
 2. Wrap one end of each strip in masking tape to make a stiff point, a needle's job at a size her hand can hold.
 3. Say the words while she does the first row. *Over, under, over, under.* Three rows of that, then go quiet.
 4. Row two has to start under wherever row one started over. She will get this wrong, and a wrong row still looks good.
 5. Push each finished row up tight against the one above. The gaps close and the card disappears.
-6. Peg the loose ends at the sides so nothing slides back out.
+6. Clip the loose ends at the sides so nothing slides back out.
 
 > 💡 **Tip:** The rhythm carries her further than the instruction does. Chant over-under while she works and her hand picks the pattern up before she can explain it.
 
@@ -825,9 +829,9 @@ kitchen has any right to be.
 > crossing the middle of her body to meet in front of her. Occupational
 > therapists reach for threading because that combination is what a pencil grip
 > is made of, and it takes years to build. None of it looks like schoolwork,
-> which is why she will stay with it for an hour. The child who spent three
-> years threading pasta and buttons is the one whose hand does not ache at six
-> after a page of writing.
+> which is why she comes back to it three times across an afternoon when a
+> worksheet would have lasted two minutes. Years of this is what a hand needs
+> before anybody asks it to write a page at six.
 
 > ⚠️ **Safety:** Dry pasta and cut straw segments are the right size to choke
 > an 8-month-old, and the floor is where they land. Sweep before Kreston goes
@@ -897,7 +901,7 @@ kitchen has any right to be.
 ### 🌳 Get Outside: The Sidewalk Rubbings
 
 Take paper, tape and half a dozen crayon stubs out with you. Drain covers, a
-coal-hole cover, a house number plate, the grain of a wooden bench, a memorial
+water meter lid, a house number plate, the grain of a wooden bench, a memorial
 plaque, tree bark. February bark is soaked and will tear the paper, so pick a
 trunk on the dry side or go for metal. Carry them home flat in a bag rather
 than rolled.
@@ -1011,14 +1015,14 @@ and the people.
 **🧰 Complete Materials List:**
 - The week's paintings, cut-outs, rubbings, portraits and the woven card
 - Masking tape
-- String and 8 clothes pegs (hung above adult head height)
+- String and 8 clothespins (hung above adult head height)
 - Card offcuts cut into label-sized rectangles
 - 1 permanent marker
 - A chair for you, for the high ones
 
 **📝 Step-by-Step Instructions:**
 1. Pick the wall. Somewhere Joseph walks past on his way in, and somewhere the light reaches.
-2. Start at her eye level and build upward, taping the low ones and pegging the high row to the string. The bottom row is hers to hang and reach, the top row is yours off the chair.
+2. Start at her eye level and build upward, taping the low ones and clipping the high row to the string. The bottom row is hers to hang and reach, the top row is yours off the chair.
 3. Straighten every piece as it goes up. A straight row turns a wall of paper into an exhibition.
 4. Cut the card into labels. Ask her what each piece is and write her answer down, then her name and the day she made it.
 5. Tape each label under its picture. Walk the wall from end to end and read the whole thing back to her.
@@ -1071,7 +1075,7 @@ afternoon aims at the moment he walks through the door.
 - Put one piece in a real frame and hang it in the hall for good.
 
 ### 🌳 Out Again: **Pick one**
-- **The pharmacy and a park bench**, with the prescription and a bag of chips
+- **The pharmacy and a park bench**, with the prescription and a bag of fries
 - The corner shop for the cookies, and she picks them
 - The park, for a run before the gallery opens
 - Past Tuesday's fence weave, to see whether it survived
@@ -1095,7 +1099,7 @@ afternoon aims at the moment he walks through the door.
 > before and an after to compare, and comparing those two is where the skill
 > grows.
 
-> ⚠️ **Safety:** The pegged string comes down the moment the tour is over, and
+> ⚠️ **Safety:** The clipped string comes down the moment the tour is over, and
 > it never hangs anywhere either child can reach. Use plastic beakers rather
 > than glasses with Kreston loose on the floor. His ticket stays in your lap,
 > and it comes back before it is chewed small enough to swallow.

@@ -55,11 +55,11 @@ writes about Kreston. Back those up before Thursday.
 - [ ] Dried pasta shapes, 1 cup
 - [ ] Sugar, 2 tablespoons
 - [ ] Dry cereal, a handful
-- [ ] Plain flour, for the paste
+- [ ] All-purpose flour, for the paste
 - [ ] Oats or a bag of frozen peas, for the ducks
 - [ ] Milk and a cinnamon stick, for the bedtime drink
 - [ ] Five bread rolls, if you want real buns in the bun shop
-- [ ] 5 small plastic bottles or yoghurt pots with lids
+- [ ] 5 small plastic bottles or yogurt pots with lids
 - [ ] Empty cereal boxes, 4 (start saving now)
 - [ ] A large cookie tin, or any empty tin
 - [ ] A plastic tub with a lid
@@ -70,7 +70,7 @@ writes about Kreston. Back those up before Thursday.
 - [ ] A tray and a baking tray
 - [ ] An egg cup
 - [ ] A laundry basket
-- [ ] Parcel tape
+- [ ] Packing tape
 - [ ] Masking tape, 2 rolls
 - [ ] Permanent markers, 2
 - [ ] Crayons
@@ -93,7 +93,7 @@ writes about Kreston. Back those up before Thursday.
 - [ ] Sofa cushions, 4–6, and 2 pillows
 - [ ] A spare duvet, or a mattress on the floor
 - [ ] Books or small boxes, 6–8, to build Humpty's wall
-- [ ] Clothes pegs, 5
+- [ ] Clothespins, 5
 - [ ] A flashlight with fresh batteries, and spares
 - [ ] A watch for the rhyme bag
 - [ ] A hat each
@@ -131,7 +131,7 @@ writes about Kreston. Back those up before Thursday.
 **Theme:** Nursery Rhymes & Rhythm
 
 ### 🌙 Prep Tonight
-> Stand five empty pots and their lids by the dry-goods cupboard, and put the parcel tape and a marker beside them.
+> Stand five empty pots and their lids by the dry-goods cupboard with the packing tape and a marker, and boil four eggs for tomorrow, left in the fridge to go cold.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Listening to the Cupboard
@@ -162,13 +162,13 @@ writes about Kreston. Back those up before Thursday.
 ### 🎨 The Main Event: The Shaker Set
 
 **🧰 Complete Materials List:**
-- 5 small plastic bottles or yoghurt pots with lids
+- 5 small plastic bottles or yogurt pots with lids
 - Dried rice, 1 cup
 - Dried lentils, 1 cup
 - Dried pasta shapes, 1 cup
 - Sugar, 2 tablespoons
 - Dry cereal, a handful
-- Parcel tape
+- Packing tape
 - 1 permanent marker
 - 1 sheet of paper rolled into a funnel
 
@@ -185,7 +185,7 @@ writes about Kreston. Back those up before Thursday.
 ### 🌳 Get Outside: Tapping the Railings
 
 Take a wooden spoon out with you and tap what you pass. Railings ring and hold
-the note, fence posts thud and stop dead, a wheelie bin booms, a brick wall
+the note, fence posts thud and stop dead, a trash can booms, a brick wall
 gives back nothing. January metal is cold enough that she will want gloves on
 and then off again to feel it. Let her find the loudest thing on the street and
 stay at it.
@@ -282,7 +282,7 @@ never heard, and the babies settled to those too.
 **Theme:** Nursery Rhymes & Rhythm
 
 ### 🌙 Prep Tonight
-> Boil four eggs and leave them in the fridge to go cold, and fold an old towel into a baking tray beside them.
+> The four eggs are boiled and cold in the fridge. Fold an old towel into a baking tray beside them, and stand the books for the wall by the kitchen door.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Drawing on the Eggs
@@ -313,7 +313,7 @@ never heard, and the babies settled to those too.
 ### 🎨 The Main Event: The Egg Drop Record
 
 **🧰 Complete Materials List:**
-- 4 hard-boiled eggs, boiled last night and cooled
+- 4 hard-boiled eggs, boiled last night and cooled, or boiled at 8:00 and cooled fast in a bowl of cold water
 - 1 baking tray
 - 1 old towel to line the tray
 - 6–8 books or small boxes to build the wall
@@ -438,7 +438,7 @@ afternoon, the one thing the rhyme insists nobody could do.
 
 ### 🌅 Opening Activity: Making the Five Ducks
 
-**🧰 You need:** 1 flattened cereal box · scissors (adult only) · crayons · 5 clothes pegs.
+**🧰 You need:** 1 flattened cereal box · scissors (adult only) · crayons · 5 clothespins.
 
 1. Draw five duck shapes on the plain side of the box. Rough ovals with a beak on the front will do.
 2. You cut, she colors. Give each one something different, and let her choose which is the mother duck.
@@ -450,7 +450,7 @@ afternoon, the one thing the rhyme insists nobody could do.
 - 1 cereal box, for cutting five duck shapes
 - Scissors (adult only)
 - Crayons
-- 5 clothes pegs to stand the ducks up
+- 5 clothespins to stand the ducks up
 - 1 upturned laundry basket or a sofa cushion
 - 1 blue dish towel or scarf for the pond
 - Masking tape
@@ -533,11 +533,11 @@ sings.
 > landing in the same place: a few books read over and over beat a wide
 > rotation for what stays. Sing it again.
 
-> ⚠️ **Safety:** January pond water is cold enough to matter and the edge is
-> muddy and steep. Hold her hand at the water, throw the food from well back,
-> and stay between both children and the bank. Geese take fingers with the
-> bread. The pegs and the small rhyme-bag objects are choke-sized, so they come
-> off the floor before Kreston does.
+> ⚠️ **Safety:** The clothespins and the small rhyme-bag objects are
+> choke-sized, so they come off the floor before Kreston does. Puddle ice this
+> month is thin, so keep her off the frozen edge of anything deeper than her
+> boot. If you take the pond option this afternoon, hold her hand at the water,
+> scatter the food from well back, and stay between both children and the bank.
 
 <div style="page-break-after: always;"></div>
 
@@ -548,7 +548,7 @@ sings.
 **Theme:** Nursery Rhymes & Rhythm
 
 ### 🌙 Prep Tonight
-> Put a large tin, a plastic tub, an empty cereal box and a saucepan by the table, and dig out two wooden spoons and the parcel tape.
+> Put a large tin, a plastic tub, an empty cereal box and a saucepan by the table, and dig out two wooden spoons and the packing tape.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Spoon and the Saucepan
@@ -583,7 +583,7 @@ sings.
 - 1 plastic tub with a lid
 - 1 cereal box
 - 1 saucepan
-- Parcel tape
+- Packing tape
 - 2 wooden spoons
 - 1 dish towel, to mute one drum
 - 1 permanent marker
@@ -737,7 +737,7 @@ the row left to right.
 Walk the usual route hunting for things that have shut down for winter. Buds
 on the bare twigs are sealed tight and will sit there until March. Ask her
 where the birds go at night, take her answer at face value, then go and look at the
-places she might be right about. Dark comes before half four this month.
+places she might be right about. The light goes not long after five this month.
 
 > 👶 **Infant Integration:** Kreston is 7 months. Lay him on his back in the
 > dark room for five minutes with the star cup on. He follows a slow-moving
@@ -784,8 +784,9 @@ brother.
 
 > 👶 **Kreston's Afternoon:** He swims too. At 7 months he sits supported in
 > the water and reaches for anything floating within a hand's reach, so take an
-> upturned cup in and let him chase it. Sing the star song at him in the water,
-> where the tiled echo turns your voice into something new. Twenty minutes,
+> upturned cup in and let him chase it. Your hands stay on him the whole time
+> he is in the water. Sing the star song at him in there, where the tiled echo
+> turns your voice into something new. Twenty minutes,
 > then out before he cools.
 
 ---
@@ -886,17 +887,17 @@ money in their hand.
 - Scissors (adult only)
 - Crayons for the currants
 - 1 tray
-- 1 shoebox as the till
+- 1 shoebox as the register
 - 10 card coins, cut from the same box
 
 **📝 Step-by-Step Instructions:**
 1. Cut five circles from the cereal box and ten coins from what is left. She draws the currants on, as many per bun as she likes.
-2. Set the tray on a low table as the counter and the shoebox behind it as the till. She is the baker, and the shop opens when she says.
+2. Set the tray on a low table as the counter and the shoebox behind it as the register. She is the baker, and the shop opens when she says.
 3. Count the buns onto the tray out loud. Five, touching each one.
-4. Sing the verse, walk up with a coin, buy one bun and carry it away. She hands the bun over and puts the coin in the till herself.
+4. Sing the verse, walk up with a coin, buy one bun and carry it away. She hands the bun over and puts the coin in the register herself.
 5. After each sale, ask how many are left and let her count the tray from the start. Wait out the recount.
-6. Sell all five, then swap. She counts the coins out of the till one at a time into your hand.
-7. Shut the shop. Count the coins in the till and the buns in your hand, and stack both on the tray for tomorrow.
+6. Sell all five, then swap. She counts the coins out of the register one at a time into your hand.
+7. Shut the shop. Count the coins in the register and the buns in your hand, and stack both on the tray for tomorrow.
 
 > 💡 **Tip:** Do the buying in real time. A pause between sales, a walk to the door, a knock before you come in. She has to hold the number while the shop waits.
 
@@ -909,7 +910,7 @@ money in their hand.
 ### 🌳 Out Again: **Pick one**
 - **Soft play**, and the quiet hour before the school run if there is one
 - The library, if soft play is heaving
-- The park in the cold, for twenty minutes and hot squash after
+- The park in the cold, for twenty minutes and hot chocolate after
 - A friend's house, with the rhyme bag in your coat pocket
 - The indoor play center, if the weather has shut everything else down
 
@@ -1055,9 +1056,10 @@ The parade needs a route, and she draws it before anybody marches anywhere.
 > **Why moving together matters more than moving.**
 > Marching in step with Azlyn does something that dancing on your own round the
 > kitchen does not. Move in time with another person and you both come away
-> more inclined to help each other, and it shows up young: four-year-olds who
-> bounced in time with an adult went on to pick up that adult's dropped pencils
-> more often than the ones who bounced out of time. Shared rhythm reads as
+> more inclined to help each other, and it shows up young. Bounce a
+> fourteen-month-old in time with you and he hands back an object you drop more
+> often than a baby bounced out of time. Four-year-olds show something like it
+> after they have made music together. Shared rhythm reads as
 > belonging, at any age, which is most of what a nursery rhyme has ever been
 > for. Everything sung in this house since Friday has been two or four people
 > locking onto one beat. Today it has hats.

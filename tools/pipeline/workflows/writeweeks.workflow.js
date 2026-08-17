@@ -157,6 +157,25 @@ Two or three sentences of fact, then:
 `
 
 const STYLE = `
+⚠️ US ENGLISH THROUGHOUT. The book is American. Ten months were written in
+British English and 2,700 terms had to be converted afterwards; do not add to
+that. Write color, favorite, practice, realize, meter, center, gray. Write
+stroller not pram, craft sticks not lolly sticks, rain boots not wellies,
+flashlight not torch, sidewalk not pavement, curb not kerb, trash not rubbish,
+dish towel not tea towel, washcloth not flannel, paper towels not kitchen
+roll, popsicle not ice lolly, cookie not biscuit, candy not sweets, pitcher
+not jug, stove not cooker, stovetop not hob, closet not wardrobe, parking lot
+not car park, mailbox not postbox, diaper not nappy, crib not cot, bandage not
+plaster, plastic wrap not cling film, parchment not greaseproof, superfine
+sugar, self-rising flour, baking soda, zucchini. Money in dollars and cents.
+KEEP "autumn": it is standard American in writing and the book uses
+fall/falls/falling for toppling towers.
+
+THE PLANT AND WEATHER CALENDAR IS AMERICAN TOO. Do not write snowdrops in
+February, hazel catkins, frogspawn in late March, blackthorn, elder, bluebell
+woods or cow parsley. Write what a family across much of the United States
+would actually find outside that month, and prefer widespread species.
+
 WRITING STYLE. These are enforced and week 1 had to be rewritten for breaking
 them. Read CLAUDE.md for the full set.
 

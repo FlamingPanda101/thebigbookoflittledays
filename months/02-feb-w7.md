@@ -52,7 +52,7 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Red or pink paper, 4 sheets
 - [ ] Cereal boxes, flattened, 3
 - [ ] Thick card, 1 sheet, for the post office sign
-- [ ] Shoeboxes with lids, 2 (the letterbox Friday, the till Wednesday)
+- [ ] Shoeboxes with lids, 2 (the letterbox Friday, the register Wednesday)
 - [ ] A small box for the real parcel
 - [ ] Old magazines and junk mail, a stack
 - [ ] Newspaper, a stack
@@ -68,24 +68,26 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Heavy scissors or a craft knife (adult only)
 - [ ] Masking tape, 1 roll
 - [ ] Sticky tape
-- [ ] Parcel tape
+- [ ] Packing tape
 - [ ] A glue stick
 - [ ] String, 3 meters
 - [ ] A shoelace, or more string
 - [ ] One large bead
 - [ ] Ribbon, a scrap
-- [ ] Clothes pegs, 8
+- [ ] Clothespins, 8
 - [ ] A bulldog clip
 - [ ] Strong white bread flour, 500 g, plus extra for the table
 - [ ] Fast-action yeast, 1 sachet (7 g)
 - [ ] Salt and sugar
 - [ ] Oil, 1 tbsp
-- [ ] Bread, 6 slices, plus more for the butter
-- [ ] Butter or cream cheese
-- [ ] Double or heavy cream, 300 ml (single will not turn)
+- [ ] Bread, 6 slices
+- [ ] Butter, and cream cheese, a small tub
+- [ ] Plain yogurt, a small pot
+- [ ] Crackers or breadsticks
+- [ ] A dried herb, and jam, for the two dips
 - [ ] Cheese, 4 slices
 - [ ] A lettuce or a bag of salad
-- [ ] Half a cucumber
+- [ ] 1 cucumber
 - [ ] 1 banana
 - [ ] 2 satsumas and a soft pear
 - [ ] Dried pasta tubes, 200 g
@@ -93,11 +95,11 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] White vinegar
 - [ ] Freezer bags, 3
 - [ ] Cookies, for the forfeits
-- [ ] Plain flour, butter, sugar, currants and an egg for the Welsh cakes
-- [ ] Jam jars with tight lids, 2
-- [ ] A clean marble or a coin for the jar
-- [ ] A sieve
-- [ ] A small pot or ramekin with a lid
+- [ ] All-purpose flour, butter, sugar, currants and an egg for the Welsh cakes
+- [ ] A jam jar for the table centerpiece
+- [ ] A tray or a basket, to carry the picnic through
+- [ ] A pitcher and a small cup per person
+- [ ] A blanket or a big towel for the floor
 - [ ] Baking trays, 2, and baking paper
 - [ ] A large mixing bowl
 - [ ] Small bowls, 3
@@ -107,7 +109,7 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] Dish towels, 2
 - [ ] Napkins or paper towels
 - [ ] Two washcloths you can get wet
-- [ ] Kitchen scales, or a coat hanger and 2 yoghurt pots
+- [ ] Kitchen scales, or a coat hanger and 2 yogurt pots
 - [ ] A timer
 - [ ] A real coin to draw round, and change for the shop and the post office
 - [ ] A candle in a stable holder, or a battery tealight
@@ -116,7 +118,7 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] An old bed sheet or blanket
 - [ ] A large cushion
 - [ ] A broom and a dustpan
-- [ ] A washing-up bowl and 2 plastic cups
+- [ ] A dishpan and 2 plastic cups
 - [ ] 6 books she can carry from one room to another
 - [ ] A shopping bag or a basket
 - [ ] The postal address for Wednesday's parcel, written out large
@@ -175,7 +177,7 @@ else. The rest of the week runs on paper, flour and tape.
 
 ### 🌅 Opening Activity: The Dough That Has to Wait
 
-**🧰 You need:** the risen dough in its bowl · extra flour · a timer · an envelope and a pen.
+**🧰 You need:** the risen dough in its bowl, or a bought pack out of the fridge · extra flour · a timer · an envelope and a pen.
 
 1. Take the bowl out of the fridge and set it on the table in front of her. Lift the cloth and let her press one finger in. The dent stays where she put it.
 2. Ask how many rolls she thinks are in there. Write her number on the back of the envelope and prop it against the bowl.
@@ -189,6 +191,7 @@ else. The rest of the week runs on paper, flour and tape.
 - 1 tsp salt, 1 tsp sugar
 - 300ml warm water
 - 1 tbsp oil
+- A 500 g pack of ready-made dough covers all five, if the bowl never got mixed
 - 1 large mixing bowl
 - 1 dish towel
 - 2 baking trays and baking paper
@@ -285,9 +288,10 @@ for children. They hang on kitchen walls now.
 > not, and she managed it. Children hold out longer when the wait has a visible
 > marker (a timer, a bowl on the table, a dent that stays) and when the adult
 > who set the terms has kept them before. Researchers who repeated the
-> marshmallow test found that reliability of the grown-up moved the results more
-> than willpower did. You said 9:15 and you meant 9:15, so the next wait costs
-> her less. Yeast is a good teacher because it cannot be hurried by anyone.
+> marshmallow test found that children waited far longer for the second treat
+> when the adult had already kept one promise to them. You said 9:15 and you
+> meant 9:15, so the next wait costs her less. Yeast is a good teacher because
+> it cannot be hurried by anyone.
 
 > ⚠️ **Safety:** The oven is on and the trays come out at her head height. Say
 > so out loud every time you open the door, and keep Kreston out of the kitchen
@@ -310,7 +314,7 @@ for children. They hang on kitchen walls now.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Letter Nobody Signs (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: Looking for the First Snowdrops (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Silver Buds on the Willow (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -353,18 +357,19 @@ rhyme, and dots instead of a name.
 
 > 💡 **Tip:** The dots are the whole game. Let her tell three people that the letter is secret.
 
-### 🌳 Get Outside: Looking for the First Snowdrops
+### 🌳 Get Outside: The Silver Buds on the Willow
 
-Snowdrops are up by the middle of February, in the shade under hedges, along
-walls, at the edge of the churchyard. Look low and look for white. Hazel
-catkins are out too, and she can flick one to see the pollen come off. Post
-the letter on the way past, then pick two snowdrops with permission, or a
-green sprig if the flowers are all on somebody's land.
+Pussy willows break in February and the buds come out gray and furry, which is
+the whole reason to walk to one. Look along a ditch, a damp corner of the park,
+the edge of a parking lot. Let her run a thumb over a bud before she looks at
+it. Post the letter on the way past, then take one twig with permission. A
+florist or the grocery store sells the cut branches all month if none grow near
+you.
 
 > 👶 **Infant Integration:** Kreston is 8 months. Give him a sheet of
 > parchment paper too big to go in his mouth and let him crush it with both
-> hands, while the small snipped offcuts stay up on the table. Outside, crouch
-> the stroller down to the snowdrops and hold one for him to swipe at.
+> hands, while the small snipped offcuts stay up on the table. Outside, hold a
+> willow twig where he can swipe at it, and keep it in your own hand.
 
 <div style="page-break-after: always;"></div>
 
@@ -379,14 +384,14 @@ its owner has to find it.
 - Child-safe scissors
 - Crayons
 - Sticky tape
-- The snowdrop or green sprig from the walk
+- The willow twig or a green sprig from the walk
 - One small forfeit: a cookie or an extra bedtime story
 
 **📝 Step-by-Step Instructions:**
 1. Fold and snip three letters. They come out faster now and better, which she will notice on her own.
 2. Five dots along the bottom of each one. She counts them out loud every time.
-3. Tape the snowdrop or the sprig inside one of them, the way the Danish letters carry one.
-4. Walk the house and pick the hiding places with her: inside a shoe, under a pillow, on a shelf in the fridge. Let her choose the daft ones.
+3. Tape the willow twig or the sprig inside one of them, the way the Danish letters carry a flower.
+4. Walk the house and pick the hiding places with her, every one of them above Kreston's reach: on top of the bookshelf, behind the kettle, on a shelf in the fridge. Let her choose the daft ones.
 5. Set the terms before anybody hunts. Guess who sent it and Azlyn owes you a cookie. Guess wrong and you owe her one.
 6. Send each person to find theirs. She watches the whole thing and gives no clues, which will take everything she has.
 7. Guessing happens at dinner. Pay the forfeits then, out loud, whoever won.
@@ -402,7 +407,7 @@ its owner has to find it.
 ### 🌳 Out Again: **Pick one**
 - **A train ride**, two stops out and two stops back, and she holds the tickets
 - The station platform on its own if the ride is too much today
-- A drive to look at the snowdrops in the churchyard
+- A drive to the park with the willows along the water
 - Soft play, for a Saturday that has been quiet and indoors
 - The park with the long path, on the bikes
 
@@ -410,7 +415,7 @@ its owner has to find it.
 > the whole trip, and he tracks a passing fence post to the edge of his vision
 > and hunts for it again. Sit him on your lap facing the glass. If the
 > carriage is full and somebody friendly leans in, turn him toward you without
-> apologising for him.
+> apologizing for him.
 
 ---
 
@@ -425,11 +430,11 @@ its owner has to find it.
 > a song, and the message underneath is that families elsewhere are
 > families, getting on with their own ordinary week.
 
-> ⚠️ **Safety:** Snowdrops are poisonous. The one Kreston swipes at stays in
-> your hand, and the taped one goes inside a letter on a shelf he cannot reach.
-> Snipped offcuts and paper confetti are mouth-sized, so sweep the floor before
-> he is down on it, and keep the greaseproof sheet whole. Scissors go back to
-> you between letters.
+> ⚠️ **Safety:** A willow twig snaps into mouth-sized pieces. The one Kreston
+> swipes at stays in your hand, and every hiding place today sits above his
+> reach, the letter with the twig in it included. Snipped offcuts and paper
+> confetti are mouth-sized too, so sweep the floor before he is down on it, and
+> keep his parchment sheet whole. Scissors go back to you between letters.
 
 <div style="page-break-after: always;"></div>
 
@@ -511,7 +516,7 @@ place, including who sits where.
 
 **🧰 Complete Materials List:**
 - 3 meters of string
-- Clothes pegs or masking tape
+- Clothespins or masking tape
 - The leftover torn hearts, plus more paper
 - 1 marker
 - Napkins or paper towels
@@ -520,7 +525,7 @@ place, including who sits where.
 - 1 candle in a stable holder, or a battery tealight
 
 **📝 Step-by-Step Instructions:**
-1. Tape the string along the front edge of the table, low, and let her peg the hearts along it. Spacing is hers, so expect eleven at one end.
+1. Tape the string along the front edge of the table, low, and let her clip the hearts along it. Spacing is hers, so expect eleven at one end.
 2. One torn heart per person becomes a place card. She writes the names, you write them underneath in small letters.
 3. She decides who sits where and puts the cards down. Do not move them, even the one that puts Kreston at the head of the table.
 4. Fold the napkins into triangles and let her do the second half. Triangles are hard at three and she gets better inside ten napkins.
@@ -553,11 +558,11 @@ place, including who sits where.
 > Eight cards, no straight lines, and a heart glued half off the edge. The
 > version where you tidied them would look better on the mantelpiece and would
 > teach her something you would rather she did not learn, which is that her
-> work arrives at an adult for correction. Children who own the whole job stay
-> with it longer and come back to it, and the ones whose work keeps getting
-> improved start asking an adult to do it before they try. She knows which
-> marks are hers. Hand the wonky ones over as they are and let the people
-> receiving them see her handwriting.
+> work arrives at an adult for correction. A child who owns the whole job comes
+> back to it on her own. Straighten one heart for her and she notices, and the
+> next card gets handed to you before she has started it. She knows which marks
+> are hers. Hand the wonky ones over as they are and let the people receiving
+> them see her handwriting.
 
 > ⚠️ **Safety:** A lit candle sits in the middle of the table, out of arm's
 > reach of a high chair, and it goes out before anyone leaves the room. A
@@ -598,14 +603,14 @@ place, including who sits where.
 
 **🧰 You need:** 1 shoelace or a length of string · sticky tape · 1 large bead or a fat knot.
 
-1. Ask who the necklace is for. Hold the lace round that neck, loose, and let her see where the two ends meet.
+1. Ask who the necklace is for, anybody in the house except Kreston, and say why. Hold the lace round that neck, loose, and let her see where the two ends meet.
 2. Tie the finish knot there, or thread the big bead on and knot it in place. Everything she threads today goes in front of that mark.
 3. Wrap the other end tight in tape until it is stiff as a bootlace tip.
 
 ### 🎨 The Main Event: The Necklace with a Finish Line
 
 **🧰 Complete Materials List:**
-- Dried pasta tubes, 200g, dyed the night before
+- Dried pasta tubes, 200g, dyed the night before, or plain undyed tubes, which thread the same
 - Food coloring, 3 colors
 - 1 tbsp vinegar and a freezer bag per color (night before)
 - 1 shoelace, or string with one end wrapped tight in sticky tape
@@ -628,8 +633,9 @@ place, including who sits where.
 A February morning after a cold night leaves sheets of ice over puddles, the
 water gone from underneath. Slide a boot toe under the edge and lift a whole
 pane out. Hold it to the sky and look through it. Let her drop it, stamp on
-it, listen to it. Find the thickest lid on the street and come back tomorrow
-to see if it survived.
+it, listen to it. A mild night leaves nothing to lift, so count the puddles
+instead and rank them by how far up her boot the water comes. Find the
+thickest lid on the street and come back tomorrow to see if it survived.
 
 > 👶 **Infant Integration:** Kreston is 8 months. Make him a rattle while she
 > threads: two dyed pasta tubes in an empty water bottle, lid taped on hard.
@@ -650,7 +656,7 @@ to be a job.
 - 6 books to move from one room to another
 - 1 large cushion
 - 1 broom and a dustpan
-- 1 washing-up bowl with two inches of water and 2 cups
+- 1 dishpan with two inches of water and 2 cups
 - 1 dish towel
 
 **📝 Step-by-Step Instructions:**
@@ -707,7 +713,7 @@ to be a job.
 **Theme:** Love & Friendship
 
 ### 🌙 Prep Tonight
-> Check you have double cream (single will not turn) and put the four blunt table knives, the chopping board and a jam jar with a tight lid on the counter. Take the cream out of the fridge mid-morning.
+> Put the four blunt table knives and the chopping board on the counter, stand the yogurt and the cream cheese at the front of the fridge, and find a blanket big enough for everyone to sit on.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Washing What Goes on the Plates
@@ -719,7 +725,7 @@ to be a job.
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
-- **1:00–2:30 PM** — 🎨 Second Main Event: The Cream That Turns to Butter (90 min)
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Picnic on the Floor (90 min)
 - **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Butter Dish
@@ -762,7 +768,7 @@ to be a job.
 ### 🌳 Get Outside: Buying the One Missing Thing
 
 One thing lunch needs is not in the fridge. Walk to the shop for it, no list
-and no trolley. She carries the coins, finds it on the shelf, hands it over
+and no cart. She carries the coins, finds it on the shelf, hands it over
 and takes the change. February sidewalks are wet and a ten-minute walk will
 take thirty, so leave early.
 
@@ -774,35 +780,37 @@ take thirty, so leave early.
 
 <div style="page-break-after: always;"></div>
 
-### 🎨 Second Main Event: The Cream That Turns to Butter
+### 🎨 Second Main Event: The Picnic on the Floor
 
-Ten minutes of shaking and the cream in the jar turns solid.
+Lunch was cold and served at the table. This one runs on the floor, and she is
+the one carrying it in.
 
 **🧰 Complete Materials List:**
-- 300ml double cream at room temperature (double or heavy; single will not turn)
-- 1 jam jar with a tight lid
-- 1 clean marble or a coin (optional)
-- 1 sieve and 1 bowl
-- Cold water
-- A pinch of salt
-- 1 small pot or ramekin with a lid
-- Bread and a butter knife
+- Plain yogurt, 4 tbsp, and cream cheese, 4 tbsp
+- A dried herb, and 1 tsp jam
+- The other half of the cucumber and whatever salad is left
+- Crackers or breadsticks
+- 2 small bowls and 2 teaspoons
+- 1 blunt table knife and 1 chopping board
+- 1 blanket or a big towel for the floor
+- 1 tray or a basket to carry it through
+- 1 pitcher of water and a small cup each
 
 **📝 Step-by-Step Instructions:**
-1. Fill the jar halfway with cream and no further, drop the marble in, screw the lid down hard and check it twice.
-2. Sit her on the carpet and let her shake. Sing something with a beat: rhythm keeps her going twice as long as encouragement.
-3. Pass it round when her arms go. Everybody shakes, and it comes back to her for the last stretch.
-4. Listen for the change. The sloshing stops, the jar goes heavy and quiet, and a lump comes loose in a pool of thin liquid. Open it and look.
-5. Tip it into the sieve over the bowl. The lump is butter, the milk running through is buttermilk, and she keeps it for pancakes tomorrow.
-6. Rinse the butter under cold water, press it with the back of a spoon until the water runs clear, then work in the salt.
-7. Half into a pot with a lid, labeled, by the door to give away. The other half goes on bread now, warm.
+1. She picks the room and spreads the blanket. Move whatever furniture she asks you to move.
+2. Yogurt into one bowl, cream cheese into the other. She stirs the herb through the first and the jam through the second, tasting off a clean spoon after each stir.
+3. She names each dip after whoever she thinks will like it most. Write those two names on strips of tape and stick them to the bowls.
+4. Cucumber and salad onto the board and into sticks, blunt knife, her hand on top of yours for the first three.
+5. Load the tray: bowls, sticks, crackers, cups, pitcher. She carries it through in two trips rather than one.
+6. She lays a place for every person, sits Kreston beside her and serves. Take what she hands you and eat it where you are sitting.
+7. Everything comes back to the kitchen on the tray. She takes the empty bowls and you take the pitcher.
 
-> 💡 **Tip:** Check the lid every couple of minutes, out loud, so she sees you check.
+> 💡 **Tip:** Let her taste both dips before anybody else does. She mixed them, so the first opinion in the room should be hers.
 
 ### 🎯 Afternoon Alternatives
-- Whip a little cream by hand with a fork and stop at the soft stage.
-- Shake the jar in relay with the teddies lined up waiting their turn.
-- Make pancakes with the buttermilk this afternoon instead of tomorrow.
+- The blanket and the crackers, and skip the dips.
+- One dip only, yogurt and jam, mixed and eaten off a spoon.
+- Picnic on the stairs, if the floor is under something else.
 
 ### 🌳 Out Again: **Swimming**
 - **Swimming**, the weekly one
@@ -819,20 +827,21 @@ Ten minutes of shaking and the cream in the jar turns solid.
 
 > 🧠 **A Little Parenting Insight**
 > **Handling food is how picky eating loosens.**
-> Azlyn spent an hour with her hands in food she has strong opinions about, and
-> nobody asked her to taste any of it. That is the useful part. Children who
-> handle, tear, peel and serve unfamiliar food eat more of it later, and the
-> route runs through touch and smell rather than through persuasion at the
-> table. Making a plate for somebody else adds a second thing: she has to think
-> about what Joseph likes, which puts her outside her own preferences for a
-> minute. Keep tasting optional today. The cucumber she cut has a better chance
-> tomorrow than the cucumber you cut.
+> Azlyn had her hands in food she has strong opinions about this morning, off
+> and on, and nobody asked her to taste any of it. That is the useful part.
+> Children who handle, tear, peel and serve unfamiliar food eat more of it
+> later, and the route runs through touch and smell rather than through
+> persuasion at the table. Making a plate for somebody else adds a second
+> thing: she has to think about what Joseph likes, which puts her outside her
+> own preferences for a minute. Keep tasting optional today. The cucumber she
+> cut has a better chance tomorrow than the cucumber you cut.
 
-> ⚠️ **Safety:** A glass jar shaken hard by a three-year-old wants a carpet
-> under it and a lid you check every few minutes. Cucumber coins, cheese
-> rounds and whole grapes are choking-sized for Kreston at 8 months, so
-> everything on his plate is cut into long strips. Blunt table knives only, and
-> they go in the drawer before he is on the floor.
+> ⚠️ **Safety:** Cucumber coins, cheese rounds and whole grapes are
+> choking-sized for Kreston at 8 months, so everything on his plate is cut into
+> long strips. Blunt table knives only, and they go in the drawer before he is
+> on the floor. The picnic runs at his height, so the crackers and the sticks
+> stay on the tray in front of you and not loose on the blanket, and he skips
+> the jam dip.
 
 <div style="page-break-after: always;"></div>
 
@@ -875,18 +884,18 @@ Ten minutes of shaking and the cream in the jar turns solid.
 
 **🧰 Complete Materials List:**
 - 6–10 small parcels wrapped in newspaper and taped
-- Kitchen scales, or a coat hanger with a yoghurt pot hanging from each end
+- Kitchen scales, or a coat hanger with a yogurt pot hanging from each end
 - 30 paper stamps cut from an old envelope
 - 20 paper coins drawn round a real coin and cut out
-- 1 shoebox as the till
+- 1 shoebox as the register
 - 1 marker and 1 sheet of card for the sign
 - Masking tape
 
 **📝 Step-by-Step Instructions:**
-1. Set the counter: scales at one end, stamps and coins in the shoebox till, parcels in a heap on the customer's side. She stands behind, you line in front.
+1. Set the counter: scales at one end, stamps and coins in the shoebox register, parcels in a heap on the customer's side. She stands behind, you line in front.
 2. Weigh the first parcel together and read the scales out loud. Turn whatever they say into a price between one and five and write it on the parcel in marker. With the coat hanger, count how many paper coins it takes to tip the pot and use that number.
 3. The rule of the shop: the number on the parcel is how many stamps it needs and how many coins it costs. Say it once, then play it.
-4. Buy a parcel. She counts the stamps out one at a time onto the paper and sticks them down, then counts your coins into the till.
+4. Buy a parcel. She counts the stamps out one at a time onto the paper and sticks them down, then counts your coins into the register.
 5. Miscount on purpose. Hand over two coins for a three, and wait. She will catch it.
 6. Swap. You run the counter, she queues with her purse.
 
@@ -914,7 +923,7 @@ This box has a real address on it and somebody waiting at the other end.
 **🧰 Complete Materials List:**
 - 1 small box
 - Brown paper, or a paper bag cut open and turned inside out
-- Parcel tape
+- Packing tape
 - Scissors (**adult**)
 - 1 permanent marker
 - Newspaper for padding
@@ -938,7 +947,7 @@ This box has a real address on it and somebody waiting at the other end.
 - Weigh everything in the kitchen cupboard and line it up lightest to heaviest.
 
 ### 🌳 Out Again: **The Library**
-- **The library**, fortnightly, and she chooses her own two books
+- **The library**, every two weeks, and she chooses her own two books
 - The librarian's story hour, if the timing lands
 - Soft play, if the library is packed after school
 - The post office to see a real counter before tomorrow
@@ -956,16 +965,16 @@ This box has a real address on it and somebody waiting at the other end.
 > Behind a pretend counter Azlyn does arithmetic she will not do on request. The
 > parcel needs three stamps, and three has a consequence: put two on and the
 > customer complains, so she checks herself. Vygotsky watched this and wrote
-> that a child in play behaves a head taller than herself, and the effect shows
-> up in the research on maths play. The frame does the work. Nobody is testing
-> her. She is running a shop, and a shopkeeper who miscounts finds out from the
-> shop, which lands better than a correction from you. Play the customer with a
-> straight face.
+> that a child in play behaves a head taller than herself, and a pretend
+> counter is where you will see it happen. The frame does the work. Nobody is
+> testing her. She is running a shop, and a shopkeeper who miscounts finds out
+> from the shop, which lands better than a correction from you. Play the
+> customer with a straight face.
 
 > ⚠️ **Safety:** Thirty paper stamps and twenty paper coins end up on the
 > floor, and all of them are mouth-sized for a crawling 8-month-old. Sweep the
-> floor before Kreston is down, and count the coins back into the till when the
-> shop shuts. Scissors and parcel tape stay with you.
+> floor before Kreston is down, and count the coins back into the register when the
+> shop shuts. Scissors and packing tape stay with you.
 
 <div style="page-break-after: always;"></div>
 

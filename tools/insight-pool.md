@@ -275,7 +275,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **266.** "Different" and "wrong" are separate ideas, and this week teaches the difference.
 - **267.** Aiming improves with quantity, not instruction.
 - **268.** Risk and reward is a new kind of decision.
-- **269.** A painted face changes behaviour as well as appearance.
+- **269.** A painted face changes behavior as well as appearance.
 - **270.** Building it back up is the part that's doing the work.
 - **271.** Saving three of something is harder than it sounds.
 - **272.** Inventing a game is a much bigger deal than playing one.
@@ -306,14 +306,14 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **297.** Direction words are harder than position words and they arrive later.
 - **298.** Deciding what's worth keeping is harder than collecting it.
 - **299.** A trip she packed for herself gets remembered differently.
-- **300.** Mixing colours is a lesson in irreversibility.
+- **300.** Mixing colors is a lesson in irreversibility.
 - **301.** Making the edges teaches shapes faster than naming them.
-- **302.** Light changes what she thinks a colour is.
-- **303.** Naming a colour she invented does more than learning the standard eleven.
+- **302.** Light changes what she thinks a color is.
+- **303.** Naming a color she invented does more than learning the standard eleven.
 - **304.** Fitting a shape into a hole is a test of mental rotation.
-- **305.** Matching a shade is much harder than matching a colour.
+- **305.** Matching a shade is much harder than matching a color.
 - **306.** Finishing something that took all week is its own lesson.
-- **307.** Her own name is the doorway and it doesn't generalise for a while.
+- **307.** Her own name is the doorway and it doesn't generalize for a while.
 - **308.** Tracing in salt removes the fear of getting it wrong.
 - **309.** Hearing a rhyme and making one are two different skills, months apart.
 - **310.** The first sound in a word is the easiest one to hear, and that's where reading starts.
@@ -328,7 +328,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **319.** A number line she walks on is a different thing from a number line she looks at.
 - **320.** Estimating first is what makes the counting mean something.
 - **321.** Touching each thing as she counts is what stops her double-counting.
-- **322.** Recognising three without counting has a name, and it arrives before counting does.
+- **322.** Recognizing three without counting has a name, and it arrives before counting does.
 - **323.** A unit only works if it stays the same size, and that's the hard part.
 - **324.** Counting down is much harder than counting up.
 - **325.** Giving a number a personality is what makes it stick.
@@ -337,7 +337,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **328.** Machines that make hard work easier are only obvious at this scale.
 - **329.** Laying the track is planning, and it's harder than driving on it.
 - **330.** Air is invisible, and she needs to feel it push before she'll believe in it.
-- **331.** Pumping a tyre is the first time she'll feel her own strength do something useful.
+- **331.** Pumping a tire is the first time she'll feel her own strength do something useful.
 - **332.** Finishing a week by using everything she made beats one more new thing.
 - **333.** The moon changing shape is the first thing she'll notice that she can't touch.
 - **334.** Distance is the part of space that nobody tells her about.
@@ -355,7 +355,7 @@ Draw from these. Log each one in `tools/titles.tsv` as it is used.
 - **346.** Making it enormous is how she checks she knows the parts.
 - **347.** Fire and flame need rules, not avoidance.
 - **348.** A copy of a thing teaches her what a fossil is.
-- **349.** Sorting the sweets is more interesting to her than eating them.
+- **349.** Sorting the candy is more interesting to her than eating them.
 - **350.** A photo on a table gives a dead person a place, and that helps her more than an explanation.
 - **351.** Big numbers mean nothing until she's walked them.
 - **352.** Teeth are evidence, and reading evidence is the whole of palaeontology.

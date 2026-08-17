@@ -50,7 +50,7 @@ week runs on cardboard.
 - [ ] Cardboard tubes, as many as you have
 - [ ] Paper cups, one sleeve
 - [ ] Masking tape, 2 rolls
-- [ ] Parcel tape
+- [ ] Packing tape
 - [ ] A shoebox with a lid
 - [ ] Washable non-toxic poster paint in red, blue, yellow and white
 - [ ] Thick card, 20 sheets
@@ -64,12 +64,12 @@ week runs on cardboard.
 - [ ] Two old washcloths
 - [ ] A flashlight with fresh batteries
 - [ ] Paper lunch bags
-- [ ] Plain flour, 1.5 kg
+- [ ] All-purpose flour, 1.5 kg
 - [ ] Salt, 500 g
 - [ ] Dried pasta and dried beans
 - [ ] String or thick wool, 1 ball
 - [ ] Craft sticks, 40
-- [ ] Clothes pegs or bulldog clips, 8
+- [ ] Clothespins or bulldog clips, 8
 - [ ] Baking paper and a baking tray
 - [ ] A rolling pin and a table knife
 - [ ] A clean sock you don't want back
@@ -89,9 +89,9 @@ week runs on cardboard.
 
 ---
 
-> 👶 **Kreston is 6 months this week**. He sits with his hands free, mouths
-> everything he can reach, and rocks on hands and knees without going anywhere
-> yet. **He turns 7 months on Tuesday the 5th.**
+> 👶 **Kreston is 6 months this week**. He sits propped with his hands free for
+> short stretches, mouths everything he can reach, and starts rocking on hands
+> and knees by the end of the week. **He turns 7 months on Tuesday the 5th.**
 
 ---
 
@@ -157,9 +157,10 @@ bare and sleeping, all structure and no leaves, the same thing she has been
 stacking all morning. Hand her a paper bag and one instruction: find one thing
 worth keeping. It goes in the capsule this afternoon, so tell her that now.
 
-> 👶 **Infant Integration:** Kreston is 6 months and sits with his hands free.
-> Give him his own cardboard tube and one paper cup on the floor near the
-> building. He will bang, mouth and drop them, running the same investigation
+> 👶 **Infant Integration:** Kreston is 6 months and sits propped, hands free
+> for short stretches. Put a cushion behind him and give him his own cardboard
+> tube and one paper cup on the floor near the building. He will bang, mouth
+> and drop them, running the same investigation
 > Azlyn is running with the tower. On the walk, wear him facing out. He is
 > alert enough now to take in the street, and cold air on his cheeks is a new
 > sensation. Name three things you pass out loud.
@@ -178,7 +179,7 @@ it away for a year.
 - 1 wet washcloth in a shallow bowl
 - 1 pencil, 1 permanent marker
 - 1 measuring tape
-- Parcel tape
+- Packing tape
 - Today's walk treasure
 
 **📝 Step-by-Step Instructions:**
@@ -228,14 +229,14 @@ inside cool through the heat.
 
 > 🧠 **A Little Parenting Insight**
 > **Why writing down her exact words matters more than you'd think.**
-> Azlyn is in the fastest language stretch of her life, adding something like
-> ten new words a day. Her mistakes are evidence of rule-building. She says *I
-> goed outside* because she has worked out that adding *-ed* makes a thing
-> past tense, and she applies that rule to the verbs she knows. Linguists call
-> it overregularization, and it marks sophisticated thinking. You do not need
-> to correct her. Feed the right form back in your next sentence (*you went
-> outside? what did you see?*) and she picks up the exception on her own
-> timeline.
+> Azlyn is in the fastest language stretch of her life, adding words at a rate
+> nobody in the house is counting. Her mistakes are evidence of rule-building.
+> She says *I goed outside* because she has worked out that adding *-ed* makes
+> a thing past tense, and she applies that rule to the verbs she knows.
+> Linguists call it overregularization, and it marks sophisticated thinking.
+> You do not need to correct her. Feed the right form back in your next
+> sentence (*you went outside? what did you see?*) and she picks up the
+> exception on her own timeline.
 
 > ⚠️ **Safety:** Keep tape rolls, craft sticks and walk treasure out of
 > Kreston's reach the moment you stop watching him. Build the tower away from
@@ -348,7 +349,7 @@ the furniture.
 - The park, to run off whatever the box didn't
 - Soft play if it's raining sideways
 - A café with a window seat and something to look at
-- The hardware shop to look at boxes, timber and things that stack
+- The hardware shop to look at boxes, lumber and things that stack
 
 > 👶 **Kreston's Afternoon:** Give him one of the small furniture boxes to
 > handle before you tape it down. At 6 months he passes objects hand to hand and
@@ -479,20 +480,21 @@ growing. Cardboard gets strong once she changes its shape.
 - Feed the ducks and count the bridges you cross
 - The park, for the climbing frame she can look at as a structure now
 - A drive to somewhere with a real bridge, and stand under it
-- The playground with the big slide, which is a ramp she can ride
+- Indoors if the rain has set in: a book about bridges and a tunnel under the dining table
 
 > 👶 **Kreston's Afternoon:** Lay him under the finished bridge and let him
-> look up through it. At 6 months he is rocking on hands and knees without
-> moving forward yet, so set the teddy a little past his reach on the far side
-> of the bridge. He rocks toward something he wants.
+> look up through it. At 6 months he pushes up onto his forearms and leans
+> after what he wants, so set the teddy a little past his reach on the far side
+> of the bridge. He gets his shoulders round before anything else moves.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Narrating beats quizzing, every time.**
-> You will want to turn the morning into a quiz (*what color is that? how
-> many? is it big or small?*), because her answers feel like proof that she
-> learned something. You end up with a three-year-old performing for an adult.
+> You already narrate half the morning without noticing you are doing it. The
+> pull is to turn the rest into a quiz (*what color is that? how many? is it
+> big or small?*), because her answers feel like proof that she learned
+> something, and you end up with a three-year-old performing for an adult.
 > Give her the running commentary instead and she gets new vocabulary in a real
 > context, sentence structures she has not built yet, and no pressure to be
 > right. Parents who narrate hand their children more words to hear, and a
@@ -608,7 +610,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 - The woods loop, hunting for fallen trees and what pulled them down
 - The neighborhood park
 - The duck pond, and the bridge over it
-- A green space with a ball, for anyone who has had enough of indoors
+- Soft play, if the rain has set in and nobody can face the coats
 
 > 👶 **Kreston's Afternoon:** Keep him well clear of the swinging sock. Put him
 > in the far corner with the flattened box he liked on Friday. Once the
@@ -620,14 +622,15 @@ she pulls a weight back, lets go, and the swing does the work for her.
 
 > 🧠 **A Little Parenting Insight**
 > **Knocking it down *is* the science.**
-> You watch her flatten something she spent forty minutes making, and it looks
-> like forty minutes thrown out. She made a prediction while she built it, and
-> knocking it down is how she collects the answer, so the demolition carries as
-> much of the learning as the stacking did. Children work out the physical
-> rules of the world by breaking things and watching how they break, which is
-> why the same tower goes up and down eleven times. Say *don't, you worked so
-> hard on that* and you save the cardboard while ending the experiment. Take a
-> photo if you want the tower kept, then let her flatten it.
+> You watch her flatten something she spent a solid fifteen minutes making, and
+> it looks like fifteen minutes thrown out. She made a prediction while she
+> built it, and knocking it down is how she collects the answer, so the
+> demolition carries as much of the learning as the stacking did. Children work
+> out the physical rules of the world by breaking things and watching how they
+> break, which is why the same tower goes up and down eleven times. Say
+> *don't, you worked so hard on that* and you save the cardboard while ending
+> the experiment. Take a photo if you want the tower kept, then let her flatten
+> it.
 
 > ⚠️ **Safety:** Tie the string to something that cannot come down on top of
 > her: a door frame, not a curtain pole or a shelf. Take the sock down and put
@@ -699,12 +702,12 @@ roofs and in the shade at the bottom of walls. Let her breathe out and watch
 it. Find one brick wall and put her hand flat on it so she can feel how cold
 stone gets and see how many bricks it took.
 
-> 👶 **Infant Integration:** **Kreston turns 7 months today.** He has started
-> reaching across his own body for something on the far side, which is new, so
-> seal a spare lump of dough in a freezer bag and set it a little past his
-> midline for him to stretch towards. Keep it sealed, because salt dough is
-> far too salty to be eaten. Say happy seven months out loud, because
-> nobody else will.
+> 👶 **Infant Integration:** **Kreston turns 7 months today.** He reaches
+> across his own body for something on the far side now, so press a spare lump
+> of dough into a small rigid pot and tape the lid on hard, then set it a
+> little past his midline for him to stretch toward. Check the tape every time
+> and take the pot back the moment you stop watching. Salt dough is far too
+> salty to be eaten. Say happy seven months out loud, because nobody else will.
 
 <div style="page-break-after: always;"></div>
 
@@ -834,8 +837,9 @@ on the table. A triangle out here behaves the same as one indoors. Put a stone
 or a leaf inside for her to shelter, and come back tomorrow to see whether the
 wind took it.
 
-> 👶 **Infant Integration:** Kreston is 7 months and starting to pull himself
-> forward. Lay the taped triangle tower on its side within his reach and let
+> 👶 **Infant Integration:** Kreston is 7 months, rocking on hands and knees
+> and starting to pull himself forward. Lay the taped triangle tower on its
+> side within his reach and let
 > him post his fingers through the gaps. He is learning that a shape has an
 > inside. His hand goes in, meets air, comes back out, and then he tries the
 > next gap along.
@@ -873,7 +877,7 @@ opposite force and a new idea for her.
 - Tape a string across the bath and float things along it.
 
 ### 🌳 Out Again: **Pick one**
-- **The library** (fortnightly, and the first visit of the year)
+- **The library** (every two weeks, and the first visit of the year)
 - Soft play if the library is packed with the holiday crowd
 - The shops, and let her carry one thing
 - The park on the way home
@@ -947,7 +951,7 @@ opposite force and a new idea for her.
 - 3–4 blankets or sheets
 - 4 dining chairs
 - Sofa cushions
-- Clothes pegs or bulldog clips
+- Clothespins or bulldog clips
 - Heavy books to weight the edges
 - The salt dough bricks from Tuesday
 
@@ -964,7 +968,7 @@ opposite force and a new idea for her.
 ### 🌳 Get Outside: The Outdoor Den
 
 Do the same thing outside with whatever is there, whether that is a bench and a
-blanket, sticks against a fence, or a sheet over the washing line. Check
+blanket, sticks against a fence, or a sheet over the clothesline. Check
 Wednesday's stick shelter on the way past and see whether the wind took it. Get
 her to sit inside the outdoor den for a minute in the cold, then come in to
 the warm one.
@@ -995,7 +999,7 @@ there, draws in there, and it stays up until bedtime.
 1. Move in. Floor covering first, then the flashlight, then the books.
 2. Eat the afternoon snack inside. Food in a fort is most of the appeal.
 3. Turn the big light off and do shadow shapes on the roof (triangle, square, house).
-4. Read two books in there by torchlight, and let her hold the flashlight even though it will point at the ceiling the whole time.
+4. Read two books in there by flashlight, and let her hold it even though it will point at the ceiling the whole time.
 5. Look back through the week's photos together: the tower, the box house, the bridge with teddy on it, the brick wall. Ask which one she would build again.
 6. Let her draw the fort from the inside while she is inside it.
 7. Leave it standing overnight. Tomorrow you turn it into something else.

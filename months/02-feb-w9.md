@@ -9,10 +9,10 @@
 
 Seven days on the outside and the inside of Azlyn. She gets drawn round at life
 size, sorts ten textures from rough to soft, pulls a face at a lemon, prints her
-hands and feet down the hall, builds a face out of dough that has to have a nose
-standing up off the tray, tests three paper ear trumpets and names six smells
-without being told what is in the pots. Each day hands her one sense and
-something solid to measure it against.
+hands and feet down the hall, holds six faces in a mirror while you photograph
+them, tests three paper ear trumpets and names six smells without being told
+what is in the pots. Each day hands her one sense and something solid to
+measure it against.
 
 February ends on Sunday and March starts on Monday, so the March handprint goes
 on the card first thing on Day 60, third of twelve, while her hands are still
@@ -26,8 +26,8 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 
 - **Body parts by name.** Ankle, wrist, elbow, ear, learned while your pencil is touching each one.
 - **Sorting on a scale she invents.** Ten textures laid out from rough to soft, and her order is the one that stands.
-- **Four tastes and a word for each.** Sweet, salty, sour and bitter, one saucer at a time, with yoghurt to clear her mouth between them.
-- **Whole-arm work.** Drawing at floor scale, squeezing lemons, kneading dough and rolling it flat.
+- **Four tastes and a word for each.** Sweet, salty, sour and bitter, one saucer at a time, with yogurt to clear her mouth between them.
+- **Whole-arm work.** Drawing at floor scale, squeezing lemons, kneading dough and pressing it flat.
 - **Fair testing.** Three paper ear trumpets, one sound, one distance, one thing changed at a time.
 
 ---
@@ -40,7 +40,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - Process art versus product art
 - Three dimensions are harder than two, and worth the time
 - Testing before committing is a habit worth encouraging
-- "What is it?" is the question to stop asking
+- She tells you what it is once nobody has asked
 
 ---
 
@@ -52,7 +52,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] Cardboard boxes to flatten, or a roll of lining paper, longer than Azlyn lying down
 - [ ] Cardboard tubes, 3
 - [ ] Masking tape, 2 rolls
-- [ ] Parcel tape
+- [ ] Packing tape
 - [ ] Plain paper, a stack, and thin card, 4 sheets
 - [ ] A paper bag
 - [ ] Thick white card, 4 sheets
@@ -63,10 +63,10 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] Scissors and a skewer (adult only)
 - [ ] A hand mirror
 - [ ] Kitchen foil
-- [ ] Cotton wool
+- [ ] Cotton balls
 - [ ] A fabric scrap, a ribbon, an emery board, a bottle cap, a piece of corrugated card and a leaf off the path
 - [ ] Sponges, 2
-- [ ] A washing-up bowl, 2 smaller bowls and 1 shallow bowl
+- [ ] A dishpan, 2 smaller bowls and 1 shallow bowl
 - [ ] A pitcher, 3 cups, 2 spoons and a whisk
 - [ ] Old towels, 4, and a washcloth
 - [ ] Food coloring
@@ -76,12 +76,12 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] Oranges, 3
 - [ ] An apple
 - [ ] Plain crackers
-- [ ] Plain yoghurt, a big pot
+- [ ] Plain yogurt, a big pot
 - [ ] Plain unsweetened cocoa
 - [ ] Jam, for a second sweet taste
 - [ ] Sugar
 - [ ] Salt, 500 g (a cup of it goes into the playdough)
-- [ ] Plain flour, 500 g
+- [ ] All-purpose flour, 500 g
 - [ ] Cooking oil, 1 tbsp
 - [ ] Ground coffee, ground cinnamon and a cinnamon stick
 - [ ] A dried herb, a sliver of soap and a drop of vanilla
@@ -89,10 +89,10 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] A table knife, a fork and a small sieve
 - [ ] A lemon squeezer, or a second fork instead
 - [ ] Small cups, one per person
-- [ ] Yoghurt pots or paper cups, 8, cleaned out
+- [ ] Yogurt pots or paper cups, 8, cleaned out
 - [ ] Wooden spoons, 2, and a metal one
 - [ ] A saucepan for banging and a small one for the stovetop
-- [ ] A rolling pin and a flat tray or board
+- [ ] A flat tray or board
 - [ ] A ruler
 - [ ] A magnifying glass
 - [ ] A flashlight with fresh batteries
@@ -100,8 +100,8 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] String, 5 meters
 - [ ] Elastic bands
 - [ ] Paperclips or matchsticks, 2
-- [ ] A sealable bag for Kreston's own lump of dough
-- [ ] Your phone, charged, for the sour face and the family photo
+- [ ] A small rigid pot with a lid, for Kreston's own lump of dough
+- [ ] Your phone, charged, for the six faces, the sour face and the family photo
 
 ---
 
@@ -141,7 +141,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Life-Size Azlyn (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: Footprints in the Frost (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Standing Next to Things (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -182,13 +182,13 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 
 > 💡 **Tip:** Draw round her in one continuous line, including the bit that goes wrong under her armpit. Lifting the pencil to tidy the shape turns her outline into your drawing.
 
-### 🌳 Get Outside: Footprints in the Frost
+### 🌳 Get Outside: Standing Next to Things
 
-Late February still comes up white on the shaded side of walls and on the grass
-by the car. Find frost, or mud gone stiff with cold, and let her stamp one boot
-down and lift it straight up. Put your foot beside hers and let her see the
-difference. Walk a line of prints across the white patch, then walk backwards
-in them.
+She has spent the morning beside a drawing of herself, so take her out and
+stand her against the street. Back to the lamp post, back to the mailbox, one
+hand flat on a car wheel, both feet on the bottom step of a porch. Taller or
+shorter, said out loud each time. Find one thing on the whole walk that comes
+out the same height as she does.
 
 > 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
 > with great pleasure and no purpose beyond the noise. Lay him at the far end of
@@ -278,7 +278,7 @@ of France it is kisses on the cheek, and the number changes from town to town.
 **Theme:** My Body & Senses
 
 ### 🌙 Prep Tonight
-> Cut a meter-long strip from the side of a box and leave it on the table with the parcel tape, and put two old towels by the sink.
+> Cut a meter-long strip from the side of a box and leave it on the table with the packing tape, and put two old towels by the sink.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Ten Things That Feel Different
@@ -310,8 +310,8 @@ of France it is kisses on the cheek, and the number changes from town to town.
 
 **🧰 Complete Materials List:**
 - 1 long strip of cardboard, about a meter
-- Ten household textures: foil, cotton wool, corrugated card, fabric scrap, ribbon, an emery board, a bottle cap, a leaf, a strip of tape sticky side up, a sponge
-- Parcel tape and masking tape
+- Ten household textures: foil, cotton balls, corrugated card, fabric scrap, ribbon, an emery board, a bottle cap, a leaf, a strip of tape sticky side up, a sponge
+- Packing tape and masking tape
 - Scissors (**adult only**)
 - 1 permanent marker for labels
 
@@ -346,7 +346,7 @@ Two bowls on old towels on the kitchen floor, and nothing in the next ninety
 minutes has to be finished.
 
 **🧰 Complete Materials List:**
-- 1 washing-up bowl of warm water
+- 1 dishpan of warm water
 - 1 smaller bowl of cold water
 - 1 pitcher, 3 cups, 2 spoons
 - 2 sponges
@@ -363,7 +363,7 @@ minutes has to be finished.
 6. Hand her a sponge to soak and squeeze out over the big bowl. Heavy work for her hands, and she stays with it longest of all.
 7. Tip both bowls into the sink yourself the moment she walks away.
 
-> 💡 **Tip:** Change her top, not the plan. A wet shirt ends the afternoon at half past one, and a dry one buys you another forty minutes.
+> 💡 **Tip:** Change her top, not the plan. A wet shirt ends the afternoon at half past one, and a dry one buys you another twenty minutes.
 
 ### 🎯 Afternoon Alternatives
 - One bowl, warm water, one cup, nothing else.
@@ -391,11 +391,11 @@ minutes has to be finished.
 > activity. A task with a clear edge round it, one bowl, one pitcher, one action,
 > hands her a small world she controls on a day when adults decide most of the
 > rest. The feedback never changes, so her body stops bracing for surprises and
-> settles. Montessori classrooms are built on this. Set it out, sit down, and
-> let it run well past the point where you have had enough.
+> settles. Montessori classrooms are built on this. Set it out, sit down, say
+> nothing, and let it run well past the point where you have had enough of it.
 
 > ⚠️ **Safety:** Standing water and a newly crawling 8-month-old. Kreston can
-> drown in the depth of a washing-up bowl in the time it takes to answer the
+> drown in the depth of a dishpan in the time it takes to answer the
 > door. Tip it out the moment she is finished, and never leave the room with it
 > full.
 
@@ -408,14 +408,14 @@ minutes has to be finished.
 **Theme:** My Body & Senses
 
 ### 🌙 Prep Tonight
-> Put a lemon, crackers, an apple, the cocoa and the yoghurt on the counter with four saucers and four teaspoons, and check you have three more lemons for the afternoon.
+> Put a lemon, crackers, an apple, the cocoa and the yogurt on the counter with four saucers and four teaspoons, and check you have three more lemons for the afternoon.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Cutting the Tasting Plate
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Sour Face Test (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: Hunting for the First Green (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: What the Birds Left on the Stems (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -443,32 +443,32 @@ minutes has to be finished.
 - Plain crackers and a pinch of salt
 - Apple slices or a little jam
 - Plain unsweetened cocoa, a dab on a teaspoon, for bitter
-- Plain yoghurt to reset her mouth between tastes
+- Plain yogurt to reset her mouth between tastes
 - 4 small saucers and 4 teaspoons
 - Paper and a marker
 - Your phone
 
 **📝 Step-by-Step Instructions:**
-1. Line the four saucers up in front of her: apple, cracker with salt, lemon, and the dab of cocoa. Yoghurt goes in the middle as the reset.
+1. Line the four saucers up in front of her: apple, cracker with salt, lemon, and the dab of cocoa. Yogurt goes in the middle as the reset.
 2. Start with the sweet one so she trusts the game. Photograph her face while she is tasting, not after.
 3. Ask for a word before you offer one of your own. Write her word on the paper under a rough drawing of that saucer.
 4. Lemon next. Have the camera up before it reaches her mouth, because the face lasts about a second and a half.
-5. Salt, then cocoa last. A spoon of yoghurt between each one clears her mouth and gives her something to look forward to.
+5. Salt, then cocoa last. A spoon of yogurt between each one clears her mouth and gives her something to look forward to.
 6. Read the four words back in order and let her choose which taste she wants again. Give her that one.
 
 > 💡 **Tip:** Let her spit the cocoa out. Bitter keeps small children away from what would harm them, and her body doing its job is worth the mess.
 
-### 🌳 Get Outside: Hunting for the First Green
+### 🌳 Get Outside: What the Birds Left on the Stems
 
-The last morning of February and something is up already. Snowdrops under
-hedges, daffodil spears standing in the cold, bulbs pushing through the gap
-between path and wall. Give her a bag and one job: find five green things, and
-fat buds on bare twigs count. Stand the best one in a cup of water on the
-windowsill where she can watch it.
+The last morning of February, and the berries are down to whatever nobody
+wanted. Walk a hedge, a fence line or a front yard and sort the stems into two
+kinds: stripped bare, or still loaded. Sumac heads, rose hips, crabapples,
+holly, the dry seed heads on last year's coneflowers. Ask her which ones the
+birds went for first. Nothing comes off the stem and nothing goes near a mouth.
 
 > 👶 **Infant Integration:** Kreston is 8 months and gets none of the four
 > saucers, but he can sit in the highchair through the whole thing with a strip
-> of soft apple or a spoon of plain yoghurt. Watch his face when the yoghurt
+> of soft apple or a spoon of plain yogurt. Watch his face when the yogurt
 > lands. He is wary of new things this month and checks yours first, so let him
 > see you eat before he commits.
 
@@ -500,7 +500,7 @@ you are the one doing what she says.
 
 ### 🎯 Afternoon Alternatives
 - Squeeze one lemon into a glass of water and stop there.
-- Sweeten plain yoghurt to her order instead.
+- Sweeten plain yogurt to her order instead.
 - Set up a doorstep lemonade stand for the family only.
 
 ### 🌳 Out Again: **Pick one**
@@ -676,7 +676,7 @@ of card.
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Two Colors of Dough
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — 🎨 The Main Event: The Nose That Sticks Out (60 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Six Faces in the Mirror (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — 🌳 Get Outside: Faces on the Ground (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
@@ -697,26 +697,27 @@ of card.
 
 1. Split the dough in half and put a few drops of color into the middle of each lump. She pushes the color in with her thumbs.
 2. Knead until the streaks disappear. It takes longer than she expects, which is the reason it sits at 8:00 and not at 9:15.
-3. Ask whose face she plans to make. Let her say it out loud, then leave her an hour to change her mind, because she will.
+3. Ask who she plans to build this afternoon. Let her say it out loud, then leave her the morning to change her mind, because she will.
 
-### 🎨 The Main Event: The Nose That Sticks Out
+### 🎨 The Main Event: Six Faces in the Mirror
 
 **🧰 Complete Materials List:**
-- Playdough: 2 cups flour, 1 cup salt, 1 tbsp oil, 1 cup water, food coloring
-- 1 hand mirror
-- 1 flat tray or board
-- 1 table knife and 1 fork for texture
-- 1 rolling pin
+- 1 hand mirror, propped so she can see her whole face without holding it
+- Your phone, charged
+- Paper, 6 sheets
+- 1 marker
+- Masking tape
+- A chair she can kneel up on at the table
 
 **📝 Step-by-Step Instructions:**
-1. Prop the mirror at her eye level and let her study her own face before her hands touch the dough.
-2. Roll a flat oval on the tray for the face. She does the rolling pin, you hold the tray still.
-3. Eyes first, because she will do those first anyway. Two balls, pressed flat with a thumb.
-4. Now the nose, and it has to come up off the tray. A flat blob will not pass. Send her back to the mirror to run one finger down the side of her own.
-5. Ears next, out sideways past the edge of the oval. Have her find her own with both hands before she rolls them.
-6. Hair, eyebrows and mouth last, with the fork dragged through for texture and the knife for the mouth line. Photograph it, because a dough face does not survive the day.
+1. Prop the mirror where the light is good and kneel her up at the table beside it.
+2. Do the first face yourself. Eyebrows up, mouth open, and hold it while she looks at you and then at herself doing it back.
+3. Work through six: surprised, cross, sleepy, sad, silly, and one she invents and names. She holds each one while you photograph it.
+4. Ask what her face is doing each time, part by part. Eyebrows, eyes, mouth. Write her words on a sheet under a rough drawing of that face.
+5. Lay the six photographs out on the phone and let her match each one to the words you wrote. Two of them will surprise her.
+6. Tape the six sheets up at her height where she walks past them, in the order she picks.
 
-> 💡 **Tip:** Say the parts out loud as she puts them on, without turning it into a quiz. She fits the words to her own face while her hands are busy.
+> 💡 **Tip:** Photograph her while the face is still on. A three-year-old asked to hold an expression drops it inside two seconds, so shoot first and talk afterwards.
 
 ### 🌳 Get Outside: Faces on the Ground
 
@@ -728,7 +729,8 @@ for whoever comes next. Photograph it and check tomorrow whether it survived.
 > 👶 **Infant Integration:** Kreston is 8 months and faces are his subject this
 > month. Hold the mirror in front of him and watch him reach for the baby in it,
 > then hide behind your hands and come back. Wariness and delight arrive in the
-> same ten seconds. Give him a sealed bag of dough to squash while Azlyn builds.
+> same ten seconds. Give him a lump of dough shut in a small rigid pot, lid
+> taped on hard, while Azlyn works.
 
 <div style="page-break-after: always;"></div>
 
@@ -738,7 +740,7 @@ Everyone in the house gets made out of dough, and every one of them has to stand
 on the tray without falling over.
 
 **🧰 Complete Materials List:**
-- The dough from this morning
+- The dough from 8:00
 - 1 flat tray as the standing ground
 - 2 cardboard tubes cut short, for anyone who needs a stand
 - 1 table knife
@@ -775,19 +777,19 @@ on the tray without falling over.
 
 > 🧠 **A Little Parenting Insight**
 > **Three dimensions are harder than two, and worth the time.**
-> Drawing a face on paper asks Azlyn to flatten something she has only ever met
-> as a solid. Dough lets her keep it solid, and a nose that has to stand up off
-> the tray sets her a problem no crayon can. She holds the shape in her head,
-> turns it over, checks it against her own face and adjusts. Spatial thinking of
-> that sort predicts later maths ability better than counting practice does, and
-> it responds to this kind of work: hands on material, objects turned round,
-> decisions about how a thing sits. Twenty minutes of dough beats twenty
-> worksheets, and she stays with it longer.
+> Drawing a person on paper asks Azlyn to flatten something she has only ever
+> met as a solid. Dough lets her keep it solid, and a body that has to stand up
+> on the tray sets her a problem no crayon can. She holds the shape in her head,
+> turns it over, checks it against the photograph and adjusts. Spatial thinking
+> of that sort predicts later math ability, on top of what counting practice
+> gives her, and it responds to this kind of work: hands on material, objects
+> turned round, decisions about how a thing sits. Twenty minutes of dough beats
+> twenty worksheets, and she stays with it longer.
 
 > ⚠️ **Safety:** Salt dough is dangerous swallowed, and at 8 months Kreston puts
-> everything in his mouth and can now reach the table leg. Give him his own
-> sealed bag of dough to squash and nothing loose. If you cook the dough, the pan
-> is hot and the doorway is where he will be.
+> everything in his mouth and can now reach the table leg. Give him his own pot
+> of dough with the lid taped on hard, and nothing loose. If you cook the
+> dough, the pan is hot and the doorway is where he will be.
 
 <div style="page-break-after: always;"></div>
 
@@ -868,7 +870,7 @@ Two cups and five meters of string between two rooms. She works out the rule
 before you get to say it.
 
 **🧰 Complete Materials List:**
-- 2 paper cups or clean yoghurt pots
+- 2 paper cups or clean yogurt pots
 - 3–5 meters of string
 - 1 pencil or skewer to pierce the cups (**adult only**)
 - 2 paperclips or matchsticks to anchor the knots
@@ -957,9 +959,9 @@ before you get to say it.
 ### 🎨 The Main Event: The Smell Words
 
 **🧰 Complete Materials List:**
-- 6 small jars or yoghurt pots with foil lids
+- 6 small jars or yogurt pots with foil lids
 - Elastic bands or masking tape
-- Cotton wool
+- Cotton balls
 - Ground coffee, ground cinnamon, orange peel, a dried herb, a sliver of soap, a drop of vanilla
 - Masking tape for labels and a marker
 
@@ -983,8 +985,9 @@ laundry vent. One word each.
 > 👶 **Infant Integration:** Kreston is 8 months and knows your smell better than
 > your face on a bad day, which is why your sweater settles him faster than a toy.
 > Hold him in the kitchen doorway once the oranges start and watch his face open
-> up. Give him the third orange, whole and too big to fit in his mouth, and let
-> him gnaw the skin while you sit with him.
+> up. Hold the third orange yourself, cut side toward him, and let him get his
+> nose into it. Peel breaks off in hard pieces under a gum, so it stays in your
+> hand and never in his.
 
 <div style="page-break-after: always;"></div>
 
@@ -1021,9 +1024,9 @@ around her while she draws.
 - **The grocery shop**, and let her pick the fruit by smell before it goes in
 - The bakery, for the doorway more than the bun
 - The market, if it runs today
-- A loop past the chip shop, the florist and the launderette, naming each one
+- A loop past the pizza place, the florist and the laundromat, naming each one
 
-> 👶 **Kreston's Afternoon:** At 8 months he sits up in the trolley seat and takes
+> 👶 **Kreston's Afternoon:** At 8 months he sits up in the cart seat and takes
 > in a shop that is loud, bright and full of strangers, so twenty minutes is
 > plenty. Keep him facing you rather than out, and give him something cold from
 > the chiller to hold, too big to fit in his mouth.
@@ -1031,15 +1034,15 @@ around her while she draws.
 ---
 
 > 🧠 **A Little Parenting Insight**
-> **"What is it?" is the question to stop asking.**
-> You ask because you want in, and every adult reaches for it over a
-> three-year-old's drawing. Azlyn hears a test with one right answer, and
-> half the time she did not set out to make a thing at all. Describe instead. You
-> used a lot of red down this side. That line goes all the way to the corner. You
-> pressed hard here and soft here. She picks up vocabulary for what her hands did
-> and carries no pressure to have meant something. Nine times in ten she then
-> tells you what it is anyway, and the telling comes from her rather than to
-> order.
+> **She tells you what it is once nobody has asked.**
+> You already describe more of it than you think. *You used a lot of red down
+> this side* and *that line goes all the way to the corner* are sentences she
+> can answer, and she answers them. The one that stalls her is *what is it?*,
+> because she hears a test with one right answer, and half the time she did not
+> set out to make a thing at all. Stay with what her hands did. You pressed hard
+> here and soft here. She picks up the words for it, carries no pressure to have
+> meant anything, and nine times in ten she tells you what it is herself, on her
+> own timing.
 
 > ⚠️ **Safety:** A pan simmering on the stovetop for an hour with a crawling
 > 8-month-old in the house. Back ring only, handle turned in, and it goes off the

@@ -29,7 +29,7 @@ walks a round she scouted that morning, and hands it over at four front doors.
 - **Hands that knead, roll, cut and press.** Ten minutes of heavy work at the table on Friday, a rolling pin on Monday, and floss pulled through a log of dough on Thursday.
 - **Her own words hold still on paper.** She dictates a recipe, you read it back the same way twice, and by Thursday she picks *butter* out of the page on her own.
 - **Words for what her mouth finds.** Soft, chewy, seedy, holey. Five breads on five numbered plates and one word each.
-- **Numbers doing a job.** Twelve pastries counted onto a tray, a price written on every one, buttons counted into the till and back out at closing.
+- **Numbers doing a job.** Twelve pastries counted onto a tray, a price written on every one, buttons counted into the register and back out at closing.
 
 ---
 
@@ -51,25 +51,26 @@ walks a round she scouted that morning, and hands it over at four front doors.
 > already got before Friday.*
 
 - [ ] Strong white flour, 1.5 kg
-- [ ] Plain flour, 1 kg
+- [ ] All-purpose flour, 1 kg
 - [ ] Salt, 500 g (a full cup of it goes into Monday's playdough)
 - [ ] Sugar, 250 g
 - [ ] Dried yeast, 6 sachets of 7 g
 - [ ] Butter, 250 g (100 g soft for Saturday, 75 g soft for Thursday)
 - [ ] Vegetable oil
 - [ ] 1 egg
-- [ ] Double cream, 300 ml
+- [ ] Heavy cream, 300 ml
 - [ ] Milk
 - [ ] Ground cinnamon
 - [ ] Dried herbs
 - [ ] Her chosen additions: raisins, chocolate fries, cocoa, sprinkles or a banana
-- [ ] Passata, or a tin of chopped tomatoes
+- [ ] Tomato sauce, or a can of chopped tomatoes
 - [ ] Grated cheese, 200 g
 - [ ] Pizza toppings from the fridge: ham, sweetcorn, peppers, olives, mushrooms
 - [ ] Five breads for Wednesday: sliced white, a seeded roll, a bagel, a pita, a crumpet
 - [ ] Crackers
 - [ ] Food coloring, 2–3 colors
 - [ ] Two clean jars, one of them with a tight-fitting lid
+- [ ] A small rigid pot with a lid, for Kreston's scrap of dough
 - [ ] Clear plastic bottles, 2 × 500 ml, from the recycling
 - [ ] Balloons, 4 (two for the bottles, two spare)
 - [ ] Baking trays, 3
@@ -103,9 +104,9 @@ walks a round she scouted that morning, and hands it over at four front doors.
 - [ ] A cereal box, flattened for a cover
 - [ ] Paper bags or envelopes, 8
 - [ ] Small boxes from the recycling, 4
-- [ ] A shoebox for the till
+- [ ] A shoebox for the register
 - [ ] Buttons or bottle tops, 30, and a purse
-- [ ] Fifty pence in coins for Thursday's charity shop
+- [ ] Fifty cents in coins for Thursday's charity shop
 
 ---
 
@@ -325,7 +326,7 @@ it goes stale by evening.
 **🧰 Complete Materials List:**
 - Soft butter, 100 g
 - Sugar, 100 g
-- Plain flour, 200 g
+- All-purpose flour, 200 g
 - 1 egg
 - Her chosen additions: raisins, chocolate fries, cocoa, sprinkles or a mashed banana
 - 1 bowl and a wooden spoon
@@ -347,12 +348,14 @@ it goes stale by evening.
 Go out before the sun reaches the shady side of the street. Frost survives
 where it has not: north-facing walls, the ground under parked cars, grass in
 the shadow of a hedge. Give her five patches to find and a fingernail to
-scratch each one. Put her bare palm flat on a frosted car roof for one second,
-then back in the mitten.
+scratch each one. A mild night leaves you nothing white, so hunt the cold
+instead: the slab that stays dark, the dew standing on a car roof, the metal
+gate that stings her palm. Put her bare hand flat for one second, then back in
+the mitten.
 
 > 👶 **Infant Integration:** Kreston is 8 months and stranger wariness has
 > landed, so the far end of the table will not do. Sit him where he can see
-> your face while you write, with a wooden spoon and a yoghurt pot to bang
+> your face while you write, with a wooden spoon and a yogurt pot to bang
 > together. Outside, hold his bare palm on the frost for a second and watch his
 > face.
 
@@ -428,7 +431,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Check the cupboard for a kilo of plain flour, a full tub of salt and the food coloring.
+> Check the cupboard for a kilo of all-purpose flour, a full tub of salt and the food coloring.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Punching It Down
@@ -460,6 +463,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 
 **🧰 Complete Materials List:**
 - The overnight dough (500 g strong flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil)
+- Or a 500 g pack of ready-made pizza dough, if last night got away from you
 - Flour for the table, a good handful
 - 2 baking trays
 - 1 tbsp oil for the trays
@@ -478,15 +482,18 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 ### 🌳 Get Outside: Stamping the Ice
 
 Take the route with puddles. February ice is thin and goes white where air got
-trapped underneath. It cracks under a welly with a sound she will chase down
+trapped underneath. It cracks under a boot with a sound she will chase down
 the path. Stamp one, then lift a plate of ice out of another and hold it
-against the sky. Look for the frozen rim round a drain. Wet gloves come home in
+against the sky. A mild week leaves the puddles open, so pick the deepest one
+instead and stand a stick in it to mark the water line. Wet gloves come home in
 a pocket.
 
 > 👶 **Infant Integration:** Kreston is 8 months and shuffling, so the floured
-> floor is his now. Sweep before you put him down, then give him his own
-> scrap of dough sealed in a freezer bag. He pushes it, it dents, the dent
-> stays, and he does it again to check. On the walk, hold a plate of ice above
+> floor is his now. Sweep before you put him down, then give him a scrap of
+> dough shut in a small rigid pot with the lid taped on hard. Raw dough is
+> dangerous eaten and a food bag is a suffocation risk at his age, so he gets
+> the pot and never the bag, and it comes back the moment you stop watching. He
+> shakes it, drops it and goes after it. On the walk, hold a plate of ice above
 > the stroller for him.
 
 <div style="page-break-after: always;"></div>
@@ -498,7 +505,7 @@ anybody else's.
 
 **🧰 Complete Materials List:**
 - The stretched bases
-- Passata or a tin of chopped tomatoes
+- Tomato sauce, or a can of chopped tomatoes
 - Grated cheese, 200 g
 - Whatever is in the fridge in small bowls: ham, sweetcorn, peppers, olives, mushrooms
 - 1 spoon per person
@@ -523,11 +530,11 @@ anybody else's.
 - Sauce and cheese only, and no argument about the rest.
 
 ### 🌳 Out Again: **Pick one**
-- **The sunset walk**, out at three, because the light is going by half four this week
+- **The sunset walk**, out at three for the long shadows, then back at the window by five when the sun goes
 - The park while the bases prove, if one o'clock ran late
 - A drive up to anywhere with a view west, and stay in the warm car
 - The duck pond, and back before the cold gets into her hands
-- Round the block with a flashlight each, for the novelty of needing one at four
+- Round the block counting the west-facing windows with the low sun in them
 
 > 👶 **Kreston's Afternoon:** Kreston eats before the pizzas go in, then takes
 > a strip of cooled plain base at the table. At 8 months he brings both hands
@@ -551,9 +558,9 @@ anybody else's.
 > block his route to it with a chair or the stroller before the first tray goes in,
 > and check the block is still there before you open the door. Melted cheese
 > holds its heat long after the crust has cooled. Cut hers into strips and
-> leave them three minutes on the board before the plate reaches her. There
-> will be ice underfoot on the walk, so take the gritted side of the path and
-> keep one hand free for her.
+> leave them three minutes on the board before the plate reaches her. If there
+> is ice underfoot on the walk, take the salted side of the path and keep one
+> hand free for her.
 
 <div style="page-break-after: always;"></div>
 
@@ -586,7 +593,7 @@ anybody else's.
 
 ### 🌅 Opening Activity: Coloring the Dough
 
-**🧰 You need:** plain flour, 2 cups · salt, 1 cup · warm water, 1 cup · oil, 2 tbsp · food coloring · 1 big bowl.
+**🧰 You need:** all-purpose flour, 2 cups · salt, 1 cup · warm water, 1 cup · oil, 2 tbsp · food coloring · 1 big bowl.
 
 1. Flour and salt in the bowl, her hands in to mix them dry. Then oil and warm water, stirred until it leaves the sides.
 2. Knead it on the table for two minutes while it is warm, then split it into three.
@@ -595,7 +602,7 @@ anybody else's.
 ### 🎨 The Main Event: Twelve Pretend Pastries
 
 **🧰 Complete Materials List:**
-- No-cook playdough: 2 cups plain flour, 1 cup salt, 1 cup warm water, 2 tbsp oil
+- No-cook playdough: 2 cups all-purpose flour, 1 cup salt, 1 cup warm water, 2 tbsp oil
 - Food coloring, 2–3 colors
 - 1 table knife
 - 1 rolling pin or a straight-sided glass
@@ -616,7 +623,7 @@ anybody else's.
 ### 🌳 Get Outside: The Mud Bakery
 
 Take an old baking tray, a wooden spoon and a plastic tub to the muddiest
-patch you can reach. February mud is soft to the top of a welly and cold enough
+patch you can reach. February mud is soft to the top of a boot and cold enough
 to hold a shape. She makes mud pastries to match the ones on the kitchen
 counter and counts them the same way. Leave them there for the frost.
 
@@ -638,17 +645,17 @@ the sidewalk side and the customer's part for the afternoon.
 - Paper and a marker for price signs
 - A purse of buttons or bottle tops as coins
 - 1 dish towel as an apron
-- 1 shoebox as the till
+- 1 shoebox as the register
 - The tray of pastries
 
 **📝 Step-by-Step Instructions:**
-1. Set the counter where she says. Tray on top, shoebox till beside it, dish towel in her waistband as the apron.
+1. Set the counter where she says. Tray on top, shoebox register beside it, dish towel in her waistband as the apron.
 2. Write the price signs with her, a number and a drawing on each, and she decides every number.
 3. Be the first customer. Say good morning, ask for two things by name and wait for her to name a price.
-4. Pay in buttons, one at a time, counted out loud into her hand. She puts them in the till and shuts the lid.
+4. Pay in buttons, one at a time, counted out loud into her hand. She puts them in the register and shuts the lid.
 5. Bag the order and let it take as long as it takes. Folding the top over twice is the part she will want again.
 6. Swap over. She comes in with the purse and you get one item of her order wrong on purpose.
-7. Closing time at half two. Count the buttons out of the till, cover the tray and turn the sign round.
+7. Closing time at half two. Count the buttons out of the register, cover the tray and turn the sign round.
 
 > 💡 **Tip:** Stay in role when she goes off script. If a croissant costs a hundred buttons, count out a hundred. Stepping out to explain money ends the game.
 
@@ -673,20 +680,21 @@ the sidewalk side and the customer's part for the afternoon.
 
 > 🧠 **A Little Parenting Insight**
 > **Pretend play is where self-control gets built.**
-> Azlyn behind that counter holds a rule in her head for forty minutes.
-> Shopkeepers wait. They hand the bag over. They do not eat the stock. Nobody
-> is enforcing any of it and she does it anyway, because the role says so.
-> Researchers who watch children in role play find they stand still longer,
-> wait longer and stay with a dull task longer inside the pretend than out of
-> it. A rule she has taken on herself beats one you have imposed. Every minute
-> she spends being a baker is practice at what you will want at five, in a
-> classroom.
+> Azlyn behind that counter holds a rule in her head, and she holds it longer
+> than she holds one of yours. That might be ten minutes or half an hour,
+> depending on the morning. Shopkeepers wait. They hand the bag over. They
+> leave the stock alone. Nobody is enforcing any of it and she does it anyway,
+> because the role says so. Children in role play stand still longer, wait
+> longer and stay with a dull job longer than the same children asked to do the
+> same thing without the pretend.
+> Every minute she spends being a baker is practice at what you will want at
+> five, in a classroom.
 
 > ⚠️ **Safety:** Playdough carries far more salt than food and Kreston will
 > have it in his mouth the second he is near the tray. Keep the tray above his
 > reach and wipe the table before he goes on the floor. Buttons and bottle tops
 > are choking-sized for an 8-month-old. Count them into the purse at the start
-> and back into the till at closing.
+> and back into the register at closing.
 
 <div style="page-break-after: always;"></div>
 
@@ -704,7 +712,7 @@ the sidewalk side and the customer's part for the afternoon.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Balloon That Fills Itself (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: The Snowdrop Hunt (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The First Birdsong Walk (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -746,13 +754,13 @@ the sidewalk side and the customer's part for the afternoon.
 
 > 💡 **Tip:** Draw round each balloon on paper at half ten and again at half eleven. Two outlines on one page make an hour of slow change visible to her.
 
-### 🌳 Get Outside: The Snowdrop Hunt
+### 🌳 Get Outside: The First Birdsong Walk
 
-Snowdrops are up by the second week of February and come back in the same
-places every year: churchyards, the foot of a hedge, the bare ground under a
-tree. Give her a number and walk until she has counted twenty. Get down to
-their height, because the flower hangs face down and the markings are
-underneath. Nothing gets picked.
+Cardinals and chickadees start up again in the second week of February, and a
+street with no leaves on it carries the sound a long way. Give her a number and
+walk until she has counted twenty songs. Stand still for each one and let her
+point at the roof or the branch it came from before you move on. A cold, still
+morning gives you the most of it.
 
 > 👶 **Infant Integration:** Kreston is 8 months and bangs two things together
 > with real intent this month. Give him two plastic beakers at the far end of
@@ -766,7 +774,7 @@ underneath. Nothing gets picked.
 A jar, a tight lid, and everybody in the house taking a turn.
 
 **🧰 Complete Materials List:**
-- Double cream, 300 ml, out of the fridge an hour before
+- Heavy cream, 300 ml, out of the fridge an hour before
 - 1 clean jar with a tight-fitting lid
 - A pinch of salt
 - 1 sieve and a bowl
@@ -1059,7 +1067,7 @@ Twelve buns, four names, four boxes, and she decides what goes where.
 - Draw the round as a map on a flattened box, houses in order.
 
 ### 🌳 Out Again: **Pick one**
-- **The charity shop**, and she has fifty pence of her own for one thing off the shelf
+- **The charity shop**, and she has fifty cents of her own for one thing off the shelf
 - The rest of the delivery round, if this afternoon ran long and there are doors left
 - The park on the way home, with a bun in a bag
 - The corner shop, and she hands over the money for the milk
@@ -1078,9 +1086,10 @@ Twelve buns, four names, four boxes, and she decides what goes where.
 > page is asking for an oven and ninety minutes. Do one thing off the Afternoon
 > Alternatives instead, or none of it, and put a film on. A day where Azlyn
 > ate, got outside for twenty minutes and had you within reach is a day that
-> did her good, and the research on early childhood keeps landing there: warm,
-> responsive, unhurried adults matter more than the activities they run. The
-> book is a menu on those days, written by somebody who was not in the room.
+> did her good. Warm, responsive, unhurried adults are what the early childhood
+> research keeps coming back to, and nothing printed on this page outranks
+> them. The book is a menu on those days, written by somebody who was not in
+> the room.
 
 > ⚠️ **Safety:** The floss and the string go back in the drawer the moment the
 > cutting and the tying are done. A loose length of either is a strangulation

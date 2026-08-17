@@ -31,7 +31,7 @@ long at eleven in the morning.
 - **Patterns she can carry on.** Spot, spot, stripe down a paper strip, then finishing the row without you.
 - **Where forest animals live.** Roots, trunk, branches, top, and which animal belongs at which height.
 - **Reading evidence.** A print, a chewed leaf and a tuft of wool add up to an animal she never saw.
-- **Waiting, and holding still on purpose.** She packs four feeders on Tuesday and the birds come on Thursday; she hibernates on Wednesday while you count to twenty.
+- **Waiting, and holding still on purpose.** She fills four feeders on Tuesday and the birds come on Thursday; she hibernates on Wednesday while you count to twenty.
 - **Telling the week back.** Two tours, a puppet show, and a shadow fox that swells up the sheet as she walks him toward the flashlight.
 
 ---
@@ -58,7 +58,7 @@ long at eleven in the morning.
 - [ ] A second box to flatten for the tree trunk
 - [ ] Cereal boxes or thick card, 4–5
 - [ ] Brown paper bags, 4–6, or wrapping paper with a plain back
-- [ ] Carrier bags for collecting, 2–3
+- [ ] Grocery bags for collecting, 2–3
 - [ ] Newspaper, a stack
 - [ ] Old magazines or green paper, for leaves
 - [ ] Card scraps for ears, tails and beaks
@@ -75,23 +75,23 @@ long at eleven in the morning.
 - [ ] Scissors and a skewer (adult only)
 - [ ] Craft sticks, straws or spare pencils
 - [ ] Corks, 6–8
-- [ ] Clothes pegs or bulldog clips, 8
+- [ ] Clothespins or bulldog clips, 8
 - [ ] Bottle tops
-- [ ] Cotton wool and fabric scraps
+- [ ] Cotton balls and fabric scraps
 - [ ] A tuft of wool, for a trail clue
 - [ ] A jar lid
 - [ ] A baking tray, the biggest you own, or a large shallow box lid
 - [ ] Soil or sand, a few handfuls
 - [ ] Small stones and twigs from the garden
 - [ ] A pitcher and a spray bottle
-- [ ] Plain flour, 1 kg
+- [ ] All-purpose flour, 1 kg
 - [ ] A sieve
 - [ ] A sponge, for the paw stamps
 - [ ] A dustpan and brush
-- [ ] Solid vegetable fat or lard, 250 g
-- [ ] Birdseed, 3 cups, or porridge oats with breadcrumbs and raisins
-- [ ] Empty yoghurt pots, 4, or pine cones
-- [ ] A mixing bowl and a wooden spoon
+- [ ] Sunflower seeds, mixed birdseed, oats with breadcrumbs, and raisins, a cup of each
+- [ ] The four feeders hung on January 17, brought back in
+- [ ] A dish brush, a cloth and dish soap
+- [ ] A wooden spoon
 - [ ] A fork and a roll of paper towels
 - [ ] A washcloth and a shallow bowl
 - [ ] A flashlight, with fresh batteries and a spare set
@@ -158,9 +158,9 @@ long at eleven in the morning.
 
 ### 🌅 Opening Activity: The Stamp Hunt
 
-**🧰 You need:** 1 carrier bag · the recycling · the odds drawer.
+**🧰 You need:** 1 grocery bag · the recycling · the odds drawer.
 
-1. Hand her the bag and one job: find things that make a mark. A cork, a fork, a cotton reel, a tube end, a bottle top.
+1. Hand her the bag and one job: find things that make a mark. A cork, a fork, a spool of thread, a tube end, a bottle top.
 2. Press each find into your palm and ask what shape it would leave. Take her guesses without fixing them.
 3. Line the winners along the table edge in the order she wants to use them. That is the plan for 9:15.
 
@@ -177,7 +177,7 @@ long at eleven in the morning.
 **📝 Step-by-Step Instructions:**
 1. Spread the newspaper, lay one strip in front of her the long way, and pour a thin puddle of each color into its own saucer.
 2. Start the fawn. Two spots with the cork, a stripe dragged with the back of the fork, two spots again. Say it as you print: *spot, spot, stripe.* Hand her the cork on the third repeat.
-3. Badger next. Wide black and white bands from a tube squashed flat, alternating down the strip. She takes over after two.
+3. Raccoon next. Wide dark and pale bands from a tube squashed flat, alternating down the strip like a ringed tail. She takes over after two.
 4. Owl on the third strip: rings from the open end of a tube, rows of them, brown on brown.
 5. Fox on the fourth: orange the whole length with the scrunched paper towels, then a white tip.
 6. Hand her the last two strips with no pattern to follow. Those two are hers, printed however she likes. Lay all six flat to dry, wash hands, then walk the row and ask what comes next on the four you started.
@@ -214,7 +214,7 @@ each one stands up on the table by itself.
 - 1 permanent marker
 
 **📝 Step-by-Step Instructions:**
-1. Lay the dry strips out and ask which animal each one is. Take her answer even when the badger has turned into a zebra.
+1. Lay the dry strips out and ask which animal each one is. Take her answer even when the raccoon has turned into a zebra.
 2. Wrap the fawn strip round a tube with the pattern facing out and tape the seam on the inside. She holds, you tape.
 3. Cut ears, a tail and a beak from the card scraps. She draws the shape, you cut on her line.
 4. Tape the pieces where she points, including the ears you would have put somewhere else.
@@ -263,12 +263,12 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 > Azlyn printed spot, spot, stripe, spot, spot, stripe down a paper strip this
 > morning, and the work underneath it is the work a nine-year-old does with x.
 > A pattern is a rule that holds while the pieces change. Once she can say
-> what comes next on the badger strip, she can find the rule in a row of cups,
+> what comes next on the raccoon strip, she can find the rule in a row of cups,
 > a clapped rhythm or a line of numbers, because one skill sits under all
-> three. Researchers who track early maths put pattern work ahead of counting
-> as a predictor of where a child lands later. You never have to name any of
-> it. Print the first repeat, hand her the cork, and let her carry the rule to
-> the end.
+> three. Researchers who track early math find pattern work predicts where a
+> child lands later, alongside counting, and it adds something counting does
+> not. You never have to name any of it. Print the first repeat, hand her the
+> cork, and let her carry the rule to the end.
 
 > ⚠️ **Safety:** Kreston is 7 months and everything he reaches goes in his
 > mouth. Corks, tube ends and card scraps go up out of reach the moment you
@@ -284,7 +284,7 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 **Theme:** Forest Friends
 
 ### 🌙 Prep Tonight
-> Flatten a cardboard box or save two big paper bags for the trunk, and clear a stretch of wall from the skirting board up.
+> Flatten a cardboard box or save two big paper bags for the trunk, and clear a stretch of wall from the baseboard up.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Tearing the Trunk
@@ -326,7 +326,7 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 1. Tape the torn strips to the wall as a trunk, floor to shoulder height, wider at the bottom. Overlap them until no wall shows.
 2. Add branches from the shorter strips. She decides how many and where, and crooked ones stay crooked.
 3. Tear leaves from the green paper or magazine pages and tape them along the branches in handfuls.
-4. Draw a line along the skirting board and run roots below it. That line is the ground.
+4. Draw a line along the baseboard and run roots below it. That line is the ground.
 5. Sort the animals. Ask where each one lives: roots, trunk, branches, top. Tape a card shelf at that height and stand it there.
 6. Write the four layers up the wall in marker: **roots, trunk, branches, top.** Read them out with her, bottom up.
 
@@ -417,7 +417,7 @@ out loud to an audience that cannot get up and leave.
 **Theme:** Forest Friends
 
 ### 🌙 Prep Tonight
-> Empty the odds drawer into a bowl on the table (corks, pegs, bottle tops, cotton wool, fabric scraps) and dig out the biggest baking tray you own.
+> Empty the odds drawer into a bowl on the table (corks, clothespins, bottle tops, cotton balls, fabric scraps) and dig out the biggest baking tray you own.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Odds and Ends Hunt
@@ -450,7 +450,7 @@ out loud to an audience that cannot get up and leave.
 **🧰 Complete Materials List:**
 - 1 baking tray or a large shallow box lid
 - Soil, sand or torn brown paper for the ground
-- Corks, clothes pegs, bottle tops, cotton wool, fabric scraps
+- Corks, clothespins, bottle tops, cotton balls, fabric scraps
 - 1 jar lid for the pond
 - Small stones and twigs from the garden
 - 1 pitcher of water
@@ -458,8 +458,8 @@ out loud to an audience that cannot get up and leave.
 **📝 Step-by-Step Instructions:**
 1. Spread the ground first: soil, sand, or brown paper torn small. Her hands do it. Sweep at the end.
 2. Press the jar lid in and let her pour water from the pitcher. Refill it rather than telling her to go careful.
-3. Lay the corks as fallen logs and the pegs as branches. Stand the twigs up as trees, pushed in or taped to the tray edge.
-4. Build one hollow under a cork to sleep in, and one heap of cotton wool for a nest.
+3. Lay the corks as fallen logs and the clothespins as branches. Stand the twigs up as trees, pushed in or taped to the tray edge.
+4. Build one hollow under a cork to sleep in, and one heap of cotton balls for a nest.
 5. Ring the pond with the small stones. Ask what is missing and put in whatever she names.
 6. Leave one corner bare. You collect for it at 10:30 and fill it after lunch, so tell her that now.
 
@@ -468,8 +468,8 @@ out loud to an audience that cannot get up and leave.
 ### 🌳 Get Outside: What's Under the Leaves
 
 Take a paper bag and turn over the leaf litter at the bottom of a hedge. The
-underneath of January is wet, dark and busy: leaves gone to skeleton, a
-woodlouse, an empty snail shell, twigs going soft. Lift one stone, look, and
+underneath of January is wet, dark and busy: leaves gone to skeleton, a pill
+bug, an empty snail shell, twigs going soft. Lift one stone, look, and
 put it back as you found it. Fill the bag with moss, bark and four good twigs.
 
 > 👶 **Infant Integration:** Kreston is 7 months and everything goes to his
@@ -508,14 +508,14 @@ bare corner of the tray, and the Forest Family moves in on top.
 - A shoebox lid and four things, and stop there.
 - Draw the forest floor on paper instead of building it.
 - Sort the collecting bag into two piles, alive and not alive.
-- Float the bark in the washing-up bowl and see what else floats.
+- Float the bark in the dishpan and see what else floats.
 
 ### 🌳 Out Again: **Pick one**
 - **A nature hunt walk** with a list of five: something red, rough, round, soft, and older than her
 - The same hedge again with a flashlight as the light goes
 - A woodland path, for trees she has not met yet
 - The duck pond, to see what the water does in January
-- The garden, re-hunted with a magnifying glass, if the weather has turned
+- A warm bath with the moss and twigs on a tray beside it, if the weather has turned
 
 > 👶 **Kreston's Afternoon:** He comes on the hunt in the carrier facing out
 > with a hat over his ears. Stop three times and hold him up to touch a wall, a
@@ -579,7 +579,7 @@ bare corner of the tray, and the Forest Family moves in on top.
 ### 🎨 The Main Event: The Track Trail
 
 **🧰 Complete Materials List:**
-- Plain flour, 2 cups, in a sieve or a small bowl
+- All-purpose flour, 2 cups, in a sieve or a small bowl
 - 2 paw shapes cut from a sponge or thick card
 - Dark paper or a dark towel for the prints to show up on
 - 3 clues: a chewed leaf, a tuft of wool, a few crumbs
@@ -598,10 +598,11 @@ bare corner of the tray, and the Forest Family moves in on top.
 
 ### 🌳 Get Outside: Footprints in the Frost
 
-Early February holds frost on grass and car roofs until the sun comes round.
+Early February holds frost on grass and car roofs until the sun comes round,
+and a mild morning gives you soft mud instead, which takes a print better.
 Walk the shaded side of the street and read what crossed it in the
-night: a cat's prints along a wall, bird feet in a frozen puddle, her own boots
-on white grass. Send her across a frosted lawn, then turn her round to see
+night: a cat's prints along a wall, bird feet in a puddle, her own boots
+on white grass. Send her across the lawn, then turn her round to see
 what she left.
 
 > 👶 **Infant Integration:** Kreston is 7 months and sits solid with both hands
@@ -649,7 +650,7 @@ Azlyn spends the afternoon making sure there is.
 - The woods loop, looking for holes in banks and under roots
 - Another trail upstairs, if the wind has made outside a bad idea
 
-> 👶 **Kreston's Afternoon:** He goes in the pushchair with a blanket over his
+> 👶 **Kreston's Afternoon:** He goes in the stroller with a blanket over his
 > legs and a hat over his ears. February wind at the top of a slide is a
 > different thing at his height, so keep him low and moving. Five minutes on
 > the baby swing and no more. He is passing things hand to hand now, so give
@@ -681,12 +682,12 @@ Azlyn spends the afternoon making sure there is.
 **Theme:** Forest Friends
 
 ### 🌙 Prep Tonight
-> Take the fat out of the fridge, wash four yoghurt pots, and stand the seed, the string and the swimming bag by the door.
+> Bring the four feeders in off their branches and stand them by the sink with the string, the four foods and the swimming bag.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Bird Menu
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — 🎨 The Main Event: The Bird Café (60 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: What the Birds Take First (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — 🌳 Get Outside: Hanging the Feeders (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
@@ -709,45 +710,45 @@ Azlyn spends the afternoon making sure there is.
 2. Ask which a bird would go for first. Write her answer as a menu, one line per item, with her drawing of the bird beside it.
 3. Pin the menu on the window the feeders hang outside. She checks it against real birds all week.
 
-### 🎨 The Main Event: The Bird Café
+### 🎨 The Main Event: What the Birds Take First
 
 **🧰 Complete Materials List:**
-- Solid vegetable fat or lard, 250 g (peanut butter works if nobody in the house has a nut allergy)
-- Birdseed, or porridge oats plus breadcrumbs and raisins, 3 cups
-- Empty yoghurt pots, 4, or pine cones
+- The four feeders from January 17, brought in off their branches
+- Warm soapy water, 1 dish brush and a cloth
+- 4 foods, a cup of each: sunflower seeds, mixed birdseed, oats and breadcrumbs, raisins
+- Masking tape and 1 marker
 - String, 1 ball
-- 1 mixing bowl and 1 wooden spoon
-- 1 skewer or scissors for the holes (**adult**)
+- 1 tray
 
 **📝 Step-by-Step Instructions:**
-1. Make the holes first, while your hands are clean. Push the skewer through the base of each pot, thread string through and knot it inside.
-2. Warm the fat to soft, well short of clear, and let it stand until you can hold a finger in it.
-3. Tip the seed into the bowl, add the fat, and let her work them together with a spoon and then both hands. Let this part run long.
-4. Pack the mix into the pots and press it down hard with her thumbs, up to the rim.
-5. Roll a pine cone in what is left and tie a string round the top.
-6. Stand them in the fridge while you have snack. They go outside at 10:30, and any still soft go out when you get back from swimming.
+1. Line the four feeders up on the table and tip what is left of each into its own saucer. She puts them in order, emptiest to fullest.
+2. She scrubs the pots in the warm soapy water and stands them on the tray. Sixteen days of birds leave a lot behind.
+3. Fill each pot with one food and one food only. She will want to mix them, and a mixed pot answers nothing.
+4. She draws a label for each one and you tape it on: a sunflower, a scatter of seed, a spoonful of oats, a raisin.
+5. Re-tie the strings and pull every knot tight. A pot that swings loose in a February wind empties itself in a day.
+6. Walk her past the menu she pinned on the window at 8:00 and ask which pot empties first. Write her answer on the menu.
 
-> 💡 **Tip:** Cool the fat right down, then let her hands live in that bowl as long as she wants.
+> 💡 **Tip:** She will want raisins in every pot, because raisins are the good one. Let her put them in the pot she thinks the birds like least, and the test still works.
 
 ### 🌳 Get Outside: Hanging the Feeders
 
-Hang all four where she can see them from a window and a cat cannot reach. A
-washing line, a bare branch, a hook under the eaves, a fence post. She picks
-every spot and you lift her to the high ones. Count from inside how many she
-can see. February is the hard month out there, and this one gets found inside
-a week.
+Hang all four in new places this time, well apart, where she can see them from
+a window and a cat cannot reach. A clothesline, a bare branch, a hook under
+the eaves, a fence post. She picks every spot and you lift her to the high
+ones. February is the hard month out there, and four foods in four spots ask a
+better question than four in one.
 
 > 👶 **Infant Integration:** Kreston is 7 months and passes things from hand to
-> hand all day. Give him a clean yoghurt pot and a wooden spoon beside the
+> hand all day. Give him a clean yogurt pot and a wooden spoon beside the
 > table and let him swap them over. He bangs the two together inside ten
-> minutes. The seed, the string and the fat stay well out of reach.
+> minutes. The seed, the string and the raisins stay well out of reach.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: Binoculars and the Bird Chart
 
 Nothing will come to those feeders today. Birds take a day or two to find a
-new one, so build her somewhere to sit and wait.
+feeder that has moved, so build her somewhere to sit and wait.
 
 **🧰 Complete Materials List:**
 - Cardboard tubes, 4
@@ -766,7 +767,7 @@ new one, so build her somewhere to sit and wait.
 6. Tick nothing, and treat that as an answer. Ask why and write her reason at the bottom.
 7. Tell her what today is. February 2, Groundhog Day. Ask what she thinks the woodchuck saw.
 
-> 💡 **Tip:** Leave the chart on the windowsill with the pencil. She ticks it on Thursday when a blue tit turns up.
+> 💡 **Tip:** Leave the chart on the windowsill with the pencil. She ticks it on Thursday when a chickadee turns up.
 
 ### 🎯 Afternoon Alternatives
 - One tube, one eye, and stop there.
@@ -791,7 +792,7 @@ new one, so build her somewhere to sit and wait.
 
 > 🧠 **A Little Parenting Insight**
 > **Delayed payoff is a muscle, and this is a gentle way to work it.**
-> She packed four feeders this morning and no bird came this afternoon. That
+> She filled four feeders this morning and no bird came this afternoon. That
 > gap is the thing worth having. Waiting well builds through small waits with
 > something visible at the end, and a feeder outside the window is the
 > friendliest version. Nobody is asking her to sit still in front of a
@@ -800,14 +801,14 @@ new one, so build her somewhere to sit and wait.
 > reason instead of an unexplained no. A three-year-old who waited and turned
 > out right takes that with her.
 
-> ⚠️ **Safety:** Melt the fat to soft and never to liquid, and let it cool
-> until you can hold a finger in it before her hands go near. Whole
-> nuts are a choking hazard, and peanut butter is out if there is any nut
-> allergy in the house. The string gets tied outside and the ball
+> ⚠️ **Safety:** Old feeders carry droppings, so both pairs of hands get
+> washed with soap after the scrubbing and again after the hanging, before
+> anybody eats. Loose seed on the floor is choke-sized for a 7-month-old, so
+> sweep before Kreston goes down. The string gets tied outside and the ball
 > comes straight back indoors, because a loop of string at toddler height is a
 > strangulation risk. The binoculars stay stringless for the same reason: no
 > cord long enough to go over her head, on those or on anything else in the
-> house. The skewer stays with you.
+> house.
 
 <div style="page-break-after: always;"></div>
 
@@ -843,7 +844,7 @@ new one, so build her somewhere to sit and wait.
 **🧰 You need:** the Forest Family animals or any toys · 1 blanket · the sofa.
 
 1. Line the animals along the arm of the sofa. Ask which of them she thinks sleeps the whole winter.
-2. Hand her the four that do in this house's version: bear, hedgehog, dormouse, bat. Tuck them under a corner of the blanket together.
+2. Hand her the four that do in this house's version: bear, groundhog, chipmunk, bat. Tuck them under a corner of the blanket together.
 3. Ask what a sleeping animal needs. Take her list as it comes, and tell her the cave gets built at 9:15.
 
 ### 🎨 The Main Event: The Bear Cave
@@ -858,7 +859,7 @@ new one, so build her somewhere to sit and wait.
 
 **📝 Step-by-Step Instructions:**
 1. Lay the box on its side with the opening facing away from the window. Run a hand round the inside for staples and tape over the ones you find.
-2. Tear the paper into leaves together. Fill a carrier bag and let the tearing run as long as she wants.
+2. Tear the paper into leaves together. Fill a grocery bag and let the tearing run as long as she wants.
 3. Line the floor of the cave with the leaves, the blanket over them, and the cushion at the back wall.
 4. Tape a flap of card across part of the opening so the inside goes dark. She decides how much light gets in.
 5. Send her in with the flashlight and stay outside. Give her five clear minutes on her own before you ask a single question.
@@ -889,7 +890,7 @@ spoon and a pan lid, and winter ends whenever she says it does.
 - The cave
 - 1 wooden spoon and 1 pan lid
 - 1 blanket each
-- 1 beaker of warm milk and a snack, for eating inside
+- 1 cup of warm milk and a snack, for eating inside
 - Books about bears or winter, 2–3
 - 1 flashlight
 
@@ -989,7 +990,7 @@ spoon and a pan lid, and winter ends whenever she says it does.
 - A pale wall or a white door
 
 **📝 Step-by-Step Instructions:**
-1. Draw the four animals on the cereal box: fox, owl, deer, hedgehog. Big simple outlines, no detail inside. You draw, she directs.
+1. Draw the four animals on the cereal box: fox, owl, deer, raccoon. Big simple outlines, no detail inside. You draw, she directs.
 2. Cut them out. Card this thick is adult work: she holds the box flat while you cut.
 3. Tape a craft stick low on the back of each, so her hand stays out of the beam.
 4. Test the first one against the wall. If the ears are too small or the legs have joined into a block, cut wider and test again.
@@ -1000,8 +1001,8 @@ spoon and a pan lid, and winter ends whenever she says it does.
 
 ### 🌳 Get Outside: The Longest Shadow
 
-Stop at the feeders on the way out. Something has been at the fat, and a blue
-tit comes back to finish it if you hold still. Let her tick
+Stop at the feeders on the way out. The sunflower seeds have gone down, and a
+chickadee comes back for more if you hold still. Let her tick
 the chart when you get in. The sun stays low all day in early February, so
 shadows run long. Stand her on the sidewalk at eleven, draw round her shadow
 in chalk, and pace it out in her steps. Come back past the chalk mark on the
@@ -1017,19 +1018,19 @@ way home.
 
 ### 🎨 Second Main Event: The Puppet Show Behind the Sheet
 
-A sheet pegged across a doorway turns the week into something she can
+A sheet clipped across a doorway turns the week into something she can
 perform. She has four animals, one flashlight, and an audience.
 
 **🧰 Complete Materials List:**
 - 1 white or pale sheet
-- Clothes pegs or bulldog clips, 6
+- Clothespins or bulldog clips, 6
 - A doorway, or 2 dining chairs back to back
 - 1 flashlight
 - The shadow puppets
 - Paper and crayons for tickets and a poster
 
 **📝 Step-by-Step Instructions:**
-1. Peg the sheet across the doorway, pulled tight, floor to above her head. Two chairs back to back work if clips will not hold.
+1. Clip the sheet across the doorway, pulled tight, floor to above her head. Two chairs back to back work if clips will not hold.
 2. Stand the flashlight behind the sheet on the floor or a low stool, aimed at the middle.
 3. Test the distance. Close to the sheet the fox is small and sharp; back near the flashlight he is huge and soft.
 4. Make the poster and the tickets. She draws, you write the words she dictates.
@@ -1074,7 +1075,7 @@ perform. She has four animals, one flashlight, and an audience.
 > ⚠️ **Safety:** Loose craft sticks and straws stay off the floor while Kreston
 > is down. They splinter, and they fit down his throat, so count them onto the
 > table and back off it. Card this thick is yours to cut and the scissors stay
-> with you. Peg the sheet where it can come down without bringing anything with
+> with you. Clip the sheet where it can come down without bringing anything with
 > it, a door frame rather than a curtain pole or a shelf. Stand the flashlight on
 > the floor instead of a stack of books, and with the room lights off keep
 > Kreston inside arm's reach the whole time.

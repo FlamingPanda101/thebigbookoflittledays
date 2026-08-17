@@ -68,12 +68,12 @@ goes to and carries the jar to the door herself.
 - [ ] A hand mirror
 - [ ] A clean jar with a lid, or a plastic tub, for the Good Thing Jar
 - [ ] A second clean jar with a screw lid, for the soup
-- [ ] 4–6 clean yoghurt pots or empty tins
+- [ ] 4–6 clean yogurt pots or empty tins
 - [ ] A shoebox, or an empty wipes tub
 - [ ] A strong box or 2 sturdy bags, plus one spare bag for anything broken
 - [ ] A sheet or thin blanket for the curtain
 - [ ] 2 blankets, one for the window seat and one for the sofa
-- [ ] 6 clothes pegs or bulldog clips
+- [ ] 6 clothespins or bulldog clips
 - [ ] A flashlight with working batteries
 - [ ] A cushion
 - [ ] 3 chairs you can move, two for the curtain and one for the window
@@ -88,7 +88,7 @@ goes to and carries the jar to the door herself.
 - [ ] A baking tray and baking paper
 - [ ] A cooling rack, or a cold plate
 - [ ] A table knife and a chopping board for her
-- [ ] A washing-up bowl
+- [ ] A dishpan
 - [ ] A pitcher
 - [ ] A small scrubbing brush
 - [ ] A spray bottle of water
@@ -97,10 +97,10 @@ goes to and carries the jar to the door herself.
 - [ ] A shallow dish, an old plant saucer or a takeaway lid
 - [ ] A hairbrush, the second microphone
 - [ ] 250 g lard or solid vegetable fat (smooth peanut butter works instead)
-- [ ] 500 g birdseed, or porridge oats, breadcrumbs, raisins and sunflower seeds
+- [ ] 500 g birdseed, or rolled oats, breadcrumbs, raisins and sunflower seeds
 - [ ] 200 g butter
 - [ ] 100 g superfine sugar
-- [ ] 300 g plain flour
+- [ ] 300 g all-purpose flour
 - [ ] Milk
 - [ ] Sprinkles
 - [ ] 6 potatoes, scrubbed by her and cooked in Monday's soup
@@ -233,7 +233,7 @@ The jar lands on the kitchen table today and stays all week. Good things go in o
 - A friend's house, one child, one hour
 - The park, for whoever needs the noise taken out of them
 - A café with a window seat and one hot drink you get to finish
-- The corner shop, and she carries the basket to the till
+- The corner shop, and she carries the basket to the register
 
 > 👶 **Kreston's Afternoon:** Cut him two or three strips from thicker paper and let him crumple them while Azlyn posts hers. At 7 months he moves a thing from one hand to the other and back, and paper that crackles holds him longer than a toy that stays silent. Keep his strips too big for his mouth.
 
@@ -278,7 +278,7 @@ a one-word translation, and no single English word holds it.
 **Theme:** Kindness & Community
 
 ### 🌙 Prep Tonight
-> Find a sheet or thin blanket for a curtain, dig out six pegs and the flashlight, and stand two dining chairs either side of the kitchen doorway.
+> Find a sheet or thin blanket for a curtain, dig out six clothespins and the flashlight, and stand two dining chairs either side of the kitchen doorway.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The One Ticket
@@ -311,14 +311,14 @@ a one-word translation, and no single English word holds it.
 **🧰 Complete Materials List:**
 - 1 sheet or thin blanket for the curtain
 - 2 dining chairs
-- 6 clothes pegs or bulldog clips
+- 6 clothespins or bulldog clips
 - 1 flashlight as a spotlight
 - 1 cushion for the audience seat
 - The ticket she made at 8:00
 - Card and crayons for a sign
 
 **📝 Step-by-Step Instructions:**
-1. Stand a chair either side of the doorway, backs facing into the room, and peg the sheet across both backs so it hangs as a curtain she can drag aside. You hang it, she tells you it is crooked.
+1. Stand a chair either side of the doorway, backs facing into the room, and clip the sheet across both backs so it hangs as a curtain she can drag aside. You hang it, she tells you it is crooked.
 2. Put the cushion on the floor a few paces back. The auditorium seats one.
 3. Ask her what the show is. Take the first three answers and write them on the card in order: a song, a dance, a jump off the bottom stair.
 4. Rehearse the opening on its own. She waits behind the sheet, you say her name, she pulls the curtain and comes out. Do it four times. The coming out is the part she is learning.
@@ -401,7 +401,7 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 **Theme:** Kindness & Community
 
 ### 🌙 Prep Tonight
-> Take the lard out to soften overnight and put the yoghurt pots, the birdseed and a meter of string beside it.
+> Take the lard out to soften overnight and put the yogurt pots, the birdseed and a meter of string beside it.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Window Count
@@ -433,8 +433,8 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 
 **🧰 Complete Materials List:**
 - 250 g lard or solid vegetable fat, left out to soften (smooth peanut butter works instead)
-- 500 g birdseed, or porridge oats, breadcrumbs, raisins and sunflower seeds mixed
-- 4–6 clean yoghurt pots or empty tins
+- 500 g birdseed, or rolled oats, breadcrumbs, raisins and sunflower seeds mixed
+- 4–6 clean yogurt pots or empty tins
 - String, 1 m
 - 1 large mixing bowl and 1 wooden spoon
 - 1 skewer or the point of the scissors, adult only, for the string hole
@@ -451,7 +451,7 @@ At one o'clock the ticket holder sits down, and everybody else in the house is e
 
 ### 🌳 Get Outside: Where the Birds Are
 
-Walk the usual route with one job: find where the birds already are. In January they cluster in thick hedges, in anything with berries still on it, and in whatever the bramble kept. Stand still under a hedge for a minute and listen before either of you looks up. Let her choose the branch the cakes hang from on the way home.
+Walk the usual route with one job: find where the birds already are. In January they cluster in thick hedges, in anything with berries still on it, and in the tangle at the back of a yard. Stand still under a hedge for a minute and listen before either of you looks up. Let her choose the branch the cakes hang from on the way home.
 
 > 👶 **Infant Integration:** Kreston is 7 months. Hold him up to the glass before you go out, tap where a bird lands and wait. He follows a pointing finger on a good day and stares at the finger on a bad one. Outside, stop the stroller under the hedge and let him turn his head towards a sound with nothing attached to it.
 
@@ -472,7 +472,7 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 
 **📝 Step-by-Step Instructions:**
 1. Run warm water round the outside of each pot and the cake slides out whole. Leave a long loop of string.
-2. Hang them where she can see them from the chair: low branches, the washing line, a nail in the fence. She picks the spots, you tie the knots.
+2. Hang them where she can see them from the chair: low branches, the clothesline, a nail in the fence. She picks the spots, you tie the knots.
 3. Stand the shallow dish in the open, clear of any bush a cat could sit under, and pour the warm water in. Unfrozen water in January is harder to find than food.
 4. Scatter crumbs on the ground for the birds that will not use a feeder.
 5. Come in, pull the chair to the window and get under the blanket. The wait outlasts her patience on day one.
@@ -492,7 +492,7 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 - The park, counting birds there and back
 - A long loop with the stroller and no destination
 - Feed the ducks with the crusts she has been saving
-- The playing field, empty on a January Sunday
+- The pet shop and its seed aisle, if the rain has set in
 
 > 👶 **Kreston's Afternoon:** He faces Azlyn in the stroller while she scoots, so turn the seat round. At 7 months he tracks a moving thing across his whole field of view, and a sister on wheels is the best one going. Back at the window he sits on your lap and slaps the glass, which is a fair contribution to the tally.
 
@@ -529,7 +529,7 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: Three Real Jobs (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: Taking the Bins In (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Taking the Trash Cans In (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -553,7 +553,7 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 ### 🎨 The Main Event: Three Real Jobs
 
 **🧰 Complete Materials List:**
-- 1 washing-up bowl and warm water
+- 1 dishpan and warm water
 - 1 low stool
 - 6 potatoes and 1 small scrubbing brush
 - The sock basket, unsorted
@@ -571,11 +571,11 @@ The cakes come out of the fridge set hard, and the afternoon happens at the wind
 
 > 💡 **Tip:** Every job has to be one she can finish. A whole basket of socks is a wall. The same basket with the whites pulled out has an end on it.
 
-### 🌳 Get Outside: Taking the Bins In
+### 🌳 Get Outside: Taking the Trash Cans In
 
 Monday, and the bins are out. Wheel yours back down the path with her hands on the handle beside yours, then knock next door and bring theirs in too. She holds on and does almost none of the pulling, and she knows it. Walk the block after and let her pick up three pieces of litter with a bag over her hand.
 
-> 👶 **Infant Integration:** Kreston is 7 months and copies the shape of a job long before he can do one. Sit him on the towel with a dry cloth of his own and one of her scrubbed potatoes, too big to swallow, a full arm's length clear of the water. He bangs it, hands it to you and waits for it back, which is the game of his month.
+> 👶 **Infant Integration:** Kreston is 7 months and copies the shape of a job long before he can do one. Sit him on the towel with a dry cloth of his own and a wooden spoon, a full arm's length clear of the water. Raw potato breaks off in hard pieces under a gum, so the potatoes stay on her side. He bangs the spoon, hands it to you and waits for it back, which is the game of his month.
 
 <div style="page-break-after: always;"></div>
 
@@ -615,7 +615,7 @@ Today is Martin Luther King Jr. Day, marked by doing something for somebody else
 - The riverside path, to see how high the water is
 - The neighborhood park, twenty minutes, then home to the pot
 - A drive to drop the jar off, with her holding it
-- The green space with a ball, for whatever the morning left in her
+- The indoor play center, if the woods have washed out
 
 > 👶 **Kreston's Afternoon:** He goes in the carrier for the woods, facing out. At 7 months he grabs everything within reach, so keep low branches away from his hands and check what comes back in his fist. He stays out of the kitchen while the pot is on the stovetop, and gets the empty tin and a wooden spoon once it is off.
 
@@ -716,7 +716,7 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 1. Cut three or four hand-sized holes in the lid and one bigger one in the side. The scissors are yours throughout.
 2. Cut the cardboard into discs the size of your palm, eight to ten, counted out loud so she knows the number you started with.
 3. Hand her the crayons and the marker. Every disc gets decorated and so does the box. Write **KRESTON** on the lid in outline for her to fill in.
-4. Thread the scarf through the side hole so a length hangs out. He pulls, it keeps coming, and that is worth twenty minutes to a seven-month-old.
+4. Thread the scarf through the side hole so a hand's length hangs out, no more. He pulls, it keeps coming, and he comes back to it all afternoon.
 5. Show her how to post a disc through the lid, then hand the box over and let her teach him. You stay out of it.
 6. Sit behind them both and watch his hands. Posting is months beyond him, and the discs are still worth having.
 7. Count the discs back in at the end. The same number that went out.
@@ -747,13 +747,14 @@ Something arrives in the house this afternoon instead of leaving it, and Azlyn m
 > room. The good feeling arrives through the doing: choosing it, holding it one
 > last time, walking it to a door and putting it into a stranger's hands.
 > Researchers who watch toddlers hand over treats find the pleasure shows up
-> when the child does the handing, and drains away when an adult does it for
-> them. She needs the whole sequence, including the part where it costs her
+> when the child does the handing, and less of it when the treat was never
+> hers. She needs the whole sequence, including the part where it costs her
 > something.
 
 > ⚠️ **Safety:** Everything that goes in Kreston's box has to be bigger than
 > his fist. No bottle tops, no coins, no small lids. Cut the discs palm-sized,
-> count them in and out, and the scissors stay with you.
+> count them in and out, and the scissors stay with you. The scarf comes out of
+> the box the moment you stop watching.
 
 <div style="page-break-after: always;"></div>
 
@@ -848,7 +849,7 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 - Post the drawings to all three instead of ringing.
 
 ### 🌳 Out Again: **The Library**
-- **The library**, fortnightly, with her own book bag both ways
+- **The library**, every two weeks, with her own book bag both ways
 - Soft play, if the library has a school group in
 - The shops, and she chooses one thing off the list
 - The park on the way home, ten minutes, coats on
@@ -916,7 +917,7 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 **🧰 Complete Materials List:**
 - 200 g butter, softened
 - 100 g superfine sugar
-- 300 g plain flour, plus extra for the board
+- 300 g all-purpose flour, plus extra for the board
 - 2 tbsp milk
 - 1 rolling pin
 - 1 cutter or an upturned glass
@@ -929,7 +930,7 @@ Three people are expecting a call from Azlyn this afternoon. She rings each one 
 2. Add the milk a spoon at a time and let her squeeze it into a dough. A dusting of flour fixes it if it sticks to her.
 3. Flour the board and roll it out to about a finger's thickness. Leave the thin patches where they are.
 4. She counts the shapes against the piles from 8:00 and keeps cutting until the numbers match. Re-roll the scraps twice, then the third lot is hers.
-5. Bake at 180°C for 12 to 15 minutes, until the edges turn gold. She stays at the table. You move the tray.
+5. Bake at 350°F for 12 to 15 minutes, until the edges turn gold. She stays at the table. You move the tray.
 6. Slide them onto the cold plate once they firm up, and count them again with her when they are cool.
 
 > 💡 **Tip:** Let her cut whatever shapes she wants. Somebody is getting a triangle with a thumbprint in it, and that person is getting the better cookie.
@@ -979,7 +980,7 @@ Every strip in that jar has a name on it, and every one of those people gets a c
 - The park, for whatever the oven and the doorsteps left in her
 - The corner shop and the long way home past the mailbox
 
-> 👶 **Kreston's Afternoon:** Take him to the market in the carrier facing out and stop at one loud or bright stall. At 7 months he babbles in long runs and a busy street pulls it out of him, so answer him as though he said words. Give him an apple or a whole carrot to hold while Azlyn hands the money over.
+> 👶 **Kreston's Afternoon:** Take him to the market in the carrier facing out and stop at one loud or bright stall. At 7 months he babbles in long runs and a busy street pulls it out of him, so answer him as though he said words. Give him a lidded tin or an unopened packet to hold while Azlyn hands the money over. Raw apple and raw carrot break off in hard pieces, so neither goes in his hands.
 
 ---
 
@@ -988,11 +989,10 @@ Every strip in that jar has a name on it, and every one of those people gets a c
 > Prompting *say thank you* teaches Azlyn a word to produce on cue. The jar
 > teaches the step underneath the word. All week she has watched for the things
 > people did and heard them written down, so by Thursday she can name eleven of
-> them. Gratitude research keeps landing in the same place: the noticing
-> carries most of the effect. Children asked what somebody did for them, who
-> then do something back, hold onto it longer than children reminded to be
-> polite. She made a cookie for each name, and that is a thank you with a cost
-> inside it.
+> them. The noticing is the part that carries. A child who works out what
+> somebody did for her, and then does something back, holds onto it longer than
+> one reminded to be polite. She made a cookie for each name, and that is a
+> thank you with a cost inside it.
 
 > ⚠️ **Safety:** The oven is on and the tray comes out at her eye level. She
 > stays back from the door, the hot tray goes to the middle of the counter, and
