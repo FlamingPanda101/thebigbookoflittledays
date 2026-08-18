@@ -672,10 +672,12 @@ else. Half of this pot leaves the house before dinner.
 > standard be hers. The potatoes will come out with grit still on them. The
 > offer is worth more this month than the potatoes are.
 
-> ⚠️ **Safety:** Hot pot on the stovetop with a three-year-old at counter height:
-> pan handles turned in, she stirs from the stool with your hand on hers, and
-> the soup goes into the jar cool enough to hold. The knives you use stay out
-> of reach between cuts.
+> ⚠️ **Safety:** The dishpan holds enough water to drown Kreston at 7 months,
+> so he stays inside arm's reach of you the whole time it is down and it gets
+> tipped out every time you step away from it. Hot pot on the stovetop with a
+> three-year-old at counter height: pan handles turned in, she stirs from the
+> stool with your hand on hers, and the soup goes into the jar cool enough to
+> hold. The knives you use stay out of reach between cuts.
 
 <div style="page-break-after: always;"></div>
 

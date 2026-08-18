@@ -2927,10 +2927,12 @@ else. Half of this pot leaves the house before dinner.
 > standard be hers. The potatoes will come out with grit still on them. The
 > offer is worth more this month than the potatoes are.
 
-> ⚠️ **Safety:** Hot pot on the stovetop with a three-year-old at counter height:
-> pan handles turned in, she stirs from the stool with your hand on hers, and
-> the soup goes into the jar cool enough to hold. The knives you use stay out
-> of reach between cuts.
+> ⚠️ **Safety:** The dishpan holds enough water to drown Kreston at 7 months,
+> so he stays inside arm's reach of you the whole time it is down and it gets
+> tipped out every time you step away from it. Hot pot on the stovetop with a
+> three-year-old at counter height: pan handles turned in, she stirs from the
+> stool with your hand on hers, and the soup goes into the jar cool enough to
+> hold. The knives you use stay out of reach between cuts.
 
 <div style="page-break-after: always;"></div>
 
@@ -7587,8 +7589,9 @@ its owner has to find it.
 
 Cold and bright, and everything outdoors in February is brown, so red carries
 a long way. Count what you find: a mailbox, a front door, holly berries and
-rose hips on the stems, brake lights, somebody's scarf, a red car. On the way
-home she picks the reddest thing on the street and tells you why.
+rose hips on the stems, brake lights, somebody's scarf, a red car. The berries
+and the hips stay on the stems, because those two make a small child sick. On
+the way home she names the reddest thing on the street and tells you why.
 
 > 👶 **Infant Integration:** Kreston is 8 months and holds one thing in each
 > hand while looking at a third. Give him a red burp cloth and a red plastic
@@ -7789,10 +7792,13 @@ to be a job.
 > the finish-line trick on the jobs she hates too, and put a mark on the end
 > of the tidying.
 
-> ⚠️ **Safety:** A long string necklace is a strangulation risk. It comes off
-> for sleep, it never goes near Kreston, and it hangs on a hook overnight.
-> Dried pasta on the floor is choking-sized for an 8-month-old who crawls
-> toward whatever he sees, so sweep before he is down.
+> ⚠️ **Safety:** Kreston is 8 months and crawling, and he can drown in the two
+> inches of water in that dishpan, so it stays within your arm's reach while
+> it is on the floor and gets tipped out the moment step 5 finishes. A long
+> string necklace is a strangulation risk. It comes off for sleep, it never
+> goes near Kreston, and it hangs on a hook overnight. Dried pasta on the
+> floor is choking-sized for an 8-month-old who crawls toward whatever he
+> sees, so sweep before he is down.
 
 <div style="page-break-after: always;"></div>
 
@@ -22666,7 +22672,9 @@ finds out which ones he wants.
 > it and not her: the bottle lid taped shut with packing tape so no rice
 > escapes, nothing that fits through the cardboard tube, no ribbon or string
 > longer than a hand's width, no batteries, and no chipped or sharp rims. He
-> never has any of it out of your sight. The scissors stay with you.
+> never has any of it out of your sight. The washing water is hand-hot and
+> stays up on the counter, out of his reach, and gets poured away as soon as
+> the last thing is washed. The scissors stay with you.
 
 <div style="page-break-after: always;"></div>
 
@@ -40006,8 +40014,8 @@ at home before anybody eats one.
 > 👶 **Infant Integration:** Kreston is 14 months and stacks two blocks, so
 > give him four offcut triangles at the other end of the table to stack and
 > knock down. Keep the clothespins away from him, because a wooden peg catches
-> a finger hard. At the hedge he rides facing the bushes with one washed
-> blackberry to hold.
+> a finger hard. At the hedge he rides facing the bushes with nothing in his
+> hand, and his blackberries come washed and forked flat at home.
 
 <div style="page-break-after: always;"></div>
 
@@ -43241,7 +43249,9 @@ hall is the coolest strip of the house at one o'clock.
 > a cold drink, a wet washcloth and shade, then find out what the argument was
 > about. Half of it will have gone.
 
-> ⚠️ **Safety:** September heat. Cream on both of them before the door opens,
+> ⚠️ **Safety:** A patio dishpan holds enough to drown a running 15-month-old,
+> so Kreston stays inside arm's reach every minute it holds water and it gets
+> tipped out the moment the cooling job is done. September heat. Cream on both of them before the door opens,
 > and again before the pool: hat on, cream at eight, cream again at eleven.
 > Paving, metal slides and buckle clasps burn small hands at these
 > temperatures, so test each one with the back of your hand first, and if you
@@ -49947,9 +49957,10 @@ it goes where the string goes.
 - The corner store, and she pays with real coins this time
 
 > 👶 **Kreston's Afternoon:** Keep him out of the room while the balloons are
-> up. Afterwards, give him the empty paper purse and the ten card coins on the
-> floor. At 16 months he posts them in and tips them out again for five or ten
-> minutes, then comes back to it twice more before dinner. Count the coins back
+> up. Afterwards, give him the empty paper purse and a handful of jar lids too
+> wide for his mouth. At 16 months he posts them in and tips them out again for
+> five or ten minutes, then comes back to it twice more before dinner. The ten
+> card coins stay up on the table with her. Count the coins back
 > in.
 
 ---
@@ -51345,12 +51356,13 @@ the directions and you do as you are told.
 > ⚠️ **Safety:** Chairs and cushion piles used as climbing stations tip over,
 > so test each one with your own weight first and set the chairs on carpet
 > rather than a wood floor. Kreston walks straight into a run like this at 16
-> months, so he stays with an adult who is watching him and not the course.
-> Bottle caps are the size that blocks his airway and this board sits on the
-> floor, so count them out and count them back into a tin, and he is in the
-> high chair or out of the room the whole time the board is down. Take the
-> scarf up the moment you finish. A length of string or fabric left on the
-> floor is a strangulation risk for him.
+> months, so he runs it with you one station behind her, or goes in the high
+> chair while she takes a turn on her own. Bottle caps are the size that
+> blocks his airway and this board sits on the floor, so count them out and
+> count them back into a tin, and he is in the high chair or out of the room
+> the whole time the board is down. Take the scarf up the moment you finish. A
+> length of string or fabric left on the floor is a strangulation risk for
+> him.
 
 <div style="page-break-after: always;"></div>
 

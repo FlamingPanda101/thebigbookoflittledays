@@ -483,8 +483,9 @@ its owner has to find it.
 
 Cold and bright, and everything outdoors in February is brown, so red carries
 a long way. Count what you find: a mailbox, a front door, holly berries and
-rose hips on the stems, brake lights, somebody's scarf, a red car. On the way
-home she picks the reddest thing on the street and tells you why.
+rose hips on the stems, brake lights, somebody's scarf, a red car. The berries
+and the hips stay on the stems, because those two make a small child sick. On
+the way home she names the reddest thing on the street and tells you why.
 
 > 👶 **Infant Integration:** Kreston is 8 months and holds one thing in each
 > hand while looking at a third. Give him a red burp cloth and a red plastic
@@ -685,10 +686,13 @@ to be a job.
 > the finish-line trick on the jobs she hates too, and put a mark on the end
 > of the tidying.
 
-> ⚠️ **Safety:** A long string necklace is a strangulation risk. It comes off
-> for sleep, it never goes near Kreston, and it hangs on a hook overnight.
-> Dried pasta on the floor is choking-sized for an 8-month-old who crawls
-> toward whatever he sees, so sweep before he is down.
+> ⚠️ **Safety:** Kreston is 8 months and crawling, and he can drown in the two
+> inches of water in that dishpan, so it stays within your arm's reach while
+> it is on the floor and gets tipped out the moment step 5 finishes. A long
+> string necklace is a strangulation risk. It comes off for sleep, it never
+> goes near Kreston, and it hangs on a hook overnight. Dried pasta on the
+> floor is choking-sized for an 8-month-old who crawls toward whatever he
+> sees, so sweep before he is down.
 
 <div style="page-break-after: always;"></div>
 
