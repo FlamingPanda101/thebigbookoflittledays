@@ -26297,8 +26297,8 @@ backward, from a run-up: the variation is hers to invent and yours to lose at.
 > she made showed up in the count. That loop is engineering at three, and she can
 > run it on tape and old newspaper. Watch for the moment she starts changing one
 > thing at a time instead of everything at once. It shows up around now, and it
-> is worth more than any score on the door frame. Leave the tape up an extra day
-> if she is still testing it.
+> is worth more than any score on the door frame. Run it again tomorrow with
+> fresh strips, because the tape comes down at the end of every session.
 
 > ⚠️ **Safety:** Tape strung across a doorway at head height is a hazard for a
 > baby who is pulling up on furniture. Kreston does not go through that
@@ -28519,7 +28519,9 @@ when nothing reaches.
 > down and goes away the moment you finish, because a loop of string at
 > Kreston's height is a strangulation risk. Sunscreen on both of them before
 > you go out, and again after the water. Tip the pool out before you leave for
-> the hill.
+> the hill. The pool stays filled until half past two, so Kreston is in the
+> high chair on the step or indoors with the back door shut for the whole of
+> that stretch, and never in the yard while there is water down.
 
 <div style="page-break-after: always;"></div>
 
@@ -31205,9 +31207,10 @@ sheet and finishes holding something that did not exist at lunchtime.
 > property the sheet never had. Materials reach her finished, and the making of
 > them sits behind a door she has no picture of. Twisting two strands and
 > watching them lock together puts one whole step of that in her own hands. She
-> meets the same idea in paper, in cloth, in flour. Hang the rope where she can
-> reach it and leave it up for a week, because the strength she built into it
-> is the part she will keep testing.
+> meets the same idea in paper, in cloth, in flour. The rope comes down to her
+> only while you are sitting with her, and goes back up high the moment she is
+> finished, because the strength she built into it is the part she will keep
+> testing.
 
 > ⚠️ **Safety:** Check the flashlight for a coin-shaped button battery before
 > she opens anything, and take every one of them out of the room. A swallowed
@@ -43420,14 +43423,17 @@ hall is the coolest strip of the house at one o'clock.
 
 > ⚠️ **Safety:** A patio dishpan holds enough to drown a running 15-month-old,
 > so Kreston stays inside arm's reach every minute it holds water and it gets
-> tipped out the moment the cooling job is done. September heat. Cream on both of them before the door opens,
-> and again before the pool: hat on, cream at eight, cream again at eleven.
-> Paving, metal slides and buckle clasps burn small hands at these
-> temperatures, so test each one with the back of your hand first, and if you
-> cannot hold it there it comes off bare feet and bare hands. Fluid into both
-> of them early, and keep the middle of the day indoors. The jacket is sealed
-> plastic and holds heat against her, so it comes off between jobs and never
-> goes on outdoors before four. The scissors stay with you.
+> tipped out the moment the cooling job is done. September heat. Cream on both
+> of them before the door opens, and again before the pool: hat on, cream at
+> eight, cream again at eleven. Paving, metal slides and buckle clasps burn
+> small hands at these temperatures, so test each one with the back of your
+> hand first, and if you cannot hold it there it comes off bare feet and bare
+> hands. Fluid into both of them early, and keep the middle of the day
+> indoors. The jacket is sealed plastic and holds heat against her, so it
+> comes off between jobs and never goes on outdoors before four. The scissors
+> stay with you. Swimming this afternoon. Both children stay within arm's
+> reach in the water at all times, and no float or seat is a substitute for
+> your hands.
 
 <div style="page-break-after: always;"></div>
 
@@ -58394,9 +58400,10 @@ it, so keep at least one of them small enough to happen.
 > 👶 **Where Kreston Goes:** He can come back into the room today, in short
 > doses, with one rule: he stays on the floor and she stays on the sofa. He is
 > 17 months and will want to climb up beside her within a minute. Give him a
-> job at her feet instead, posting the sorted drawer back in one piece at a
-> time while she directs him from above. Twenty minutes of that is plenty for
-> both of them.
+> job at her feet instead, posting balled socks back into the laundry basket
+> one at a time while she directs him from above. The button tin and the
+> bottle caps stay up on the sofa with her and come down only while he is out
+> of the room. Twenty minutes of that is plenty for both of them.
 
 ---
 
@@ -59825,11 +59832,14 @@ naturalist asked people to count birds instead of shooting them.
 > hour, and you can stop apologizing for it.
 
 > ⚠️ **Safety:** Melted fat scalds, and it holds that heat long after the pan
-> stops looking dangerous, so she comes to it at step four and not before. Loose
-> seed and chopped nuts are choking-size for Kreston at 18 months, so sweep the
-> floor and his chair before you put him down. The hanging string goes out of
-> reach the moment the feeders do. The sharp scissors stay with you; the blunt
-> pair is hers this afternoon and comes back to you between cuts.
+> stops looking dangerous, so she comes to it at step four and not before.
+> Loose seed and chopped nuts are choking-size for Kreston at 18 months, so
+> sweep the floor and his chair before you put him down. The hanging string
+> goes out of reach the moment the feeders do. The sharp scissors stay with
+> you; the blunt pair is hers this afternoon and comes back to you between
+> cuts. Kreston is behind a gate or strapped into the high chair from the
+> moment the pan goes on the burner until the fat has set and the pan is in
+> the sink.
 
 <div style="page-break-after: always;"></div>
 

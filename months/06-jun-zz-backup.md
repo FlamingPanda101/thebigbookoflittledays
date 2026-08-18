@@ -130,9 +130,10 @@ sheet and finishes holding something that did not exist at lunchtime.
 > property the sheet never had. Materials reach her finished, and the making of
 > them sits behind a door she has no picture of. Twisting two strands and
 > watching them lock together puts one whole step of that in her own hands. She
-> meets the same idea in paper, in cloth, in flour. Hang the rope where she can
-> reach it and leave it up for a week, because the strength she built into it
-> is the part she will keep testing.
+> meets the same idea in paper, in cloth, in flour. The rope comes down to her
+> only while you are sitting with her, and goes back up high the moment she is
+> finished, because the strength she built into it is the part she will keep
+> testing.
 
 > ⚠️ **Safety:** Check the flashlight for a coin-shaped button battery before
 > she opens anything, and take every one of them out of the room. A swallowed

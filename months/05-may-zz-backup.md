@@ -152,8 +152,8 @@ backward, from a run-up: the variation is hers to invent and yours to lose at.
 > she made showed up in the count. That loop is engineering at three, and she can
 > run it on tape and old newspaper. Watch for the moment she starts changing one
 > thing at a time instead of everything at once. It shows up around now, and it
-> is worth more than any score on the door frame. Leave the tape up an extra day
-> if she is still testing it.
+> is worth more than any score on the door frame. Run it again tomorrow with
+> fresh strips, because the tape comes down at the end of every session.
 
 > ⚠️ **Safety:** Tape strung across a doorway at head height is a hazard for a
 > baby who is pulling up on furniture. Kreston does not go through that

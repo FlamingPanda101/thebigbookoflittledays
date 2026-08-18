@@ -469,9 +469,10 @@ it, so keep at least one of them small enough to happen.
 > 👶 **Where Kreston Goes:** He can come back into the room today, in short
 > doses, with one rule: he stays on the floor and she stays on the sofa. He is
 > 17 months and will want to climb up beside her within a minute. Give him a
-> job at her feet instead, posting the sorted drawer back in one piece at a
-> time while she directs him from above. Twenty minutes of that is plenty for
-> both of them.
+> job at her feet instead, posting balled socks back into the laundry basket
+> one at a time while she directs him from above. The button tin and the
+> bottle caps stay up on the sofa with her and come down only while he is out
+> of the room. Twenty minutes of that is plenty for both of them.
 
 ---
 
