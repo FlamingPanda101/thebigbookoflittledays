@@ -59725,7 +59725,7 @@ three than it sounds.
 - [ ] A small saucepan and a wooden spoon
 - [ ] A measuring cup and 2 spoons
 - [ ] 3 shallow trays, baking sheets or box lids
-- [ ] Jar lids, 2
+- [ ] Jar lids, 2, and 1 small jar with its lid
 - [ ] A drinking straw
 - [ ] A cotton ball
 - [ ] A plastic cup
@@ -59799,6 +59799,7 @@ three than it sounds.
 - 1 ball of string, cut into arm-length pieces
 - 1 small saucepan and a wooden spoon
 - 1 apple, halved
+- 1 small jar with a lid, for the afternoon's seed jar
 - Scissors (adult only)
 - 2 paper plates and a spoon for the seed
 
