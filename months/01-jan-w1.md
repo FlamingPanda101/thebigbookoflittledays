@@ -89,7 +89,6 @@ week runs on cardboard.
 - [ ] Small toys, a handful, for the test load and the zip line cargo
 - [ ] A spoon
 - [ ] A flashlight with fresh batteries
-- [ ] A broom handle, if there is no door frame to hang the wrecking ball from
 - [ ] A snack and a drink in a lidded cup, for the fort picnic
 - [ ] A printed photo to go in the time capsule
 - [ ] Your phone, with room on it for the week's photos
@@ -445,8 +444,9 @@ what a longer stick does, then what two sticks laid side by side do. The
 gloves come home wet.
 
 > 👶 **Infant Integration:** Kreston is 6 months and tracks moving objects
-> across his whole field of view now. Sit him facing the ball run and drop a
-> bean down it while he watches. Do it four or five times. He loses the bean at
+> across his whole field of view now. Sit him well back from the run, out of
+> reach of the catching box, and drop a bean down while he watches from there.
+> Do it four or five times, carrying each bean back to him. He loses it at
 > the top and finds it again at the bottom, which is early object permanence
 > work, and it costs you nothing but pointing him in the right direction.
 
@@ -591,7 +591,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 - 1 clean sock
 - Dried beans or rice to fill it
 - 1 ball of string, about six feet
-- A door frame, a broom handle across two chairs, or a curtain rail bracket
+- A door frame, and nothing else that could come down on her
 - All the boxes and cups
 - Masking tape
 
@@ -777,7 +777,9 @@ and the thirty she cut are the whole supply.
 > ⚠️ **Safety:** The oven is on for three hours today, so say it out loud when
 > she comes near, and keep Kreston out of the kitchen while the trays move.
 > Salt dough is dangerous if eaten, and seriously so for a 7-month-old and for
-> any dog in the house. Count the bricks in and out and store them high.
+> any dog in the house. Count the bricks in and out and store them high. At the
+> pool Kreston stays inside arm's reach in the water every second, and no float
+> or seat stands in for your hands.
 
 <div style="page-break-after: always;"></div>
 

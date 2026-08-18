@@ -382,7 +382,77 @@ for p in sorted(glob.glob(os.path.join(MONTHS, "*zz-backup.md"))):
              % (os.path.basename(p), bad, sick, extra))
 note("backup sections: 12 files checked for 2 bad weather + 2 sick + 1 extras")
 
-# ------------------------------------------------------------------ 18. print
+# ------------------------------- 18. near-duplicate prose across the year
+# Titles are unique by construction. Bodies are not checked anywhere, and a
+# previous audit found a Tip in one half making the same point in the same
+# words as a Tip in the other.
+BORING = set("""her his the and for a an of to in on with it that this she he
+you your they them from into out up down over under one two three all any
+each some more most then than when while because so but or if as at by is are
+was were be been being do does did done get gets got go goes going take takes
+took put puts putting let lets letting will would can could should about
+what which who whom whose there here now not no yes""".split())
+
+
+def shingle(text):
+    ws = [w for w in re.findall(r'[a-z]+', text.lower()) if w not in BORING and len(w) > 3]
+    return set(ws)
+
+
+def near_dupes(items, label, threshold=0.55, minlen=25):
+    keys = [(k, shingle(v)) for k, v in items if len(shingle(v)) >= minlen]
+    for i in range(len(keys)):
+        for j in range(i + 1, len(keys)):
+            a, b = keys[i][1], keys[j][1]
+            inter = len(a & b)
+            if not inter:
+                continue
+            jac = inter / float(len(a | b))
+            if jac >= threshold:
+                fail("[dupe] %s %s and %s overlap %d%% of their distinctive words"
+                     % (label, keys[i][0], keys[j][0], int(jac * 100)))
+
+
+ins_bodies, tips = [], []
+for p in ALLFILES:
+    raw = read(p)
+    base = os.path.basename(p)
+    for m in INS.finditer(raw):
+        ins_bodies.append((base + ":" + m.group(1)[:34], re.sub(r'^> ?', '', m.group(2), flags=re.M)))
+    for m in re.finditer(r'> 💡 \*\*Tip:\*\*(.+?)(?=\n\n|\n> \n)', raw, re.S):
+        tips.append((base + ":" + m.group(1).strip()[:34], m.group(1)))
+near_dupes(ins_bodies, "insight")
+near_dupes(tips, "tip")
+note("near-duplicate scan: %d insight bodies, %d tips" % (len(ins_bodies), len(tips)))
+
+# --------------------------------------------- 19. her 4:00 job, every day
+# The job itself grows across the year on purpose, from the forks to the
+# napkins to the cups, so the invariant is the slot rather than the forks.
+jobs = Counter()
+for n, lines in sorted(DAYS.items()):
+    row = [l for l in lines if l.startswith("- **4:00–4:15 PM**")]
+    if len(row) != 1:
+        fail("[job] Day %d: %d rows at 4:00, want 1" % (n, len(row)))
+        continue
+    if "🧹 Her Job:" not in row[0]:
+        fail("[job] Day %d: 4:00 row is not 'Her Job' -> %r" % (n, row[0][:70]))
+        continue
+    name = row[0].split("🧹 Her Job:", 1)[1].strip()
+    jobs[name] += 1
+    if not any(l.startswith("### 🧹 Her Job: " + name) or
+               ("Her Job" in l and name in l) for l in lines if l.startswith("###")):
+        pass  # the job has no section of its own, only the row; that is the format
+fork_days = sum(v for k, v in jobs.items() if "Fork" in k)
+note("her 4:00 job: %d distinct jobs, forks in %d days" % (len(jobs), fork_days))
+
+# NOTE: a lexical "material listed but no step uses it" check was written
+# here and deleted. Steps name actions rather than tools, so it fired 541
+# times on things like a shoebox the steps call "the box" and a marker the
+# steps imply by saying "write". Materials-versus-steps stays with the
+# human auditors. A check that cries wolf gets ignored, and then the real
+# ones get ignored with it.
+
+# ------------------------------------------------------------------ 20. print
 print("=" * 74)
 print("DEEPCHECK")
 print("=" * 74)

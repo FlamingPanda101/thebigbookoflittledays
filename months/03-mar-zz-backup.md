@@ -515,8 +515,7 @@ first ten minutes.
 Ten minutes, no plan, and a child already asking. Everything on this page uses
 what is in the house or on the walk you were taking anyway.
 
-### 🎲 **Alternative Activities**
-
+### 🎲 Alternative Activities
 - **The Deepest Puddle on the Street.** She stands a stick in each one and you rank them shallow, deeper, deepest.
 - **Under the Umbrella, Listening.** She sits under an open umbrella in the rain with her eyes shut and names what she hears.
 - **What the Wind Takes First.** Hold up a ribbon, a leaf and a paper towel off the back step and see which one goes.
@@ -529,8 +528,7 @@ what is in the house or on the walk you were taking anyway.
 - **Everything That Fits in One Boot.** She loads it, you both count what came out.
 - **The Mud Footprint Guessing Game.** You press a print in the mud with a shoe and she works out whose it is.
 
-### 🎨 **Alternative Arts & Crafts**
-
+### 🎨 Alternative Arts & Crafts
 - **Rain-Spotted Paper.** Chalk dust or marker dots on paper, held out in the rain for five seconds and brought straight back in.
 - **Three Jars of Mud Paint.** Dirt and water at three thicknesses, painted onto a flattened box with a stick.
 - **The Wind Spinner Off a Cereal Box.** A spiral cut from card, hung on thread by the window that always leaks air.
@@ -543,8 +541,7 @@ what is in the house or on the walk you were taking anyway.
 - **Stamping With the Bottom of a Boot.** Paint on the sole, one press per sheet, a whole line of them along the hall.
 - **The Weather Wheel for the Fridge.** A paper circle in quarters, a card arrow, and one turn every morning.
 
-### 👶 **Kreston's Turn**
-
+### 👶 Kreston's Turn
 - **The Cruising Rail.** Two chairs pushed until their edges overlap, so he can sidestep the whole length with a hand on each.
 - **The Muffin Tin and Six Lids.** One plastic lid dropped into every cup, taken out again, and dropped back in with a thumb and finger.
 - **Puffs on the Tray.** A handful of cereal puffs spread wide, worked at with thumb and finger, all through her main event.

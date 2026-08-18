@@ -491,8 +491,7 @@ ones go in a bag on her lap and she decides which of them get one more month.
 
 ## 🎲 September — Extra Ideas
 
-### 🎲 **Alternative Activities**
-
+### 🎲 Alternative Activities
 - **The Coat Argument, Settled at the Corner**, she picks her own coat, you walk two minutes, and the cold decides it.
 - **Six Bottles Down the Hallway**, bowling with the fattest buckeye in the bowl and a rebuilt set every time.
 - **Puddle Depth Testing**, one stick with three stripes on it, and she calls which puddle wins.
@@ -505,8 +504,7 @@ ones go in a bag on her lap and she decides which of them get one more month.
 - **Everything Gray**, a bag walk that takes gray things only, laid out on the windowsill after.
 - **The Preschool Bag Audit**, everything out of the bag she carries on Monday, named, and put back.
 
-### 🎨 **Alternative Arts & Crafts**
-
+### 🎨 Alternative Arts & Crafts
 - **The Paper Bag Owl**, one bag, two circles, a folded beak, ten minutes start to finish.
 - **Leaves Under the Heaviest Books**, pressed on Monday, opened Friday, taped along the window.
 - **The Reply She Waits For**, a cereal box cut to a postcard, drawn on, addressed, mailed, and marked on the calendar.
@@ -519,8 +517,7 @@ ones go in a bag on her lap and she decides which of them get one more month.
 - **Handprint Bats**, black paper, white paint, and a row of them up the stairs for October.
 - **The Card That Stands Up**, one fold, two cuts, and a mouth that opens when she opens it.
 
-### 👶 **Kreston's Turn**
-
+### 👶 Kreston's Turn
 - **Two Bowls and One Spoon**, dry cereal moved from bowl to bowl, and most of it lands.
 - **The Naming Round**, a picture book on your knee, and he points forty times while you name.
 - **The Hallway Sprint**, a clear run, a cushion at each end, and he does it until he drops.

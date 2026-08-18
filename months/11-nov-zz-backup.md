@@ -499,8 +499,7 @@ it, so keep at least one of them small enough to happen.
 Ten minutes, no plan, cold rain on the glass and the lamps on at four. Pick a
 line and start.
 
-### 🎲 **Alternative Activities**
-
+### 🎲 Alternative Activities
 - **Fifty Steps Around the House**, counted out loud, then fifty back the other way.
 - **The Mug She Carries Herself**, she picks it, stirs the warm milk and walks it to her own chair.
 - **The Radiator Race**, wet mittens and hats laid out and checked to see which dries first.
@@ -513,8 +512,7 @@ line and start.
 - **The Sock Skate Race**, socks on the smooth floor and the length of the kitchen crossed sliding.
 - **The Newspaper Mountain**, a whole newspaper torn into strips and stuffed into a pillowcase.
 
-### 🎨 **Alternative Arts & Crafts**
-
+### 🎨 Alternative Arts & Crafts
 - **Rain Prints**, a sheet of paper held out under a drip for ten seconds and dried flat.
 - **The Window Sign for the Street**, one big word drawn thick and taped facing out for whoever walks past.
 - **Bubble Wrap Printing**, paint rolled over the bubbles and pressed onto paper.
@@ -527,8 +525,7 @@ line and start.
 - **The Envelope Street**, old envelopes cut into lit windows and glued along a dark sheet.
 - **Potato Stamps**, cut by you and printed by her onto a paper bag for wrapping.
 
-### 👶 **Kreston's Turn**
-
+### 👶 Kreston's Turn
 - **The Ball Down the Hallway**, you sitting at one end, him kicking from the other.
 - **Two Words at the Window**, *car gone* and *rain wet*, handed back to him each time he points.
 - **Two Cups and the Clothespins**, dropped from one cup into the other and tipped out to start again.

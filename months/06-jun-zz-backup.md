@@ -476,8 +476,7 @@ something in his hands instead of on top of her.
 
 ## 🎲 June — Extra Ideas
 
-### 🎲 **Alternative Activities**
-
+### 🎲 Alternative Activities
 - **Barefoot on Six Surfaces**, grass, paving, doormat, tile, carpet and gravel, named as she crosses each one.
 - **One Hand Cold, One Hand Warm**, two bowls and a third in the middle that both hands go into at the end.
 - **Melting an Ice Cube in Her Fist**, one cube each, and the first hand to come up empty wins.
@@ -490,8 +489,7 @@ something in his hands instead of on top of her.
 - **The Fridge Inventory**, she names everything on one shelf out loud while you write it down.
 - **Grandma on Speakerphone**, she does the talking and you stay out of it.
 
-### 🎨 **Alternative Arts & Crafts**
-
+### 🎨 Alternative Arts & Crafts
 - **The Paper Bag Cut Flat**, a bigger sheet than any she owns and crayons in the middle of it.
 - **Chalk on the Shady Wall**, one wall she is allowed to draw on and a bucket of water to take it off.
 - **Painting the Path With Water**, one wide brush and a bucket, and the whole thing gone by lunch.
@@ -504,8 +502,7 @@ something in his hands instead of on top of her.
 - **Painting the Window From Inside**, washable paint on the glass and a cloth to clear it after.
 - **Tape Roads on the Floor**, masking tape from room to room and every wheeled toy in the house on them.
 
-### 👶 **Kreston's Turn**
-
+### 👶 Kreston's Turn
 - **Carrying One Thing to One Person**, handed over, taken back, and run again twenty times.
 - **The Cup With Two Swallows In It**, offered on the hour and refilled small, because he holds it himself now.
 - **Washcloths Into the Big Bowl**, posted in, tipped out, and nothing in the game small enough to swallow.

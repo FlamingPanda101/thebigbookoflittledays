@@ -477,8 +477,7 @@ work.
 > *For the morning you open this book with ten minutes and no plan. One line
 > each, nothing to prepare, everything already in the house.*
 
-### 🎲 **Alternative Activities**
-
+### 🎲 Alternative Activities
 - **The Draft Hunt** — a strip of paper towel held along every door and window to show where the wind is getting in.
 - **Hands on Everything Cold** — flat palms on the window, the fridge door, the floor and the radiator, ranked coldest to warmest.
 - **Lamps On Before Dinner** — she walks the house switching every light on as the gray comes down and picks the room she likes lit best.
@@ -491,8 +490,7 @@ work.
 - **The Ten-Minute Race** — the living room floor cleared before the stove timer goes, both of you working.
 - **Breakfast for Dinner** — eggs and toast at six on a day that got away from everybody.
 
-### 🎨 **Alternative Arts & Crafts**
-
+### 🎨 Alternative Arts & Crafts
 - **The Wet Sky** — clean water brushed over the whole sheet first, then color dropped in to run where it wants.
 - **Pale Crayon on Dark Paper** — the street after dinner, lit windows drawn in white and yellow on a dark sheet.
 - **Junk Mail, One Color Only** — every scrap of one color torn out of the pile and glued into a single block.
@@ -505,8 +503,7 @@ work.
 - **Salt on the Wet Sky** — a pinch of table salt dropped onto the wet wash from two lines up and left to dry into blotches.
 - **A Card for Whoever Is Ill** — folded, drawn, and walked around or dropped in the mailbox this week.
 
-### 👶 **Kreston's Turn**
-
+### 👶 Kreston's Turn
 - **Four Blocks, Then Yours** — he stacks his four and knocks them down, and you add a fifth for him to take off the top.
 - **The Cloth That Is His** — a damp cloth of his own while you wipe the table, and he follows you around the whole countertop.
 - **One Word More Than He Says** — he says *dog*, you say *a wet dog*, and then you wait for him to have a go.

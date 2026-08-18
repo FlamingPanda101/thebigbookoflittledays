@@ -112,13 +112,12 @@ table this afternoon, small enough to cross with two fingers.
 - Mail the three slips under her bedroom door and go in and get them.
 - Skip the paper and drive a toy car around the taped route on the floor.
 
-### 👶 Kreston's Afternoon
-
-Sit him at the far end of the table in the high chair with a sheet of his own
-and one fat crayon. At 10 months he holds it in his fist, bangs more than he
-draws, and looks surprised at the mark. He points at what her hand is doing, so
-name it back: drawing, taping, the car. Press every tape end flat before he
-goes down on the floor, because a lifted strip is the first thing he takes.
+> 👶 **Kreston's Afternoon:** Sit him at the far end of the table in the high
+> chair with a sheet of his own and one fat crayon. At 10 months he holds it
+> in his fist, bangs more than he draws, and looks surprised at the mark. He
+> points at what her hand is doing, so name it back: drawing, taping, the car.
+> Press every tape end flat before he goes down on the floor, because a lifted
+> strip is the first thing he takes.
 
 ---
 
@@ -248,13 +247,11 @@ everybody sitting down, which is what the afternoon needs after that morning.
 - Sort the goods into what you eat and what you wear.
 - Play the whole shop with words and no beans, and see whether she notices.
 
-### 👶 Kreston's Afternoon
-
-He is the customer who clears the bottom shelf, which at 10 months is a real
-job and worth handing him on purpose. Put three of the goods low down where he
-cruises past and let him take them off and pass them over. He points at what he
-wants named, so name the can, the box and the sock every time. Sweep the
-floor and count the beans back into the bag before he goes down there.
+> 👶 **Kreston's Afternoon:** He is the customer who clears the bottom shelf, which at 10 months is a real
+> job and worth handing him on purpose. Put three of the goods low down where he
+> cruises past and let him take them off and pass them over. He points at what he
+> wants named, so name the can, the box and the sock every time. Sweep the
+> floor and count the beans back into the bag before he goes down there.
 
 ---
 

@@ -84,7 +84,9 @@ outlast the year.
 - **The twelve handprints.** Hers and Kreston's on one sheet, one sheet for
   each calendar month, twelve by the end of the year. You lay all twelve out
   together on Day 365, with December's pair next to January's.
-- **The forks.** Hers to set every night at 4:00, from Day 1 onward.
+- **The forks.** The 4:00 job is hers from Day 1 onward. It starts with the
+  forks and grows into the napkins, the cups, the water pitcher and jobs she
+  takes over on her own.
 - **The same walk.** You walk it on Day 1 under bare trees, then walk it again
   each season to see what changed.
 

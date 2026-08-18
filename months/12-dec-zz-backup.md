@@ -477,8 +477,7 @@ her if that is what makes it happen.
 
 ## 🎲 December — Extra Ideas
 
-### 🎲 **Alternative Activities**
-
+### 🎲 Alternative Activities
 - **Both Sides of the Front Door** · one hand flat on the inside of the door, one on the storm door glass, and she calls the difference.
 - **Paper Snowball Fight** · a stack of newspaper crumpled into ammunition, the sofa as the wall.
 - **The Practice Wrap** · a shoebox, a sheet of leftover paper and as much tape as she wants to use.
@@ -491,8 +490,7 @@ her if that is what makes it happen.
 - **Everything That Came Out of a Box** · a hunt for what arrived this month, packing paper and all.
 - **The Laundry Basket Boat** · a basket, a cushion and a wooden spoon for an oar.
 
-### 🎨 **Alternative Arts & Crafts**
-
+### 🎨 Alternative Arts & Crafts
 - **Cotton Balls on Blue Paper** · glue and stick, no cutting, snow that stays up till spring.
 - **The Star You Cannot Plan** · paper folded in four, one cut across the corner, and the shape shows up when it opens.
 - **Wrapping Paper Collage** · leftover paper torn small and glued into one big sheet.
@@ -505,8 +503,7 @@ her if that is what makes it happen.
 - **The Hallway Drawing** · a long strip of paper taped to the wall at her height, added to all week.
 - **A Bag of Snips** · scissors, scrap paper and nothing to make, which is the point.
 
-### 👶 **Kreston's Turn**
-
+### 👶 Kreston's Turn
 - **The Bottom Three Stairs** · up and down holding the rail, with you one step below, as many times as he wants.
 - **Feeding the Bear** · a spoon, an empty bowl and a toy that gets a whole meal.
 - **Lids Through the Slot** · a shoebox with a slot cut in the lid and a pile of jar lids to post.

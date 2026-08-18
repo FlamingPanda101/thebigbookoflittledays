@@ -244,10 +244,11 @@ years from now, in the same handwriting.
 
 ## 8. 🍴 The Forks
 
-Azlyn has set the forks at 4:00 since Day 1. This one leaves nothing to put in
-a box, so the record is here: the night she added the napkins, the night she
-added the cups, and the night she counted the places before you gave her the
-number.
+Azlyn has had the 4:00 job since Day 1, and it started with the forks. It grew
+from there into the napkins, the cups, the water pitcher and a good deal she
+took over without being asked. This one leaves nothing to put in a box, so the
+record is here: the night she added the napkins, the night she added the cups,
+and the night she counted the places before you gave her the number.
 
 **She set them on her own from:** ______________________________________
 

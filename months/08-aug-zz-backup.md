@@ -41,7 +41,7 @@ across.
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: Putting the Cups Out for Everyone
 - **4:15–5:00 PM** — Quiet Play: The Jars on the Windowsill
-- **5:00–5:45 PM** — 🛁 Wind-Down: Warm Bath While It Hammers on the Roof
+- **5:00–5:45 PM** — 🛁 Wind-Down: Warm Washcloths and Pajamas Early
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: Every Clear Thing in the House

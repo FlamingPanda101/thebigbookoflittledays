@@ -462,8 +462,7 @@ For the morning you open the book with ten minutes, a hot house and no plan.
 Nothing here needs a shopping trip and nothing takes longer to set up than it
 takes to run.
 
-### 🎲 **Alternative Activities**
-
+### 🎲 Alternative Activities
 - **One Cube in Each Hand.** Two ice cubes, one per fist, and the first hand to come up empty wins.
 - **The Coldest Thing in the Fridge.** The back of her hand on every shelf and every jar, ranked coldest to warmest.
 - **The Full Cup Down the Hall.** A cup filled to the brim carried the length of the hall and back without a drop.
@@ -477,8 +476,7 @@ takes to run.
 - **The Photograph She Explains.** One old picture and ten questions about who is in it and where they were.
 - **Reading in the Empty Bathtub.** Cushion in, water off, two books and the coolest seat in the house.
 
-### 🎨 **Alternative Arts & Crafts**
-
+### 🎨 Alternative Arts & Crafts
 - **Crayon Shavings in the Window.** Shavings on paper on a sunny sill, watched until they slump.
 - **The Paper That Fades.** Keys and a spoon laid on colored paper in the sun for a day, then lifted off.
 - **Foil From One Square.** One square of foil, one animal, no tape and no scissors.
@@ -492,8 +490,7 @@ takes to run.
 - **Chalk on Dark Paper.** A flattened cereal box colored dark, chalk over the top, smudged with a thumb.
 - **The Flip Book.** Ten pages of a stick figure on the corner of an old notepad, thumbed through fast.
 
-### 👶 **Kreston's Turn**
-
+### 👶 Kreston's Turn
 - **The Basket That Goes to the Other Room.** Three soft things in, carried through, tipped out, carried back.
 - **One Step, Then Down Again.** The bottom stair or a firm cushion, up and down with one hand held, twenty times.
 - **Posting the Big Lids.** Palm-sized lids through a slot cut in a shoebox, and nothing smaller than his fist.
