@@ -116,20 +116,6 @@ goes to and carries the jar to the door herself.
 
 ---
 
-### 💛 A Note from Joseph
-
-> The jar goes on the kitchen table Friday and takes a strip every time
-> somebody here does something for somebody else. I am out of the house for
-> most of what would go in it. Some of this book got built so that I would be
-> doing something for the three of you in hours I am not there, and I would
-> rather write that down than leave it sitting under every page. Monday is
-> Martin Luther King Jr. Day and half that pot of soup leaves the house before
-> dinner, so cook it big enough that our half is dinner too. I did not put a
-> lighter afternoon anywhere in these seven days, and by Thursday, with the
-> cookies and the three doorsteps and the cards, I can see that I should have.
-
----
-
 > 👶 **Kreston is 7 months this week**. He reaches across his own body for
 > something sitting on his far side, moves it from hand to hand, and babbles in
 > long strings that run like sentences.
@@ -792,7 +778,7 @@ makes it for her brother.
 - Sort what is left on her shelf into rows and stop there.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she carries her own bag in
+- **Swimming**, and she carries her own bag in
 - Indoor playground if the pool session is canceled
 - The library, a day early, for something to read in the bath
 - A warm café and a window, if the morning has used everybody up

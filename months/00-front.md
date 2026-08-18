@@ -7,17 +7,6 @@
 
 ---
 
-### 💛 Before You Start
-
-> Brooklyn, this is 365 mornings you do not have to invent from nothing. Read
-> the day at 8:00 with your coffee, take the parts that fit, and cross out the
-> rest. There is no curriculum under this and no standard here to fall short
-> of. Some days you will get to 9:15 and stop, and the book still did its job.
-> The plans are mine and the hours are yours, so change anything on the page
-> that does not survive contact with the two of them.
-
----
-
 ## How This Book Works
 
 Each day runs 8:00 in the morning to 6:00 at night on a schedule you can read
@@ -25,15 +14,23 @@ in one glance and then ignore.
 
 - **Prep Tonight sits at the top of every day.** Read it the night before. It
   is the five minutes that keep 9:15 from stalling.
+- **A shopping list opens every week.** Read it the weekend before, not the
+  morning of. A few items say start saving now, which means weeks of
+  recycling rather than a trip to a store.
 - **Two main events.** One at 9:15 for an hour, one at 1:00 for ninety
   minutes. The afternoon either builds on the morning or swings the other way,
   calm after mess, quiet after noise.
+- **Three outings hold the week's shape.** The pool on Tuesdays, the library
+  on alternate Wednesdays, and the museum on the first Saturday of the month.
+  None of them is a booking. The pool is the membership you already have, so
+  Tuesday is the day it fits, not a lesson anybody is expecting you at.
+- **Any of the three can be swapped.** Every day lists four to six other
+  options in the same 2:30 block. Take one, or stay home and keep the hour.
+  The shape of the day survives either way.
 - **One Around the World a week.** It sits in the week's first day: a country,
   how children live there, and one thing to try on the floor at home.
 - **One insight a day**, at the foot of the page, about something Azlyn is
   doing that week.
-- **One note from Joseph a week**, in the week opener, alongside the theme and
-  the shopping list.
 - **No nap.** Azlyn dropped hers, so the day runs straight through, with Quiet
   Play at 4:15 for whoever needs the floor to go still.
 
@@ -82,15 +79,17 @@ outlast the year.
 - **The time capsule.** You seal it on Day 1 with her answers word for word,
   her drawing and one thing off the walk, and you open it on Day 365.
 - **The growth chart.** You mark the wall on Day 1, with everyone in the house
-  on it, and you measure again as the year turns.
-- **The twelve handprints.** Hers and Kreston's on one sheet, one sheet a
-  month. December's pair sit next to January's.
+  on it. The book offers you the frame again in every month after that, so
+  take the ones that suit and skip the rest.
+- **The twelve handprints.** Hers and Kreston's on one sheet, one sheet for
+  each calendar month, twelve by the end of the year. You lay all twelve out
+  together on Day 365, with December's pair next to January's.
 - **The forks.** Hers to set every night at 4:00, from Day 1 onward.
 - **The same walk.** You walk it on Day 1 under bare trees, then walk it again
   each season to see what changed.
 
 [The keepsake tracker](#keepsake) at the back holds the ones that leave
 something behind, with space to write in the dates. The forks leave nothing to
-file, so they keep no page.
+put in a box, so their page is only the record of how the job grew.
 
 <div style="page-break-after: always;"></div>

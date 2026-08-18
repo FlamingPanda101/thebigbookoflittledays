@@ -7,17 +7,6 @@
 
 ---
 
-### 💛 Before You Start
-
-> Brooklyn, this is 365 mornings you do not have to invent from nothing. Read
-> the day at 8:00 with your coffee, take the parts that fit, and cross out the
-> rest. There is no curriculum under this and no standard here to fall short
-> of. Some days you will get to 9:15 and stop, and the book still did its job.
-> The plans are mine and the hours are yours, so change anything on the page
-> that does not survive contact with the two of them.
-
----
-
 ## How This Book Works
 
 Each day runs 8:00 in the morning to 6:00 at night on a schedule you can read
@@ -25,15 +14,23 @@ in one glance and then ignore.
 
 - **Prep Tonight sits at the top of every day.** Read it the night before. It
   is the five minutes that keep 9:15 from stalling.
+- **A shopping list opens every week.** Read it the weekend before, not the
+  morning of. A few items say start saving now, which means weeks of
+  recycling rather than a trip to a store.
 - **Two main events.** One at 9:15 for an hour, one at 1:00 for ninety
   minutes. The afternoon either builds on the morning or swings the other way,
   calm after mess, quiet after noise.
+- **Three outings hold the week's shape.** The pool on Tuesdays, the library
+  on alternate Wednesdays, and the museum on the first Saturday of the month.
+  None of them is a booking. The pool is the membership you already have, so
+  Tuesday is the day it fits, not a lesson anybody is expecting you at.
+- **Any of the three can be swapped.** Every day lists four to six other
+  options in the same 2:30 block. Take one, or stay home and keep the hour.
+  The shape of the day survives either way.
 - **One Around the World a week.** It sits in the week's first day: a country,
   how children live there, and one thing to try on the floor at home.
 - **One insight a day**, at the foot of the page, about something Azlyn is
   doing that week.
-- **One note from Joseph a week**, in the week opener, alongside the theme and
-  the shopping list.
 - **No nap.** Azlyn dropped hers, so the day runs straight through, with Quiet
   Play at 4:15 for whoever needs the floor to go still.
 
@@ -82,16 +79,18 @@ outlast the year.
 - **The time capsule.** You seal it on Day 1 with her answers word for word,
   her drawing and one thing off the walk, and you open it on Day 365.
 - **The growth chart.** You mark the wall on Day 1, with everyone in the house
-  on it, and you measure again as the year turns.
-- **The twelve handprints.** Hers and Kreston's on one sheet, one sheet a
-  month. December's pair sit next to January's.
+  on it. The book offers you the frame again in every month after that, so
+  take the ones that suit and skip the rest.
+- **The twelve handprints.** Hers and Kreston's on one sheet, one sheet for
+  each calendar month, twelve by the end of the year. You lay all twelve out
+  together on Day 365, with December's pair next to January's.
 - **The forks.** Hers to set every night at 4:00, from Day 1 onward.
 - **The same walk.** You walk it on Day 1 under bare trees, then walk it again
   each season to see what changed.
 
 [The keepsake tracker](#keepsake) at the back holds the ones that leave
 something behind, with space to write in the dates. The forks leave nothing to
-file, so they keep no page.
+put in a box, so their page is only the record of how the job grew.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-january"></a>
@@ -233,17 +232,6 @@ week runs on cardboard.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Brooklyn, this is the first page of the first week. The book is me handing
-> you something at 8:00 in the morning so you don't have to invent a whole day
-> from nothing while a six-month-old chews your sleeve. Treat it as a menu.
-> Skip what doesn't fit, cross things out. Some days you will not open it at
-> all, and those days count too. I know exactly how long these hours are, and
-> I know I am not the one in them.
-
----
-
 > 👶 **Kreston is 6 months this week**. He sits propped with his hands free for
 > short stretches, mouths everything he can reach, and starts rocking on hands
 > and knees by the end of the week. **He turns 7 months on Tuesday the 5th.**
@@ -309,16 +297,16 @@ week runs on cardboard.
 
 Bundle up and walk the route you will walk all year. Look at the trees today,
 bare and sleeping, all structure and no leaves, the same thing she has been
-stacking all morning. Hand her a paper bag and one instruction: find one thing
-worth keeping. It goes in the capsule this afternoon, so tell her that now.
+stacking all morning. Stop under the biggest tree on the route and take one
+photograph from where you are standing. Three more come from this spot this
+year. Hand her a paper bag and one instruction: find one thing worth keeping.
+It goes in the capsule this afternoon, so tell her that now.
 
-> 👶 **Infant Integration:** Kreston is 6 months and sits propped, hands free
-> for short stretches. Put a cushion behind him and give him his own cardboard
-> tube and one paper cup on the floor near the building. He will bang, mouth
-> and drop them, running the same investigation Azlyn is running with the
-> tower. On the walk, wear him facing out. He is alert enough now to take in
-> the street, and cold air on his cheeks is a new sensation. Name three things
-> you pass out loud.
+> 👶 **Infant Integration:** Put a cushion behind Kreston and give him his own
+> cardboard tube and one paper cup on the floor near the building. He will
+> bang, mouth and drop them, running the same investigation Azlyn is running
+> with the tower. On the walk, wear him facing out. The street and the cold air
+> on his cheeks are new to him. Name three things you pass out loud.
 
 <div style="page-break-after: always;"></div>
 
@@ -897,7 +885,7 @@ and the thirty she cut are the whole supply.
 - Sort the bricks by size into rows and stop there.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one and the first of fifty-two
+- **Swimming**, the first pool trip of the year on the membership you already have
 - Indoor playground if the pool is shut for the holidays
 - The library, a day early
 - A warm café and a window, if nobody has the energy
@@ -1296,20 +1284,6 @@ writes about Kreston. Back those up before Thursday.
 - [ ] A watch for the rhyme bag
 - [ ] A hat each
 - [ ] Your phone, with room on it to record
-
----
-
-### 💛 A Note from Joseph
-
-> Second week, and the house goes loud. I wrote Monday in about twenty
-> minutes, a saucepan taped to the floor and two wooden spoons, and at no
-> point did I think about what that room sounds like at 9:40 with a baby in
-> it. Tuesday afternoon she makes up a verse about her brother and you record
-> it in one take. Send me that one the day it happens, while it is still
-> Tuesday. Friday's whisper verse sits after the loud one because I wanted
-> something quiet on the other side of it. The scarf that afternoon means a
-> three-year-old decides when everything in the room gets louder, and I am the
-> one who handed her the scarf.
 
 ---
 
@@ -1976,7 +1950,7 @@ brother.
 - Sing the old words in four voices and let her pick a winner.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she can sing in the changing room
+- **Swimming**, and she can sing in the changing room
 - Indoor playground if the pool is shut or the line is out the door
 - The library, a day early
 - A warm cafe and a window, if nobody has the energy for a pool
@@ -2388,20 +2362,6 @@ goes to and carries the jar to the door herself.
 - [ ] The sock basket, left unsorted until Monday
 - [ ] Three people lined up for Wednesday's phone calls
 - [ ] Your phone, charged, for one song on Friday and one on Saturday
-
----
-
-### 💛 A Note from Joseph
-
-> The jar goes on the kitchen table Friday and takes a strip every time
-> somebody here does something for somebody else. I am out of the house for
-> most of what would go in it. Some of this book got built so that I would be
-> doing something for the three of you in hours I am not there, and I would
-> rather write that down than leave it sitting under every page. Monday is
-> Martin Luther King Jr. Day and half that pot of soup leaves the house before
-> dinner, so cook it big enough that our half is dinner too. I did not put a
-> lighter afternoon anywhere in these seven days, and by Thursday, with the
-> cookies and the three doorsteps and the cards, I can see that I should have.
 
 ---
 
@@ -3067,7 +3027,7 @@ makes it for her brother.
 - Sort what is left on her shelf into rows and stop there.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she carries her own bag in
+- **Swimming**, and she carries her own bag in
 - Indoor playground if the pool session is canceled
 - The library, a day early, for something to read in the bath
 - A warm café and a window, if the morning has used everybody up
@@ -3459,21 +3419,6 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 - [ ] A pillowcase or a tote bag
 - [ ] Mixed objects and toys for the sorting basket, 20–30
 - [ ] A printed photo of her, in case the drawing does not happen
-
----
-
-### 💛 A Note from Joseph
-
-> Thursday's maze stays taped to the floor through dinner, so I come in at six
-> and get walked into three dead ends with my bag still on my shoulder, and she
-> is the one telling me which corner is a wall. Tuesday she sorts the whole
-> silverware drawer and it stays sorted, and I find that out by opening it for a
-> fork. Saturday my name is on the back of one of the five puzzle pieces, and
-> mine is the piece missing from the table when she gathers them in at two.
-> Kreston has started running long strings of bababa with the shape of sentences
-> in them, and he leaves a pause at the end of each one. I answered into those
-> pauses for about four minutes last week before I worked out that he was taking
-> turns with me.
 
 ---
 
@@ -4538,22 +4483,6 @@ long at eleven in the morning.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Monday afternoon she lays a trail of flour across the floor for me and tapes
-> the arrow cards up at my eye height. Lights down at six, a flashlight in my
-> hand at the door, and for that hour the thing I planned and the thing I am
-> standing in are the same thing. There is no other hour like it in the month.
-> The morning trail goes down the night before behind a shut door, so she gets
-> the flour twice on the same day and the broom comes out after both. Saturday's
-> tour comes to me as one recording with no retakes, and the parts where she is
-> wrong about who lives in the roots are the parts I will play twice. The four
-> animals get their names written on the base on Friday, and by Sunday she is
-> shifting them round the tray to keep them out of the rain she makes with a
-> spray bottle.
-
----
-
 > 👶 **Kreston is 7 months this week**. He reaches across his body for things
 > set out to one side, passes them from hand to hand, and babbles in long
 > strings that carry the rhythm of sentences and none of the words. **He turns
@@ -5210,7 +5139,7 @@ feeder that has moved, so build her somewhere to sit and wait.
 - Put crumbs on the windowsill and watch the sill instead.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The quiet hour, if the after-school crowd is in
 - Indoor playground if the pool is shut
 - A warm café and the new binoculars, aimed at the pigeons
@@ -6190,23 +6119,6 @@ walks a round she scouted that morning, and hands it over at four front doors.
 
 ---
 
-### 💛 A Note from Joseph
-
-> February is the month I have least to offer. The oven is on four days out
-> of seven, and Kreston picked the first day of this week to turn eight
-> months and start crawling, so the floor is a new problem on top of the hot
-> trays. The day I keep thinking about is Wednesday, where the whole outdoor
-> hour is one slow lap of the block at her pace and the light is gone by
-> five. Some of these days are going to be flat the whole way down, and I
-> have not put anything in this book that fixes that. Saturday her own
-> recipe goes onto the shelf with the real cookbooks at her height, in her
-> words and her order, and by Thursday morning she opens it and finds the
-> word butter on her own. That book is still going to be on that shelf when
-> she can read every word in it. You will give it to me at six and it will
-> sound better than the day was.
-
----
-
 > 👶 **Kreston is 8 months this week**. He crawls or shuffles, brings two
 > objects together to bang them, and checks your face before he decides what a
 > new thing is for. **He turns 8 months on Friday the 5th, the first day of the week,
@@ -6881,7 +6793,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 - Butter on toast, jam on top, nothing else asked of anyone.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The indoor play center, if the school lessons have the pool
 - The library a day early, for a book with bread in it
 - A warm café and a window seat
@@ -7306,22 +7218,6 @@ else. The rest of the week runs on paper, flour and tape.
 - [ ] 6 books she can carry from one room to another
 - [ ] A shopping bag or a basket
 - [ ] The postal address for Wednesday's parcel, written out large
-
----
-
-### 💛 A Note from Joseph
-
-> Saturday she cuts a letter full of holes, signs it with five dots instead
-> of her name, and then stands in the kitchen while three people hunt for
-> theirs. She is three years old and the whole game rests on her giving
-> nothing away. My guess is she cracks before the second person has found
-> one, and I would like to be wrong about it. Tuesday she builds a plate for
-> every person in the house and decides what goes on each one, so somebody
-> is getting nine cucumber sticks and no bread. Thursday there is a key
-> drawn on a wooden spoon because a key stands for a home, and she will have
-> her own reason for putting it there that has nothing to do with homes.
-> Sunday is the fourteenth and there will be eight cards glued crooked, a
-> few of them for me.
 
 ---
 
@@ -7999,7 +7895,7 @@ the one carrying it in.
 - Picnic on the stairs, if the floor is under something else.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The pool's quiet session, if Tuesday afternoons are chaos right now
 - A warm bath at home with cups and pitchers, if the pool is shut
 - The library on the way home, half an hour before it shuts
@@ -8361,7 +8257,8 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] A shoebox with a lid
 - [ ] A larger box with one wide slot, for Kreston
 - [ ] A cereal box or stiff card, for the loom
-- [ ] Thick card, 10 sheets, for portraits, labels and tickets
+- [ ] Thick card, 11 sheets, for the February handprint, the portraits, the labels and the tickets
+- [ ] A pencil, if you are taking the door-frame marks this month
 - [ ] Junk mail, catalogs and magazines (start saving now)
 - [ ] Colored paper, if you have it
 - [ ] A large sheet for the garden: the back of wrapping paper or a flattened box
@@ -8421,24 +8318,7 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] An empty wipes box and a burp cloth, for Kreston
 - [ ] A hand mirror
 - [ ] A flashlight with fresh batteries
-- [ ] A towel for the sink, and old clothes for the mud
-
----
-
-### 💛 A Note from Joseph
-
-> My old blue shirt is the apron on Friday. It has sat folded in the bottom
-> of the closet doing nothing for two years, so whatever comes back on it is
-> an improvement and nobody has to get it clean. There is no green in the
-> house that morning until she makes some, and she names all six colors she
-> mixes, so the rest of the week runs on mud and sunset and dark. Sunday
-> afternoon there is a ball of salt dough for every person in this house,
-> and one of them gets built into a face of me out of lentils and yarn by
-> somebody who last saw me at breakfast. Thursday she seals a guess under
-> the cookie plate about which picture on that wall I am going to pick, and
-> my own guess is that she names her favorite and gets a surprise off me at
-> six. Kreston has a ticket to the gallery and it will be in his mouth
-> before the tour reaches the second wall.
+- [ ] A towel for the sink, a washcloth for Kreston's hands, and old clothes for the mud
 
 ---
 
@@ -8819,15 +8699,20 @@ changed thirty times.
 - Yarn or string cut into short lengths for hair
 - 1 dinner plate each as a work surface
 - 1 table knife
+- Washable paint and a wide brush
+- 1 sheet of thick card for the February handprint
+- 1 wet washcloth
+- 1 permanent marker
+- 1 pencil, if you are marking the door frame this month
 
 **📝 Step-by-Step Instructions:**
-1. Flour and salt in the bowl, oil in, then water in stages while she stirs. Wet dough takes another handful of flour, and she decides when it stops sticking.
-2. Knead it on the table for five minutes between you. It goes from claggy to smooth and she will feel the moment it turns.
-3. Split it into balls, one for each person in the house. She flattens each into a round the size of her palm on its own plate.
-4. Put the pasta, lentils, beans, buttons and yarn out in separate piles where she can see them all at once.
-5. One plate at a time, and ask who it is before she starts. A named face gets eyebrows and hair. An unnamed one gets a handful of lentils.
-6. Photograph the finished set, then let her squash one flat and rebuild it as somebody else.
-7. Bag the leftover dough. It keeps a week in the fridge, and the faces dry hard on a windowsill in two or three days.
+1. Card and paint first, while her hands are clean. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **February** and **3** beside it. Second of twelve.
+2. Do Kreston's on the same sheet while he is calm, washcloth already in your hand, and **8 months** beside his. If February is a month you want on the door frame, take both marks in pencil now while they are standing still, with the name and the date beside each.
+3. Wash her hands, then flour and salt in the bowl, oil in, water in stages while she stirs. She decides when it stops sticking. Knead it on the table for five minutes between you, claggy to smooth.
+4. Split it into balls, one for each person in the house. She flattens each into a round the size of her palm on its own plate.
+5. Put the pasta, lentils, beans, buttons and yarn out in separate piles where she can see them all at once.
+6. One plate at a time, and ask who it is before she starts. A named face gets eyebrows and hair. An unnamed one gets a handful of lentils.
+7. Photograph the finished set, let her squash one flat and rebuild it as somebody else, then bag the leftover dough. The faces dry hard on a windowsill in two or three days.
 
 > 💡 **Tip:** Give her the yarn last. Hair is the part she will spend twenty minutes on, and it goes on better once the eyes and mouth have settled.
 
@@ -9108,7 +8993,7 @@ kitchen has any right to be.
 - Thread buttons onto a shoelace.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The indoor play center if the pool session is canceled
 - The library, a day early
 - A warm café and a window, when nobody has it in them
@@ -9507,22 +9392,6 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 - [ ] Paperclips or matchsticks, 2
 - [ ] A small rigid pot with a lid, for Kreston's own lump of dough
 - [ ] Your phone, charged, for the six faces, the sour face and the family photo
-
----
-
-### 💛 A Note from Joseph
-
-> She gets drawn round at life size on Friday, then goes out and stands her
-> back against a lamp post and a mailbox to find out which of them she
-> beats. The whole week runs on her measuring herself against whatever is
-> nearest, and for ten hours a day what is nearest is you. Monday is the
-> March handprint, third of twelve, and the January one is still the only
-> one I have watched go onto the card. Tuesday she builds all four of us out
-> of dough and every one of us has to stand up on the tray without help.
-> Kreston goes up on the first try, being a head and a body and no legs
-> worth speaking of, and the tall ones fall over most, so I expect to spend
-> that afternoon on my back on a tray. February ends inside this week and I
-> am not sorry about it.
 
 ---
 
@@ -10170,7 +10039,7 @@ on the tray without falling over.
 - Build only Kreston, twenty times, because that is where she is.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she gets herself changed this year
+- **Swimming**, and she gets herself changed this year
 - The indoor play center if the session is booked out
 - The library, a day early
 - A long bath at home and an early dinner, if the morning ran hot
@@ -11150,22 +11019,6 @@ wobbly video are what is left of the week.
 
 ---
 
-### 💛 A Note from Joseph
-
-> She copies a giant 100 onto the side of a barbell made out of two cereal
-> boxes and a broom handle on Monday, and the whole thing weighs about as much
-> as a loaf of bread. Wednesday she cuts the tickets for the show and numbers
-> them, and the numbers go wherever she thinks they go. Thursday the tent comes
-> down and the barbell goes out with the recycling, so the poster with her
-> drawn on it as the star is what the week leaves in the house. The part I
-> would buy a ticket for is Friday afternoon, Kreston propped in the tent
-> doorway with a parade of teddies coming down the hall at him. He turns nine
-> months that morning and waves at anything that waves first, so a line of
-> bears steered by his sister is the biggest thing that has ever happened to
-> him.
-
----
-
 > 👶 **Kreston is 9 months this week**. He pulls himself up on anything that
 > holds still, picks a paper strip off the floor with finger and thumb, and
 > waves at everything that waves first. **He turns 9 months on Friday the 5th.**
@@ -11834,7 +11687,7 @@ comes next before it can be funny to anybody but her.
 - Photograph her pulling each of the four faces and stick them on the fridge.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The indoor play center, if the pool is closed for a school session
 - The library, a day early
 - Ten minutes at the park on the way back, no longer
@@ -12256,18 +12109,6 @@ days before Wednesday needs it.
 - [ ] A flashlight
 - [ ] A stick or a pencil to prop the trap
 - [ ] Rain boots, a coat and rain gear
-
----
-
-### 💛 A Note from Joseph
-
-> Wednesday is the one I got wrong on paper. The trap stands in the corner
-> from breakfast, the oven runs for forty minutes in the afternoon, and a
-> nine-month-old has worked out that the oven door is the right height to
-> pull up on. Those three sat in separate boxes while I was planning them
-> and they will not sit in separate boxes in your kitchen. Buy the loaf if
-> the loaf is what gives. The cress pays out on Thursday either way, and she
-> is the one holding the scissors for it.
 
 ---
 
@@ -12949,7 +12790,7 @@ This one gets made on the sofa.
 - Sort the magazine pages into color piles and leave it at that.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The shallow end and nothing more, if she is running out
 - The indoor play center, if the pool is shut for a school session
 - A café with the swim bag still in the car
@@ -12969,9 +12810,9 @@ This one gets made on the sofa.
 > it. A paper chain on the sofa with you sitting beside her does more for Azlyn
 > than an ambitious project you come to resent halfway through, because she
 > reads your state long before she reads the activity. Children take their cue
-> from the adult running it. I wrote the plan on a full night of sleep, and
-> it shows. Cross out the hard one, keep the snack and the walk, and let a
-> low day be a low day. The windowsill grows without either of you watching it.
+> from the adult running it. The plan on this page came off a full night of
+> sleep, and it shows. Cross out the hard one, keep the snack and the walk,
+> and let a low day be a low day. The windowsill grows without either of you watching it.
 
 > ⚠️ **Safety:** Bare skin comes off the block after the first minute, and it
 > never goes against her face. The salt dish stays with you between spoonfuls.
@@ -13354,23 +13195,6 @@ on it, and the rest of it runs on odd socks, dried beans and masking tape.
 - [ ] One outfit Azlyn wore as a baby, if you still have one
 - [ ] Dried grass, moss and thin twigs (gather these on the walks)
 - [ ] A few feathers if you come across any
-
----
-
-### 💛 A Note from Joseph
-
-> The letter she mails on Thursday is addressed to the Kreston of next spring,
-> with his length off the tape measure at the top of it, her account of what he
-> is like now in her own words, and her drawing of him on the second sheet. It
-> comes back through the door in a day or two, takes OPEN MARCH 2028 across the
-> front, and goes in a drawer, so a three-year-old at a mailbox has booked the
-> two of us something for March 2028. The day before that she crosses a room on
-> her hands and knees at his height with a flashlight, and every small thing
-> that comes out from under the sofa gets held against her own mouth to decide
-> whether it would fit in his. Her mouth is the only ruler she has for that
-> job, and it is a fair piece of thinking for three. Saturday is the equinox,
-> the day and the night the same length, and everything after it leans toward
-> the light.
 
 ---
 
@@ -14021,7 +13845,7 @@ for every little toy in the house.
 - Sort the walk bag by type, then by feel.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she goes in first this time
+- **Swimming**, and she goes in first this time
 - The indoor play center if the pool is closed for lessons
 - The library on the way home for a book about birds
 - The park while her hair dries, if the sun holds
@@ -14427,20 +14251,6 @@ and the paper bin set up on Friday stays out until somebody needs the tub back.
 - [ ] Eight things to sink or float (a cork, a stone, a plastic lid, an orange)
 - [ ] A clean burp cloth and 2 wooden spoons for Kreston
 - [ ] Your phone, charged, for the photo finish, the sill and the line down the hall
-
----
-
-### 💛 A Note from Joseph
-
-> April 1 falls on Thursday, and I am the mark. Three tricks get built at a
-> quarter past nine in the morning: a plate of playdough dinner under a dish
-> towel at my place, a ball of paper pushed into the toe of each shoe, and a
-> drawing of my mug taped inside the cupboard with the real one behind the
-> cereal. Then she sits on all three until six, which is a long day to hold a
-> secret at three years old. My guess is she cracks on the doorstep, gives me
-> the shoes first, and forgets the mug until dinner. All three get me anyway,
-> and APRIL 1 goes on the back of that paper plate, so this is now a thing we
-> do every year.
 
 ---
 
@@ -15117,7 +14927,7 @@ three ways without cracking one open.
 - Salt water in the bath for a bath toy that refuses to sink.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and try her on her back with your hand under her head
+- **Swimming**, and try her on her back with your hand under her head
 - The indoor play center if the pool is shut for the holidays
 - The library, a day early
 - A warm café afterwards with her hair still wet
@@ -16116,22 +15926,6 @@ shelf beside the January time capsule.
 
 ---
 
-### 💛 A Note from Joseph
-
-> My mark from New Year's Day is still up on that door frame near the top,
-> and on Monday two new ones go under it, her April line and Kreston's first.
-> Three months between her January mark and this one, about two fingers wide,
-> and she will put her thumb in that gap and ask about it all week. Saturday
-> is twelve of the cheapest eggs in the store and one rule, which is that the
-> shells go in the bowl. I put that day in on purpose. She has had be careful
-> out of me all winter, and one morning of the opposite squares it up a
-> little. Friday she answers a question about the best thing about her
-> brother and it goes into an envelope until the last day of December, so the
-> version of her that answers it will be nine months gone by the time either
-> of us reads it back.
-
----
-
 > 👶 **Kreston is 9 months this week**. He pulls to stand on anything at knee
 > height, picks up single small things between finger and thumb, and waves at
 > every face he passes. **He turns 10 months on Monday the 5th**, and starts
@@ -16227,7 +16021,7 @@ months on, she answers a second set of questions and they go up beside it.
 - Your phone, to photograph the answers
 
 **📝 Step-by-Step Instructions:**
-1. Show her the sealed box on the shelf first, and remind her when it goes back down.
+1. Show her the sealed box on the shelf first, and tell her when it comes back down.
 2. One question per sheet, written across the top in pencil: favorite color, favorite food, best thing about Kreston, what she wants to do when it gets warm.
 3. Write her answer underneath **word for word**. If she gives you a story instead of an answer, take the story.
 4. Read all four back to her in her own words and let her correct you.
@@ -16641,22 +16435,22 @@ January's handprint sheet has been on the wall since Day 1. April's goes up
 next to it, and Kreston gets his first line on the door frame today.
 
 **🧰 Complete Materials List:**
-- Thick card, 2 sheets
+- Thick card, 1 sheet
 - Washable non-toxic poster paint
 - 1 wide soft brush
 - 1 wet washcloth in a shallow bowl
 - 1 pencil and 1 measuring tape
 - 1 permanent marker
-- Poster putty, for putting both cards up
+- Poster putty, for putting the card up
 - January's handprint sheet, for the comparison
 
 **📝 Step-by-Step Instructions:**
-1. Paint her palm with the wide brush rather than dipping her hand. Press flat on the first card, count to three, lift straight up. Write **April** and **3** in marker.
-2. Kreston next on the second card, while he is calm and the washcloth is in your hand. Write **April** and **10 months**.
+1. Paint her palm with the wide brush rather than dipping her hand. Press flat on the left of the card, count to three, lift straight up. Write **April** and **3** in marker.
+2. Kreston next on the same card beside hers, while he is calm and the washcloth is in your hand. Write **10 months** under his.
 3. Both of them against the door frame. Mark with the pencil, run the measuring tape from the floor and write the number and date on the wall. His first line lands four below hers.
 4. Lay January's sheet next to April's and let her put her hand on both prints. She will do it twice.
 5. Find January's pencil mark on the door frame and put her thumb on the gap. Three months, about the width of two fingers.
-6. Both cards go up on poster putty somewhere she passes, not into a drawer.
+6. The card goes up on poster putty somewhere she passes, not into a drawer.
 
 > 💡 **Tip:** Do her print first while your hands are clean, and keep the wet washcloth in the bowl beside you the whole time you are doing Kreston's.
 
@@ -16797,7 +16591,7 @@ on the outside.
 - Sort the paper eggs from this morning by size again, then by bird.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and try her floating on her front with your hand under her chin
+- **Swimming**, and try her floating on her front with your hand under her chin
 - Indoor playground if the pool is closed for a school session
 - The library, a day early
 - A café with wet hair and something warm
@@ -17209,20 +17003,6 @@ of it at breakfast.
 - [ ] Stones, a handful
 - [ ] The silly objects: a fork, a sock, a toy car, a button, a brick from her blocks
 - [ ] Kreston's cup
-
----
-
-### 💛 A Note from Joseph
-
-> You told her last Tuesday that an ostrich is taller than me, and her answer
-> got to me at nine at night, secondhand, with her already asleep. I laughed
-> at it in an empty kitchen. Monday is the day the week stops being serious:
-> a fork planted in a cup of newspaper, weeds named wrong along the wall, and
-> you keeping a straight face through the lot of it. Her sentences go into
-> that booklet the way they arrive, wrong grammar and all, because that is
-> the part that goes first. The afternoon list on Monday says you can phone
-> me and let her tell me what grew, and if the day has come apart by then,
-> use it. I will pull over.
 
 ---
 
@@ -17871,7 +17651,7 @@ afternoon she is the plant, at her own speed.
 - Play it to music with no words, and let her choose the track.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she goes in with one thing to try
+- **Swimming**, and she goes in with one thing to try
 - Indoor playground, if the pool has a lesson block on
 - The park on the way home, with wet hair under a hat
 - The library, a day early, if swimming falls through
@@ -18181,7 +17961,7 @@ on the floor.
 
 Seven days of working out who else lives on this street. Azlyn tallies what
 goes past the window and tapes the animals back onto the glass, measures a
-tree she comes back to in July, tests which coat a duck would wear, dams a
+tree with a length of string, tests which coat a duck would wear, dams a
 roasting pan until it bursts, tears every newspaper in the house into a
 grassland deep enough to lie in, and colors twelve lizards to vanish on
 twelve surfaces. One question sits under all of it: **what lives here, and
@@ -18192,9 +17972,8 @@ one stretch of sidewalk and one bag, photographed from the same spot before
 and after, with the number of pieces counted out loud as they drop in. The
 afternoon gives a corner of the garden away and leaves it alone until
 Christmas. Three things outlast the week: the tree string, dated and taped up
-the wall beside the growth chart until you cut the next one in July, the
-paper animals in their soap tree at the window, and the wild corner with her
-name on a craft stick in front of it.
+the wall beside the growth chart, the paper animals in their soap tree at the
+window, and the wild corner with her name on a craft stick in front of it.
 
 ---
 
@@ -18275,22 +18054,6 @@ name on a craft stick in front of it.
 - [ ] A craft stick
 - [ ] The growth chart wall from Day 1, for Saturday's strings
 - [ ] Your phone, charged, for the tree, the litter and the wild corner
-
----
-
-### 💛 A Note from Joseph
-
-> Saturday she names a tree and the name sticks, which means the rest of us
-> spend the year using it out loud in front of other people. Kreston goes up
-> on the same wall that afternoon, flat along the baseboard with a string run
-> heel to head, and it takes three tries to get one, because he has no
-> interest in holding still for it. Friday the paper animals go into a soap
-> tree on the window facing out at the street, so anyone walking past gets
-> the fronts and she gets the backs. Monday she has to name a number of
-> pitchers before the first pour, and her own dam settles it in front of her.
-> Thursday the corner of the garden gets a craft stick with her name on it
-> and then nothing else until Christmas, which is the one thing in these
-> seven days that works by being left alone.
 
 ---
 
@@ -18502,14 +18265,14 @@ Kenya.
 - Your phone
 
 **📝 Step-by-Step Instructions:**
-1. Walk until she picks a tree, even when it is the scruffy one by the trash cans. Keep it close, because you come back in July, September and December.
+1. Walk until she picks a tree, even when it is the scruffy one by the trash cans. Whichever one she stops at is the one, and you measure that one.
 2. Pick a landmark on the trunk at her shoulder height: a fork, a knot, the top of the ivy. Say it out loud so you both have it. Wrap the string round the trunk at that mark, bring the ends together and cut.
 3. Write the date and the landmark on a strip of tape in permanent marker, wrap it round one end of the string, and fold the string into the bag.
 4. Tape a sheet of paper to the bark and rub a crayon flat across it until the pattern comes through. Do a second where the bark changes.
 5. Name the tree. Whatever she says is the name, and you use it from now on.
-6. Photograph her with both arms round the trunk. The same photograph happens three more times this year.
+6. Photograph her with both arms round the trunk, and let her decide how far round she can reach before you take it.
 
-> 💡 **Tip:** Tape on wet bark is gone by June, so the landmark on the flag is what brings you back to the same spot. A trunk is narrower higher up, and she will be taller in July, so measuring at her new shoulder height will tell you the tree shrank.
+> 💡 **Tip:** A trunk is narrower the higher you go, so the landmark you both said out loud matters more than the height of her shoulder. Write it on the flag in the words she used and the string means something a year from now.
 
 ### 🌳 Get Outside: Ten Minutes Looking Up
 
@@ -18546,7 +18309,7 @@ else in the house gets a string beside it.
 4. Tape every string flat up the wall side by side, all starting on the floor, nothing hanging and no loops.
 5. Read the wall with her, shortest to longest, then let her reorder them and leave whatever she lands on.
 6. Measure yourself last and let her mark on your string where hers reaches.
-7. Leave the tree string up until July, when you cut the next one and hang the two together.
+7. Leave the tree string up on the wall. It is the one thing going up there that is not going to change, and everything beside it will.
 
 > 💡 **Tip:** Cut each string a hand longer than the thing you measured. She pulls them off the wall to hold two side by side, and one cut to length loses a centimeter going back up.
 
@@ -18575,12 +18338,13 @@ else in the house gets a string beside it.
 > **Recovery days are the right time to start something slow.**
 > Saturday after a full week is when you have the least left, and it is the
 > right day to start a thing that takes a year. Measuring a tree costs nine
-> minutes and returns nothing today. In July she holds this morning's string
-> against a trunk that has outgrown it, and the gap does the teaching without
-> you saying a word. Slow threads survive because they ask almost nothing on
-> any single day: one string, one date, one photograph. You can skip a month
-> of it and lose nothing, which is why this one survives a bad July. Azlyn
-> cannot hold a year in her head at three, so the string holds it for her.
+> minutes and returns nothing today, and it goes up on the wall anyway, where
+> she will walk past it for months. Slow work survives because it asks almost
+> nothing on any single day: one string, one date, one photograph. The string
+> sits beside her own pencil marks, and the two make the same point from
+> opposite directions. Hers moves up the frame. The tree's
+> stays where she put it. Azlyn cannot hold a year in her head at three, so
+> the wall holds it for her.
 
 > ⚠️ **Safety:** Cut string is a strangulation risk and Kreston is 10 months
 > and pulling up on everything. Tape each string flat to the wall along its
@@ -18966,7 +18730,7 @@ animal in the house comes to it.
 - Take the flashlight and the animals under the dining table.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The park, if the session is canceled
 - Indoor playground, if it is streaming down
 - The duck pond, and count who comes to the water
@@ -19255,11 +19019,12 @@ You give one corner of the garden back and leave it alone until Christmas.
 > The wild corner does nothing today. Azlyn piled sticks into it and walked
 > away, and everything worth having sits three months out. Children under four
 > hold almost no sense of a season, and they build one by returning to the
-> same spot and finding it changed. Photograph the corner, date the picture,
-> and go back in July with it in your hand. She will not remember it. She will
-> recognize it, which is a different thing and enough at three. The picture
-> goes into her hands when you go back, and she finds the difference herself.
-> The tree you measured on Saturday works the same way.
+> same spot and finding it changed. Photograph the corner and date the
+> picture, then take her back to it on any morning you think of it, with the
+> picture in her hand. She will not remember the corner. She will recognize
+> it, which is a different thing and enough at three, and she finds the
+> difference herself. Her own pencil marks on the door frame work the same
+> way, and she checks those without being asked.
 
 > ⚠️ **Safety:** Litter picking means broken glass, cans, dog mess and
 > needles. Tongs and gloves only, never bare hands, and you pick up anything
@@ -19375,23 +19140,6 @@ the year, and it wants a walk past and a bag every week from here.
 - [ ] A book and a soft toy to practice wrapping on
 - [ ] Gardening gloves, and two bags for Monday: one for litter, one for petals
 - [ ] A bag of glass jars and bottles for the bottle bank
-
----
-
-### 💛 A Note from Joseph
-
-> Monday she puts her hands into a bowl of warm water full of torn junk mail
-> and the print comes off on her fingers, which is the closest thing to magic
-> in the week and costs nothing. Tuesday the cap jar gets tipped onto a
-> tray, and if it comes out at sixty, the button tin makes up the rest and
-> nobody is any the wiser. Wednesday is the day I would keep if the other six
-> went out with the recycling: four jars, an apple core pressed flat against
-> the glass, and her guess about what will still be in there at Christmas
-> written down in your handwriting. Thursday she digs worms out from under a
-> flowerpot, builds them a tower of soil and sand in a cut bottle, and puts
-> them back in the same patch before dinner, which is more courtesy than most
-> people manage. Saturday is a cardboard truck driven through every room at
-> volume for ninety minutes, and I will be at work, which is the quieter job.
 
 ---
 
@@ -20054,7 +19802,7 @@ colors.
 - Make a caps trail across the floor and follow it on hands and knees.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - Indoor playground if the pool session is canceled
 - The library a day early, for something quiet after a counting morning
 - The park, if the water has been swapped for sunshine
@@ -20472,24 +20220,11 @@ out inside the week at all, so tell her that on Monday and again on Thursday.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Kreston turns eleven months on Wednesday and gets himself to the table edge
-> on his own feet now, which I did not account for when I filled this week
-> with small wet things on trays: snails, pebbles, seed balls, a bowl of
-> flour. If Monday ends up on the floor, put the flour away and take her out
-> after one bumblebee, and count that as the whole day. Tuesday two snails
-> come indoors on a paintbrush and get names, and they will be handled better
-> than anything else in this house. Friday makes three jars of perfume and
-> there are four of us. Mine is the one that does not get made.
-
----
-
 > 👶 **Kreston is 10 months this week**. He cruises the furniture, points at
 > whatever he wants named, and understands *no* well enough to stop for a
 > second before carrying on. **He turns 11 months on Wednesday the 5th**, lets
-> go of the sofa to stand on his own, and a first word is possible from here,
-> so listen for half a one and say it back whole.
+> go of the sofa to stand on his own. He babbles in long strings with the tune
+> of a sentence in them, so answer the tune and leave him a gap.
 
 ---
 
@@ -21156,7 +20891,7 @@ Two snails from the morning hunt get an afternoon as guests.
 - Wet a paving slab and see what comes out from under the pot.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the pool is quiet on a Tuesday
+- **Swimming**, and the pool is quiet on a Tuesday
 - The park on the way home, if the pool session is short
 - Indoor playground, if the pool is shut for maintenance
 - A splash in the yard with the tray and the hose instead
@@ -21251,9 +20986,9 @@ than working from the path.
 
 > 👶 **Infant Integration:** **Kreston turns 11 months today.** He lets go of
 > the furniture and stands on his own for a second or two before sitting down
-> hard, and he runs that experiment all morning. Put him on grass for it. A
-> first word comes out as half a word, so listen on the walk and say it back
-> to him whole.
+> hard, and he runs that experiment all morning. Put him on grass for it. He
+> answers your voice with his own noise on the walk, so leave a gap after
+> everything you say to him.
 
 <div style="page-break-after: always;"></div>
 
@@ -21991,7 +21726,8 @@ shopping, and nothing here takes longer to set up than it takes to do.
 > June 5**, two days after the booklet closes. He lets go of the furniture and
 > stands alone for a few seconds before he sits back down. He hands you things
 > on purpose and waits for you to take them, and he follows a one-step
-> instruction like *drink* before he can say it back. A first word is close.
+> instruction like *drink* before he can say it back. He takes in a good deal
+> more than he gives back.
 
 > 🧒 **Azlyn this month:** She is three all month. She stays three until
 > December 20.
@@ -22119,25 +21855,9 @@ hold April's sheet up beside it and put both back on the wall.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Sunday comes to a tray, six questions and a card with two handprints on it,
-> which is about forty minutes of work. The part of it I can hand you is the
-> ninety after lunch, when the kitchen door shuts with both of them on my side
-> of it, and that is one afternoon out of fifty-two. Saturday she stands guard
-> over a plate in the fridge, and on Tuesday she wrings a grated zucchini out
-> over the sink because nothing gets thrown away in this house, which is a
-> rule she took off you on days I was at work. The book writes that down after
-> the fact and puts it on a shopping list as though it thought of it. Give me
-> the six answers in your own words and I will copy them onto the card without
-> straightening one of them. If Sunday falls apart, the handprints take ten
-> minutes and the rest of it can go.
-
----
-
 > 👶 **Kreston is 11 months this week**. He stands alone for a second or two
-> before he sits down hard, cruises anything at hip height, and first words
-> are close. Answer whatever noise he makes at a plate as if it were one.
+> before he sits down hard, cruises anything at hip height, and babbles in
+> strings all day. He stops when you start, which is him taking his turn.
 
 ---
 
@@ -22208,8 +21928,8 @@ it.
 > 👶 **Infant Integration:** Kreston is 11 months and stands alone for a second
 > or two before he sits down hard. He wants the camera because you want the
 > camera, so let Azlyn photograph him instead. Outside he points at whatever
-> moves. Say the word for it once and leave a gap, because his first words
-> come out of the things he has already pointed at.
+> moves. Say the word for it once and leave a gap, because the naming lands
+> better on a thing he chose to point at.
 
 <div style="page-break-after: always;"></div>
 
@@ -22467,10 +22187,10 @@ questions for dinner and a name at every seat.
 **📝 Step-by-Step Instructions:**
 1. Paint Azlyn's palm with the brush rather than dipping her hand. Press flat on the left of the card, count to three, lift straight up. Hand into the bowl, dry on the first washcloth.
 2. Kreston next, while he is calm and pinned across a knee. His hand is a fist at 11 months, so open it flat, press it down fast, and take whatever smear comes out. Second washcloth.
-3. Pencil the date and both names underneath, then go over the pencil in marker once it is dry.
+3. Pencil the date and both names underneath, then go over the pencil in marker once it is dry. Write **May**, her **3** and his **11 months** beside the pair.
 4. Copy the six answers onto the card in marker, in Brooklyn's exact words. Do not shorten the funny one.
-5. Hold April's sheet up beside today's, then January's under both. Five weeks and four months, three prints in a row. Let Azlyn put her hand on all three.
-6. All three go back on the wall where the others are. This one is May, fifth of twelve.
+5. Hold April's sheet up beside today's, then January's under both. Three of the five months so far, side by side. Let Azlyn put her hand on all three.
+6. All three go back on the wall where the others are. This one is May, fifth of twelve. If you are marking the door frame this month, the pencil is already out and this is the afternoon for it.
 
 > 💡 **Tip:** Do Kreston first if he is asleep and Azlyn first if he is not. Have the washcloth in your hand before the paint touches anyone.
 
@@ -22483,9 +22203,8 @@ jam jar and let the bunch be the wrong shape.
 
 > 👶 **Infant Integration:** Kreston is 11 months and everything he holds goes
 > to his mouth, so his flowers stay in your hand and his job is smelling them.
-> Hold one under his nose and watch his whole face change. He is close to
-> first words, and the noise he makes at a dandelion today may turn into one
-> of them.
+> Hold one under his nose and watch his whole face change. Name it for him
+> once, and let the noise he makes back at the dandelion stand as his answer.
 
 <div style="page-break-after: always;"></div>
 
@@ -22538,8 +22257,8 @@ and Brooklyn does not come in for ninety minutes.
 > **Rituals that repeat annually do something one-off events can't.**
 > Azlyn has no working idea of how long a year is. A thing that happens once a
 > year, remembered from last time and expected next time, is how a year turns
-> into a real unit for her: the handprint card, the same walk, the capsule in
-> the cupboard. The second time is when it starts working, and the fifth time
+> into a real unit for her: the handprint card, the same walk, the capsule on
+> the shelf. The second time is when it starts working, and the fifth time
 > it belongs to her rather than to you. Keep this one small enough to survive
 > a bad May. One sheet of card, two hands and six answers takes forty minutes,
 > and forty minutes is a tradition you can still manage in 2031.
@@ -22785,7 +22504,7 @@ afternoon they get fixed, and she does the pulling.
 - Wash and dry the soft toy instead, and hang it on the line by its ears.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The pool's quiet hour if the after-school crowd is in
 - Indoor playground if the pool is shut
 - The park on the way home to dry her hair off
@@ -23194,25 +22913,9 @@ Keep Friday's bubble mix and Monday's magnifier where you can find them again.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Thursday takes a white shirt off my side of the closet, and the one with the
-> soft collar has been asking for this for about a year. She gets the sleeves
-> pinned back at her wrists, the goggles up on her forehead and three stations
-> to run, and she keeps a clipboard score of everything her visitor gets right.
-> I would ruin Monday afternoon. One leaf drawn a meter wide, vein by vein,
-> takes the whole of it, and I am the one who would call it finished at the
-> fourth vein and suggest a walk to the green. Saturday she checks a watch
-> every fifteen minutes and reports that nothing has happened, and then the
-> chocolate goes all at once near the end of it. Kreston gets a square of foil
-> on a card to bat at in the shade, and he will turn it over looking for where
-> the light went.
-
----
-
 > 👶 **Kreston is 11 months this week**. He stands on his own for a few seconds
-> before he drops, pulls up on anything at his height, and is close enough to
-> first words that the ones you repeat are the ones you will hear back.
+> before he drops, pulls up on anything at his height, and copies the tune of
+> your voice long before he copies the words in it.
 
 ---
 
@@ -23438,9 +23141,9 @@ things with the back of her hand: a car hood, a paving slab in the sun, the
 same slab in shade, the fence, a metal gate. Get her to rank the top three,
 then check the box on the way past.
 
-> 👶 **Infant Integration:** Kreston is 11 months and putting first words
-> together, so he may have a sound for hot by teatime if you use the word
-> every time. Give him a square of foil taped over stiff card to bat at in the
+> 👶 **Infant Integration:** Kreston is 11 months and sorting the sounds he
+> hears from the ones he makes, so say *hot* the same way every time you mean
+> it. Give him a square of foil taped over stiff card to bat at in the
 > shade. It flashes and bends, and he will turn it over hunting for where the
 > light went.
 
@@ -23842,8 +23545,8 @@ ones that match and one that does not.
 > 👶 **Infant Integration:** Kreston is 11 months and bangs two things together
 > to hear what they do, which matches this morning if you hand him the right
 > pair: two wooden spoons, or two plastic lids. Sit him on the newspaper at
-> the far end while Azlyn prints, and name the colors out loud, because he is
-> on the edge of first words.
+> the far end while Azlyn prints, and name the colors out loud, because he
+> takes in far more of it than he gives back.
 
 <div style="page-break-after: always;"></div>
 
@@ -23877,7 +23580,7 @@ made. She will move it back and forth before she believes it.
 - Lay her hands flat either side of the tape and look at those.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The splash pad, if the pool is booked out
 - Indoor playground, if it has rained all afternoon
 - The park on the way home, twenty minutes and no more
@@ -24300,26 +24003,10 @@ back out in July.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Wednesday she lies on a duvet on the living room floor with a bell beside
-> her, and the whole of it rests on somebody coming when she rings. That is
-> you, six or seven times, for water she can already reach and a book she is
-> holding. Monday is the day I would get wrong: halfway up the hill she asks
-> to be carried, the page says stop and count ten breaths and keep walking,
-> and I have picked her up on smaller hills than that one. There is a medal
-> coming on Sunday with my name on the back and nobody at the door to take it,
-> so leave mine on the table and let her run the ceremony again at six with
-> the cape on. The chart that goes up Monday afternoon has a row on it for
-> Kreston, and standing up on his own is the hardest thing anyone in this
-> house is attempting this week.
-
----
-
 > 👶 **Kreston is 11 months this week**. He lets go of the table and stands on
 > his own for a second or two before he drops, pulls himself up on a chair leg
-> to get there, and a first word is possible any day now. Name the thing in
-> his hands every time he looks up at you.
+> to get there, and holds a long babbled conversation with anyone who answers.
+> Name the thing in his hands every time he looks up at you.
 
 ---
 
@@ -24718,11 +24405,10 @@ and a line said out loud, come up again in July.
 - A long slow family walk with no destination in it
 - The school playground, empty on a Sunday and better for it
 
-> 👶 **Kreston's Afternoon:** Kreston is 11 months and close to a first word,
-> and those arrive in rooms where names get said out loud. Put him where he
-> can see the ceremony, say each name clear and slow as the medal changes
-> hands, and watch his mouth. He rides behind the scooter with his medal flat
-> on the tray.
+> 👶 **Kreston's Afternoon:** Kreston is 11 months and takes names in faster
+> in a room where they get said out loud. Put him where he can see the
+> ceremony and say each name clear and slow as the medal changes hands. He
+> rides behind the scooter with his medal flat on the tray.
 
 ---
 
@@ -25082,8 +24768,8 @@ let the answer be twenty minutes outside doing nothing.
 
 > 👶 **Infant Integration:** Grass in late May is a whole texture problem for
 > Kreston at 11 months. Sit him on the edge of the blanket with one hand on
-> the wool and one on the grass and let him work out which he prefers. He is
-> close to a first word, so name what is under his hands.
+> the wool and one on the grass and let him work out which he prefers. Name
+> what is under each hand while he does it.
 
 <div style="page-break-after: always;"></div>
 
@@ -25219,8 +24905,8 @@ leave anything tall and lacy alone, and wash both pairs of hands at the door.
 > 👶 **Infant Integration:** Kreston pulls up on the wheel arch of the stroller
 > now, which means whatever he grabs goes in his mouth from a new height. Hand
 > him one of the widest leaves she picked, too big to get into his mouth, and
-> stay next to him while he decides what it is. At 11 months the word he hears
-> twenty times in a morning comes out first.
+> stay next to him while he decides what it is. Name it for him while he
+> turns it over, the same word every time.
 
 <div style="page-break-after: always;"></div>
 
@@ -25394,26 +25080,10 @@ top of the bookcase.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Story two on Monday morning is supposed to be mine, and you have sat through
-> the table version enough times to tell it better than I do. The tip on that
-> page says to tell the sad story the way you told the funny one, and that is
-> the part I have gotten wrong. I told her a sad thing once with my face doing
-> something wrong and watched her stop asking questions. Tuesday she picks
-> Kreston's clothes out of the drawer and he wears the whole outfit, and by
-> lunchtime he will be looking for her when he wants something. Wednesday's
-> call comes apart in the middle, and that is the call doing its job. He turns
-> one on Saturday the 5th, two days after this week closes, and the thing he
-> learned in his last month as a baby was handing something over and waiting
-> to get it back.
-
----
-
 > 👶 **Kreston is 11 months this week**. He lets go of the furniture and stands
 > on his own for a second or two before he sits down, pulls up on anything at
-> chest height, and a first word is possible from here, so listen for half of
-> one and say it back whole. **He turns one on Saturday the 5th**, two days
+> chest height, and babbles at length in a voice that rises and falls like
+> talking. **He turns one on Saturday the 5th**, two days
 > after this week closes.
 
 ---
@@ -25630,8 +25300,8 @@ week. Give her one job: one daisy for every person on the door. She will lose
 count and start again twice. Sit down when the bunch looks about right, count
 it against the names, and split the chain-making between you on the way home.
 
-> 👶 **Infant Integration:** Kreston is 11 months and a first word is possible
-> from here. The words that arrive first are the people. Hold his own card up
+> 👶 **Infant Integration:** Kreston is 11 months and knows the faces in this
+> house before anything else in it. Hold his own card up
 > and say his name, then Azlyn's, and watch him reach for the face he knows.
 > Out on the grass, sit him in the daisies and let him pull to standing off
 > your knee to get at them.
@@ -26068,7 +25738,7 @@ A box goes out by the front door this afternoon, stocked for whoever turns up.
 - Do the whole thing for the trash collectors, out on trash day.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and warm enough now to walk home with wet hair
+- **Swimming**, and warm enough now to walk home with wet hair
 - The splash pad or the kiddie pool, if the session is full
 - A shallow bit of the river or the lake, feet only
 - The park with a picnic, if nobody can face changing rooms
@@ -26323,7 +25993,7 @@ handprints.
 1. Spread May's drawings and pressed flowers over the floor. She keeps three out for the wall and the rest go in the envelope.
 2. Write MAY and the year across the front, hand her the marker for the rest of it, then fold the flap over and press it down.
 3. Handprints, and Kreston goes first while he is calm, washcloth already in your other hand. Paint his palm with the brush rather than dipping his hand, press flat on the card, lift straight up and wipe him down.
-4. Azlyn next, her palm on the same sheet beside his. Same brush, press flat, count to three, lift straight up. Write June beside the pair of them.
+4. Azlyn next, her palm on the same sheet beside his. Same brush, press flat, count to three, lift straight up. Write **June**, her **3** and his **11 months** beside the pair of them.
 5. Wash both pairs of hands and stand the card flat somewhere high to dry.
 6. Growth chart: both of them against the door frame. Mark with the pencil, write the name and the date, and do the adults too.
 7. Stand her next to May's mark and let her find the gap with her own finger. Ask what she thinks July will be and put a pencil dot there.
@@ -26460,7 +26130,7 @@ ground, because that smell is one she will recognize for the rest of her life.
 > up on the weighted one, holds the stand for a second or two, and drops back
 > onto his bottom, which is the work his legs need this month. At the windows,
 > hold him a step back from the glass and say **rain** every time. One word said
-> the same way twenty times is how a first word arrives.
+> the same way twenty times is how it stops being noise to him.
 
 <div style="page-break-after: always;"></div>
 
@@ -26990,10 +26660,10 @@ all three go brown. Every day she guesses first and looks second, and you
 write down both.
 
 Kreston turns 1 on Saturday. Day 156 gives him a banana cake he is allowed to
-wreck, one candle for ten seconds, June handprints, a pencil line on the door
-frame, and the museum after lunch. Azlyn chooses his icing color at breakfast
-and then has to keep her hands off the cake, which is the hardest thing anyone
-does all week.
+wreck, one candle for ten seconds, a walk down the block on one finger, a
+pencil line on the door frame, and the museum after lunch. Azlyn chooses his icing color
+at breakfast and then has to keep her hands off the cake, which is the hardest
+thing anyone does all week.
 
 ---
 
@@ -27027,7 +26697,7 @@ does all week.
 - [ ] Washable non-toxic poster paint in red, blue, yellow and white
 - [ ] Food coloring, a full set of bottles (four of the seven days use it)
 - [ ] Cereal boxes, 5, flattened
-- [ ] Thick paper, 8 sheets (6 for the ice painting, 2 for the June handprints)
+- [ ] Thick paper, 6 sheets, for the ice painting
 - [ ] Large sheets of card, 2
 - [ ] Dark sugar paper, 3 sheets, or dark gift wrap
 - [ ] Colored paper, tissue paper and old magazine pages
@@ -27085,26 +26755,10 @@ does all week.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Saturday is his, and here is the thing I have not said out loud. I know
-> Kreston at six in the evening. You know him at ten past ten in the morning,
-> which is when he learned to sit up, to pull himself onto the coffee table,
-> to stand there wobbling for four seconds, and I have had that whole year of
-> him secondhand. The cake was my idea and I know whose floor it lands on. If
-> the day gets as far as the handprints and the pencil line on the door frame
-> and stops there, the day is done. The rest of the week runs on paint
-> ladders and cabbage water and a bag of walk treasure, and by Wednesday all
-> of it will be on the same table at once. Azlyn picks his icing color at
-> breakfast and then waits until one o'clock to see it, and I do not envy you
-> the middle of that.
-
----
-
 > 👶 **Kreston is 11 months this week**. He stands alone for a few seconds
-> before he sits back down, and a first word may be in there. **He turns 1 on
-> Saturday the 5th**, and from that morning he is walking or close to it,
-> drinking from a cup and following a one-step instruction.
+> before he sits back down, and babbles in long strings at anyone who answers.
+> **He turns 1 on Saturday the 5th**, and from that morning he is walking or
+> close to it, drinking from a cup and following a one-step instruction.
 
 ---
 
@@ -27308,8 +26962,8 @@ splits between blue and green.
 1. She mashes the banana in the bowl with the fork until she cannot find a lump.
 2. Egg in, yogurt in, and she beats the lot with the same fork. Lumps are fine.
 3. Four tablespoons of flour, counted in by her and folded through with the spatula.
-4. Scrape it into the pan and bake it at 350°F for twenty-five minutes. You open the door and you carry the pan, both times, and both children stay back from the oven while it is open.
-5. Turn it out onto the tray and stand it somewhere cold. Cream cheese slides off a warm cake, so this one has until one o'clock to lose the heat. Washing the bowl is her job while it cools.
+4. Scrape it into the pan and bake it at 350°F for twenty-five minutes. You open the door and you carry the pan, both times.
+5. Turn it out onto the tray and stand it somewhere cold. Cream cheese slides off a warm cake, so it has until one o'clock. Washing the bowl is her job while it cools.
 
 > 💡 **Tip:** Build it for wrecking. Anything you tidy up turns it into a cake somebody wants kept, and this one has about eleven minutes to live.
 
@@ -27320,12 +26974,14 @@ June: the low wall, the front step, the slope to the gate, the rough patch
 where the sidewalk lifts. Set him down at each with a finger to hold, and send
 Azlyn ahead to show him. She announces every success first.
 
-> 👶 **Infant Integration:** **Kreston turns 1 today.** Say it out loud to his
-> face, because nobody else will. At twelve months he can follow a one-step
-> instruction, so hand him a wooden spoon and say bang. Give him the empty
-> yogurt pot while Azlyn mashes and mixes, then put him in the high chair
-> before the pan goes in the oven and leave him there until it is back out and
-> the door is shut.
+> 👶 **Infant Integration:** **Kreston turns 1 today.** Say the birthday out
+> loud to his face, because nobody else will. Twelve months is where the
+> walking starts arriving in earnest, so set him down on the flat outside and
+> hold one finger rather than two. He drinks from an open cup with your hand
+> under it, and he follows a one-step instruction now, so hand him a wooden
+> spoon and say bang. Give him the empty yogurt pot while Azlyn mashes
+> and mixes, then put him in the high chair before the pan goes in the oven and
+> leave him there until it is back out and the door is shut.
 
 <div style="page-break-after: always;"></div>
 
@@ -27343,23 +26999,22 @@ been told he is allowed to destroy something.
 - 3 balloons, inflated by you, kept above head height between goes
 - 1 old sheet or shower curtain for the floor
 - 1 wet washcloth in a shallow bowl
-- Washable paint and 2 sheets of paper for the June handprints
 - 1 pencil for the wall marks
 - Your phone, and last June's photos
 
 **📝 Step-by-Step Instructions:**
-1. Cream cheese into the small bowl, two drops of the color she picked at breakfast, and she stirs the streaks out. She spreads it over the cold cake and pushes the candle into the middle. No neatening from you.
+1. Cream cheese into the small bowl, two drops of the color she picked, and she stirs the streaks out. She spreads it over the cold cake and pushes the candle into the middle. No neatening from you.
 2. Blow the balloons up yourself and let Azlyn bat them round while you spread the sheet.
-3. Cake in the middle, Kreston in front of it, everyone else on the floor at his level. Light the candle, sing, blow it out after ten seconds. Pull it out of the icing and put it up high.
+3. Cake in the middle, Kreston in front of it, everyone else on the floor at his level. Light the candle, sing, blow it out after ten seconds.
 4. Hands off him. He goes in with one finger, then a fist, then his face. Azlyn will want to help, and the answer is no.
 5. Washcloth over his face and hands at the end, rinsed in the bowl between passes.
-6. Paint his palm with your finger and press it onto paper. Azlyn's on the second sheet, June and both ages written beside them.
+6. Hand Azlyn your phone and let her film a minute of him with the icing still on his chin, saying his name and his age into it.
 7. Both of them at the door frame, mark with the pencil, date and name each line. Then bring up last June's photos and hold the phone against the wall.
 
-> 💡 **Tip:** Some babies hate it. Kreston may stare at the cake or object to the texture. Push one finger in for him, then leave him be, and hand it to Azlyn if nothing has happened in two minutes.
+> 💡 **Tip:** Some babies hate it. Kreston may stare at the cake or object to the texture. Push one finger in for him, then leave him be.
 
 ### 🎯 Afternoon Alternatives
-- Handprints and wall marks only, and skip the cake.
+- Wall marks and the minute of film only, and skip the cake.
 - One candle in a bowl of yogurt, sung over, and out.
 - Photograph his hands, his feet and his teeth up close.
 - Let Azlyn open his presents, which is what she wants.
@@ -27370,8 +27025,8 @@ been told he is allowed to destroy something.
 - Grandparents, or whoever wants to see him today
 - The garden and the kiddie pool, if the morning was enough
 
-> 👶 **Kreston's Afternoon:** He is one today and a museum is loud, so give it
-> forty minutes and leave before he tells you to. At twelve months he would
+> 👶 **Kreston's Afternoon:** A museum is loud, so give it forty minutes and
+> leave before he tells you to. At twelve months he would
 > rather walk than look, so find an empty stretch of floor and let him do laps
 > holding one of your fingers. Azlyn picks the room.
 
@@ -27767,7 +27422,7 @@ Nothing has happened out there for four hours. Go and look anyway.
 - Start a sheet somewhere shady and compare the two tomorrow.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the coldest thing anyone touches today
+- **Swimming**, and the coldest thing anyone touches today
 - The kiddie pool at home if the session is full
 - A splash pad or a fountain
 - The park and a picnic in the shade
@@ -28089,8 +27744,8 @@ with a broom, a wet towel and a bottle on a line, feet on dry ground the whole
 hour. Each day puts the same question in front of her in a new shape: **what
 do you do when somebody is in the water?**
 
-No holiday lands in this week. Tuesday's lesson sits in the middle of it and
-the days before it all feed in, so she draws the starfish in chalk on the
+No holiday lands in this week. Tuesday's pool trip sits in the middle of it
+and the days before it all feed in, so she draws the starfish in chalk on the
 patio before she ever lies back in water, she blows the bubbles in a bowl on
 the kitchen table, and she packs the swim bag herself against a picture list
 she drew. Thursday she takes five tests in the kiddie pool and signs a
@@ -28174,24 +27829,9 @@ Wednesday the tipping out is Azlyn's job.
 - [ ] A fridge magnet
 - [ ] Her swim bag, her swimsuit and her towel
 - [ ] Kreston's swim diaper and his towel
-- [ ] A snack and a drink for after the lesson
+- [ ] A snack and a drink for after the pool
 - [ ] Printed photos, 2 (the front of the house, and one from the week)
 - [ ] Stroopwafels
-
----
-
-### 💛 A Note from Joseph
-
-> The word *lifeguard* lands on Sunday attached to a dining chair, a red towel
-> rolled tight for a float, and a whistle on a loop of wool. The real one is
-> down on the grass with a one-year-old on her hip and no chair. I typed *stay
-> within arm's reach* into three of these seven days before I noticed I had put
-> it in more than once. Monday is the page I keep going back to. She learns her
-> first, middle and last name said as one thing, in the same hour she learns to
-> stand in the yard and shout for a grown-up at full volume. She has had three
-> years of being told to keep it down indoors, and this week the shout is the
-> thing being taught. On Saturday she gets asked what powers she would want in
-> water, and the answer nobody hands her is that one of them is her own breath.
 
 ---
 
@@ -28474,7 +28114,7 @@ Same water, four tools, one job: get the full bowl into the empty one.
 > inside. Her list this morning records what she has noticed about her own
 > limits. Keep the page and put the date on it. The powers she picks at four
 > will be different ones, and the change is the part worth having. Ask her
-> again in September, once lessons have been running a while. Read the old
+> again in September, after a summer of getting in the water. Read the old
 > list back to her when you do, and the year shows up in what she has stopped
 > wishing for.
 
@@ -28588,7 +28228,7 @@ The chalk pool opens for business at one.
 ### 🎯 Afternoon Alternatives
 - Tickets and a cafe, no pool, at the kitchen table in the cool.
 - The lifeguard chair indoors, watching over a bowl of water.
-- Teddy swimming lessons in the bath instead.
+- Teddy goes in the bath and she teaches him the five tests instead.
 
 ### 🌳 Out Again: **Pick one**
 - **A sunset walk**, the afternoon version of it, once the paving has cooled
@@ -28675,7 +28315,7 @@ The chalk pool opens for business at one.
 - 1 empty capped 2 L bottle
 
 **📝 Step-by-Step Instructions:**
-1. Float teddy out in the middle, past her arms. Give her the rule first: she stays out, and she stays dry. Kreston goes in the high chair beside you for the whole hour, because your hands are on her.
+1. Float teddy out in the middle, past her arms. Give her the rule first: she stays out, and she stays dry. Kreston goes in the high chair beside you for the whole hour, because a filled pool and a new walker do not share a patio.
 2. Broom first. She kneels at the edge, holds the end, and works teddy in with the handle. Say the words with her: *reach, don't go.*
 3. Towel next. She throws one end out, keeps hold of the other, and drags. It works better wet.
 4. Now the line. She throws the bottle past teddy and pulls it back so it sweeps him in on the way.
@@ -28839,7 +28479,7 @@ you open the door, and she drinks the cup on the doorstep.
 
 ### 🎨 Second Main Event: The Swim Bag She Packs Herself
 
-Lesson day. She owns the bag from now on, and the packing takes as long as it
+Pool day. She owns the bag from now on, and the packing takes as long as it
 takes.
 
 **🧰 Complete Materials List:**
@@ -28868,10 +28508,10 @@ takes.
 - Draw the pool from memory: doors, water, the big clock.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly lesson, and she gets in with the what-if pile already in her
+- **Swimming**, and she gets in with the what-if pile already in her
 - The pool café afterwards, for the window over the water
 - A shady park on the way home if there is anything left in her
-- Straight home and the kiddie pool, if the lesson is canceled
+- Straight home and the kiddie pool, if the pool is booked out
 - Indoor playground, on a day too hot for anywhere without a fan
 
 > 👶 **Kreston's Afternoon:** He swims too. At 12 months he holds on to you
@@ -28894,12 +28534,11 @@ takes.
 > the table is her thinking, and she knows it.
 
 > ⚠️ **Safety:** At the pool, armbands, rings and float suits are toys. Treat
-> them as toys, because a child can slip under one without a sound. Never take
-> both of them into the water on your own hands: Azlyn stays with her
-> instructor while Kreston is on you, and the one who is with you stays within
-> arm's reach. Poolside tiles and the changing room floor are the slipperiest
-> surfaces either of them will meet this week, so walk it and hold hands, both
-> ways.
+> them as toys, because a child can slip under one without a sound. Both of
+> them stay inside arm's reach in the water, close enough to take hold of
+> without a step. Poolside tiles and the changing room floor are the
+> slipperiest surfaces either of them will meet this week, so walk it and hold
+> hands, both ways.
 
 <div style="page-break-after: always;"></div>
 
@@ -29204,7 +28843,7 @@ whoever else has her about the lamp post.
 
 - **Where she sits among the people she belongs to.** A paper figure for each of them with one true thing written on the body, then the same people clipped along a string in the order they arrived, Kreston at the near end.
 - **A map starts at her own front door.** Five places she knows, set near or far with a bottle cap, and the roads she turns onto to reach each one.
-- **Evidence that she is changing.** Pencil marks on the door frame beside January's, a second handprint next to the first, and baby trousers that stop at her knees.
+- **Evidence that she is changing.** Pencil marks on the door frame beside January's, her palm laid inside her own January handprint, and baby trousers that stop at her knees.
 - **Naming a mood out loud while she is inside it.** Four faces on sticks standing in a mug within her reach, picked up by whoever's mood has moved, you included.
 - **Her whole name, your phone number and three steps if she cannot see you.** Stop, stand still, shout for Brooklyn by her name, run four times until her feet know it.
 
@@ -29240,8 +28879,7 @@ whoever else has her about the lamp post.
 - [ ] Masking tape, 2 rolls
 - [ ] Scissors (adult only)
 - [ ] A table knife (adult only)
-- [ ] Washable non-toxic poster paint and a wide brush
-- [ ] The handprint sheet started in January
+- [ ] January's handprint sheet, down off the wall
 - [ ] A measuring tape, or a length of string
 - [ ] String or thick wool, 3 meters
 - [ ] Clothespins, 8–10
@@ -29267,22 +28905,6 @@ whoever else has her about the lamp post.
 - [ ] A hat, scarf or bag belonging to each person in the house
 - [ ] A small bag or basket she can carry, and a purse with one coin in it
 - [ ] The box of outgrown baby clothes
-- [ ] A washcloth and a shallow bowl
-
----
-
-### 💛 A Note from Joseph
-
-> She finds out on Wednesday morning that you have a whole name. It gets said
-> at the table right after hers is written out big, first, middle and last, and
-> she has never heard it before. On Thursday she has to get that name out at
-> full volume across an aisle built from dining chairs, because the word Mommy
-> moves nobody in a store full of mothers. The first time I said your whole
-> name to somebody who had never met you it came out of me like a fact I was
-> reporting. Sunday I am on the floor drawing the street I grew up on, and one
-> of her three questions is where I got told off. The answer is a garage door
-> that came down years ago and I have no photograph of it, so the crayon
-> version she watches me draw is the only one there is going to be.
 
 ---
 
@@ -29753,18 +29375,15 @@ seen.
 **🧰 Complete Materials List:**
 - 1 pencil
 - 1 measuring tape, or a length of string
-- Paper for the handprints, the sheet started in January
-- Washable non-toxic poster paint and 1 wide brush
-- 1 wet washcloth in a shallow bowl
-- 1 permanent marker
+- January's handprint sheet, down off the wall
 - The box of outgrown baby clothes
 
 **📝 Step-by-Step Instructions:**
 1. Shoes off, heels against the door frame, everybody in turn. Mark each head in pencil and write the name and date beside it.
 2. Find January's marks on the same frame. Measure the gap between hers with the tape or string.
-3. Draw round her flat hand on the frame beside January's outline. Hers has grown past it on every finger.
-4. Paint her palm with the brush rather than dipping it, press flat on the handprint sheet, count to three and lift. Write **June** and **3** beside it in marker.
-5. Do Kreston's while he is calm, washcloth already in your hand. His January print is at the top of the same sheet, half the size.
+3. Draw round her flat hand in pencil on the frame beside January's outline. Hers has grown past it on every finger.
+4. January's handprint sheet off the wall and flat on the floor. She lays her palm inside her own January print and finds the gap round every finger.
+5. Kreston's January print is on the same sheet beside hers. Open his hand over it and let her see how far past it he has gone in five months.
 6. Hold the smallest thing in the box against him, then against Azlyn's back.
 
 > 💡 **Tip:** Take the measurement where she can see it and say the number twice. A pencil mark six centimeters below her head is an argument she can put a hand on.
@@ -29780,9 +29399,9 @@ then hold it against her head and against yours. The roadsides reach full
 height this week and the city cuts them in July, so this is the one week the
 walk works.
 
-> 👶 **Infant Integration:** Kreston is 12 months and his handprint today is
-> the sixth on that sheet, five months after the first. Take it fast; he has
-> opinions about wet hands now. In the long grass he grabs a fistful at face
+> 👶 **Infant Integration:** Kreston is 12 months, and the January print on
+> that sheet was made while somebody held his fist open for it. He flattens
+> his own hand now. In the long grass he grabs a fistful at face
 > height and pulls, and finds out that grass is anchored and he is not.
 
 <div style="page-break-after: always;"></div>
@@ -29953,7 +29572,7 @@ Two corners go up at opposite ends of one room and stay up all afternoon.
 - Flashlight and books under the dining table, and stay there.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one and the coolest hour of the whole week
+- **Swimming**, and the coolest hour of the whole week
 - The kiddie pool at home if the pool is packed with the holiday crowd
 - A splash pad or a fountain, with a change of clothes in the bag
 - The hose on the grass at home, and nothing else planned
@@ -30365,20 +29984,6 @@ there until dinner.
 - [ ] The clothesline, or two chairs and a broom handle
 - [ ] The stroller, a wagon, or a large box with a string handle
 - [ ] Your phone, charged
-
----
-
-### 💛 A Note from Joseph
-
-> Friday puts nine paper links on the wall and Thursday leaves three. The
-> chain is hers, and it is also nine mornings where the first question of the
-> day has an answer hanging in the hallway before anybody asks it. Saturday is
-> six paper bags popped at close range, which I put there on purpose so the
-> bang belongs to somebody in this house before it belongs to the sky.
-> Wednesday the whole day goes out the back door at eight and stays there, and
-> that one is going to be longer than it looks on the page. Sunday the tub
-> goes under a sheet on the line and you are meant to be sitting in the shade
-> next to it for an hour. That hour is the point of the page.
 
 ---
 
@@ -31043,7 +30648,7 @@ eleven is fine.
 - Count fifty of anything: pasta, socks, steps up the road.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the pool is the coolest room in town this week
+- **Swimming**, and the pool is the coolest room in town this week
 - The splash pad if the pool is packed with the holiday crowd
 - A shaded park and a bottle of water each
 - Indoor playground with the air conditioning on
@@ -31889,7 +31494,7 @@ something in his hands instead of on top of her.
 ## ⚠️ Quick Safety Reminders
 
 - **Standing water**: the bucket under Day 193's water wall, the wash bowls on Day 194, the paddling pool on Days 196, 200 and 208, the camp dishpans on Day 214. Kreston walks now and drowns in the depth of a dishpan without a sound, so stay within arm's reach and tip it out the moment they finish.
-- **Two children at the water**: swimming every Tuesday, the paddling pool and the real pool on the same day on Day 208, the lake on Day 212. One adult cannot watch two in water and water wings do not stand in for a second pair of hands, so bring a second adult or take them one at a time.
+- **Two children at the water**: swimming every Tuesday, the paddling pool and the real pool on the same day on Day 208, the lake on Day 212. Water wings do not stand in for a pair of hands, so keep both children inside arm's reach, close enough to take hold of without a step, and keep the phone in the bag at the pool and the lake.
 - **Small parts, and he picks things up now**: ice cubes on Day 187, the watermelon seeds on Day 188, the coins in the market purse on Day 189, cotton balls and the ping-pong ball on Day 192, the pebbles on Day 206, the raisins and cereal hoops on Day 216. Count them out and count them back in before he is on the floor.
 - **String and cord**: the drying line on Day 194, the octopus and dolphin strings down the stairs on Day 205, the hanging jellyfish on Day 208, the clothesline holding the tent sheet from Day 211, the flag line on Day 215. Run a line at knee height and take it down when the activity ends, because a line at her chest sits at Kreston's neck.
 - **Adult-only steps**: the matches and the sparklers on Day 185, the big knife and the boiling corn pan on Day 188, the craft knife on Day 198's shop hatch, the oven and the hot foil parcels on Day 212. Scissors go back on a high shelf between cuts rather than onto the arm of the sofa.
@@ -32000,21 +31605,6 @@ months on Monday.
 - [ ] A loaf of bread
 - [ ] Yogurt, 1 lemon, olive oil, salt
 - [ ] Crackers or grapes for the party snack
-
----
-
-### 💛 A Note from Joseph
-
-> Sunday afternoon she draws fireworks she has never seen, and the drawing
-> goes into the bag and comes out again on Monday. My money is on the paper
-> version having more colors in it. Saturday she leaves one label blank on her
-> own shelf and walks a whole museum with that card in her fist before she
-> will spend it, which is the same instinct that has her saving the good
-> sticker until the sheet is gone. Kreston will be asleep against you by the
-> second bang and will keep none of it. Monday the vest gets three pockets and
-> one of them is built to fail, and the one that fails is what comes up at
-> dinner. Thursday she counts three dollar bills out of her own purse at a
-> market stall with a line waiting behind her.
 
 ---
 
@@ -32679,19 +32269,18 @@ July's makes three, made the same way, with the same four questions under it.
 - Print both children's hands onto a paper bag and use it as a gift bag.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the pool is the coolest room in town today
+- **Swimming**, and the pool is the coolest room in town today
 - An outdoor pool, if the indoor one is packed
 - The paddling pool at home with the hose
 - A shaded splash pad
 - The library, for an hour of cool air and a book each
 
-> 👶 **Kreston's Afternoon:** He comes to the pool only if a second adult comes
-> with him, and that adult holds his hand from the changing room to the water
-> every time, including the two steps to the bench. At 13 months he walks, and
-> poolside is the worst floor in the building for a new walker. In the pool he
-> wants to be upright and moving, so the shallow steps are where he will spend
-> the hour. If it is you on your own, he stays behind and Azlyn gets you to
-> herself in the water, which she will notice.
+> 👶 **Kreston's Afternoon:** He comes to the pool too, and a hand stays on him
+> from the changing room to the water every time, including the two steps to
+> the bench. At 13 months he walks, and poolside is the worst floor in the
+> building for a new walker. In the pool he wants to be upright and moving, so
+> the shallow steps are where he will spend the hour. Keep him inside arm's
+> reach the whole time and get him out before he goes cold.
 
 ---
 
@@ -32708,10 +32297,9 @@ July's makes three, made the same way, with the same four questions under it.
 
 > ⚠️ **Safety:** Ice cubes are a choking hazard for a 13-month-old and half of
 > them end up on the ground, so count them out and sweep before he is down.
-> Swimming needs eyes on both children the whole hour, and one adult cannot
-> watch two in water. Take a second adult, or leave Kreston with someone and
-> take Azlyn on her own. July sun burns faster than it feels: hat on, cream at
-> eight, cream again at eleven.
+> Swimming needs eyes on both children for the whole hour, both of them inside
+> arm's reach, and the phone stays in the bag. July sun burns faster than it
+> feels: hat on, cream at eight, cream again at eleven.
 
 <div style="page-break-after: always;"></div>
 
@@ -33096,21 +32684,6 @@ what it did. Nothing she makes gets thrown out before the week is finished.
 - [ ] A fence, shed side or wall (substitute: a large flattened box propped against a wall)
 - [ ] Eight small kitchen things that can get wet: a cork, a lid, a peg, a bottle cap
 - [ ] The grubby outdoor toys: the trike, the rain boots, the plastic animals, the doll from under the hedge
-
----
-
-### 💛 A Note from Joseph
-
-> Four dining chairs in a line down the hall on Saturday and six tickets with
-> SEASIDE written on them, and I know what that is. It is a coast we are not
-> getting to this year, built out of the furniture, and at three she will not
-> know the difference. Thursday afternoon puts you in the paddling pool in
-> your clothes with Kreston on your lap, and Azlyn stands on the grass
-> watching her mother sit down in it. Six days of water at arm's length in
-> bowls come before that one. The same afternoon carries a plain sentence
-> about people once being kept out of public pools, and the page says she may
-> hand it back to you wrong next week. Thursday morning Kreston gets the
-> beachcombing bag to hold, so one feather goes into it about five times.
 
 ---
 
@@ -33777,7 +33350,7 @@ half an hour.
 - Draw with a white crayon and paint over it.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the coolest hour of her day
+- **Swimming**, and the coolest hour of her day
 - The outdoor pool if yours has one open for the summer
 - The splash pad, if the pool line is round the block
 - Indoor playground with the air conditioning, when nobody can face a changing room
@@ -34197,17 +33770,6 @@ after lunch.
 - [ ] Two cleared freezer shelves, one of them flat
 - [ ] Old family photos, if any are to hand
 - [ ] Something real to serve through the shop hatch on Saturday afternoon
-
----
-
-### 💛 A Note from Joseph
-
-> Somewhere in the last month the house changed height. Everything that
-> matters lives above a thirteen-month-old's reach now, and this week wants a
-> tray of granita scraped with a fork every half hour from ten in the morning,
-> in a kitchen that is already too hot with him at your knee. Monday she names
-> a flavor after each of us out of one thing she has noticed about that
-> person. Tell me what mine was.
 
 ---
 
@@ -34887,7 +34449,7 @@ she controls by the end of it.
 - Everyone copies her rhythm on saucepan lids, one at a time.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the coolest hour of the day
+- **Swimming**, and the coolest hour of the day
 - The splash pad if the pool is full of the holiday crowd
 - The shallow end for twenty minutes and home again
 - A shaded park and a cold drink, if the pool is shut
@@ -35302,21 +34864,6 @@ house with a blue flashlight.
 - [ ] A teddy or a toy that sinks
 - [ ] The five ticked test cards from June, and your phone
 - [ ] The handprint sheets, and the door frame you have been marking
-
----
-
-### 💛 A Note from Joseph
-
-> Wednesday is the halfway mark and the book gives it one afternoon, which is
-> about the right amount of fuss. Six sheets on the floor, January through
-> June, and she tells you what she has kept of each one. My guess is you get a
-> bee, a broken cup and somebody's shoes, and the months I would have bet on
-> come back empty. There is a strip in that bottle for you as well as for her,
-> folded before it goes in, and I am not reading it before New Year's Eve
-> either. Azlyn will not remember January, so the row along the wall is the
-> only place the first half of this is kept. Tuesday the five test cards from
-> June come back onto the table forty days on, and by Thursday it is a blue
-> flashlight beam on the ceiling of the coolest room in the house.
 
 ---
 
@@ -35987,15 +35534,16 @@ everyone has to walk through all week.
 - Cut a shoal of small fish out of the leftover grocery bag.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she arrives with this morning's five tests in her legs
+- **Swimming**, and she arrives with this morning's five tests in her legs
 - The splash pad if the session is full
 - Indoor playground with the air conditioning on
 - The lake or river shallows, an adult hand held the whole time
 
 > 👶 **Kreston's Afternoon:** He is 13 months and walks in the shallows now
 > rather than sitting in them, which means he heads for deep water with total
-> confidence and no ability. One adult, hands free, arm's length, the whole
-> session. Twenty minutes is plenty, and Azlyn can hand him his towel.
+> confidence and no ability. Keep him inside arm's reach for the whole session
+> with your hands free. Twenty minutes is plenty, and Azlyn can hand him his
+> towel.
 
 ---
 
@@ -36011,8 +35559,10 @@ everyone has to walk through all week.
 > and run the five again in September.
 
 > ⚠️ **Safety:** Water twice today, the pool this morning and the real one at
-> 2:30. Kreston is never within reach of either without your hands free, and
-> the paddling pool goes onto its side the second you go indoors. Hang the
+> 2:30. Both children stay inside arm's reach at both, close enough to take
+> hold of without a step. While your hand is under her back for the float,
+> Kreston sits in the water beside her or in the shade in front of you, and the
+> paddling pool goes onto its side the second you go indoors. Hang the
 > jellyfish high enough that he cannot reach the string. Two rounds of sun: hat
 > on, cream at eight, cream again at eleven, and once more on dry skin before
 > you leave. The scissors stay with you.
@@ -36405,23 +35955,6 @@ again.
 - [ ] A stiff yard broom, and a dustpan and brush
 - [ ] A wide shallow dish or an old trash can lid for the birds
 - [ ] A saucepan lid and a wooden spoon
-
----
-
-### 💛 A Note from Joseph
-
-> This week belongs to Kreston more than the page admits. Friday he gets one
-> stick out of the hedge and the walk home runs at the pace of a boy who drops
-> it, stops, picks it up and sets off again. Sunday he stands at the edge of
-> the blanket and will not put a foot on grass, having done most of his
-> walking on carpet. Wednesday he is handed a plastic cup and the job of
-> carrying it out to the tent door, and he takes a route no adult would have
-> picked. Thursday he turns fourteen months in the middle of camp and stacks
-> two fire stones beside the ring, and the day page has a line in it about
-> saying happy fourteen months out loud to him because nobody else is going
-> to. His first summer is one object at a time carried across a yard. He has
-> three to five words now and one of them is due on Thursday, which gives him
-> better odds of saying something worth repeating that day than I have.
 
 ---
 
@@ -37086,7 +36619,7 @@ them.
 - Chalk the three signals on the path as pictures instead.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the flag left flying at home
+- **Swimming**, and the flag left flying at home
 - The splash pad, if the pool session is full
 - The paddling pool and the hose in the yard
 - A cool bath and a shady afternoon, if nobody can face the drive
@@ -37994,7 +37527,7 @@ what it is for.
 - [ ] Permanent markers, 2
 - [ ] Plain paper, 4 sheets
 - [ ] Thick paper, 6 sheets
-- [ ] Thick card, 4 sheets, or flattened boxes
+- [ ] Thick card, 5 sheets, or flattened boxes (one sheet is August's handprints)
 - [ ] Plastic grocery bags, 4–6
 - [ ] String or thick wool, 1 ball
 - [ ] Newspaper, a stack
@@ -38008,6 +37541,8 @@ what it is for.
 - [ ] Crayons
 - [ ] Washable poster paint in two colors (fabric paint if you have it)
 - [ ] A wide soft paintbrush
+- [ ] A washcloth you can wet, for the handprint sheet
+- [ ] 1 pencil, if you are marking the door frame this month
 - [ ] A sponge, or a stiff brush
 - [ ] An old towel
 - [ ] Old white t-shirts, 3–4 (pillowcases work)
@@ -38031,18 +37566,6 @@ what it is for.
 - [ ] Clear cups or glasses, 6
 - [ ] A tablespoon and a teaspoon
 - [ ] Ice, and the ice tray filled the night before
-
----
-
-### 💛 A Note from Joseph
-
-> The strings go up on the hall wall Tuesday and stay up, and the rule on
-> that page is that anybody who turns up gets a jump and a string. I get in
-> at six and go off the tape line in my socks like everyone else. There is a
-> line further down that page telling the adult not to shorten his jump to
-> keep it close to hers, and I put it there because I would. She sorts the
-> whole set longest to shortest before anything gets taped down. Mine goes
-> first in the row and she thinks nothing of it.
 
 ---
 
@@ -38283,21 +37806,26 @@ The wax trick works on cloth too, and this one she wears to the museum.
 - 1 sponge or 1 stiff brush
 - Flattened cardboard, one piece per shirt
 - 6 clothespins and the clothesline
+- 1 sheet of thick card for the August handprints
+- 1 wide soft brush, from this morning
+- 1 wet washcloth
+- 1 permanent marker
+- 1 pencil, if you are marking the door frame this month
 
 **📝 Step-by-Step Instructions:**
 1. Slide a piece of cardboard inside each shirt, up to the shoulders. Paint goes through cotton in seconds and the card is the only thing stopping it.
 2. Tear the masking tape into strips and build a number on the back of the first shirt. Straight lines only. A 1 is one strip, a 7 is two, a 4 is three. Press every edge down hard.
 3. Let her build the next number herself. Crooked is correct. If she wants a 12, both digits go on.
 4. Load the sponge and press it straight down over the tape rather than brushing across. Brushing lifts the edges and the paint creeps underneath.
-5. Cover the whole back panel, tape and all, and stop while the paint is wet.
-6. Peel the tape off there and then, corner first, pulling it back on itself. The number underneath stays white.
-7. Clip the shirts on the line in the sun. August dries a t-shirt inside an hour.
+5. Cover the whole back panel, tape and all, then peel the tape off while the paint is still wet, corner first, pulling it back on itself. The number underneath stays white.
+6. Clip the shirts on the line in the sun. August dries a t-shirt inside an hour.
+7. August's handprint sheet while the shirts dry. Kreston goes first, while he is calm, with the wet washcloth already in your other hand. Then Azlyn goes on the same sheet beside him. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **August**, her **3** and his **14 months** beside the pair in marker. If August is a month you want on the door frame, take both marks in pencil while they are standing still, with the name and the date beside each.
 
 > 💡 **Tip:** Do a spare pillowcase first if you have one. The first number teaches you how much paint a sponge holds.
 
 ### 🎯 Afternoon Alternatives
 - Paper numbers only, taped to her front.
-- Handprints in the team colors instead of a number.
+- A painted hand on the shirt front instead of a number.
 - Paint the numbers on freehand and skip the tape.
 - Sort the morning's painted sheets into two piles by color.
 
@@ -39117,20 +38645,6 @@ the week.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Sunday's flight leaves from the hallway with four boarding passes on it,
-> and the fourth one goes to a toy. Hers, yours, Kreston's, and a thing with
-> a face gets a seat number taped to the back of a dining chair. I have gone
-> down that list four times looking for myself and I am not on it. The line
-> under it tells the adult to take the smallest role going, and passenger is
-> the one job in that airport I could hold down. Kreston is in the second row
-> with his pass in his mouth, so the bar on that flight is low enough for me.
-> Seven stamps in seven days, and the furthest anybody gets is the drain at
-> the end of the path.
-
----
-
 > 👶 **Kreston is 14 months this week**. He scribbles, stacks two blocks and
 > knocks them down again, and has three to five words he uses on purpose. He
 > walks well enough to fetch a paper plane off the hall floor and carry it back
@@ -39825,7 +39339,7 @@ slow ninety minutes that ends with something down the middle of the table.
 - Lay the table for seven and name a country at every place.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the coolest room in town today
+- **Swimming**, and the coolest room in town today
 - The splash pad, if the pool is booked out with the summer-break crowd
 - The park sprinklers, with a change of clothes
 - A shaded café, if nobody can face a changing room
@@ -40257,21 +39771,6 @@ lasts about a minute.
 - [ ] The clothesline, or a fence and a gatepost
 - [ ] A small table, an upturned crate or a low wall
 - [ ] Your phone, charged, for Thursday's photographs
-
----
-
-### 💛 A Note from Joseph
-
-> Sunday she takes paper slips round the house and asks everyone to draw the
-> one thing they want off the prize stall, and Kreston gets a slip like
-> everyone else. He is fourteen months old. A scribble comes back, she is the
-> one who decides what it is, and then she has to go and build the thing she
-> said it was. She carries it over and holds it up beside his drawing and
-> waits for him to say yes. Friday he has a card coin of his own at the gate
-> and hands it across and stands there until the ticket comes back, and the
-> standing there is the new part. Monday he sits at her counter as a customer
-> and she slows down and puts the melon inside his reach with nobody telling
-> her to.
 
 ---
 
@@ -40945,7 +40444,7 @@ lives.
 - Make one tray, the pond, and play in it for an hour.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she has been lifting things out of water all morning
+- **Swimming**, and she has been lifting things out of water all morning
 - The splash pad, if the session is booked out
 - The paddling pool and the hose at home
 - A cool bath and an early wind-down, if the heat has beaten everybody
@@ -41356,21 +40855,6 @@ coldest room she will stand in all week.
 - [ ] Carrots and a vegetable peeler
 - [ ] Towels and swimsuits for Tuesday
 - [ ] A mango, milk, and a jar with a lid, for Friday's shaken drink
-
----
-
-### 💛 A Note from Joseph
-
-> This is week thirty-five of fifty-two. The capsule has sat up on that shelf
-> since January and there are seventeen weeks to go before she opens it, the
-> heat has not broken, and nobody in this house is looking forward to anything
-> in particular. I am not going to write you a paragraph about how far along we
-> are. Tuesday she gets a real screwdriver and drives two screws into a wooden
-> ruler, and what comes off the table is a guitar with three notes in it.
-> Thursday you lay a stone at the top of her shadow and another at her heels,
-> and go back before dinner to see where it went. That is one way to measure a
-> year, and I have nothing to tell you about how long this one is that you do
-> not already know from standing in the middle of it.
 
 ---
 
@@ -42023,7 +41507,7 @@ house is tidier at half past two than it was at one.
 - Play the box guitar along to three songs and leave the jobs until tomorrow.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the coolest room she will stand in today
+- **Swimming**, and the coolest room she will stand in today
 - The paddling pool at home if the session is full
 - The splash pad, and take an extra towel
 - The shady woods loop, if the pool is shut for the changeover
@@ -42989,6 +42473,7 @@ day indoors.
 - [ ] Kitchen foil, or silver packing tape
 - [ ] Newspaper, a stack
 - [ ] Permanent markers, 3, at least one thick
+- [ ] 1 pencil, if you are marking the door frame this month
 - [ ] Crayons
 - [ ] Thick chalk
 - [ ] Paper, a stack
@@ -43038,22 +42523,6 @@ day indoors.
 - [ ] Six small things she can hold in one hand (soap, a spoon, a hairbrush, a ball of socks)
 - [ ] The basket of unmatched socks
 - [ ] A small bag she can carry on Sunday's walk after dinner
-
----
-
-### 💛 A Note from Joseph
-
-> Six things wrapped in newspaper with a number on each will hold her longer
-> than anything I have bought her. On Friday she addresses a card to herself
-> at this house and drops it in the blue box, and it lands on the doorstep on
-> Tuesday, because the people who carry it have Labor Day off as well. Four
-> days is most of forever at three. Monday is the one I keep looking at. I
-> have watched you sit a whole picnic out on the edge of the blanket with your
-> knees ready, and the page says no adult gets up for an hour. Kreston turns
-> fifteen months on Sunday and spends that evening in the stroller in his
-> pajamas, switching a flashlight on and off the whole way to the corner. If
-> most of the week goes, the bag on her shoulder and Thursday's six cards are
-> the two worth keeping.
 
 ---
 
@@ -43577,6 +43046,10 @@ want to.
 Labor Day gives the people who work a day off. Azlyn makes lunch for the
 workers in this house, and then nobody does a job for an hour.
 
+If you are marking the frame this month, this is the afternoon for it. Pencil
+mark on the door frame, name and date, and her finger on the summer marks
+under it.
+
 **🧰 Complete Materials List:**
 - Bread, butter and 2–3 fillings
 - 1 butter knife
@@ -43585,6 +43058,7 @@ workers in this house, and then nobody does a job for an hour.
 - 1 pitcher of juice and cups
 - Paper and crayons for the menu
 - Fruit she can cut herself
+- 1 pencil, if you are marking the door frame this month
 
 **📝 Step-by-Step Instructions:**
 1. Tell her what today is in one sentence: everybody who works gets a day off, and that includes this house.
@@ -43742,7 +43216,7 @@ hall is the coolest strip of the house at one o'clock.
 - Write **STOP** in outline and let her fill the letters in with crayon.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the best place to be at half past two in September heat
+- **Swimming**, and the best place to be at half past two in September heat
 - The shallow end and nothing else, if the pool is packed
 - A splash pad or the kiddie pool at home, if the pool is shut
 - The shady half of the park, and home before four
@@ -44155,21 +43629,6 @@ week runs on soil, water, chalk and whatever the hedge is holding.
 - [ ] A handful of stones or gravel
 - [ ] Macadamia butter, or macadamias to blend into some
 - [ ] Children's antihistamine, if there is none in the house
-
----
-
-### 💛 A Note from Joseph
-
-> My birthday lands on the Monday and I am at work for all of it. Staying
-> alive another year took nothing out of me. The socks filled with rice, the
-> three buckets down the yard, the card the height of the front door and a
-> fifteen-month-old running through the middle of it, that is your Monday and
-> none of it is mine. At six I get a cardboard door opened on me and a shout
-> from behind it, and I will be telling people about that for a month.
-> Saturday matters more to me than the card does: ninety minutes with a bucket
-> of water, a chair, and nothing on it asked of you. She will drift and ask
-> twice more what she is supposed to be doing. Hold out, because the first ten
-> minutes look like the whole thing has failed.
 
 ---
 
@@ -44849,7 +44308,7 @@ crumb starts it.
 - Draw round her shadow at one o'clock and again at two.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the water is warmer than the air by now
+- **Swimming**, and the water is warmer than the air by now
 - The splash pad, if the session is booked out
 - Indoor playground, on a Tuesday when it is empty
 - A short walk and an early bath, if the pool is too much today
@@ -45270,22 +44729,6 @@ and cinnamon in the middle.
 - [ ] Cushions or folded blankets, one per person
 - [ ] A basket or bag for each bedroom
 - [ ] A load of laundry run and dried by Tuesday morning
-
----
-
-### 💛 A Note from Joseph
-
-> Monday puts everybody on the floor round a low table, orange wheels with
-> cinnamon on them and no plate each. Our first place had one chair and a
-> coffee table, and we ate like that for a year and a half before Azlyn
-> existed. Thursday the day and the night come out level, and from Friday the
-> dark takes a little more of it every week until the shortest day. Wednesday
-> she threads pasta in threes and drops back to two when she is tired, which
-> is what I do with anything by four in the afternoon. The chalk circle on the
-> path gets swept into a bucket by the same person who spent the morning
-> building it, and she pours the water herself. At the thrift store on
-> Thursday Kreston will carry something to the register out of a fifty-cent
-> box and keep hold of it all week.
 
 ---
 
@@ -45956,7 +45399,7 @@ it at once, and she does the folding.
 - Fold paper into fans and tape three into a wheel.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - Indoor playground, if a school has the pool this afternoon
 - The park with a change of clothes, if the water is out
 - The rec center café, for anyone who has had enough
@@ -46321,6 +45764,8 @@ a tin on a high shelf and a girl checking it every ten minutes until six.
 - [ ] Permanent markers, 2, one of them thick
 - [ ] Washable poster paint in 2 colors
 - [ ] A wide soft brush
+- [ ] Thick card, 1 sheet, for September's handprint
+- [ ] Washable non-toxic poster paint, 1 color, for September's handprint
 - [ ] A small soft brush, or a handful of cotton swabs
 - [ ] The widest brush in the house, for the fence
 - [ ] Masking tape, 2 rolls
@@ -46370,21 +45815,6 @@ a tin on a high shelf and a girl checking it every ten minutes until six.
 - [ ] A bag for the buckeyes
 - [ ] Rolled oats, or a tub of peas to defrost, for the duck pond
 - [ ] Rice and sesame seeds, for Friday's dinner
-
----
-
-### 💛 A Note from Joseph
-
-> On Wednesday four names get cut into loose cards and she counts the letters
-> along each. Hers is five, mine is six, and yours is the longest on the tray,
-> and I have never counted the letters in it before. Sunday is five odd socks
-> filled with rice, thrown at letters taped to a wall, half a mug in each so
-> nobody gets hurt when one lands. Tuesday she picks an animal, stays it until
-> half past two, and dictates a book about its morning with her own grammar
-> left in. Thursday's three wrapped cookies sit in a tin on a high shelf from
-> the afternoon until six, and she hands them out herself. Kreston gets the
-> trimmings baked in a line of their own, which is the only reason four
-> letters reach the table unbroken.
 
 ---
 
@@ -46986,24 +46416,23 @@ pegs on the line to win.
 - 1 hand mirror
 - 1 wet washcloth and a towel
 - Your phone
-- *(store-bought face paints work in place of the mixture if you have them)*
+- *(store-bought face paints work instead)*
 
 **📝 Step-by-Step Instructions:**
-1. The saucers from the opening hold the mixture: 2 tbsp cornstarch, 1 tbsp water, 1 tsp lotion, a food coloring in each. Check the test patch. Red or raised, and it stops here: wipe it with the wet washcloth and use crayons instead.
+1. The saucers from the opening hold the mixture. Check the test patch. Red or raised, and it stops here: wipe it with the wet washcloth and use crayons instead.
 2. Ask her for a sound she likes and an animal that starts with it. Zebra for the z in her name, or bear, cat, snake.
 3. Towel round her shoulders, her facing you. Big shapes first with the brush: a muzzle, a band across the nose, a color over each cheek. Cotton swabs for the whiskers and stripes, two minutes and no more.
 4. Hand her the hand mirror and say nothing while she looks.
 5. She is that animal until half past two. Use its name, ask it questions, let it eat snack off the floor. Photograph her at 10:00 for this afternoon.
 
-> 💡 **Tip:** Paint yourself as well, even one stripe. A painted three-year-old opposite a plain face is being looked at.
+> 💡 **Tip:** Paint yourself as well, even one stripe.
 
 ### 🌳 Get Outside: Prowling Through the Leaves
 
-The leaves that were gathering along the path edges are down in drifts now. She
-goes out as the animal and moves as it
-moves: stalking the drifts, freezing behind a wall, pouncing on nothing. Find a
-hedge she can hide inside and come looking for her. Use her animal's name where
-other people can hear it.
+The leaves along the path edges are down in drifts now. She goes out as the
+animal and moves as it moves: stalking the drifts, freezing behind a wall,
+pouncing on nothing. Find a hedge she can hide inside and come looking for her.
+Use her animal's name where other people can hear it.
 
 > 👶 **Infant Integration:** Kreston is 15 months, and a painted face on the
 > person who feeds him takes easing into. Let him watch you paint your own
@@ -47023,6 +46452,9 @@ off, the animal dictates its morning and you take it down word for word.
 - 1 marker for you
 - The photo you took at 10:00
 - 1 glue stick or a strip of masking tape
+- Thick card, 1 sheet, September's handprint
+- Washable poster paint and 1 wide soft brush
+- 1 wet washcloth in a shallow bowl
 
 **📝 Step-by-Step Instructions:**
 1. Fold the three sheets in half together and tape the spine, or run a line of glue. Twelve small pages.
@@ -47031,20 +46463,19 @@ off, the animal dictates its morning and you take it down word for word.
 4. Four or five pages is a whole book. Stop when she stops.
 5. Put your phone in front of her with the 10:00 photo and let her draw her own painted face for the cover.
 6. Read it back with your finger under each word, then again after half past two when the paint has come off.
+7. The September handprint sheet last. Kreston goes on it first while he is calm, the wet washcloth already in your other hand. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **September**, his **15 months** and her **3** beside the two prints.
 
-> 💡 **Tip:** Put no mark on the pages yourself except the words she gives you. Every drawn line in it is hers.
+> 💡 **Tip:** Put no mark on the pages yourself except the words she gives you.
 
 ### 🎯 Afternoon Alternatives
 - One page and one sentence, and call it a book.
 - Draw the animal on a paper plate as a mask.
 - Act the story out instead.
-- Copy the real animal's markings from a photo.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, with the face washed off before you leave
+- **Swimming**, with the face washed off before you leave
 - The pool's quiet session if the main one is full
 - Indoor playground, for a body that has been prowling since half past ten
-- Ten minutes at the park on the way back
 - Straight home, if the pool has taken everything she had
 
 > 👶 **Kreston's Afternoon:** He comes to the pool. At 15 months he walks the
@@ -47056,18 +46487,17 @@ off, the animal dictates its morning and you take it down word for word.
 > 🧠 **A Little Parenting Insight**
 > **A painted face changes behavior as well as appearance.**
 > Give Azlyn a character to be and she gets access to a version of herself with
-> more patience in it. Researchers have run this with four-year-olds asked to
-> stick at a dull task as Batman, and the ones in character lasted longer than
-> the ones being themselves. The distance does the work: the animal she picked
-> can wait, can be brave in a hedge, can try the thing Azlyn would refuse. She
-> will use it on you this morning and you can use it back. *Would a zebra put
-> its shoes on?* is the kind of question that lands where a straight instruction
-> has been bouncing off since breakfast.
+> more patience in it. Researchers ran this with four-year-olds asked to stick
+> at a dull task as Batman, and the ones in character lasted longer. The
+> distance does the work: the animal she picked can wait, can be brave in a
+> hedge, can try the thing Azlyn would refuse. *Would a zebra put its shoes
+> on?* is the kind of question that lands where a straight instruction has been
+> bouncing off since breakfast.
 
 > ⚠️ **Safety:** Test the mixture on the inside of her arm first. Nothing goes
 > on broken skin, near her eyes or on her lips. Food coloring stains skin as
-> well as clothes. Two drops rather than ten, an old T-shirt, and check how the
-> patch on her arm comes off before any of it goes near her face. Keep the
+> well as clothes, so two drops rather than ten and an old T-shirt. Check how
+> the arm patch comes off before any of it goes near her face. Keep the
 > saucers off the floor and out of Kreston's reach; at 15 months he will taste
 > anything the color of pudding. At the pool, stay within an arm's length of
 > both of them the whole time, and Kreston is never on the side on his own.
@@ -48016,21 +47446,6 @@ Thursday afternoon, when she walks it one last time and peels it up.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Her rules go onto a card on Friday in your handwriting, one line each, and
-> they will lean her way. Somewhere in the second game one of them lands on
-> the person who wrote it down, and that is the moment she is watching for. I
-> have lost to her under a rule that changed twice on the way round and then
-> got read back to me off the card. Kreston turns sixteen months on Tuesday in
-> a week that belongs to her from end to end, and his whole part in it is four
-> blocks up and flat again. Wednesday they work opposite jobs on the same rug,
-> her stopping a tower at seven with the next cup still in the air, him
-> getting one down as fast as his arm allows. Thursday the tape comes off the
-> hall floor, ten back down to zero, and the house is a hallway again.
-
----
-
 > 👶 **Kreston is 15 months this week**. He runs, spoons his own food and
 > points at pictures in books, so name whatever his finger lands on and then
 > say how many of them there are. **He turns 16 months on Tuesday the 5th**,
@@ -48673,7 +48088,7 @@ climb.
 - Tap the jars while she hides her eyes and guesses high or low.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and count the steps into the water
+- **Swimming**, and count the steps into the water
 - The library, if the pool is booked out for lessons
 - Indoor playground, counting the steps up to the slide
 - A short walk while the light lasts, which is going fast now
@@ -49028,6 +48443,9 @@ instead of starting anything new.
 - [ ] Crayons
 - [ ] Pencils
 - [ ] Washable non-toxic poster paint
+- [ ] A wide soft brush
+- [ ] Thick card, 1 sheet, for October's handprint
+- [ ] A wet washcloth in a shallow bowl
 - [ ] A craft knife or heavy scissors (adult only)
 - [ ] A pair of adult scissors
 - [ ] A stapler
@@ -49054,22 +48472,6 @@ instead of starting anything new.
 - [ ] A small bag she carries the spotting book in
 - [ ] A lidded cup
 - [ ] Your shopping list pad
-
----
-
-### 💛 A Note from Joseph
-
-> This week asks less of her than the last three did, on purpose, and dark by
-> six is most of the reason why. Monday's walk goes along the river, and there
-> is one sentence in the book about who lived on that water first. It took
-> four tries and stayed one sentence, because I did not want to hand you a
-> lecture to deliver. The masking tape on the hall floor is the exception, and
-> it is down for six days because I liked the idea of a road that nobody puts
-> away. Peel it up the first day it stops being a road and starts being a
-> thing on the floor. Saturday there is one chair at the bottom of the stairs
-> for whoever will sit in it, and if nobody can come, prop the phone there and
-> I will watch the cars come down at lunchtime, the ones that stall halfway
-> included.
 
 ---
 
@@ -49733,7 +49135,7 @@ blankets over the top turn it into somewhere she drives through and then stays.
 - Read in the dark and skip the cars.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The pool's quiet hour if the after-school crowd is in
 - Indoor playground, if the pool is shut for a school session
 - A bath with the lights off and the flashlight on the side, if nobody has the energy
@@ -49905,7 +49307,7 @@ different one on every page, small enough to go in a bag and out of the house.
 **Theme:** Things That Go
 
 ### 🌙 Prep Tonight
-> Carry the week's builds into one room: the parking garage, the foil signs, the station cushions and the box car. Put the masking tape on top.
+> Carry the week's builds into one room: the parking garage, the foil signs, the station cushions and the box car, with the masking tape on top.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Emptying the Garage
@@ -49931,7 +49333,7 @@ different one on every page, small enough to go in a bag and out of the house.
 
 1. Take every car out of the parking garage and line them up on the floor.
 2. Count them into the shoebox out loud, one at a time. Let her lose count and start again.
-3. Ask where each one needs to get to today. Hold her answers: the road you build at 9:15 has to reach all of them.
+3. Ask where each one needs to get to today. The road you build at 9:15 has to reach all of them.
 
 ### 🎨 The Main Event: One Road Through the Whole House
 
@@ -49945,9 +49347,9 @@ different one on every page, small enough to go in a bag and out of the house.
 
 **📝 Step-by-Step Instructions:**
 1. Start at the parking garage. Tape two lines out of its bottom ramp, a car's width apart, running towards the first station cushion.
-2. Where the road meets a doorstep or a gap, cut a bridge from the cardboard offcuts with the scissors and tape it flat at both ends.
+2. Where the road meets a doorstep or a gap, cut a bridge from the cardboard offcuts and tape it flat at both ends.
 3. Keep going to the box car's parking bay and on to the end of the hall. One rule and it is hers to enforce: every vehicle reaches every place.
-4. She drives one car the whole length. Where it will not go, mend the road at that spot rather than starting again.
+4. She drives one car the whole length and mends the road wherever it stops rather than starting again.
 5. Stand Tuesday's foil signs at the junctions, taped to the baseboard.
 6. Last, the paper and the marker. One sign for each place the road reaches, named as she says it.
 
@@ -49955,17 +49357,17 @@ different one on every page, small enough to go in a bag and out of the house.
 
 ### 🌳 Get Outside: The Cargo Run to the Big Tree
 
-Pick the biggest tree you can walk to and make it the depot. She carries the
-cargo (a bag of buckeyes, two apples, the spotting book), delivers it to the
-trunk, then loads whatever the tree has dropped and hauls it home. Mid-October
-drops leaves faster than she can collect them, so let her fill the bag twice
-and abandon it once.
+Walk the year's route to its biggest tree and make that the depot. Stop where
+you took January's photograph and take the autumn one from the same spot,
+third of the four. She carries the cargo (buckeyes, two apples, the spotting
+book) to the trunk, then loads whatever the tree has dropped and hauls it
+home.
 
 > 👶 **Infant Integration:** Kreston is 16 months and carries things while he
-> walks, which is harder than it looks and is most of what he is practicing.
-> Give him one big leaf in one fist for the walk to the tree. He arrives with
-> it, shows you, and drops it. Bring a spare. The buckeyes stay in the bag with
-> you, because every one of them is a choking size at 16 months.
+> walks, which is most of what he is practicing. Give him one big leaf for the
+> walk to the tree. He arrives with it, shows you, and drops it. Bring a spare.
+> The buckeyes stay in the bag with you, because every one of them is a choking
+> size at 16 months.
 
 <div style="page-break-after: always;"></div>
 
@@ -49982,15 +49384,19 @@ deliver to, and her a reason to drive it forty times.
 - 1 toy truck, or a small box on wheels
 - 6 cans and boxes from the cupboard
 - Your actual shopping list pad
+- Thick card, 1 sheet, October's handprint
+- Washable poster paint and 1 wide soft brush
+- 1 wet washcloth in a shallow bowl
+- 1 pencil, if you are marking the door frame this month
 
 **📝 Step-by-Step Instructions:**
-1. Set the shoebox on its side at the far end of the road. She writes the shop's name on paper with the marker and tapes it up.
-2. Stock it from the cupboard: six real cans and boxes, arranged how she wants them.
-3. Price each one in bottle caps. One cap, two caps, three. Her prices, and they make no sense.
-4. Load the truck at the parking garage end and drive the delivery the length of the road. Unload, restock, go again.
-5. Swap over. You shop, she serves, and she counts the coins into her hand out loud.
-6. Get the pad out. She dictates the shopping list for the 2:30 trip and you write every item she says, including the ones you will not be buying.
-7. Count the bottle caps back into the jar before you leave and put the lid on.
+1. Set the shoebox on its side at the far end of the road. She writes the shop's name on paper with the marker and tapes it up, then stocks it from the cupboard: six real cans and boxes, arranged how she wants them.
+2. Price each one in bottle caps. One cap, two caps, three. Her prices, and they make no sense.
+3. Load the truck at the parking garage end and drive the delivery the length of the road. Unload, restock, go again.
+4. Swap over. You shop, she serves, and she counts the coins into her hand out loud.
+5. Get the pad out. She dictates the shopping list for the 2:30 trip and you write every item she says, including the ones you will not be buying.
+6. Count the bottle caps back into the jar before you leave and put the lid on.
+7. The October handprint sheet comes out last. Kreston goes on it first while he is calm, the washcloth already in your other hand. Then Azlyn on the same sheet beside him. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **October**, her **3** and his **16 months** beside the pair. If you are marking the frame this month, this is the afternoon for it: both of them against the door frame, a pencil line each, with the name and the date beside it.
 
 > 💡 **Tip:** Buy one thing off her list at the store, whatever it is. She spends the trip watching to see whether her list counted.
 
@@ -50008,15 +49414,15 @@ deliver to, and her a reason to drive it forty times.
 
 > 👶 **Kreston's Afternoon:** He copies chores at 16 months, so give him the
 > lightest real job in the store: one packet to hold from the shelf to the
-> cart. He will carry it the whole way round if you let him. At home he hands
-> things up to Azlyn while she puts the shopping away.
+> cart. He will carry it the whole way round. At home he hands things up to
+> Azlyn while she puts the shopping away.
 
 ---
 
 > 🧠 **A Little Parenting Insight**
 > **Mid-autumn is a low-energy stretch, and lowering the bar is the right response.**
 > The run from the end of the light to the clocks changing is the flattest of the
-> year for small children, and Azlyn is in the back half of it now. The light
+> year for small children, and Azlyn is in the back half of it. The light
 > drops, the first colds arrive, and the novelty of the season has gone. A
 > three-year-old in that stretch does less, asks to be carried more and comes
 > apart over a sock. Halving the plan is the accurate response rather than the
@@ -50143,21 +49549,6 @@ stroller.
 - [ ] Craft sticks, 2
 - [ ] A stiff outdoor brush, and a hand brush for Kreston
 - [ ] Your phone, charged
-
----
-
-### 💛 A Note from Joseph
-
-> The jar of tap water goes into her box on Tuesday and it is the one thing in
-> there she will not be able to account for. A leaf, a stone, a handful of
-> grass with the soil still on it, all of that she can explain, and then water
-> out of a wall she has never once stopped to think about. I would have packed
-> something with a battery in it. Thursday she knocks on a neighbor's door
-> with a bag she carried the whole way, and she gets a doorstep of adult talk
-> aimed over the top of her head. Her account of it on the walk home will not
-> match a word of what got said, and her account is the one that lasts. Sunday
-> the ten coins run out with the blanket still up on the shelf, and the long
-> quiet after that is the part of the day she keeps.
 
 ---
 
@@ -50817,7 +50208,7 @@ write her reason on each thing.
 - Fill the box from indoors only, no coats needed.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she wears herself out before the bath
+- **Swimming**, and she wears herself out before the bath
 - The pool's quiet session, if the after-school crowd is in
 - Indoor playground, if the pool is closed
 - Straight home, if swimming has finished them off
@@ -51249,21 +50640,6 @@ table.
 - [ ] Fruit soft enough for her to cut with a table knife
 - [ ] 1 table knife and 1 chopping board
 - [ ] A drink and a snack she picks herself for the rucksack
-
----
-
-### 💛 A Note from Joseph
-
-> Everything this week comes back to the kitchen table with soil on it. Monday
-> she draws a card for every person in the house and says out loud what each
-> one carries all day. My guess at what she says about me is wrong somewhere,
-> and whatever she says about you belongs on the back of that card in your
-> handwriting. Her woodlouse will not look like a woodlouse, and in ten years
-> you will still know which one it was. The bug book she staples on Friday
-> will be coming apart by Thursday, which is what a book that got used looks
-> like. Wednesday she keeps ten things out of forty and walks the rest back
-> outside, and my money is on that being the fight of the week. Two of the ten
-> will be gravel.
 
 ---
 
@@ -51939,7 +51315,7 @@ the directions and you do as you are told.
 - Push a toy car round the bottle caps and skip the board.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - Indoor playground, if the pool session is full
 - The park in the last of the light
 - A café with a window and the bug book
@@ -52348,19 +51724,6 @@ carries straight through them.
 - [ ] A dinosaur picture book
 - [ ] Candy for the door bowl on Sunday
 - [ ] Party tea for Thursday
-
----
-
-### 💛 A Note from Joseph
-
-> Three holidays land in four days and not one of them has to happen on the
-> day it says. Push Monday's table to Tuesday, skip the pumpkin, let two of
-> the lamps crack in the oven. The part I keep coming back to is that table,
-> set for people who are not coming, and the plate of fries she will put down
-> next to a photograph of somebody who died before she was born. Thursday she
-> hands out tickets and walks people along a wall she filled herself, doubling
-> back twice for whatever she skipped. Her voice telling me what everything is
-> beats the pictures of it.
 
 ---
 
@@ -53040,7 +52403,7 @@ lands.
 - Match every toy animal to a print its own size.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - Indoor playground, if the session is cancelled
 - The library, a day early
 - A café with a window and something hot
@@ -54018,20 +53381,6 @@ covers it, and she will ask again next year.
 
 ---
 
-### 💛 A Note from Joseph
-
-> The Z is the one I lost the argument about, three days of it, and you
-> were right. Tuesday it comes off a cereal box the size of a stamp and
-> gets tied round the leg of a toy sheep with a length of wool. That
-> afternoon all five letters go missing round the room and she calls them
-> back in through a shoebox lid, one at a time, with a clipboard of her
-> own. Saturday there is a line on the salt tray page about saying nothing
-> when a letter comes out backwards. I put that line in for myself. The
-> correcting is the part I am no good at, and the tray shakes flat with
-> nothing left to point at.
-
----
-
 > 👶 **Kreston is 17 months this week**. He kicks a ball and carries things
 > while he walks, and two-word combinations are starting. **He turns 17 months
 > on Friday the 5th.**
@@ -54693,7 +54042,7 @@ works the gate this afternoon with a clipboard.
 - Tag the family instead, one card each, register at dinner.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she floats on her back longer than she could in September
+- **Swimming**, and she floats on her back longer than she could in September
 - Indoor playground, if the pool is closed for a school session
 - The library, a day early, for a book about sheep
 - A warm café and a window, if nobody has it in them
@@ -55117,23 +54466,6 @@ without breaking anything.
 - [ ] A bedsheet for the storm
 - [ ] A cushion each
 - [ ] A fridge magnet
-
----
-
-### 💛 A Note from Joseph
-
-> Somebody is going to sneeze in the middle of a take on Wednesday
-> afternoon, and that is the one I get played at dinner, eleven times, with
-> her hand on the phone. She records five sounds, puts them in her own
-> order, and calls each one as it goes. Sunday you are both flat on a
-> blanket in a park in November naming clouds, and the one rule on that
-> page is that neither of you argues with the other's. Tuesday she grows
-> frost on the outside of a tin in a warm kitchen, then stands in a dark
-> doorway and breathes out until she can see it. The three bottles have
-> been out in the weather since Friday filling on their own, which is the
-> one part of this week that runs without anybody. Thursday it all goes on
-> the fridge as seven squares and an eighth left blank for her guess at
-> Friday.
 
 ---
 
@@ -55796,7 +55128,7 @@ which one holds the heat.
 - Wrap a cold tin in a scarf and see what it does.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the warmest room she will be in today
+- **Swimming**, and the warmest room she will be in today
 - The indoor play center, if the pool is closed for a swim meet
 - The library, a day early, for the reading corner
 - A café with steamed-up windows and a hot chocolate she has earned
@@ -56200,20 +55532,11 @@ children busy and out of a hot kitchen while the house fills up.
 - [ ] 1 low shelf, or a shallow box
 - [ ] Photos of everyone in the family, and one of the tree in summer
 - [ ] 1 pressed leaf, if you kept one
-
----
-
-### 💛 A Note from Joseph
-
-> Thursday morning there is a walk round the block where you both stop at
-> every corner and name one thing. Hers will be the dog, the mashed potatoes
-> and a puddle. Mine, if I am on that corner and asked cold, is the photo you
-> sent me in July of the paddling pool with both of them in it and you out of
-> frame holding the hose. I have looked at that one more than you would guess.
-> The rest of the day is a hot kitchen and a house filling up, and she has one
-> dish on that table with nobody else's hands in it. Monday's jar starts
-> running this week and does not stop until the night she turns four, which is
-> the one part of this book that keeps going without either of us.
+- [ ] Thick card, 1 sheet, for November's handprint
+- [ ] Washable non-toxic poster paint
+- [ ] A wide soft brush
+- [ ] A wet washcloth in a shallow bowl
+- [ ] 1 pencil, if you are marking the door frame this month
 
 ---
 
@@ -56541,7 +55864,7 @@ bundles of three, and the best bundle hangs on the front door until Christmas.
 
 **🧰 You need:** 1 large tub · the bags of beans, rice, lentils and oats · a yogurt pot, an egg cup and a spoon.
 
-1. Tip all four bags into the tub and let her mix them with both arms until she is bored of it.
+1. Tip all four bags into the tub and let her mix them with both arms until she is bored.
 2. Lay the yogurt pot, the egg cup and the spoon in front of her. Agree on the yogurt pot together, and put the other two away.
 3. Six scoops out of the tub and six back in, counting out loud.
 
@@ -56570,20 +55893,20 @@ bundles of three, and the best bundle hangs on the front door until Christmas.
 Find the corner where the wind has piled the leaves deepest, against a fence or
 in the lee of a wall. Stand her in it and see where they come up to: over the
 boot, past the ankle, halfway to the knee. Do three places and name a winner.
-Make the last one the corner of your own yard, and tell her that pile is this
-afternoon's job.
+Make the last one your own yard, and tell her that pile is this afternoon's
+job.
 
 > 👶 **Infant Integration:** Kreston is 17 months and leaf piles are the best
-> thing outdoors for him right now. Set him down in a clear patch and let him
-> wade, kick and fall over in it. He will hand you single leaves for ten
-> minutes, so take each one.
+> thing outdoors for him. Set him down in a clear patch and let him wade, kick
+> and fall over in it. He will hand you single leaves for ten minutes, so take
+> each one.
 
 <div style="page-break-after: always;"></div>
 
 ### 🎨 Second Main Event: The Bag of Leaves That Waits Till Spring
 
 This afternoon's pile is the corner of the yard the wind fills every year. The
-bucket is the unit now, and the bag goes into a sheltered corner until it turns
+bucket is the unit now, and the bag waits in a sheltered corner until it turns
 into soil.
 
 **🧰 Complete Materials List:**
@@ -56594,6 +55917,9 @@ into soil.
 - 1 permanent marker
 - String, to tie the bag
 - A sheltered corner outside
+- Thick card, 1 sheet, for November's handprint
+- Washable non-toxic poster paint and 1 wide soft brush
+- 1 wet washcloth in a shallow bowl
 
 **📝 Step-by-Step Instructions:**
 1. Gloves on, hers first, and let her do the fastening.
@@ -56602,8 +55928,9 @@ into soil.
 4. Fill the second bag once the first is full, and start a fresh count at one.
 5. Write the number of bucketfuls, the date and **LEAVES** on each bag while she watches. Tie the necks with string.
 6. Drag the bags to the sheltered corner together. Tell her they open in spring and what comes out is not leaves.
+7. Gloves off, hands washed, and the November handprint sheet comes out on the kitchen table. Kreston's palm goes first while he is calm, washcloth already in your other hand, and **November** and **17 months** go beside his print. Azlyn's goes on the same sheet. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **November** and **3** beside it.
 
-> 💡 **Tip:** Punch a few holes in each bag with the fork before you tie it, and wet the leaves down if they are dry. A wet bag with air in it is soil by April; a dry sealed one is still leaves.
+> 💡 **Tip:** Punch a few holes in each bag with the fork before you tie it, and wet the leaves if they are dry. A wet bag with air in it is soil by April; a dry sealed one is still leaves.
 
 ### 🎯 Afternoon Alternatives
 - One bag, twenty minutes, done.
@@ -56619,8 +55946,8 @@ into soil.
 
 > 👶 **Kreston's Afternoon:** Give him his own small bucket with three leaves
 > in it and a job carrying them the length of the yard. At 17 months he will
-> drop the bucket about every fourth step. Keep him well away from the bags, at
-> the open end of the yard with something to kick.
+> drop the bucket every fourth step. Keep him well away from the bags, at the
+> open end of the yard with something to kick.
 
 ---
 
@@ -56630,10 +55957,9 @@ into soil.
 > together only while the scoop refuses to change. That idea sits underneath
 > every ruler, cup and kitchen scale she will ever use, and three-year-olds take
 > their time getting to it, because nothing else in her world holds a fixed size
-> on purpose. Swapping the pot for a mug hands her the failure in one go,
-> without a word of explanation from you. Piaget built a famous experiment out
-> of this same confusion, with two glasses and a pitcher of water. Yours costs a
-> spilled jar and takes four minutes.
+> on purpose. Swapping the pot for a mug hands her the failure without a word
+> from you. Piaget built a famous experiment out of the same confusion, with two
+> glasses and a pitcher of water. Yours costs a spilled jar and four minutes.
 
 > ⚠️ **Safety:** Trash bags are a suffocation risk. Keep them out of Kreston's
 > reach the whole time and put the spare bags away before he comes outside.
@@ -56702,7 +56028,9 @@ into soil.
 Go back to the tree you have walked past all year, the one you looked at on the
 first day of January. It has nothing on it now. Stand under it and look straight
 up through the branches. Ask her about the summer. Bring home one fallen twig
-with buds on it, because next year's buds are already there.
+with buds on it, because next year's buds are already there. The leaves being
+off was one of the markers you gave her in July for the bottle on the shelf,
+so tell her the leaves are off now and let her go and look at it.
 
 > 👶 **Infant Integration:** Kreston is 17 months and he needs to touch this
 > one. Hold him up to the trunk and let him get both palms flat on the bark,
@@ -56723,6 +56051,7 @@ and this morning's twig taped onto it.
 - Sticky tape
 - 1 pressed leaf, if you kept one
 - A summer photo of the tree, or her memory of it
+- 1 pencil, if you are marking the door frame this month
 
 **📝 Step-by-Step Instructions:**
 1. Roll the strip out and fold it into four panels. She kneels at one end and works left to right.
@@ -56731,7 +56060,7 @@ and this morning's twig taped onto it.
 4. Panel three is summer, and it wants more crayon than the other three together. Show her the photo, then leave her to it.
 5. Panel four is autumn: orange, red, half the leaves on the ground. Tape the pressed leaf onto this panel.
 6. Tape the twig onto panel one. Walk her along the strip from one to four, then take her hand and carry it round from four back to one.
-7. Tape the strip along the wall at her height, low enough for her to touch the panel the house is in today.
+7. Tape the strip along the wall at her height, low enough for her to touch the panel the house is in today. If you are marking the frame this month, this is the afternoon for it. Two pencil lines on the door frame, name and date beside each, while the strip is still going up.
 
 > 💡 **Tip:** Draw the trunk on all four panels yourself before she starts, in the same place each time. Four different trees on one strip loses the whole idea.
 
@@ -56873,7 +56202,7 @@ posted into the month they belong to. The wheel is how she finds them.
 - Line the envelopes up on the floor and walk along them.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and warmer than anything outdoors today
+- **Swimming**, and warmer than anything outdoors today
 - Indoor playground, if the pool is booked out before the holidays
 - The library, a day early
 - A hot chocolate somewhere with a radiator
@@ -57321,21 +56650,6 @@ Thursday as parts of a dinner nobody helped her design.
 - [ ] Sticky notes
 - [ ] Refrigerator magnet
 - [ ] Scissors, adult only
-
----
-
-### 💛 A Note from Joseph
-
-> December arrives on Wednesday, which leaves about four weeks of this book.
-> Thursday she walks the route you walked on New Year's Day and stands under
-> the same bare tree. Kreston walked none of that route in January and
-> manages most of it now, with a washed carrot in his fist that he drops
-> once. Thursday night she cooks and the house eats it, and that is one of
-> the few days in this book I am at the table for. She has the ladle, so the
-> plates come out uneven and whoever gets the short bowl gets the short
-> bowl. Somebody will want to fix her seasoning, and if it turns out to be
-> me you can hold me to the no. The drawer on Wednesday outlasts every meal
-> this week.
 
 ---
 
@@ -58032,7 +57346,7 @@ her pour.
 - Two pitchers, one sink, one dish towel.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - Indoor playground if the pool is closed for cleaning
 - The library, for a book about food
 - Home, with the tray again, on a week that has been long
@@ -59036,22 +58350,6 @@ street built in a doorway.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Saturday is a dozen villagers with a name each and one question, and your
-> pencil taking down what every one of them answers with her verbs left
-> wrong. In January the cardboard goes out for recycling. I would keep that
-> page. Kreston turns eighteen months on Sunday at the far end of the room
-> with a dry pile of newspaper, a bowl and a spoon, and the thing worth
-> watching is whether he feeds any of it to a toy. Wednesday the house gives
-> up its own names, the hall for the road and the bathroom for the river, and
-> the labels stay taped up overnight, so it is still the village at breakfast
-> and she will check. Thursday the big light goes off at one o'clock and she
-> tells the dark part herself with the flashlight in her own hand, wolf and
-> all.
-
----
-
 > 👶 **Kreston is 17 months this week**. He kicks a ball with his whole body
 > behind it, copies any hands he can see, and is putting two words together
 > (*my one*, *that box*). **He turns 18 months on Sunday the 5th**, and from
@@ -59701,7 +58999,7 @@ noticed.
 - Shadow puppets on the wall with the flashlight instead.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and warm showers after
+- **Swimming**, and warm showers after
 - Indoor play, if the pool is closed for a swim meet
 - The library, a day early, for a book about a town
 - A warm café and the story box on the table
@@ -60111,22 +59409,6 @@ three than it sounds.
 - [ ] Every soft toy and toy animal in the house
 - [ ] Every coat and jacket by the front door
 - [ ] Sofa cushions, a blanket or sheet, and 2 dining chairs
-
----
-
-### 💛 A Note from Joseph
-
-> The trail goes down on the kitchen floor on Wednesday night after she is
-> asleep, and you are the one on your knees with the flour. She finds it at
-> eight the next morning in the dark with a flashlight, and her face in that
-> first second is the piece of this week I lose. She will ask whether you did
-> it, and the answer that keeps the morning alive is another question. It
-> comes off the floor at four, two hours before I am through the door, and
-> the only evidence left by then is a tray of salt dough going hard in a low
-> oven. Sunday I get the other end of it, her own voice coming out of your
-> phone at dinner while she stands next to it and watches me listen. Monday
-> she hauls every soft toy in the house up the stairs a bagful at a time, and
-> Tuesday she puts one bare hand in ice water and calls it before you ask.
 
 ---
 
@@ -61209,20 +60491,6 @@ told so.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Monday she stands against the door frame with a book flat on her head and
-> the pencil line goes in above January's. I made that first mark thinking the
-> growth chart would be my thread through the year. Every one after it is in
-> your handwriting. The gap you measure on her birthday is twelve months of
-> your mornings, and what I get is the photograph of it. The cake will come
-> out blue and lumpy and she will want to carry it in herself. Tuesday is the
-> longest night of the year in the same week you have to be the bright one,
-> and the ring of ice on the step is the thing on these pages I most want to
-> watch her light.
-
----
-
 > 👶 **Kreston is 18 months this week**. He climbs the stairs holding the rail,
 > pretend play has started, so a sock and an empty tub hold him ten minutes at a
 > stretch and he comes back to them, and he has twenty-odd words and wants every
@@ -61896,7 +61164,7 @@ Tonight is the longest night of the year. You answer it with ice and one small f
 - Draw the shortest day: one small sun and a lot of dark paper.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and the warmest place she will be today
+- **Swimming**, and the warmest place she will be today
 - Indoor playground if the pool is booked up with the holiday crowd
 - The library, a day early
 - Home and a warm bath if the dark has taken the fight out of everyone
@@ -62070,7 +61338,7 @@ window gets lit after dark.
 **Theme:** Water & Weather Wonders
 
 ### 🌙 Prep Tonight
-> Save the newspaper and put it with the foil, a large tray and a cup by the sink. Set an orange aside for the peel.
+> Save the newspaper and put it with the foil, a large tray and a cup by the sink. Set an orange aside for the peel. Dig April's tree string out for the walk.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Racing Two Drops Down the Glass
@@ -62095,7 +61363,7 @@ window gets lit after dark.
 **🧰 You need:** 1 window or a glass shower screen · 1 small cup of water · 1 teaspoon.
 
 1. Two fat drops onto the glass at the top, side by side, off the teaspoon. She picks which one is hers.
-2. Watch. They stall, they wander, then one swallows a smaller drop on the way past and takes off. Run it three times, and she calls the winner.
+2. Watch. They stall, they wander, then one swallows a smaller drop and takes off. Run it three times and she calls the winner.
 3. Ask what makes a drop go faster. Take whatever she says and tell her there is a river on the table at 9:15.
 
 ### 🎨 The Main Event: The River Made of Foil
@@ -62113,7 +61381,7 @@ window gets lit after dark.
 
 **📝 Step-by-Step Instructions:**
 1. One dish towel folded on the floor under one end of the tray, so the tray runs downhill. The second towel stays in your hand.
-2. She scrunches the newspaper into hills and lays them across the tray. Her mountains, her positions. Push the cup down among them, open end up, as the lake.
+2. She scrunches the newspaper into hills and lays them across the tray. Her mountains, her positions. Push the cup down among them as the lake.
 3. Lay foil over the landscape and press it into every gap with her fingers. Press hard and a valley forms. Tape the foil round the rim.
 4. Blue coloring into the pitcher and a good shake of the handle to mix it.
 5. Pour slow at the high end and neither of you touch it. The water finds the lowest line, fills the lake and runs over the side.
@@ -62124,17 +61392,17 @@ window gets lit after dark.
 ### 🌳 Get Outside: Following It to the Drain
 
 Take the same idea out to the street, and pick a wet morning if you get one. She
-followed a leaf to a drain back in the summer and she will remind you of it, so
-this time the question goes past the drain. Begin at the roof edge and work
-down: gutter,
-downspout, along the curb past the leaves damming it, to the storm drain. She
-drops a leaf in and walks beside it. Ask where it goes after the drain and leave
-the answer until 1:00.
+followed a leaf to a drain in the summer and will remind you of it, so the
+question goes past the drain today. Begin at the roof edge and work down:
+gutter, downspout, along the curb past the leaves damming it, to the storm
+drain. She drops a leaf in and walks beside it. Ask where it goes after the
+drain and leave the answer until 1:00. Finish at the tree she named in April.
+Wrap April's string round the trunk at the old landmark and the ends will not
+meet. Cut a new one, flag it with the date, and take the fourth photograph.
 
 > 👶 **Infant Integration:** Kreston is 18 months and wants to be in every puddle
 > you pass, so put him in rain boots and let him have one. Stamping is his
-> version of following the water. He will bring you leaves for the curb, so take
-> each one and use it.
+> version of following the water. He will bring you leaves for the curb.
 
 <div style="page-break-after: always;"></div>
 
@@ -62157,7 +61425,7 @@ drawn big enough to stand on.
 3. She draws each stop on the box with the crayons, in order, and you write the word beside it in marker.
 4. Cut the paper drop out and write her name across it. Roll a loop of tape onto the back so it lifts and sticks again.
 5. She walks the drop round the loop with a finger, saying each stop. Then round again faster, then backward.
-6. Tape the photos onto the stops they belong to. If nothing got printed, she draws them.
+6. Tape the week's photos onto the stops they belong to, or she draws them.
 7. Move the drop to where she thinks the real water is now and leave it for 4:15.
 
 > 💡 **Tip:** Let her put the drop somewhere wrong and leave it. She fixes it herself within the hour.
@@ -62303,28 +61571,13 @@ more open flame in it than any other week of the year.
 - [ ] A cloth to cover the photo table
 - [ ] A washcloth and a hair tie
 - [ ] A clean paintbrush or an old toothbrush
+- [ ] Washable non-toxic poster paint and 1 wide soft brush
+- [ ] 1 sheet of thick paper, for Tuesday's December handprint
 - [ ] Printed photos, 6–10, one of everybody including anyone who has died
 - [ ] Your address list
 - [ ] One thing from the house to wrap for Wednesday
 - [ ] A board book and a sock ball for Kreston's hiding round
 - [ ] Ten small things with a pattern underneath: a comb, a coin, a key, a toy car, a big leaf
-
----
-
-### 💛 A Note from Joseph
-
-> Wednesday belongs to you and she runs all of it, from the frosting spread
-> with four fingers to the seating plan that puts you where she wants you.
-> The first slice is yours, and the card she reads out will not match the
-> drawing on the front of it. Thursday the photographs go up on the covered
-> table with the pine she cut round the base, and the people who have died
-> get a stand the same size as everybody else's. She will ask the plain
-> question there and three more times before the week is out, and the fourth
-> answer is the one I would get wrong. A four-year-old who can run a birthday
-> is copying somebody, down to the order she does it in, and the thing I did
-> not know in January is how exact the copying would get. This is the last of
-> these pages, and it leaves her four, Kreston eighteen months, and the candy
-> divided into bags with everybody's name taped on.
 
 ---
 
@@ -62874,15 +62127,14 @@ a real job at the end of them.
 
 > 🧠 **A Little Parenting Insight**
 > **Fire and flame need rules, not avoidance.**
-> Every four-year-old finds matches at some point, and the ones never allowed
-> near a flame are the ones who experiment alone. Fire-safety researchers have
-> said the same for decades: supervised handling, a short list of rules the
-> child says out loud, and real jobs (blowing out, smothering, carrying the
-> unlit candle) beat a blanket ban. She learned three rules this morning by
-> saying them, and she has now seen what a jar does to a flame. Say yes to the
-> birthday candles, the menorah and the stove, hands
-> close and rules short. She is safer for having handled it with you standing
-> there.
+> A child who has never been near a flame with you is the one who tries it
+> alone in a bedroom. That is the argument for doing it together, with the
+> matches back out of reach afterward. Fire takes skin in under a second and a
+> house from one curtain, so the handling happens on a metal tray, water and a
+> wet cloth inside your reach. She learned three rules this morning by saying
+> them out loud, and she has watched a jar starve a flame of air. Give her the
+> real jobs: blowing out, smothering, carrying the unlit candle. Say yes to the
+> birthday candles, the menorah and the stove, hands close and rules short.
 
 > ⚠️ **Safety:** Open flame, matches and hot wax at 9:15, hot milk on a stove
 > at 1:00, and an 18-month-old who pulls himself up on counters. The matches go
@@ -62926,7 +62178,7 @@ a real job at the end of them.
 **🧰 You need:** 1 fork · 1 shallow bowl · ten minutes of the house · her.
 
 1. Turn a fork over and show her the back of it, then the sole of her shoe. Both carry a pattern.
-2. Send her round the house for ten things with a pattern underneath: a comb, a coin, a bottle cap, a toy car, a key, a big leaf off the windowsill.
+2. Send her round the house for ten things with a pattern underneath: a comb, a coin, a bottle cap, a key, a big leaf.
 3. Line them up in the bowl in the order she found them. Every one leaves a copy of itself behind by lunchtime.
 
 ### 🎨 The Main Event: The Clay Keeps the Shape
@@ -62941,7 +62193,7 @@ a real job at the end of them.
 
 **📝 Step-by-Step Instructions:**
 1. Fold the newspaper into a pad the size of a placemat. Everything happens on top of that, because clay picks up whatever it is lying on.
-2. Warm the clay between your palms until it gives, then roll ten pucks the width of her hand and press each one flat, about a finger thick. She lays one puck out per object.
+2. Warm the clay between your palms until it gives, then roll ten pucks the width of her hand and press each flat, about a finger thick. One puck per object.
 3. First object face down onto the first puck, and she presses it home with the flat of both thumbs, middle first and then out to the edges.
 4. Back of the wooden spoon round the rim, rubbed slow. The comb teeth and the letters round the coin come up sharp.
 5. Lift the object straight up while she holds the puck down with her other hand. A sideways pull drags the print out of shape.
@@ -62977,6 +62229,9 @@ The ten prints are done, and now they go under the oats.
 - The ten clay prints
 - Index cards or card cut to size
 - 1 marker
+- 1 sheet of thick paper, for the December handprint
+- Washable non-toxic poster paint and 1 wide soft brush
+- 1 wet washcloth in a shallow bowl
 
 **📝 Step-by-Step Instructions:**
 1. Oats into the deep tray three fingers deep, on the kitchen floor and off the carpet.
@@ -62984,8 +62239,8 @@ The ten prints are done, and now they go under the oats.
 3. Show her once and hand it over: the spoon moves the oats, the brush clears the last of it. Dig wide, brush close.
 4. Every print comes out face down. She turns it over, says what made it, then checks against the object.
 5. Line the prints along the floor with their objects beside them.
-6. One index card per print. She dictates and you write it with the marker, word for word: *the bottom of my shoe*.
-7. Swap. She buries them for you and stands over the tray telling you where you are wrong.
+6. One index card per print. She dictates and you write it with the marker, word for word: *the bottom of my shoe*. Then swap, and she buries them for you and stands over the tray telling you where you are wrong.
+7. The December handprint last, on paper, while the oats go back in their bag. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up, then Kreston's beside hers with the washcloth already in your hand. Write **December**, her **4** and his **18 months** next to the pair.
 
 > 💡 **Tip:** Sift the oats back into their bag. They get buried and dug out a dozen more times before they go gray.
 
@@ -63026,7 +62281,7 @@ The ten prints are done, and now they go under the oats.
 > risk, so it goes on the counter the moment you step away. The coin and the
 > bottle cap in her ten are choke-sized, so they get counted out onto the pad
 > and counted back into the bowl, and he is in the high chair for the dig.
-> Everybody washes hands before food.
+> Washable non-toxic paint only. Everybody washes hands before food.
 
 <div style="page-break-after: always;"></div>
 
@@ -63308,7 +62563,7 @@ tomorrow.
 **Theme:** Grand Finale
 
 ### 🌙 Prep Tonight
-> Dig out the eleven handprint sheets and stand them on the table with the paint, the brush and the scissors. Leave the box and the bottle on the shelf. She gets them down herself in the morning.
+> Dig out the twelve handprint sheets and stand them on the table with the scissors. Leave the box, the bottle and the April envelope on the shelf. She gets them down herself in the morning.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Getting Them Down Off the Shelf
@@ -63330,20 +62585,21 @@ tomorrow.
 
 ### 🌅 Opening Activity: Getting Them Down Off the Shelf
 
-**🧰 You need:** the January box · the July bottle · 1 chair she can stand on · 1 pen · 1 envelope.
+**🧰 You need:** the January box · the July bottle · the April envelope · 1 chair she can stand on · 1 pen · 1 blank envelope.
 
-1. She drags the chair over. Stand behind her while she lifts the box down with both hands, then the bottle, both to the table.
+1. She drags the chair over. Stand behind her while she lifts the box down with both hands, then the bottle, and April's envelope comes off the shelf edge with them.
 2. Read the lid out loud with her: **OPEN DECEMBER 31, 2027**. Then read today off the calendar. She has waited a year for this, so give her the minute.
-3. She shakes the box and guesses what is in it. Write every guess on the envelope and stand it against the lid until 9:15.
+3. She shakes the box and guesses what is in it. Write every guess on the blank envelope and stand it against the lid until 9:15.
 
 ### 🎨 The Main Event: Opening the January Box
 
 **🧰 Complete Materials List:**
 - The sealed January shoebox
+- The April envelope, sealed since Day 92
 - 1 pair of scissors (**adult only**)
 - Fresh paper, 2 sheets
 - 1 pen and crayons
-- The envelope of guesses
+- The envelope of guesses from 8:00
 - Your phone
 
 **📝 Step-by-Step Instructions:**
@@ -63351,8 +62607,8 @@ tomorrow.
 2. One thing out at a time, laid in a row, no digging. The photograph, the drawing, her answers, and the January walk treasure last.
 3. Ask the four questions in the same order and write the answers word for word before she hears the old ones: favorite color, favorite food, favorite song, what she wants to do this year. Leave her grammar where it lands.
 4. Unfold January's and read them out, then lay the sheets side by side. Read them in pairs, January's answer and then today's, and let the difference sit there.
-5. Fresh paper and crayons, and she draws the family again with January's beside her. She will tell you who she left off.
-6. Check the guesses against what came out, then photograph the table before anything moves.
+5. Now the April envelope, cut open along one end with the scissors. Her spring answers go on the table between the other two, so the row reads January, April, December, and the middle set is the one she cannot remember giving.
+6. Fresh paper and crayons, and she draws the family again with January's and April's beside her. She will tell you who she left off. Check the guesses against what came out, then photograph the table before anything moves.
 
 > 💡 **Tip:** Her answers before January's. Read January's out first and she copies herself, and the copy tells you nothing.
 
@@ -63360,7 +62616,9 @@ tomorrow.
 
 Walk the January route the same way round and let her call every turn. The
 trees are back to the shape she met on the first walk of the year, bare and all
-structure, and she has names for two of them. Hand her a paper bag and the
+structure, and she has a name for one of them. Stop where January's photograph
+was taken and take the fourth one from the same spot, the last of the four.
+Hand her a paper bag and the
 same instruction: one thing worth keeping. She will tell you where it is going
 before you do.
 
@@ -63374,16 +62632,13 @@ before you do.
 
 ### 🎨 Second Main Event: What the Bottle Was Holding
 
-The bottle went up beside the box in July and she has asked about it since
-October. The door frame and the eleven sheets of hands follow it.
+The bottle went up beside the box in July and she asked about it again when the
+leaves came off. The door frame and the twelve sheets of hands follow it.
 
 **🧰 Complete Materials List:**
 - The sealed July bottle
 - 1 pair of scissors (**adult only**)
-- The eleven handprint sheets, January through November
-- 1 fresh sheet of thick paper
-- Washable non-toxic poster paint and 1 wide soft brush
-- 1 wet washcloth in a shallow bowl
+- The twelve handprint sheets, January through December
 - 1 pencil and 1 hardback book
 - A long strip of paper to cut the year from
 - The empty shoebox, packing tape and a permanent marker
@@ -63394,8 +62649,7 @@ October. The door frame and the eleven sheets of hands follow it.
 3. One strip is folded, and that one is yours. She hands it over and you read it out this time.
 4. Door frame. Shoes off, heels back, book flat on her head, pencil mark, **DEC 31** beside it. Cut a strip of paper from January's line to today's and hand her both ends.
 5. Draw round her flat hand beside January's outline, then let her put her palm inside the old one. The gap round the edge is the year.
-6. December's handprint on the twelfth sheet: paint her palm, press flat, count to three, lift straight up. Write **December** and **4**.
-7. All twelve sheets on the floor in order, January at one end and today's still wet at the other. Then today goes in the shoebox, taped shut, **OPEN DECEMBER 31, 2028** on the lid.
+6. All twelve sheets on the floor in order, January at one end and Tuesday's December at the other. Then today goes in the shoebox, taped shut, **OPEN DECEMBER 31, 2028** on the lid.
 
 > 💡 **Tip:** Stand the new box where the old one stood, high and in her sightline. She checked that shelf all year, and a year runs better with something on it.
 
@@ -63414,8 +62668,8 @@ October. The door frame and the eleven sheets of hands follow it.
 > 👶 **Kreston's Afternoon:** He went on that door frame lying down on Day 1 and
 > stands for it today, heels against the wood and your hand flat on his head.
 > His January print sits under Azlyn's, made while somebody held his fist open.
-> He presses his own palm down now and lifts it off himself, and one sheet
-> comes back with a footprint on it.
+> On Tuesday's December sheet he pressed his own palm down and lifted it off
+> himself, and one sheet in the row carries a footprint.
 
 ---
 
@@ -63430,14 +62684,14 @@ October. The door frame and the eleven sheets of hands follow it.
 > None of it arrives with a date on it, and she cannot call it up as an
 > episode. The year went into her. The box on the table is for you.
 
-> ⚠️ **Safety:** The scissors open two sealed things today, so they go back up
-> out of reach between the two and never onto the table. The January contents
+> ⚠️ **Safety:** The scissors open three sealed things today, so they go back up
+> out of reach between each one and never onto the table. The January contents
 > are choking-sized: the walk treasure, the ribbon round each strip, the sand
 > and the stones in the bottom of the bottle. Kreston is at the table for all
 > of it, so tip the sand into the trash yourself and the ribbons into your
 > pocket as they come off. She is on a chair at 8:00 to reach the shelf, so
 > keep both hands on the chair while she is up there and bring the box and
-> the bottle down one at a time. Washable non-toxic paint only.
+> the bottle down one at a time.
 
 <div style="page-break-after: always;"></div>
 <a id="backup-dec"></a>
@@ -64176,7 +63430,9 @@ page it lives on, so the hunt takes a few seconds instead of a booklet.
 
 # 🎁 Keepsake Tracker
 
-Eight threads in this book run past December 31. This page is the record of
+Seven threads in this book run past December 31, and one more sits here as an
+offer rather than a thread: the memory jar in section 5 is not asked for on
+any day, so start it whenever you want it. This page is the record of
 them, so the box, the door frame, the twelve sheets of hands and the four walk
 photographs stay findable after the booklets go in a drawer. Fill it in on the
 page, in pen, and keep the page with the box.
@@ -64233,8 +63489,10 @@ the old one.
 
 **January 1 to December 31, the gap measured:** ____________________
 
-You mark the frame on Day 1, Day 209, Day 354 and Day 365. The twelve rows
-below sit here for anyone who wants to mark it more often than that.
+The frame can be marked any month of the year, and the book puts it in front
+of you in every one of the twelve. Take the ones that suit and add your own on
+any morning she stands up straight against the wood. The rows below hold them
+all.
 
 | Month | Date marked | Azlyn's height | Kreston's height |
 |---|---|---|---|
@@ -64259,12 +63517,14 @@ below sit here for anyone who wants to mark it more often than that.
 
 ## 3. ✋ The Twelve Handprints
 
-One sheet a month, painted on with the brush rather than dipped, pressed flat
-for a count of three and lifted straight up, with the month and her age beside
-it. December's went down on Day 365 and all twelve came out onto the floor in
-order, January at one end and the wet one at the other. Somebody held
-Kreston's fist open for his January print. By December he pressed his own palm
-down and lifted it off himself.
+One sheet for each calendar month, both children on the same sheet, twelve in
+all. Paint her palm with the brush rather than dipping her hand, press flat,
+count to three, lift straight up, and write the month and each child's age
+beside the prints. December's went down on Day 362 and all twelve came out
+onto the floor on Day 365 in order, January at one end and December's at the
+other.
+Somebody held Kreston's fist open for his January print. By December he
+pressed his own palm down and lifted it off himself.
 
 - [ ] January
 - [ ] February
@@ -64349,20 +63609,20 @@ page in pen, because paper slips go soft and vanish.
 You walked the same route four times and photographed it from the same spot.
 On Day 1 the trees were bare and all structure. On Day 154 you walked it under
 a ceiling of leaves and took the summer picture standing where you stood in
-January. Pick the autumn one on a morning the color is at its best. On Day 365
-you walked it with the bare trees again, so take the last picture on that walk
-or use one you already have from that week. Keep the four together.
+January. Day 287 gave you the autumn one, with the color at its best. On Day
+365 you walked it with the bare trees again and took the fourth picture from
+the same spot. Keep the four together.
 
 | Season | Day | Date walked | What she noticed | What changed |
 |---|---|---|---|---|
 | Winter | Day 1 | | | |
 | Summer | Day 154 | | | |
-| Autumn | | | | |
-| Winter again | Day 365, photo optional | | | |
+| Autumn | Day 287 | | | |
+| Winter again | Day 365 | | | |
 
 **The four photographs are kept:** _____________________________________
 
-**She named these trees:** _____________________________________________
+**She named this tree:** _______________________________________________
 
 ---
 
@@ -64405,7 +63665,7 @@ years from now, in the same handwriting.
 | Wants to do | | | | |
 
 > 💡 At one, Kreston answers none of these. Write what he did that morning
-> instead, and put his word count in the box for the year. The column fills in
+> instead, and put that in the boxes for the year. The column fills in
 > later.
 
 ---
@@ -64420,31 +63680,5 @@ number.
 **She set them on her own from:** ______________________________________
 
 **The job grew to include:** ___________________________________________
-
-<div style="page-break-after: always;"></div>
-<a id="closing"></a>
-
-## 💛 The Last Page
-
-
-Brooklyn, you got to the end of it. I wrote these mornings a long way from
-your kitchen, with a calendar and a set of guesses about what 8:00 costs on
-a Tuesday in March with both of them awake and one of them teething. You
-paid it 365 times. The book planned the days and you ran them.
-
-Keep this copy, the one with the pencil in it. The crossed-out days tell you
-more than the printed ones, and Kreston gets his turn in a few years, so the
-margins are for you first and then for him. The backup pages hold up in any
-year: two bad weather days a month, two sick days, an extras page you may
-never have opened. Nothing in there goes stale.
-
-She started the year with a tower that fell at four blocks and finished it
-telling you which tree on the walk belongs to her. Kreston sat propped on
-the rug in January and came up the stairs behind her in December. You were
-in the room for all of that.
-
-Plenty of days this year nothing got made and nothing got crossed off. She
-had you for the whole of those days, and that was the curriculum from the
-start.
 
 <div style="page-break-after: always;"></div>

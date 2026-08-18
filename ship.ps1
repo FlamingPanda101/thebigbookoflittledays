@@ -1,5 +1,5 @@
 $ErrorActionPreference = "Stop"
-Get-ChildItem months\*.md | Sort-Object Name | Get-Content | Set-Content "The-Big-Book-of-Little-Days-2027.md"
+Get-ChildItem months\*.md | Sort-Object Name | Get-Content -Encoding utf8 | Set-Content "The-Big-Book-of-Little-Days-2027.md" -Encoding utf8
 python tools\validate.py
 if ($LASTEXITCODE -ne 0) { throw "Validation failed - not committing" }
 git add -A

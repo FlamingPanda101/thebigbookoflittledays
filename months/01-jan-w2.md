@@ -101,20 +101,6 @@ writes about Kreston. Back those up before Thursday.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Second week, and the house goes loud. I wrote Monday in about twenty
-> minutes, a saucepan taped to the floor and two wooden spoons, and at no
-> point did I think about what that room sounds like at 9:40 with a baby in
-> it. Tuesday afternoon she makes up a verse about her brother and you record
-> it in one take. Send me that one the day it happens, while it is still
-> Tuesday. Friday's whisper verse sits after the loud one because I wanted
-> something quiet on the other side of it. The scarf that afternoon means a
-> three-year-old decides when everything in the room gets louder, and I am the
-> one who handed her the scarf.
-
----
-
 > 👶 **Kreston is 7 months this week**. He reaches across his own body for
 > something on the far side, moves a toy from one hand to the other to get a
 > better look at it, and babbles in long strings with a beat running through
@@ -778,7 +764,7 @@ brother.
 - Sing the old words in four voices and let her pick a winner.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she can sing in the changing room
+- **Swimming**, and she can sing in the changing room
 - Indoor playground if the pool is shut or the line is out the door
 - The library, a day early
 - A warm cafe and a window, if nobody has the energy for a pool

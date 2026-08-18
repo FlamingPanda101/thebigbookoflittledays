@@ -60,7 +60,8 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] A shoebox with a lid
 - [ ] A larger box with one wide slot, for Kreston
 - [ ] A cereal box or stiff card, for the loom
-- [ ] Thick card, 10 sheets, for portraits, labels and tickets
+- [ ] Thick card, 11 sheets, for the February handprint, the portraits, the labels and the tickets
+- [ ] A pencil, if you are taking the door-frame marks this month
 - [ ] Junk mail, catalogs and magazines (start saving now)
 - [ ] Colored paper, if you have it
 - [ ] A large sheet for the garden: the back of wrapping paper or a flattened box
@@ -120,24 +121,7 @@ the ground is soft enough to dig a color out of on Monday.
 - [ ] An empty wipes box and a burp cloth, for Kreston
 - [ ] A hand mirror
 - [ ] A flashlight with fresh batteries
-- [ ] A towel for the sink, and old clothes for the mud
-
----
-
-### 💛 A Note from Joseph
-
-> My old blue shirt is the apron on Friday. It has sat folded in the bottom
-> of the closet doing nothing for two years, so whatever comes back on it is
-> an improvement and nobody has to get it clean. There is no green in the
-> house that morning until she makes some, and she names all six colors she
-> mixes, so the rest of the week runs on mud and sunset and dark. Sunday
-> afternoon there is a ball of salt dough for every person in this house,
-> and one of them gets built into a face of me out of lentils and yarn by
-> somebody who last saw me at breakfast. Thursday she seals a guess under
-> the cookie plate about which picture on that wall I am going to pick, and
-> my own guess is that she names her favorite and gets a surprise off me at
-> six. Kreston has a ticket to the gallery and it will be in his mouth
-> before the tour reaches the second wall.
+- [ ] A towel for the sink, a washcloth for Kreston's hands, and old clothes for the mud
 
 ---
 
@@ -518,15 +502,20 @@ changed thirty times.
 - Yarn or string cut into short lengths for hair
 - 1 dinner plate each as a work surface
 - 1 table knife
+- Washable paint and a wide brush
+- 1 sheet of thick card for the February handprint
+- 1 wet washcloth
+- 1 permanent marker
+- 1 pencil, if you are marking the door frame this month
 
 **📝 Step-by-Step Instructions:**
-1. Flour and salt in the bowl, oil in, then water in stages while she stirs. Wet dough takes another handful of flour, and she decides when it stops sticking.
-2. Knead it on the table for five minutes between you. It goes from claggy to smooth and she will feel the moment it turns.
-3. Split it into balls, one for each person in the house. She flattens each into a round the size of her palm on its own plate.
-4. Put the pasta, lentils, beans, buttons and yarn out in separate piles where she can see them all at once.
-5. One plate at a time, and ask who it is before she starts. A named face gets eyebrows and hair. An unnamed one gets a handful of lentils.
-6. Photograph the finished set, then let her squash one flat and rebuild it as somebody else.
-7. Bag the leftover dough. It keeps a week in the fridge, and the faces dry hard on a windowsill in two or three days.
+1. Card and paint first, while her hands are clean. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **February** and **3** beside it. Second of twelve.
+2. Do Kreston's on the same sheet while he is calm, washcloth already in your hand, and **8 months** beside his. If February is a month you want on the door frame, take both marks in pencil now while they are standing still, with the name and the date beside each.
+3. Wash her hands, then flour and salt in the bowl, oil in, water in stages while she stirs. She decides when it stops sticking. Knead it on the table for five minutes between you, claggy to smooth.
+4. Split it into balls, one for each person in the house. She flattens each into a round the size of her palm on its own plate.
+5. Put the pasta, lentils, beans, buttons and yarn out in separate piles where she can see them all at once.
+6. One plate at a time, and ask who it is before she starts. A named face gets eyebrows and hair. An unnamed one gets a handful of lentils.
+7. Photograph the finished set, let her squash one flat and rebuild it as somebody else, then bag the leftover dough. The faces dry hard on a windowsill in two or three days.
 
 > 💡 **Tip:** Give her the yarn last. Hair is the part she will spend twenty minutes on, and it goes on better once the eyes and mouth have settled.
 
@@ -807,7 +796,7 @@ kitchen has any right to be.
 - Thread buttons onto a shoelace.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The indoor play center if the pool session is canceled
 - The library, a day early
 - A warm café and a window, when nobody has it in them

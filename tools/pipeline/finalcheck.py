@@ -46,8 +46,7 @@ else:
 # ---------- 3. back matter present ----------
 for f, label in (("00-front.md", "front matter"),
                  ("99-back-01-index.md", "master activity index"),
-                 ("99-back-02-keepsake.md", "keepsake tracker"),
-                 ("99-back-03-closing.md", "closing note")):
+                 ("99-back-02-keepsake.md", "keepsake tracker")):
     if not os.path.exists(os.path.join(MONTHS, f)):
         fails.append(f"MISSING {label}: months/{f}")
 

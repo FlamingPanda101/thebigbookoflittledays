@@ -21,7 +21,8 @@
 > June 5**, two days after the booklet closes. He lets go of the furniture and
 > stands alone for a few seconds before he sits back down. He hands you things
 > on purpose and waits for you to take them, and he follows a one-step
-> instruction like *drink* before he can say it back. A first word is close.
+> instruction like *drink* before he can say it back. He takes in a good deal
+> more than he gives back.
 
 > 🧒 **Azlyn this month:** She is three all month. She stays three until
 > December 20.

@@ -51,7 +51,7 @@ He reaches each new month on the **5th**. Every day reflects his real age that w
 | Day 36 (Feb 5) | 8 mo | Crawls or shuffles, stranger wariness, bangs two things together |
 | Day 64 (Mar 5) | 9 mo | Pulls to stand, pincer grip, waves |
 | Day 95 (Apr 5) | 10 mo | Cruises furniture, points, understands "no" |
-| Day 125 (May 5) | 11 mo | Stands alone briefly, first words possible |
+| Day 125 (May 5) | 11 mo | Stands alone briefly, babbles in long strings |
 | **Day 156 (Jun 5)** | **12 mo — turns 1** | Walking or close, drinks from a cup, one-step instructions |
 | Day 186 (Jul 5) | 13 mo | Walks, climbs, carries things while moving |
 | Day 217 (Aug 5) | 14 mo | Scribbles, stacks two blocks, 3–5 words |
@@ -213,14 +213,14 @@ Never daily. Format: fact + **✨ Try it** (food-forward) + *Did you know?*
 
 ---
 
-## 4. NOTES FROM JOSEPH — one per WEEK
+## 4. NOTES FROM JOSEPH — REMOVED
 
-**In the week opener. Not daily.** v1 had 425 of them and it could not be
-sustained. Fifty-two good ones beat 365 thin ones.
-
-Private, warm, specific to that week. Never generic praise. These are the
-emotional heart of the book, and they are the one thing in it that only
-Joseph can write. Draft them, but expect him to rewrite every one.
+**There are no personal messages from Joseph in this book.** v1 had 425 of
+them, v2 cut that to 52 in the week openers, and Joseph then removed those
+too, along with the personal opening in the front matter and the closing
+page. Do not write new ones, do not reference them, and do not restore the
+`#closing` anchor. The week opener now runs the shopping list straight into
+the Kreston line.
 
 ---
 
@@ -420,11 +420,6 @@ Every week opens with a briefing page before its first day.
 
 ---
 
-### 💛 A Note from Joseph
-[The week's note. Private, warm, specific. Never generic.]
-
----
-
 > 👶 **Kreston is N months this week** — [capability].
 
 ---
@@ -519,10 +514,6 @@ Once Day 365 is done:
 2. **Keepsake Tracker** `<a id="keepsake"></a>` — time capsule (sealed Day 1,
    opened Day 365), growth chart, memory jar, season journals, handprint art,
    birthday interviews.
-3. **Closing note** — short sign-off, ending on the line about how on the days
-   when nothing got done, they still got her all day, and that was always the
-   actual curriculum.
-
 Update the front-matter TOC in `months/00-front.md` if structure changes.
 
 ---

@@ -111,23 +111,6 @@ walks a round she scouted that morning, and hands it over at four front doors.
 
 ---
 
-### 💛 A Note from Joseph
-
-> February is the month I have least to offer. The oven is on four days out
-> of seven, and Kreston picked the first day of this week to turn eight
-> months and start crawling, so the floor is a new problem on top of the hot
-> trays. The day I keep thinking about is Wednesday, where the whole outdoor
-> hour is one slow lap of the block at her pace and the light is gone by
-> five. Some of these days are going to be flat the whole way down, and I
-> have not put anything in this book that fixes that. Saturday her own
-> recipe goes onto the shelf with the real cookbooks at her height, in her
-> words and her order, and by Thursday morning she opens it and finds the
-> word butter on her own. That book is still going to be on that shelf when
-> she can read every word in it. You will give it to me at six and it will
-> sound better than the day was.
-
----
-
 > 👶 **Kreston is 8 months this week**. He crawls or shuffles, brings two
 > objects together to bang them, and checks your face before he decides what a
 > new thing is for. **He turns 8 months on Friday the 5th, the first day of the week,
@@ -802,7 +785,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 - Butter on toast, jam on top, nothing else asked of anyone.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The indoor play center, if the school lessons have the pool
 - The library a day early, for a book with bread in it
 - A warm café and a window seat

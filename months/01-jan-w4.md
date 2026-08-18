@@ -93,21 +93,6 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Thursday's maze stays taped to the floor through dinner, so I come in at six
-> and get walked into three dead ends with my bag still on my shoulder, and she
-> is the one telling me which corner is a wall. Tuesday she sorts the whole
-> silverware drawer and it stays sorted, and I find that out by opening it for a
-> fork. Saturday my name is on the back of one of the five puzzle pieces, and
-> mine is the piece missing from the table when she gathers them in at two.
-> Kreston has started running long strings of bababa with the shape of sentences
-> in them, and he leaves a pause at the end of each one. I answered into those
-> pauses for about four minutes last week before I worked out that he was taking
-> turns with me.
-
----
-
 > 👶 **Kreston is 7 months this week**. He reaches across his own body for a
 > toy, passes it from hand to hand, and babbles in long runs of *bababa* and
 > *dadada* with the shape of sentences in them.

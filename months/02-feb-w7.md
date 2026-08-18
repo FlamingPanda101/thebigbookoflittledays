@@ -125,22 +125,6 @@ else. The rest of the week runs on paper, flour and tape.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Saturday she cuts a letter full of holes, signs it with five dots instead
-> of her name, and then stands in the kitchen while three people hunt for
-> theirs. She is three years old and the whole game rests on her giving
-> nothing away. My guess is she cracks before the second person has found
-> one, and I would like to be wrong about it. Tuesday she builds a plate for
-> every person in the house and decides what goes on each one, so somebody
-> is getting nine cucumber sticks and no bread. Thursday there is a key
-> drawn on a wooden spoon because a key stands for a home, and she will have
-> her own reason for putting it there that has nothing to do with homes.
-> Sunday is the fourteenth and there will be eight cards glued crooked, a
-> few of them for me.
-
----
-
 > 👶 **Kreston is 8 months this week**. He crawls or shuffles after whatever he
 > wants, bangs two things together on purpose, and turns his face into your
 > shoulder when a stranger leans over the stroller.
@@ -815,7 +799,7 @@ the one carrying it in.
 - Picnic on the stairs, if the floor is under something else.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The pool's quiet session, if Tuesday afternoons are chaos right now
 - A warm bath at home with cups and pitchers, if the pool is shut
 - The library on the way home, half an hour before it shuts

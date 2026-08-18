@@ -2,7 +2,9 @@
 
 # 🎁 Keepsake Tracker
 
-Eight threads in this book run past December 31. This page is the record of
+Seven threads in this book run past December 31, and one more sits here as an
+offer rather than a thread: the memory jar in section 5 is not asked for on
+any day, so start it whenever you want it. This page is the record of
 them, so the box, the door frame, the twelve sheets of hands and the four walk
 photographs stay findable after the booklets go in a drawer. Fill it in on the
 page, in pen, and keep the page with the box.
@@ -59,8 +61,10 @@ the old one.
 
 **January 1 to December 31, the gap measured:** ____________________
 
-You mark the frame on Day 1, Day 209, Day 354 and Day 365. The twelve rows
-below sit here for anyone who wants to mark it more often than that.
+The frame can be marked any month of the year, and the book puts it in front
+of you in every one of the twelve. Take the ones that suit and add your own on
+any morning she stands up straight against the wood. The rows below hold them
+all.
 
 | Month | Date marked | Azlyn's height | Kreston's height |
 |---|---|---|---|
@@ -85,12 +89,14 @@ below sit here for anyone who wants to mark it more often than that.
 
 ## 3. ✋ The Twelve Handprints
 
-One sheet a month, painted on with the brush rather than dipped, pressed flat
-for a count of three and lifted straight up, with the month and her age beside
-it. December's went down on Day 365 and all twelve came out onto the floor in
-order, January at one end and the wet one at the other. Somebody held
-Kreston's fist open for his January print. By December he pressed his own palm
-down and lifted it off himself.
+One sheet for each calendar month, both children on the same sheet, twelve in
+all. Paint her palm with the brush rather than dipping her hand, press flat,
+count to three, lift straight up, and write the month and each child's age
+beside the prints. December's went down on Day 362 and all twelve came out
+onto the floor on Day 365 in order, January at one end and December's at the
+other.
+Somebody held Kreston's fist open for his January print. By December he
+pressed his own palm down and lifted it off himself.
 
 - [ ] January
 - [ ] February
@@ -175,20 +181,20 @@ page in pen, because paper slips go soft and vanish.
 You walked the same route four times and photographed it from the same spot.
 On Day 1 the trees were bare and all structure. On Day 154 you walked it under
 a ceiling of leaves and took the summer picture standing where you stood in
-January. Pick the autumn one on a morning the color is at its best. On Day 365
-you walked it with the bare trees again, so take the last picture on that walk
-or use one you already have from that week. Keep the four together.
+January. Day 287 gave you the autumn one, with the color at its best. On Day
+365 you walked it with the bare trees again and took the fourth picture from
+the same spot. Keep the four together.
 
 | Season | Day | Date walked | What she noticed | What changed |
 |---|---|---|---|---|
 | Winter | Day 1 | | | |
 | Summer | Day 154 | | | |
-| Autumn | | | | |
-| Winter again | Day 365, photo optional | | | |
+| Autumn | Day 287 | | | |
+| Winter again | Day 365 | | | |
 
 **The four photographs are kept:** _____________________________________
 
-**She named these trees:** _____________________________________________
+**She named this tree:** _______________________________________________
 
 ---
 
@@ -231,7 +237,7 @@ years from now, in the same handwriting.
 | Wants to do | | | | |
 
 > 💡 At one, Kreston answers none of these. Write what he did that morning
-> instead, and put his word count in the box for the year. The column fills in
+> instead, and put that in the boxes for the year. The column fills in
 > later.
 
 ---

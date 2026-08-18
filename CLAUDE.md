@@ -65,9 +65,9 @@ things she already knows. Do not pad.
   first Saturday of the month. Do not invent a new destination scheme.
 - ⚠️ Safety blocks only where there is a **real** hazard. Filler warnings train
   the reader to skip them.
-- **Notes from Joseph: one per week, in the week opener.** Never daily. Draft
-  it and mark it clearly as a draft for me to rewrite. It is the one thing in
-  the book only I can write.
+- **No personal messages from Joseph anywhere in the book.** The 52 weekly
+  notes, the front-matter opening and the closing page were removed on his
+  instruction. Do not write new ones and do not reference them.
 
 ## Schedule rows are editable. The row must match its heading.
 

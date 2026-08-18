@@ -91,7 +91,7 @@ ground, because that smell is one she will recognize for the rest of her life.
 > up on the weighted one, holds the stand for a second or two, and drops back
 > onto his bottom, which is the work his legs need this month. At the windows,
 > hold him a step back from the glass and say **rain** every time. One word said
-> the same way twenty times is how a first word arrives.
+> the same way twenty times is how it stops being noise to him.
 
 <div style="page-break-after: always;"></div>
 

@@ -104,22 +104,6 @@ long at eleven in the morning.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Monday afternoon she lays a trail of flour across the floor for me and tapes
-> the arrow cards up at my eye height. Lights down at six, a flashlight in my
-> hand at the door, and for that hour the thing I planned and the thing I am
-> standing in are the same thing. There is no other hour like it in the month.
-> The morning trail goes down the night before behind a shut door, so she gets
-> the flour twice on the same day and the broom comes out after both. Saturday's
-> tour comes to me as one recording with no retakes, and the parts where she is
-> wrong about who lives in the roots are the parts I will play twice. The four
-> animals get their names written on the base on Friday, and by Sunday she is
-> shifting them round the tray to keep them out of the rain she makes with a
-> spray bottle.
-
----
-
 > 👶 **Kreston is 7 months this week**. He reaches across his body for things
 > set out to one side, passes them from hand to hand, and babbles in long
 > strings that carry the rhythm of sentences and none of the words. **He turns
@@ -776,7 +760,7 @@ feeder that has moved, so build her somewhere to sit and wait.
 - Put crumbs on the windowsill and watch the sill instead.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one
+- **Swimming**
 - The quiet hour, if the after-school crowd is in
 - Indoor playground if the pool is shut
 - A warm café and the new binoculars, aimed at the pigeons

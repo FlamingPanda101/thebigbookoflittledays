@@ -105,22 +105,6 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 
 ---
 
-### 💛 A Note from Joseph
-
-> She gets drawn round at life size on Friday, then goes out and stands her
-> back against a lamp post and a mailbox to find out which of them she
-> beats. The whole week runs on her measuring herself against whatever is
-> nearest, and for ten hours a day what is nearest is you. Monday is the
-> March handprint, third of twelve, and the January one is still the only
-> one I have watched go onto the card. Tuesday she builds all four of us out
-> of dough and every one of us has to stand up on the tray without help.
-> Kreston goes up on the first try, being a head and a body and no legs
-> worth speaking of, and the tall ones fall over most, so I expect to spend
-> that afternoon on my back on a tray. February ends inside this week and I
-> am not sorry about it.
-
----
-
 > 👶 **Kreston is 8 months this week**. He crawls or shuffles, bangs two things
 > together for the noise of it, and has arrived at being wary of new faces.
 > **He turns 9 months on Friday the 5th, the first day of next week.**
@@ -765,7 +749,7 @@ on the tray without falling over.
 - Build only Kreston, twenty times, because that is where she is.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one, and she gets herself changed this year
+- **Swimming**, and she gets herself changed this year
 - The indoor play center if the session is booked out
 - The library, a day early
 - A long bath at home and an early dinner, if the morning ran hot

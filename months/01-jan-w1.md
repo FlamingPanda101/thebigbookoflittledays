@@ -96,17 +96,6 @@ week runs on cardboard.
 
 ---
 
-### 💛 A Note from Joseph
-
-> Brooklyn, this is the first page of the first week. The book is me handing
-> you something at 8:00 in the morning so you don't have to invent a whole day
-> from nothing while a six-month-old chews your sleeve. Treat it as a menu.
-> Skip what doesn't fit, cross things out. Some days you will not open it at
-> all, and those days count too. I know exactly how long these hours are, and
-> I know I am not the one in them.
-
----
-
 > 👶 **Kreston is 6 months this week**. He sits propped with his hands free for
 > short stretches, mouths everything he can reach, and starts rocking on hands
 > and knees by the end of the week. **He turns 7 months on Tuesday the 5th.**
@@ -172,16 +161,16 @@ week runs on cardboard.
 
 Bundle up and walk the route you will walk all year. Look at the trees today,
 bare and sleeping, all structure and no leaves, the same thing she has been
-stacking all morning. Hand her a paper bag and one instruction: find one thing
-worth keeping. It goes in the capsule this afternoon, so tell her that now.
+stacking all morning. Stop under the biggest tree on the route and take one
+photograph from where you are standing. Three more come from this spot this
+year. Hand her a paper bag and one instruction: find one thing worth keeping.
+It goes in the capsule this afternoon, so tell her that now.
 
-> 👶 **Infant Integration:** Kreston is 6 months and sits propped, hands free
-> for short stretches. Put a cushion behind him and give him his own cardboard
-> tube and one paper cup on the floor near the building. He will bang, mouth
-> and drop them, running the same investigation Azlyn is running with the
-> tower. On the walk, wear him facing out. He is alert enough now to take in
-> the street, and cold air on his cheeks is a new sensation. Name three things
-> you pass out loud.
+> 👶 **Infant Integration:** Put a cushion behind Kreston and give him his own
+> cardboard tube and one paper cup on the floor near the building. He will
+> bang, mouth and drop them, running the same investigation Azlyn is running
+> with the tower. On the walk, wear him facing out. The street and the cold air
+> on his cheeks are new to him. Name three things you pass out loud.
 
 <div style="page-break-after: always;"></div>
 
@@ -760,7 +749,7 @@ and the thirty she cut are the whole supply.
 - Sort the bricks by size into rows and stop there.
 
 ### 🌳 Out Again: **Swimming**
-- **Swimming**, the weekly one and the first of fifty-two
+- **Swimming**, the first pool trip of the year on the membership you already have
 - Indoor playground if the pool is shut for the holidays
 - The library, a day early
 - A warm café and a window, if nobody has the energy
