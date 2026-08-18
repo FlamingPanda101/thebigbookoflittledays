@@ -127,7 +127,7 @@ walks a round she scouted that morning, and hands it over at four front doors.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Set the flour, salt, sugar, a packet of active dry yeast and a clean jam jar on the table, and stand 100 g of butter out for tomorrow.
+> Set the flour, salt, sugar, a packet of active dry yeast and a clean jam jar on the table.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Fizzing Jar
@@ -170,7 +170,7 @@ walks a round she scouted that morning, and hands it over at four front doors.
 
 **📝 Step-by-Step Instructions:**
 1. Count the four things on her fingers before anything goes in the bowl: flour, water, salt, yeast.
-2. Flour into the bowl, salt to one side, and let her punch a well in the middle. The yeast goes in the well, then the oil and the warm water.
+2. Flour into the bowl, salt to one side, and let her punch a well in the middle. The packet of yeast goes in the well, then the oil and the warm water. The jar of foam from 8:00 stands beside the bowl as the proof it is alive, and it goes down the sink at the end.
 3. She mixes with one hand until it comes together as a shaggy lump. It sticks to her. Leave it sticking.
 4. Turn it onto the table and knead: push with the heel of your hand, fold, turn a quarter, push again. Say the four words out loud and hand it over.
 5. Ten minutes of that between you. She will manage two and wander off, so take it on and hand it back when she returns. The lump goes from ragged to smooth.
@@ -278,7 +278,7 @@ it goes stale by evening.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Mix tomorrow's dough tonight (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil), cover the bowl and leave it in the fridge.
+> Stand 100 g of butter out to soften overnight, and put the sugar, the all-purpose flour and an egg on the table beside it.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Choosing Off the Shelf
@@ -416,7 +416,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Check the cupboard for a kilo of all-purpose flour, a full tub of salt and the food coloring.
+> Mix tonight's dough before bed (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil), cover the bowl and leave it in the fridge to rise overnight.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Punching It Down
@@ -556,7 +556,7 @@ anybody else's.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Rinse two 500 ml plastic bottles from the recycling, stand them upside down to dry, and find two balloons that have not perished.
+> Check the cupboard for a kilo of all-purpose flour, a full tub of salt and the food coloring.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Coloring the Dough
@@ -690,7 +690,7 @@ the sidewalk side and the customer's part for the afternoon.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Buy tomorrow's five breads on the way home (sliced white, a seeded roll, a bagel, a pita, an English muffin), and put five plates, the marker or the sticky labels and the bread knife out beside them.
+> Rinse two 500 ml plastic bottles from the recycling, stand them upside down to dry, and find two balloons that have not perished.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Bath-Water Test
@@ -824,7 +824,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Make tomorrow's dough before bed (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil) and leave it covered in the fridge, or buy a pack instead.
+> Buy the five breads on the way home (sliced white, a seeded roll, a bagel, a pita, an English muffin), and put five plates, the marker or the sticky labels and the bread knife out beside them.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Numbering the Plates
@@ -958,7 +958,7 @@ as a bakery to anyone walking past.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Stand 75 g of butter out to soften beside the dough, and put whatever card and colored paper you own somewhere findable for next week.
+> Make tonight's dough before bed (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil) and leave it covered in the fridge, or buy a pack instead. Stand 75 g of butter out to soften beside it, and put whatever card and colored paper you own somewhere findable for next week.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Cinnamon Butter
@@ -1003,7 +1003,7 @@ as a bakery to anyone walking past.
 3. Roll it up from the long side into a tight log, her hands on top of yours.
 4. Slide the floss under the log, cross the ends and pull. Cut twelve and let her count them into the pan.
 5. Space them with room to grow, cover, and leave them somewhere warm for forty minutes.
-6. Bake at 375°F for twenty-five minutes until the tops brown. Out and cooling by eleven thirty.
+6. Walk the round while they prove, then bake at 375°F for twenty-five minutes until the tops brown, with you in the kitchen the whole time. Out and cooling by twelve.
 
 > 💡 **Tip:** Cut the log with floss. A knife squashes the spiral flat, and the spiral is why she is up on that stool.
 

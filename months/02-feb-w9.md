@@ -779,6 +779,8 @@ on the tray without falling over.
 > everything in his mouth and can now reach the table leg. Give him his own pot
 > of dough with the lid taped on hard, and nothing loose. The table knife and
 > the cut tubes go back up out of reach the moment the family is standing.
+> Swimming this afternoon. Both children stay within arm's reach in the water
+> at all times, and no float or seat is a substitute for your hands.
 
 <div style="page-break-after: always;"></div>
 

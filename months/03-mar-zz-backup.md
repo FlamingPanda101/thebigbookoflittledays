@@ -174,7 +174,7 @@ mud comes in and gets washed off at the sink.
 - **1:00–2:30 PM** — 🎨 Second Main Event: Clipped Up in Size Order (90 min)
 - **2:30–3:30 PM** — 🎯 Afternoon Alternatives (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
-- **4:00–4:15 PM** — 🧹 Her Job: Emptying the Rinse Bowl
+- **4:00–4:15 PM** — 🧹 Her Job: The Washing Bowls Back Under the Sink
 - **4:15–5:00 PM** — Quiet Play: The Cave Under the Kitchen Table
 - **5:00–5:45 PM** — 🛁 Wind-Down: The Long Bath, No Hurry
 - **6:00 PM** — **Dinner**

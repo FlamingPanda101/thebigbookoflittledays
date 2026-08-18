@@ -221,10 +221,11 @@ and decides which way comes next.
 - Home, with the shakers in the bath
 
 > 👶 **Kreston's Afternoon:** He is 7 months and babbling in long strings now,
-> ba-ba-ba and da-da-da-da, a rhythm section of his own. Sit him in the ring
-> with a folded blanket behind him. He answers singing sooner than talking, so
-> leave a gap at the end of each verse and see whether he fills it. Keep the
-> loud verse short and watch his face while it runs.
+> ba-ba-ba and da-da-da-da, a rhythm section of his own. Sit him at the outside
+> of the ring on your lap or with a folded blanket behind him, back from the
+> shakers in the middle. He answers singing sooner than talking, so leave a gap
+> at the end of each verse and see whether he fills it. Keep the loud verse
+> short and watch his face while it runs.
 
 ### 🌍 Around the World: Lullabies Everywhere 🌙
 

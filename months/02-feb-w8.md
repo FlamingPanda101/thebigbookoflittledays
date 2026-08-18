@@ -17,7 +17,7 @@ pasta. Wednesday she takes the texture off half the street with a crayon,
 posts four of the results to four people and watches at least one door open.
 
 Thursday gathers all of it. She hangs the week on a wall at her own eye
-level, writes the labels, cuts the tickets, and Joseph comes home at six
+level, writes the labels, cuts the tickets, and Joseph comes home at five
 having seen none of it. No holiday lands in these seven days, so the shape
 comes from the making and from what each day hands to the next one. February
 does the rest. The street is gray enough that a red door counts as a find,
@@ -786,7 +786,7 @@ kitchen has any right to be.
 4. Thread. Pasta, straw, pasta, straw if she wants a pattern, any order at all if she does not.
 5. One necklace per person, and ask who each one is for before she starts. The colors are her decision.
 6. Knot every finished one loose enough to pull straight off, tested on your own head first.
-7. Hand them out before dinner and put each one on the person she made it for. Kreston's goes on his door handle where he can see it and not reach it.
+7. Hand them out before dinner and put each one on the person she made it for. Kreston's hangs on a hook above adult head height where he can see it from the floor, never on a door handle, a crib rail or a chair back.
 
 > 💡 **Tip:** Thread the first three yourself while she watches your hands. Stiff string aimed into a small hole, seen once at half speed, beats telling her to aim.
 

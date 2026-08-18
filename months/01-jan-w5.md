@@ -401,7 +401,7 @@ out loud to an audience that cannot get up and leave.
 **Theme:** Forest Friends
 
 ### 🌙 Prep Tonight
-> Empty the odds drawer into a bowl on the table (corks, clothespins, bottle caps, cotton balls, fabric scraps) and dig out the biggest baking tray you own.
+> Empty the odds drawer into a bowl on the table (corks, clothespins, bottle caps, cotton balls, fabric scraps), dig out the biggest baking tray you own, and bring in a handful of small stones and six twigs from the yard before dark.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Odds and Ends Hunt

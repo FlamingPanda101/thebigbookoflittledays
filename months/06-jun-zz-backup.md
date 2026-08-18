@@ -140,7 +140,10 @@ sheet and finishes holding something that did not exist at lunchtime.
 > emergency room trip that hour, not a wait and see. Springs, pen tips, ink
 > tubes and screws stay on the tray, the tray stays on the table, and you count
 > the parts back before Kreston is on the floor. Drinks go around every hour
-> whether or not anybody asks. The scissors stay with you.
+> whether or not anybody asks. The bowl of ice stays up on the table, and pick
+> every dropped cube up before it melts into a slick, because a whole cube is
+> a choking size at 12 months and Kreston is on his feet. He gets his cold in
+> a cup of water rather than a cube in his hand. The scissors stay with you.
 
 <div style="page-break-after: always;"></div>
 

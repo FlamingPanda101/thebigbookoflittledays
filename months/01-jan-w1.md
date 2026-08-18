@@ -166,10 +166,11 @@ year. Hand her a paper bag and one instruction: find one thing worth keeping.
 It goes in the capsule this afternoon, so tell her that now.
 
 > 👶 **Infant Integration:** Put a cushion behind Kreston and give him his own
-> cardboard tube and one paper cup on the floor near the building. He will
-> bang, mouth and drop them, running the same investigation Azlyn is running
-> with the tower. On the walk, wear him facing out. The street and the cold air
-> on his cheeks are new to him. Name three things you pass out loud.
+> cardboard tube and one paper cup on the floor, well back from the tower and
+> out of its fall line. He will bang, mouth and drop them, running the same
+> investigation Azlyn is running with the tower. On the walk, wear him facing
+> out. The street and the cold air on his cheeks are new to him. Name three
+> things you pass out loud.
 
 <div style="page-break-after: always;"></div>
 
@@ -335,7 +336,7 @@ the furniture.
 
 **📝 Step-by-Step Instructions:**
 1. Ask what a house needs. Take her list at face value even when it is a bed, a cake and a dog.
-2. Make the bed first: a shoebox with the fabric folded into it. Let her decide where it goes.
+2. Make the bed first: one of the small boxes with the fabric folded into it. Let her decide where it goes.
 3. Turn a tall box on its end for a table, cups upside down for stools.
 4. Cut a rectangle of card and tape it inside as a picture. She draws whatever hangs in it.
 5. Make one thing from her list that you would not have thought of. Follow her design down to the parts you would fix.
@@ -912,7 +913,9 @@ opposite force and a new idea for her.
 > ⚠️ **Safety:** Take the zip line down and put the string away the second you
 > finish. String at toddler height is a strangulation risk, and a serious one.
 > Loose craft sticks stay off the floor while Kreston is down. They splinter,
-> and they fit down his throat. He gets a taped structure too big for his mouth
+> and they fit down his throat. The cargo ends up on the floor every run, and a
+> dried bean and a spoon are both choking hazards, so sweep the landing end
+> before you put him down. He gets a taped structure too big for his mouth
 > and nothing looser than that, and it comes back to you the moment you stop
 > watching. The scissors stay with you.
 
@@ -969,7 +972,7 @@ opposite force and a new idea for her.
 3. Ask her where the door goes. Clip that edge so it can be lifted and dropped.
 4. Send her inside with the cushions to build the floor. Leave her to it for a full ten minutes.
 5. Once the roof sags, remind her what fixed the sagging bridge on Sunday and let her work out the rest.
-6. Weight every outside edge with books and line the doorway with the salt dough bricks, so she walks past Tuesday's work on her way in.
+6. Weight every outside edge with books and stand the salt dough bricks on a shelf or table outside the fort, above his reach, so she walks past Tuesday's work on her way in.
 
 > 💡 **Tip:** Build it to survive her crawling through it. A fort that collapses every four minutes becomes a chore for both of you.
 
@@ -1049,6 +1052,8 @@ there, draws in there, and it stays up until bedtime.
 > ⚠️ **Safety:** Nothing heavy on top of the fort and nothing that can fall
 > inward. Books go on the outside edges, never on the roof. No cords, no
 > holiday lights, no string left from yesterday. Never leave Kreston in there
-> on his own, and keep pillows and loose blankets away from his face.
+> on his own, and keep pillows and loose blankets away from his face. The salt
+> dough bricks stay off the floor and out of the doorway while he is in the
+> fort. Salt dough is dangerous if eaten.
 
 <div style="page-break-after: always;"></div>

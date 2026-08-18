@@ -1,0 +1,880 @@
+{
+ "01": [
+  {
+   "severity": "critical",
+   "day": 7,
+   "file": "months/01-jan-w1.md",
+   "problem": "Main Event step 6 lines the fort doorway with the salt dough bricks: \"Weight every outside edge with books and line the doorway with the salt dough bricks, so she walks past Tuesday's work on her way in.\" Both infant blocks then put Kreston at that same doorway. Infant Integration: \"Sit him against a cushion by the doorway so he can watch Azlyn come and go.\" Kreston's Afternoon: \"put him in the fort doorway with one board book while Azlyn reads inside.\" Day 5 established the rule the bricks live under: \"Salt dough is dangerous if eaten, and seriously so for a 7-month-old... Count the bricks in and out and store them high.\" Day 7's Safety block covers weight on the roof, cords and pillows near his face, and says nothing about the bricks. A 7-month-old who mouths everything sits all afternoon in a doorway lined with salt.",
+   "fix": "In Main Event step 6, change to: \"Weight every outside edge with books and stand the salt dough bricks along the outside wall of the fort, above his reach, so she walks past Tuesday's work on her way in.\" Add to the Safety block: \"The salt dough bricks stay off the floor and out of the doorway while Kreston is in the fort. Salt dough is dangerous if eaten.\""
+  },
+  {
+   "severity": "major",
+   "day": 8,
+   "file": "months/01-jan-w2.md",
+   "problem": "Second Main Event step 1 puts the shakers in the middle of a seated ring: \"Sit everyone in a ring, shakers in the middle, saucepan by your knee, scarf in Azlyn's hand.\" Kreston's Afternoon then seats him in that ring: \"Sit him in the ring with a folded blanket behind him.\" Both the Infant Integration block and the Safety block rule that out. Infant Integration: \"Keep the small pots away from him.\" Safety: \"Tape all the way round each pot, check every seal before it goes down, and keep the small pots away from Kreston.\" The page seats a 7-month-old within arm's reach of five pots it has twice told you to keep away from him.",
+   "fix": "Change Kreston's Afternoon to: \"Sit him at the outside of the ring on your lap or with a folded blanket behind him, back from the shakers in the middle.\""
+  },
+  {
+   "severity": "major",
+   "day": 1,
+   "file": "months/01-jan-w1.md",
+   "problem": "The Infant Integration block places Kreston beside the tower: \"Put a cushion behind Kreston and give him his own cardboard tube and one paper cup on the floor near the building.\" The Safety block forbids that placement in the same breath it explains why: \"Build the tower away from where he is sitting. Azlyn can step back when a cardboard tower comes down and Kreston cannot move out of the way.\" The whole point of the Main Event is that the tower falls, five times over.",
+   "fix": "Change the Infant Integration sentence to: \"Put a cushion behind Kreston and give him his own cardboard tube and one paper cup on the floor, well back from the tower and out of its fall line.\""
+  },
+  {
+   "severity": "major",
+   "day": 2,
+   "file": "months/01-jan-w1.md",
+   "problem": "Second Main Event step 2 calls for a shoebox: \"Make the bed first: a shoebox with the fabric folded into it.\" The block's own materials list does not carry one; it lists \"6-10 small boxes, cups and tubes.\" The week's shopping list carries one shoebox only, and Day 1 sealed it: \"Tape it shut, write OPEN DECEMBER 31, 2027 across the lid, and put it somewhere she can see and not reach.\" The bed calls for an object the book put out of reach for a year the day before.",
+   "fix": "Change step 2 to: \"Make the bed first: one of the small boxes with the fabric folded into it. Let her decide where it goes.\""
+  },
+  {
+   "severity": "major",
+   "day": 6,
+   "file": "months/01-jan-w1.md",
+   "problem": "The Zip Line materials list carries loose choke-sized cargo for a 7-month-old: \"Small toys, a spoon, a dried bean (cargo of different weights).\" Step 5 races weights down the line and step 6 slackens the string \"so she sees a sagging line stop the cup dead,\" which tips cargo onto the floor by design. The Safety block covers the string, the craft sticks and the scissors and never mentions the cargo: \"Loose craft sticks stay off the floor while Kreston is down.\" Day 3 already set the standard for this hazard: \"Dried beans and pasta are a choking hazard and they will end up on the floor. Sweep before you put Kreston down.\"",
+   "fix": "Add to the Safety block: \"The zip line cargo lands on the floor every run. Beans and small toys come up before Kreston goes down, and he stays out of the room while the line is running.\""
+  },
+  {
+   "severity": "major",
+   "day": 23,
+   "file": "months/01-jan-w4.md",
+   "problem": "Safety block: \"Ten jigsaw pieces and a 7-month-old on the floor means the tray stays at table height and the count goes back in the bag every time.\" Out Again bullet on the same page: \"Home, blankets, and the jigsaw on the floor\". The page forbids the floor for the jigsaw with Kreston down, then offers the floor as one of the five afternoon options.",
+   "fix": "Change the Out Again bullet to: \"Home, blankets, and the jigsaw on a tray at table height with Kreston on your lap\"."
+  },
+  {
+   "severity": "major",
+   "day": 21,
+   "file": "months/01-jan-w3.md",
+   "problem": "Infant Integration: \"the kitchen at 9:15 is loud, floury and full of things moving out of his reach. Give him the empty flour bag and a wooden spoon at the far end of the room.\" Safety block: \"the hot tray goes to the middle of the counter, and Kreston stays out of the kitchen while it moves.\" The bake and the tray coming out both fall inside 9:15-10:15, so the infant block seats him in the kitchen for the hour the Safety block rules him out of it. The empty flour bag is also handed to a baby who mouths everything, with no line covering it.",
+   "fix": "Replace the first two sentences of the infant block with: \"Kreston is 7 months and the kitchen at 9:15 is hot, floury and no place for him. Set him up in the doorway with a wooden spoon and a clip-lid tub, out of the kitchen and in your sight, and keep the flour bag off the floor because it goes straight in his mouth.\""
+  },
+  {
+   "severity": "major",
+   "day": 31,
+   "file": "months/01-jan-w5.md",
+   "problem": "Prep Tonight covers two of the four things the 9:15 Main Event needs: 'Empty the odds drawer into a bowl on the table ... and dig out the biggest baking tray you own.' The Main Event materials list also calls for 'Soil, sand or torn brown paper for the ground' and 'Small stones and twigs from the yard', and step 3 has her standing the twigs up as trees. The twigs are not collected until the 10:30 block, 'Fill the bag with moss, bark and four good twigs', an hour after the step that plants them.",
+   "fix": "Change Day 31's Prep Tonight to: 'Empty the odds drawer into a bowl on the table (corks, clothespins, bottle caps, cotton balls, fabric scraps), dig out the biggest baking tray you own, and bring in a handful of small stones and six twigs from the yard before dark.'"
+  }
+ ],
+ "02": [
+  {
+   "severity": "critical",
+   "day": 38,
+   "file": "months/02-feb-w6.md",
+   "problem": "The day's own 8:00 block opens with an ingredient nothing on the page makes. Opening Activity: 'You need: the overnight dough, cold from the fridge'. Prep Tonight on the same page: 'Check the cupboard for a kilo of all-purpose flour, a full tub of salt and the food coloring' \u2014 none of which Day 38 uses (that is Day 39's playdough). The dough is mixed by Day 37's Prep Tonight, one night too early. Per CONTINUATION.md, Prep Tonight is 'what to get out, defrost, freeze or set up the night before' the page's own day, which is how every day in Weeks 5 and 7 works (Day 43 mixes the dough Day 43 punches down at 8:00). Days 37, 38, 39, 40 and 41 are each shifted one page forward; Day 42 is back on the correct footing, so Day 41's Prep and Day 42's Prep both fall on Wednesday night.",
+   "fix": "Replace Day 38's Prep Tonight with: 'Mix tonight's dough before bed (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil), cover the bowl and leave it in the fridge to rise overnight.'"
+  },
+  {
+   "severity": "critical",
+   "day": 54,
+   "file": "months/02-feb-w8.md",
+   "problem": "Second Main Event step 7: \"Kreston's goes on his door handle where he can see it and not reach it.\" The Safety block on the same page: \"No cord or beaded necklace goes on a baby, awake or asleep... keep the yarn and loose string up out of Kreston's reach all day.\" A door handle is exactly the height an 8-month-old pulls up on, and a knotted string loop hanging on it is a strangulation point, not out of reach. The page tells the reader to hang a cord loop where the baby will haul himself up on it and forbids the same thing four blocks later.",
+   "fix": "Replace step 7's last sentence with: \"Kreston's hangs on a hook above adult head height where he can see it from the floor, never on a door handle, a crib rail or a chair back.\""
+  },
+  {
+   "severity": "major",
+   "day": 41,
+   "file": "months/02-feb-w6.md",
+   "problem": "8:00 Opening Activity: 'You need: 5 plates \u00b7 1 marker or 5 sticky labels \u00b7 the five breads \u00b7 a bread knife (adult)'. Day 41's Prep Tonight instead says 'Make tomorrow's dough before bed ... and leave it covered in the fridge' \u2014 which is Day 42's dough. The five breads, the plates and the labels are set out by Day 40's Prep Tonight. A parent working from this page has no bread in the house at eight on Wednesday morning and a store trip is not in the schedule.",
+   "fix": "Replace Day 41's Prep Tonight with: 'Buy the five breads on the way home (sliced white, a seeded roll, a bagel, a pita, an English muffin), and put five plates, the marker or the sticky labels and the bread knife out beside them.'"
+  },
+  {
+   "severity": "major",
+   "day": 40,
+   "file": "months/02-feb-w6.md",
+   "problem": "9:15 Main Event materials: '2 clear plastic bottles, 500 ml, from the recycling' and '2 balloons'. Day 40's Prep Tonight says 'Buy tomorrow's five breads on the way home ... and put five plates, the marker or the sticky labels and the bread knife out beside them' \u2014 nothing on Day 40 uses a plate, a label or a bread knife. The bottles and balloons are prepared by Day 39's Prep Tonight, so a washed bottle standing upside down to dry never happens on this page.",
+   "fix": "Replace Day 40's Prep Tonight with: 'Rinse two 500 ml plastic bottles from the recycling, stand them upside down to dry, and find two balloons that have not perished.'"
+  },
+  {
+   "severity": "major",
+   "day": 39,
+   "file": "months/02-feb-w6.md",
+   "problem": "8:00 Opening Activity: 'You need: all-purpose flour, 2 cups \u00b7 salt, 1 cup \u00b7 warm water, 1 cup \u00b7 oil, 2 tbsp \u00b7 food coloring'. Day 39's Prep Tonight says 'Rinse two 500 ml plastic bottles from the recycling ... and find two balloons that have not perished' \u2014 no bottle or balloon appears anywhere on Day 39; they belong to Day 40's yeast experiment. A full cup of salt and three food colorings are exactly the things a cupboard runs out of, and this page never checks for them.",
+   "fix": "Replace Day 39's Prep Tonight with: 'Check the cupboard for a kilo of all-purpose flour, a full tub of salt and the food coloring.'"
+  },
+  {
+   "severity": "major",
+   "day": 37,
+   "file": "months/02-feb-w6.md",
+   "problem": "Prep Tonight: 'Mix tomorrow's dough tonight (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil), cover the bowl and leave it in the fridge.' No block on Day 37 touches dough: 8:00 is the baking cupboard, 9:15 is butter, sugar, flour, egg and her additions, and the afternoon is a paper cookbook. Meanwhile the 9:15 materials list calls for 'Soft butter, 100 g' and this page never puts it out; the only line covering it is on Day 36's page, 'stand 100 g of butter out for tomorrow', which would leave it standing from Thursday night for a Saturday morning.",
+   "fix": "Replace Day 37's Prep Tonight with: 'Stand 100 g of butter out to soften overnight, and put the sugar, the all-purpose flour and an egg on the table beside it.'"
+  },
+  {
+   "severity": "major",
+   "day": 42,
+   "file": "months/02-feb-w6.md",
+   "problem": "The day's own timings put a 375\u00b0F oven running in an empty house. Main Event (9:15-10:15) step 5: 'Space them with room to grow, cover, and leave them somewhere warm for forty minutes.' Step 6: 'Bake at 375\u00b0F for twenty-five minutes ... Out and cooling by eleven thirty.' Forty minutes proving plus twenty-five baking cannot start before about 9:40, so the bake runs past 10:30, and the schedule row 10:30-11:15 is 'Get Outside: Walking the Round Empty-Handed', a walk of the whole delivery street. Nothing in the Safety block covers an oven left on with the family out, and 'out and cooling by eleven thirty' cannot happen with nobody in the kitchen at eleven.",
+   "fix": "Change Day 42's Main Event step 6 to: 'Walk the round while they prove, then bake at 375\u00b0F for twenty-five minutes with you in the kitchen the whole time. Out and cooling by twelve.'"
+  },
+  {
+   "severity": "major",
+   "day": 36,
+   "file": "months/02-feb-w6.md",
+   "problem": "The 9:15 materials list ends with 'The jam jar of woken yeast from 8:00', but no step uses it. Step 2 reads 'The yeast goes in the well, then the oil and the warm water', and the list already carries a separate 'Active dry yeast, 1 packet (7 g)' plus 'Warm water, 300 ml'. A reader following the Complete Materials List tips the jar in and gets 400 ml of water and two packets of yeast into 500 g of flour, which will not come together as a kneadable lump in step 3.",
+   "fix": "Change Day 36's Main Event step 2 to: 'Flour into the bowl, salt to one side, and let her punch a well in the middle. The packet of yeast goes in the well, then the oil and the warm water. The jar of foam from 8:00 stands beside the bowl as the proof it is alive, and it goes down the sink at the end.'"
+  },
+  {
+   "severity": "major",
+   "day": 49,
+   "file": "months/02-feb-w7.md",
+   "problem": "Second Main Event step 5: \"The necklace from Monday and the spoon go in the basket with the envelopes,\" and step 6 walks that basket round to \"next door, the house with the dog, the friend two streets over.\" Day 46's Opening Activity fixed the recipient as \"anybody in the house except Kreston\" and step 6 had her put it \"round the neck she measured.\" The necklace has already been given to and worn by someone inside the house, so it cannot be in Thursday's basket for the neighbors.",
+   "fix": "Change step 5 to: \"The spoon goes in the basket with the envelopes. The necklace stays on the neck she measured it against on Monday.\""
+  },
+  {
+   "severity": "major",
+   "day": 56,
+   "file": "months/02-feb-w8.md",
+   "problem": "Week 8 opener: \"Joseph comes home at six having seen none of it.\" The Day 56 schedule row reads \"5:00-5:45 PM - Wind-Down: Showing Joseph Round,\" and Second Main Event step 7 runs the tour as he walks in: \"Say nothing as he comes in and let her run the tour herself.\" The tour cannot both start at five and wait for a six o'clock arrival, and the Tip tells you to give Joseph a time.",
+   "fix": "Change the opener sentence to: \"She hangs the week on a wall at her own eye level, cuts the tickets, and Joseph comes home at five having seen none of it.\""
+  },
+  {
+   "severity": "major",
+   "day": 61,
+   "file": "months/02-feb-w9.md",
+   "problem": "The schedule gives \"2:30-3:30 PM - \ud83c\udf33 Out Again: **Swimming**\" and the whole Safety block is about dough: \"Salt dough is dangerous swallowed, and at 8 months Kreston puts everything in his mouth and can now reach the table leg... The table knife and the cut tubes go back up out of reach.\" Nothing anywhere on the page covers the pool for Azlyn. The infant block covers only Kreston (\"He sits supported in your hands\"). Day 68, the week's other swimming day, carries the line this page is missing.",
+   "fix": "Add to the Safety block: \"Swimming this afternoon. Both children stay within arm's reach in the water at all times, and no float or seat is a substitute for your hands.\""
+  }
+ ],
+ "03": [
+  {
+   "severity": "critical",
+   "day": 69,
+   "file": "months/03-mar-w10.md",
+   "problem": "The Main Event Tip says of the scarf hour: \"Nothing here breaks, rolls under the sofa or hurts when it lands on her. This is the one activity all week you can leave the room during.\" The Infant Integration block on the same page says \"Stay with him the whole time it is out,\" and the Safety block says \"Thin scarves are a strangulation risk. Nothing goes round anybody's neck, and nothing light stays on the floor once Kreston is down.\" The page tells the reader to leave the room and to never leave the room, about the same object and the same hour.",
+   "fix": "Replace the Tip's second sentence with: \"Nothing gets set up and nothing gets cleared, so it is the cheapest hour of the week to run, but the scarves come up off the floor the moment you step out of the room.\""
+  },
+  {
+   "severity": "critical",
+   "day": 86,
+   "file": "months/03-mar-w13.md",
+   "problem": "The infant block puts Kreston on the floor at the tunnel whose far end is the raw carrot bowl, which the Safety block forbids. Main Event step 2: \"the two chairs with the blanket over them as the tunnel, the carrot bowl at the far end as the burrow.\" Infant Integration: \"Lay the blanket tunnel low and set him at one end with something worth having at the other.\" Safety: \"Chopped raw carrot is a choking hazard for a 9-month-old, and the burrow snack puts a bowl of it on the floor at his height... Azlyn's bowl goes down only while he is up in the high chair or on your hip.\" The course runs an hour with the bowl on the floor the whole time.",
+   "fix": "Replace the Infant Integration sentence with: \"Lay the blanket tunnel low and set him at one end with a wooden spoon at the other, and keep the carrot bowl up on the table until he is in the high chair.\""
+  },
+  {
+   "severity": "major",
+   "day": 65,
+   "file": "months/03-mar-w10.md",
+   "problem": "The Opening Activity builds the mat with the far edge as the crash zone: \"Wall the far edge with the cushions. Check what is behind her head rather than in front of her,\" and the Main Event has her doing \"a log roll down the length of the comforter\" and \"a jump with a half turn.\" The Infant Integration block then puts Kreston in that same zone: \"Put him on the far corner of the comforter, clear of the tumbling, with one cushion to pull up on.\" The far corner of the comforter is where a log roll down its length ends and where the landing cushions are, so he is not clear of the tumbling.",
+   "fix": "Change the infant sentence to: \"Put him on the carpet beside the mat, off the comforter and clear of the landing end, with one cushion to pull up on.\""
+  },
+  {
+   "severity": "major",
+   "day": 75,
+   "file": "months/03-mar-w11.md",
+   "problem": "The schedule swims at \"2:30-3:30 PM - \ud83c\udf33 Out Again: **Swimming**\" and Prep Tonight has already packed it: \"Deep tray, old towel and the swim bag by the door.\" The 4:00 row is \"\ud83e\uddf9 Her Job: Packing the Swim Bag\", ninety minutes after the swim is over and the bag has come home wet. Her Job names a task the day's own earlier blocks have already done and undone.",
+   "fix": "Change the 4:00 schedule row to: \"**4:00-4:15 PM** - \ud83e\uddf9 Her Job: Hanging the Wet Swim Things Up\""
+  },
+  {
+   "severity": "major",
+   "day": 74,
+   "file": "months/03-mar-w11.md",
+   "problem": "The Infant Integration block invites Kreston onto the mud kitchen: \"the new counter is a magnet before the tape has settled. Let him, with your hand behind him.\" That counter is the sink unit built at 9:15 (\"Drop the bowl in. That is the sink\"). The Kreston's Afternoon block says \"Keep him away from the sink the entire time,\" and the Safety block says \"the sink bowl holds enough water to drown him... never leave him near it.\" One infant block puts him at the counter, the other and the Safety block rule it out.",
+   "fix": "Change the infant sentence to: \"Let him haul up on the far end of it while the bowl is still out and the sink is dry, with your hand behind him.\""
+  },
+  {
+   "severity": "major",
+   "day": 76,
+   "file": "months/03-mar-w11.md",
+   "problem": "The day runs a string across the floor at Kreston's height all day and the Safety block only removes it at bedtime. Step 5: \"Tie the string to the stick and run it back to where she plans to sit. One pull drops the box.\" Step 1 puts the trap on a table top, so the string runs from table height down to where a three-year-old sits on the floor. Safety: \"Take the trap's string down before bed.\" Kreston is 9 months, crawling and pulling up, in the room from breakfast to bath. The book names this hazard itself on Day 90: \"String at toddler height is a strangulation risk, and a serious one.\"",
+   "fix": "In the Safety block, replace \"Take the trap's string down before bed.\" with: \"Run the string along the table edge to a chair she kneels on and never across the floor, and untie it from the stick every time she leaves the trap, because a loose string at Kreston's height is a strangulation risk.\""
+  },
+  {
+   "severity": "major",
+   "day": 90,
+   "file": "months/03-mar-w13.md",
+   "problem": "The afternoon calls for leftovers the morning used up. Main Event step 5: \"Count each circle out loud once all twenty are down.\" Second Main Event intro: \"The leftover cut-outs turn into a book this afternoon,\" and its materials list carries \"The leftover cut-outs.\" She cuts exactly twenty in the Opening Activity, all twenty go into the two circles, and three of those go to Kreston in the infant block, so nothing is left over.",
+   "fix": "Replace the Second Main Event intro with: \"The animals come out of the two circles this afternoon and turn into a book.\" and change the materials line \"The leftover cut-outs\" to \"The cut-outs out of both circles.\""
+  },
+  {
+   "severity": "major",
+   "day": 86,
+   "file": "months/03-mar-w13.md",
+   "problem": "The trail has nowhere to run. Step 7: \"At bedtime she sets it on the doorstep with a carrot on a saucer beside it, and once she is asleep the carrot goes and a paper trail runs from the doorstep to the basket.\" The basket is already on the doorstep, so the trail is zero paces long. Day 87's Opening Activity depends on the opposite: \"Send her to the doorstep first. The carrot is gone and the trail starts there... The basket is at the end of it.\"",
+   "fix": "Replace step 7 with: \"At bedtime she sets the carrot on a saucer out on the doorstep and leaves the basket beside it, and once she is asleep the carrot goes, the basket moves to a room at the far end of the house, and a paper trail runs from the doorstep to wherever you put it.\""
+  },
+  {
+   "severity": "major",
+   "day": 86,
+   "file": "months/03-mar-w13.md",
+   "problem": "Day 85 builds a paper-mache nest for Day 86 and no block on Day 86 touches it. Day 85 step 1: \"That is what lifts the nest out tomorrow,\" and step 6 stands the five numbered foil eggs in a cup beside it overnight. Nothing anywhere in Week 13 lifts the nest out or puts the eggs in it, and the week opener promises the payoff twice: \"builds a nest that dries overnight with five eggs waiting beside it\" and \"five foil eggs into the nest.\"",
+   "fix": "Add as the new first step of the Opening Activity \"Cutting the Ears\": \"Lift last night's nest out of the bowl by the bag edges, peel the bag off the inside, and let her count the five numbered eggs into it before anything else starts.\""
+  },
+  {
+   "severity": "major",
+   "day": 80,
+   "file": "months/03-mar-w12.md",
+   "problem": "The Safety block shelves what the 4:15 row needs. Main Event step 6: \"the lot goes back into one bowl for 4:15,\" and the schedule reads \"4:15-5:00 PM - Quiet Play: Scooping the Leftover Oats.\" Safety: \"Raisins and dry oats go back on a high shelf the moment she finishes.\" The Infant Integration line covers the morning only (\"the oats stay on the table and he stays in the high chair\"), so the 4:15 block has raisins and dry oats out with no line saying where Kreston is.",
+   "fix": "In the Safety block, replace \"Raisins and dry oats go back on a high shelf the moment she finishes.\" with: \"Raisins and dry oats go up on a high shelf between the morning tray and the 4:15 scooping, and at 4:15 they stay on the table with Kreston in the high chair beside her.\""
+  },
+  {
+   "severity": "major",
+   "day": 91,
+   "file": "months/03-mar-w13.md",
+   "problem": "The 8:00 row and the block heading both say \"Opening Activity: Five Things Are Wrong\", and step 2 says \"She spots them one at a time. Draw a line on the paper for each and count them at the end.\" Prep Tonight sets four: \"cups upside down, forks where the spoons go, her chair facing the wall, a shoe on her placemat.\" The count she draws and counts comes to four, not five.",
+   "fix": "Prep Tonight, add a fifth: \"Set the breakfast table wrong once she is asleep: cups upside down, forks where the spoons go, her chair facing the wall, a shoe on her placemat, and the cereal box standing in the fridge.\""
+  },
+  {
+   "severity": "major",
+   "day": 0,
+   "file": "months/03-mar-zz-backup.md",
+   "problem": "Bad Weather Day 2 Safety: 'every bowl gets emptied the moment you leave the room, with no exceptions for a quick errand,' echoed in Kreston's Afternoon: 'Empty every bowl of water the moment you step away from it.' The schedule then reads '4:00\u20134:15 PM \u2014 Her Job: Emptying the Rinse Bowl' \u2014 a bowl last used at 10:15 that morning, still standing full of water six hours later with a 9-month-old who pulls up on everything.",
+   "fix": "Change the row to '4:00\u20134:15 PM \u2014 Her Job: The Clean End Put Away' and change the job to drying and shelving the washed things, since the rinse bowl went down the sink at 10:15."
+  }
+ ],
+ "05": [
+  {
+   "severity": "critical",
+   "day": 135,
+   "file": "months/05-may-w20.md",
+   "problem": "Out Again offers standing water at floor level and nothing on the page covers it. Out Again: \"The kiddie pool on the lawn, if the heat has held.\" The Safety block covers heat only: \"The foil box and the metal tray get hot in direct sun... Sun on both children through the middle of the day: sunscreen before you go out and again after lunch, hats, shade, water. Kreston overheats faster than Azlyn and cannot tell you.\" Kreston is 11 months, pulls to stand and cruises, and this is the book's first kiddie pool. The June cover sheet already states the rule the day is missing: \"Kreston climbs into a pool at one year and cannot climb back out, so tip every container out when you finish.\"",
+   "fix": "Add to the Day 135 Safety block, after the sunscreen sentence: \"A kiddie pool holds enough water to drown an 11 month old. Stay inside arm's reach of Kreston every second it holds water, and tip it out onto the grass before you come in.\""
+  },
+  {
+   "severity": "major",
+   "day": 128,
+   "file": "months/05-may-w19.md",
+   "problem": "The food bought at 10:30 can never reach the plate it was bought for. Opening step 3: \"The uncircled one is what you walk to the store for at ten thirty.\" Main Event step 2 (9:15): \"She fetches each circled food and puts it where she wants it.\" Step 3: \"One food per saucer, one person per saucer.\" Step 5: \"Cover it with plastic wrap or the second plate upside down, and put it on the middle shelf of the fridge.\" Step 6: \"She sets the rule out loud: nobody opens it, nobody looks, and she carries it out at six.\" One person's favorite is bought after the plate is sealed, and the rule forbids opening it. The plate titled \"The Plate With Everybody On It\" goes to the table with an empty saucer.",
+   "fix": "Add a closing sentence to Get Outside: The Walk to Buy One Thing, after \"She carries the bag home.\": \"Straight to the fridge with it. She lifts the wrap, sets the last food on its empty saucer, covers the plate again and the rule starts from there.\""
+  },
+  {
+   "severity": "major",
+   "day": 130,
+   "file": "months/05-may-w19.md",
+   "problem": "The Parenting Insight describes a shoebox the page does not contain. Insight: \"She finds far fewer real pairs than she expects, and the six leftovers are what the shoebox is for.\" Second Main Event: \"Five things out of this house nobody would ever throw out, and a story for each. Brooklyn picks them\", and step 6: \"Add the photo and today's leaf.\" The shoebox holds five objects Brooklyn chose plus a drawing, a photo and a leaf. None of Azlyn's six unmatched odds and ends go in it. The Main Event's own step 6 gets it right: \"Leave the tray out, because the shoebox at one o'clock runs on the same idea.\"",
+   "fix": "Change the insight's last sentence to: \"She finds far fewer real pairs than she expects, and the six leftovers stand on the tray all day as the proof.\""
+  },
+  {
+   "severity": "major",
+   "day": 134,
+   "file": "months/05-may-w20.md",
+   "problem": "The count at the end of the Main Event disagrees with the wands the steps hand her. Step 6: \"Back to the first question. Seven holes, a square and a triangle among them, and every bubble came out round.\" Steps 2 to 5 run eight: the drinking straw, the slotted spoon, the colander, the square pipe cleaner, the triangle, the sock bottle, the jam jar lid ring, and the two straws with the string loop. The materials list carries all eight.",
+   "fix": "Change step 6 to: \"Back to the first question. Eight holes, a square and a triangle among them, and every bubble came out round.\""
+  },
+  {
+   "severity": "major",
+   "day": 130,
+   "file": "months/05-may-w19.md",
+   "problem": "Prep Tonight pours something into the jar that no other block on the page accounts for. Prep Tonight: \"Tip the button tin, the odds-and-ends drawer and the bottom of the toolbox into one jar.\" The Main Event materials list names only \"bottle caps, coins, keys, corks, lids, clothespins, spoons, fabric scraps\", and the Safety block covers only choking: \"Buttons, coins, keys and bottle caps are all choke-sized and Kreston is pulling to stand at table height.\" The bottom of a toolbox is screws, tacks, washers and snapped blade tips, and the opening activity sits a three year old down alone with it: \"Say nothing for two minutes while she goes through it.\"",
+   "fix": "Change Prep Tonight to: \"Tip the button tin and the odds-and-ends drawer into one jar, leaving out anything sharp and anything with a point on it. Stand it on the table on a bath towel folded flat.\""
+  },
+  {
+   "severity": "major",
+   "day": 142,
+   "file": "months/05-may-w21.md",
+   "problem": "Second Main Event step 7 says \"then untape the string and coil it away\" and the Safety block says \"Take the string down the moment you finish.\" The schedule row four hours later reads \"**4:15\u20135:00 PM** \u2014 Quiet Play: Winching the Small Toys.\" The machine has been dismantled outdoors and the string coiled away, so there is nothing to winch with at 4:15.",
+   "fix": "Change the schedule row to \"**4:15\u20135:00 PM** \u2014 Quiet Play: The Rescued Toys, Dried and Lined Up\"."
+  },
+  {
+   "severity": "major",
+   "day": 143,
+   "file": "months/05-may-w21.md",
+   "problem": "The Safety block says \"Seven loops of wool at floor height and an 11-month-old who pulls to stand. A loop of wool over Kreston's head is a strangulation risk... The spare goes up on a shelf when the ceremony ends.\" The ceremony ends at 2:30, and the schedule row reads \"**4:15\u20135:00 PM** \u2014 Quiet Play: The Spare Medal.\" The day shelves the object for a stated strangulation reason and then hands it back at floor level during quiet play.",
+   "fix": "Change the schedule row to \"**4:15\u20135:00 PM** \u2014 Quiet Play: The Notes She Dictated, Read Back\"."
+  },
+  {
+   "severity": "major",
+   "day": 147,
+   "file": "months/05-may-w21.md",
+   "problem": "Second Main Event step 5 says \"Load the rest: the helper cards counted in by name, the spare medal, Tuesday's route map, and the training chart folded in half.\" Day 145 step 6 says of that same map \"It goes on the fridge,\" and the Week 21 opener lists among the things that outlast the week \"the fire route map on the fridge.\" A fire escape route map filed inside a lidded shoebox is no longer a fire escape route map.",
+   "fix": "Change step 5 to \"Load the rest: the helper cards counted in by name, the spare medal, and the training chart folded in half. Tuesday's route map stays on the fridge, because a fire route in a box is no route at all.\" Drop \"the route map\" from the Complete Materials List line so it reads \"- The spare medal and the training chart\"."
+  },
+  {
+   "severity": "major",
+   "day": 151,
+   "file": "months/05-may-w22.md",
+   "problem": "Prep Tonight: \"Put the two or three oldest photographs in the house out of her reach with one small thing that belonged to the person you chose, and count the small water bottles for Tuesday.\" The 8:00 Opening Activity needs \"3 things older than Azlyn, one of them the oldest thing in the house\" lined up on the table. Finding the oldest thing you own is a hunt through the house, and Prep Tonight never asks for it.",
+   "fix": "Change Prep Tonight to: \"Stand three things older than Azlyn on the kitchen counter, the oldest thing in the house among them, put the two or three oldest photographs out of her reach with one small thing that belonged to the person you chose, and count the small water bottles for Tuesday.\""
+  }
+ ],
+ "06": [
+  {
+   "severity": "critical",
+   "day": 163,
+   "file": "months/06-jun-w24.md",
+   "problem": "Safety: \"No food or drink goes into the barns, and Kreston stays in the stroller wherever the animals are.\" Kreston's Afternoon on the same page: \"He does some of the farm on his own feet. At 12 months he will walk four steps toward a goat and then want carrying. Hold him at the fence rather than lifting him over it.\" The infant block walks him up to a goat in the exact place the Safety block confines him to the stroller.",
+   "fix": "Replace the first two sentences of Kreston's Afternoon with: \"He stays in the stroller wherever the animals are and gets his own feet on the path between the barns, where at 12 months he will walk four steps and then want carrying.\""
+  },
+  {
+   "severity": "critical",
+   "day": 0,
+   "file": "months/06-jun-zz-backup.md",
+   "problem": "Bad Weather Day 1 schedule: '2:30\u20133:30 PM \u2014 The Cold Hour: A Bowl of Ice and Two Spoons (60 min)'. No section anywhere on the page describes it, and the Safety block covers only the button battery, the springs and pen tips, the drinks round and the scissors. Kreston is 12 months on this page, walking, and the same book states elsewhere that 'a cube slides back on a flat child and blocks her airway'. An hour of loose ice cubes and two spoons with a 12-month-old in the room has no line covering it.",
+   "fix": "Add to the Safety block: 'The bowl of ice stays up on the table and every dropped cube gets picked up before it melts into a slick, because a whole cube is a choking size at 12 months and Kreston is on his feet. He gets his cold in a cup, not a cube.' Then write the missing 2:30 section, or cut the row and give the hour to the rope."
+  },
+  {
+   "severity": "major",
+   "day": 163,
+   "file": "months/06-jun-w24.md",
+   "problem": "The Sponge Pump runs 1:00-2:30 with \"2 dishpans or buckets\" filled on the patio, and no block on the page says where Kreston is. Safety covers slippery slabs, the farm and tipping the bowls out before you leave, but never Kreston and the standing water. Day 162 and Day 165 both put him in the high chair for their filled-pool hours; this page leaves a walking 12-month-old loose beside two full dishpans for ninety minutes.",
+   "fix": "Add to the Safety block, after the slippery-slabs sentence: \"Kreston is in the high chair beside you for the whole of the sponge pump, because two full dishpans and a new walker do not share a patio.\""
+  },
+  {
+   "severity": "major",
+   "day": 155,
+   "file": "months/06-jun-w23.md",
+   "problem": "Second Main Event step 2: \"Tape the three strips down the left edge of the big card, well apart\", and step 7: \"Hang it low enough for her to put a hand on it.\" Out Again at 2:30, straight after: \"**Playgroup**, and the red strip goes to show whoever is there.\" The red strip is taped to a board hung on the wall by the time the 2:30 row asks for it.",
+   "fix": "Change the Out Again bullet to: \"**Playgroup**, and the color board comes off the wall and goes under your arm to show whoever is there.\""
+  },
+  {
+   "severity": "major",
+   "day": 162,
+   "file": "months/06-jun-w24.md",
+   "problem": "Get Outside: \"If the morning stays cool, fill it halfway and top it up with two pans of hot water at half past twelve, stirred right through first.\" Nothing on the page covers two pans of hot water carried into a yard where a 12-month-old is on his feet, and nothing says the water gets tested before Azlyn lies back in it at 1:00. The Safety block runs to drowning, sunscreen and bottle caps and stops. Half past twelve is also inside the 12:30-1:00 Book Time row.",
+   "fix": "Add to the Safety block, after the standing-water sentences: \"The two pans of hot water go out while Kreston is in the high chair indoors, poured in from the far side of the pool, and you hold a whole hand in the water before she gets near it.\""
+  },
+  {
+   "severity": "major",
+   "day": 180,
+   "file": "months/06-jun-w26.md",
+   "problem": "The Parenting Insight is written for a sick day that this page does not contain. Insight: \"Continuity of ownership matters during illness... Cancel the plan, as on any sick day, then keep her jobs hers and shrink them instead. Two forks instead of six, the basket carried to the door rather than up the stairs.\" The page it sits on cancels nothing and is the most physical day of the week: Opening Activity \"Give her the basket and one word: red. Start in her bedroom\" and \"Stop when the basket is heavy enough that she has to drag it\"; Second Main Event \"The flag has fifty stars and Azlyn cuts every one she can face\"; Out Again \"**Swimming**, and the pool is the coolest room in town this week\". It also names a job the day does not have (\"Two forks instead of six\" against Her Job: Putting the Red Things Back). The week 26 opener carries the same bullet, so both need changing together.",
+   "fix": "Replace the Day 180 insight heading and first sentence with one about the day on the page: **Sorting by one property at a time is how a category gets built.** Carrying a basket room by room with one word in her head, red, is a harder job than it looks: she has to hold the rule while everything else in the room competes for it. Then change the matching week 26 'What You'll Learn' bullet to 'Sorting by one property at a time is how a category gets built' and move the illness insight to a backup day."
+  },
+  {
+   "severity": "major",
+   "day": 180,
+   "file": "months/06-jun-w26.md",
+   "problem": "Out Again puts both children in a public pool with no supervision line anywhere on the page. Schedule: \"**2:30\u20133:30 PM** \u2014 \ud83c\udf33 Out Again: **Swimming** (60 min)\", and Kreston's Afternoon: \"He goes in the water too. At 12 months he can stand in the shallow end holding both your hands and take steps against the drag.\" The Safety block covers only small objects and sun: \"Coins, magnets, buttons and anything holding a button battery go straight back in the basket... Late June sun reaches her on a shaded rug, so hats and sunscreen.\" Day 166 and Day 173, the other two swimming days in this slice, both carry the arm's-reach line; Day 180 has no form of the words arm, reach, watch or supervise in any block.",
+   "fix": "Add to the Day 180 Safety block: \"At the pool both of them stay inside arm's reach in the water, close enough to take hold of without a step, and armbands and rings are toys rather than supervision.\""
+  },
+  {
+   "severity": "major",
+   "day": 171,
+   "file": "months/06-jun-w25.md",
+   "problem": "The 4:15 schedule row names an object the 1:00 block already filed away. Second Main Event step 7: \"If you used wrapping paper, fold the pair into the envelope and let her cover the front in crayon. If they are cardboard, stand them behind the closet and write the date on the back of each.\" Both branches remove both maps before 2:30. Schedule row: \"**4:15\u20135:00 PM** \u2014 Quiet Play: The Map on the Floor\". The morning map is also gone, since step 7 files \"the pair\".",
+   "fix": "Change Second Main Event step 7 to: \"Leave both maps down until bedtime. Then, if you used wrapping paper, fold the pair into the envelope and let her cover the front in crayon; if they are cardboard, stand them behind the closet and write the date on the back of each.\""
+  }
+ ],
+ "07": [
+  {
+   "severity": "critical",
+   "day": 187,
+   "file": "months/07-jul-w27.md",
+   "problem": "The handprint count contradicts the rest of the book. Day 187 Second Main Event lede: \"January's handprint went up on Day 1 and April's beside it in the spring. July's makes three, made the same way, with the same four questions under it.\" Prep Tonight: \"dig out January's and April's handprint sheets.\" Step 1: \"Get January's sheet and April's out first and lay them side by side.\" Insight: \"Three, made the same way across half a year, are evidence she can read without being told what to think.\" Week 27 opener repeats it: \"January's handprint comes off the wall, and April's with it, and a July one goes up beside them\", and the week shopping list carries \"January's and April's handprint sheets, off the wall\". But the book runs one handprint per calendar month: months/02-feb-w8.md line 512 \"Write **February** and **3** beside it. Second of twelve.\", months/02-feb-w9.md line 574 \"Write **March** and **3** beside it. Third of twelve.\", months/05-may-w19.md line 446 \"This one is May, fifth of twelve.\", plus April and June. Six sheets are on the wall by July, not two, and July is the seventh, not the third.",
+   "fix": "Lede becomes: \"January's handprint went up on Day 1 and one has gone up every month since. July's makes seven of twelve, made the same way, with the same four questions under it.\" Prep Tonight becomes: \"dig out the six handprint sheets from January onward.\" Step 1 becomes: \"Get all six earlier sheets out first and lay them in a row, January at one end. Ask whether any of those hands looks like her hand, and let her hold her palm over January's and over June's.\" Step 5 adds \"Seventh of twelve.\" after the date. Insight sentence becomes: \"Seven, made the same way across seven months, are evidence she can read without being told what to think.\" Week 27 opener becomes: \"The book is six months old, so the whole row of handprints comes off the wall, January to June, and a July one goes up beside them.\" Shopping list line becomes: \"The handprint sheets from January onward, off the wall\"."
+  },
+  {
+   "severity": "critical",
+   "day": 208,
+   "file": "months/07-jul-w30.md",
+   "problem": "Second Main Event step 6 gives one hanging height for two incompatible requirements: \"Hang it in a doorway at her head height, high enough that Kreston cannot reach it standing up.\" A three-year-old's head height is roughly a 13-month-old's overhead reach, and the same block has already taped on \"long strips\" of cut grocery bag, \"Twenty is not too many,\" which hang below the dome into his grab zone. The Safety block covers only the top line: \"Hang the jellyfish high enough that he cannot reach the string.\" Nothing on the page covers twenty plastic strips dangling in a doorway a walking, climbing 13-month-old passes through all week, and Quiet Play at 4:15 is \"Under the Jellyfish.\"",
+   "fix": "Replace step 6 with: \"Hang it in a doorway you can gate or shut against Kreston, at Azlyn's head height, and trim every strip level with the dome rim in any doorway he uses.\" Replace the Safety sentence with: \"The jellyfish hangs behind a gate or a shut door, because the string and twenty plastic strips are both inside a 13-month-old's reach, and a strip he pulls down goes to his mouth.\""
+  },
+  {
+   "severity": "critical",
+   "day": 215,
+   "file": "months/07-jul-w31.md",
+   "problem": "The flag is fixed to the pole in the morning and then raised and lowered on it in the afternoon. Main Event step 5: \"Tape the top edge along the cane, three strips below the taped ball, then wind the string round the join and knot it twice.\" Second Main Event step 3: \"Tie the string to the top corner of the flag and run it over the top of the pole so it raises and lowers. The two pegs hold it at half height for shut.\" A flag taped along its top edge to the cane and string-knotted at the join cannot move on the pole, so the three signals the whole afternoon runs on (top, halfway, waved) are impossible, and the Parenting Insight (\"Raising and lowering it adds a second layer\") rests on the same impossible mechanic.",
+   "fix": "Replace Main Event step 5 with: \"Tape a short loop of string to each top corner of the flag, run one long string up over the taped ball on the end of the cane and down the other side, and knot one end to each loop, so the flag rides to the top of the pole and comes down again.\""
+  },
+  {
+   "severity": "major",
+   "day": 188,
+   "file": "months/07-jul-w27.md",
+   "problem": "Standing water at floor level all afternoon with a walking 13-month-old and no line anywhere on the page. Second Main Event step 7: \"Fill the bowl at the tap and float the rind halves in it. They sit like boats and she will push them round until dinner.\" Afternoon Alternatives: \"Rind boats in the paddling pool instead of a bowl.\" Schedule row 4:15: \"Quiet Play: The Dishpan.\" The Safety block covers the big knife, choking chunks, the corn pan and sun, and says nothing about water. The book's own Day 190 safety block states the risk in plain terms: \"Kreston is 13 months, he walks, and he can drown in the depth of a dishpan in silence.\"",
+   "fix": "Add to the Day 188 Safety block, after the watermelon sentence: \"The rind bowl and the afternoon dishpan are standing water at his height, so Kreston stays within arm's reach whenever either one is full, and both get tipped out the moment she is finished with them.\""
+  },
+  {
+   "severity": "major",
+   "day": 188,
+   "file": "months/07-jul-w27.md",
+   "problem": "The corn cannot reach the table. Opening Activity step 3: \"Stand the bare cobs in the saucepan of cold water on the back of the stovetop, ready for noon.\" Main Event step 4: \"Corn onto the stovetop at ten to twelve.\" Step 6: \"It goes on the table at noon and nobody rearranges it, including you.\" Ten minutes is not enough to bring a saucepan of cold water to the boil and cook two cobs in it. The 11:50 start also falls inside the 11:45-12:00 Wiggle Time row.",
+   "fix": "Step 4 becomes: \"Corn onto the stovetop at twenty past eleven, so the water is boiling by half past and the cobs have their ten minutes before noon. You stand at the pan, she stays the other side of the counter.\""
+  },
+  {
+   "severity": "major",
+   "day": 186,
+   "file": "months/07-jul-w27.md",
+   "problem": "A stream and a paddling pool are offered for the whole 2:30-3:30 block with no water line on the page. Out Again: \"The stream or the paddling pool, if the woods are too far in this heat\" and \"The garden with the hose, and nothing else planned.\" The Safety block covers only the scissors, the stone and toy car as choking size, and sun: \"The scissors come out three times today... The stone and the toy car are choking size for a 13-month-old who walks over and picks things up... hat on, cream at eight, cream again at eleven.\" Kreston turns 13 months on this page and the same page says he \"climbs onto whatever is knee height.\"",
+   "fix": "Add to the Day 186 Safety block, before the sun sentence: \"If the afternoon goes to the stream or the paddling pool, Kreston is within arm's reach of the water every second he is near it, and the pool gets tipped out before you go in.\""
+  },
+  {
+   "severity": "major",
+   "day": 185,
+   "file": "months/07-jul-w27.md",
+   "problem": "Same gap on the Fourth of July page. Afternoon Alternatives: \"Pack the bag and spend the rest in the paddling pool.\" Out Again: \"Sprinklers or a paddling pool, because it will be hot\" and \"The garden and the hose.\" The Safety block runs to lit candles, sparklers, heat and the phone number on her arm, and never mentions water: \"Lit candles come nowhere near a walking one-year-old... July heat is the real risk: water every half hour whether she asks or not.\" Kreston walks on this page and the pool is the fallback for a whole hot afternoon.",
+   "fix": "Add to the Day 185 Safety block, after the heat sentence: \"If the paddling pool comes out, Kreston stays within arm's reach every second it holds water, and it gets tipped out before you go back in.\""
+  },
+  {
+   "severity": "major",
+   "day": 183,
+   "file": "months/07-jul-w27.md",
+   "problem": "The page tells the reader the candles are out of reach and then tells them they are not. Second Main Event step 3: \"She carries the cake in from another room and stands it on a low table at the edge of the blanket, above Kreston's reach, while everybody watches her do it.\" Step 7: \"Cups collected in, cake up on the shelf where Kreston cannot reach the candles.\" Safety block: \"The rolled candles are the width of Kreston's throat... count them again after every blowing round at the party, because the cake sits on a table and he is on the blanket below it.\" A low table beside a blanket is not above the reach of a 12-month-old who walks, and step 7 and the Safety block both treat it as within reach.",
+   "fix": "Step 3 becomes: \"She carries the cake in from another room and stands it on a low table at the edge of the blanket, back from the edge and where you can see it, while everybody watches her do it.\""
+  },
+  {
+   "severity": "major",
+   "day": 210,
+   "file": "months/07-jul-w30.md",
+   "problem": "Get Outside opens \"A bucket of water, a wide brush each,\" and Prep Tonight stands \"a bucket and two brushes by the back door.\" The Safety block covers only the infant's vessel: \"His tub of water at the fence is shallow enough to look harmless and deep enough to drown in, so you stay within arm's reach of it and tip it out the moment the brushes go down.\" The bucket standing on the ground goes unmentioned, and this week's own opener says Kreston \"climbs onto anything with a rim or a step.\"",
+   "fix": "Extend the Safety sentence to: \"His tub and Azlyn's bucket are both shallow enough to look harmless and deep enough to drown in, so a bucket at a 13-month-old's head height stays where you can see it and both get tipped out the moment the brushes go down.\""
+  },
+  {
+   "severity": "major",
+   "day": 198,
+   "file": "months/07-jul-w29.md",
+   "problem": "The Get Outside block is \"Take the chalk to the sidewalk outside the front door,\" but its infant block describes the Main Event instead: \"Sit him outside the hatch and let him push a paper cone through to Azlyn, then take it back when she pushes it out again.\" The box is indoors by the day's own Prep Tonight, \"Stand the big box upright in the front room,\" so Kreston is placed at an indoor box during the outdoor 10:30 block, and nothing on the page covers him on an open sidewalk at 13 months with chalk in reach.",
+   "fix": "Replace the infant block with: \"Kreston is 13 months and a fist-sized chalk stub goes straight to his mouth, so give him a broken half held in your own hand and let him scrub it on the paving between Azlyn's letters. Keep him on the house side of the path, hat on, and put the back of your hand on the paving before he sits down on it.\""
+  },
+  {
+   "severity": "major",
+   "day": 201,
+   "file": "months/07-jul-w29.md",
+   "problem": "Prep Tonight commits the one basket to the van: \"Empty the laundry basket and stand it by the front door with a flattened box, the marker and a saucepan lid on top of it,\" and the Main Event materials read \"The stroller, or 1 laundry basket.\" The Get Outside infant block then needs a second, free basket at the same moment: \"an empty laundry basket is a walking frame. Let him push it down the hall behind the van.\" It also puts him in the hall while the block above it says \"Take the round out to the sidewalk,\" and the Safety block follows the hall, not the sidewalk: \"Clear the hall run before he pushes the basket.\"",
+   "fix": "Move the walking-frame paragraph into the Main Event as its infant note and replace the Get Outside infant block with: \"Kreston is 13 months and walks the sidewalk round on his feet, holding the stroller rim with one hand and your finger with the other. He stops at every stop and every gate, so let the round run at his pace. Hat on, and he stays on the house side of you the whole loop.\""
+  },
+  {
+   "severity": "major",
+   "day": 196,
+   "file": "months/07-jul-w28.md",
+   "problem": "Main Event step 1 and the Safety block both assert \"Today runs outdoors start to finish,\" and the Safety block builds the sun plan on it with \"cream at eight.\" The 8:00 Opening Activity is indoors from beginning to end: \"Send her round the house with the basket for everything this week made\" and \"Lay it out on the kitchen floor.\" The 8:00 cream instruction also contradicts step 1, which puts the cream at 9:15, \"Sun cream and hats before anything comes out of the basket.\"",
+   "fix": "Change step 1 to: \"Sun cream and hats before anything comes out of the basket. Everything after nine happens outdoors.\" Change the Safety sentence to: \"Everything after nine runs outdoors: hat on, cream at nine, cream again at eleven, and once more after the pool.\""
+  },
+  {
+   "severity": "major",
+   "day": 216,
+   "file": "months/07-jul-w31.md",
+   "problem": "A 4:00 row calls for packing something the 9:15 block already packed. Main Event materials: \"The things still indoors: the flashlight, the cups, the sun hats, the water bottles, the sun cream.\" Step 5: \"Fetch each thing off the shelf and pack against her list.\" Step 6: \"When the last strip is face down, clip all twelve together with the bulldog clip and hang it on her bag for the morning.\" Schedule row: \"4:00-4:15 PM - Her Job: The Cups Into the Bag.\" The cups went into the bag before 10:15 AM, and the closed list is already clipped to her bag, so the job either undoes the morning or has nothing to do.",
+   "fix": "Change the schedule row to: \"4:00-4:15 PM - \ud83e\uddf9 Her Job: The Bread and Butter on the Table\"."
+  },
+  {
+   "severity": "major",
+   "day": 0,
+   "file": "months/07-jul-zz-backup.md",
+   "problem": "Bad Weather Day 2, Second Main Event step 5: 'Stand the mirror against the wall,' materials calling for '1 mirror, or the biggest one you can carry into the room,' and step 7 leaving it there: 'the basket stays in that room with the mirror for four o'clock,' with 4:15\u20135:00 given to 'Quiet Play: The Clothes Pile and the Mirror.' Kreston's Afternoon on the same page says 'At 13 months he climbs anything with a lip on it.' The Safety block covers heat, parked cars, frozen bottles and the floor fan, and says nothing about a large mirror leaning free against a wall for four hours.",
+   "fix": "Change step 5 to: 'Stand the mirror flat against the wall behind the sofa or hang it, and put a hand on it to check it cannot walk out at the base. A leaning mirror comes down on a 13-month-old who pulls on it, so if it will not sit solid, take everybody to the bathroom mirror instead.'"
+  }
+ ],
+ "08": [
+  {
+   "severity": "critical",
+   "day": 241,
+   "file": "months/08-aug-w35.md",
+   "problem": "The Main Event materials say \"3 jam jars of water\" and step 1 says \"tape a jam jar of water beside each place with a loop of packing tape\", and the week shopping list buys \"Jam jars, 3, for the paint water\". The Safety block then says \"Three open jars of water sit at floor level for the whole hour, so use plastic cups rather than glass\". The page buys glass, stages glass at floor level for sixty minutes beside a 14-month-old, and then forbids glass. Whichever block the reader follows, the other one is wrong, and the materials list is the block people actually shop from.",
+   "fix": "Change the materials line to \"3 plastic cups of water\", change step 1 to \"tape a plastic cup of water beside each place\", change the shopping list line to \"Plastic cups, 3, for the paint water\", and change the Safety sentence to \"Three open cups of water sit at floor level for the whole hour, so keep them taped down on the far side of each adult from Kreston and tip them out into the sink the moment the brushes go down.\""
+  },
+  {
+   "severity": "major",
+   "day": 219,
+   "file": "months/08-aug-w32.md",
+   "problem": "The shirts are worn out of the house while they are still pegged up wet. Second Main Event opener: \"The wax trick works on cloth too, and this one she wears to the museum.\" Step 6: \"Clip the shirts on the line in the sun. August dries a t-shirt inside an hour.\" The block runs 1:00-2:30 PM, Out Again is 2:30-3:30 PM, and two later rows put the shirts elsewhere: \"4:00-4:15 PM - Her Job: Clipping Out the Shirts\" and \"5:00-5:45 PM - Wind-Down: Bath, and Her Shirt Laid Out for Tomorrow.\" The Afternoon Alternative \"A friend's garden, shirts on\" carries the same fault.",
+   "fix": "Change the Second Main Event opener to: \"The wax trick works on cloth too, and this one comes off the line in time for tomorrow.\" and change the alternative bullet to \"A friend's garden, and the shirts left drying.\""
+  },
+  {
+   "severity": "major",
+   "day": 219,
+   "file": "months/08-aug-w32.md",
+   "problem": "The outdoor hour names an hour the schedule gives to something else. Schedule row: \"10:30-11:15 AM - Get Outside: Ten Kicks Against the Shed Wall (45 min)\". The block itself: \"Chalk a rectangle on the shed door at her height and get out before ten, while the wall still has shade.\" At ten the page has her in the Main Event (9:15-10:15) and then Snack (10:15-10:30).",
+   "fix": "Change the sentence to: \"Chalk a rectangle on the shed door at her height and get out at half past ten, while the shed wall still throws shade onto the paving.\""
+  },
+  {
+   "severity": "major",
+   "day": 222,
+   "file": "months/08-aug-w32.md",
+   "problem": "A 4:00 row is titled for a moment that passed two and a half hours earlier. Schedule rows: \"2:30-3:30 PM - Out Again: Swimming (60 min)\" and \"4:00-4:15 PM - Her Job: Cups and Forks Before Swimming\", followed by \"5:00-5:45 PM - Wind-Down: Rinsing the Chlorine Out\". The page has them home from the pool and rinsing off, so nothing at 4:00 comes before swimming.",
+   "fix": "Change the schedule row to: \"4:00-4:15 PM - \ud83e\uddf9 Her Job: Cups and Forks After Swimming\"."
+  },
+  {
+   "severity": "major",
+   "day": 223,
+   "file": "months/08-aug-w32.md",
+   "problem": "The Safety block puts the caps out of reach and the schedule then hands them back. Second Main Event step 7: \"Count the caps into the small box at the end.\" Safety: \"Bottle caps are the classic choking size and there will be ten of them on a table Kreston can reach standing up. Play where he cannot get to them, count them into the box at the end, and put the box up high. He never gets one to hold, however hard he asks.\" Schedule row: \"4:15-5:00 PM - Quiet Play: The Cap Box and the Lid\" gives forty-five minutes with the box back down in a room where a 14-month-old walks.",
+   "fix": "Change the schedule row to: \"4:15-5:00 PM - Quiet Play: Drawing Her Recipe Card Again\"."
+  },
+  {
+   "severity": "major",
+   "day": 236,
+   "file": "months/08-aug-w34.md",
+   "problem": "The afternoon builds floor-level standing water that the Safety block never covers. Second Main Event step 1: \"Three trays in a row on the kitchen floor. Pond first: the shallow bowl of water in tray one\" \u2014 it sits there from 1:00 through Quiet Play at 4:15 (\"Quiet Play: The Animals on the Trays\"), including the hour everybody is out swimming. The Safety block scopes every instruction to the morning: \"Kreston is on your hip or in the stroller while the game runs. The bowl gets tipped onto the grass the moment Azlyn is finished, and his own inch in the baking tray goes the same way... Nobody leaves the garden with either of them full.\" Garden only, morning only, while the page's own standard is \"a 14-month-old who walks drowns in a dishpan.\"",
+   "fix": "Add to the Safety block after the garden sentence: \"The pond tray is standing water on the kitchen floor for the whole afternoon, so it holds a finger's depth and no more, it gets tipped into the sink the moment she stops placing animals, and it goes nowhere near the floor while nobody is kneeling beside it.\""
+  },
+  {
+   "severity": "major",
+   "day": 231,
+   "file": "months/08-aug-w33.md",
+   "problem": "The infant block takes away the object step 6 needs. Main Event step 4: \"Wash the cups together, stand them back in the order she picked at 8:00\"; step 6: \"Then stand the glass beside her line-up from 8:00 and read the floors against her order, top to bottom.\" The Infant Integration block, running the same hour, says: \"Give him the four cups once they are washed: he stacks two, knocks them down and starts again.\" There is no line-up left to read her order against.",
+   "fix": "Change the infant sentence to: \"Once she has read the floors against her line-up, give him the four cups: he stacks two, knocks them down and starts again, which he could not do in June.\""
+  },
+  {
+   "severity": "major",
+   "day": 230,
+   "file": "months/08-aug-w33.md",
+   "problem": "The materials list offers what the Safety block forbids. Second Main Event materials: \"4 clear plastic cups, or small glasses\" \u2014 and step 5 is \"Now the high pour. Glass on the tray, and she lifts the pot as high as she can and aims.\" The Safety block: \"Use plastic cups for the high pour rather than glass.\" A reader who takes the offered option hands a three-year-old glass for a pour designed to miss.",
+   "fix": "Change the materials line to: \"4 clear plastic cups, never glass, because the high pour is designed to miss\" (and drop \"or small glasses\" from the week's shopping list line)."
+  },
+  {
+   "severity": "major",
+   "day": 240,
+   "file": "months/08-aug-w35.md",
+   "problem": "The Safety remedy is timed after the hazard window instead of during it. Main Event step 6: \"Pull the rubber bands off and trade lenses\" \u2014 that happens in the blacked-out room, with Kreston in it. Safety: \"Rubber bands and wrappers are choking size and they come off in the dark, so count them out at eight and back into the tin before the lights go on.\" Counting them back in before the lights go on protects nobody; the bands are loose on a dark floor for the last two songs.",
+   "fix": "Change the Safety sentence to: \"Rubber bands and wrappers are choking size, so put the big light on to trade lenses between songs and count every band back into the tin before the room goes dark again.\""
+  },
+  {
+   "severity": "major",
+   "day": 243,
+   "file": "months/08-aug-w35.md",
+   "problem": "Prep Tonight says \"Empty a cookie tin, find the screwdriver, and put both on the table with the rubber bands, two screws, the sandpaper and a wooden ruler or paint stirrer.\" The Safety block says \"Loose screws and rubber bands are choking hazards and both sit at Kreston's exact height. Count them out and count them back in. The screwdriver goes back in the drawer between turns, never left on the table\". Prep Tonight leaves all three on the table overnight, so Kreston reaches them at 14 months before the 8:00 block starts and before any counting has happened.",
+   "fix": "Change Prep Tonight to: \"Empty a cookie tin and stand it on the table with the sandpaper and a wooden ruler or paint stirrer, and put the screwdriver, the two screws and the rubber bands in a lidded tub in the drawer, out at nine fifteen.\""
+  }
+ ],
+ "10": [
+  {
+   "severity": "critical",
+   "day": 286,
+   "file": "months/10-oct-w41.md",
+   "problem": "Get Outside puts both children at a curb for the whole block: \"Take the nearest bench to a road and sit on it for twenty minutes with nothing to do but count wheels\", and the infant block confirms it with \"a bench by a road keeps him busy\" for a 16-month-old who walks. The Safety block covers only the stapler, staples, the toy cars and the jam jar: \"The stapler stays in your hand... Single toy cars are choke-sized for him... A jam jar of water is glass\". Nothing anywhere on the page covers the road, and the 2:30 walk to the library adds more curb. Day 285 and Day 290 both carry a curb line for the same hazard.",
+   "fix": "Add to the Day 286 Safety block: \"The bench sits at a curb, so Kreston stays on your hand or in the stroller with the brake on, Azlyn sits on the house side of you, and neither of them steps off the sidewalk after a wheel.\""
+  },
+  {
+   "severity": "major",
+   "day": 275,
+   "file": "months/10-oct-w40.md",
+   "problem": "Eight guests, but the page seats four. Opening Activity step 3: \"Set four chairs at the table and four cushions on them for the smaller guests. Count the seats out loud, then count the guests again.\" With the cushions stacked on the chairs there are four seats for eight guests, and the count she is asked to make comes out four against eight. The Main Event step 5 then treats them as separate seats: \"Sit the guests down. Chairs for the four who need them, cushions for the four who do not.\" The whole day (eight plates, eight cups, eight numbered place cards, \"Eight Leaves for Eight Places\") rests on eight places existing.",
+   "fix": "Opening Activity step 3 becomes: \"Set four chairs at the table and lay four cushions on the floor along the far side for the smaller guests. Count the eight seats out loud, then count the eight guests again, and leave the table bare.\""
+  },
+  {
+   "severity": "major",
+   "day": 279,
+   "file": "months/10-oct-w40.md",
+   "problem": "Nothing on the page places Kreston during the Main Event, which is a pan banged at close range plus a three-year-old running a hallway flat out. Step 2: \"Bang the pan with the spoon and count up from one, slow and even, while she runs the hall from 0 to 10 and back.\" The Safety block covers buttons only: \"Buttons are the size that chokes a 16-month-old.\" Day 277 states the hazard the book itself created two days earlier: \"Close-range banging is loud enough to damage a 15-month-old's hearing,\" and it gave him a cushion a room's width back. Day 279 repeats the banging and adds a running body in a corridor a 16-month-old walks, with no line anywhere on the page.",
+   "fix": "Add to the Safety block: \"Put Kreston at the far end of the room away from the pan before the first bang, or use the phone music instead, and keep him out of the hall while she is running it, because a child at full speed in a corridor does not stop for a 16-month-old.\""
+  },
+  {
+   "severity": "major",
+   "day": 282,
+   "file": "months/10-oct-w41.md",
+   "problem": "The Safety block forbids what Main Event step 5 instructs. Step 5: \"Stand at the top and look at the spread.\" Safety: \"Cardboard taped over stair treads is a slip hazard for everybody in the house. It comes up the moment you stop racing, and nobody uses those stairs while it is down.\" Getting to the top means walking up over the taped cardboard the safety line rules out.",
+   "fix": "Main Event step 5 becomes: \"Crouch at the foot of the ramp, off the cardboard, and look up the spread with her. Ask which went furthest and whether it matches the number on the wall.\""
+  },
+  {
+   "severity": "major",
+   "day": 282,
+   "file": "months/10-oct-w41.md",
+   "problem": "Three blocks give 4:15 to two different activities, and one of them needs equipment the Safety block requires put away. Schedule: \"4:15-5:00 PM - Quiet Play: The Fleet in the Shoebox.\" Tip: \"Leave the chair where it is. She runs the meeting again at 4:15 for nobody, and that showing is hers.\" Insight: \"the same race run alone at 4:15 has a different feel for her.\" A race meeting at 4:15 needs the stair ramp back down, and Safety says it \"comes up the moment you stop racing.\"",
+   "fix": "Tip becomes: \"Leave the chair where it is. The ramp is up by then, so at 4:15 she runs the fleet along the floor past the empty chair for nobody, and that showing is hers.\" Change the insight clause to \"the same fleet run alone on the floor at 4:15.\""
+  },
+  {
+   "severity": "major",
+   "day": 292,
+   "file": "months/10-oct-w42.md",
+   "problem": "The Second Main Event seals the box at 1:00\u20132:30: step 4 \"One thing from her own room goes in, her choice, and it stays in until Sunday\", step 6 \"Lid on, tape round the outside, and she says what goes on the top\". The schedule then hands her the sealed box at 4:15: \"4:15\u20135:00 PM \u2014 Quiet Play: Sorting the Space Box\". She cannot sort a box that is taped shut until Sunday.",
+   "fix": "Change the schedule row to \"**4:15\u20135:00 PM** \u2014 Quiet Play: Drawing What Went in the Box\"."
+  },
+  {
+   "severity": "major",
+   "day": 289,
+   "file": "months/10-oct-w42.md",
+   "problem": "The morning infant block hands Kreston a stone: \"He picks up everything on the sidewalk, so take each one as it comes. Give him one stone too big for his mouth to carry to the bag.\" The Safety block rules that out and ties the only allowed stones to an afternoon option that may not happen: \"The only stones that go to him are the five you picked at the lakeshore, every one of them wider than his fist.\" Out Again is Pick one, and three of the four choices are the woods, the park or a drive.",
+   "fix": "Change the Safety sentence to \"The only stones that go to him are the ones you hand him, every one of them wider than his fist.\""
+  },
+  {
+   "severity": "major",
+   "day": 289,
+   "file": "months/10-oct-w42.md",
+   "problem": "Kreston's Afternoon at the lakeshore reads \"he heads for the water, so one of you has hands on him the whole time\", which is written for two adults and is the shape of the deleted water rule. Day 292 and Day 299 in the same slice use the settled wording: \"He comes to swimming and stays within arm's reach in the water, every second\" and \"Never leave either child unattended near water\".",
+   "fix": "Change the sentence to \"At the lakeshore he heads for the water, so he stays inside your arm's reach the whole time you are near the edge.\""
+  },
+  {
+   "severity": "major",
+   "day": 293,
+   "file": "months/10-oct-w42.md",
+   "problem": "The Safety block puts the bags away for the rest of the day: \"The freezer bags stay taped to the tray or in your pocket, because a bag over his face is a suffocation risk and it takes seconds\", and the Second Main Event ends at step 7 with \"Untape, wipe down\". The schedule then gives her the bags back loose at 4:15 with Kreston up: \"4:15\u20135:00 PM \u2014 Quiet Play: The Kitchen Pouches\".",
+   "fix": "Change the schedule row to \"**4:15\u20135:00 PM** \u2014 Quiet Play: Taping Her Own Toys to the Tray\"."
+  },
+  {
+   "severity": "major",
+   "day": 308,
+   "file": "months/10-oct-w44.md",
+   "problem": "The Second Main Event strings a line across the room and leaves it up for the whole 1:00-2:30 tour while Kreston is loose in it. Step 5: \"Clip the string between two of the chairs to mark the line visitors stay behind, and set the third at the end as the ticket desk.\" Kreston's Afternoon: \"He walks the tour holding a hand and reaches for whatever he should not.\" The Safety block names the hazard and then tolerates it for ninety minutes: \"String clipped across a room at her height is a strangulation risk for both children, so it comes down the second the tour ends.\" Day 307's own safety line takes the line down \"the moment she has looked at the row\", Day 309 forbids a strung line all week, and Day 314 runs its line at knee height between chair legs. This is the one day that leaves a chest-height line up with a walker in the room.",
+   "fix": "Replace step 5 with: \"Run a strip of masking tape along the floor to mark the line visitors stay behind, and set a chair at the end as the ticket desk.\" Then change the first Safety sentence to: \"The visitor line is tape on the floor rather than string, because a line at her chest height is at his neck height.\""
+  },
+  {
+   "severity": "major",
+   "day": 303,
+   "file": "months/10-oct-w44.md",
+   "problem": "Day 303 puts the dinosaur on the hall wall and promises the whole week ends there. Step 7: \"Leave him up. Everything made this week ends on this wall by Thursday.\" Day 307 confirms the hall: \"hold them against the dinosaur in the hall.\" But Thursday's Prep Tonight says \"clear one living room wall down to the baseboard\", and Day 308's materials open with \"Everything made this week: the dinosaur, the slot skeleton, the lamps, the marigolds, the footprints\". The reader tapes a six-foot cut-out flat to one wall for six days on the strength of a promise the book then breaks in another room.",
+   "fix": "Change Day 303 step 7 to: \"Leave him up. He comes off the hall wall on Thursday morning and goes back up flat on the exhibition wall, and everything made this week joins him there.\""
+  },
+  {
+   "severity": "major",
+   "day": 304,
+   "file": "months/10-oct-w44.md",
+   "problem": "The week opener's shopping list contradicts the day's Safety block on the one night the children are on a dark residential road. List: \"Flashlights, 2, with fresh batteries, one for each of her hands on Sunday night\". Safety: \"she carries one flashlight in her outside hand, and her other hand is in yours at every driveway and every curb.\" She cannot hold a flashlight in each hand and your hand as well, and the list is the line a reader shops from.",
+   "fix": "Change the list line to: \"Flashlights, 2, with fresh batteries, one for her outside hand and one for you on Sunday night\"."
+  },
+  {
+   "severity": "major",
+   "day": 302,
+   "file": "months/10-oct-w44.md",
+   "problem": "The Parenting Insight ends on objects the Main Event disposed of that morning. Insight: \"The five bowls of colored salt on the counter make the same point, and none of them go back to white.\" The Main Event tipped every bowl into a jar (steps 1 to 3), then poured the jars out on the doorstep (step 6): \"Hand her the jars one at a time to pour from. It stays all evening, then the pitcher of warm water washes it down.\" By the time the insight is read there are no bowls, the salt is on the doorstep, and it is about to be hosed away.",
+   "fix": "Change the closing insight sentence to: \"The two colors she mixed are out on the doorstep until the water goes over them tonight, and neither one comes back to white.\""
+  },
+  {
+   "severity": "major",
+   "day": 0,
+   "file": "months/10-oct-zz-backup.md",
+   "problem": "Bad Weather Day 2 Safety: 'Keep all four saucers on a high shelf: Kreston will eat what is on them.' Step 5: 'Line all four up beside her morning drawing at four o'clock,' and the schedule gives '4:15\u20135:00 PM \u2014 Quiet Play: The Four Saucers Again' \u2014 forty-five minutes of a 16-month-old loose in the room with four saucers of cut apple, one of them soaked in lemon or vinegar, down at her level.",
+   "fix": "Change the schedule row to '4:15\u20135:00 PM \u2014 Quiet Play: The Four Saucers, Looked At From Your Arms' and add to step 5: 'Hold each saucer for her, one at a time, and put it straight back on the high shelf. Nothing on those saucers comes down to floor level while Kreston is in the room.'"
+  }
+ ],
+ "11": [
+  {
+   "severity": "critical",
+   "day": 319,
+   "file": "months/11-nov-w46.md",
+   "problem": "The whole afternoon puts small mouthable objects at floor level and seats Kreston in them, and the Safety block covers only glass. Get Outside: \"Blue may have to be a bottle cap.\" Second Main Event step 2: \"She fetches every red thing she is allowed to carry... and lays them in a band across the far end,\" step 4: \"Tip the walk finds in and let her place each one.\" Kreston's Afternoon: \"Sit him at the red end with three red things and a box to load them into.\" Quiet Play 4:15: \"The Color Line, Still Out.\" Safety block: \"A glass mirror and a glass tumbler at floor level... is the real hazard today. Work at the table\" and nothing else. A bottle cap, a bead and a coin sized object are the hall-floor line's whole point, and they sit there until 5:00 with a 17-month-old who mouths everything placed in the middle of them.",
+   "fix": "Add to the Safety block, after the mirror sentence: \"The color line puts small hard objects at floor level for the rest of the day, so go along each band before Kreston sits down and pull out anything that fits inside a toilet roll: bottle caps, beads, coins, small blocks and marker lids. He works the red end within arm's reach of you, and the line comes up before he is left in the hall.\""
+  },
+  {
+   "severity": "major",
+   "day": 309,
+   "file": "months/11-nov-w45.md",
+   "problem": "The Parenting Insight and the week opener both describe an activity the Main Event does not run. Opener: \"The five letters of her name. A, Z, L, Y, N on a gate sign, on five ear tags, drawn in salt and called out at the gate.\" Insight: \"the sign over the gate earns its hour. She has a word she cares about, she watched you build it out of parts, and saying those letters in order hands her five keys.\" The Second Main Event step 2 puts a different word entirely on the gate: \"Write the name across the shoebox lid in marker, big, saying each letter as you make it\" \u2014 and step 1 is \"Ask her what the farm is called and write it down word for word, however long it runs.\" The farm's invented name is not her five letters. The tags (Day 313) and the salt tray (Day 310) deliver on the bullet; the gate does not.",
+   "fix": "Change Day 309 step 2 to: \"Write the name across the shoebox lid in marker, big, then AZLYN underneath it, saying each letter as you make it. She colors the rest.\""
+  },
+  {
+   "severity": "major",
+   "day": 320,
+   "file": "months/11-nov-w46.md",
+   "problem": "The 4:15 row names ice that no longer exists. Prep Tonight: \"Fill and freeze two ice trays.\" Opening Activity step 3 crushes tray one; Main Event step 1: \"Crush the second tray in the dish towel with the rolling pin, and fetch the first lot out of the freezer,\" step 2: \"She fills it two thirds with crushed ice,\" step 3 salts it, step 6: \"come back at lunch. The frost thickens, then melts, and the saucer catches the lot.\" Schedule 4:15-5:00: \"Quiet Play: The Ice in the Sink.\" Both trays are crushed by 9:20, one lot is salted, and the tin has melted by lunch, so at 4:15 there is no ice in the house.",
+   "fix": "Change the Main Event step 6 to end: \"Leave it on the saucer and come back at lunch. The frost thickens, then melts, and the saucer catches the lot. Rinse the salt out of the tin, refill both trays and put them back in the freezer while she watches, because the afternoon wants them.\""
+  },
+  {
+   "severity": "major",
+   "day": 321,
+   "file": "months/11-nov-w46.md",
+   "problem": "A step instructs the exact thing the Safety block forbids. Second Main Event materials: \"1 bowl of dry rice, 1 cup.\" Step 2: \"Add a fifth: she trickles rice from a height into the bowl. Record that one twice, high and low.\" Safety block: \"Make the rice tub one he cannot open, and check the lid after every take. Loose rice is a choking hazard at 17 months.\" Kreston is home through the 1:00-2:30 block (he does not leave until Out Again at 2:30), and rice poured from a height twice will be across the floor.",
+   "fix": "Change Second Main Event step 2 to: \"Add a fifth: she trickles rice from a height into the bowl, over a tray, with Kreston in the high chair or out of the room. Record that one twice, high and low, then tip the rice back into the lidded tub and sweep the floor before he is down.\""
+  },
+  {
+   "severity": "major",
+   "day": 330,
+   "file": "months/11-nov-w48.md",
+   "problem": "The 4:15 row puts the day's sharp tools on the floor and the Safety block covers only the grater in use. Main Event materials: \"1 box grater (adult holds it),\" \"1 garlic press, or the flat of a knife.\" Infant Integration: \"Say the tool names out loud as Azlyn tests them and he takes two into his mouth and one into his vocabulary.\" Schedule 4:15-5:00: \"Quiet Play: The Tool Drawer on the Floor.\" Safety block: \"A box grater takes knuckles off, so you hold it and she pushes the cheese. The soup pan goes on the back burner with the handle turned in.\" Nothing anywhere covers a whole tool drawer at floor level with a 17-month-old who is on record mouthing the tools.",
+   "fix": "Add to the Safety block, before the pan sentence: \"Take the grater, the peeler, the can opener and anything with a point out of the tray before it goes down on the floor, and leave her the spoons, the masher, the whisk and the measuring cups. Kreston mouths every tool he reaches at 17 months, so he works this one beside you or not at all.\""
+  },
+  {
+   "severity": "major",
+   "day": 316,
+   "file": "months/11-nov-w46.md",
+   "problem": "A step destroys the result the Tip and the week opener state. Main Event step 3: \"let her pick three spots: open ground, under something, tight against a wall.\" Step 5: \"If the sky stays dry, hand her the watering can and let her rain on all three from the same height, counting to five over each.\" Tip: \"The bottle under the porch catches nothing. Read it out anyway and let her tell you why.\" Week 46 opener: \"Friday she stands three bottles in three places and finds that where a thing sits changes how much rain lands in it.\" Watering each bottle directly fills the sheltered one to the same line as the others, so the sheltered bottle catches everything and the day's finding is gone.",
+   "fix": "Change Main Event step 5 to: \"If the sky stays dry, hand her the watering can and rain from one spot only, standing in the open and holding the can high, so the water falls where it would fall. Count to five and let her walk round and read all three. The one under cover stays dry, and that is the answer.\""
+  },
+  {
+   "severity": "major",
+   "day": 322,
+   "file": "months/11-nov-w46.md",
+   "problem": "The 4:15 row undoes an explicit instruction from the afternoon and reaches for a chart already put up. Second Main Event step 5: \"Write TOMORROW across the eighth square and leave it empty.\" Step 6: \"Let her draw her guess in the corner, small.\" Step 7: \"Stick it on the fridge at her height with the magnet, and check her guess against the window at breakfast.\" Schedule 4:15-5:00: \"Quiet Play: Drawing on the Blank Squares.\" There is one blank square, it is under an instruction to stay empty until breakfast, and it is on the fridge by 2:30.",
+   "fix": "Change the 4:15 schedule row to: \"4:15-5:00 PM - Quiet Play: The Leftover Symbol Cards\" and change the Quiet Play reference so she draws more weather symbols on the spare cards instead of on the chart."
+  },
+  {
+   "severity": "major",
+   "day": 317,
+   "file": "months/11-nov-w46.md",
+   "problem": "The day hangs loose string at toddler height outdoors and ties ribbon within a strapped-in baby's reach, and the Safety block never mentions either. Main Event materials: \"String, 3 feet.\" Step 4: \"Tape one end of the string to the ring.\" Step 5: \"Tie it to the fence at her eye height, in sight of the kitchen window.\" Step 6: \"Check it again at lunch and before dinner.\" Kreston's Afternoon: \"Tie a ribbon to his stroller handle and let him watch it go while you walk.\" Safety block covers fasteners, offcut bag strips, the whole bag and the scissors, and stops there. A three-foot string on a fence at a three-year-old's eye height is at a 17-month-old's reach, and it stays out all day.",
+   "fix": "Add to the Safety block: \"Tie the windsock string short, so no loop hangs below the ring, and hang it above Kreston's reach rather than at hers if she can still see the tails from the kitchen window. The stroller ribbon goes on the outside of the handle where he cannot get it round anything, and comes off the moment the walk ends.\""
+  },
+  {
+   "severity": "major",
+   "day": 331,
+   "file": "months/11-nov-w48.md",
+   "problem": "The 4:00 row clears the flour the 4:15 row needs. Schedule: \"4:00-4:15 PM - Her Job: Wiping the Flour Off the Table\" then \"4:15-5:00 PM - Quiet Play: Drawing in the Flour.\" The table she draws on was wiped clean fifteen minutes earlier.",
+   "fix": "Change the 4:15 row to: \"**4:15\u20135:00 PM** \u2014 Quiet Play: Drawing in Flour on the Baking Tray\" (the day already carries a baking tray in the Main Event materials list)."
+  },
+  {
+   "severity": "major",
+   "day": 335,
+   "file": "months/11-nov-w48.md",
+   "problem": "Loose screws go in at a three-year-old's height while a 17-month-old with a pincer grip works the next cupboard door, and the Safety block names the screwdriver but never the screws. Main Event step 4: \"Stick or screw the hook on the end of the unit at her height.\" Infant Integration: \"give him the second cloth and a low cupboard door to wipe while Azlyn does her drawer.\" Safety: \"The screwdriver goes back in your pocket between turns on the hook.\"",
+   "fix": "Extend that Safety sentence to: \"The screws and the screwdriver both go back in your pocket between turns on the hook, and the floor gets checked before Kreston is loose in the room, because a screw is pincer-grip size at 17 months. Use the adhesive pads if he is in the kitchen with you.\""
+  }
+ ],
+ "04": [
+  {
+   "severity": "major",
+   "day": 97,
+   "file": "months/04-apr-w14.md",
+   "problem": "Main Event step 6: \"Stand all six in the carton to dry, then on the table beside Friday's painted ones.\" The 4:15 schedule row then names them where they no longer are: \"Quiet Play: The Dyed Eggs in the Carton.\" The Out Again option cuts the six further: \"Church hall playgroup, and take two dyed eggs to hand over.\"",
+   "fix": "Change the row to \"**4:15\u20135:00 PM** \u2014 Quiet Play: The Dyed Eggs on the Table\", and change the outing to \"**Church hall playgroup**, and take two dyed eggs to show and bring home\"."
+  },
+  {
+   "severity": "major",
+   "day": 117,
+   "file": "months/04-apr-w17.md",
+   "problem": "The schedule row reads \"4:15-5:00 PM - Quiet Play: Cups of Ten\", but by then the caps are gone and locked away. Main Event step 6: \"Tip them back in ten at a time, a cup to a handful. Lid on the jar, jar on the high shelf.\" Second Main Event step 7: \"Lay it flat out of Kreston's reach to dry, and count the leftover caps back into the jar before you leave for swimming.\" Safety: \"Kreston cruises the furniture and has a working pincer grip, so he stays in the high chair or out of the room the whole time any of it is loose... the jar and the tin go on a high shelf the moment you finish.\" Most of the caps are also glued flat onto the cardboard picture. The 4:15 row brings a hundred choking-sized caps back to the floor after the page has twice put them away.",
+   "fix": "Change the schedule row to: \"**4:15-5:00 PM** \u2014 Quiet Play: The Ten Empty Cups, Stacked and Knocked Down\"."
+  },
+  {
+   "severity": "major",
+   "day": 110,
+   "file": "months/04-apr-w16.md",
+   "problem": "Kreston's Afternoon: \"Back home, bag the torn paper before he goes down, because strips and small plastic animals are both his size.\" They get home at 3:30 and he is on the floor for Snack & Free Play. But Second Main Event step 7 says \"Leave it standing. She goes back into it on her own at 4:15\", the row at 4:15 is \"Quiet Play: Into the Long Grass Alone\", the 5:00-5:45 row is \"Wind-Down: The Last Half Hour in the Grass\", and the materials list calls for \"1 trash bag for the end of the day\". The paper grass is bagged at 3:30 and used at 4:15 and 5:00.",
+   "fix": "Replace the last sentence of Kreston's Afternoon with: \"Back home he stays on your hip or in the high chair while the grass is down, and the torn paper goes in the bag after her wind-down.\""
+  },
+  {
+   "severity": "major",
+   "day": 109,
+   "file": "months/04-apr-w16.md",
+   "problem": "The schedule row reads \"4:15-5:00 PM - Quiet Play: The Leftover Stones\", but the stones have been counted away and carried out. Safety: \"Small stones are a choking size. Count them back into the bucket and sweep before he goes down.\" Kreston's Afternoon: \"The tray goes up on the table the moment you finish and the bucket goes outside.\" The 4:15 row brings choking-sized stones back indoors to floor level with a cruising 10-month-old.",
+   "fix": "Change the schedule row to: \"**4:15-5:00 PM** \u2014 Quiet Play: The Sticks Sorted by Length\"."
+  },
+  {
+   "severity": "major",
+   "day": 108,
+   "file": "months/04-apr-w16.md",
+   "problem": "Safety: \"The scarf and the eight cards come up off the floor whenever he is loose down there, because a scarf across the route of a cruising baby puts him over, and card corners come back chewed.\" Kreston's Afternoon: \"Put him on the cleared floor with you both... Crawl the bear crossing beside him and let him chase Azlyn down the room. Lift the cards off the floor between turns.\" The crossing route is the one Second Main Event step 5 defines: \"The scarf goes down as a river for the last stretch. Snakes go through it, flamingos step over, crabs go round.\" The infant block puts him loose on a floor the Safety block says must have the scarf off it, and names only the cards.",
+   "fix": "Change the last sentence of Kreston's Afternoon to: \"Lift the cards and the scarf off the floor between turns.\""
+  },
+  {
+   "severity": "major",
+   "day": 116,
+   "file": "months/04-apr-w17.md",
+   "problem": "Second Main Event step 7: \"Repeat until the pulp runs out, five or six sheets. Once they are dry this evening, she marks the corner of every one with the marker.\" The Tip directly under it: \"Leave them alone until tomorrow. A sheet peeled off damp tears down the middle.\" Sheets pressed at 1:00-2:30 are either dry and markable this evening or left alone until tomorrow, and the 5:00-5:45 row \"Wind-Down: Bath and the Paper She Made\" leans on the first reading.",
+   "fix": "Change step 7 to: \"Repeat until the pulp runs out, five or six sheets. Leave them on their towels overnight, and she marks the corner of every one with the marker after breakfast tomorrow.\""
+  },
+  {
+   "severity": "major",
+   "day": 124,
+   "file": "months/04-apr-w18.md",
+   "problem": "The Safety block forbids what steps 5 and 6 instruct. Safety: \"Snails, small stones and short sticks are all mouth-sized for Kreston at 10 months, so the tray stays up on the table.\" Second Main Event step 5: \"Outside, chalk a start and a finish line on a paving slab, a hand's width apart, and wipe the slab damp.\" Step 6: \"Lift two snails to the start with the brush, put the leaf past the finish, hands off.\" The whole race runs at ground level with a 10 month old who cruises and mouths everything, and the page says the snails stay on the table.",
+   "fix": "Change the Safety sentence to: \"Snails, small stones and short sticks are all mouth-sized for Kreston at 10 months, so the tray stays up on the table indoors, and he goes in the stroller with the brake on for the slab race outside.\""
+  }
+ ],
+ "09": [
+  {
+   "severity": "major",
+   "day": 249,
+   "file": "months/09-sep-w36.md",
+   "problem": "The 8:00 block sends her for \"everything that has been out there since June. Buckets, spades, water pistols, the chalk tub, one shoe\" and says \"this is the last day it lives outside\", and the 9:15 block ends \"load the crate\" and \"Write SUMMER and the year on the lid in marker.\" The schedule row at 4:15 is \"Quiet Play: The Last of the Chalk\". The chalk was washed, crated and labeled six hours earlier, so the afternoon reopens the crate the morning ceremony closed, which is the one thing the Parenting Insight says the day is for.",
+   "fix": "Change the 4:15 row to \"4:15\u20135:00 PM \u2014 Quiet Play: Crayons on the Kitchen Floor\"."
+  },
+  {
+   "severity": "major",
+   "day": 255,
+   "file": "months/09-sep-w37.md",
+   "problem": "Prep Tonight says \"Collect ten small objects into a bag\". The Opening Activity materials say \"10 objects from round the house, every one of them too big to fit through a toilet-roll tube\", and the Safety block says \"Nothing that fits through a toilet-roll tube goes in the ten.\" Prep Tonight is the block the reader acts on the night before, alone, and it tells them to gather exactly the objects the rest of the page forbids. The two the day deliberately leaves \"low enough for Kreston to reach on his own\" come out of that same bag.",
+   "fix": "Change Prep Tonight to: \"Collect ten objects into a bag, every one of them too big to fit through a toilet-roll tube, and stand it by the door with the bright tape, the chalk, the timer and two buckets.\""
+  },
+  {
+   "severity": "major",
+   "day": 248,
+   "file": "months/09-sep-w36.md",
+   "problem": "The Second Main Event opens \"The lantern has to be dry and lit by seven, so it gets built at one and left in a warm window while you are out\", and step 5 says \"Stand it on a warm windowsill and leave it there while you are out.\" The schedule row at 4:15 is \"Quiet Play: The Lantern Beside Her on the Floor\". A pasted tissue jar built at one o'clock is still wet at quarter past four, and the row takes it off the drying sill and puts a glass jar on the floor with a 15-month-old who runs. Step 6 also has nothing in it until after dinner.",
+   "fix": "Change the 4:15 row to \"4:15\u20135:00 PM \u2014 Quiet Play: Drawing What She Saw in the Dark\"."
+  },
+  {
+   "severity": "major",
+   "day": 257,
+   "file": "months/09-sep-w37.md",
+   "problem": "The day puts both children in the pool and the Safety block never covers it. Out Again: '**Swimming**, and the water is warmer than the air by now'. Kreston's Afternoon: 'He swims too. At 15 months he walks down the shallow steps holding the rail with you a step below him... Hold him under the arms and let him kick across to the side.' The Safety block covers only the yard buckets: 'Kreston gets a hand's depth in his own bucket and no more, and he stays within arm's reach of you for every minute any of the three holds water.' Nothing on the page names the pool, and nothing names Azlyn in water at all. Day 264, the other swimming day this slice, does carry the line: 'At the pool he is within arm's reach the whole time.'",
+   "fix": "Add to the Day 257 Safety block, after the bucket sentences: 'At the pool both of them stay within arm's reach of you, from the changing room door until you are back through it.'"
+  },
+  {
+   "severity": "major",
+   "day": 258,
+   "file": "months/09-sep-w37.md",
+   "problem": "The Tip cancels two numbered steps. Tip: 'Ten stops in an hour is one every six minutes, and she will want to stay at the third. Let her, and drop stops seven and eight without announcing it.' Step 3: 'Count what is left out loud after every stop. Nine, eight, seven. Let her say the number before you do.' Step 6: 'At the last stop, hand her the empty bag and let her turn it upside down and shake it.' Drop two stops and two items are still in the bag at the last stop, the count never lands on nothing, and the whole point of the day (Insight: 'Counting down out loud as the bag empties') fails. Stop eight is also the low wall drink stop.",
+   "fix": "Replace the second sentence of the Tip with: 'Let her, and run stops seven and eight together at the mailbox, so the bag still empties by the last stop.'"
+  },
+  {
+   "severity": "major",
+   "day": 259,
+   "file": "months/09-sep-w37.md",
+   "problem": "Prep Tonight does the one thing the Safety block and Step 2 both treat as not yet done. Prep Tonight: 'stand the potting soil outside to air.' Second Main Event step 2: 'Open the bag of potting soil at arm's length, turned away from both of them, and let the first cloud of dust blow off.' Safety: 'Bagged potting soil throws up dust and bacteria when it is first opened, so open it at arm's length, outside, and away from both their faces... the open bag stays up on the step.' Airing the bag means opening it the night before and leaving it open and unattended, which pre-empts the precaution and leaves an open bag on the ground for a 15-month-old the book says 'will eat a fistful of soil given three seconds alone with it.'",
+   "fix": "Change Prep Tonight to: 'Carry the broom handle, the big towel and the old sheet out to the back door, empty the three pots, and stand the unopened bag of potting soil outside by the step.'"
+  },
+  {
+   "severity": "major",
+   "day": 256,
+   "file": "months/09-sep-w37.md",
+   "problem": "The day spills dry rice on the floor on purpose and no line on the page covers it. Opening Activity step 1: 'Hold a sock open while she scoops the rice in a cup at a time. Fill each one to about a fist. Whatever lands on the floor stays there.' Kreston is 15 months and mouths everything, and the Safety block covers throwing, sun and matches but never the spilled grain. The book's own convention elsewhere is to add the sweep line: Day 260 Safety, 'the offcuts land in one box and the floor gets swept before he is down on it'; Day 265 Safety, 'Dyed pasta is the size Kreston chokes on at 15 months. It stays on the table.'",
+   "fix": "Add to the Day 256 Safety block: 'Loose rice and lentils are the size Kreston chokes on at 15 months, so the socks get filled with him in the highchair and the floor gets swept before he is down on it.'"
+  },
+  {
+   "severity": "major",
+   "day": 0,
+   "file": "months/09-sep-zz-backup.md",
+   "problem": "Bad Weather Day 2, Instead of Getting Outside: 'keep a tally with two piles of buttons on the sill,' for forty-five minutes at the window. The same page holds Kreston up at that window to point and name, and its Safety block covers pot handles, the gate, the sharp knife and raw vegetable pieces, saying nothing about the buttons. The book's own January page states a button is the right size to block an airway, and he is 15 months and fast here.",
+   "fix": "Change the line to 'keep a tally with two piles of clothespins on the sill' and add to the Safety block: 'Nothing smaller than his fist goes on the sill while he is up at the glass with you.'"
+  },
+  {
+   "severity": "major",
+   "day": 0,
+   "file": "months/09-sep-zz-backup.md",
+   "problem": "September Extra Ideas carries no Safety block, only the shared line about water, small parts and taped doorways. Two of its entries run on buckeyes: 'Six Bottles Down the Hallway, bowling with the fattest buckeye in the bowl' and 'Buckeye Faces, a marker, a bowl of buckeyes, and a family of them along the sill.' A buckeye is a choking size for a running 15-month-old and it is poisonous chewed, which the 'small parts up off the floor' line does not reach. Of the twelve extras pages this is the one that needs a Safety block of its own.",
+   "fix": "Add above the activity list: '\u26a0\ufe0f Safety: Buckeyes are poisonous chewed and they are exactly the size Kreston chokes on, so they stay on the table or on the sill, get counted out and counted back into the bowl, and the bowl goes up high the moment she is finished. Wash both sets of hands after. Same rule for the coins in the change jar and the dry seed heads.'"
+  }
+ ],
+ "12": [
+  {
+   "severity": "major",
+   "day": 342,
+   "file": "months/12-dec-w49.md",
+   "problem": "Prep Tonight empties the room the night before, then the 8:00 block makes emptying it the activity. Prep Tonight: \"Clear the floor in front of the sofa, leave a blanket and two cushions on it and everything else out of the room, and put the library bag by the door.\" Opening Activity step 1: \"Anything that is not the blanket, the cushions or the three villagers goes out of the room. She carries most of it, and the carrying is half the activity.\" Nothing is left for her to carry.",
+   "fix": "Change Prep Tonight to: \"Stand a blanket and two cushions by the sofa and put the library bag by the door. Leave the room exactly as it is, because clearing it is her first job in the morning.\""
+  },
+  {
+   "severity": "major",
+   "day": 343,
+   "file": "months/12-dec-w49.md",
+   "problem": "The 8:00 block puts a plastic bag and a pile of candy wrappers on the floor with a walking 18-month-old in the room, and no line anywhere covers it. Opening Activity: \"Spread the lot on the floor by the window and let her hold each piece up to the light\" (materials: wax paper, candy wrappers, 1 clear plastic folder, 1 freezer bag). Infant Integration keeps Kreston in the room: \"give him one of his own and let him point it at the ceiling. Keep him at the table end while the cutting happens.\" The Safety block covers only tea-light batteries, the craft knife and the scissors.",
+   "fix": "Add to the Safety block: \"The freezer bag and the plastic folder come up off the floor the moment the sorting ends, because a bag at floor level suffocates an 18-month-old, and the candy wrappers get counted out and counted back into the box.\""
+  },
+  {
+   "severity": "major",
+   "day": 340,
+   "file": "months/12-dec-w49.md",
+   "problem": "The walk brings choke-sized foraging home and parks it at an 18-month-old's height, with no line covering it. Get Outside: \"Walk the block hunting for what is still standing in December: rose hips, pine cones, the dry heads of goldenrod and Queen Anne's lace, acorn caps... Bring back one thing for each page she filled and lay them on the shelf beside the book.\" Prep Tonight: \"clear a low shelf for the book to live on.\" The Safety block covers the bedsheet and the twenty bottle caps and stops there. Day 333's own Safety block already treats fir cones and seed cases as choke-sized for Kreston.",
+   "fix": "Change the last Get Outside sentence to: \"Bring back one thing for each page she filled and stand them in a bowl on a high shelf above the book, because rose hips and acorn caps are choke-sized for an 18-month-old and the book shelf is one he can reach.\""
+  },
+  {
+   "severity": "major",
+   "day": 350,
+   "file": "months/12-dec-w50.md",
+   "problem": "The page gives four different answers about when flour leaves the floor. Infant Integration: \"Put his hand flat in the flour and lift it straight up... He does it with two hands as long as the floor stays floured.\" Safety: \"sweep the flour up before Kreston is put down, because a floured floor is slick under new walkers.\" Second Main Event opener: \"The flour trail wipes off the floor at four\" (the 4:00 row is Her Job: Wiping the Table). Main Event step 6: \"Let her lay a fresh trail across the hall for Joseph to find tonight,\" which puts a second floured floor down for the whole evening with a walking 18-month-old on it. A reader following the Safety block cannot run the infant block or step 6.",
+   "fix": "Replace the Safety sentence with: \"Keep the flour to the one stretch of kitchen floor you can see across, stay beside Kreston every second he is printing on it, and sweep it up the moment the story is told, because a floured floor is slick under new walkers.\" Then change step 6 to: \"Let her lay a fresh trail across the hall after Kreston is in bed, for Joseph to find tonight,\" and change the Second Main Event opener to \"The flour trail comes off the floor before lunch.\""
+  },
+  {
+   "severity": "major",
+   "day": 350,
+   "file": "months/12-dec-w50.md",
+   "problem": "The scene the day builds puts choking-size objects on the kitchen floor and then puts Kreston on that floor, with no line anywhere covering them. Prep Tonight: \"a scatter of seed, the cup on its side, a tuft of cotton by the door.\" Materials: \"A handful of sunflower seeds\" and \"1 cotton ball pulled into a tuft of fur.\" Infant Integration: \"he follows Azlyn along the trail doing his version of whatever she does.\" The Safety block covers only salt dough, the oven and slippery flour. Seeds and a pulled cotton tuft are exactly what an 18-month-old picks up with a pincer grip and mouths.",
+   "fix": "Add to the Safety block: \"The sunflower seeds and the cotton tuft go off the floor and into your pocket the moment their sticky notes are read, because both are choking size at 18 months and he is down there on the trail with her.\""
+  },
+  {
+   "severity": "major",
+   "day": 359,
+   "file": "months/12-dec-w52.md",
+   "problem": "The afternoon moves the houseplants to floor level and hands one to Kreston, and nothing on the page covers leaves or soil. Step 4: \"Two big squares of masking tape on the floor, and everything she can carry goes in the right one, houseplants included.\" Kreston's Afternoon: \"Let him carry one houseplant to its square with both arms.\" The Safety block is packaging only: \"Button batteries out of new toys go up and out of the house, wire ties and plastic film go straight into the trash bag, ribbon does not stay on the floor.\" Common houseplants (pothos, philodendron, peace lily, dieffenbachia) burn a mouth, and the soil goes in first.",
+   "fix": "Add to the Safety block: \"Houseplant leaves and potting soil go straight in his mouth at 18 months, so you carry the pots and he walks beside you, keep the taped squares where he is not free to graze, and every plant goes back up on its shelf before the photograph.\""
+  },
+  {
+   "severity": "major",
+   "day": 358,
+   "file": "months/12-dec-w52.md",
+   "problem": "The page both clears the foil coins and leaves them out. Step 7: \"Everything into the basket, counted against her map. Two coins go back out at her height so she gets a turn at finding,\" and the schedule keeps them out through \"4:15-5:00 Quiet Play: The Coins She Kept Back.\" Against that, Safety: \"The foil-wrapped coins are a choking hazard at 18 months, so count them out and count them back into the basket,\" and Kreston's Afternoon: \"The foil coins are not for him, so run his round first and sweep before he is down.\" Azlyn's height at four is climbing height for a boy who has climbed since sixteen months, and the quiet-play hour is his floor time.",
+   "fix": "Change step 7 to: \"Everything into the basket, counted against her map. Two coins go back out for her own turn while Kreston is in the high chair, and both are counted back into the basket before he is down again.\""
+  },
+  {
+   "severity": "major",
+   "day": 354,
+   "file": "months/12-dec-w51.md",
+   "problem": "Get Outside and the Safety block give opposite instructions for the same four objects. Get Outside: \"She is four, so she collects four things and carries them home in her hands... acorn caps, a sweetgum ball, a pine cone, a bare twig.\" Infant Integration: \"Acorn caps and the sweetgum ball stay with Azlyn.\" Safety: \"Acorn caps and the sweetgum ball are all choking size at 18 months, so they travel in your pocket.\" A reader following the walk block hands a climbing, mouthing 18-month-old a fistful of acorn caps at his eye level.",
+   "fix": "Change the Get Outside sentence to: \"She is four, so she picks four things and hands each one straight up to your pocket, then counts all four back out on the doorstep,\" and change the infant line to \"Acorn caps and the sweetgum ball ride in your pocket.\""
+  },
+  {
+   "severity": "major",
+   "day": 365,
+   "file": "months/12-dec-w53-finale.md",
+   "problem": "Prep Tonight: \"Dig out the twelve handprint sheets and stand them on the table with the scissors.\" Safety on the same page: \"The scissors open three sealed things today, so they go back up out of reach between each one and never onto the table.\" The page leaves the scissors on the table overnight, and 8:00 opens with both children at that table (Kreston 18 months, climbing since sixteen).",
+   "fix": "Prep Tonight becomes: \"Dig out the twelve handprint sheets and stand them on the table. The scissors stay up out of reach; they come down in your hand three times tomorrow and go straight back.\""
+  },
+  {
+   "severity": "major",
+   "day": 363,
+   "file": "months/12-dec-w52.md",
+   "problem": "Get Outside: \"Walk the block counting lit windows, then count again at 5:00 to see how different the same houses look.\" The schedule gives 5:00-5:45 PM to \"\ud83d\udec1 Wind-Down: Mom Reads, Nobody Moves\", and 4:15-5:00 to Quiet Play. The second count has no hour to happen in, and it walks the family out of the wind-down on the one day built around the adult sitting down.",
+   "fix": "Get Outside sentence becomes: \"Walk the block counting lit windows, then count the same houses again from the front window at 5:45, with the light gone and dinner nearly on.\""
+  }
+ ]
+}

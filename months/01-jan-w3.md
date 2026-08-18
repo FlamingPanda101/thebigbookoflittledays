@@ -1015,8 +1015,9 @@ minutes a stop, so pick three doors and stop at three. Keep two back for
 the walk home.
 
 > 👶 **Infant Integration:** Kreston is 7 months and the kitchen at 9:15 is
-> loud, floury and full of things moving out of his reach. Give him the empty
-> flour bag and a wooden spoon at the far end of the room. On the round,
+> hot, floury and no place for him. Set him up in the doorway with a wooden
+> spoon and the saucepan, out of the kitchen and in your sight, and keep the
+> flour bag off the floor because it goes straight in his mouth. On the round,
 > wariness of an unfamiliar face is new this month, so keep him facing you
 > when somebody leans in.
 

@@ -5,7 +5,7 @@
 **Theme:** Grand Finale
 
 ### 🌙 Prep Tonight
-> Dig out the twelve handprint sheets and stand them on the table with the scissors. Leave the box, the bottle and the April envelope on the shelf. She gets them down herself in the morning.
+> Dig out the twelve handprint sheets and stand them on the table. The scissors stay up out of reach. They come down in your hand three times tomorrow and go straight back. Leave the box, the bottle and the April envelope on the shelf. She gets them down herself in the morning.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Getting Them Down Off the Shelf

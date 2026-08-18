@@ -1058,7 +1058,7 @@ Six days of mail comes out on the floor at once.
 2. One pile per person. She decides where each card, letter and drawing belongs, and she will remember more of it than you expect.
 3. Anything with no owner goes in a spare pile. Ask her at the end who those are for.
 4. Fold each pile into an envelope, or a sheet of paper taped shut. She writes a name on every one, with the letters large beside her to copy.
-5. The necklace from Monday and the spoon go in the basket with the envelopes.
+5. The spoon goes in the basket with the envelopes. The necklace stays on the neck she measured it against on Monday.
 6. Coats on and walk the round: next door, the house with the dog, the friend two streets over, whoever is on her list. She knocks and hands it over herself.
 7. Anything undelivered comes home in the basket for tomorrow. No adult mails anything on her behalf tonight.
 

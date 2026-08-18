@@ -239,7 +239,7 @@ wearing the answer.
 2. Two rules and no more: nothing that needs ironing, and everything goes back in the basket at the end.
 3. She feels her way through the pile and makes two heaps, hot clothes and cool clothes. Jeans, fleece and anything tight land in one, cotton and loose things in the other. Take her sorting as it comes, and put your hand on the fabrics she asks about.
 4. She builds an outfit for every person in the house out of the cool heap, yours included, and everybody puts theirs on. The sheet is a robe, the scarf is a headwrap, the dish towel goes over the back of a neck.
-5. Stand the mirror against the wall and let everybody look before the camera comes out. One photograph each in the doorway, and let her direct where people stand.
+5. Hang the mirror, or stand it flat against the wall behind the sofa and put a hand on it to check the base cannot slide out. A leaning mirror comes down on a 13-month-old who pulls on it, so use the bathroom mirror instead if this one will not sit solid. Everybody looks before the camera comes out, one photograph each in the doorway, and she directs where people stand.
 6. Last job is tomorrow's. She picks what she will wear in the heat in the morning and lays it flat on the end of her bed with the hat on top of it.
 7. Everything else back in the basket, carried between the two of you, and the basket stays in that room with the mirror for four o'clock.
 
@@ -268,15 +268,17 @@ wearing the answer.
 > ⚠️ **Safety:** Heat is the whole hazard today. Water into both of them every
 > half hour whether either asks or not, and watch for the quiet flushed child
 > with a hot dry neck, which is the one to carry to the coolest room and cool
-> down before anything else happens. Neither child goes into a parked car today,
-> for any length of time, for any reason, including a two-minute errand: the
-> inside of a car in July reaches lethal heat within minutes and the windows
-> make no difference. Upstairs rooms hold the day's heat until late, so keep
-> both of them downstairs until the sun is off the house. A bottle straight out
-> of the freezer sticks to skin, so it stays in the dish towel for both of them.
-> A floor fan tips over and a 13-month-old puts fingers through a grille, so
-> stand it high and out of his reach or leave it off while he is loose in the
-> room.
+> down before anything else happens. Neither child goes into a parked car
+> today, for any length of time, for any reason, including a two-minute
+> errand: the inside of a car in July reaches lethal heat within minutes and
+> the windows make no difference. Upstairs rooms hold the day's heat until
+> late, so keep both of them downstairs until the sun is off the house. A
+> bottle straight out of the freezer sticks to skin, so it stays in the dish
+> towel for both of them. A floor fan tips over and a 13-month-old puts
+> fingers through a grille, so stand it high and out of his reach or leave it
+> off while he is loose in the room. The mirror stays out for the afternoon,
+> so it hangs or it sits flat and solid against the wall, because he pulls
+> himself up on whatever is beside him.
 
 <div style="page-break-after: always;"></div>
 

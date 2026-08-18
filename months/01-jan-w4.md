@@ -356,7 +356,7 @@ comes back.
 - Indoor playground if the aquarium line is a Saturday one
 - The pet store, for fish at a tenth of the price
 - A walk to water, a river or a pond, and count what moves in it
-- Home, blankets, and the jigsaw on the floor
+- Home, blankets, and the jigsaw on its tray at table height
 
 > 👶 **Kreston's Afternoon:** The aquarium is built for a 7-month-old. Dark
 > walls, lit tanks, slow-moving things at his eye height in the carrier. His

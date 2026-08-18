@@ -162,7 +162,7 @@ she makes a thing that runs until March.
 - **2:30–3:30 PM** — 🛁 The Long Bath, Early (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Round of the Washcloths
-- **4:15–5:00 PM** — Quiet Play: The Four Saucers Again
+- **4:15–5:00 PM** — Quiet Play: Drawing the Four Saucers Again
 - **5:00–5:45 PM** — 🛁 Wind-Down: Two Books Under One Blanket
 - **6:00 PM** — **Dinner**
 
@@ -191,7 +191,7 @@ she makes a thing that runs until March.
 2. Label the four with tape and marker: WINDOW, LEMON, GLASS, FRIDGE. She sticks the labels on and draws the four cut faces while all of them still look the same.
 3. Squeeze lemon over the second, or spoon the bottled juice or the vinegar over it, then stand the glass upside down over the third, wrap the fourth and put it in the fridge. The first sits bare on the windowsill.
 4. Go back to them after the snack, then after lunch, then at four. Each visit she says which one has changed the most, and you write the time beside her answer.
-5. Line all four up beside her morning drawing at four o'clock. The bare one has gone brown, the sour one has held its color, and she can see it without any help from you.
+5. Line all four up beside her morning drawing at four o'clock, on the counter with Kreston in his high chair. The bare one has gone brown, the sour one has held its color, and she can see it without any help from you.
 6. Leave them out on a high shelf for the week. The change from here on is slow and it is the interesting part, so put a look at them into the day for the next few mornings.
 
 > 💡 **Tip:** The browning starts inside twenty minutes. Say nothing about the sour saucer, and let her be the one who works out that one of the four is holding out.
