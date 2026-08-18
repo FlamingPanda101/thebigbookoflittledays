@@ -1,0 +1,50 @@
+  Day 4 (01-jan-w1.md): mouth-size parts on the page ('Dried beans'), nothing in its own Safety block
+  Day 9 (01-jan-w2.md): standing water on the page ('bowl of cold water'), nothing in its own Safety block
+  Day 26 (01-jan-w4.md): standing water on the page ('dishpan'), nothing in its own Safety block
+  Day 26 (01-jan-w4.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 47 (02-feb-w7.md): standing water on the page ('Bowl of water'), nothing in its own Safety block
+  Day 50 (02-feb-w8.md): ice on the page ('ice cube'), nothing in its own Safety block
+  Day 58 (02-feb-w9.md): mouth-size parts on the page ('bottle cap'), nothing in its own Safety block
+  Day 60 (02-feb-w9.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 69 (03-mar-w10.md): mouth-size parts on the page ('coins'), nothing in its own Safety block
+  Day 71 (03-mar-w11.md): standing water on the page ('dishpan'), nothing in its own Safety block
+  Day 89 (03-mar-w13.md): mouth-size parts on the page ('coin'), nothing in its own Safety block
+  Day 94 (04-apr-w14.md): standing water on the page ('bowl of water'), nothing in its own Safety block
+  Day 97 (04-apr-w14.md): open flame on the page ('candle'), nothing in its own Safety block
+  Day 100 (04-apr-w15.md): mouth-size parts on the page ('dried beans'), nothing in its own Safety block
+  Day 107 (04-apr-w16.md): mouth-size parts on the page ('coin'), nothing in its own Safety block
+  Day 129 (05-may-w19.md): standing water on the page ('bowl of warm water'), nothing in its own Safety block
+  Day 130 (05-may-w19.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 139 (05-may-w20.md): ice on the page ('Ice cubes'), nothing in its own Safety block
+  Day 141 (05-may-w21.md): open flame on the page ('Matches'), nothing in its own Safety block
+  Day 149 (05-may-w22.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 155 (06-jun-w23.md): open flame on the page ('Matches'), nothing in its own Safety block
+  Day 157 (06-jun-w23.md): standing water on the page ('bowl of warm water'), nothing in its own Safety block
+  Day 157 (06-jun-w23.md): ice on the page ('ice cubes'), nothing in its own Safety block
+  Day 163 (06-jun-w24.md): mouth-size parts on the page ('bottle cap'), nothing in its own Safety block
+  Day 175 (06-jun-w25.md): mouth-size parts on the page ('coin'), nothing in its own Safety block
+  Day 184 (07-jul-w27.md): mouth-size parts on the page ('coin'), nothing in its own Safety block
+  Day 189 (07-jul-w27.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 191 (07-jul-w28.md): ice on the page ('ice cube'), nothing in its own Safety block
+  Day 197 (07-jul-w29.md): standing water on the page ('bowl of water'), nothing in its own Safety block
+  Day 198 (07-jul-w29.md): mouth-size parts on the page ('coins'), nothing in its own Safety block
+  Day 209 (07-jul-w30.md): standing water on the page ('bowl of warm water'), nothing in its own Safety block
+  Day 210 (07-jul-w30.md): mouth-size parts on the page ('coin'), nothing in its own Safety block
+  Day 227 (08-aug-w33.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 228 (08-aug-w33.md): mouth-size parts on the page ('bottle caps'), nothing in its own Safety block
+  Day 232 (08-aug-w34.md): mouth-size parts on the page ('bottle cap'), nothing in its own Safety block
+  Day 235 (08-aug-w34.md): ice on the page ('ice cubes'), nothing in its own Safety block
+  Day 250 (09-sep-w36.md): ice on the page ('Ice cubes'), nothing in its own Safety block
+  Day 267 (09-sep-w39.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 282 (10-oct-w41.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 288 (10-oct-w42.md): mouth-size parts on the page ('bottle caps'), nothing in its own Safety block
+  Day 325 (11-nov-w47.md): mouth-size parts on the page ('dried beans'), nothing in its own Safety block
+  Day 326 (11-nov-w47.md): open flame on the page ('candles'), nothing in its own Safety block
+  Day 327 (11-nov-w47.md): standing water on the page ('paddling pool'), nothing in its own Safety block
+  Day 327 (11-nov-w47.md): open flame on the page ('matches'), nothing in its own Safety block
+  Day 334 (11-nov-w48.md): standing water on the page ('dishpan'), nothing in its own Safety block
+  Day 336 (11-nov-w48.md): standing water on the page ('bowl of water'), nothing in its own Safety block
+  Day 348 (12-dec-w50.md): ice on the page ('Ice cubes'), nothing in its own Safety block
+  Day 351 (12-dec-w51.md): ice on the page ('ice cubes'), nothing in its own Safety block
+  Day 355 (12-dec-w51.md): standing water on the page ('bowl of warm water'), nothing in its own Safety block
+  Day 360 (12-dec-w52.md): mouth-size parts on the page ('bottle cap'), nothing in its own Safety block
