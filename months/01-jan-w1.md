@@ -243,7 +243,7 @@ cool through the heat.
 > Linguists call it overregularization, and it marks sophisticated thinking.
 > You do not need to correct her. Feed the right form back in your next
 > sentence (*you went outside? what did you see?*) and she picks up the
-> exception on her own timeline.
+> exception on her own timeline, months after you first notice the rule.
 
 > ⚠️ **Safety:** Keep tape rolls, craft sticks and walk treasure out of
 > Kreston's reach the moment you stop watching him. Build the tower away from
@@ -914,10 +914,10 @@ opposite force and a new idea for her.
 > finish. String at toddler height is a strangulation risk, and a serious one.
 > Loose craft sticks stay off the floor while Kreston is down. They splinter,
 > and they fit down his throat. The cargo ends up on the floor every run, and a
-> dried bean and a spoon are both choking hazards, so sweep the landing end
-> before you put him down. He gets a taped structure too big for his mouth
-> and nothing looser than that, and it comes back to you the moment you stop
-> watching. The scissors stay with you.
+> dried bean and a spoon are both choking hazards, so sweep the whole floor
+> under the line before you put him down. He gets a taped structure too big
+> for his mouth and nothing looser than that, and it comes back to you the
+> moment you stop watching. The scissors stay with you.
 
 <div style="page-break-after: always;"></div>
 
@@ -972,7 +972,7 @@ opposite force and a new idea for her.
 3. Ask her where the door goes. Clip that edge so it can be lifted and dropped.
 4. Send her inside with the cushions to build the floor. Leave her to it for a full ten minutes.
 5. Once the roof sags, remind her what fixed the sagging bridge on Sunday and let her work out the rest.
-6. Weight every outside edge with books and stand the salt dough bricks on a shelf or table outside the fort, above his reach, so she walks past Tuesday's work on her way in.
+6. Weight every outside edge with books and stand the salt dough bricks on a shelf or table outside the fort, above Kreston's reach, so she walks past Tuesday's work on her way in.
 
 > 💡 **Tip:** Build it to survive her crawling through it. A fort that collapses every four minutes becomes a chore for both of you.
 

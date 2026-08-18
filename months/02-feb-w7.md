@@ -831,7 +831,9 @@ the one carrying it in.
 > long strips. Blunt table knives only, and they go in the drawer before he is
 > on the floor. The picnic runs at his height, so the crackers and the sticks
 > stay on the tray in front of you and not loose on the blanket, and he skips
-> the jam dip.
+> the jam dip. Swimming this afternoon. Both children stay within arm's reach
+> in the water at all times, and no float or seat is a substitute for your
+> hands.
 
 <div style="page-break-after: always;"></div>
 

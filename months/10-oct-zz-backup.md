@@ -268,9 +268,11 @@ afternoon.
 > ⚠️ **Safety:** The knife is adult work and it goes back out of reach the
 > moment the apple is quartered. Once a saucer goes furry it leaves the house
 > whole, apple and all, with nobody opening it up for a sniff, because mold
-> spores hurt small lungs. Keep all four saucers on a high shelf: Kreston will
-> eat what is on them. A wet kitchen floor is slippery, so dry behind you as
-> you work and keep both children out of shoes and socks on it.
+> spores hurt small lungs. The saucers stay up out of Kreston's reach, on the
+> windowsill or a high shelf, and they come down to the counter only while he
+> is strapped in his high chair, because he will eat what is on them. A wet
+> kitchen floor is slippery, so dry behind you as you work and keep both
+> children out of shoes and socks on it.
 
 <div style="page-break-after: always;"></div>
 

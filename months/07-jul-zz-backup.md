@@ -241,7 +241,7 @@ wearing the answer.
 4. She builds an outfit for every person in the house out of the cool heap, yours included, and everybody puts theirs on. The sheet is a robe, the scarf is a headwrap, the dish towel goes over the back of a neck.
 5. Hang the mirror, or stand it flat against the wall behind the sofa and put a hand on it to check the base cannot slide out. A leaning mirror comes down on a 13-month-old who pulls on it, so use the bathroom mirror instead if this one will not sit solid. Everybody looks before the camera comes out, one photograph each in the doorway, and she directs where people stand.
 6. Last job is tomorrow's. She picks what she will wear in the heat in the morning and lays it flat on the end of her bed with the hat on top of it.
-7. Everything else back in the basket, carried between the two of you, and the basket stays in that room with the mirror for four o'clock.
+7. Everything else back in the basket, carried between the two of you, and the basket stays in that room for four o'clock, beside the mirror or across the hall from the bathroom one.
 
 > 💡 **Tip:** Wear what she picks for you. An outfit she chose that gets refused stops the game, and the whole hour runs on her being the one who decides.
 
@@ -276,9 +276,9 @@ wearing the answer.
 > bottle straight out of the freezer sticks to skin, so it stays in the dish
 > towel for both of them. A floor fan tips over and a 13-month-old puts
 > fingers through a grille, so stand it high and out of his reach or leave it
-> off while he is loose in the room. The mirror stays out for the afternoon,
-> so it hangs or it sits flat and solid against the wall, because he pulls
-> himself up on whatever is beside him.
+> off while he is loose in the room. A mirror out for the afternoon hangs or
+> sits flat and solid against the wall, or the afternoon uses the bathroom
+> one, because he pulls himself up on whatever is beside him.
 
 <div style="page-break-after: always;"></div>
 

@@ -811,8 +811,10 @@ makes it for her brother.
 
 > ⚠️ **Safety:** Everything that goes in Kreston's box has to be bigger than
 > his fist. No bottle caps, no coins, no small lids. Cut the discs palm-sized,
-> count them in and out, and the scissors stay with you. The scarf comes out of
-> the box the moment you stop watching.
+> count them in and out, and the scissors stay with you. The scarf comes out
+> of the box the moment you stop watching. Swimming this afternoon. Both
+> children stay within arm's reach in the water at all times, and no float or
+> seat is a substitute for your hands.
 
 <div style="page-break-after: always;"></div>
 

@@ -452,7 +452,22 @@ note("her 4:00 job: %d distinct jobs, forks in %d days" % (len(jobs), fork_days)
 # human auditors. A check that cries wolf gets ignored, and then the real
 # ones get ignored with it.
 
-# ------------------------------------------------------------------ 20. print
+# ------------------------------- 20. every swimming day carries a water rule
+# 28 of the 52 shipped without one. Agents reading page by page found six of
+# those; the whole class only shows up when you ask all 52 the same question.
+swim = 0
+for n, lines in sorted(DAYS.items()):
+    if not any(l.startswith("### 🌳 Out Again: **Swimming**") for l in lines):
+        continue
+    swim += 1
+    m = re.search(r'> ⚠️ \*\*Safety:\*\*(.*?)(?:\n\n|\Z)', "\n".join(lines), re.S)
+    body = m.group(1) if m else ""
+    if not re.search(r"arm's reach|drown", body, re.I):
+        fail("[water] Day %d is a swimming day with no water rule in its own "
+             "Safety block" % n)
+note("swimming days checked for a water rule: %d" % swim)
+
+# ------------------------------------------------------------------ 21. print
 print("=" * 74)
 print("DEEPCHECK")
 print("=" * 74)

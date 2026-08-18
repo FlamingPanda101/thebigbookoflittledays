@@ -792,7 +792,8 @@ feeder that has moved, so build her somewhere to sit and wait.
 > comes straight back indoors, because a loop of string at toddler height is a
 > strangulation risk. The binoculars stay stringless for the same reason: no
 > cord long enough to go over her head, on those or on anything else in the
-> house.
+> house. Swimming this afternoon. Both children stay within arm's reach in the
+> water at all times, and no float or seat is a substitute for your hands.
 
 <div style="page-break-after: always;"></div>
 

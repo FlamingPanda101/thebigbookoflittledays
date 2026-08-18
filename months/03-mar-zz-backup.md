@@ -116,7 +116,6 @@ talking and walking. This afternoon she measures, cuts and pads.
 ### 🎯 Afternoon Alternatives
 - Make him a raincoat out of a plastic bag and a rubber band.
 - Draw the route of the morning tour on one long strip of paper, stop by stop.
-- Let her do the whole tour again for you on your phone camera, then watch it back over dinner.
 - Set up the box bed as a hospital and let her decide what is wrong with him.
 - Sort the recycling boxes into a row by size, biggest to smallest, and leave the row up.
 
@@ -255,7 +254,6 @@ and a problem to solve.
 ### 🎯 Afternoon Alternatives
 - Fold the dry washcloths corner to corner and stack them into a tower.
 - Wash the plastic animals a second time in a bowl of bubbles, for the bubbles.
-- Give her a bowl of warm water and a paintbrush and let her paint the kitchen floor tiles until they dry off.
 - Line the clean boots up by the door in size order, every pair in the house.
 - Tape a sheet of paper to the window and trace the rain tracks down it with a crayon.
 

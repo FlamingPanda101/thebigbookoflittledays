@@ -1,0 +1,134 @@
+[
+ {
+  "severity": "major",
+  "day": 26,
+  "problem": "Sibling of the Day 47 finding, left standing. Day 26 runs '2:30-3:30 PM - Out Again: **Swimming**', the Out Again heading is **Swimming**, and Kreston's Afternoon has him sitting supported in the water held chest to chest, but the Safety block covers only knives, skewers and small sorted objects and carries no water line at all. Days 5, 12, 40, 47, 54 and 61 all carry one. The repair pass closed February's four swimming Tuesdays and left January's.",
+  "fix": "Append to Day 26's Safety block in months/01-jan-w4.md, in the Day 61/68 wording: 'Swimming this afternoon. Both children stay within arm's reach in the water at all times, and no float or seat is a substitute for your hands.' Then re-read the page: the Out Again bullets stay at 4, Kreston's Afternoon already keeps him held, and no second adult is introduced."
+ },
+ {
+  "severity": "major",
+  "day": 33,
+  "problem": "Second unrepaired January sibling. Day 33 runs '2:30-3:30 PM - Out Again: **Swimming**', the heading is **Swimming**, Kreston's Afternoon puts him supported in the water, and the Safety block covers only feeder droppings, loose seed and string. No arm's-reach water line anywhere on the page.",
+  "fix": "Append to Day 33's Safety block in months/01-jan-w5.md, same wording as Day 47/61: 'Swimming this afternoon. Both children stay within arm's reach in the water at all times, and no float or seat is a substitute for your hands.' Nothing else on the page changes; the string and seed lines already hold."
+ },
+ {
+  "severity": "minor",
+  "day": 19,
+  "problem": "Third January swimming Tuesday. The water line exists on the page but sits in Kreston's Afternoon as 'Never out of arm's reach.' and covers only Kreston, while every other pool day in the book puts it in the Safety block and covers both children. Day 19's Safety block is all box contents and scissors.",
+  "fix": "Move the rule into Day 19's Safety block in months/01-jan-w3.md using the standard wording ('Swimming this afternoon. Both children stay within arm's reach in the water at all times, and no float or seat is a substitute for your hands.') and drop the trailing 'Never out of arm's reach.' from Kreston's Afternoon so the page says it once."
+ },
+ {
+  "severity": "minor",
+  "day": 37,
+  "problem": "House-style break standing on a day the repairer touched, and it falsifies the Day 40 finding's claim that Day 40 held the only Wh- opener in the four February week files. Day 37's Main Event Tip opens 'Where her order makes a mess of it, follow it and say out loud what happened.'",
+  "fix": "In months/02-feb-w6.md, Day 37 Main Event Tip, change to 'Follow her order even where it makes a mess of the batch, and say out loud what happened.' Nothing else moves: the Prep Tonight egg fix, the Safety block and the recipe steps are unaffected."
+ },
+ {
+  "severity": "minor",
+  "day": 116,
+  "problem": "The repairer's own rewrite of Afternoon Alternatives bullet 4 broke the bullet. It now reads 'Line the drying sheets up and sort them by thickness once they are dry.' The Afternoon Alternatives are lighter substitutes for the 1:00-2:30 Second Main Event, and under the fixed step 7 ('They stay on their towels overnight') plus the Tip ('Leave them alone until tomorrow') the sheets are dry only the next day. The other three bullets are all doable in the slot; this one cannot be done in it at all, and if a reader takes an alternative instead of the main activity there are no drying sheets to sort. The added guard 'once they are dry' fixed the hazard by pushing the bullet off the day.",
+  "fix": "In months/04-apr-w17.md, Day 116, replace the fourth Afternoon Alternatives bullet with something that runs inside 1:00-2:30 on today's material, e.g. 'Press one sheet, then sort the leftover dry scraps into thick and thin piles.' Keep the count at 4. Then re-read step 7, the Tip, the 4:15 row and the 5:00 row to confirm none of them now expects a dry sheet today."
+ },
+ {
+  "severity": "minor",
+  "day": 116,
+  "problem": "The renamed 4:15 row, '**4:15-5:00 PM** - Quiet Play: The Sheets Along the Radiator', clears the drying-rack object but hands the sheets to Azlyn as forty-five minutes of quiet-play material. Every other Quiet Play row in these two months names what she does with the thing ('Into the Long Grass Alone', 'The Ten Empty Cups, Stacked and Knocked Down'), so the row reads as play with the sheets, and Second Main Event step 7 plus the Tip say the opposite: they stay on their towels overnight and 'Leave them alone until tomorrow'. The rename traded one contradiction for a smaller one.",
+  "fix": "In months/04-apr-w17.md, Day 116, name the 4:15 row for something she may touch, e.g. '**4:15-5:00 PM** - Quiet Play: Counting the Towels Along the Radiator' or a quiet play off the leftover scraps. Then re-read step 6, step 7, the Tip and the 5:00 'Bath and the Sheets Still Drying' row so all four agree that nothing gets lifted before tomorrow."
+ },
+ {
+  "severity": "minor",
+  "day": 110,
+  "problem": "The Day 110 fix landed in Second Main Event step 1 and Kreston's Afternoon and the Safety block agree with it, but the fourth block the finding named, Infant Integration, was not re-read and still contradicts Safety across the morning. Infant Integration hands Kreston his own broadsheet page and says he 'works at it a few minutes at a time and comes back to it three or four times across the hour' and 'Keep him off the torn pile, because strips are the wrong size', which places him loose on the floor while the strips are being made. Safety says 'Sweep and bag the strips before he goes down', which cannot be satisfied during the 9:15-10:15 tearing. The afternoon ninety minutes is now covered and the morning hour is not.",
+  "fix": "In months/04-apr-w16.md, Day 110 Infant Integration, place him the same way the fixed afternoon does, single-adult: give him the whole broadsheet page on the high chair tray while the tearing runs, and put him down on the sheet only after the strips are bagged. Then re-read step 1 of the Second Main Event, Kreston's Afternoon and the Safety block so all four say the same thing."
+ },
+ {
+  "severity": "minor",
+  "day": 109,
+  "problem": "The Wh- opener fix in Second Main Event step 2 is in the file and correct, but the step directly above it carries the placement defect this round exists to close. Step 1 reads 'Kreston goes in the high chair beside you for the whole ninety minutes, or the tray goes in the bath and you both kneel at the side.' The second branch drops the high-chair placement and 'you both' means you and Azlyn, so on the bath route no block on the page places Kreston for 1:00-2:30 while Safety says 'Standing water and a 10-month-old who cruises. Water that shallow is enough to drown in.' Kreston's Afternoon only picks him up after the tray goes back on the table. Pre-existing, not introduced this round, but it sits in the repaired activity and matches the Day 110 finding exactly.",
+  "fix": "In months/04-apr-w16.md, Day 109 Second Main Event step 1, carry the placement into both branches, e.g. 'Kreston goes in the high chair beside you for the whole ninety minutes, and he stays in it if you move the tray to the bath instead.' No second adult. Then re-read the Infant Integration block, Kreston's Afternoon and the Safety block."
+ },
+ {
+  "severity": "minor",
+  "day": 128,
+  "problem": "The repairer claimed the Get Outside line was rewrapped. It was not. months/05-may-w19.md lines 321-326 run 76/70/76/78/70 and then leave a 6-column orphan line 326 reading 'again.' alone. Same wrap-artifact class the verifiers raised on Days 163 and 180, and the report says it was already handled.",
+  "fix": "Reflow lines 321-326 of months/05-may-w19.md so the paragraph fills to ~78 columns and no orphan line is left; wording stands."
+ },
+ {
+  "severity": "minor",
+  "day": 128,
+  "problem": "The repaired Main Event step 6 (line 315) now reads 'nobody opens it once the last food goes on after the store walk, nobody looks, and she carries it out at six.' The Out Again bullet on line 368 sends them 'home by three thirty to check the fridge plate.' The rule she says out loud forbids the afternoon look the pick-one bullet promises.",
+  "fix": "Change the Out Again bullet to 'The park, and home by three thirty for the last hour in the yard' or drop the fridge-plate clause, so nothing on the page looks at the plate before six."
+ },
+ {
+  "severity": "minor",
+  "day": 135,
+  "problem": "The rewritten Kreston's Afternoon (months/05-may-w20.md lines 392-395) puts him on home paving being chalked round, and its 'Azlyn will want to draw it' ties it to the chalk clock. The block sits in the 2:30-3:30 Out Again slot, where four of the five picks are the fire station, a drive past the cut field, a shaded park and the garden center. Only the kiddie-pool bullet keeps them at home. The one-adult rewrite is correct and the pre-existing version had the same siting problem, so the repairer preserved rather than introduced it.",
+  "fix": "Open the block with a destination-neutral line the way Day 134 does, e.g. 'Kreston comes with whatever you pick. Back home before dinner, sit him on a shaded patch of paving and chalk round him where he sits.'"
+ },
+ {
+  "severity": "minor",
+  "day": 143,
+  "problem": "The Day 147 fix rests on the repairer's claim that no July use of the wool loop exists. The stronger fact is that no July page mentions the medal at all: grep for 'medal' across months/07-*.md returns nothing, while the Week 21 opener (months/05-may-w21.md line 26) promises 'the box itself, which holds the spare medal that comes back out in July' and Day 143's Second Main Event intro (line 490) says the six handed over 'come up again in July.' Both forward references point at nothing. Pre-existing, but the wool-cut repair now stands on it.",
+  "fix": "Either drop the July promise from months/05-may-w21.md lines 26 and 490 ('the box itself, which she goes back into all summer' / 'come out again on a doorstep later in the year'), or route it to a real July page. Do not leave two May blocks pointing at absent content."
+ },
+ {
+  "severity": "minor",
+  "day": 130,
+  "problem": "Get Outside is titled 'The Tree That Was Bare in January' and its body says 'Walk to the tree you stood under on the first day of this year' (months/05-may-w19.md line 587), which pairs with Day 1's 'Stop under the biggest tree on the route.' That is the tree thread Joseph deleted, surviving as a single callback on a day the repairer worked. Pre-existing, flagged so the queue rules on it rather than losing it.",
+  "fix": "Rename the schedule row and heading character for character and rewrite the body without the Day 1 callback, e.g. 'Get Outside: The Leaves Over the Path' walking the same route and asking what is different from the frost, with no reference back to a named tree. Update tools/titles.tsv for the renamed activity."
+ },
+ {
+  "severity": "major",
+  "day": 208,
+  "problem": "The repairer fixed the Second Main Event lede and the Tip on Day 208 but left the Week 30 opener (months/07-jul-w30.md line 14) reading \"adds a jellyfish in a doorway everyone has to duck through\". That is the exact claim the repair removed from the day page, and it contradicts the day's Safety block (\"The jellyfish hangs behind a gate or a shut door\") and step 6's gated/trimmed branch. The opener is the block the reader meets first, and it is on the checklist the repairer was told to re-read.",
+  "fix": "months/07-jul-w30.md line 14: change \"adds a jellyfish in a doorway everyone has to duck through\" to \"adds a jellyfish in a doorway the grown-ups and Azlyn duck through\", matching the Day 208 lede and Tip."
+ },
+ {
+  "severity": "major",
+  "day": 241,
+  "problem": "The two-cup rewrite fixed the vessel count but contradicts Main Event step 3, which the repairer did not read. Step 1 (08-aug-w35.md line 440) and the Safety block (lines 522-524) both pin the cups \"on the wall side of your place and hers ... out past where Kreston kneels\", and the Safety block claims that layout holds \"for the whole hour\". Step 3 (line 442) then rotates everybody one stretch along four or five times inside that hour: \"Whoever is at the far end walks back to the start, and Kreston moves along when you carry him.\" After the first song the 14-month-old is kneeling at your stretch, then at Azlyn's, which is where the two taped open cups of water are. The repair moved the defect from the materials list into the choreography.",
+  "fix": "Stop rotating Kreston, which is the smallest diff and keeps step 1 and the Safety sentence true: 08-aug-w35.md line 442, change \"Whoever is at the far end walks back to the start, and Kreston moves along when you carry him.\" to \"Whoever is at the far end walks back to the start. Kreston keeps the door end and paints over whatever arrives at him.\" Step 1's \"one for Kreston at the end nearest the door\", the two-cup materials line, the Safety sentence and the Week 35 entry \"Plastic cups, 2, for the paint water\" then all agree. Do not solve it by moving the cups, since every stretch becomes his at some point."
+ },
+ {
+  "severity": "minor",
+  "day": 204,
+  "problem": "Pre-existing, not caused by this round, but it is the same doorway contradiction one page earlier in the same file: Day 204's Second Main Event lede (07-jul-w30.md lines 202-204) says \"Pick the wall she walks past most, because Monday's whale and Tuesday's jellyfish go on it too\", while Day 208 hangs Tuesday's jellyfish in a gated doorway and never on the ocean wall.",
+  "fix": "Day 204 lede: \"...because Monday's whale goes on it too, and Tuesday's jellyfish hangs in a doorway beside it.\" No queue entry authorizes this, so leave it unless Joseph wants the week made consistent in one pass."
+ },
+ {
+  "severity": "minor",
+  "day": 198,
+  "problem": "Rejection upheld, recorded so it does not vanish. The repairer declined the 13-month climbing finding, and that was correct: the claim is book-wide (Day 186, Day 198 Safety, Day 210 Kreston's Afternoon, the Week 30 opener line 121, the Week 31 opener, the July backup Kreston's Afternoon and the Bad Weather Day 2 Safety block), and Joseph's settled age list puts climbing at sixteen months. Patching July alone would leave a dozen blocks elsewhere contradicting it.",
+  "fix": "No July edit. Joseph decides book-wide: either the age list moves climbing to thirteen months or every climbing-at-13-months block across the year gets reworded in one pass."
+ },
+ {
+  "severity": "minor",
+  "day": 289,
+  "problem": "months/10-oct-w42.md line 391: the repairer re-flowed the Day 289 Safety block on this page but left the insight body two blocks above it at 86 columns: '> Handing Azlyn the real flashlight, on terms, gives her something a flashlight of her' followed by a 76-column line. Same page, same block class, same defect the day was queued for. Every other wrapped body line on the eight touched days sits between 51 and 80.",
+  "fix": "Re-flow the Day 289 insight blockquote body, from 'Handing Azlyn the real flashlight' to '...is a thing she can do.', greedily at 78 columns. No wording change; the body is 100 words and must stay so."
+ },
+ {
+  "severity": "major",
+  "day": 343,
+  "problem": "The Safety rewrite landed but the morning block was not re-read. Safety now reads \"The loose candy wrappers stay at your end of the table, out of his reach, until the last window is taped and the leftovers go in the trash.\" The last window is taped in Main Event step 3 (9:15-10:15), so that clause covers the 8:00 Opening Activity, and Opening Activity step 1 says \"Spread the lot on the floor by the window and let her hold each piece up to the light,\" with step 3 leaving them in two piles on the floor. The page now puts choke-sized wrappers on the floor for an hour in one block and swears they never leave your end of the table in another, with an 18-month-old who mouths everything. The pre-repair wording (\"go back on the table with them\") was compatible with the floor sort; the repair broke that compatibility. Same block-left-behind failure the round exists to stop.",
+  "fix": "In months/12-dec-w49.md, Day 343 Safety, change the last sentence to \"The loose candy wrappers come up off the floor with them and stay at your end of the table, out of his reach, until the last window is taped and the leftovers go in the trash.\" That ties the wrappers to the freezer bag and folder already lifted off the floor in the sentence before it, and leaves Opening Activity step 1, Main Event step 3 and Infant Integration untouched."
+ },
+ {
+  "severity": "minor",
+  "day": 317,
+  "problem": "The added Safety sentence resolves its pronoun to the wrong object. The block runs \"...hang it above Kreston's reach. His stroller ribbon goes on the outside of the handle where he cannot get it round anything, and it comes off when the walk ends. The fence pinwheel goes up beside it, above his reach...\" The nearest antecedent of \"beside it\" is the stroller ribbon, so the sentence as written stands the fence pinwheel beside a thing that is on the stroller. The windsock, which is what the sentence means, is two sentences back.",
+  "fix": "In months/11-nov-w46.md, Day 317 Safety, change \"The fence pinwheel goes up beside it, above his reach\" to \"The fence pinwheel goes up beside the windsock, above his reach\". Nothing else moves; Second Main Event step 7 and Afternoon Alternatives bullet 1 already agree."
+ },
+ {
+  "severity": "minor",
+  "day": 319,
+  "problem": "The appended Safety clause repeats a condition the same sentence already set. The sentence reads \"...so go along each band before Kreston sits down and pull out anything that fits inside a toilet paper tube: bottle caps, beads, coins, small blocks and marker lids, and swap her blue cap for something she cannot swallow before he sits down.\" One sentence, two statements of the same timing, the second in a pronoun form after the name was used the first time.",
+  "fix": "In months/11-nov-w46.md, Day 319 Safety, drop the trailing \"before he sits down\" so the clause ends \"...and swap her blue cap for something she cannot swallow.\" The timing is already carried by \"before Kreston sits down\" earlier in the sentence, and the next sentence (\"He works the red end within arm's reach of you\") still holds."
+ },
+ {
+  "severity": "minor",
+  "day": 335,
+  "problem": "The repairer wrote a harder rule than the finding asked for and left the Safety block describing a route it has now closed. Infant Integration reads \"He stays in the room through the hook, so put it up on the adhesive pads and leave the screws in your pocket,\" which states flatly that the screws never come out on this day. Safety still reads \"The screws and the screwdriver both go back in your pocket between turns on the hook,\" a clause that presupposes turns with the screws out, and Main Event step 4 still offers \"Stick or screw the hook on.\" No hazard results, both routes end safe, but the page now gives screw-handling instructions for a screw route the infant block has ruled out.",
+  "fix": "In months/11-nov-w48.md, Day 335 Infant Integration, soften the sentence to point at the pads without deciding for the reader: \"He stays in the room through the hook, which is what the adhesive pads are for.\" Step 4, the Safety screws clause and the trailing \"Use the adhesive pads if he is in the kitchen with you\" then all hold as written."
+ }
+]

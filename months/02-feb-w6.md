@@ -127,7 +127,7 @@ walks a round she scouted that morning, and hands it over at four front doors.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Set the flour, salt, sugar, a packet of active dry yeast and a clean jam jar on the table.
+> Set the flour, salt, sugar, two packets of active dry yeast and a clean jam jar on the table.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Fizzing Jar
@@ -278,7 +278,7 @@ it goes stale by evening.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Stand 100 g of butter out to soften overnight, and put the sugar, the all-purpose flour and an egg on the table beside it.
+> Stand 100 g of butter out to soften overnight, and put the sugar and the all-purpose flour on the table beside it. The egg comes out of the fridge at breakfast.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Choosing Off the Shelf
@@ -556,7 +556,7 @@ anybody else's.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Check the cupboard for a kilo of all-purpose flour, a full tub of salt and the food coloring.
+> Check the cupboard for half a kilo of all-purpose flour, a full tub of salt and the food coloring.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Coloring the Dough
@@ -774,7 +774,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 4. Keep going through the quiet stretch. The sound comes back as a heavier thud, then a lump rolling round in liquid. Open the jar and let her look.
 5. Strain it through the sieve over the bowl. The lump is butter, the liquid is buttermilk and she can drink some.
 6. Squeeze the butter under cold water with the back of a spoon until it runs clear, work in the salt and press it onto the cold plate.
-7. Spread it on bread and eat it at the counter. What is left goes in the fridge for tomorrow.
+7. Spread it on bread and eat it at the counter. The rest goes in the fridge for tomorrow.
 
 > 💡 **Tip:** Sit on the floor and pass the jar back and forth. The passing keeps her in it once her arms have gone.
 
@@ -824,7 +824,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Buy the five breads on the way home (sliced white, a seeded roll, a bagel, a pita, an English muffin), and put five plates, the marker or the sticky labels and the bread knife out beside them.
+> Put the five breads out (sliced white, a seeded roll, a bagel, a pita, an English muffin) with five plates, the marker or the sticky labels and the bread knife beside them.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Numbering the Plates
@@ -958,7 +958,7 @@ as a bakery to anyone walking past.
 **Theme:** Little Bakery
 
 ### 🌙 Prep Tonight
-> Make tonight's dough before bed (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil) and leave it covered in the fridge, or buy a pack instead. Stand 75 g of butter out to soften beside it, and put whatever card and colored paper you own somewhere findable for next week.
+> Make tonight's dough before bed (500 g bread flour, 7 g yeast, 1 tsp salt, 300 ml water, 1 tbsp oil) and leave it covered in the fridge, or buy a pack instead. Stand 75 g of butter out on the counter to soften, and put whatever card and colored paper you own somewhere findable for next week.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Cinnamon Butter

@@ -198,7 +198,7 @@ and decides which way comes next.
 
 **📝 Step-by-Step Instructions:**
 1. Sit everyone in a ring, shakers in the middle, saucepan by your knee, scarf in Azlyn's hand.
-2. Pick a rhyme the whole house knows. Twinkle, Twinkle or The Wheels on the Bus. Sing it through once with a shaker each.
+2. Pick a rhyme the whole house knows. Twinkle, Twinkle or The Wheels on the Bus. Sing it through once with a shaker each for you and Azlyn.
 3. Loud version. Saucepan on the beat, cardboard tube as a megaphone, pasta and lentils flat out. One verse, and one verse alone.
 4. Quiet version. Sugar shaker on its own, everyone whispering, heads close together. She drops her voice to match yours.
 5. Fast, then slow. Slow is the hard one, and one verse at half speed lasts longer than either of you expects.

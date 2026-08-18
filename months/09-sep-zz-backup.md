@@ -290,14 +290,15 @@ front of the coffee table, with the wind still working at the window.
 > teaches her what to do with her own mistakes. Read every strip out, check it
 > against the window, and leave the wrong ones taped up.
 
-> ⚠️ **Safety:** Pot handles turn in toward the wall and the back burner takes
-> the pot whenever it fits. Kreston runs, so the gate goes across the kitchen
-> door while the stove is on, or he sits strapped in his chair where you can
-> see him. The sharp knife stays on the counter beside you and goes back in the
-> drawer between cuts, never on the table with her board. Raw vegetable pieces
-> off her board are a choking size for him. His bowl is dry cereal and nothing
-> off her board. Nothing smaller than his fist goes on the sill while he is up
-> at the glass with you.
+> ⚠️ **Safety:** Pot handles turn in toward the wall and the back burner
+> takes the pot whenever it fits. Kreston runs, so the gate goes across the
+> kitchen door while the stove is on, or he sits strapped in his chair where
+> you can see him. The sharp knife stays on the counter beside you and goes
+> back in the drawer between cuts, never on the table with her board. Raw
+> vegetable pieces off her board are a choking size for him. His bowl is dry
+> cereal and nothing off her board. The clothespins are the only things that
+> go on the sill while he is up at the glass with you, and they go up out of
+> reach before he is down on the floor.
 
 <div style="page-break-after: always;"></div>
 
@@ -514,9 +515,10 @@ ones go in a bag on her lap and she decides which of them get one more month.
 > arm's reach of any water, small parts up off the floor while Kreston is on
 > it, and anything taped across a doorway down and in the trash before he
 > crawls through. Buckeyes are poisonous chewed and they are the size Kreston
-> chokes on at 15 months, so they stay on the table or on the sill, get counted
-> out and counted back into the bowl, and the bowl goes up high the moment she
-> is finished. Wash both sets of hands after. Same rule for the coins in the
+> chokes on at 15 months, so they stay on the table, on the sill or on a
+> hallway floor he is not on, get counted out and counted back into the bowl
+> at the end of every frame, and the bowl goes up high the moment she is
+> finished. Wash both sets of hands after. Same rule for the coins in the
 > change jar and the dry seed heads.
 ### 🎨 Alternative Arts & Crafts
 - **The Paper Bag Owl**, one bag, two circles, a folded beak, ten minutes start to finish.

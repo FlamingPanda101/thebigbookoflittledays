@@ -782,7 +782,9 @@ fixed two things you meant to fix in November.
 > drawer before she is in the room and stay out until it goes back. Small
 > sorted objects stay off the floor while Kreston is down there, and the
 > basket goes up on the table between rounds. Never leave the drawer open at
-> her height with the sharp things still in it.
+> her height with the sharp things still in it. Swimming this afternoon. Both
+> children stay within arm's reach in the water at all times, and no float or
+> seat is a substitute for your hands.
 
 <div style="page-break-after: always;"></div>
 
