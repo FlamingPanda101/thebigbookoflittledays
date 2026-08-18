@@ -1,0 +1,952 @@
+<a id="day-351"></a>
+
+## 🌟 Day 351: Built for the Weather 🌟
+**📅 Friday, December 17, 2027**
+**Theme:** Water & Weather Wonders
+
+### 🌙 Prep Tonight
+> Fill an ice cube tray. Stand the recycling on the table: a plastic tub, foil, a grocery bag, two odd socks, masking tape.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Ice, Water and a Paper Fan
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Animal Built for December (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Somewhere Out of the Rain (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Shelter Test (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Creature in the Box
+- **5:00–5:45 PM** — 🛁 Wind-Down: Warm Bath, Dark Window
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Ice, Water and a Paper Fan
+
+**🧰 You need:** 3 ice cubes · 1 small bowl of water · 1 sheet of paper folded into a fan · 1 dish towel.
+
+1. Dish towel down, three ice cubes into her open palm. She holds them as long as she can while you count out loud.
+2. Both hands into the bowl of water, then out and dripping. She fans them with the fan until they sting.
+3. Ask what an animal would need on its body to live outside in all three. Take her answer and tell her you build it at 9:15.
+
+### 🎨 The Main Event: The Animal Built for December
+
+**🧰 Complete Materials List:**
+- 1 empty plastic tub or bottle, as the body
+- Aluminum foil, about an arm's length
+- 1 plastic grocery bag
+- 2 old socks, or a handful of cotton balls
+- 1 roll masking tape
+- 1 pair of scissors (**adult only**)
+- 1 permanent marker
+- 1 baking tray to work over
+- 1 cup of water
+- A stack of paper towels
+- The paper fan from this morning
+
+**📝 Step-by-Step Instructions:**
+1. Tray on the table, tub on the tray for the body. She names the animal and you write it down the side in marker.
+2. Cut four foil strips for legs and one square for a head. She rolls each tight and tapes it wherever she says legs go.
+3. Coat next. Socks over the body, cotton balls taped all over, or the grocery bag wrapped round and taped down. She picks and tapes.
+4. Cold first. Two minutes in the freezer, then her hand and yours flat on its back.
+5. Rain second. Pour the cup of water down its back, blot with paper towels, look at what got through.
+6. Wind last. Fan it hard from a hand's distance. Whatever lifts failed, so she retapes it and you run the test again.
+
+> 💡 **Tip:** Let her build an animal that fails. One that survives the first pour teaches her nothing.
+
+### 🌳 Get Outside: Somewhere Out of the Rain
+
+Hunt for the places that stay dry: under a parked car, under the porch step, deep
+inside a holly or juniper, the sheltered side of a fence. Put her hand on the dry
+ground under an evergreen, then on the wet grass a step away. Sparrows work this
+out every winter.
+
+> 👶 **Infant Integration:** Kreston is 18 months and pretend play started this
+> month, so once the bag stage is over and taped down, give him an empty tub and
+> a clean sock near the table. He puts the sock in, takes it out, and by the
+> third round he is feeding it or putting it to bed. Say the three words while
+> Azlyn tests hers: cold, wet, windy.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Shelter Test
+
+The animal has a coat. Now it needs a house, tested the same three ways as this morning.
+
+**🧰 Complete Materials List:**
+- 1 cardboard box, shoebox size or bigger
+- 1 plastic grocery bag or a trash bag
+- 1 roll masking tape
+- 1 permanent marker
+- 1 pair of scissors (**adult only**)
+- 1 colander or a sieve
+- 1 pitcher of water
+- 1 large baking tray or a plastic storage tub, to catch it
+- 1 sheet of stiff card folded into a fan
+- Scrap paper torn small
+- 2 dish towels
+- The animal from this morning
+
+**📝 Step-by-Step Instructions:**
+1. Box on its side inside the tub, dish towels underneath. She marks the door and you cut it, her standing back.
+2. She lines the roof and back wall with the grocery bag and tapes every edge. Water finds any gap.
+3. Animal inside facing the door. Hold the colander a foot above the box and pour the pitcher through it.
+4. Look in: wet or dry, and where. She fixes one thing, more bag or more tape, and you pour over the same spot again.
+5. Wind next. Fan the doorway hard with the stiff card, then move the animal back until the wind stops reaching it.
+6. Snow last. Drop the torn paper from above your head and ask where it piles up.
+7. Dry the floor with the second dish towel and leave it all standing for 4:15.
+
+> 💡 **Tip:** Pour from a foot up, never tipped straight in. The colander turns a slug of water into rain.
+
+### 🎯 Afternoon Alternatives
+- One box, one bag, one pour, and stop there.
+- Build the shelter outside and let real weather test it.
+- Draw the animal's house instead of building it.
+
+### 🌳 Out Again: **Pick one**
+- **A friend's house**, and the animal travels in the box
+- The park while the light holds, which now means before half past four
+- A drive to look at the lights with the heat on
+- Around the block hunting for shelters you missed this morning
+
+> 👶 **Kreston's Afternoon:** Keep him at the far end of the room while the water
+> pours, then bring him in for the paper snow. At 18 months he throws things up
+> to watch them come down, so torn paper is twenty good minutes. He climbs the
+> stairs holding the rail now, so count them on the way to the bath.
+
+### 🌍 Around the World: Light in the Darkest Week 🕯️
+
+This is the darkest week north of the equator, and people answer it
+with light and food. Iranian families stay up through **Shab-e Yalda**, the
+longest night, eating watermelon and pomegranate saved since summer because red
+fruit stands in for the returning sun. In Sweden a child in a white dress carries
+candles through a dark house on **Santa Lucia** morning while saffron buns come
+out of the oven. In Japan people float whole **yuzu** in a hot bath on **tōji**.
+
+> **✨ Try it:** Break a pomegranate apart under a bowl of water. The seeds sink,
+> the pith floats, and Azlyn can do the whole job.
+
+> *Did you know?* At a Yalda table somebody opens a book of Hafez at random, and
+> the poem that lands is your luck for the year.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Inventing a creature to fit conditions is her first taste of adaptation.**
+> Azlyn built a body for one particular week of weather, and that is adaptation
+> running in the direction real biology runs. She started from the conditions,
+> cold and wet and wind, and worked backward to the animal. Three-year-olds hold
+> that better through invention than through a picture of a polar bear, because
+> the coat was a decision she made and then watched fail. She now has a reason to
+> notice that a duck's back sheds water and next door's dog grew a thicker coat
+> this month. Ask her what her animal would need in July and she takes the coat
+> straight back off.
+
+> ⚠️ **Safety:** Loose plastic bags and Kreston do not go in the same room. A bag
+> over the face of an 18-month-old is a suffocation risk, so keep him the far
+> side of the gate while a bag is out on the table, this morning and again at
+> 1:00, and the bag goes in the trash once the shelter is lined. The floor around
+> the water test will be wet and he runs. Holly spikes a hand and its berries
+> make a small child vomit, so use the juniper for the reaching in and leave
+> anything red on the bush. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-352"></a>
+
+## 🌟 Day 352: A Sky You Can Hold 🌟
+**📅 Saturday, December 18, 2027**
+**Theme:** Water & Weather Wonders
+
+### 🌙 Prep Tonight
+> Stand two tall clear glasses, the shaving foam and the blue food coloring on a tray by the sink. Put two paper grocery bags and the newspaper out for this afternoon.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Mixing the Rain
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Cloud That Fills Up (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Warm Breath, Cold Air (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: A Cloud for the Ceiling (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Water Glasses
+- **4:15–5:00 PM** — Quiet Play: The Last of the Foam
+- **5:00–5:45 PM** — 🛁 Wind-Down: Rain Sounds and Two Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Mixing the Rain
+
+**🧰 You need:** 1 small cup half full of water · blue food coloring · 1 teaspoon · 1 drinking straw.
+
+1. She drips the coloring in and stirs until the water is darker than she expects. Two drops look like nothing.
+2. Teach her the straw. Dip the end in, thumb hard over the top, lift it out, and the water rides up inside. Thumb off and it drops.
+3. Let her do that twenty times over the cup. The thumb has to be working before 9:15.
+
+### 🎨 The Main Event: The Cloud That Fills Up
+
+**🧰 Complete Materials List:**
+- 2 tall clear glasses or jars
+- Water, to fill them three-quarters
+- Shaving foam, enough for a fist-sized mound on each (substitute: dish soap whisked stiff, or whipped cream)
+- Blue food coloring
+- 1 small cup of water for mixing
+- 1 teaspoon and 1 drinking straw, as a dropper
+- 1 tray, or 2 dish towels underneath
+
+**📝 Step-by-Step Instructions:**
+1. Tray down, both glasses on it, filled three-quarters. Leave them a minute so the surface goes still.
+2. She pumps a fist-sized mound of foam onto each and flattens the top with the teaspoon. Give it a minute to settle.
+3. Blue water from the cup, straw loaded her way. One drop at a time onto the same spot while you count out loud.
+4. The cloud holds it, and holds it, then a blue thread comes down through the water. Say the number she got to.
+5. Second glass: she pours the blue on with the teaspoon instead. It rains sooner. Ask which cloud held more.
+6. Hand her the rest of the blue water and let her wreck the second glass.
+
+> 💡 **Tip:** Wait through step four without filling the silence. The gap between the last drop and the first blue thread feels awkward.
+
+### 🌳 Get Outside: Warm Breath, Cold Air
+
+It is cold enough this morning to see your own breath, so go out and look at it.
+If it is not, do this one on the first morning it is. She breathes out slow and it
+hangs, then fast and it vanishes. Find the other places warm air shows itself: a
+dryer vent, steam off a roof, the plume from a car warming at the curb.
+
+> 👶 **Infant Integration:** Kreston is 18 months and his own breath does the same
+> trick, which he has never seen. Hold him where he can watch yours, then wait.
+> When he blows out and it shows, he does it forty more times. He has twenty-odd
+> words and *more* does the heaviest work of any of them.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: A Cloud for the Ceiling
+
+A cloud the size of her head, hung low enough that she has to duck under it, with rain she can walk through.
+
+**🧰 Complete Materials List:**
+- 2 paper grocery bags
+- Newspaper, most of a stack, to stuff them
+- 1 roll masking tape
+- String, about 4 feet
+- Plain paper, 6 sheets, for the rain
+- 1 gray crayon, 1 blue crayon and the rest of the box
+- 1 pair of scissors (**adult only**)
+- A door frame, a coat hook or the back of a chair to hang it from
+
+**📝 Step-by-Step Instructions:**
+1. She scrunches the newspaper sheet by sheet and stuffs both bags loose. Loose is the whole thing. A packed bag comes out a brick.
+2. Fold the tops over and tape them shut, then tape the two bags side by side and squash the corners in until the shape stops reading as a bag.
+3. Crayons. She colors it however she wants, with one thing from you: the underside of a cloud that is about to rain is the dark part.
+4. Cut the plain paper into long strips a finger wide, as many as she asks for. She draws drops down each one, top to bottom.
+5. Tape the strips along the underside at different lengths, longest in the middle. She hands them up and you tape where she points.
+6. String round the middle, knotted tight. Hold it up at her head height first, so the strips brush her hair, and let her stand under it and turn round.
+7. Blow hard along the strips while she is under there. Rain comes in sideways in wind, which is what she has been watching happen on the window all month. Then hang it off the door frame or the hook, high enough that the strips clear Kreston's hands.
+
+> 💡 **Tip:** Tape the corners in before she starts coloring. A cloud with square edges reads as a paper bag from across the room, and she will be the one to say so.
+
+### 🎯 Afternoon Alternatives
+- One bag instead of two, six strips, hung in her room.
+- Tear a cloud out of white paper and tape it flat to the ceiling over her bed.
+- Skip the cloud and make the rain: strips taped along a door frame to walk through.
+
+### 🌳 Out Again: **Pick one**
+- **The fire station**, or wherever the big machines park, and the crews are glad of a visitor
+- Tractor and truck spotting from a wall
+- The park by half past two, while the light holds
+- The car wash, sitting inside it, a downpour with a roof
+
+> 👶 **Kreston's Afternoon:** Hand him the newspaper first. At 18 months tearing
+> and scrunching is a job he can do at the same table for twenty minutes, and
+> every sheet he wrecks is one she does not have to. He will swing on the strips
+> the moment he can reach them, which is the reason the cloud goes up high. At
+> the fire station keep him on your hip.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Making the sky small enough to hold is what lets her study it.**
+> The sky refuses to sit still for a three-year-old. Clouds are far off, they
+> take hours to do anything, and she cannot touch any of it. A mound of foam on a
+> glass hands her the same event at a size her hands and her attention both fit:
+> it fills, it holds, it gives way. Researchers call these physical models, and
+> children reason from them long before they reason from an explanation. Azlyn
+> will look up at a gray sky this week and tell you it is full. That sentence
+> came off a glass on the kitchen table, and it is close to right.
+
+> ⚠️ **Safety:** Shaving foam stings in the eyes and it is not food, however much
+> it looks like dessert. Say so at the start and wash her hands before the snack.
+> A loop of string at toddler height is a strangulation risk, so keep the knot
+> short, hang the cloud where Kreston cannot get a hand to it, and take it down
+> at night. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-353"></a>
+
+## 🌟 Day 353: The Weather Mission 🌟
+**📅 Sunday, December 19, 2027**
+**Theme:** Water & Weather Wonders
+
+### 🌙 Prep Tonight
+> Wash a wide jar or a mug and set it out with the plastic wrap, two rubber bands, a straw and a sheet of thick card. Buy a cake mix and four candles tomorrow; Monday is her birthday.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Bottle That Pushes Back
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Jar That Feels the Air (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Where It Blows Hardest (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Whirlpool in Two Bottles (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Napkins
+- **4:15–5:00 PM** — Quiet Play: Turning the Whirlpool Over
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath, Then the Last Reading
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Bottle That Pushes Back
+
+**🧰 You need:** 1 empty 2-liter bottle with its cap · 1 square of paper towel · 1 drinking straw.
+
+1. Cap off. She squeezes the bottle at her own cheek, then at the paper towel square, and it goes off the table.
+2. Cap on and screwed down. She squeezes with both hands, hard as she can. It gives an inch and pushes back out at her.
+3. That is air, and there is a sky full of it pressing on the roof. Tell her the jar on the table is going to feel it, starting at 9:15.
+
+### 🎨 The Main Event: The Jar That Feels the Air
+
+**🧰 Complete Materials List:**
+- 1 wide jar or a mug, clean and dry
+- Plastic wrap, 1 sheet wider than the jar mouth
+- 2 rubber bands
+- 1 drinking straw
+- 1 sheet of thick card
+- 1 ruler and 1 pencil
+- 1 roll masking tape
+- 1 pair of scissors (**adult only**)
+
+**📝 Step-by-Step Instructions:**
+1. Plastic wrap over the jar mouth, pulled tight as a drum. She holds it down while you roll both rubber bands on. Press the middle and it springs back.
+2. Cut one end of the straw to a point. Tape the other end flat to the middle of the wrap, lying sideways, point out past the rim.
+3. Fold the card so it stands on its own. She holds the ruler while you rule lines across it a finger apart, and she colors the middle one.
+4. Stand the card behind the straw, point almost touching, and tape both down where they will live all winter. Mark where the point sits and write **SUNDAY 9:30** beside it. That first mark is the instrument.
+5. Say it out loud: air pressing harder pushes the wrap in and lifts the point, air easing off lets the wrap rise and the point drop. Leave it until 5:00.
+
+> 💡 **Tip:** Stand it out of the sun and off the radiator or it reads the room instead of the sky. The point moves a fingernail in a day, so a mark that lands in the same place is still a reading.
+
+### 🌳 Get Outside: Where It Blows Hardest
+
+Walk the block reading the wind off her own body: the corner where it comes round
+and grabs, the gap between two houses where it funnels, the open field where it is
+steady, the hedge that stops it dead. Have her call each one out with her arms
+out: hard, soft, nothing.
+
+> 👶 **Infant Integration:** Kreston is 18 months and walking every step he can
+> get away with, so let him do this one on foot, a hand held. Wind in the face is
+> a real event for him, so turn him away from the corner and back into it. Give
+> him a paper strip to hold, because wind stays invisible until something flaps.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Whirlpool in Two Bottles
+
+Two bottles taped mouth to mouth, and she can start a storm on the table and stop it with her hands.
+
+**🧰 Complete Materials List:**
+- 2 clear plastic bottles, 2 liter, empty with the labels off
+- 1 pitcher of water, to fill one of them two-thirds
+- Blue food coloring
+- 1 tablespoon glitter
+- 1 roll packing tape or duct tape
+- 1 large baking tray or a plastic tub, to work over
+- 2 dish towels
+
+**📝 Step-by-Step Instructions:**
+1. Tray on the table, towels underneath. She peels both labels off, which takes longer than you expect and is hers to finish.
+2. Fill one bottle two-thirds. Two drops of blue, the spoon of glitter, cap on, and she shakes it until the glitter is everywhere.
+3. Cap off. Stand the empty bottle upside down mouth to mouth on the full one, hold them dead straight, and she feeds the tape round the joint. Ten times round, then up onto both necks. Squeeze it hard: any creak, any wet, more tape.
+4. Turn it over and leave it alone. The water glugs and argues and takes a long time to get down. She needs the boring version first.
+5. Now the swirl. Both hands round the top bottle, elbows in, a fast circle in the air five or six times, then set it down. A funnel opens down the middle and the water is gone in seconds.
+6. Race them. Glug once, swirl once, counting out loud through both. She will want the number on every run after that.
+
+> 💡 **Tip:** She will swirl one direction and insist it is the only way it works. Let her go the other way and watch her deal with the funnel that opens anyway.
+
+### 🎯 Afternoon Alternatives
+- Two small water bottles instead, light enough for her to turn all afternoon.
+- Swirl a bowl of water with a spoon and drop in a scrap of paper to ride it.
+- Stir the bath at bedtime and find the same funnel over the drain.
+
+### 🌳 Out Again: **Pick one**
+- **The scooter or the balance bike**, on the flat stretch with the wind behind her
+- The park, and a stop at every corner she called windy this morning
+- Feed the ducks and watch which way they sit on the water
+- Stay in with the whirlpool on the table if it has turned wet
+
+> 👶 **Kreston's Afternoon:** Give him a small water bottle with two inches of blue
+> water in it, cap taped down hard. At 18 months he turns things over to see what
+> happens, then hands them straight back for you to do again. On the scooter run,
+> let him push it himself first.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A mission with a beginning, a middle and a report is a story she's inside.**
+> Azlyn built an instrument, set it where it lives, went back for a second
+> reading and then told the table about it at six. Setup, action, telling is the
+> shape of every book you have read her, and dropping her inside that shape is
+> why today will stay. Story structure is one of the strongest memory scaffolds a
+> three-year-old has, so she holds the day as a sequence rather than as a pile of
+> separate bits. Somebody at the table is waiting for her number, so the reading
+> arrives with an ending already attached. Ask her tomorrow and you get the whole
+> run in order.
+
+> ⚠️ **Safety:** That taped bottle holds three pounds of water, so she turns it on
+> the table with both hands and it goes out of Kreston's reach between runs. Tape
+> the joint until nothing shifts when you squeeze it, because a joint that lets go
+> drops a heavy bottle on whoever is closest. Rubber bands are a choking hazard at
+> 18 months, so the spares go in a drawer. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-354"></a>
+
+## 🌟 Day 354: Azlyn Is Four 🌟
+**📅 Monday, December 20, 2027**
+**Theme:** Water & Weather Wonders
+
+### 🌙 Prep Tonight
+> Fill a large tub with water, tape a smaller weighted tub centered inside it, and freeze it. It needs both nights, and it is Tuesday's lantern. Set the jar, the glitter and the pencil out for the morning.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Heels Against the Door Frame
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Birthday Snow Globe (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Four Things for Four Years (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Sky on Top of the Cake (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Birthday Table
+- **4:15–5:00 PM** — Quiet Play: The Snow Globe on the Windowsill
+- **5:00–5:45 PM** — 🛁 Wind-Down: Four Books, One for Each Year
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Heels Against the Door Frame
+
+**🧰 You need:** the growth chart door frame · 1 pencil · 1 measuring tape · 1 hardback book.
+
+1. Shoes off, heels back against the frame, chin level. Book flat on her head, pencil under it, mark and date it. Write **AZLYN 4** beside the line.
+2. Find her mark from January and measure the gap. Tell her the number and let her hold her hands that far apart.
+3. Kreston goes on the same frame while he will stand for it.
+
+### 🎨 The Main Event: The Birthday Snow Globe
+
+**🧰 Complete Materials List:**
+- 1 clean jar with a screw-on lid (a plastic peanut butter jar beats glass)
+- Water, to fill it to the brim
+- 1 tablespoon glitter (substitute: foil snipped into tiny flecks)
+- 1 small plastic figure or animal
+- 1 tablespoon clear glue or corn syrup, to slow the snow down
+- Waterproof glue if you have it, otherwise let the figure tumble loose
+- Packing tape, to seal the lid all the way round
+- 1 dish towel
+
+**📝 Step-by-Step Instructions:**
+1. Dish towel down. If the waterproof glue is in the house, she picks the spot and you stick the figure inside the lid. Otherwise it tumbles loose.
+2. She fills the jar to the brim. An air bubble at the top spoils the snow.
+3. Glitter in, then the clear glue or corn syrup, then top the water back up.
+4. Lid on hard. Turn it over onto the dish towel and hold it while you count to twenty, watching for a leak. Tighten again.
+5. Packing tape twice round the lid, pressed flat over the rim and onto the jar.
+6. Turn it over together and say nothing. Count how long the last flecks take to reach the bottom, then again.
+
+> 💡 **Tip:** The glue is the difference between snow that lands in four seconds and snow that takes half a minute. Use more than feels sensible.
+
+### 🌳 Get Outside: Four Things for Four Years
+
+She is four, so she collects four things and carries them home in her hands.
+December leaves the good hard stuff lying about: acorn caps, a sweetgum ball, a
+red winterberry, a bare twig with buds for spring. One for each year, chosen by
+her.
+
+> 👶 **Infant Integration:** Kreston is 18 months and collects too, at knee
+> height, and everything goes in his mouth first. Give him a paper cup to drop
+> his finds into so his hands stay busy. Count Azlyn's out loud each time she
+> adds one.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Sky on Top of the Cake
+
+Her cake, made by her, with this week's weather on top.
+
+**🧰 Complete Materials List:**
+- 1 box cake mix, or 1.5 cups flour, 1 cup sugar, 2 tsp baking powder, 0.5 cup oil, 2 eggs, 0.75 cup milk
+- 1 round cake pan and parchment
+- 1 cup powdered sugar, 4 tbsp softened butter, 2 tbsp milk, for the frosting
+- Blue food coloring
+- Mini marshmallows or whipped cream, for the clouds
+- 1 yellow or orange candy, for the sun
+- 4 candles
+- 1 mixing bowl, 1 wooden spoon, 1 spatula
+
+**📝 Step-by-Step Instructions:**
+1. Oven to 350°F. She lines the pan with parchment and it will crease.
+2. Everything into the bowl in the order on the box, or flour, sugar and baking powder first, then oil, eggs and milk. She cracks both eggs.
+3. She beats it with the wooden spoon until her arm complains, then scrapes it into the pan. Twenty-five to thirty minutes, and she stays off the oven door.
+4. While it bakes, beat the powdered sugar, butter and milk in the washed bowl, then blue coloring a drop at a time until she says stop.
+5. Turn it out onto its parchment and leave it until it is cold to her hand. Warm cake tears under frosting.
+6. Spatula the blue over the top. Marshmallows as clouds, the candy in one corner as the sun. She decides the weather.
+7. Four candles round the edge, and she counts them in one at a time, out loud.
+
+> 💡 **Tip:** Frost from the middle outward and stop at the edge. Going round the side gets crumbs in the blue.
+
+### 🎯 Afternoon Alternatives
+- Cupcakes, so there are four skies instead of one.
+- Buy the cake and let her do the whole top.
+- Frost cookies with the same blue and the same clouds.
+
+### 🌳 Out Again: **Pick one**
+- **The woods loop**, her choice of direction the whole way, because it is her birthday
+- The playground she asks for, whichever one that turns out to be
+- A drive to see the lights with the cake in the back
+- Home early if she has had enough people, which happens on birthdays
+
+> 👶 **Kreston's Afternoon:** Give him a spoon and a cup at the mixing stage; at
+> 18 months he copies whatever hands he can see and will stir nothing
+> for ten minutes. Keep him off the floor by the oven, and at the table no candle
+> within reach and no jar.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Putting it back exactly is part of the lesson.**
+> Azlyn will want the candles where they were last year, the same song, the same
+> person carrying the cake in. Getting it back the same is how a four-year-old
+> builds a calendar. She has no independent feel for a year yet, so repeated
+> events make the year, and each one has to match the last for her to see the
+> pattern. Her mark on the same door frame, made in the same pencil under the
+> same January line, tells her more about growing than a number does. Change the
+> order and she loses the comparison, which is what the fuss is about.
+
+> ⚠️ **Safety:** The oven is on with a walking 18-month-old in the house, so keep
+> the kitchen door shut while the pan goes in and out. Lit candles at table
+> height are the real risk today: Kreston reaches across a table now, so light
+> them at the last second and blow them out at the first. Use a plastic jar if
+> you have one. On the collecting walk, nothing red goes in a mouth, hers or his.
+> Winterberry and holly make a small child vomit, so they get looked at and
+> carried and nothing else, and Kreston's cup gets emptied and checked before you
+> put him down.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-355"></a>
+
+## 🌟 Day 355: The Shortest Day 🌟
+**📅 Tuesday, December 21, 2027**
+**Theme:** Water & Weather Wonders
+
+### 🌙 Prep Tonight
+> Check the ice block has set solid and leave it in the freezer. Put her gloves, a bag and every empty cardboard tube by the back door.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Dry Leaves and Empty Tubes
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: A Dry Place for Small Things (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Under the Log and the Flowerpot (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: A Lantern Made of Ice (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Drying the Cups
+- **4:15–5:00 PM** — Quiet Play: The Leftover Tubes
+- **5:00–5:45 PM** — 🛁 Wind-Down: Lights Off, Lantern On
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Dry Leaves and Empty Tubes
+
+**🧰 You need:** her gloves · 1 paper bag · 6 to 8 cardboard tubes.
+
+1. Gloves on and out the back door. She fills the bag with the driest leaves, grass and twigs, from under a bush or the lee of a wall.
+2. Squeeze a handful. Dry crackles and wet folds, so anything that folds goes back on the ground.
+3. Inside, line the tubes up beside the bag. Tell her a beetle will live in one of them by lunchtime.
+
+### 🎨 The Main Event: A Dry Place for Small Things
+
+**🧰 Complete Materials List:**
+- 1 large plastic bottle, 2 liter (adult cuts both ends off)
+- 6 to 8 cardboard tubes
+- Dry leaves, dry grass and short twigs, a bagful
+- String, about 3 feet
+- 1 roll masking tape
+- 1 pair of scissors (**adult only**)
+- 1 pair of gloves for her
+
+**📝 Step-by-Step Instructions:**
+1. Cut both ends off the bottle to make an open sleeve, then tape round both cut rims while she watches from a step back.
+2. She packs each tube with leaves, grass and twigs, tight enough that a hard shake does not empty it.
+3. Push the packed tubes into the sleeve until nothing shifts when you tip it. One more if it rattles.
+4. String twice round the middle, knotted, with a long loop left over.
+5. Gloves on. She picks the spot: a hedge, under the fence, behind the shed, wedged so the open end points down and rain runs out. Tie it with the loop.
+6. Say out loud who it is for: ladybugs, lacewings, spiders, a beetle looking for somewhere out of the frost. Agree it stays shut until spring.
+
+> 💡 **Tip:** Tip it end down before you tie it. Anything that falls out now would fall out in January.
+
+### 🌳 Get Outside: Under the Log and the Flowerpot
+
+Everything alive is under something today. Roll a log, lift a flat stone, tip up
+an empty flowerpot, peel back the leaf litter. Pill bugs curl into
+balls, worms go straight down, a centipede leaves fast. Count to ten, then put
+the log back the same way up.
+
+> 👶 **Infant Integration:** Kreston is 18 months and gets to the ground faster
+> than anyone, so this is his as much as hers. Hold his wrist over the pill bugs;
+> he will want to grab. Name what you see and he takes the words: bug, under,
+> gone.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: A Lantern Made of Ice
+
+Tonight is the longest night of the year. You answer it with ice and one small flame.
+
+**🧰 Complete Materials List:**
+- 1 large plastic tub or bucket, frozen overnight (freezer, or outside if it is below freezing)
+- 1 smaller tub or empty can, weighted with stones and taped centered inside it
+- Water
+- Evergreen sprigs, berries or leaves frozen in (optional)
+- 1 bowl of warm water, to release the ice
+- 1 battery tea light, or 1 real tea light and matches (adult)
+- 1 dish towel
+- Substitute if the freezer is full: the same thing in a plastic cup with a shot glass inside
+
+**📝 Step-by-Step Instructions:**
+1. Bring the tub in and stand it in the bowl of warm water for a minute. She holds the sides and feels it go slick.
+2. Splash warm water into the inner tub to loosen it, peel the tape off and lift it out, leaving a well down the middle.
+3. Turn it out onto the dish towel. It comes away as a thick ring of ice, heavier than she expects. Take the weight.
+4. Hold it up to the window. If you froze sprigs in, they hang inside and the light comes through green.
+5. Outside before dark, today before half past four. Set it on a step or a flat stone, off the path.
+6. Battery tea light into the well and she switches it on, or you light the real one while she watches from a step back.
+7. Everyone out. Lights off in the house for a minute, and tell her the nights get shorter from here.
+
+> 💡 **Tip:** If the ring cracks coming out, light it anyway. A cracked lantern throws better light than a whole one.
+
+### 🎯 Afternoon Alternatives
+- The cup-and-shot-glass version, made now for tomorrow.
+- Freeze berries into a flat tray of ice and hang it in a tree.
+- Draw the shortest day: one small sun and a lot of dark paper.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and the warmest place she will be today
+- Soft play if the pool is booked out with the holiday crowd
+- The library, a day early
+- Home and a warm bath if the dark has taken the fight out of everyone
+
+> 👶 **Kreston's Afternoon:** He swims too. At 18 months he walks down the steps
+> into the shallow end holding both your hands, and would rather do that forty
+> times than be carried. Twenty-five minutes, then out before he gets cold. Back
+> home he stays behind the door line while the lantern burns.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A creature she has watched is much harder to squash.**
+> Azlyn spent a minute this morning with her nose over a pill bug rolling itself
+> into a ball. Children stop stamping on things they have looked at for longer
+> than a second. Attention turns a bug into somebody with a life already in
+> progress: it was going somewhere, it lives under that log, it has a door. The
+> tube house makes the same point from the other end: she has built shelter for
+> an animal she has never met. Wrecking something you made a house
+> for takes an effort she has no reason to spend, and none of it needed a
+> lecture.
+
+> ⚠️ **Safety:** An open flame at toddler height and matches in the house are
+> today's hazards. Set the lantern back from the doorway and off the path, never
+> leave it burning with Kreston loose out there, and put the matches up high the
+> moment it is lit. If you picked sprigs and berries for the ice, nothing red
+> goes in a mouth. Winterberry and holly make a small child vomit, so they go
+> into the water and nowhere near Kreston. Ice on a pond or a deep puddle is
+> never safe to stand on, however thick it looks.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-356"></a>
+
+## 🌟 Day 356: Frost Patterns 🌟
+**📅 Wednesday, December 22, 2027**
+**Theme:** Water & Weather Wonders
+
+### 🌙 Prep Tonight
+> Put ten sheets of paper, a plate and a pencil on the table. Cut open a paper grocery bag for this afternoon if you have no dark paper.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Fog on the Cold Window
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Six Folds and One Cut (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Webs With Frost On Them (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Filling the Window With Frost (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Library** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Wiping the Table
+- **4:15–5:00 PM** — Quiet Play: The Paper Scraps Box
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Library Book, All the Way Through
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Fog on the Cold Window
+
+**🧰 You need:** the coldest window in the house · 1 dish towel.
+
+1. Both of you breathe on the glass until a patch of fog holds. Hers takes a few goes, because she blows instead of breathing out warm and slow.
+2. Draw in it with one finger. It fades from the edges in, so she has to keep making fog to keep a picture alive.
+3. Look at the outside of the glass. If frost has formed, put her finger against the inside over a crystal, a shape she cannot touch. Wipe the towel over it before you leave.
+
+### 🎨 The Main Event: Six Folds and One Cut
+
+**🧰 Complete Materials List:**
+- 10 sheets of plain paper
+- 1 plate, to trace circles round
+- 1 pencil
+- 1 pair of child scissors, and 1 adult pair
+- Masking tape
+
+**📝 Step-by-Step Instructions:**
+1. She traces round the plate with the pencil while you hold it still. Ten circles. She cuts hers with the child scissors and you speed through the rest with the adult pair, back out of reach between sheets.
+2. Fold a circle in half, then fold that half into three so it comes out as a narrow wedge. Show her once, slow, then let her fold her own however they land.
+3. She cuts notches into the folded edges with the child scissors. Triangles, half circles, a bite off the point. Anything still joined at the fold survives.
+4. Open it out. Six of everything, in every direction, and she did not aim for six.
+5. Keep going. Somewhere around the fifth one she stops copying yours and starts designing.
+6. Tape six of them to the window over this morning's fogged pane. The rest go in a pile for 1:00.
+
+> 💡 **Tip:** Her wedges come out lopsided and the snowflakes are fine anyway. Fold it for her and she stops opening them with any interest.
+
+### 🌳 Get Outside: Webs With Frost On Them
+
+Frost picks out every web in the neighborhood and hands you a morning of them.
+Look along fence rails, gate hinges, the dead stalks of last summer's plants, car
+mirrors, the corner of a shed. Frost on the silk turns an invisible thing into a
+white drawing. Find the middle, then the spokes, then the spiral, and trace it in
+the air with her finger.
+
+> 👶 **Infant Integration:** Kreston is 18 months and points at things to make you
+> look, which is the whole conversation at this age. Carry him along the fence
+> line and wait for him to point before you name anything. The word he wants is
+> *that*. Give him the real one back: web, frost, cold.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Filling the Window With Frost
+
+Everything she looked at this morning goes onto dark paper in white, and the window gets lit after dark.
+
+**🧰 Complete Materials List:**
+- Dark blue or black paper, 6 sheets (a cut-open paper grocery bag works)
+- 2 white crayons
+- 2 sticks of white chalk
+- Masking tape
+- The morning's paper snowflakes
+- 1 lamp, to stand by the window at dusk
+
+**📝 Step-by-Step Instructions:**
+1. Dark sheets spread over the table, one in front of each of you. White crayon first.
+2. She draws a web the way she saw it: the middle, then the spokes out to the edges, then the spiral round and round. Yours goes on your own sheet.
+3. Chalk over the top. Dragged on its side it lays down thick, and a finger smudges it into frost. Crayon lines stay sharp underneath.
+4. Next sheets are the six-sided ones. One line across the middle, then five more crossing at the same center, then she thickens the ends however she likes.
+5. Tape everything to the window, dark sheets and paper snowflakes together, from her reach downward. She decides what goes where and you tape where she points.
+6. Dark by half past four. Turn the big light off and stand the lamp on the floor by the window facing the glass.
+7. Coats on, out the front, and look back at your own lit window from the sidewalk before you come in.
+
+> 💡 **Tip:** White on dark reverses everything she knows about drawing, so her first sheet will be timid. Scribble one yourself with too much chalk to break the seal for her.
+
+### 🎯 Afternoon Alternatives
+- White crayon on dark paper and nothing else.
+- Chalk on the sidewalk if it is dry, and let the frost take it.
+- Cut more snowflakes and skip the drawing.
+- Tape the snowflakes to her bedroom window and light that one.
+
+### 🌳 Out Again: **The Library**
+- **The library**, every other week, and the last visit before the holidays
+- Ask at the desk for a book about snow and one about spiders
+- Soft play if the library is packed with the school holidays
+- A café with a window and the new book read once through
+- The park on the way home while the light holds
+
+> 👶 **Kreston's Afternoon:** He gets his own choice at the library, which at 18
+> months means whichever board book sits nearest the floor. Let Azlyn carry his
+> to the desk. He points at pictures and names them now and wants you to confirm
+> every one, so plan on saying *yes, dog* thirty times on the way home.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Symmetry and spirals turn up in her drawing once she's looked at a web.**
+> Hand a four-year-old paper on a normal day and you get a person, a house and a
+> sun. Hand her the same paper on the day she stood in front of a frosted web and
+> the marks change: lines out from one center, rings going round, six of
+> something. Children draw from a stock of shapes they have collected, and a
+> morning of looking hard at one thing adds to the stock. Folding a circle into
+> sixths puts the symmetry into her hands before her eyes have a name for it, and
+> her snowflakes will come out six-pointed for months without her knowing why.
+
+> ⚠️ **Safety:** The child scissors are hers and the adult pair goes back out of
+> reach between sheets, not down on the table while you fold the next one. Paper
+> scraps land on the floor by the handful and an 18-month-old puts them straight
+> in his mouth, so sweep between rounds and check under the table before he gets
+> down. The lamp on the floor puts a cord and a hot bulb where Kreston walks, so
+> run the cord along the baseboard and stand the lamp behind a chair. Hold both
+> their hands for the step out to the sidewalk after dark, and keep everyone off
+> the road side.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-357"></a>
+
+## 🌟 Day 357: Follow the Water 🌟
+**📅 Thursday, December 23, 2027**
+**Theme:** Water & Weather Wonders
+
+### 🌙 Prep Tonight
+> Save the newspaper and put it with the foil, a large tray and a cup by the sink. Set an orange aside for the peel.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Racing Two Drops Down the Glass
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The River Made of Foil (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Following It to the Drain (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Long Way Round (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Unpacking the Market Bag
+- **4:15–5:00 PM** — Quiet Play: The Drop on the Map
+- **5:00–5:45 PM** — 🛁 Wind-Down: Watching the Bath Empty
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Racing Two Drops Down the Glass
+
+**🧰 You need:** 1 window or a glass shower screen · 1 small cup of water · 1 teaspoon.
+
+1. Two fat drops onto the glass at the top, side by side, off the teaspoon. She picks which one is hers.
+2. Watch. They stall, they wander, then one swallows a smaller drop on the way past and takes off. Run it three times, and she calls the winner.
+3. Ask what makes a drop go faster. Take whatever she says and tell her there is a river on the table at 9:15.
+
+### 🎨 The Main Event: The River Made of Foil
+
+**🧰 Complete Materials List:**
+- 1 roll aluminum foil
+- 1 large tray with a lip, or a plastic storage tub
+- Newspaper, to scrunch into hills
+- 1 roll masking tape
+- 1 pitcher of water
+- Blue food coloring
+- Orange peel or small leaves, as boats
+- 1 cup, to sink in as a lake
+- 2 dish towels
+
+**📝 Step-by-Step Instructions:**
+1. One dish towel folded on the floor under one end of the tray, so the tray runs downhill. The second towel stays in your hand.
+2. She scrunches the newspaper into hills and lays them across the tray. Her mountains, her positions. Push the cup down among them, open end up, as the lake.
+3. Lay foil over the landscape and press it into every gap with her fingers. Press hard and a valley forms. Tape the foil round the rim.
+4. Blue coloring into the pitcher and a good shake of the handle to mix it.
+5. Pour slow at the high end and neither of you touch it. The water finds the lowest line, fills the lake and runs over the side.
+6. Drop a piece of orange peel in at the top and follow it with her finger a hand's width behind, out loud, no pushing. Three runs, three routes.
+
+> 💡 **Tip:** Rebuild the hills between runs and the river moves. Same tray, same water, different valley.
+
+### 🌳 Get Outside: Following It to the Drain
+
+Take the same idea out to the street, and pick a wet morning if you get one.
+Start at the roof edge, follow the gutter to the downspout and along the curb,
+past the leaves damming it, to the storm drain. She drops a leaf in and walks
+beside it. Ask where it goes next and leave the answer until 1:00.
+
+> 👶 **Infant Integration:** Kreston is 18 months and wants to be in every puddle
+> you pass, so put him in rain boots and let him have one. Stamping is his
+> version of following the water. He will bring you leaves for the curb, so take
+> each one and use it.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Long Way Round
+
+One paper drop with her name on it walks the loop she has watched all week, drawn big enough to stand on.
+
+**🧰 Complete Materials List:**
+- 1 flattened cardboard box
+- Crayons and markers
+- Blue paper, for the sea and the river
+- 1 pair of scissors (**adult only**) and masking tape
+- 1 sheet of blue or white paper, for the drop
+- A photo or two from the week's activities to tape on, printed if you can
+
+**📝 Step-by-Step Instructions:**
+1. Flatten the box on the floor. Cut the blue paper into a sea along one edge and a river running back to it. She tapes both down.
+2. Walk the loop out loud before she draws: sea, sun, cloud, roof, downspout, drain, river, sea again. Count the stops on her fingers.
+3. She draws each stop on the box with the crayons, in order, and you write the word beside it in marker.
+4. Cut the paper drop out and write her name across it. Roll a loop of tape onto the back so it lifts and sticks again.
+5. She walks the drop round the loop with a finger, saying each stop. Then round again faster, then backward.
+6. Tape the photos onto the stops they belong to. If nothing got printed, she draws them.
+7. Move the drop to where she thinks the real water is now and leave it for 4:15.
+
+> 💡 **Tip:** Let her put the drop somewhere wrong and leave it. She fixes it herself within the hour.
+
+### 🎯 Afternoon Alternatives
+- Draw the loop small, on one sheet, for the fridge.
+- Act it out: she is the drop and the room is the loop.
+- Tape the week's photos in a row and put them in order.
+
+### 🌳 Out Again: **Pick one**
+- **The market**, and she carries the list and one bag
+- The grocery store for whatever the holiday still needs, her pushing the cart
+- The park for half an hour on the way back
+- A walk to the storm drain again if it has rained since morning
+
+> 👶 **Kreston's Afternoon:** At the market he goes in the carrier or the stroller
+> and comes out at the quiet end; at 18 months a crowd is work and he tells you
+> before he melts down. Give him one soft thing to carry. He unpacks alongside
+> Azlyn at 4:00, so put the bread where he can reach.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Following something rather than catching it is a different kind of attention.**
+> Chasing a thing ends the second she has it in her fist. Following one has no
+> finish she can hurry, so she stays with it, and that is the harder skill and
+> the one that turns up later as sitting through an experiment or a chapter.
+> Azlyn tracked a scrap of orange peel down a foil valley with her finger a
+> hand's width behind it, and every part of the route counted. Sustained
+> attention at four runs in minutes rather than seconds, and it stretches
+> furthest when the thing she is watching keeps changing on its own without any
+> help from her.
+
+> ⚠️ **Safety:** Kreston can drown in the inch of water sitting in that tray, and
+> in a bath left full while you fetch a towel. Tip the tray out the moment the
+> last run is done, and never leave him alone with either. The floor round the
+> river run will be slippery. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>

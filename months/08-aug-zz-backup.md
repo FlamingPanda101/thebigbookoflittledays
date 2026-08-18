@@ -152,8 +152,9 @@ something that behaves like nothing else in the house.
 > sink; it sets in the trap. Let the tray dry and throw the powder away. Keep
 > the cornstarch box up high and out of his hands, since a lungful of loose
 > powder makes a 14-month-old cough hard. An August storm this size carries
-> lightning, so hold the five o'clock bath until the thunder has been gone
-> twenty minutes.
+> lightning, so nobody stands at a running faucet while the thunder is close.
+> Fill the bowls and the washcloth water between rounds of it, and leave any
+> bath until the storm has been gone twenty minutes.
 
 <div style="page-break-after: always;"></div>
 

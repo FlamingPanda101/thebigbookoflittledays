@@ -155,16 +155,16 @@ backward, from a run-up: the variation is hers to invent and yours to lose at.
 > if she is still testing it.
 
 > ⚠️ **Safety:** Tape strung across a doorway at head height is a hazard for a
-> baby who is pulling up on furniture. Kreston does not go through that doorway
-> while it is up, so gate it, shut it, or keep him in the room with you. Every
-> strip comes down and goes in the trash the moment the game ends, and the floor
-> gets swept before he crawls on it. Wet paper balls and torn tape both choke.
-> During a thunderstorm keep both children off the corded phone, out of the bath
-> and away from the sink until the thunder has been gone twenty minutes or more.
-> Fill the paint cups, the roasting pan and the washcloth bowl in one trip, and
-> let the dishes wait.
-> The day ends with warm washcloths and pajamas early instead of a bath. No open
-> windows and no open front door while you can still hear it.
+> baby who is pulling up on furniture. Kreston does not go through that
+> doorway while it is up, so gate it, shut it, or keep him in the room with
+> you. Every strip comes down and goes in the trash the moment the game ends,
+> and the floor gets swept before he crawls on it. Wet paper balls and torn
+> tape both choke. During a thunderstorm keep both children off the corded
+> phone, out of the bath and away from the sink until the thunder has been
+> gone twenty minutes or more. Fill the paint cups, the roasting pan and the
+> washcloth bowl in one trip, and let the dishes wait. The day ends with warm
+> washcloths and pajamas early instead of a bath. No open windows and no open
+> front door while you can still hear it.
 
 <div style="page-break-after: always;"></div>
 

@@ -1,0 +1,927 @@
+<a id="day-337"></a>
+
+## 🌟 Day 337: Building the Village 🌟
+**📅 Friday, December 3, 2027**
+**Theme:** Storybook Village
+
+### 🌙 Prep Tonight
+> Tip the recycling into a laundry basket by the door and stand the masking tape, the marker and the cereal-box card on top, with the craft knife well out of reach.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Two Rows and a Road Between
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Nine Boxes Become a Street (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Real Doors on a Real Street (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Signs Above the Shops (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: Moving Things Into the Houses
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath, Then a Book About a Town
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Two Rows and a Road Between
+
+**🧰 You need:** 1 roll masking tape · the basket of recycling · 1 permanent marker.
+
+1. Run two lines of tape down the living room floor, a long stride apart. That is the road, and she says where it starts and ends.
+2. She stands boxes along both sides in two rows facing each other. Leave the crooked ones crooked.
+3. Give her the marker to mark a door and a window on the front of each building, one window low enough that she has to kneel to look in. You cut along her marks at 9:15, so tell her that now.
+
+### 🎨 The Main Event: Nine Boxes Become a Street
+
+**🧰 Complete Materials List:**
+- 9–12 cardboard boxes and cartons in mixed sizes
+- 1 roll masking tape
+- Heavy scissors or a craft knife (**adult only**)
+- 1 permanent marker
+- Scrap paper and cereal-box card
+
+**📝 Step-by-Step Instructions:**
+1. Cut the doors on three sides so they swing, and the windows on her marks, including the one at ankle height. She stands back while you cut, and the knife goes out of reach between buildings.
+2. Fold cereal-box card into a peak for each roof and tape it on. She holds, you tape, or swap if she wants the tape.
+3. Hand her the marker. Bricks, curtains, a cat in a window, whatever she puts on a wall stays there.
+4. Tear scrap paper into awnings, a doorstep and a mat for the buildings that need them.
+5. Tape each building to the floor by one back corner so the street survives being walked past.
+6. Lie down on the road with your chin on the floor and look along it at her height. Ask which door she goes in first.
+
+> 💡 **Tip:** Leave one box uncut at the end of the row. She will want a building nobody has decided about yet, and it becomes three things before dinner.
+
+### 🌳 Get Outside: Real Doors on a Real Street
+
+Walk your block and look at nothing but doors. Front doors, side gates, a shed
+door, a mail slot with a flap. Count how many you pass between one corner and
+the next. First week of December, so wreaths are going up and packages lean
+against half the doors. Find a number 3 for today's date.
+
+> 👶 **Infant Integration:** Kreston is 17 months and kicks a ball with his
+> whole body behind it, so an empty carton travels the length of the road. Give
+> him two boxes of his own at the far end, well clear of the street. His words
+> are pairing up this month (*my one*, *that box*), so say the building names
+> out loud as Azlyn finishes them. On the walk he reaches for every gate latch.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Signs Above the Shops
+
+By 2:30 every building has a name, a number and a sign over the door.
+
+**🧰 Complete Materials List:**
+- The buildings from this morning
+- Paper strips and cereal-box card
+- Markers and crayons
+- 1 roll masking tape
+- A ruler or a straight piece of card
+
+**📝 Step-by-Step Instructions:**
+1. Walk the street with her and ask what each building is. Take the first answer she gives you. A bakery, a dog shop, Grandma's.
+2. One paper strip per building. She draws what the shop sells at one end, and you print the name along a line ruled with the straight edge.
+3. Tape each sign above its own door, at the height her finger lands on.
+4. Tear cereal-box card into squares against the edge of the ruler, one per building. She puts a number on every square.
+5. Tape a number by each door and say the whole address out loud: *the bakery, number four, this side of the road.*
+6. Send her down the street delivering a crayon to an address you call out. Name and number together, and she finds it on her own feet.
+
+> 💡 **Tip:** Her numbers will run 4, 7, 2, 9. Leave them. An address is a name to her this year.
+
+### 🎯 Afternoon Alternatives
+- One box, one sign, and stop there.
+- Draw the whole street flat on the back of a flattened box.
+- Give every building a color instead of a name.
+- Post scrap paper through the windows and fish it back out.
+
+### 🌳 Out Again: **Pick one**
+- **Meet a friend at the park**, and let her describe the street on the floor first
+- The park alone if nobody is free, for the swings while the light holds
+- A café with a window, counting shop signs the whole way there
+- A walk at dusk, when the lit windows show what is inside them
+
+> 👶 **Kreston's Afternoon:** At 17 months he copies any hands he can see, so
+> give him a paper strip and a crayon on the floor beside her. At the park he
+> goes for the ball and the slide steps and stays with both longer than a month
+> ago. He will take a run at the street tonight, so decide now whether the
+> buildings sleep on the floor or the table.
+
+### 🌍 Around the World: Storytellers, Everywhere 📖
+
+In Mali and Senegal a **griot** carries a family's whole history in memory and
+sings it back at weddings and namings. Japanese **rakugo** tellers kneel on a
+cushion with a fan and a folded cloth and play every character themselves.
+Irish **seanchaí** worked by the fire, and the good ones never told the same
+story twice.
+
+> **✨ Try it:** Cook something slow tonight, a peanut stew or a pot of soup,
+> and everybody at the table owes one story before they eat. Azlyn goes first,
+> because the youngest goes first.
+
+> *Did you know?* A griot can recite a family line back four hundred years.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Asking what happens in it beats asking what it is.**
+> She holds up a taped lump of cardboard and the question that arrives first is
+> *what is it*. She then has to squeeze everything she was doing into one word,
+> and *a house* is smaller than what was in her head. Ask what happens in it, or
+> who goes in the door, or where it is on the road, and she keeps building while
+> she talks. Researchers who record parents talking over children's drawings and
+> models find that open questions pull several times more language than naming
+> questions. You already do this on walks without noticing. Bring it to the
+> table.
+
+> ⚠️ **Safety:** The craft knife is adult-only and goes back out of reach
+> between cuts, on a shelf and not the arm of the sofa. Kreston is 17 months and
+> walking, so the cardboard offcuts and tape scraps come off the floor before he
+> is loose in the room, and he will flatten the street if you build it where he
+> walks. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-338"></a>
+
+## 🌟 Day 338: Who Lives Here 🌟
+**📅 Saturday, December 4, 2027**
+**Theme:** Storybook Village
+
+### 🌙 Prep Tonight
+> Empty the clothespins, the corks and the odd spoons into a tray and leave it on the table with the yarn and an old dish towel.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Bodies Before Faces
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Baker, the Bus Driver and the Dog (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Who's Out at Ten on a Cold Saturday (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Meeting in the Square (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Museum** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Wiping the Table Before Dinner
+- **4:15–5:00 PM** — Quiet Play: The Villagers on Her Own
+- **5:00–5:45 PM** — 🛁 Wind-Down: Everybody's Name, One More Time
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Bodies Before Faces
+
+**🧰 You need:** the tray of clothespins, corks, spoons and short tubes · fabric scraps or an old dish towel · 1 roll masking tape.
+
+1. Tip the tray out and let her sort the lot into people and not-people. One will be a dog and one a bus.
+2. Wrap a fabric scrap around each body and tape it at the back. The clothes tell them apart before a single face exists.
+3. Ask who each one is and write nothing down. Faces go on at 9:15, and she will have changed her mind twice by then.
+
+### 🎨 The Main Event: The Baker, the Bus Driver and the Dog
+
+**🧰 Complete Materials List:**
+- 10–12 clothespins, corks, wooden spoons and short cardboard tubes
+- Fine markers
+- Fabric scraps or an old dish towel
+- Yarn or thick wool, for hair
+- 1 roll masking tape
+- Scissors (**adult only**)
+
+**📝 Step-by-Step Instructions:**
+1. Start with the villager she cares about most. She draws the face and the eyes come out too big.
+2. Cut a short bundle of yarn for hair, hold it to the head and wind tape around it. You cut, and the scissors go back beside you each time.
+3. Cut fabric into aprons and coats for the ones with a job. A dish towel makes eight aprons and nobody misses it.
+4. Work down the line, asking what each villager does before she draws it. A baker gets a different face from a dog.
+5. Stand them along the table edge and count them. Any that topples gets a ring of tape around the base.
+6. Say every name out loud, in order, twice. She keeps those names all week.
+
+> 💡 **Tip:** Let the eyes land where she puts them. A villager with eyes on its chin is hers, and she can find it in a pile of twelve.
+
+### 🌳 Get Outside: Who's Out at Ten on a Cold Saturday
+
+Your street has a cast on a Saturday morning: someone scraping frost off a
+windshield, a dog walker in a hat, the mail carrier, a delivery van doing three
+doors at once. Stand at the end of the block and let her watch. Ask what each
+person is doing and whether the village has one yet.
+
+> 👶 **Infant Integration:** Kreston is 17 months and wants whatever is in her
+> fist, so give him one wooden spoon with a face on it and nothing smaller. He
+> is putting two words together this month, and a spoon that has become somebody
+> pulls them out of him. Let him walk the last stretch home, past every
+> driveway, at his speed.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Meeting in the Square
+
+A dozen villagers, one dish towel and one question, the whole afternoon on the
+floor.
+
+**🧰 Complete Materials List:**
+- The villagers from this morning
+- 1 clean dish towel or a tray, as the square
+- 4–6 small boxes and bottle caps, as benches and tables
+- Paper and 1 pencil, to write her answers word for word
+- The buildings from Friday, if they are still standing
+
+**📝 Step-by-Step Instructions:**
+1. Spread the dish towel in the middle of the floor. That is the square. Set the small boxes and bottle caps around it.
+2. Let her choose the question. *What did you do today*, *what do you like*, *who lives with you*. It stays the same for every villager, and she asks it.
+3. Bring the villagers over one at a time, out of the buildings if the street is still up. Each one answers in its own voice and sits down.
+4. Write every answer on the paper word for word with the villager's name beside it. Leave her grammar alone.
+5. Read the page back from the top once they are all sitting. She will correct you on two.
+6. Ask which two villagers are friends and let her move the benches to prove it.
+7. Leave the square set up. She comes back to it at 4:15 without being sent.
+
+> 💡 **Tip:** Take one villager yourself and answer her question in a voice. She hands you a character for the rest of the week.
+
+### 🎯 Afternoon Alternatives
+- Three villagers and one question, on the sofa.
+- Line them up by height and photograph the row.
+- Draw the square on a flattened box and stand them on it.
+- Post villagers through the bakery window.
+
+### 🌳 Out Again: **The Museum**
+- **The museum**, first Saturday of the month, hunting for people in the paintings
+- The library, if the museum is packed
+- The park, and let her get cold before the snack
+- Home early with the villagers, if the morning used her up
+
+> 👶 **Kreston's Afternoon:** At 17 months the museum floor interests him more
+> than the walls, so let him walk and follow. Point at one painting with a dog in
+> it and name the dog. Pictures of animals are where his words come from this
+> month, and twenty minutes inside is a full visit.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **The oldest teaching rituals put a child's question at the center.**
+> At a Passover seder the youngest child at the table asks four questions, and
+> the whole evening is the answer. The teaching runs through a child's question
+> by design, and the design is thousands of years old. Azlyn asking one question
+> of a dozen villagers is doing that same work: she holds a question steady and
+> collects what comes back, which is how a three-year-old learns that other
+> people have insides of their own. You wrote the answers down word for word,
+> and that is the other half of it. A question nobody records is a question
+> nobody meant, and she hears the difference.
+
+> ⚠️ **Safety:** Corks, bottle caps, clothespins and cut lengths of yarn are all
+> choke-sized for a 17-month-old, and this is the day that makes a dozen of them.
+> Sweep before Kreston goes down and count the villagers back into a box out of
+> his reach. Clothespin springs pinch small fingers. The scissors stay with you.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-339"></a>
+
+## 🌟 Day 339: Hills, River, Road 🌟
+**📅 Sunday, December 5, 2027**
+**Theme:** Storybook Village
+
+### 🌙 Prep Tonight
+> Flatten one large box for the hills to dry on and stand it under the table with the newspaper, the flour, the big bowl and an old towel.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: What the River Should Be Made Of
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Hills That Take All Day to Dry (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Ice on the Puddles, Water Underneath (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Moving Day in the Village (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks, and Kreston's Spoon
+- **4:15–5:00 PM** — Quiet Play: Driving Cars Down the New Road
+- **5:00–5:45 PM** — 🛁 Wind-Down: Long Bath, Then the Map Book
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: What the River Should Be Made Of
+
+**🧰 You need:** aluminum foil · a blue scarf or blue paper · plastic wrap · 1 gray cardboard strip.
+
+1. Lay all four out on the floor and ask her which one is water.
+2. Let her handle every one. Crumple the foil and let it spring back, run a hand down the scarf, hold the wrap to the window.
+3. She picks the river, then the road. Put both somewhere they cannot get pasted and tell her the land goes down at one.
+
+### 🎨 The Main Event: The Hills That Take All Day to Dry
+
+**🧰 Complete Materials List:**
+- Newspaper, a thick stack
+- 1 roll masking tape
+- 1 cup all-purpose flour and 2 cups water, mixed to a paste
+- 1 large mixing bowl
+- 1 flattened large box, as the base
+- 1 old towel and 1 wet washcloth
+
+**📝 Step-by-Step Instructions:**
+1. Old towel over the table first. Stir the flour and water with your fingers until the paste runs off them in a ribbon.
+2. She crumples newspaper into balls, as tight as her hands manage, and tapes three or four into a mound. Make two or three mounds of different sizes and tape each to the box.
+3. Tear newspaper into strips the width of her hand. Tearing is her job and it takes longer than you expect.
+4. Show her the dip and the wipe: strip through the paste, pulled between two fingers, laid over the hill, smoothed flat. Two layers all over, three on the steep bits.
+5. Keep the wet washcloth on the table. Her hands go into the bowl to the wrist, and that is fine as long as they get wiped before her face does.
+6. Carry the base somewhere warm and out of Kreston's path. Nobody touches the hills until morning.
+
+> 💡 **Tip:** Thin paste, thin layers. A hill under six wet layers stays soft for three days and starts to smell.
+
+### 🌳 Get Outside: Ice on the Puddles, Water Underneath
+
+The first hard freeze of the month puts a skin on every puddle. Find one and
+let her press the middle with her boot heel: it gives, cracks white across, and
+there is still water underneath. Hunt for more ice at the edge of a drain and
+frost at the foot of a north wall.
+
+> 👶 **Infant Integration:** **Kreston turns 18 months today.** Pretend play
+> starts around now, so watch what he does with a torn strip of newspaper before
+> he eats it: he may feed it to a toy or hold it to his ear. Give him a dry pile
+> at the far end of the room with a bowl and a spoon. Mark the day at breakfast.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Moving Day in the Village
+
+The land goes down this afternoon and every building and villager moves onto it.
+
+**🧰 Complete Materials List:**
+- Aluminum foil
+- Blue paper or a blue scarf
+- Gray cardboard strips, for the road
+- A green towel or green paper, for the field
+- 1 roll masking tape
+- The buildings and the villagers
+
+**📝 Step-by-Step Instructions:**
+1. Clear the floor and pull up Friday's tape road together. The village is moving, and she carries the first building off.
+2. Unroll a long piece of foil and pinch both edges so it holds a bend. That is the river, and she decides where it curves.
+3. Lay the blue paper or the scarf under the foil, or alongside it, wherever more water belongs. Tape both ends down so nobody skids.
+4. Run the gray cardboard strips beside the river as the road and tape them down. Leave a gap where she wants the bridge and lay one strip across.
+5. Spread the green towel out as the field on the far bank and let her stand on it in socks.
+6. Move the buildings on one at a time, each where she says, then the villagers. Nothing goes back where it was yesterday.
+7. Get down on the floor at the end and travel the road at her eye level.
+
+> 💡 **Tip:** She will ask about the hills. Leave the patch of floor they are going on tomorrow empty.
+
+### 🎯 Afternoon Alternatives
+- Foil river only, straight down the hallway.
+- Draw the river and the road on a flattened box instead.
+- Sort the villagers by which side of the river they live on.
+
+### 🌳 Out Again: **Pick one**
+- **A long walk with the stroller**, the full loop, hills drying at home
+- The duck pond, to see how a real river edge meets the land
+- The park before the light goes, which now means before four
+- A drive to somewhere with a bridge, and stand under it
+
+> 👶 **Kreston's Afternoon:** He is 18 months today and the village sits at his
+> height, so he wants to be in it. Give him the green towel and three villagers
+> in a far corner as his own patch, plus a spoon and a bowl, and see whether he
+> feeds one.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Her hands know a sorting rule she cannot say yet.**
+> Azlyn ran a hand down the scarf, crumpled the foil, held the wrap to the
+> window, and then picked the foil for the river. Ask her why and you get
+> *because*. The rule was in her hands before it reached her mouth, and at three
+> that is the usual order. Color she can say and act on at the same time, since
+> color carries across a room. Material is a bundle you have to handle: weight,
+> temperature, how it bends, the noise it makes, whether it holds a crease. A
+> three-year-old who can recite a rule about wood will still drop a wooden spoon
+> in with the plastic ones. Every crumple this morning fed her hands, and the
+> words come after.
+
+> ⚠️ **Safety:** Flour paste and wet newspaper pulp are a choking risk and
+> Kreston is 18 months today, so the bowl stays on the table and never on the
+> floor. Wash both sets of hands before he goes down, and wipe paste off a hard
+> floor while it is still wet, because it is slick underfoot.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-340"></a>
+
+## 🌟 Day 340: The Book of the Village 🌟
+**📅 Monday, December 6, 2027**
+**Theme:** Storybook Village
+
+### 🌙 Prep Tonight
+> Put four sheets of printer paper, about twelve inches of string and a sharp pencil on the table, and clear a low shelf for the book to live on.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Threading the Book Together
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Her Story, Word for Word (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Things Winter Didn't Take (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The House You Can Stand Up In (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Napkins
+- **4:15–5:00 PM** — Quiet Play: Reading Her Own Book Alone
+- **5:00–5:45 PM** — 🛁 Wind-Down: Her Book, Read Out Loud at Bedtime
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Threading the Book Together
+
+**🧰 You need:** 4 sheets of printer paper · about 12 inches of string · 1 sharp pencil.
+
+1. Fold all four sheets in half together and let her run a thumbnail down the crease twice, hard.
+2. Open the stack flat and push the pencil point through the fold in two places, a hand apart. She pushes, you hold the paper underneath.
+3. Thread the string down one hole and up the other and tie it outside. Eight pages and a knot. Leave it shut until 9:15.
+
+### 🎨 The Main Event: Her Story, Word for Word
+
+**🧰 Complete Materials List:**
+- The book from this morning: 4 folded sheets and about 12 inches of string
+- Crayons and markers
+- 1 pencil, for you
+- The villagers, within her reach
+- Your phone, for a photo of every page
+
+**📝 Step-by-Step Instructions:**
+1. Sit down with the book open at the first page and stand two or three villagers on the table where she can reach them. Ask what happened to them in her village, then wait out the first silence.
+2. Write her opening sentence across the top of the page in pencil, word for word. Her order, her wrong verbs, nothing tidied.
+3. Read it back before she draws. She hears it, adds to it, and the addition goes on the same page.
+4. She draws underneath while your hands stay still. Do not suggest what to draw and do not name what turns up.
+5. One sentence a page. Stop when she stops, even at page three, and leave the rest empty.
+6. Ask what the book is called, print the title on the front, and photograph every page. Paper books this size get sat on.
+
+> 💡 **Tip:** Improve one of her sentences and she stops handing them over. Take it down the way she says it, tangled verbs and all.
+
+### 🌳 Get Outside: The Things Winter Didn't Take
+
+Walk the block hunting for what is still standing in December: rose hips, pine
+cones, the dry heads of goldenrod and Queen Anne's lace, acorn caps, one green
+fern in the shelter of a wall. Bring back one thing for each page she filled and
+lay them on the shelf beside the book.
+
+> 👶 **Infant Integration:** Kreston is 18 months and wants the crayons the
+> moment they come out, so fold him a sheet of his own and give him one fat
+> crayon at the other end of the table. He holds it in a fist, makes one mark,
+> then looks up at you. Say back what he made.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The House You Can Stand Up In
+
+One building gets rebuilt at her size this afternoon, with a counter she can
+hand things through.
+
+**🧰 Complete Materials List:**
+- The dry hills from Sunday
+- 1 very large box, or 4 dining chairs and a bedsheet
+- 1 roll masking tape
+- 1 permanent marker
+- 1 shoebox, as the counter
+- Bottle caps, as coins
+- 1 tray and 1 dish towel
+
+**📝 Step-by-Step Instructions:**
+1. The hills are dry. She carries them over and stands them on the far bank before anything else moves, and then picks which building gets made big. She will pick the shop, and if she picks Grandma's you build Grandma's.
+2. Stand the very large box on end with one side open and cut a serving hatch in one side at her chest height, or set four dining chairs in a square and drape the bedsheet over their backs, one gap left as the window.
+3. On the sheet version, tape the sheet to the chair backs at all four corners so the roof holds with nothing sitting on top of it.
+4. Wedge the shoebox in the window as the counter and write the shop name across the front, the name it carries on the street.
+5. Bottle caps are the money. Give her ten, keep ten, and come to the window as a customer with no idea what anything costs.
+6. She serves on the tray and wipes the counter with the dish towel between customers.
+7. Get everybody in the house to the window once. She will not let you leave without buying something.
+
+> 💡 **Tip:** Buy the wrong thing. Ask for six of something she has one of, and let her work it out.
+
+### 🎯 Afternoon Alternatives
+- One sheet over the dining table and a shoebox counter under it.
+- Sell to the villagers instead of to people.
+- Sort the bottle caps into piles and price three things.
+- Read her book inside the big house and build no shop at all.
+
+### 🌳 Out Again: **Pick one**
+- **The riverside path**, to see what a real river does with a bend
+- The park, gloves on, twenty minutes and home
+- The duck pond, counting how many are still there in December
+- A walk to the mailbox to mail something she chooses
+
+> 👶 **Kreston's Afternoon:** At 18 months he takes a jar lid to the window and
+> holds it up, because he has watched Azlyn do it four times with a bottle cap.
+> Buy from him too. On the riverside path he wants to walk the whole way and
+> stops at every puddle, so allow twice the time and bring the stroller home
+> empty.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Writing her words down shows her that talk can be kept.**
+> Azlyn said a sentence at 9:20 and it was still there at bedtime, in your
+> pencil, in her words. That gap between a thing said and a thing kept is the
+> reason writing exists, and she met it head on this morning. Three-year-olds
+> treat speech like weather: it happens, then it is over. Hearing her own
+> sentence come back off the page twice, unchanged, teaches her that marks hold
+> meaning still. She will start asking you to write things down after a day like
+> this, on receipts and envelopes and the back of your hand. Say yes every time.
+> The asking is the skill.
+
+> ⚠️ **Safety:** A bedsheet over four chairs comes down on whoever is under it,
+> and Kreston is walking. Nothing on the roof, no books on top, tape at the
+> corners and nothing heavier than that. Stay in the room the whole time he is
+> inside it. Twenty bottle caps on the floor are twenty choke-sized objects for
+> an 18-month-old, so count them out, count them back into the tin, and give him
+> a jar lid to shop with instead of a cap.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-341"></a>
+
+## 🌟 Day 341: The Story That Rolls Past 🌟
+**📅 Tuesday, December 7, 2027**
+**Theme:** Storybook Village
+
+### 🌙 Prep Tonight
+> Empty a shoebox or a cereal box, find two cardboard tubes and stand them on the table with the tape and markers. Pack the swim bag tonight.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Four Scenes on One Strip
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Story Box You Wind (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Four Things That Happen Before the Corner (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Three Showings and a Ticket Each (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Hanging the Wet Swimsuits Up
+- **4:15–5:00 PM** — Quiet Play: Winding It Through Again on Her Own
+- **5:00–5:45 PM** — 🛁 Wind-Down: Two Books and Warm Hair
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Four Scenes on One Strip
+
+**🧰 You need:** 4 sheets of paper · 1 roll masking tape · markers.
+
+1. Tape the four sheets end to end into one long strip, taping the back so the joins lie flat. She holds the ends.
+2. Ask her for four things that happen in her village story, in order, one to a sheet, left to right.
+3. She draws all four with the markers. Big shapes and few of them: the window in the box is smaller than the sheet. Tell her before she starts.
+
+### 🎨 The Main Event: The Story Box You Wind
+
+**🧰 Complete Materials List:**
+- 1 shoebox or cereal box
+- 2 cardboard tubes, or 2 pencils
+- The strip: 4 sheets taped end to end and drawn on this morning
+- Heavy scissors or a craft knife (**adult only**)
+- 1 roll masking tape
+- Markers
+
+**📝 Step-by-Step Instructions:**
+1. Cut a window out of the front of the box, a little narrower than the strip is tall. She stands back, and the knife goes away the moment you stop.
+2. Push a hole through the top and bottom of the box on the left, and a second pair on the right. Stand a tube in each pair with both ends sticking out.
+3. Tape one end of the strip to the left tube and the other to the right, then wind it all onto the right one.
+4. Turn the bottom of the left tube and watch the first picture cross the window. Hand it over and let her turn it.
+5. She tells the story while she winds. The first run goes too fast, the second lands.
+6. Markers: she draws the front of the box and names it, and the name goes above the window.
+
+> 💡 **Tip:** Winding and talking at once is two jobs. Wind it for her the first couple of times.
+
+### 🌳 Get Outside: Four Things That Happen Before the Corner
+
+Walk to the corner and pick out four things on the way, in order: the gate, the
+dog behind it, the drain, the red car. Say the four back at the corner while
+she counts them on her fingers. Cold enough to see your breath, so add that if
+she wants. On the way home she tells the same four backwards.
+
+> 👶 **Infant Integration:** Kreston is 18 months and pretend play is starting,
+> so give him a spare cardboard tube and watch what he does before he chews it.
+> He may hold it to his eye or talk down it. He is naming what he sees this
+> month, so let him stand at the box while Azlyn winds and say the pictures out
+> loud.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Three Showings and a Ticket Each
+
+Three showings this afternoon, and every audience owes her one thing they
+noticed.
+
+**🧰 Complete Materials List:**
+- The story box
+- Paper tickets and 1 marker
+- 2 chairs, set out as an audience
+- 1 flashlight or a lamp
+- Your phone, for a video call to Joseph
+
+**📝 Step-by-Step Instructions:**
+1. Set the two chairs facing the box, aim the flashlight or the lamp at the window, and turn the big light off if the room goes dark enough.
+2. She makes the tickets, one per audience member, and takes them back at the door.
+3. First showing: you and Kreston in the chairs. She winds and talks. At the end, say back one exact thing you noticed, with the picture and her own word in it.
+4. Second showing: the villagers, the stuffed animals, anybody who can be talked into a chair. Same ticket, same rule about noticing.
+5. Third showing: call Joseph and prop the phone on a chair. You hold the light, she runs the box, and he asks one question at the end.
+6. Ask which showing was the best and take her answer at face value.
+7. Leave the box and the tickets out for 4:15.
+
+> 💡 **Tip:** Tell the audience their line before the show starts, so they know they owe her a detail. Adults freeze and say *lovely* otherwise.
+
+### 🎯 Afternoon Alternatives
+- One showing, for you, and stop there.
+- Draw a second strip and swap it into the same box.
+- Shadow puppets on the wall with the flashlight instead.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, the weekly one, and warm showers after
+- Indoor play, if the pool is closed for a swim meet
+- The library, a day early, for a book about a town
+- A warm café and the story box on the table
+
+> 👶 **Kreston's Afternoon:** At 18 months he walks the poolside and that is the
+> risk, so he goes in your arms from the changing room to the water. In the pool
+> he wants to do what she does, which today means jumping off the side into your
+> hands. Twenty minutes and he is cold.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **One noticed detail does more for her than a round of applause.**
+> *That was great* tells Azlyn you were in the room. *The dog went past the
+> window twice, and the second time it was raining* tells her you watched, and it
+> hands her words for what she did that she can use again tomorrow. Children
+> given feedback about the work stay with hard things longer than children told
+> they are clever, because clever is a verdict and it can be lost. You do not
+> have to enjoy the show. Naming one true detail out of it is the part she is
+> listening for, and she will run the whole thing again to get another one.
+
+> ⚠️ **Safety:** Swimming with a three-year-old and an 18-month-old: both
+> children stay inside your arm's reach in the water the whole time, and
+> armbands, rings and floats are toys, never safety equipment. Indoors, the
+> craft knife is adult-only and goes away between cuts. The tube ends sticking
+> out of the story box sit at Kreston's eye height when he walks past, so stand
+> the box against a wall when nobody is winding it.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-342"></a>
+
+## 🌟 Day 342: Words Only 🌟
+**📅 Wednesday, December 8, 2027**
+**Theme:** Storybook Village
+
+### 🌙 Prep Tonight
+> Clear the floor in front of the sofa, leave a blanket and two cushions on it and everything else out of the room, and put the library bag by the door.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Sofa, a Blanket and No Toys
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Big Voice, the Squeaky Voice, the Whisper (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Giving Real Houses to the Villagers (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Walking the Story Room to Room (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Library** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Library Books Straight Out of the Bag
+- **5:00–5:45 PM** — 🛁 Wind-Down: Three New Library Books
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Sofa, a Blanket and No Toys
+
+**🧰 You need:** 1 blanket · 2 cushions · 3 wooden spoon villagers from Saturday, or any 3 toys.
+
+1. Anything that is not the blanket, the cushions or the three villagers goes out of the room. She carries most of it, and the carrying is half the activity.
+2. Blanket over the two of you on the sofa, cushions behind your backs. Sit there a full minute doing nothing, which will feel long to both of you.
+3. Stand the three villagers on the arm of the sofa and ask which one talks loudest. Do not let her demonstrate. That starts at 9:15.
+
+### 🎨 The Main Event: The Big Voice, the Squeaky Voice, the Whisper
+
+**🧰 Complete Materials List:**
+- 3 wooden spoon villagers from Saturday, or any 3 toys
+- 1 blanket
+- 2 cushions
+- Nothing else, on purpose
+
+**📝 Step-by-Step Instructions:**
+1. Pick one short scene and keep it all morning: two villagers meet on the road and one of them has lost something. Three lines each.
+2. Stand the two cushions on end a hand apart. The villagers come out from behind them, which gives her somewhere to bring them from.
+3. Run the scene three times over: the big voice, then the squeaky voice, then the whisper. You take one villager, she takes the other.
+4. Do the whisper version under the blanket, both of you, heads close. A whisper needs a small space to work in.
+5. Ask which voice belongs to which villager. She decides, and her decision holds for the rest of the week.
+6. Sit back and let her run the whole scene on her own. Stay out of it unless she hands you somebody.
+
+> 💡 **Tip:** Do the worst voice you have. The effort is the part she copies, and a parent who commits to a squeaky voice buys another ten minutes of this.
+
+### 🌳 Get Outside: Giving Real Houses to the Villagers
+
+Take the three villagers out in a coat pocket and find each one a real house on
+your street. The baker gets the one with the red door, the dog lives where the
+gate is. She has to say why, and the reason will be the color of something.
+Knock on nothing. December has the front rooms lit by half past three, and the
+walk home from the library comes back down this street, so she gets to see which
+of her houses has a lamp on.
+
+> 👶 **Infant Integration:** Kreston is 18 months and voices are the best thing
+> in the house today. He hands you a villager and waits for it to talk, then
+> takes it back and tries the noise himself. Give him a wooden spoon villager of
+> his own for the whole morning, nothing cork-sized. Pretend play is starting this month, and a toy that has been
+> talking all morning is the one he puts to bed later.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Walking the Story Room to Room
+
+The house takes village names this afternoon and she walks the whole story
+through it on her own feet.
+
+**🧰 Complete Materials List:**
+- Scrap paper or sticky notes
+- 1 roll masking tape
+- 1 marker
+- The three villagers
+
+**📝 Step-by-Step Instructions:**
+1. Go around the house together and let her name every room. The kitchen is the bakery, the hall is the road, the bathroom is the river.
+2. Write each name on a scrap in marker and tape it up at her height, where she can see it from inside the room.
+3. Walk the story through, one room per scene, carrying the villagers and doing the voices from this morning.
+4. Second run, and she leads it. You follow her and take whichever villager she gives you.
+5. Add a room she skipped. Ask what happens in there and let the story grow a part it did not have at lunchtime.
+6. Leave the labels up overnight. The house is still the village at breakfast, and she will check.
+
+> 💡 **Tip:** Let her name a room after a person if she wants to. Grandma's is a place to her, the same as the bakery, and the story works fine with it in.
+
+### 🎯 Afternoon Alternatives
+- Label two rooms and stop there.
+- Tell the whole story sitting under the dining table.
+- Give the story to a phone call and let her tell it down the line.
+- Draw the house from above and mark the rooms on the drawing.
+
+### 🌳 Out Again: **The Library**
+- **The library**, and let her ask the desk for a book about a village
+- Indoor play, if the library is full of a school visit
+- The park on the way home, twenty minutes in the cold
+- A café with the new books and hot chocolate
+
+> 👶 **Kreston's Afternoon:** At 18 months he wants the board books off the low
+> shelf, all of them, one at a time. Let him. He is past twenty words and the
+> library is where a lot of them come from, so name what he points at instead of
+> asking him to name it. Let Azlyn choose his book and carry it to the desk.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Winter morning light is the strongest signal her body clock gets.**
+> Azlyn goes out at 10:30 whatever December is doing, and that hour is worth more
+> than the walking in it. Light in the first half of the day is the main input
+> her body clock runs on, and an overcast December morning outdoors still hands
+> her many times the light of a lit kitchen. It pulls bedtime earlier and holds
+> it there, which is the difference between 7:15 and a fight at 8:00. The rest of what she gets out there is her whole body moving: balance,
+> judging distance, her own sense of what is too high. You pay twenty minutes of
+> hats, boots and one argument for it, and on the days that turns into a fight,
+> fifteen minutes and home still counts.
+
+> ⚠️ **Safety:** Cork, clothespin and bottle-cap villagers are choke-sized for an
+> 18-month-old, which is why this morning runs on the wooden spoon ones. Kreston
+> gets a spoon villager or a full-size toy, never a cork, a cap or a cut length
+> of yarn, and all three come back into their box before he is loose in the room.
+> Stay under the blanket with her the whole time it is over both your heads, and
+> take it off the pair of you the moment the whisper scene ends.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-343"></a>
+
+## 🌟 Day 343: The Dark Part of the Story 🌟
+**📅 Thursday, December 9, 2027**
+**Theme:** Storybook Village
+
+### 🌙 Prep Tonight
+> Put every candy wrapper, clear folder and freezer bag in the house on the table with the wax paper, and check the batteries in the flashlight and tea lights.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Everything You Can See Through
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Windows That Light Up From Inside (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Darkest Bit of the Walk (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Lights Out in the Village (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Putting the Cold Things Away
+- **4:15–5:00 PM** — Quiet Play: The Village With One Flashlight
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Week's Photos, Then the Village Book
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Everything You Can See Through
+
+**🧰 You need:** wax paper · candy wrappers · 1 clear plastic folder · 1 freezer bag · 1 flashlight.
+
+1. Spread the lot on the floor by the window and let her hold each piece up to the light.
+2. Shine the flashlight through each one onto your hand and let her name the color.
+3. Two piles: the ones you see through and the ones that turn the light a color. She decides which pile the freezer bag goes in.
+
+### 🎨 The Main Event: Windows That Light Up From Inside
+
+**🧰 Complete Materials List:**
+- 4 buildings she picks off Friday's street, or any 4 cardboard boxes
+- Wax paper, candy wrappers, 1 clear plastic folder, 1 freezer bag
+- Heavy scissors or a craft knife (**adult only**)
+- 1 roll masking tape
+- 1 permanent marker
+- 1 flashlight
+- 4 battery tea lights, or the flashlight carried house to house
+
+**📝 Step-by-Step Instructions:**
+1. She walks the street and picks the four buildings that get lit, then marks where the new windows go with the marker, small ones, two or three a building. Any bigger and the wall stops holding up.
+2. Cut them out on her marks. She stands back, and the knife goes out of reach the moment each building is done.
+3. She tapes wax paper or a wrapper behind each window from the inside, right around the edge so the light stays in.
+4. Put the flashlight inside after every window and let her look. Wrappers throw the strongest color, wax paper the most light.
+5. The clear folder makes a window you can see the villagers through, the freezer bag a foggy one. One of each, on the buildings she picks.
+6. Stand all four back on the street with a tea light in each, switched off until one o'clock.
+
+> 💡 **Tip:** Alternate the wrappers with wax paper. A street of red wrappers looks like a darkroom.
+
+### 🌳 Get Outside: The Darkest Bit of the Walk
+
+The sun sits low all morning and the shadows are long at eleven. Hunt for the
+darkest place on your route: under the evergreens, the north side of a wall
+where the frost never lifted, the gap between two garages. Stand in it and be
+quiet a moment, then find the brightest spot and stand in that. Ask which one
+she would put a house in.
+
+> 👶 **Infant Integration:** Kreston is 18 months and a flashlight is the best
+> object in the house today, so give him one of his own and let him point it at
+> the ceiling. He is naming what he sees, and a beam landing on the cat is worth
+> two new words. Keep him at the table end while the cutting happens.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Lights Out in the Village
+
+The big light goes off at one o'clock and stays off until the story is over.
+
+**🧰 Complete Materials List:**
+- The lit village
+- 1 flashlight
+- 1 blanket for the floor
+- A snack and a drink in a lidded cup
+- Her book from Monday and her story box from Tuesday
+- Your phone, for the week's photos
+
+**📝 Step-by-Step Instructions:**
+1. Blanket down on the floor beside the road with the snack and the cup on it, so nobody stands up once it starts.
+2. Let her switch the four lit buildings on one at a time, then turn the big light off. The rest of the street stays dark, the way a street does. Sit still a minute while your eyes catch up.
+3. She reads her book from Monday out loud, page by page, from memory, holding the flashlight herself.
+4. She winds the story box through once in the dark with the flashlight on the window.
+5. Then the last story of the week, told and not read, with the frightening part left in: the dark, the wolf, the one who got lost. Keep your face easy.
+6. Look through the week's photos on your phone with the village still lit.
+7. Count the tea lights back into their box and put them up high while she watches.
+
+> 💡 **Tip:** Do not soften the scary part to nothing. She asked for the wolf, and a wolf in a lit cardboard house with you beside her is a safe wolf.
+
+### 🎯 Afternoon Alternatives
+- One building, one tea light, under the dining table.
+- Take the flashlight into the closet and read in there.
+- Line the lit buildings along the windowsill for the street.
+
+### 🌳 Out Again: **Pick one**
+- **The grocery store**, and let her pick what goes in the lidded cup
+- The park while the light lasts, which today means leaving by three
+- A drive to look at the houses with their lights up
+- The hardware store, for batteries and a look at the flashlights
+
+> 👶 **Kreston's Afternoon:** At 18 months he pushes the cart handle and puts
+> things in it, eleven of which you did not want. Give him one job: the apples,
+> into the bag, one at a time. He copies a whole sequence now and minds being
+> left out of it. Home before dark.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **She asks for the wolf again because she already knows how it ends.**
+> She will want the same story tomorrow night, wolf and all. A story she has
+> heard before arrives with its ending attached, so she can walk into the dark
+> middle of it holding the safe end in her other hand. Repetition lets her take
+> fear in a dose she sets herself, and a three-year-old who sets the dose will go
+> back for a bigger one.
+> Researchers who study frightening play describe the same mix in the same face:
+> dread and delight, in a child who knows what is coming and wants it anyway. She
+> will still look up at you at the worst line, so keep your face easy and tell it
+> the same way twice.
+
+> ⚠️ **Safety:** Battery tea lights only. No candle, no match, no real flame
+> inside a cardboard building. The button batteries inside tea lights and small
+> flashlights are a swallowing emergency for an 18-month-old, so tape the
+> battery covers shut, count the lights in and out, and put them away high the
+> moment you finish. The craft knife is adult-only and the scissors stay with
+> you.
+
+<div style="page-break-after: always;"></div>

@@ -1,0 +1,950 @@
+<a id="day-344"></a>
+
+## 🌟 Day 344: The Ones Who Didn't Leave 🌟
+**📅 Friday, December 10, 2027**
+**Theme:** Animal Kingdom
+
+### 🌙 Prep Tonight
+> Stand the lard or shortening out of the fridge to soften, put the pinecones, the string and a saucepan beside it, and move a cup of frozen peas to the fridge for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: What They Can Eat and What They Can't
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Feeding the Ones Who Didn't Leave (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Ten Still Minutes by the Feeder (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Sleeps, Leaves or Stays (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: The Seed Jar
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Bird Book
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: What They Can Eat and What They Can't
+
+**🧰 You need:** 2 paper plates · 1 marker · a handful of birdseed · a handful of rolled oats · half an apple · 1 slice of bread.
+
+1. Write **YES** on one plate and **NO** on the other, big enough to read across the table.
+2. Hand her the seed, the oats and the apple one at a time. Then the bread, which goes on NO: it fills a bird and feeds it nothing.
+3. Ask what a small bird eats in December once the bugs are gone, then tell her you are fixing that at 9:15.
+
+### 🎨 The Main Event: Feeding the Ones Who Didn't Leave
+
+**🧰 Complete Materials List:**
+- 1 cup lard, suet or vegetable shortening (peanut butter works, check allergies first)
+- 2 cups birdseed, or rolled oats plus sunflower seeds and chopped unsalted nuts
+- 4–6 pinecones, or cardboard tubes and empty yogurt pots
+- 1 ball of string, cut into arm-length pieces
+- 1 small saucepan and a wooden spoon
+- 1 apple, halved
+- Scissors (adult only)
+- 2 paper plates and a spoon for the seed
+
+**📝 Step-by-Step Instructions:**
+1. Tie string around each pinecone before anything gets sticky, a double knot under the top scales, and trim the ends. For pots and tubes, you make the holes and thread the string.
+2. Melt the fat in the saucepan over a low burner until it runs clear, stir once with the wooden spoon and take it off the heat. She stays at the table for this.
+3. Tip the seed onto one paper plate. You stir it into the pan off the heat until the spoon stands up on its own, then set it down to cool.
+4. Once the pan is warm and no hotter, she presses the mix into the pinecone scales and packs the pots and tubes full.
+5. Roll each loaded feeder in the spare seed on the second plate, then twenty minutes in the fridge to set hard.
+6. Hang them where you can both see them from a window and wedge the apple halves onto a twig alongside. She picks the tree.
+
+> 💡 **Tip:** Hang one within a few feet of a bush. Chickadees will not cross open ground to a feeder with nowhere to bolt to.
+
+### 🌳 Get Outside: Ten Still Minutes by the Feeder
+
+Walk the block first and get the cold into her, then sit on the step under the
+feeders. Ten minutes of not moving. Nothing comes for the first five. Then a
+chickadee drops in and leaves with one seed, or a junco works the ground
+underneath. Whisper the tally: sparrows, a crow going over, the squirrel who
+found it first.
+
+> 👶 **Infant Integration:** Kreston is 18 months with twenty-odd words. Give
+> him a spare pinecone to carry while the feeders get made, and he points at the
+> window when something lands and says *bird*. On the step, sit him on your knee
+> facing out for two still minutes rather than ten.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Sleeps, Leaves or Stays
+
+Three trays, three words, and every animal in the house lands in one of them by
+2:30.
+
+**🧰 Complete Materials List:**
+- 3 shallow trays, baking sheets or box lids
+- Every toy animal in the house
+- An old magazine, catalog or seed flyer for pictures
+- Blunt scissors and a glue stick
+- Paper and crayons for the drawings
+- 1 marker for the three labels
+
+**📝 Step-by-Step Instructions:**
+1. Trays in a row. Write **SLEEPS**, **LEAVES** and **STAYS** on three paper strips with the marker and let her set one in each tray.
+2. Give her the three words in one sentence: some animals sleep underground until spring, some fly south, some stay right here.
+3. Tip the toy animals out and let her sort. Leave the wrong ones where she puts them and ask where that animal would be tonight.
+4. She cuts animals out of the magazine with the blunt scissors, glues them onto paper and adds them to a tray.
+5. The ones with no toy and no picture, she draws: squirrel, frog, bear, deer, robin. You write each name beside the drawing.
+6. Carry the STAYS tray to the window and hold it up beside the feeder. Everything in it is out there tonight in the dark.
+
+> 💡 **Tip:** Robins split the tray: some go and some stay. Let her put one in each and leave it unsettled.
+
+### 🎯 Afternoon Alternatives
+- Sort the toy animals by feet, then by teeth.
+- The STAYS tray only, and stop there.
+- Line every animal up along the hallway by size.
+
+### 🌳 Out Again: **Pick one**
+- **Grandparents or a family visit**, and she carries a spare feeder to hang in their yard
+- The park, looking up for nests in the bare trees on the way
+- A drive round the first streets with their lights up
+- The window seat and the bird book, if the wind has teeth in it
+
+> 👶 **Kreston's Afternoon:** He sorts too: one animal out of a tray, carried to
+> another room. Give him three sturdy toys and a box lid. At 18 months he climbs
+> stairs holding the rail with a hand in yours, so at the visit he will want
+> them eleven times.
+
+### 🌍 Around the World: Feeding the Birds at Midwinter 🐦
+
+In Norway and Sweden a **julenek**, a sheaf of oats on a pole, goes up in the
+yard before Christmas so the birds eat before the family does. In the United
+States the Christmas Bird Count has run every December since 1900, when a
+naturalist asked people to count birds instead of shooting them.
+
+> **✨ Try it:** Thread popcorn and cranberries onto a long string and hang your
+> own julenek by the window. Pop a bowl for her at the same time and let her eat
+> the difference.
+
+> *Did you know?* Chickadees hide thousands of seeds every fall and grow extra
+> brain tissue to remember where they put them.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Outdoors helps even when nothing is happening.**
+> You take her out in weather nobody would choose, and half those walks produce
+> nothing you could point to afterward. December daylight under full cloud still
+> runs many times brighter than the brightest room in the house, and morning
+> light on her eyes sets the time she falls asleep tonight. Kreston gets the
+> same dose from the carrier. Standing still adds the second half. Her attention
+> drifts and lands where it likes, which researchers who study green space call
+> soft fascination, and it restores the focus a morning of instructions burns
+> through. A cold step and no birds did both jobs.
+
+> ⚠️ **Safety:** Melted fat scalds, and it holds that heat long after the pan
+> stops looking dangerous, so she comes to it at step four and not before. Loose
+> seed and chopped nuts are choking-size for Kreston at 18 months, so sweep the
+> floor and his chair before you put him down. The hanging string goes out of
+> reach the moment the feeders do. The sharp scissors stay with you; the blunt
+> pair is hers this afternoon and comes back to you between cuts.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-345"></a>
+
+## 🌟 Day 345: The Day Before the Ducks 🌟
+**📅 Saturday, December 11, 2027**
+**Theme:** Animal Kingdom
+
+### 🌙 Prep Tonight
+> Tip the thawed peas into a bowl, drain the corn, and stand the oats, the four paper bags and the marker on the table.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Tearing the Lettuce
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Four Bags for the Pond (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Every Animal Between Here and the Corner (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: A Home for a Pet We Don't Have (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Vegetable Peelings
+- **4:15–5:00 PM** — Quiet Play: The Pet Box
+- **5:00–5:45 PM** — 🛁 Wind-Down: Two Books About Ducks
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Tearing the Lettuce
+
+**🧰 You need:** half a head of lettuce · 1 mixing bowl · her washed hands.
+
+1. Bowl in front of her, lettuce leaves in a pile beside it. Tear the first one into pieces the size of her thumbnail and drop them in.
+2. Hand her the rest. A duck has no teeth and swallows what it grabs, so anything bigger than a thumbnail gets torn again.
+3. Ask who the bags are for. Four is the number in the book, and if she says six you can stretch the oats.
+
+### 🎨 The Main Event: Four Bags for the Pond
+
+**🧰 Complete Materials List:**
+- 2 cups rolled oats
+- 1 cup frozen peas, thawed
+- 1 cup canned or frozen corn, drained
+- Half a head of lettuce
+- 4 paper bags or zip-top bags
+- 1 marker and crayons
+- 1 measuring cup
+- 1 mixing bowl
+
+**📝 Step-by-Step Instructions:**
+1. Stand the four bags open in a row, tops rolled down so they hold their shape.
+2. She fills the measuring cup to the half-cup line with oats and tips one into each bag. Four bags, four fills, counted out loud.
+3. A quarter cup of peas into each, then a quarter cup of corn, same cup, her hands. What lands on the table stays there until the end.
+4. A fistful of torn lettuce on top of each one, straight from the bowl.
+5. Labels: she draws the four foods on each bag with the crayons while you write the words underneath. Peas are green circles and that is close enough.
+6. Roll the tops down and stand all four in the fridge by the door, so nobody hunts for them tomorrow.
+
+> 💡 **Tip:** Bread is worth being firm about. It fills a duck without feeding it, and what sinks feeds the algae. Say it once today and she will say it to somebody at the pond tomorrow.
+
+### 🌳 Get Outside: Every Animal Between Here and the Corner
+
+Walk to the corner and back and count everything alive that is not a person.
+Dogs on leashes, a cat behind a storm door, crows working the gutter, house
+sparrows deep in a hedge, squirrels on the fence line. Keep the tally on her
+fingers and start again at ten. December has stripped the hedges, so she can see
+right into them.
+
+> 👶 **Infant Integration:** Kreston is 18 months and pretend play has started,
+> which today looks like him feeding a duck that is not in the room. Give him a
+> paper bag with a fistful of torn lettuce and let him carry it up and down the
+> kitchen. He empties it, you refill it. On the walk he points at every dog and
+> names it before you do.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: A Home for a Pet We Don't Have
+
+Azlyn has never owned a pet and has firm views about one. A shoebox holds all of
+them until the pet shop at 2:30.
+
+**🧰 Complete Materials List:**
+- 1 shoebox with a lid
+- 1 old sock or a scrap of fabric for the bedding
+- 2 jar lids for food and water bowls
+- Card for a name tag, plus string
+- 1 marker and crayons
+- Blunt scissors
+- Masking tape
+- One soft toy to move in
+
+**📝 Step-by-Step Instructions:**
+1. She picks the pet first, and the box gets built around whichever soft toy she chooses.
+2. Doorway next. She marks one end of the box with a crayon and cuts it out with the blunt scissors while you hold it steady.
+3. Bedding: the sock or fabric folded flat into one end. Ask where a real one would sleep, by the door or the dark end.
+4. Tape the two jar lids down inside for food and water so they cannot tip when she carries the box around, which she will.
+5. Name tag: cut a rectangle of card, snip a nick in one corner with the blunt scissors, thread the string through it and tape the end to the front. She says the name, you write it.
+6. On the lid she draws the care list: what it eats, how many times a day, who does it. Write her words underneath.
+7. Move the pet in, lid half on. Tell her the box is coming to the pet shop.
+
+> 💡 **Tip:** Take the box with you at 2:30 if she wants it. A three-year-old holding her own bowls against a shelf of real ones is doing the afternoon's thinking on the spot.
+
+### 🎯 Afternoon Alternatives
+- Name every soft toy in the house and write the list.
+- Make a leash out of string and walk the pet round the downstairs.
+- Feed the pet a pretend dinner on the real plates.
+
+### 🌳 Out Again: **Pick one**
+- **The pet shop**, then the garden center next door for the tree stacks
+- The park, and count how many dogs get walked in an hour
+- A friend's house that has a cat, if anyone is home
+- Home early with the box and the animal books, if the rain has set in
+
+> 👶 **Kreston's Afternoon:** Give him the shoebox lid and a soft toy of his own
+> while the building goes on. At 18 months he tips things out and puts them back
+> for as long as you leave him to it. In the pet shop the fish tanks hold him
+> longer than anything with fur, and he has words for dog, cat and fish.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **The day before is often better than the day itself.**
+> Azlyn will get more out of these four bags than out of the pond tomorrow,
+> which is worth knowing before you skip a prep morning to save an hour. Wanting
+> a thing and getting it run on different systems, and the wanting one fires
+> harder and for longer: the reward signal climbs all through the run-up and
+> levels off once the thing arrives. Preparing also hands her a job with a
+> future attached, which she is new at. She holds tomorrow in her head all day.
+> The pond takes nine minutes tomorrow and the bags took all morning, and both
+> of those are the trip.
+
+> ⚠️ **Safety:** The blunt scissors stay in her hand while you hold the box, and
+> they come back to you between cuts. Cut the name-tag string short and put the
+> offcut in the trash before you sit back down, because cord at Kreston's height
+> is a strangling risk. The jar lids and the string leash from the alternatives
+> go up out of his reach the moment she sets the box down.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-346"></a>
+
+## 🌟 Day 346: The Show Kreston Watches 🌟
+**📅 Sunday, December 12, 2027**
+**Theme:** Animal Kingdom
+
+### 🌙 Prep Tonight
+> Pull two dining chairs into the living room, find a blanket big enough to hang across them, and cut a cereal box into eleven cards for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Practicing the Entrances
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Animal Show for Kreston (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Nests You Can Only See in December (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Animal Radio Show (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
+- **4:15–5:00 PM** — Quiet Play: Listening Back to Herself
+- **5:00–5:45 PM** — 🛁 Wind-Down: Bath, Then the Recording One More Time
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Practicing the Entrances
+
+**🧰 You need:** 1 sheet of paper · crayons · 1 wooden spoon.
+
+1. Ask which four animals are in the show. Write the names down the page in crayon in her order and let her draw a small one beside each.
+2. Practice one entrance each: how it walks on, the noise it makes, how it gets off again. Do them with her, and be terrible at it.
+3. Hand her the wooden spoon and let her announce all four names into it. Tell her Kreston is the audience and the doors open at 9:15.
+
+### 🎨 The Main Event: The Animal Show for Kreston
+
+**🧰 Complete Materials List:**
+- Masking tape for the stage edge
+- 1 blanket or sheet for the curtain
+- 2 dining chairs to hang it from
+- 1 cushion for Kreston
+- 1 wooden spoon as the microphone
+- Paper and crayons for the running order
+- Your phone, to film one take
+
+**📝 Step-by-Step Instructions:**
+1. Tape a rectangle on the floor. Inside that line is the stage.
+2. Stand the two chairs behind it, back to back, and hang the blanket across them. She comes out from behind.
+3. Cushion on the floor facing the stage. Kreston sits there, you sit beside him, and that is the whole audience.
+4. Run the show. Each animal comes through the curtain, walks its walk, makes its noise into the wooden spoon, bows and goes back. She marks off each one in crayon as it finishes.
+5. Film one take, start to finish, no stopping for the bits that go wrong.
+6. Clap at the end. Then ask her to do the one Kreston liked best, again.
+
+> 💡 **Tip:** Kreston will be on the stage before the second animal is done. Put him back on the cushion once, then let him stay in the show and let her direct him.
+
+### 🌳 Get Outside: The Nests You Can Only See in December
+
+Bare branches give you eight weeks a year when the nests show, so walk the
+street with your heads back. Small tight cups in the forks of hedges, a ragged
+ball of leaves high in an oak (a squirrel's, and it is called a drey), a gray
+paper wasp nest under a porch roof, nobody home. Count them out loud.
+
+> 👶 **Infant Integration:** Kreston is 18 months and pretend play has arrived,
+> so a sister being a bear lands for him now. He claps when Azlyn bows, copying
+> applause before he understands it. On the walk, point up and wait: he follows
+> a pointed finger to the thing at the end of it.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Animal Radio Show
+
+Same four animals, same running order, no picture. Everything arrives through
+the ears this time.
+
+**🧰 Complete Materials List:**
+- Your phone's voice recorder
+- 1 cardboard tube as the microphone
+- Paper and crayons for the running order
+- A quiet room with the door shut
+- A cushion for Kreston to sit on for the playback
+
+**📝 Step-by-Step Instructions:**
+1. Quiet room, door shut, everyone else out. Show her the record button and let her press it.
+2. Test first: she says her own name into the cardboard tube while you hold the phone behind it, then play it back. She needs to hear herself once before anything else works.
+3. New running order on paper. She draws the four animals again and can change the order.
+4. Record the show. She announces each animal, then makes its noise, then moves to the next. Stay silent, so the recording is her voice on its own.
+5. Bring Kreston in, sit him on the cushion and play it to him. Watch his face when his sister's voice comes out of your hand while she stands beside him.
+6. Record take two if she wants one. She will, and she will fix things you did not point out.
+7. Name the file and play it at dinner for Joseph, with her sitting there while it runs.
+
+> 💡 **Tip:** Leave the mistakes in take one alone. She hears them on playback, close to the first time she has heard her own voice from outside her head.
+
+### 🎯 Afternoon Alternatives
+- Sound effects only, and you guess the animal.
+- Record Kreston's noises and play them to him.
+- Puppet show from behind the sofa, no recording.
+- Two microphones, and she interviews you.
+
+### 🌳 Out Again: **Pick one**
+- **Feeding the ducks**, with yesterday's four bags out of the fridge
+- The park with the scooter, if the path is dry
+- A walk to see whose lights went up overnight
+- Home, the radio show on repeat, if the pond is iced or the wind is up
+
+> 👶 **Kreston's Afternoon:** He comes to the pond in the carrier or with his
+> hand in yours, and he gets a pinch of corn to drop from a step back. At 18
+> months he throws underarm and misses, so expect the corn to land at his feet
+> and the ducks to come to him. Say *duck* every time. He has 20-plus words and
+> this is a good one.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Performing for one attentive person is enough.**
+> Azlyn does not need a room of relatives, and a small audience gets you a
+> better show. One person who watches the whole thing lets her run a sequence
+> start to finish: four animals held in order, each one's move remembered, and a
+> mistake survived without stopping. Kreston on his cushion is audience enough
+> to make it real and not enough to make her self-conscious. He also cannot
+> leave, which is the other half of why it works. Save the big performance for
+> people who ask for it. The one she puts on for her brother is the one she
+> rehearses.
+
+> ⚠️ **Safety:** The pond edge. December water is cold enough to matter within
+> minutes, the bank is slick, and Kreston walks now. He stays in the carrier or
+> holds a hand the whole time you are near the water, and the food gets thrown
+> from a step back.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-347"></a>
+
+## 🌟 Day 347: The Way Animals Move 🌟
+**📅 Monday, December 13, 2027**
+**Theme:** Animal Kingdom
+
+### 🌙 Prep Tonight
+> Eleven cards cut and stacked on the table with the crayons, and the hallway cleared end to end so there is a run at it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Animal Deck
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Bear Crawl to the Kitchen (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Hiding Nuts Like a Squirrel (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Moving the Whole Herd Upstairs (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Carrying the Laundry Basket Up
+- **4:15–5:00 PM** — Quiet Play: The Herd on the Landing
+- **5:00–5:45 PM** — 🛁 Wind-Down: Warm Bath After a Big Day
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Animal Deck
+
+**🧰 You need:** 11 index cards or a cut-up cereal box · crayons · 1 marker.
+
+1. Ten animals, one per card. She names them and draws them, you write the word underneath with the marker.
+2. Try each one at the table as it gets drawn: bear on all fours, frog from a squat, snake on her belly, penguin with her feet together.
+3. Shuffle the ten and stack them face down. Nobody turns one over until 9:15.
+
+### 🎨 The Main Event: Bear Crawl to the Kitchen
+
+**🧰 Complete Materials List:**
+- 11 index cards or a cut-up cereal box
+- Crayons and 1 marker
+- Masking tape to mark the stations
+- 4–6 sofa cushions
+- 1 dining chair to go under
+- 1 soft ball to carry between her knees
+
+**📝 Step-by-Step Instructions:**
+1. Tape five crosses on the floor: front door, hallway, doorway, living room, kitchen. The gaps between them are the course.
+2. Lay the cushions across one gap as stepping stones, stand the dining chair over another so she has to go under it, and leave the ball at station four.
+3. She turns the top card. That animal is how she travels to the next cross, and no other way counts.
+4. Card by card, all the way to the kitchen. The ball goes between her knees for the penguin stretch and she waddles it there.
+5. Shuffle and run it backward, you doing the same animal wrong enough that she has to correct you.
+6. Let her draw an eleventh card: an animal she invents, with a move nobody has done. It goes on top of the deck.
+
+> 💡 **Tip:** She will want the deck again tomorrow. Leave it stacked by the door and let her run the course on her own, without the tape and without you.
+
+### 🌳 Get Outside: Hiding Nuts Like a Squirrel
+
+Take a handful of unshelled nuts to the park and let her hide them the way gray
+squirrels do, one at a time, under leaf litter or in the crook of a root. Ten
+hiding places, no two together. Walk away, come back and find them. She loses
+two. Squirrels lose most of theirs, and the ones they forget come up as oak
+trees.
+
+> 👶 **Infant Integration:** Kreston is 18 months and carries things while he
+> walks, which is newer than it looks. Give him one nut to hold on the way and
+> let him put it wherever he decides. On the course at home, tape a station of
+> his own at the low end. He follows Azlyn along the cushions and gets up to do
+> it again.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Moving the Whole Herd Upstairs
+
+Every soft toy in the house is moving to a new home on the landing, and she
+carries every one of them there.
+
+**🧰 Complete Materials List:**
+- Every soft toy in the house
+- 1 laundry basket
+- 1 blanket for the river
+- 3–4 cushions for the crossing
+- 1 tote bag she can carry herself
+- Masking tape to mark the new home
+
+**📝 Step-by-Step Instructions:**
+1. Tape a square on the landing carpet. That is the new home, and everything ends up inside it.
+2. Pile every soft toy at the bottom of the stairs, counted out loud as they land.
+3. Spread the blanket across the hall floor and lay the cushions on it as stones. Anything crossing the river crosses on the stones.
+4. She ferries them over the river in the laundry basket, a load at a time, dragging it. Anything that falls in is lost and gets rescued from the far bank.
+5. At the foot of the stairs the basket stops. Toys go into the tote bag over her shoulder, one hand on the rail, and up she goes.
+6. Trips until the pile is gone. You carry the basket up at the end with the leftovers.
+7. She arranges the herd inside the taped square and decides who sleeps next to who. It stays there overnight.
+
+> 💡 **Tip:** Do not speed this up. The slow, heavy, repeated trip is the whole afternoon, and a child allowed to do it fifteen times comes down the other side settled.
+
+### 🎯 Afternoon Alternatives
+- The river only, crossed on cushions, no move.
+- Move the herd to one room downstairs instead.
+- Sort them into big, medium and small before anyone travels.
+- Put the whole herd in the basket and pull it round like a train.
+
+### 🌳 Out Again: **Pick one**
+- **The neighborhood park**, and she gets to the top of the climbing frame her own way
+- A walk with the scooter, if the sidewalks are dry
+- The woods path, to see how the animal moves work on uneven ground
+- Soft play, if the rain is horizontal
+
+> 👶 **Kreston's Afternoon:** Give him the empty laundry basket in the hall and
+> let him push it. At 18 months a basket to lean on is a walker with a purpose,
+> and he will run it into every wall in the house. Keep him off the stairs while
+> Azlyn works them, with two toys of his own to carry at the bottom.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Cabin fever is physiological, not attitudinal.**
+> By the third indoor day in December Azlyn is climbing the back of the sofa and
+> shouting at nothing, and the read on that is a body with a need it cannot
+> name. Her vestibular and proprioceptive systems, the ones that track where she
+> is and how hard she is pushing, get their input from spinning, hanging,
+> crawling and carrying. Winter cuts that supply off. The result looks like
+> defiance and reads as hunger. An hour of bear crawls and hauled baskets feeds
+> it, and you get the child back at lunch without a single conversation about
+> behavior.
+
+> ⚠️ **Safety:** Stairs with her hands full. She goes up empty-handed or with
+> the bag on her shoulder, never with the loaded basket, and the stair gate goes
+> across behind her if you have one, because Kreston climbs stairs holding on
+> now and will follow her up the second you turn around. With no gate, he stays
+> at the bottom with you and two toys of his own.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-348"></a>
+
+## 🌟 Day 348: How Animals Stay Warm 🌟
+**📅 Tuesday, December 14, 2027**
+**Theme:** Animal Kingdom
+
+### 🌙 Prep Tonight
+> Fill the ice cube tray and stand the tub of shortening on the counter, then leave every coat in the house piled by the front door.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Warmest Coat in the House
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Glove Made of Butter (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The One-Glove Walk to the Gate (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Sofa Zoo (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Napkins
+- **4:15–5:00 PM** — Quiet Play: Inside the Sofa Zoo
+- **5:00–5:45 PM** — 🛁 Wind-Down: Lights Low, One Long Book
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Warmest Coat in the House
+
+**🧰 You need:** every coat and jacket by the front door · her two hands.
+
+1. Spread them out and let her put three on, one over the other, and walk around like that.
+2. Hands inside each one. Thick and puffy, thin and slippery, fleece, wool. She ranks them warmest to coldest and you take her order as final.
+3. Ask what a duck on the pond wears, since it has no coat and no closet. Feathers gets you halfway, and the other half is at 9:15.
+
+### 🎨 The Main Event: The Glove Made of Butter
+
+**🧰 Complete Materials List:**
+- 2 zip-top freezer bags
+- 1 cup vegetable shortening, lard or butter
+- 1 large mixing bowl
+- Ice cubes and cold water
+- 1 spoon for packing the fat
+- A dish towel to dry hands
+- A clock or phone timer
+
+**📝 Step-by-Step Instructions:**
+1. Fill the bowl half full of cold water, tip the ice in and leave it two minutes while you build the glove. Dish towel beside it, flat.
+2. She spoons the cup of shortening into one bag and pushes it into the corners with the back of the spoon. The second bag stays empty.
+3. Bare bag first. Her hand goes into the empty one and into the water. Count to twenty out loud and let her pull out whenever she wants.
+4. Now the fat bag. Hand in, fat squeezed around it, into the water, same count. She will tell you the difference before you ask.
+5. Both hands in together for the last test, one minute on the timer, and she calls which one she would keep. Hands out when she says, onto the dry towel.
+6. Ask which animals wear that layer under their skin. Seals, whales, walruses, polar bears, all of them warm where she has a coat.
+
+> 💡 **Tip:** Bare hand first. Run the fat glove first and she has nothing to measure it against, and the hour turns into playing with lard.
+
+### 🌳 Get Outside: The One-Glove Walk to the Gate
+
+One glove on, one hand bare, and walk to the gate and back reporting on both. It
+takes about ninety seconds for the difference to arrive, and she will start
+shaking the bare hand without noticing. Glove back on at the gate, then do the
+walk you planned with both hands covered.
+
+> 👶 **Infant Integration:** Kreston is 18 months, and 18-month-old hands go
+> cold fast and get complained about late. He pulls mittens off as a game, so
+> use the pair on a string through his sleeves and check his fingers at the
+> gate. Let him touch the surface of the water at home, once, with you holding
+> his wrist and the towel open.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Sofa Zoo
+
+The sofa comes apart this afternoon and goes back together as a row of dens,
+one per animal in the house.
+
+**🧰 Complete Materials List:**
+- All the sofa cushions
+- 8–10 towels and dish towels
+- Heavy books, 3–4, to weight the roofs
+- Every soft toy
+- 1 laundry basket as the biggest den
+- 1 flashlight
+- Masking tape and card for the name signs
+- Blunt scissors
+- 1 marker
+
+**📝 Step-by-Step Instructions:**
+1. Strip the sofa. Cushions on the floor in a long row on their edges, and the gaps between them are the dens.
+2. Roof each den with a towel, weighted with a book or tucked into the gap. The laundry basket goes upside down over the far end for the biggest animal.
+3. Every den gets its animal, and the animal has to fit. A bear in a dish towel den is a discovery she makes herself.
+4. Line each one with a dish towel so nobody sleeps on a bare floor.
+5. Signs: cut card into strips, she says the name, you write it with the marker, she tapes it to the front.
+6. Big light off, flashlight on, and she gives you the tour, one animal at a time, while you ask the questions.
+7. The zoo stays standing until dinner, and she goes back into it at 4:15 with the flashlight.
+
+> 💡 **Tip:** Let her get inside the biggest den. She has spent the afternoon building warm dark spaces and she wants one of her own.
+
+### 🎯 Afternoon Alternatives
+- One den, one animal, under the dining table.
+- Wrap every animal in a dish towel and line them up.
+- Sort the animals into who needs a warm den and who does not.
+
+### 🌳 Out Again: **Swimming**
+- **Swimming**, and warm water on a cold day is the whole argument
+- Soft play, if the pool is booked out by school parties
+- The library, for a book about seals and one about the Arctic
+- Home in the warm with the zoo, if two children into a pool is one thing too many
+
+> 👶 **Kreston's Afternoon:** He walks the shallow end holding one of your hands
+> and lets go before you are ready. Twenty-five minutes is the December ceiling,
+> and he goes into the towel the moment his lips change. At 18 months the
+> getting-dressed fight runs longer than the swim, so lay his clothes out in
+> order before you get in.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Mid-December is a low-energy stretch, and lowering the bar is the right response.**
+> Two stretches of the year run like this, the tail of August and the middle of
+> December, and the December one lands harder because it is dark at four and
+> somebody always has a cold. Your energy sets the ceiling for the day, and
+> there is no version where you push through it for free. Lowering the bar is a
+> strategy: one activity instead of two, the same book twice, an afternoon of
+> cushions on the floor. Azlyn reads the day off your face rather than off the
+> schedule, and a calm adult doing less beats a frayed one doing all of it.
+
+> ⚠️ **Safety:** No single dip in the ice water runs past a minute, and the bare
+> hand goes in twice at most. Hands come out when she says so and go straight
+> onto a dry towel. Kreston touches the surface for a second or two, no
+> immersion, and onto the towel from there. The glove goes back on at the gate
+> before the walk starts, and if it is below freezing the bare-hand test happens
+> on the doorstep instead.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-349"></a>
+
+## 🌟 Day 349: Her One Animal 🌟
+**📅 Wednesday, December 15, 2027**
+**Theme:** Animal Kingdom
+
+### 🌙 Prep Tonight
+> Flatten three or four boxes and stand them behind the sofa, put the big sheet of paper and the tape measure out, and check you have flour and salt in for tomorrow.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: The Shortlist of Three
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: The Expert Wall (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Where Her Animal Would Live Around Here (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: Her Animal, Actual Size (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: The Water Glasses
+- **4:15–5:00 PM** — Quiet Play: Adding to the Expert Wall
+- **5:00–5:45 PM** — 🛁 Wind-Down: Telling Joseph About Her Animal
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: The Shortlist of Three
+
+**🧰 You need:** 1 large sheet of paper · crayons · 1 marker.
+
+1. Ask for three animals she would want to know everything about. Write the names across the top of the paper with the marker, spaced out.
+2. One question each, out loud: what does it eat? She will know one, guess one and invent one, and all three tell you something.
+3. She picks one and circles it. The other two get crossed out by her hand, not yours.
+
+### 🎨 The Main Event: The Expert Wall
+
+**🧰 Complete Materials List:**
+- 1 large sheet of paper, a flattened box, or the back of used wrapping paper
+- Crayons and 1 marker
+- Masking tape
+- An old magazine or catalog for pictures
+- Blunt scissors and a glue stick
+- Any animal book already in the house
+
+**📝 Step-by-Step Instructions:**
+1. Tape the sheet to the wall low enough for her to reach the bottom.
+2. Write her animal's name across the top with the marker, then rule four bands down the sheet: **EATS**, **SLEEPS**, **MOVES**, **SAYS**.
+3. Take the bands one at a time. She draws in each with the crayons and you write her answer beside it word for word, wrong ones included.
+4. The ones she cannot answer, look up in the animal book and add underneath. Two facts from a book is plenty for one wall.
+5. She cuts pictures out of the magazine with the blunt scissors and glues them where she wants. A dog standing in for a wolf is a good decision.
+6. Leave the bottom strip blank. She fills it at 4:15, and the wall stays up.
+
+> 💡 **Tip:** Write what she says. *He sleeps in a hole he dug hisself* is worth more on that wall than a tidy sentence you supplied.
+
+### 🌳 Get Outside: Where Her Animal Would Live Around Here
+
+Take her animal out with you and find it somewhere to live on your own street.
+Under the deck, in the hollow at the base of the big tree, along the ditch
+behind the fence, up in the ivy. December strips the cover back, so she can see
+into places hidden in June. Ask what it would eat here, and let the answer be
+trash cans.
+
+> 👶 **Infant Integration:** Kreston is 18 months and points at pictures in books
+> and waits for you to name them, the work Azlyn is doing on the wall. Hold him
+> up to the finished sheet and name two things on it. Give him his own crayon
+> and the corner of a flattened box on the floor, and expect the scribble to
+> leave the box.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: Her Animal, Actual Size
+
+Her animal might be five feet long, and that number means nothing to her until
+it is lying on the hallway floor.
+
+**🧰 Complete Materials List:**
+- 3–4 flattened cardboard boxes
+- 1 craft knife or heavy scissors (**adult only**)
+- Packing tape and masking tape
+- 1 tape measure or a length of string
+- Crayons, or washable non-toxic paint and a wide brush
+- Newspaper to work on
+- 1 marker
+- The animal book from this morning
+- Your phone, for the length and one photo
+
+**📝 Step-by-Step Instructions:**
+1. Find the real length in the animal book or on your phone, measure it along the hall floor and mark both ends with masking tape. She walks it heel to toe.
+2. Newspaper down the hall. Lay the flattened boxes end to end between the marks and join them with packing tape.
+3. Draw the outline. You hold the marker, she says where the head goes, how long the tail is, where the legs come out. Follow her even when the legs are wrong.
+4. Cut it out with the craft knife or the heavy scissors while she stands back at the far mark, and tell her why.
+5. She colors it in with the crayons, or paints it with the wide brush if you can face that, on her knees on the newspaper.
+6. Write the name and the length across its side with the marker: **WOLF, 5 FEET**.
+7. Tape it to the hallway wall and stand her beside it. Photograph the two of them.
+
+> 💡 **Tip:** Do not correct the proportions. A tail out of the wrong end still teaches her the animal is longer than the hall is wide.
+
+### 🎯 Afternoon Alternatives
+- Draw round Azlyn on a flattened box instead and cut her out.
+- Measure her animal in Azlyns, laid end to end.
+- Make a small paper version and stick it on the expert wall.
+
+### 🌳 Out Again: **Pick one**
+- **Soft play**, and a warm hour where nobody has to hold a marker
+- The library, if her animal needs a book you do not own
+- The park, to see whether the drey she found on Sunday is still up there
+- A drive to the pet store to look at something alive
+
+> 👶 **Kreston's Afternoon:** At soft play he goes up the toddler steps and down
+> the slide on his front, and at 18 months he runs that loop for forty minutes
+> without needing a new idea. Stay in the little-kid section. Back home, lie the
+> cardboard animal on the floor and let him walk the length of it.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **Being an expert on one thing is enormously motivating at three.**
+> Azlyn knowing more about wolves than anyone else in the house changes how she
+> works. A child with one deep interest holds longer attention, asks harder
+> questions and takes in vocabulary that would bounce off her in any other
+> context: den, prey, pack, howl, all learned in an afternoon because they
+> attach to something she has chosen. Researchers who follow these interests
+> find they run for months and carry gains in knowledge and persistence. The
+> subject matters less than the depth. Feed the one she picks, even when it is
+> the fourth week of wolves, and let her be the one who knows.
+
+> ⚠️ **Safety:** The craft knife is adult-only and goes back on a high shelf
+> between cuts, not the arm of the sofa. Cut the cardboard on the floor with her
+> standing back, and check the offcuts for staples before Kreston is put down
+> anywhere near them.
+
+<div style="page-break-after: always;"></div>
+
+<a id="day-350"></a>
+
+## 🌟 Day 350: Who Was Here 🌟
+**📅 Thursday, December 16, 2027**
+**Theme:** Animal Kingdom
+
+### 🌙 Prep Tonight
+> After she is asleep, lay the scene on the kitchen floor: a trail of flour prints, the bitten apple, a scatter of seed, the cup on its side, a tuft of cotton by the door. Cut the potato stamp and hide it.
+
+### ⏰ At-a-Glance Schedule
+- **8:00–9:00 AM** — 🌅 Opening Activity: Whose Foot Made That
+- **9:00–9:15 AM** — Morning Meeting (15 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Something Came in the Night (60 min)
+- **10:15–10:30 AM** — Snack (15 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Real Prints in the Frozen Mud (45 min)
+- **11:15–11:45 AM** — Free Play (30 min)
+- **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
+- **12:00–12:30 PM** — Lunch
+- **12:30–1:00 PM** — 📚 Book Time
+- **1:00–2:30 PM** — 🎨 Second Main Event: The Prints That Keep (90 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **3:30–4:00 PM** — Snack & Free Play
+- **4:00–4:15 PM** — 🧹 Her Job: Wiping the Table
+- **4:15–5:00 PM** — Quiet Play: Watching the Prints Harden
+- **5:00–5:45 PM** — 🛁 Wind-Down: The Week's Animals in Photos
+- **6:00 PM** — **Dinner**
+
+### 🌅 Opening Activity: Whose Foot Made That
+
+**🧰 You need:** the trail, left where it is · 1 flashlight · paper and 1 marker.
+
+1. Let her find it. Say nothing and follow with the flashlight; it is still dark at eight.
+2. Kneel at one clear print and count the toes, then put her hand beside it for the size.
+3. Write her first guess at the top of the paper. Nobody checks it until 9:15.
+
+### 🎨 The Main Event: Something Came in the Night
+
+**🧰 Complete Materials List:**
+- Half a cup of flour for the prints
+- 1 potato and a table knife to cut the paw stamp (**adult only**)
+- 1 apple with a bite out of it
+- A handful of sunflower seeds
+- 1 plastic cup, tipped over
+- 1 cotton ball pulled into a tuft of fur
+- Paper, a marker, and sticky notes to number the clues
+- 1 flashlight
+
+**📝 Step-by-Step Instructions:**
+1. Walk the scene together and put a numbered sticky note by each thing out of place: prints, apple, seeds, tipped cup, tuft of fur.
+2. Take them in order. Ask what each tells her and write the answer under its number. Seeds on the floor mean it could reach. A bitten apple means teeth.
+3. Follow the flour trail with the flashlight, walking the way the toes point, and ask which end it came in at.
+4. Hand her the potato stamp and let her print a row of paws beside the trail. She works out that the stamp made the others.
+5. Ask her to tell it from the beginning: how it got in, what it did, where it went. Write it word for word and read it back.
+6. Let her lay a fresh trail across the hall for Joseph to find tonight.
+
+> 💡 **Tip:** Do not confess. She will ask whether you did it, and *what do you think?* keeps the morning alive another twenty minutes.
+
+### 🌳 Get Outside: Real Prints in the Frozen Mud
+
+Frozen ground holds a print for days, so the mud by the gate and the strip under
+a fence are worth kneeling in front of. Dog prints everywhere, cat prints in the
+flower bed, bird prints like forks by standing water. She brings home one stick
+and one leaf for this afternoon.
+
+> 👶 **Infant Integration:** Kreston is 18 months and pretend play has begun, so
+> he follows Azlyn along the trail doing his version of whatever she does. Put
+> his hand flat in the flour and lift it straight up, then show him the print. He
+> does it with two hands as long as the floor stays floured.
+
+<div style="page-break-after: always;"></div>
+
+### 🎨 Second Main Event: The Prints That Keep
+
+The flour trail wipes off the floor at four. These go in the oven and come out
+hard enough to hang up.
+
+**🧰 Complete Materials List:**
+- 2 cups flour, 1 cup salt, 1 cup water
+- 1 mixing bowl
+- 1 rolling pin
+- 1 baking tray and parchment paper
+- 1 cup or jar lid to cut rounds
+- Toy animals with molded feet
+- 1 stick and 1 leaf from the morning walk
+- 1 drinking straw for the hanging holes
+- String, cut into short lengths
+
+**📝 Step-by-Step Instructions:**
+1. Flour and salt into the bowl, water last. She mixes with her hands until it comes together, five minutes of kneading and the calmest part of the day.
+2. Roll it out to a finger's thickness with the rolling pin. Thin ones snap in the oven.
+3. Cut rounds with the cup or the jar lid and lay them on the parchment-lined tray, not touching.
+4. Press one thing into each round: a toy animal's foot, the end of the stick, the leaf laid flat and peeled off, her own thumb.
+5. Punch a hole near the edge of every round with the drinking straw, off center so they hang straight.
+6. Nothing bakes in an empty house, so the tray waits on the counter while you are out. Oven on its lowest setting when you get home at 3:30, tray in, timer set for two hours.
+7. They come out at 5:30 and cool overnight on a windowsill. She threads a short length of string through each hole at breakfast and picks who gets which.
+
+> 💡 **Tip:** Make four more than you need. Two crack in the oven, one warps, and the spare is the one she gives away.
+
+### 🎯 Afternoon Alternatives
+- Press the prints into play dough and skip the oven.
+- Paint the toy animals' feet and stamp them onto paper.
+- Make one big round with everybody's thumb in it and date it.
+
+### 🌳 Out Again: **Pick one**
+- **The hardware store**, for a hook to hang the salt dough prints on
+- The park, to check the frozen mud by the gate again
+- A walk past Friday's feeders to see what is left of them
+- The grocery store, and she carries the list
+
+> 👶 **Kreston's Afternoon:** The hardware store is a good hour for him: wide
+> aisles, nothing precious at his height, and at 18 months he names half of what
+> he sees at a volume you cannot do anything about. Let him carry the hook in
+> its packet. Keep the salt dough out of his hands, cooled or not.
+
+---
+
+> 🧠 **A Little Parenting Insight**
+> **A crater is a record of something that already happened, and reading it backwards is new thinking.**
+> A print in flour, a bitten apple, a cup on its side: all of it is left over
+> from the event. Azlyn spent the morning working from what is here now back to
+> what must have happened, the move a geologist makes at a crater and a
+> doctor makes with a rash. Three-year-olds can do this and seldom get asked to.
+> Give her the evidence and she builds the story herself, and her questions on
+> the way (which direction, how big, what next) are the method. The same move
+> works on an empty plate and a wet footprint by the bath.
+
+> ⚠️ **Safety:** Salt dough is dangerous if eaten and seriously so for an
+> 18-month-old and for any dog in the house. Count the rounds in and out and
+> store them high. The oven is on for two hours, so say it out loud each time
+> she comes near, and sweep the flour up before Kreston is put down, because a
+> floured floor is slick under new walkers.
+
+<div style="page-break-after: always;"></div>

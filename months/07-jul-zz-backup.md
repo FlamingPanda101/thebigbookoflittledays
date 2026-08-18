@@ -441,14 +441,14 @@ back to the same one four times.
 > she touches any food anybody else will eat, before she hands Kreston his
 > snack, and after every diaper and every nose. Swimming, playgroup and
 > anybody's house wait until she has been fever-free for a full twenty-four
-> hours with no medicine in her. Give a
-> mend day the coolest part of the house and keep her out of the July afternoon
-> altogether, because a child who has been running a temperature dehydrates
-> faster in the heat than she did last week. Keep the fluids going at the same
-> rate as yesterday. You are the one who loads Kreston's plate before she hands
-> it over, because at 13 months his pieces have to be soft and no wider than his
-> finger, and she has no way of judging that. A fever that comes back after a day
-> clear is worth a phone call rather than a wait.
+> hours with no medicine in her. Give a mend day the coolest part of the house
+> and keep her out of the July afternoon altogether, because a child who has
+> been running a temperature dehydrates faster in the heat than she did last
+> week. Keep the fluids going at the same rate as yesterday. You are the one
+> who loads Kreston's plate before she hands it over, because at 13 months his
+> pieces have to be soft and no wider than his finger, and she has no way of
+> judging that. A fever that comes back after a day clear is worth a phone
+> call rather than a wait.
 
 <div style="page-break-after: always;"></div>
 

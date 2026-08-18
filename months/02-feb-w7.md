@@ -514,7 +514,7 @@ place, including who sits where.
 2. One torn heart per person becomes a place card. She writes the names, you write them underneath in small letters.
 3. She decides who sits where and puts the cards down. Do not move them, even the one that puts Kreston at the head of the table.
 4. Fold the napkins into triangles and let her do the second half. Triangles are hard at three and she gets better inside ten napkins.
-5. Fill the jam jar outside: bare twigs, ivy, a sprig of something evergreen. February gives you a green centerpiece and no flowers.
+5. Fill the jam jar outside: bare twigs, pine, a sprig of something evergreen. February gives you a green centerpiece and no flowers. The jar stands at the far end of the table, out of Kreston's reach.
 6. Silverware last, one setting at a time, walking round the table with a fistful.
 7. Light the candle at six, in front of her, and put it in the middle where nobody can knock it.
 

@@ -363,15 +363,15 @@ run a long time, and it keeps him near her without landing on her.
 > lamp and the window and her own hand are the whole available world, and every
 > one of them has parts.
 
-> ⚠️ **Safety:** Write the time of every dose on a piece of paper on the fridge
-> along with what you gave. On a long day with two adults going in and out, the
-> dose given at eleven gets given again at twelve from memory. Medicine goes
-> back up on a high shelf between doses, because Kreston is up on his feet at
-> the furniture now and a bottle on the arm of the sofa sits at his eye level.
-> Call the doctor rather
-> than sitting on it if she will not drink, if she has not peed since the
-> morning, if a fever holds past what you expected, or if she looks wrong to
-> you in a way you cannot name. Nobody has ever been told off for calling.
+> ⚠️ **Safety:** Write the time of every dose on a piece of paper on the
+> fridge along with what you gave. On a long day with two adults going in and
+> out, the dose given at eleven gets given again at twelve from memory.
+> Medicine goes back up on a high shelf between doses, because Kreston is up
+> on his feet at the furniture now and a bottle on the arm of the sofa sits at
+> his eye level. Call the doctor rather than sitting on it if she will not
+> drink, if she has not peed since the morning, if a fever holds past what you
+> expected, or if she looks wrong to you in a way you cannot name. Nobody has
+> ever been told off for calling.
 
 <div style="page-break-after: always;"></div>
 

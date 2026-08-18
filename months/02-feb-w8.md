@@ -542,14 +542,14 @@ changed thirty times.
 
 > 🧠 **A Little Parenting Insight**
 > **Love is a word she's still working out the size of.**
-> Azlyn will tell you she loves you, and then that she loves the yellow crayon,
-> in the same voice. She is working with the word she has. A three-year-old
-> sorts feeling into a few big bins before she gets the
-> small ones, so *love* stretches across everything from you to a cookie, and
-> the finer words (like, miss, prefer, want) arrive across the next two years.
-> Drawing everyone in the house and naming each face is her drawing the circle.
-> Keep handing her sharper words inside your own sentences, as in *you missed
-> Daddy today*, and she picks them up when she needs them.
+> Azlyn will tell you she loves you, and then that she loves the yellow
+> crayon, in the same voice. She is working with the word she has. A
+> three-year-old sorts feeling into a few big bins before she gets the small
+> ones, so *love* stretches across everything from you to a cookie, and the
+> finer words (like, miss, prefer, want) arrive across the next two years.
+> Drawing everyone in the house and naming each face is her drawing the
+> circle. Keep handing her sharper words inside your own sentences, as in *you
+> missed Daddy today*, and she picks them up when she needs them.
 
 > ⚠️ **Safety:** Lentils, dried beans, buttons and pasta are choking hazards
 > and every one of them ends up on the floor within reach of a baby who crawls.

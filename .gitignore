@@ -1,5 +1,5 @@
-.DS_Store
-*.tmp
-__pycache__/
-tools/pipeline/newweeks/
-tools/pipeline/baseline/
+# Derived audit views. extract.py regenerates them on demand, and a stale copy
+# read as source is how an auditor ends up reviewing text that no longer exists.
+tools/pipeline/extract-*/
+tools/pipeline/DEEPCHECK-WARNINGS.txt
+tools/pipeline/*-RAW.txt

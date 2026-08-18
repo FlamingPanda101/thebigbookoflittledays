@@ -392,14 +392,14 @@ job.
 > ⚠️ **Safety:** An open bowl of water on the floor is a drowning risk for a
 > 17-month-old, so the cool bowl lives on the low table beside her and goes
 > down the sink the moment the third round ends. Call your pediatrician the
-> same day for any of these:
-> a fever in a child this age that lasts beyond three days, breathing that is
-> fast or noisy or pulls the skin in at her ribs, no wet diaper or trip to the
-> bathroom in eight hours, a headache with a stiff neck, a rash that stays
-> visible when you press a glass against it, or a child too drowsy to wake.
-> Trust the pattern you know. Write down the time and the dose of anything you
-> give her on a piece of paper on the counter, because a second adult on a long
-> day is the way double doses happen.
+> same day for any of these: a fever in a child this age that lasts beyond
+> three days, breathing that is fast or noisy or pulls the skin in at her
+> ribs, no wet diaper or trip to the bathroom in eight hours, a headache with
+> a stiff neck, a rash that stays visible when you press a glass against it,
+> or a child too drowsy to wake. Trust the pattern you know. Write down the
+> time and the dose of anything you give her on a piece of paper on the
+> counter, because a second adult on a long day is the way double doses
+> happen.
 
 <div style="page-break-after: always;"></div>
 

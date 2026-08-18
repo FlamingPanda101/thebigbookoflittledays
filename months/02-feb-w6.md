@@ -667,14 +667,13 @@ the sidewalk side and the customer's part for the afternoon.
 > 🧠 **A Little Parenting Insight**
 > **Pretend play is where self-control gets built.**
 > Azlyn behind that counter holds a rule in her head, and she holds it longer
-> than she holds one of yours. That might be ten minutes or twenty,
-> depending on the morning. Shopkeepers wait. They hand the bag over. They
-> leave the stock alone. Nobody is enforcing any of it and she does it anyway,
-> because the role says so. Children in role play stand still longer, wait
-> longer and stay with a dull job longer than the same children asked to do the
-> same thing without the pretend.
-> Every minute she spends being a baker is practice at what you will want at
-> five, in a classroom.
+> than she holds one of yours. That might be ten minutes or twenty, depending
+> on the morning. Shopkeepers wait. They hand the bag over. They leave the
+> stock alone. Nobody is enforcing any of it and she does it anyway, because
+> the role says so. Children in role play stand still longer, wait longer and
+> stay with a dull job longer than the same children asked to do the same
+> thing without the pretend. Every minute she spends being a baker is practice
+> at what you will want at five, in a classroom.
 
 > ⚠️ **Safety:** Playdough carries far more salt than food and Kreston will
 > have it in his mouth the second he is near the tray. Keep the tray above his
