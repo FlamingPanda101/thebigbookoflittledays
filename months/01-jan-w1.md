@@ -13,7 +13,7 @@ up, and what makes it fall down?** She knocks most of it over, rebuilds it
 steadier, and runs that loop seven times.
 
 This is also the first week of the year, so on Day 1 you seal the time capsule
-you open on Day 365, start the growth chart on the wall, and hang the first of
+you open on Day 365, start the growth chart on the door frame, and hang the first of
 twelve handprints. Those three threads run to December, and the rest of the
 week runs on cardboard.
 

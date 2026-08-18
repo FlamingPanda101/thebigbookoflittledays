@@ -151,7 +151,7 @@ up, and what makes it fall down?** She knocks most of it over, rebuilds it
 steadier, and runs that loop seven times.
 
 This is also the first week of the year, so on Day 1 you seal the time capsule
-you open on Day 365, start the growth chart on the wall, and hang the first of
+you open on Day 365, start the growth chart on the door frame, and hang the first of
 twelve handprints. Those three threads run to December, and the rest of the
 week runs on cardboard.
 
@@ -32856,7 +32856,7 @@ what it did. Nothing she makes gets thrown out before the week is finished.
 - [ ] A phone, for the timer and the photographs
 - [ ] A cloth for drying the stones
 - [ ] A fence, shed side or wall (substitute: a large flattened box propped against a wall)
-- [ ] Eight small kitchen things that can get wet: 2 corks, 2 jar lids, a peg, a bottle cap
+- [ ] Eight small kitchen things that can get wet: 2 corks, 2 jar lids, a peg, a bottle cap, plus a spoon and a craft stick from elsewhere on this list
 - [ ] The grubby outdoor toys: the trike, the rain boots, the plastic animals, the doll from under the hedge
 
 ---
@@ -36143,9 +36143,7 @@ again.
 - [ ] Paper bags, 2
 - [ ] A low bench, an upturned crate or a step
 - [ ] Two chairs to string a short line between
-- [ ] A stiff yard broom, and a dustpan and brush
 - [ ] A wide shallow dish or an old trash can lid for the birds
-- [ ] A saucepan lid and a wooden spoon
 
 ---
 
@@ -50226,8 +50224,7 @@ it goes where the string goes.
 > 👶 **Kreston's Afternoon:** Keep him out of the room while the balloons are
 > up. Afterwards, give him the empty paper purse and a handful of jar lids too
 > wide for his mouth. At 16 months he posts them in and tips them out again for
-> five or ten minutes, then comes back to it twice more before dinner. The ten
-> card coins stay up on the table with her.
+> five or ten minutes, then comes back to it twice more before dinner.
 
 ---
 
@@ -53967,7 +53964,8 @@ while she watches.
 > Keep the second towel down; the wet floor is a slip risk for everyone. Two
 > cups of loose salt is a poisoning risk swallowed, so the tray works at the
 > far end of the table with Kreston in the high chair, and the salt goes back
-> in its box and up out of reach the moment she has finished tracing.
+> in its box and up out of reach when the 4:15 quiet play ends, the tray
+> staying at the far end of the table until then.
 
 <div style="page-break-after: always;"></div>
 
@@ -57959,7 +57957,7 @@ sits down hungry.
 ### 🎯 Afternoon Alternatives
 - She plates up a cold dinner and skips the stovetop.
 - One job at the stovetop, and you do the rest.
-- Set the table and count out everything for six.
+- Set the table and count out everything for four, ready for six o'clock.
 - Photograph each tray and start the cookbook with that.
 
 ### 🌳 Out Again: **Pick one**
@@ -57978,7 +57976,7 @@ sits down hungry.
 > 🧠 **A Little Parenting Insight**
 > **Distance is the part of space that nobody tells her about.**
 > Somebody teaches her colors, numbers and shapes, and nobody sits her down
-> about how far away things are. Her judgment of it is still rough. Children
+> about how far away things are. Her own judgment of it is still rough. Children
 > this age will try to climb into a toy car or reach a thing well past their arm,
 > because a body that keeps changing recalibrates size and distance every
 > few weeks. That is why today's stovetop rule is about where her feet go
@@ -57988,7 +57986,7 @@ sits down hungry.
 
 > ⚠️ **Safety:** She is at the stovetop as the cook for the first time.
 > Handles turn in, the pan base stays hotter than it looks long after it comes
-> off, and she carries the cold plates while you carry the hot ones. Kreston
+> off, and she carries the salad tray while you carry the four hot plates. Kreston
 > is strapped in or behind the gate the whole time pans are moving.
 
 <div style="page-break-after: always;"></div>
@@ -59809,7 +59807,7 @@ three than it sounds.
 2. Melt the fat in the saucepan over a low burner until it runs clear, stir once with the wooden spoon and take it off the heat. She stays at the table for this.
 3. Tip the seed onto one paper plate. You stir it into the pan off the heat until the spoon stands up on its own, then set it down to cool.
 4. Once the pan is warm and no hotter, she presses the mix into the pinecone scales and packs the pots and tubes full.
-5. Roll each loaded feeder in the spare seed on the second plate, then twenty minutes in the fridge to set hard.
+5. Roll each loaded feeder in the spare seed on the second plate, tip what is left of it into a small jar with a lid for the afternoon, then twenty minutes in the fridge to set hard.
 6. Hang them where you can both see them from a window and wedge the apple halves onto a twig alongside. She picks the tree.
 
 > 💡 **Tip:** Hang one within a few feet of a bush. Chickadees will not cross open ground to a feeder with nowhere to bolt to.
@@ -59904,8 +59902,7 @@ naturalist asked people to count birds instead of shooting them.
 > goes out of reach the moment the feeders do. The sharp scissors stay with
 > you; the blunt pair is hers this afternoon and comes back to you between
 > cuts. Kreston is behind a gate or strapped into the high chair from the
-> moment the pan goes on the burner until the fat has set and the pan is in
-> the sink.
+> moment the pan goes on the burner until the pan is in the sink.
 
 <div style="page-break-after: always;"></div>
 
