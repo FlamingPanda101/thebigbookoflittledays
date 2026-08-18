@@ -408,7 +408,7 @@ cool through the heat.
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
 - **1:00–2:30 PM** — 🎨 Second Main Event: Furnishing the Box House (90 min)
-- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Museum** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
 - **4:15–5:00 PM** — Quiet Play: Inside the House
@@ -487,7 +487,7 @@ the furniture.
 - Post things through the windows and fish them back out.
 - Cut a big cardboard door for the *real* doorway and pretend the house is the room.
 
-### 🌳 Out Again: **Pick one**
+### 🌳 Out Again: **The Museum**
 - **The museum**, first Saturday of the month and the year's first
 - The park, to run off whatever the box didn't
 - Indoor playground if it's raining sideways
@@ -1175,8 +1175,9 @@ there, draws in there, and it stays up until bedtime.
 > much arrives at once, and she cannot filter noise and light and movement
 > yet, so walls close enough to touch give her relief. The fort is also the
 > first territory she controls: she picked the shape, the door and who comes
-> in. If she wants to be in there on her own, let her. Leave it up
-> for a few days.
+> in. If she wants to be in there on her own, let her. Leave it up for a few
+> days. A fort that survives to a second morning gets played in harder than
+> one built fresh, because she starts from something she already owns.
 
 > ⚠️ **Safety:** Nothing heavy on top of the fort and nothing that can fall
 > inward. Books go on the outside edges, never on the roof. No cords, no
@@ -2645,8 +2646,9 @@ either backstage or out of the room.
 > no crowd to read. She gets the whole arc: waiting behind a curtain,
 > starting, finishing, watched the entire way through. Children build social
 > confidence in doses about this size. One person who stays until the end
-> teaches her that a thing has a finish, and that finishing it is
-> the good part.
+> teaches her that a thing has a finish, and that finishing it is the good
+> part. Two people watching is not twice as good to her. It is twice as much
+> to keep track of.
 
 > ⚠️ **Safety:** She will climb on a dining chair to reach the curtain. You
 > hang it, she stands back. Nothing tied at neck height, no cord left running
@@ -2917,7 +2919,8 @@ else. Half of this pot leaves the house before dinner.
 > as the help keeps getting turned down for being slow. She scrubs six
 > potatoes in the time you would take over twenty, and those six go in the pot
 > in front of her. Take the offer while she is still making it, and let the
-> standard be hers.
+> standard be hers. The potatoes will come out with grit still on them. The
+> offer is worth more this month than the potatoes are.
 
 > ⚠️ **Safety:** Hot pot on the stovetop with a three-year-old at counter height:
 > pan handles turned in, she stirs from the stool with your hand on hers, and
@@ -3319,7 +3322,8 @@ card this afternoon.
 > eleven of them. The noticing is the part that carries. A child who works out
 > what somebody did for her, and then does something back, holds onto it
 > longer than one reminded to be polite. She made a cookie for each name, and
-> that is a thank you with a cost inside it.
+> that is a thank you with a cost inside it. Her list will have the mail
+> carrier on it and leave you off. Write it down the way she says it.
 
 > ⚠️ **Safety:** The oven is on and the tray comes out at her eye level. She
 > stays back from the door, the hot tray goes to the middle of the counter, and
@@ -12930,7 +12934,7 @@ it warm before three.
 - Buy the bread and spend the whole afternoon on the trap.
 - Make the ramp, the ladder and the sign and forget the trap.
 
-### 🌳 Out Again: **Pick one**
+### 🌳 Out Again: **The Library**
 - **The library** (every two weeks), for the Irish picture books that are out this week
 - The indoor play center, if the library is full of people with the same idea
 - The store, for one more gold thing to add to the bait
@@ -15059,7 +15063,7 @@ The leftover cut-outs turn into a book this afternoon.
 - Tape cut-outs to cereal card and make Kreston a board book.
 - Take the whole pile to the library and match them to photographs.
 
-### 🌳 Out Again: **Pick one**
+### 🌳 Out Again: **The Library**
 - **The library**, and ask at the desk for the nest and egg books
 - The indoor play center if the library is full of the holiday crowd
 - The park, and count the birds visible from one bench
@@ -45172,7 +45176,7 @@ instructions.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Tile You Can Eat (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: The Blackberry Hedge (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Last of the Blackberries (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -45216,7 +45220,7 @@ instructions.
 
 > 💡 **Tip:** Keep the run four pieces long. Three is too few to feel like a rule, and five is more than she can hold while she digs for a carrot.
 
-### 🌳 Get Outside: The Blackberry Hedge
+### 🌳 Get Outside: The Last of the Blackberries
 
 Late September is the last of the blackberries, and only if you are far enough
 north to still have any. Walk to the roughest hedge you can reach, a field edge
@@ -46492,7 +46496,8 @@ off, the animal dictates its morning and you take it down word for word.
 > distance does the work: the animal she picked can wait, can be brave in a
 > hedge, can try the thing Azlyn would refuse. *Would a zebra put its shoes
 > on?* is the kind of question that lands where a straight instruction has been
-> bouncing off since breakfast.
+> bouncing off since breakfast. The paint comes off at bath time and the trick
+> outlasts it by a couple of years.
 
 > ⚠️ **Safety:** Test the mixture on the inside of her arm first. Nothing goes
 > on broken skin, near her eyes or on her lips. Food coloring stains skin as
@@ -53555,7 +53560,7 @@ sweeter than a cow's.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: Milking the Glove (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: Boot Prints in the Mud (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: Two Boot Prints Side by Side (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -53598,7 +53603,7 @@ sweeter than a cow's.
 
 > 💡 **Tip:** She will try to hold the bucket and milk at the same time. Let her, and let it go over once.
 
-### 🌳 Get Outside: Boot Prints in the Mud
+### 🌳 Get Outside: Two Boot Prints Side by Side
 
 Find the softest ground within reach, at a field gate or the edge of a path
 that has not drained since Tuesday. She presses one boot in hard and lifts it

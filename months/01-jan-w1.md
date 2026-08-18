@@ -272,7 +272,7 @@ cool through the heat.
 - **12:00–12:30 PM** — Lunch
 - **12:30–1:00 PM** — 📚 Book Time
 - **1:00–2:30 PM** — 🎨 Second Main Event: Furnishing the Box House (90 min)
-- **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
+- **2:30–3:30 PM** — 🌳 Out Again: **The Museum** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
 - **4:15–5:00 PM** — Quiet Play: Inside the House
@@ -351,7 +351,7 @@ the furniture.
 - Post things through the windows and fish them back out.
 - Cut a big cardboard door for the *real* doorway and pretend the house is the room.
 
-### 🌳 Out Again: **Pick one**
+### 🌳 Out Again: **The Museum**
 - **The museum**, first Saturday of the month and the year's first
 - The park, to run off whatever the box didn't
 - Indoor playground if it's raining sideways
@@ -1039,8 +1039,9 @@ there, draws in there, and it stays up until bedtime.
 > much arrives at once, and she cannot filter noise and light and movement
 > yet, so walls close enough to touch give her relief. The fort is also the
 > first territory she controls: she picked the shape, the door and who comes
-> in. If she wants to be in there on her own, let her. Leave it up
-> for a few days.
+> in. If she wants to be in there on her own, let her. Leave it up for a few
+> days. A fort that survives to a second morning gets played in harder than
+> one built fresh, because she starts from something she already owns.
 
 > ⚠️ **Safety:** Nothing heavy on top of the fort and nothing that can fall
 > inward. Books go on the outside edges, never on the roof. No cords, no

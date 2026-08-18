@@ -396,8 +396,9 @@ either backstage or out of the room.
 > no crowd to read. She gets the whole arc: waiting behind a curtain,
 > starting, finishing, watched the entire way through. Children build social
 > confidence in doses about this size. One person who stays until the end
-> teaches her that a thing has a finish, and that finishing it is
-> the good part.
+> teaches her that a thing has a finish, and that finishing it is the good
+> part. Two people watching is not twice as good to her. It is twice as much
+> to keep track of.
 
 > ⚠️ **Safety:** She will climb on a dining chair to reach the curtain. You
 > hang it, she stands back. Nothing tied at neck height, no cord left running
@@ -668,7 +669,8 @@ else. Half of this pot leaves the house before dinner.
 > as the help keeps getting turned down for being slow. She scrubs six
 > potatoes in the time you would take over twenty, and those six go in the pot
 > in front of her. Take the offer while she is still making it, and let the
-> standard be hers.
+> standard be hers. The potatoes will come out with grit still on them. The
+> offer is worth more this month than the potatoes are.
 
 > ⚠️ **Safety:** Hot pot on the stovetop with a three-year-old at counter height:
 > pan handles turned in, she stirs from the stool with your hand on hers, and
@@ -1070,7 +1072,8 @@ card this afternoon.
 > eleven of them. The noticing is the part that carries. A child who works out
 > what somebody did for her, and then does something back, holds onto it
 > longer than one reminded to be polite. She made a cookie for each name, and
-> that is a thank you with a cost inside it.
+> that is a thank you with a cost inside it. Her list will have the mail
+> carrier on it and leave you off. Write it down the way she says it.
 
 > ⚠️ **Safety:** The oven is on and the tray comes out at her eye level. She
 > stays back from the door, the hot tray goes to the middle of the counter, and
