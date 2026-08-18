@@ -446,9 +446,10 @@ gloves come home wet.
 > 👶 **Infant Integration:** Kreston is 6 months and tracks moving objects
 > across his whole field of view now. Sit him well back from the run, out of
 > reach of the catching box, and drop a bean down while he watches from there.
-> Do it four or five times, carrying each bean back to him. He loses it at
-> the top and finds it again at the bottom, which is early object permanence
-> work, and it costs you nothing but pointing him in the right direction.
+> Do it four or five times, and the bean travels back up in your closed hand
+> and never into his. He loses it at the top and finds it again at the bottom,
+> which is early object permanence work, and it costs you nothing but pointing
+> him in the right direction.
 
 <div style="page-break-after: always;"></div>
 
@@ -521,7 +522,7 @@ growing. Cardboard gets strong once she changes its shape.
 **Theme:** Shape Engineers & Building
 
 ### 🌙 Prep Tonight
-> Mix the salt dough for tomorrow: 2 cups flour, 1 cup salt, 1 cup water. Bag it and leave it in the fridge, and put out a clean sock and a ball of string for today.
+> Mix the salt dough for Tuesday: 2 cups flour, 1 cup salt, 1 cup water. Bag it and leave it in the fridge, and put out a clean sock and a ball of string for tomorrow.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Cup Pyramids
@@ -687,7 +688,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 **🧰 Complete Materials List:**
 - The salt dough, 2 cups flour to 1 cup salt to 1 cup water
 - 1 rolling pin, 1 table knife
-- 1 baking tray and parchment paper
+- 2 baking trays and parchment paper, and a third cold tray for cooling
 - Extra flour for the board
 - 1 pencil for scoring
 

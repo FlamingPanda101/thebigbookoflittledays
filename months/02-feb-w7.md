@@ -490,7 +490,7 @@ home she picks the reddest thing on the street and tells you why.
 > hand while looking at a third. Give him a red burp cloth and a red plastic
 > lid wider than his mouth on the floor near the gluing, and he will bang one
 > on the other. Keep the torn scraps up on the table. Outside, hold a red leaf
-> or a berry stem where he can see it in the stroller.
+> where he can see it in the stroller.
 
 <div style="page-break-after: always;"></div>
 

@@ -584,9 +584,10 @@ gloves come home wet.
 > 👶 **Infant Integration:** Kreston is 6 months and tracks moving objects
 > across his whole field of view now. Sit him well back from the run, out of
 > reach of the catching box, and drop a bean down while he watches from there.
-> Do it four or five times, carrying each bean back to him. He loses it at
-> the top and finds it again at the bottom, which is early object permanence
-> work, and it costs you nothing but pointing him in the right direction.
+> Do it four or five times, and the bean travels back up in your closed hand
+> and never into his. He loses it at the top and finds it again at the bottom,
+> which is early object permanence work, and it costs you nothing but pointing
+> him in the right direction.
 
 <div style="page-break-after: always;"></div>
 
@@ -659,7 +660,7 @@ growing. Cardboard gets strong once she changes its shape.
 **Theme:** Shape Engineers & Building
 
 ### 🌙 Prep Tonight
-> Mix the salt dough for tomorrow: 2 cups flour, 1 cup salt, 1 cup water. Bag it and leave it in the fridge, and put out a clean sock and a ball of string for today.
+> Mix the salt dough for Tuesday: 2 cups flour, 1 cup salt, 1 cup water. Bag it and leave it in the fridge, and put out a clean sock and a ball of string for tomorrow.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Cup Pyramids
@@ -825,7 +826,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 **🧰 Complete Materials List:**
 - The salt dough, 2 cups flour to 1 cup salt to 1 cup water
 - 1 rolling pin, 1 table knife
-- 1 baking tray and parchment paper
+- 2 baking trays and parchment paper, and a third cold tray for cooling
 - Extra flour for the board
 - 1 pencil for scoring
 
@@ -7593,7 +7594,7 @@ home she picks the reddest thing on the street and tells you why.
 > hand while looking at a third. Give him a red burp cloth and a red plastic
 > lid wider than his mouth on the floor near the gluing, and he will bang one
 > on the other. Keep the torn scraps up on the table. Outside, hold a red leaf
-> or a berry stem where he can see it in the stroller.
+> where he can see it in the stroller.
 
 <div style="page-break-after: always;"></div>
 
@@ -11998,7 +11999,7 @@ the rope, the scarves, the plate faces, the sound desk and a box of tickets.
 ### 🎯 What This Week Is About
 
 Spring starts on the windowsill. Azlyn scatters cress seed onto wet cotton
-yarn on Friday morning and cuts it for sandwiches on Thursday, and in the days
+balls on Friday morning and cuts it for sandwiches on Thursday, and in the days
 between she plants a potato that stays in its bucket until summer, fills
 twelve egg-box cups with twelve things off the sidewalk, and builds a nest out
 of twigs and torn fleece. All of it stays where she walks past it, so she
@@ -29147,7 +29148,7 @@ Juneteenth tables run to red food and red drink. Azlyn builds the whole tray
 and nothing has to be cooked.
 
 **🧰 Complete Materials List:**
-- Strawberries, 1 punnet
+- Strawberries, 1 pint
 - Watermelon, 1 wedge
 - Cherry tomatoes, 1 handful, quartered lengthways, and 1 red apple
 - Red fruit punch, or 2 hibiscus tea bags cooled and sweetened (cranberry juice substitutes for either)
@@ -29168,7 +29169,7 @@ and nothing has to be cooked.
 > 💡 **Tip:** A paper cup takes about four hours to freeze hard. Make twice as many as you need; tomorrow is hotter and there are two of them now.
 
 ### 🎯 Afternoon Alternatives
-- Red fruit straight out of the punnet, no tray, no arranging.
+- Red fruit straight out of the pint, no tray, no arranging.
 - Paint with a squashed strawberry instead of eating it.
 - Freeze the drink in an ice cube tray and drop the cubes into water.
 - Lay the tray out in stripes and eat one stripe at a time.
@@ -30313,9 +30314,9 @@ afternoon starts with her hands, and she counts it down first.
 
 ### 🌅 Opening Activity: Mashing the Blueberries
 
-**🧰 You need:** the punnet of blueberries · 1 fork · 1 pitcher.
+**🧰 You need:** the pint of blueberries · 1 fork · 1 pitcher.
 
-1. Tip the punnet into the pitcher and hand her the fork. Mashing blueberries takes longer than she expects, which is why it belongs at 8:00.
+1. Tip the pint into the pitcher and hand her the fork. Mashing blueberries takes longer than she expects, which is why it belongs at 8:00.
 2. Stand the pitcher in the fridge. This is the top layer and it waits until late morning.
 3. Give her the last few whole ones to eat.
 
@@ -33674,7 +33675,7 @@ shakes cream and salted ice in a bag for ten minutes and eats the result out of
 the bag. That afternoon five ice cubes go into five wrappings, and she opens
 all of them every twenty minutes to see which one is still there at dinner.
 Thursday runs the same idea long: a fork dragged across a freezing tray every
-half hour from ten in the morning.
+half hour from half past nine in the morning.
 
 Between those two ends the week turns outward. She marks where the hatch goes in
 a big box on Saturday, you cut it, and she serves you from behind it. She builds
@@ -34638,7 +34639,7 @@ waits in the freezer with a place set at the table.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Cups
-- **4:15–5:00 PM** — Quiet Play: The Peg Line
+- **4:15–5:00 PM** — Quiet Play: The Eight Pegs, Off the Line
 - **5:00–5:45 PM** — 🛁 Wind-Down: A Cool Bath and Three Books
 - **6:00 PM** — **Dinner**
 
@@ -34667,7 +34668,7 @@ waits in the freezer with a place set at the table.
 2. Pour it into the tray, a finger deep and no deeper, and she carries it flat to the cleared shelf.
 3. Tape one end of the string to the fridge and the other to a cupboard handle, pulled taut at her height. She clips all eight pegs along it.
 4. Write **READY** on a strip of tape and stick it past the last peg, so the end of the line is a place.
-5. Every half hour from ten o'clock, open the freezer and drag the fork across the tray, breaking the frozen edges into the middle. She takes one peg off each time.
+5. Every half hour from half past nine, open the freezer and drag the fork across the tray, breaking the frozen edges into the middle. She takes one peg off each time.
 6. Two pegs are still on the line at lunch. Leave them.
 
 > 💡 **Tip:** Scrape, do not stir. Dragging the fork across the top makes crystals; stirring makes slush that sets solid.
@@ -34689,7 +34690,7 @@ the fruit comes out of the fridge cold. The rinds go out for the birds.
 ### 🎨 Second Main Event: The Last Peg Comes Off
 
 Lay the table at one o'clock for the end of the week. She takes the final peg
-off the line herself and serves what has been in the freezer since 9:30.
+off the line herself and serves what has been in the freezer since 9:15.
 
 **🧰 Complete Materials List:**
 - The granita tray and the peg line
@@ -40710,7 +40711,7 @@ morning, and the family walks round buying tickets off her.
 3. Stand the tea counter last, in the shade, with the pitcher of iced water and the cups on top of it.
 4. She bangs the saucepan lid with the wooden spoon. Open.
 5. Everybody buys at the gate and walks round. Play the tins, hook a pot out of the bowl, ride the wheel and the carousel, guess the jars, take a prize bag.
-6. She will run three stalls well and abandon the other five. The ones she leaves will be yours.
+6. She will run three stalls well and abandon the other three. The ones she leaves will be yours.
 7. Photograph everything, then tip the water out and take the bunting down before dinner.
 
 > 💡 **Tip:** Buy a ticket for every go, including yours and Kreston's. The gate is her job.
@@ -48855,7 +48856,7 @@ comes out of the recycling.
 3. Tape it from the floor below to the lip above and test it with one car. Cut the next only once that one runs.
 4. Rule the bays. Hold the ruler across each floor and let her draw the lines with the marker, counting as they appear.
 5. Number every bay. She calls the numbers, you write them, and the ones that come out backwards stay backwards.
-6. Park the whole fleet, one car per bay. Anything left over queues on the ramp.
+6. Park the whole fleet, one car per bay. Anything left over lines up on the ramp.
 7. Take one car off the bottom row and let her drive it up and out through every floor.
 
 > 💡 **Tip:** Build the bottom row wide. Two boxes under one carries the whole afternoon, and she will lean on it.
@@ -60559,7 +60560,7 @@ told so.
 ### 🌳 Get Outside: Somewhere Out of the Rain
 
 Hunt for the places that stay dry: under a parked car, under the porch step, deep
-inside a holly or juniper, the sheltered side of a fence. Put her hand on the dry
+inside a juniper or a low evergreen, the sheltered side of a fence. Put her hand on the dry
 ground under an evergreen, then on the wet grass a step away. Sparrows work this
 out every winter.
 
