@@ -161,7 +161,7 @@ table this afternoon, small enough to cross with two fingers.
 - **2:30–3:30 PM** — 🎵 Loud Hour: Every Fast Song in the House (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
-- **4:15–5:00 PM** — Quiet Play: The Shop, Still Open
+- **4:15–5:00 PM** — Quiet Play: Re-pricing the Shelf
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath, and Pajamas Warm Out of the Dryer
 - **6:00 PM** — **Dinner**
 

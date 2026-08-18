@@ -793,7 +793,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 **Theme:** Shape Engineers & Building
 
 ### 🌙 Prep Tonight
-> The salt dough is mixed and waiting in the fridge. Take it out before bed so it comes to room temperature, and clear a low oven shelf.
+> The salt dough is mixed and waiting in the fridge. Take it out before bed so it comes to room temperature, and clear two low oven shelves.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Rolling the Bricks
@@ -831,7 +831,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 - 1 pencil for scoring
 
 **📝 Step-by-Step Instructions:**
-1. Lay the cut bricks on the lined tray without touching each other.
+1. Lay the cut bricks across both lined trays without touching each other.
 2. Let her press a mark into each one with her thumb, or scratch a line with the pencil. She owns the ones she marks.
 3. Set them in the oven at its lowest setting. They need two to three hours, so put them in now and take them out around lunch.
 4. While they bake, knead the leftover dough together. Give her a big lump, take one yourself, and sit with it. Ten minutes of quiet kneading does more for a wound-up morning than any instruction.
@@ -11887,7 +11887,7 @@ makes the tickets and takes the orders.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
-- **4:15–5:00 PM** — Quiet Play: Taking the Big Top Down
+- **4:15–5:00 PM** — Quiet Play: The Props Back in the Box
 - **5:00–5:45 PM** — 🛁 Wind-Down: Watching the Show Back
 - **6:00 PM** — **Dinner**
 
@@ -18252,7 +18252,7 @@ Kenya.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks and the Big Spoon
-- **4:15–5:00 PM** — Quiet Play: The Bag of String
+- **4:15–5:00 PM** — Quiet Play: Reading the Wall of Strings
 - **5:00–5:45 PM** — 🛁 Wind-Down: Warm Bath and a Book About Trees
 - **6:00 PM** — **Dinner**
 
@@ -21363,7 +21363,7 @@ table this afternoon, small enough to cross with two fingers.
 - **2:30–3:30 PM** — 🎵 Loud Hour: Every Fast Song in the House (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
-- **4:15–5:00 PM** — Quiet Play: The Shop, Still Open
+- **4:15–5:00 PM** — Quiet Play: Re-pricing the Shelf
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath, and Pajamas Warm Out of the Dryer
 - **6:00 PM** — **Dinner**
 
@@ -23650,7 +23650,7 @@ made. She will move it back and forth before she believes it.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Forks
-- **4:15–5:00 PM** — Quiet Play: The Bowl of Ice Cubes
+- **4:15–5:00 PM** — Quiet Play: The Water Cycle Drawing
 - **5:00–5:45 PM** — 🛁 Wind-Down: The Steamed-Up Mirror
 - **6:00 PM** — **Dinner**
 
@@ -25658,7 +25658,7 @@ that way well past this week.
 **Theme:** Memorial Day & Community Heroes
 
 ### 🌙 Prep Tonight
-> Clear Kreston's clothes drawer down to what he can wear, stand the shoebox and the water bottles by the front door, and text whoever you are ringing tomorrow for a photograph of their room.
+> Clear Kreston's clothes drawer down to what he can wear, stand the shoebox and the water bottles by the front door, and text whoever you are calling on Wednesday for a photograph of their room.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Jobs Done Before She Woke Up
@@ -25777,8 +25777,8 @@ A box goes out by the front door this afternoon, stocked for whoever turns up.
 
 > ⚠️ **Safety:** Swimming with two children and one adult. Kreston is 11
 > months, stands alone for a moment and lunges at water, so he is in your
-> hands the whole time and Azlyn stays inside arm's reach. On a hot day get
-> him out at twenty minutes. Nothing goes in the water box that Kreston can
+> hands the whole time and Azlyn stays inside arm's reach. Get him out at
+> twenty minutes, hot day or not. Nothing goes in the water box that Kreston can
 > reach if he is out on the step with you.
 
 <div style="page-break-after: always;"></div>
@@ -27629,7 +27629,7 @@ working in teaspoons.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: Buttering the Bread
-- **4:15–5:00 PM** — Quiet Play: The Ribbon Basket
+- **4:15–5:00 PM** — Quiet Play: Drawing the Arrow Again
 - **5:00–5:45 PM** — 🛁 Wind-Down: The Ribbons from the Window
 - **6:00 PM** — **Dinner**
 
@@ -30843,7 +30843,7 @@ whining. Azlyn draws the shape herself and you follow it.
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Three Links Left
 - **9:00–9:15 AM** — Morning Meeting (15 min)
-- **9:15–10:15 AM** — 🎨 The Main Event: Setting the Table Four Days Early (60 min)
+- **9:15–10:15 AM** — 🎨 The Main Event: Setting the Table Three Days Early (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
 - **10:30–11:15 AM** — 🌳 Get Outside: Every Flag Between Here and the Corner (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
@@ -30866,7 +30866,7 @@ whining. Azlyn draws the shape herself and you follow it.
 2. Count them with her: Friday, Saturday, Sunday. Say what happens on each, in order, the same way every morning from here.
 3. Write **3** on the bottom link and hang it back up. Leave the question of whose birthday it is for the Morning Meeting.
 
-### 🎨 The Main Event: Setting the Table Four Days Early
+### 🎨 The Main Event: Setting the Table Three Days Early
 
 **🧰 Complete Materials List:**
 - Paper plates and cups, one per person
@@ -30882,7 +30882,7 @@ whining. Azlyn draws the shape herself and you follow it.
 3. Count the people in the house out loud on fingers. One paper plate and one paper cup each, and she carries them over one at a time.
 4. Write each name on a cup with the permanent marker. She tells you whose is whose, then adds her own marks to each one.
 5. She decides who sits where. Take her seating plan as final, including the part where Kreston sits next to her.
-6. Fill the cups from the pitcher of water and eat the 10:15 snack sitting at it, in the right seats, four days early.
+6. Fill the cups from the pitcher of water and eat the 10:15 snack sitting at it, in the right seats, three days early.
 
 > 💡 **Tip:** Leave it set. She will walk past a table that stays laid and rearrange it eleven times before Sunday.
 
@@ -30950,7 +30950,7 @@ prints her hand on the side, and it is shut until Sunday.
 > Sunday is a party for somebody who is not Azlyn, and a three-year-old does
 > not separate a country's birthday from her own the way you do. She will ask
 > where her cake is. Telling her on the day that it is not about her lands as
-> a correction, and she has done nothing wrong. Telling her four days early,
+> a correction, and she has done nothing wrong. Telling her three days early,
 > at a table she laid herself, gives her a job inside the celebration instead.
 > The same thing works for Kreston's next birthday: a role, a task, something
 > of her own to carry. Preparation gets you a helper, and correction gets you
@@ -41311,7 +41311,7 @@ twenty times a day.
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: The Bread on the Board
 - **4:15–5:00 PM** — Quiet Play: Rearranging the Shelf
-- **5:00–5:45 PM** — 🛁 Wind-Down: The Tour Again, in Pajamas
+- **5:00–5:45 PM** — 🛁 Wind-Down: Watching the Tour Back
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: Six Things Worth Showing
@@ -42723,7 +42723,7 @@ building site.
 - **1:00–2:30 PM** — 🎨 Second Main Event: The Crossing She Runs Herself (90 min)
 - **2:30–3:30 PM** — 🌳 Out Again: **The Museum** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
-- **4:00–4:15 PM** — 🧹 Her Job: Putting the Shopping Where It Lives
+- **4:00–4:15 PM** — 🧹 Her Job: The Cars Back in the Box
 - **4:15–5:00 PM** — Quiet Play: Driving the Map
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Map Spread on the Floor
 - **6:00 PM** — **Dinner**
@@ -46757,7 +46757,7 @@ survive on a shelf until six.
 - Straight home, if the tin on the shelf is all she can think about
 
 > 👶 **Kreston's Afternoon:** Break him a crumb off the baked trimmings from
-> step 4, and leave the four letters where they are. At 15 months he is
+> step 4, and leave the parcels in the tin. At 15 months he is
 > spooning his own food and a shortbread crumb is well within him. At the
 > bakery, hold him up to the glass and name the tray he points at.
 
@@ -47490,7 +47490,7 @@ Thursday afternoon, when she walks it one last time and peels it up.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: One Fork Each
-- **4:15–5:00 PM** — Quiet Play: The Counting Jar on the Rug
+- **4:15–5:00 PM** — Quiet Play: The Board and the Card Counters
 - **5:00–5:45 PM** — 🛁 Wind-Down: The Book You Count In
 - **6:00 PM** — **Dinner**
 
@@ -49874,7 +49874,7 @@ goes back at the end.
 - **1:00–2:30 PM** — 🎨 Second Main Event: The Balloon That Flies Down the String (90 min)
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
-- **4:00–4:15 PM** — 🧹 Her Job: Putting the Shopping Away
+- **4:00–4:15 PM** — 🧹 Her Job: The Forks
 - **4:15–5:00 PM** — Quiet Play: The Shop Stays Open
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Long Book
 - **6:00 PM** — **Dinner**
@@ -57871,7 +57871,7 @@ apart on a towel while the light drains out of the windows.
 - **2:30–3:30 PM** — 🏠 Indoors Instead: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: A Bowl at Every Place
-- **4:15–5:00 PM** — Quiet Play: The Screws in the Muffin Tin
+- **4:15–5:00 PM** — Quiet Play: The Parts Poster
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath While the House Smells of Dinner
 - **6:00 PM** — **Dinner**
 

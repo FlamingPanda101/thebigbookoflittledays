@@ -189,7 +189,7 @@ apart on a towel while the light drains out of the windows.
 - **2:30–3:30 PM** — 🏠 Indoors Instead: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: A Bowl at Every Place
-- **4:15–5:00 PM** — Quiet Play: The Screws in the Muffin Tin
+- **4:15–5:00 PM** — Quiet Play: The Parts Poster
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath While the House Smells of Dinner
 - **6:00 PM** — **Dinner**
 

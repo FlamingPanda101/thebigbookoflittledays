@@ -655,7 +655,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 **Theme:** Shape Engineers & Building
 
 ### 🌙 Prep Tonight
-> The salt dough is mixed and waiting in the fridge. Take it out before bed so it comes to room temperature, and clear a low oven shelf.
+> The salt dough is mixed and waiting in the fridge. Take it out before bed so it comes to room temperature, and clear two low oven shelves.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Rolling the Bricks
@@ -693,7 +693,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 - 1 pencil for scoring
 
 **📝 Step-by-Step Instructions:**
-1. Lay the cut bricks on the lined tray without touching each other.
+1. Lay the cut bricks across both lined trays without touching each other.
 2. Let her press a mark into each one with her thumb, or scratch a line with the pencil. She owns the ones she marks.
 3. Set them in the oven at its lowest setting. They need two to three hours, so put them in now and take them out around lunch.
 4. While they bake, knead the leftover dough together. Give her a big lump, take one yourself, and sit with it. Ten minutes of quiet kneading does more for a wound-up morning than any instruction.
