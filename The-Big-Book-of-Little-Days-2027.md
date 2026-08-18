@@ -3055,7 +3055,7 @@ makes it for her brother.
 > 👶 **Kreston's Afternoon:** He comes to the pool if he is coming. At 7 months
 > he sits supported in the water and slaps at it with both hands, and he aims
 > the splash at a person now. Twenty minutes, then out and dressed before he
-> goes cold. Never out of arm's reach.
+> goes cold.
 
 ---
 
@@ -6370,7 +6370,7 @@ it goes stale by evening.
 5. Roll the mixture into walnut-sized balls, flatten them onto the lined tray with gaps between, and she adds her extras where her page says.
 6. Bake at 350°F for twelve to fifteen minutes until the edges brown. Read her recipe out loud once more while they bake.
 
-> 💡 **Tip:** Where her order makes a mess of it, follow it and say out loud what happened. A batch that comes out odd beats one you fixed behind her back.
+> 💡 **Tip:** Follow her order even where it makes a mess of the batch, and say out loud what happened. A batch that comes out odd beats one you fixed behind her back.
 
 ### 🌳 Get Outside: The Frost Patch Hunt
 
@@ -18658,7 +18658,7 @@ it to show what the water carries off.
 - 1 bucket to empty into
 
 **📝 Step-by-Step Instructions:**
-1. Rebuild the dam on the propped tray, towels underneath. Kreston goes in the high chair beside you for the whole ninety minutes, or the tray goes in the bath and you both kneel at the side. She builds this one and you hand her pieces as she asks.
+1. Rebuild the dam on the propped tray, towels underneath. Kreston goes in the high chair beside you for the whole ninety minutes, and he stays in it if you move the tray to the bath instead. She builds this one and you hand her pieces as she asks.
 2. Fill behind it a pitcher at a time. Let the water settle, then mark the line it reaches with chalk or tape.
 3. Float the cork on the water above the dam.
 4. Let her pull one single piece out of the dam. She picks which. Both of you watch the cork.
@@ -19668,7 +19668,7 @@ Everything that floated this morning gets a second job.
 - **2:30–3:30 PM** — 🌳 Out Again: **Pick one** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: Rinsing the Cans
-- **4:15–5:00 PM** — Quiet Play: The Sheets Along the Radiator
+- **4:15–5:00 PM** — Quiet Play: Counting the Towels Along the Radiator
 - **5:00–5:45 PM** — 🛁 Wind-Down: Bath and the Sheets Still Drying
 - **6:00 PM** — **Dinner**
 
@@ -19750,7 +19750,7 @@ frame is a sheet of paper. She should get five or six out of that bowl.
 - One sheet, pressed by hand, no rolling pin.
 - Press petals into a folded kitchen towel and skip the pulp.
 - Make confetti out of the leftover dry scraps.
-- Line the drying sheets up and sort them by thickness once they are dry.
+- Press one sheet, then sort the leftover dry scraps into thick and thin piles.
 
 ### 🌳 Out Again: **Pick one**
 - **The riverside path**, looking for what the water has carried in
@@ -22162,8 +22162,7 @@ Walk to the store for the one uncircled thing and nothing else. Give her the
 coins before you go in and let her hand them over at the register. May
 mornings need one layer, and neither of you reached for the coats you fought
 about in March. She carries the bag home and straight to the fridge. She lifts
-the cover, sets the last food on its empty saucer and covers the plate
-again.
+the cover, sets the last food on its empty saucer and covers the plate again.
 
 > 👶 **Infant Integration:** Kreston is 11 months. Sit him in the high chair at
 > the table with a saucer of his own while she builds the big plate. He has
@@ -22205,7 +22204,7 @@ questions for dinner and a name at every seat.
 ### 🌳 Out Again: **Pick one**
 - **The pet store and the garden center**, in that order, for the fish tanks first
 - The garden center alone if the pet store is packed
-- The park, and home by three thirty to check the fridge plate
+- The park, and home by three thirty for the last hour in the yard
 - A drive to look at other people's front yards in bloom
 
 > 👶 **Kreston's Afternoon:** He goes in the carrier facing out for the fish
@@ -22382,7 +22381,7 @@ and Brooklyn does not come in for ninety minutes.
 - **9:00–9:15 AM** — Morning Meeting (15 min)
 - **9:15–10:15 AM** — 🎨 The Main Event: The Twins in the Tin (60 min)
 - **10:15–10:30 AM** — Snack (15 min)
-- **10:30–11:15 AM** — 🌳 Get Outside: The Tree That Was Bare in January (45 min)
+- **10:30–11:15 AM** — 🌳 Get Outside: The Leaves Over the Path (45 min)
 - **11:15–11:45 AM** — Free Play (30 min)
 - **11:45 AM–12:00 PM** — 🤸 Wiggle Time (15 min)
 - **12:00–12:30 PM** — Lunch
@@ -22422,9 +22421,9 @@ and Brooklyn does not come in for ninety minutes.
 
 > 💡 **Tip:** Take her word for *the same*, then ask what makes them the same. Two red buttons with a different number of holes last about a minute of that.
 
-### 🌳 Get Outside: The Tree That Was Bare in January
+### 🌳 Get Outside: The Leaves Over the Path
 
-Walk to the tree you stood under on the first day of this year. It is in full
+Walk the January route as far as the trees along the path. They are in full
 leaf now and the shape she looked at in the frost has gone. Stand her in the
 same spot and ask what happened. Take her theory, and pick one leaf for the
 box.
@@ -23285,8 +23284,9 @@ what the sun leaves.
 - The garden center, cool inside and full of things to look at
 - The kiddie pool on the lawn, if the heat has held
 
-> 👶 **Kreston's Afternoon:** Sit Kreston on a shaded patch of paving and chalk
-> round him where he sits. At 11 months a sitting outline is the one you will
+> 👶 **Kreston's Afternoon:** Kreston comes with whatever you pick. Back home
+> before dinner, sit him on a shaded patch of paving and chalk round him where
+> he sits. At 11 months a sitting outline is the one you will
 > get, and Azlyn will want to draw it. Keep him off hot paving in bare feet,
 > and offer him water more often than her.
 
@@ -24010,7 +24010,7 @@ bell beside it, and by Thursday she is sitting down sorting the whole week
 into a shoebox. Four things outlast the seven days: the cape and the shield,
 both dated, the training chart with a row on it for Kreston, the fire route
 map on the fridge, and the box itself, which holds the spare medal that comes
-back out in July.
+back out on a doorstep later in the year.
 
 ---
 
@@ -24474,7 +24474,7 @@ in the same place and let her lose a couple.
 ### 🎨 Second Main Event: The Ceremony on the Doorstep
 
 Six medals on a table are craft. Six handed over on a doorstep, with a note
-and a line said out loud, come up again in July.
+and a line said out loud, come up again the next time somebody wins something.
 
 **🧰 Complete Materials List:**
 - The medals
@@ -34909,7 +34909,7 @@ Azlyn builds a sea this week and it stays up. You tape a blue sheet down one
 wall on Friday and she hangs three fish in it at three depths, and on Saturday
 the staircase becomes the water column, bright at the top and black at the
 bottom. By Monday a whale the size of a door hangs beside the fish, and Tuesday
-adds a jellyfish in a doorway everyone has to duck through. One question runs
+adds a jellyfish in a doorway the grown-ups and Azlyn duck through. One question runs
 underneath all the making: what floats, what sinks, and what changes the
 answer. She meets it in a squeezed bottle on Sunday morning, in three tubs
 loaded pebble by pebble after lunch, and again on Thursday with an egg and six
@@ -35098,8 +35098,8 @@ Pale at the top, dark at the bottom goes up on the wall at 1:00.
 ### 🎨 Second Main Event: The Ocean Down One Wall
 
 One wall of the house goes under water for the rest of the week. Pick the wall
-she walks past most, because Monday's whale and Tuesday's jellyfish go on it
-too.
+she walks past most, because Monday's whale goes on it too, and Tuesday's
+jellyfish hangs in a doorway beside it.
 
 **🧰 Complete Materials List:**
 - 1 blue sheet, blue plastic tablecloth or 2 blue trash bags
@@ -41363,7 +41363,7 @@ flashlight confirms what she worked out.
 **📝 Step-by-Step Instructions:**
 1. Split the length into three stretches, one for you, one for Azlyn and one for Kreston at the end nearest the door. Kneel down at your own with one brush and one color each, and tape a plastic cup of water on the wall side of your place and hers with a loop of packing tape, out past where Kreston kneels, so a knee cannot tip it. He works off yours.
 2. Music on. Everyone paints their own stretch.
-3. Stop the music. Stand up, move one stretch along, kneel down and carry on in your own color on somebody else's work. Whoever is at the far end walks back to the start, and Kreston moves along when you carry him.
+3. Stop the music. Stand up, move one stretch along, kneel down and carry on in your own color on somebody else's work. Whoever is at the far end walks back to the start, and Kreston stays where he is with his own two cups.
 4. Run it four or five times. She will get precious about her bit at the first move and stop caring by the third.
 5. Pass the sponge round for the last song. Pressed flat and lifted, it puts down a texture no brush makes.
 6. Wipe hands on the towels, leave it taped to the floor to dry, and shut the hall door on it until one o'clock.
@@ -57702,10 +57702,9 @@ through them.
 
 > 👶 **Infant Integration:** Kreston is 17 months and copies whatever job is
 > going, so give him the second cloth and a low cupboard door to wipe while
-> Azlyn does her drawer. He stays in the room through the hook, so put it up
-> on the adhesive pads and leave the screws in your pocket. He wipes one spot
-> for a long time. Outside, put the ice sheet flat on the grass and let him
-> stamp on it in boots.
+> Azlyn does her drawer. He stays in the room through the hook, which is what
+> the adhesive pads are for. He wipes one spot for a long time. Outside, put
+> the ice sheet flat on the grass and let him stamp on it in boots.
 
 <div style="page-break-after: always;"></div>
 
@@ -59550,14 +59549,15 @@ The big light goes off at one o'clock and stays off until the story is over.
 > the worst line, so keep your face easy and tell it the same way twice.
 
 > ⚠️ **Safety:** Battery tea lights only. No candle, no match, no real flame
-> inside a cardboard building. The button batteries inside tea lights and small
-> flashlights are a swallowing emergency for an 18-month-old, so tape the
-> battery covers shut, count the lights in and out, and put them away high the
-> moment you finish. The craft knife is adult-only and the scissors stay with
-> you. The freezer bag and the plastic folder come up off the floor the moment
-> the sorting ends, because a bag at floor level suffocates an 18-month-old.
-> The loose candy wrappers stay at your end of the table, out of his reach,
-> until the last window is taped and the leftovers go in the trash.
+> inside a cardboard building. The button batteries inside tea lights and
+> small flashlights are a swallowing emergency for an 18-month-old, so tape
+> the battery covers shut, count the lights in and out, and put them away high
+> the moment you finish. The craft knife is adult-only and the scissors stay
+> with you. The freezer bag and the plastic folder come up off the floor the
+> moment the sorting ends, because a bag at floor level suffocates an
+> 18-month-old. The loose candy wrappers come up off the floor with them and
+> stay at your end of the table, out of his reach, until the last window is
+> taped and the leftovers go in the trash.
 
 <div style="page-break-after: always;"></div>
 <a id="week-50"></a>

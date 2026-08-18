@@ -326,7 +326,7 @@ it goes stale by evening.
 5. Roll the mixture into walnut-sized balls, flatten them onto the lined tray with gaps between, and she adds her extras where her page says.
 6. Bake at 350°F for twelve to fifteen minutes until the edges brown. Read her recipe out loud once more while they bake.
 
-> 💡 **Tip:** Where her order makes a mess of it, follow it and say out loud what happened. A batch that comes out odd beats one you fixed behind her back.
+> 💡 **Tip:** Follow her order even where it makes a mess of the batch, and say out loud what happened. A batch that comes out odd beats one you fixed behind her back.
 
 ### 🌳 Get Outside: The Frost Patch Hunt
 

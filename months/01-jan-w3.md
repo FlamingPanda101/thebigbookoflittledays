@@ -794,7 +794,7 @@ makes it for her brother.
 > 👶 **Kreston's Afternoon:** He comes to the pool if he is coming. At 7 months
 > he sits supported in the water and slaps at it with both hands, and he aims
 > the splash at a person now. Twenty minutes, then out and dressed before he
-> goes cold. Never out of arm's reach.
+> goes cold.
 
 ---
 
