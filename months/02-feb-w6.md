@@ -113,8 +113,8 @@ walks a round she scouted that morning, and hands it over at four front doors.
 
 > 👶 **Kreston is 8 months this week**. He crawls or shuffles, brings two
 > objects together to bang them, and checks your face before he decides what a
-> new thing is for. **He turns 8 months on Friday the 5th, the first day of the week,
-> and stranger wariness arrives with it.**
+> new thing is for. **He turns 8 months on Friday the 5th, the first day of
+> the week, and stranger wariness arrives with it.**
 
 ---
 
@@ -405,7 +405,10 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 > will eat some of the mixture. Hold it to one small spoonful, or set a
 > spoonful aside before the egg goes in. Kreston gets none of it raw, and
 > cookies are sugar all the way through, so he skips the baked ones too. The
-> bowl goes in the sink and not on the floor.
+> bowl goes in the sink and not on the floor. The oven runs at 350°F with him
+> crawling, so block his route to the oven door with a chair or the stroller
+> before the tray goes in, and check the block is still there before the tray
+> comes out.
 
 <div style="page-break-after: always;"></div>
 
@@ -540,12 +543,12 @@ anybody else's.
 > hour under a lamp. Yours counts too, and you run the same shortage she does.
 
 > ⚠️ **Safety:** The oven goes to 475°F today and Kreston is shuffling, so
-> block his route to it with a chair or the stroller before the first tray goes in,
-> and check the block is still there before you open the door. Melted cheese
-> holds its heat long after the crust has cooled. Cut hers into strips and
-> leave them three minutes on the board before the plate reaches her. If there
-> is ice underfoot on the walk, take the salted side of the path and keep one
-> hand free for her.
+> block his route to it with a chair or the stroller before the first tray
+> goes in, and check the block is still there before you open the door. Melted
+> cheese holds its heat long after the crust has cooled. Cut hers into strips
+> and leave them three minutes on the board before the plate reaches her. If
+> there is ice underfoot on the walk, take the salted side of the path and
+> keep one hand free for her.
 
 <div style="page-break-after: always;"></div>
 

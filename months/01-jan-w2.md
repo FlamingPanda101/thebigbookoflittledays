@@ -887,7 +887,7 @@ money in their hand.
 4. Sing the verse, walk up with a coin, buy one bun and carry it away. She hands the bun over and puts the coin in the register herself.
 5. After each sale, ask how many are left and let her count the tray from the start. Wait out the recount.
 6. Sell all five, then swap. She counts the coins out of the register one at a time into your hand.
-7. Shut the shop. Count the coins in the register and the buns in your hand, and stack both on the tray for tomorrow.
+7. Shut the shop. Count the five coins in your hand and the five buns beside them, and stack both on the tray.
 
 > 💡 **Tip:** Do the buying in real time. A pause between sales, a walk to the door, a knock before you come in. She has to hold the number while the shop waits.
 
@@ -904,10 +904,10 @@ money in their hand.
 - A friend's house, with the rhyme bag in your coat pocket
 - The indoor play center, if the weather has shut everything else down
 
-> 👶 **Kreston's Afternoon:** Indoor playground at 7 months means the baby corner and
-> nothing beyond it. He sits without help now, so put him on the mats with two
-> soft blocks in reach and let the older children run past him. Half an hour,
-> before the noise catches up with him.
+> 👶 **Kreston's Afternoon:** Indoor playground at 7 months means the baby
+> corner and nothing beyond it. He sits without help now, so put him on the
+> mats with two soft blocks in reach and let the older children run past him.
+> Half an hour, before the noise catches up with him.
 
 ---
 

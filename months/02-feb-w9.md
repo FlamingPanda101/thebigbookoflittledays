@@ -498,10 +498,11 @@ you are the one doing what she says.
 - A playground you drive past and never stop at
 - The yard or the front step, with the lemonade pitcher
 
-> 👶 **Kreston's Afternoon:** At 8 months he goes in the stroller while she scoots,
-> and the wheels beside him are the entertainment. Stop somewhere flat and put
-> him down on a rug with a plastic pitcher and a wooden spoon. He fills, tips, bangs
-> and starts again. Keep the squeezed lemon halves and every seed away from him.
+> 👶 **Kreston's Afternoon:** At 8 months he goes in the stroller while she
+> scoots, and the wheels beside him are the entertainment. Stop somewhere flat
+> and put him down on a rug with a plastic pitcher and a wooden spoon. He
+> fills, tips, bangs and starts again. Keep the squeezed lemon halves and
+> every seed away from him.
 
 ---
 
@@ -629,10 +630,11 @@ of card.
 - A puddle circuit with no destination
 - The mailbox, and let her push the letter in
 
-> 👶 **Kreston's Afternoon:** At 8 months the stroller is fine for the path, but give
-> him ten minutes out of it on a blanket somewhere flat. He crawls to the edge,
-> meets grass with his palm and stops to think about it. Let him meet cold ground
-> on purpose while you sit there, then back in the stroller before his hands cool.
+> 👶 **Kreston's Afternoon:** At 8 months the stroller is fine for the path,
+> but give him ten minutes out of it on a blanket somewhere flat. He crawls to
+> the edge, meets grass with his palm and stops to think about it. Let him
+> meet cold ground on purpose while you sit there, then back in the stroller
+> before his hands cool.
 
 ---
 
@@ -1036,8 +1038,8 @@ around her while she draws.
 > own timing.
 
 > ⚠️ **Safety:** A pan simmering on the stovetop for an hour with a crawling
-> 8-month-old in the house. Back burner only, handle turned in, and it goes off the
-> heat if you leave the kitchen. Ground cinnamon and coffee sting in the eyes, so
-> the pots stay lidded and go up high when she is done with them.
+> 8-month-old in the house. Back burner only, handle turned in, and it goes
+> off the heat if you leave the kitchen. Ground cinnamon and coffee sting in
+> the eyes, so the pots stay lidded and go up high when she is done with them.
 
 <div style="page-break-after: always;"></div>

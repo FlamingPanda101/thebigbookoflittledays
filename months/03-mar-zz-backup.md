@@ -297,7 +297,7 @@ goes outside today. The rest block below is the day; everything else is
 optional and can be dropped halfway through with no harm done.
 
 ### 🌙 Before She Wakes
-> Make her spot on the sofa now: two pillows, the blanket she likes, a towel over the cushion under her head, a cup with a lid within her reach, and a bowl on the floor beside her in case. Put the tissues where she can get them herself. Fill a paper bag with ten small things from around the house and leave it behind the sofa, out of her sight until you want it.
+> Make her spot on the sofa now: two pillows, the blanket she likes, a towel over the cushion under her head, a cup with a lid within her reach, and a bowl on the floor beside her in case. Put the tissues where she can get them herself. Fill a paper bag with ten things from around the house, none of them small enough to choke Kreston, and leave it behind the sofa, out of her sight until you want it.
 
 ### 🕰️ The Shape of the Day
 
@@ -335,10 +335,10 @@ notch better.
 ### 🤲 Three Things That Ask Nothing of Her
 
 **The Bag You Bring to Her.** The bag you filled last night comes out from
-behind the sofa: a spoon, a shell, a key ring, a hair clip, a photo, a pine
-cone. Hand her one at a time and say nothing about it. She looks, keeps it on
-the blanket or gives it back. No questions and no quiz. This runs for as long
-as it runs and stops the second she turns her head away.
+behind the sofa: a wooden spoon, a hairbrush, a bangle, a postcard, a photo, a
+tape measure. Hand her one at a time and say nothing about it. She looks,
+keeps it on the blanket or gives it back. No questions and no quiz. This runs
+for as long as it runs and stops the second she turns her head away.
 
 **Drawing on the Back of Her Hand.** Washable marker, her hand flat on the
 blanket, and you draw. A cat, a boat, a sun, her name. She does nothing at all
@@ -389,16 +389,19 @@ them, every time, and keep her cup and his separate.
 > for you. Cancel what the week had in it, plan nothing, and guard your own
 > sleep, because it is holding the rest of this up.
 
-> ⚠️ **Safety:** Call your doctor the same day for a fever in a child this age
-> that passes 104°F, or any fever lasting more than three days. Go now, not
-> tomorrow, for fast or labored breathing, a stiff neck, a rash that stays
-> visible when you press a glass against it, a child too drowsy to wake
-> properly, or no wet diaper or bathroom trip in eight hours. Never give
-> aspirin to a child. Follow the dosing on the bottle by weight and write down
-> the time of every dose, because you will not remember it by evening. Ice
-> goes in only while she sits up, crushed small under the back of a spoon, and
-> whole cubes stay in the freezer, because a cube slides back on a flat child
-> and blocks her airway.
+> ⚠️ **Safety:** The bag is the hazard on this page. Nothing goes in it small
+> enough to choke Kreston, because everything that lands on her blanket
+> reaches the floor by evening. Count the ten back into the bag before he is
+> down, and sweep the blanket and the carpet with your hand first. Call your
+> doctor the same day for a fever in a child this age that passes 104°F, or
+> any fever lasting more than three days. Go now, not tomorrow, for fast or
+> labored breathing, a stiff neck, a rash that stays visible when you press a
+> glass against it, a child too drowsy to wake properly, or no wet diaper or
+> bathroom trip in eight hours. Never give aspirin to a child. Follow the
+> dosing on the bottle by weight and write down the time of every dose,
+> because you will not remember it by evening. Ice goes in only while she sits
+> up, crushed small under the back of a spoon, and whole cubes stay in the
+> freezer, because a cube slides back on a flat child and blocks her airway.
 
 
 

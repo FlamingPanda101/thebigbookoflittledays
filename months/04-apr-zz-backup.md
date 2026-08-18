@@ -247,11 +247,12 @@ everybody sitting down, which is what the afternoon needs after that morning.
 - Sort the goods into what you eat and what you wear.
 - Play the whole shop with words and no beans, and see whether she notices.
 
-> 👶 **Kreston's Afternoon:** He is the customer who clears the bottom shelf, which at 10 months is a real
-> job and worth handing him on purpose. Put three of the goods low down where he
-> cruises past and let him take them off and pass them over. He points at what he
-> wants named, so name the can, the box and the sock every time. Sweep the
-> floor and count the beans back into the bag before he goes down there.
+> 👶 **Kreston's Afternoon:** He is the customer who clears the bottom shelf,
+> which at 10 months is a real job and worth handing him on purpose. Put three
+> of the goods low down where he cruises past and let him take them off and
+> pass them over. He points at what he wants named, so name the can, the box
+> and the sock every time. Sweep the floor and count the beans back into the
+> bag before he goes down there.
 
 ---
 

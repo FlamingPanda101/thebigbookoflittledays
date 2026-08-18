@@ -626,9 +626,9 @@ site. Rub each find on a paving stone, and whatever leaves a color comes home
 in the bag.
 
 > 👶 **Infant Integration:** Kreston is 8 months and he will crawl straight
-> under the table after her. Give him the flashlight beam to chase across the paper
-> while the bowls stay up above. A moving light outranks everything else for his
-> attention this month.
+> under the table after her. Give him the flashlight beam to chase across the
+> paper while the bowls stay up above. A moving light outranks everything else
+> for his attention this month.
 
 <div style="page-break-after: always;"></div>
 
@@ -916,7 +916,7 @@ and the people.
 
 **📝 Step-by-Step Instructions:**
 1. Spread the morning's rubbings out and let her choose four. Take her choices even when she picks the four you would have thrown out.
-2. Ask who each one is for. Say the four names back to her: a neighbor, a grandparent, somebody at playgroup, Joseph at work.
+2. Ask who each one is for. Say the four names back to her: a neighbor, a grandparent, somebody at playgroup, the friend two streets over.
 3. Ask what she wants to say about each one. Write her words on the back as they come out, then read them back to her.
 4. Fold each one into an envelope. She licks the flap and presses it shut, then draws on the front.
 5. Write the names on the front in big letters and let her point to the first letter of each.
@@ -938,10 +938,11 @@ and the people.
 - A café with a window seat and something to watch
 - The bakery, and she chooses what everyone eats at four
 
-> 👶 **Kreston's Afternoon:** He rides the delivery round in the stroller with the
-> rain cover ready. At 8 months the quiet play-center session suits him, and he
-> will crawl the length of a padded mat if you set him down at one end.
-> Neighbors lean into a stroller at the door, so turn him to face you when they do.
+> 👶 **Kreston's Afternoon:** He rides the delivery round in the stroller with
+> the rain cover ready. At 8 months the quiet play-center session suits him,
+> and he will crawl the length of a padded mat if you set him down at one end.
+> Neighbors lean into a stroller at the door, so turn him to face you when
+> they do.
 
 ---
 

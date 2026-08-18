@@ -19,8 +19,9 @@ and no plan.
 
 Cold rain since before you woke up, and the forecast has it staying. November
 hands her one long gray view out of every window in the house, so today you
-paint it, and lunch happens on the floor under the lamps at one thirty because
-the dark is back by five.
+paint it, and the whole afternoon happens on the floor under the lamp from
+one o'clock because the dark is back by five. Lunch at twelve stays small on
+purpose, because the floor is being set for one o'clock.
 
 ### 🌙 Prep Tonight
 > Stand the paints, two jars for water and a stack of newspaper on the table, and put an empty egg carton and the widest brush you own beside them.
@@ -97,9 +98,8 @@ pink and loud and ready to sit down.
 
 ### 🎨 Second Main Event: The Picnic That Never Went Outside
 
-Morning was wet paint and standing up. This afternoon everybody sits on the
-floor, the curtains come across, and lunch happens under a lamp at one thirty
-because the dark is coming back at five anyway.
+Morning was wet paint and standing up. Everybody sits on the floor now, the
+curtains come across, and nobody stands up again until the tray goes back.
 
 **🧰 Complete Materials List:**
 - 1 blanket or an old sheet
@@ -114,7 +114,7 @@ because the dark is coming back at five anyway.
 **📝 Step-by-Step Instructions:**
 1. She clears the middle of the living room floor. Move the low table out together and let her decide which way around the blanket goes.
 2. She lays a place for everybody in the house, plus two toys she chooses, and everyone gets a real plate.
-3. Food onto the tray, cold, no stove involved. She loads it and carries it in two hands, one trip, and you walk behind her.
+3. Food onto the tray, cold, no stove involved: what lunch left, plus whatever is open in the fridge. She loads it and carries it in two hands, one trip, and you walk behind her.
 4. Curtains across, big light off, lamp on. The room changes and she will notice before you say anything.
 5. Everybody down on the floor with a cushion each, adults included, and nobody gets up for forty minutes. Phones go on the shelf.
 6. She pours. Small pitcher, half full, one cup at a time, and a spill gets a dish towel rather than a comment.

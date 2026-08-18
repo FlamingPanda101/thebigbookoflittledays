@@ -80,8 +80,9 @@ goes to and carries the jar to the door herself.
 - [ ] 3 chairs you can move, two for the curtain and one for the window
 - [ ] A low stool
 - [ ] A scarf or a wide ribbon
-- [ ] 2 wooden spoons
+- [ ] 3 wooden spoons, the third one Kreston's
 - [ ] A saucepan you don't mind being drummed
+- [ ] A small plastic tub, upturned, as Kreston's drum
 - [ ] A large mixing bowl
 - [ ] A large pot and a ladle
 - [ ] A rolling pin
@@ -131,7 +132,7 @@ goes to and carries the jar to the door herself.
 **Theme:** Kindness & Community
 
 ### 🌙 Prep Tonight
-> Put four sheets of paper, a pen and two wooden spoons on the table with a saucepan upside down beside them, and wash and dry a jar with a lid for the afternoon.
+> Put four sheets of paper, a pen and three wooden spoons on the table with a saucepan and a small plastic tub upside down beside them, and wash and dry a jar with a lid for the afternoon.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Who the Song Is For
@@ -187,10 +188,10 @@ Let her pick who gets a verse: a dog, a parked van, the woman at the bus stop.
 
 > 👶 **Infant Integration:** Kreston is 7 months and babbling in long strings
 > now, which is singing with the words still missing. Sit him on the floor
-> with the second wooden spoon and the upturned saucepan while Azlyn works. He
-> bangs it, and the noise lands in the middle of her song instead of beside
-> it. Set the spoon down on his far side once or twice, because reaching
-> across his own body is new this month and worth the stretch.
+> with a wooden spoon of his own and the upturned plastic tub while Azlyn
+> works. He bangs it, and the noise lands in the middle of her song instead
+> of beside it. Set the spoon down on his far side once or twice, because
+> reaching across his own body is new this month and worth the stretch.
 
 <div style="page-break-after: always;"></div>
 

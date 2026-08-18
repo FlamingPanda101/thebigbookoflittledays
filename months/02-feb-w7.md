@@ -692,7 +692,10 @@ to be a job.
 > string necklace is a strangulation risk. It comes off for sleep, it never
 > goes near Kreston, and it hangs on a hook overnight. Dried pasta on the
 > floor is choking-sized for an 8-month-old who crawls toward whatever he
-> sees, so sweep before he is down.
+> sees, so sweep before he is down. A lifted ice pane snaps into mouth-sized
+> pieces, so Kreston touches ice in your hands and never holds a piece of his
+> own. The puddle you lift a pane off leaves a slick behind, so watch your
+> footing there while you are carrying him.
 
 <div style="page-break-after: always;"></div>
 

@@ -192,7 +192,7 @@ it away for a year.
 **📝 Step-by-Step Instructions:**
 1. Paint her palm with the brush rather than dipping her hand. Press flat, count to three, lift straight up. Write **January** and **3** beside it.
 2. Do Kreston's on the same sheet while he is calm, washcloth already in your hand.
-3. Stand them both against the door frame. Mark, date and write the names. Draw round Azlyn's flat hand next to her mark. Do everyone in the house so she can see the row.
+3. Stand Azlyn against the door frame. Mark, date and write her name. Draw round her flat hand next to her mark. Do the adults too so she can see the whole row.
 4. Ask her four questions and write the answers **word for word**: favorite color, favorite food, favorite song, what she wants to do this year. Do not tidy her grammar. Her wrong words are the ones you will want to read next December.
 5. Let her draw the family. Whatever comes out goes in.
 6. Load the box: the drawing, her answers, the walk treasure, a photo. Photograph everything first. Boxes go missing, and the photos on your phone will still be there.
@@ -214,10 +214,10 @@ it away for a year.
 - Mail a letter to Azlyn for her to open when she is five
 
 > 👶 **Kreston's Afternoon:** He goes on the growth chart too, lying down. Mark
-> and date his length on the same wall as everyone else. After that, give him
-> the flattened box to lie on. At six months he will stay with the crackle and
-> the give under his hands longer than he stays with a toy, and down there he
-> is at floor level with Azlyn while she works.
+> and date his length at the same door frame as everyone else. After that,
+> give him the flattened box to lie on. At six months he will stay with the
+> crackle and the give under his hands longer than he stays with a toy, and
+> down there he is at floor level with Azlyn while she works.
 
 ### 🌍 Around the World: Mongolia, the Arctic & the American Southwest 🏠
 

@@ -1,0 +1,206 @@
+[
+ {
+  "severity": "minor",
+  "day": 1,
+  "problem": "Step 3 of the Time Capsule now marks Azlyn and the adults 'against the door frame', but Kreston's Afternoon still reads 'Mark and date his length on the same wall as everyone else.' Nothing on the page calls the door frame a wall, and the week opener separately promises the growth chart goes 'on the wall'. The surfaces do not name each other.",
+  "fix": "In Kreston's Afternoon change 'on the same wall as everyone else' to 'at the same door frame as everyone else', so the one growth chart has one named surface across step 3, Kreston's Afternoon and the week opener."
+ },
+ {
+  "severity": "minor",
+  "day": 13,
+  "problem": "Repaired step 7 ends 'and stack both on the tray for tomorrow.' Day 14 is The Marching Band and carries no bun, coin, tray, shop or baker anywhere in it, so the forward promise lands on nothing.",
+  "fix": "Drop the two words: 'and stack both on the tray.' The counting is the point of the step and the tray already holds the stock."
+ },
+ {
+  "severity": "minor",
+  "day": 121,
+  "problem": "The new Safety sentence in months/04-apr-w18.md (line 417) sends the butterfly string 'above the window catch, out of reach from the sill', but Step 7 of the Second Main Event (line 401) was left unchanged and still reads 'Tape the length of string across the window frame and let her clip the butterflies along it' \u2014 she clips after it is already taped up, at a height the same sentence declares out of reach. The 4:15 schedule row, Quiet Play: The Butterflies on the String, sits on the same assumption. Day 82 in the same batch handled the identical problem correctly ('Lift it down for her at 4:15'); Day 121 got the Safety half and stopped.",
+  "fix": "Reorder Step 7 so the clipping happens at working height: 'Lay the string along the table and let her clip the butterflies onto it, then tape it up across the window frame above the catch.' Leave the Safety sentence as written."
+ },
+ {
+  "severity": "minor",
+  "day": 0,
+  "problem": "Sick Day 1, months/03-mar-zz-backup.md line 339: the rewritten bag paragraph left the line 'a tape measure. Hand her one at a time and say nothing about it. She looks, keeps it on' at 87 columns against the 78-column house wrap. The rest of the paragraph runs 74-77. Only 13 other prose lines in the whole book exceed 82 columns, so this one was introduced by the repair and goes to the print designer as is.",
+  "fix": "Rewrap the paragraph, e.g. 'behind the sofa: a wooden spoon, a hairbrush, a bangle, a postcard, a photo, / a tape measure. Hand her one at a time and say nothing about it. She / looks, keeps it on the blanket or gives it back. No questions and no quiz.' with the remaining lines reflowed to 78."
+ },
+ {
+  "severity": "minor",
+  "day": 155,
+  "problem": "The repairer claims Safety 'carries the same line' as step 7, and it does not. Second Main Event step 7 says 'Hang it at her eye height, which puts it above Kreston'; the Safety block says 'the finished board hangs high for the same reason'. Two different heights for the same object on the same page: a parent reading Safety alone hangs it at adult height, which kills the point of a board Azlyn is meant to look at. Everything else on the day holds (insight still says 'the board on the wall', Out Again still takes it off the wall to playgroup, Kreston is 11 months in all four blocks).",
+  "fix": "In months/06-jun-w23.md, change the Safety clause to echo step 7 word for word in substance: 'and the finished board hangs at her eye height, above his reach, for the same reason.' Re-wrap the block at 78 columns."
+ },
+ {
+  "severity": "minor",
+  "day": 137,
+  "problem": "The new Safety line sends the afternoon to 'cut the top off the second plastic bottle and make the drop in that for floor work', but no other block on the page supports that route. Prep Tonight washes only the jam jar; the Second Main Event materials list says only 'The water drop magnifier'; the day names no scissors anywhere, and a second drop rig needs a second elastic band while the week list carries 'An elastic band', one, and the Main Event lists '1 elastic band'. The bottle itself is covered by the week list ('a second one for the magnifier'), so the shortfall is the band and the block support. Also, 'the second plastic bottle' has no antecedent on Day 137's own page; the first bottle is on Day 134.",
+  "fix": "In months/05-may-w20.md, add 'a plastic bottle with the top cut off, plastic wrap and an elastic band' to the Second Main Event materials list, change the week list line 87 to 'Elastic bands, 2', and reword the Safety phrase to 'cut the top off a plastic bottle' so it does not point at a bottle the page never introduced."
+ },
+ {
+  "severity": "minor",
+  "day": 153,
+  "problem": "Repaired step 4 now reads 'their own card, the one she took off the door this morning', but Opening Activity step 2 addresses the adult: 'Take that card off the door and let her carry it about.' The adult takes it down, Azlyn carries it. The two blocks disagree on who took it off the door. The core contradiction the finding named is genuinely gone: no block now shows the card still hanging.",
+  "fix": "In months/05-may-w22.md, either change step 4 to 'the one that came off the door this morning' or change Opening step 2 to 'Let her take that card off the door and carry it about.'"
+ },
+ {
+  "severity": "minor",
+  "day": 158,
+  "problem": "The new Safety sentence 'one blank disc is his' pins down an allocation the rest of the page overspends. Step 7 leaves exactly three blank discs; Kreston takes one, the Out Again bullet 'A friend's garden, and take three spare discs' takes three, and the 4:15 Quiet Play row is 'Coloring the Spare Discs'. The Safety fix itself is correct and matches Kreston's Afternoon character for character ('wider than his mouth', 'no pencil through it'), and the deleted 'The scissors stay with you' is still covered by the block's opening two sentences.",
+  "fix": "In months/06-jun-w23.md, change step 1 to cut seven discs and step 7 to 'Leave four blank discs and the markers out on the table for later', or change the Out Again bullet to 'take two spare discs'."
+ },
+ {
+  "severity": "major",
+  "day": 237,
+  "problem": "The repaired Kreston's Afternoon block now reads 'Give him the spare paper cups on the floor across the room', and the Infant Integration block already gives him 'a stack of paper cups on the floor'. There are no spares. Second Main Event step 2 tapes all six paper cups round the wheel rim and they stay there through the 4:15 Quiet Play, and the week 34 flat shopping list (C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/08-aug-w34.md) carries exactly '- [ ] Paper cups, 6'. Day 238 also hands him 'a paper cup' at his stall. The fix depends on stock the week does not buy.",
+  "fix": "Change the week 34 list line to '- [ ] Paper cups, 12 (six for the wheel, the rest for Kreston)'."
+ },
+ {
+  "severity": "minor",
+  "day": 184,
+  "problem": "Main Event step 6, the repaired line, reads 'Park it behind a closed door, or up out of his reach.' Kreston is not named anywhere earlier on the page: Prep Tonight, the schedule, the Opening Activity and steps 1-5 all use 'she' for Azlyn only. He is first named in the Infant Integration block after Get Outside, so 'his' has no antecedent at the point a reader meets it. The Safety line has the same wording but sits after both infant blocks, so it is fine.",
+  "fix": "Step 6: 'Park it behind a closed door, or up out of Kreston's reach.'"
+ },
+ {
+  "severity": "minor",
+  "day": 215,
+  "problem": "Second Main Event 'Flag Up, Flag Down' calls for '1 saucepan lid and 1 wooden spoon as the camp bell' and step 4 bangs them. Neither is on the week 31 flat shopping list (07-jul-w31.md), which stops at 'A tablespoon' and 'Camp cups, plates and silverware'. Week 34 proves the convention includes them: '- [ ] A wooden spoon and a saucepan lid, to open the carnival with'. Pre-existing, not caused by the scissors repair, but on a page the repairer was told to re-read whole.",
+  "fix": "Add to the week 31 list: '- [ ] A saucepan lid and a wooden spoon, for the camp bell'."
+ },
+ {
+  "severity": "minor",
+  "day": 217,
+  "problem": "Second Main Event 'Striking Camp' materials call for '1 dustpan and brush, or a stiff yard broom' and step 7 sweeps the ground flat with it. The week 31 list carries 'A scrubbing brush and a sponge' only. Pre-existing.",
+  "fix": "Add to the week 31 list: '- [ ] A dustpan and brush, or a stiff yard broom'."
+ },
+ {
+  "severity": "minor",
+  "day": 229,
+  "problem": "The repaired step 6 reads 'Keep one raw ball back under the dish towel for four o'clock', and step 5 one line above reads 'Stack them on the plate under the dish towel.' The definite article points at the same towel, so raw masa sits with the warm cooked stack from 10:15 until 4:15 in mid-August. The materials list carries one towel for this job ('1 dish towel to keep the stack warm').",
+  "fix": "Step 6: 'Keep one raw ball back on the counter under an upturned bowl for four o'clock.'"
+ },
+ {
+  "severity": "minor",
+  "day": 226,
+  "problem": "The edited Safety block was not rewrapped. Line reads '> four.' on its own in the middle of the paragraph, after a 118-column line ending 'until she rinses them at'. House format wraps prose near 78 columns and this goes to a print designer.",
+  "fix": "Rewrap the Safety paragraph from 'Whole chalks' to 'cream again at eleven' at 78 columns."
+ },
+ {
+  "severity": "minor",
+  "day": 237,
+  "problem": "Both edited blocks were left unwrapped. Kreston's Afternoon carries a 93-column line ending 'across the room. He is 14 months', and Safety carries a 91-column line ending 'in open sun, so hat on,'. Neighboring lines in the same blocks run 70-78.",
+  "fix": "Rewrap Kreston's Afternoon and the Safety block at 78 columns."
+ },
+ {
+  "severity": "minor",
+  "day": 190,
+  "problem": "The edited Safety block was not rewrapped: an 86-column line ending 'hat on, cream' sits among 76-78 column lines.",
+  "fix": "Rewrap the Safety paragraph at 78 columns."
+ },
+ {
+  "severity": "minor",
+  "day": 207,
+  "problem": "The edited Safety block was not rewrapped: the line 'full, and tip it out over the grass at step 5. A July morning on a' breaks at 67 columns mid-paragraph while its neighbors run 76-78.",
+  "fix": "Rewrap the Safety paragraph at 78 columns."
+ },
+ {
+  "severity": "minor",
+  "day": 217,
+  "problem": "The edited Safety block was not rewrapped: the final line 'other three stay off the tent floor. Every stone you hand him is wider than his fist.' runs to 87 columns.",
+  "fix": "Rewrap the Safety paragraph at 78 columns."
+ },
+ {
+  "severity": "minor",
+  "day": 190,
+  "problem": "The new 4:15 row 'Quiet Play: The Bowl of Corks and Lids' names both plural, and the repaired Safety mouthing list says 'corks, lids and bottle caps'. The 8:00 pile it reuses is spelled out as 'a spoon, a cork, a lid, a peg, a craft stick, a bottle cap', one cork and one lid, and the week 28 list says 'Eight small kitchen things that can get wet: a cork, a lid, a peg, a bottle cap'. The row promises a bowl of something the day supplies one of.",
+  "fix": "Change the week 28 list line to 'Eight small kitchen things that can get wet: 2 corks, 2 jar lids, a peg, a bottle cap' so the row title is true."
+ },
+ {
+  "severity": "major",
+  "day": 310,
+  "problem": "The rejection is factually correct (day 310 is in months/11-nov-w45.md; 10-oct-w44.md holds days 302-308 only), but the defect is real and now belongs to nobody. Verified in 11-nov-w45.md: the Second Main Event pours 2 cups of fine salt at 1:00 PM and step 7 says 'Leave the tray set up. She comes back to it at 4:15 on her own', with a 17-month-old in the house, and the Safety block covers only the pin, warm water, the bucket and the wet floor. The finding was filed against an October file, so it will not appear in the November agent's queue and will die on the scope handoff.",
+  "fix": "Re-file the finding against months/11-nov-w45.md day 310 before the November pass closes: add to that day's Safety that loose salt is a poisoning risk swallowed, the tray works at the far end of the table, it goes up on a high shelf the moment either child leaves it, and the floor gets swept."
+ },
+ {
+  "severity": "minor",
+  "day": 269,
+  "problem": "The inserted Day 256 sentence was wrapped but the rest of the Safety block was not re-flowed, leaving an 11-column orphan line ('> he plays.') mid-block at 09-sep-w39.md:531 while every other line in the block runs 78-79. Only 13 such outliers exist in 6,051 Safety/insight lines book-wide, so it reads as an unfinished edit on a page going to a print designer.",
+  "fix": "Re-wrap the whole Day 269 Safety block to 78 columns as one continuous flow from 'Loose rice and lentils' through 'between cuts.'"
+ },
+ {
+  "severity": "minor",
+  "day": 290,
+  "problem": "Kreston's Afternoon was edited to carry the coin rule and left unwrapped: '...The ten' / 'card coins stay up on the table with her. Count the coins back' (64 cols) / 'in.' (5 cols) in 10-oct-w42.md. The five-character orphan line is visible in the source the designer receives.",
+  "fix": "Re-wrap the Kreston's Afternoon block to 78 columns; the trailing 'Count the coins back in.' also duplicates the Safety line 'Count all ten coins back into the bag at the end', so cutting it fixes the wrap and the repetition together."
+ },
+ {
+  "severity": "minor",
+  "day": 254,
+  "problem": "The new Safety line and Get Outside disagree on where the wasp-holed apples go. Get Outside: 'Two piles: sound ones for the bowl, wasp-holed ones for the birds.' Safety: 'the holed ones go straight in the bag for the birds.' The day's only bag is the one the sound apples come home in ('agree a number before the bag comes out'), and the 4:00 chore is 'The Apples Into the Bowl'.",
+  "fix": "Change the Safety wording to 'the holed ones go straight on the pile for the birds', matching Get Outside and leaving the bag for the sound apples."
+ },
+ {
+  "severity": "minor",
+  "day": 290,
+  "problem": "The repaired Safety line now depends on the jar lids ('they stay up on the table with Azlyn and Kreston posts the jar lids'), and Kreston's Afternoon calls for 'a handful of jar lids too wide for his mouth', but week 42's flat shopping list carries only 'A small jar with a screw lid' - one lid, not a handful.",
+  "fix": "Add a line to the week 42 shopping list: 'Clean jar lids, 4-6, wider than his mouth'."
+ },
+ {
+  "severity": "minor",
+  "day": 273,
+  "problem": "On a page this pass edited and was required to re-read whole, 09-sep-w39.md:1070 runs 134 columns: '> bucket at Kreston's height is a drowning risk even at two inches. Raw dough is not for eating, by anyone. Keep the cut string on the'. An earlier round inserted the raw-dough sentence without re-flowing the Safety block, and Kreston's Afternoon carries a matching 62-column orphan line.",
+  "fix": "Re-wrap the Day 273 Safety block and Kreston's Afternoon to 78 columns. No wording change."
+ },
+ {
+  "severity": "major",
+  "day": 336,
+  "problem": "The repaired Second Main Event contradicts itself across the two new steps. Step 6 ends 'the pan goes into the fridge until five'; step 7 opens 'At six you warm it through'. Nothing in the day happens at five (the 5:00-5:45 row is Wind-Down: Bath), so as written the cooked dinner comes out of the fridge and sits on the counter for an hour with a 3-year-old and an 18-month-old in the house before it is warmed. The two steps were written in the same edit and were never read back together.",
+  "fix": "In step 6 change 'the pan goes into the fridge until five' to 'the pan goes into the fridge until six', so the fridge holds it right up to the 6:00 PM Dinner row that step 7 points at. Then re-read the Wind-Down row, the 4:00 bread job, the Tip and Kreston's Afternoon to confirm nothing else names five."
+ },
+ {
+  "severity": "major",
+  "day": 344,
+  "problem": "The Safety block (the critical repair) confines Kreston 'from the moment the pan goes on the burner until the fat has set and the pan is in the sink', which covers Main Event steps 2 through 5. The Infant Integration block on the same page still says 'Give him a spare pinecone to carry while the feeders get made' - carrying it around the room across exactly the window the Safety line locks him out of. One block was edited and the facing block was not checked. The same clause is also passive ('get made'), against house style.",
+  "fix": "Rewrite the Infant Integration sentence so his pinecone is a high-chair job during the hot window and a carrying job after it: 'Give him a spare pinecone in the high chair while the fat is on the burner, and let him carry one to the window once the feeders are in the fridge.' Then re-read the Safety block and Kreston's Afternoon so all three agree on where he is."
+ },
+ {
+  "severity": "major",
+  "day": 0,
+  "problem": "Backup, Bad Weather Day 1. The repairer reports the fix leaves 'the 12:00 lunch as the only meal'. The file does not support that claim. The Second Main Event still runs a full sit-down meal at one o'clock, thirty minutes after the 12:00-12:30 Lunch row ends: 'She lays a place for everybody in the house... everyone gets a real plate', a tray of cold food, a pitcher she pours from, and 'nobody gets up for forty minutes', followed by the 3:30 Snack row. Removing the word 'lunch' from two sentences hid the collision instead of resolving it; the day now stages two laid meals half an hour apart.",
+  "fix": "Do not touch the frozen 12:00 row. Add one clause to the day-opener that keeps noon small on purpose ('lunch at twelve stays small because the floor is set for one o'clock'), and point step 3 at what noon left: 'Food onto the tray, cold, what lunch left plus whatever is open in the fridge.' Then re-read the day-opener, the Second Main Event opener, the Tip and the 4:00 Her Job row together."
+ },
+ {
+  "severity": "minor",
+  "day": 336,
+  "problem": "New step 7 writes 'she ladles onto the 4 plates' with a numeral, then spells the same count out eleven words later in 'you carry the four hot plates'. Numbers in step prose everywhere else on this page are spelled out ('Six cards', 'Card one', 'from twenty', 'one pinch'); numerals live in the materials list only.",
+  "fix": "Change 'the 4 plates' to 'the four plates' in step 7."
+ },
+ {
+  "severity": "minor",
+  "day": 0,
+  "problem": "Backup, Bad Weather Day 1. The repaired day-opener says the afternoon happens 'on the floor under the lamps', plural, while the Second Main Event opener says 'under a lamp', step 4 says 'lamp on', and the materials list carries '1 lamp'. The plural came in with the edit and nothing else on the page supports it.",
+  "fix": "Change 'under the lamps' to 'under the lamp' in the day-opener, then check the materials list, step 4 and the Second Main Event opener still agree on one lamp."
+ },
+ {
+  "severity": "minor",
+  "day": 0,
+  "problem": "Backup, Bad Weather Day 1. Both repaired sentences now carry the same clause almost word for word: the day-opener has 'the whole afternoon happens on the floor under the lamps from one o'clock because the dark is back by five' and the Second Main Event opener has 'the whole afternoon happens under a lamp from one o'clock because the dark is coming back at five anyway'. The finding's suggested wording was pasted into both blocks, and a reader meets the same sentence twice on one page.",
+  "fix": "Keep the full clause in the day-opener and cut the Second Main Event opener back to what only that block needs, e.g. 'Everybody sits on the floor now, the curtains come across, and nobody stands up again until the tray goes back.'"
+ },
+ {
+  "severity": "minor",
+  "day": 344,
+  "problem": "The repaired Try it says 'Thread popcorn and cranberries onto a short string'. Week 50's shopping list carries 'Popcorn kernels and cranberries' and 'String or thick wool, 1 ball' but no needle, and threading popcorn onto string needs one. A needle is also a sharp the Safety block would have to place, the way it places the sharp scissors.",
+  "fix": "Add 'A large blunt darning needle, adult hands only' to the Week 50 list and name it in the Try it, or drop 'thread' for a method with no needle. Then re-read the Safety block so the needle is accounted for beside the sharp scissors."
+ },
+ {
+  "severity": "minor",
+  "day": 336,
+  "problem": "Insight body carries a passive: 'because size and distance are still being calibrated against a body that keeps changing'. Against house style, on a day that was reopened this round.",
+  "fix": "Rewrite active, e.g. 'because a body that keeps changing recalibrates size and distance every few weeks'. Word count is at the 100 floor, so keep the replacement the same length or longer."
+ },
+ {
+  "severity": "minor",
+  "day": 336,
+  "problem": "Verification note, no defect: the repairer's rejection is correct. All 389 day units in the book carry the identical row '- **6:00 PM** \u2014 **Dinner**', so the finding's claim that the 6:00 row 'names something else' is false, and pointing that row at leftovers would have broken frozen format and contradicted the Tip, which sends leftovers to tomorrow. Fixing the timing at the cooking block was the right direction.",
+  "fix": "No action."
+ }
+]

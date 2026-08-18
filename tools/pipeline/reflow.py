@@ -52,7 +52,9 @@ def ragged(block):
     """
     if len(block) < 2:
         return False
-    return any(len(l) < 60 for l in block[:-1])
+    # short mid-block lines are edit leftovers; overlong lines are unwrapped
+    # insertions. Both go to the print designer as-is if nobody catches them.
+    return any(len(l) < 60 for l in block[:-1]) or any(len(l) > 82 for l in block)
 
 
 def process(path):
