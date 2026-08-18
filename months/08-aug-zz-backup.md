@@ -522,6 +522,11 @@ same time as hers, and you get twenty minutes.
 > *One line each, no steps. For the morning you open the book with ten minutes
 > and no plan, or the afternoon the heat took the whole thing apart.*
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Cicada Shell Hunt**, along tree trunks and fence posts at her head height, lined up on a plate at the end.

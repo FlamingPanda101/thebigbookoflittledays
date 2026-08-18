@@ -136,10 +136,11 @@ past her own mark, and the marks pile up down the hall. Two-footed, one-footed,
 backward, from a run-up: the variation is hers to invent and yours to lose at.
 
 > 👶 **Kreston's Afternoon:** Watered-down paint goes in his mouth the moment
-> your back turns, so he needs his own thing at the same table height. Two inches
+> your back turns, so he needs his own thing at the same table height. One inch
 > of warm water in a roasting pan on a towel, one cup and one spoon, and he will
-> stay with it for twenty minutes. He tips it over himself at the end. That is
-> the point at which you move him, not before.
+> stay with it for twenty minutes. Stay inside arm's reach the whole time it
+> holds water, and tip it into the sink the second he turns away from it,
+> because a baby drowns in less water than that.
 
 ---
 
@@ -529,6 +530,11 @@ lying down is the whole requirement.
 For the morning you open this book with ten minutes and no plan. One line each,
 no steps, nothing that needs buying.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Storm Tally** — one mark on the door frame paper per rumble, read out at dinner.
@@ -562,6 +568,6 @@ no steps, nothing that needs buying.
 - **The Low Shelf He Can Empty** — one shelf cleared and refilled with things he may pull out and drop.
 - **Cruising for a Cracker** — the snack set at the far end of the sofa, with the furniture in between.
 - **One Word All Day** — a single object named the same way every time it comes near him.
-- **The Roasting Pan of Warm Water** — two inches of water on a towel, one cup, and you within arm's reach.
+- **The Roasting Pan of Warm Water** — one inch of water on a towel, one cup, and you within arm's reach the whole time it holds any.
 
 <div style="page-break-after: always;"></div>

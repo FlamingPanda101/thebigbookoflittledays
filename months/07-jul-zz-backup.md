@@ -462,6 +462,11 @@ For the morning you open the book with ten minutes, a hot house and no plan.
 Nothing here needs a shopping trip and nothing takes longer to set up than it
 takes to run.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **One Cube in Each Hand.** Two ice cubes, one per fist, and the first hand to come up empty wins.
 - **The Coldest Thing in the Fridge.** The back of her hand on every shelf and every jar, ranked coldest to warmest.

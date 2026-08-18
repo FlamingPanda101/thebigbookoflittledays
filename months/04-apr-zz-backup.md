@@ -476,6 +476,11 @@ is lying, which serves both of them and costs her nothing.
 For the morning you have ten minutes, no plan and a wet garden. No steps, no
 shopping, and nothing here takes longer to set up than it takes to do.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **Naming the Puddles:** every puddle between your door and the corner gets a name and a size word.

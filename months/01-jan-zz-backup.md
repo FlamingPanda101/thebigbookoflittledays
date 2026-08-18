@@ -379,7 +379,12 @@ will get skipped otherwise.
 > not come down or lasts past three days, a child too drowsy to rouse, no wet
 > diaper in eight hours, or any rash that does not fade when you press a glass
 > against it. Never give aspirin to a child. Check the label and the weight
-> before every dose, and write down the time you gave it.
+> before every dose, and write down the time you gave it. Ice goes in only
+> while she sits up, crushed small under the back of a spoon, and whole cubes
+> stay in the freezer, because a cube slides back on a flat child and blocks
+> her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -482,6 +487,11 @@ more to her right now than anything you could hand her on a tray.
 Ten minutes, no plan, and a dark afternoon to fill. Nothing here needs a
 shopping trip or more than one instruction.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Dark by Five Countdown** · she checks the window every fifteen minutes and shouts when the streetlights come on

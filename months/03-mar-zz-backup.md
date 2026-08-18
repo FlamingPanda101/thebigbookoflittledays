@@ -397,7 +397,12 @@ them, every time, and keep her cup and his separate.
 > visible when you press a glass against it, a child too drowsy to wake
 > properly, or no wet diaper or bathroom trip in eight hours. Never give
 > aspirin to a child. Follow the dosing on the bottle by weight and write down
-> the time of every dose, because you will not remember it by evening.
+> the time of every dose, because you will not remember it by evening. Ice
+> goes in only while she sits up, crushed small under the back of a spoon, and
+> whole cubes stay in the freezer, because a cube slides back on a flat child
+> and blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -515,6 +520,11 @@ first ten minutes.
 Ten minutes, no plan, and a child already asking. Everything on this page uses
 what is in the house or on the walk you were taking anyway.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **The Deepest Puddle on the Street.** She stands a stick in each one and you rank them shallow, deeper, deepest.
 - **Under the Umbrella, Listening.** She sits under an open umbrella in the rain with her eyes shut and names what she hears.

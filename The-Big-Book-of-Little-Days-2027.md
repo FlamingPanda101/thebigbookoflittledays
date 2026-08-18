@@ -2792,7 +2792,10 @@ window under a blanket.
 > ⚠️ **Safety:** Loose birdseed on the floor near a seven-month-old who mouths
 > everything, so sweep before you put Kreston down. Wash both pairs of hands
 > after handling seed, fat and feeders. Use smooth peanut butter only, never
-> whole or chopped nuts, and check for a nut allergy before you start.
+> whole or chopped nuts, and check for a nut allergy before you start. Keep
+> the bird dish shallow and stand it where you can see it from the window, and
+> tip it out before you put Kreston down anywhere near it, because a baby
+> drowns in less water than that.
 
 <div style="page-break-after: always;"></div>
 
@@ -5835,7 +5838,12 @@ will get skipped otherwise.
 > not come down or lasts past three days, a child too drowsy to rouse, no wet
 > diaper in eight hours, or any rash that does not fade when you press a glass
 > against it. Never give aspirin to a child. Check the label and the weight
-> before every dose, and write down the time you gave it.
+> before every dose, and write down the time you gave it. Ice goes in only
+> while she sits up, crushed small under the back of a spoon, and whole cubes
+> stay in the freezer, because a cube slides back on a flat child and blocks
+> her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -5938,6 +5946,11 @@ more to her right now than anything you could hand her on a tray.
 Ten minutes, no plan, and a dark afternoon to fill. Nothing here needs a
 shopping trip or more than one instruction.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Dark by Five Countdown** · she checks the window every fifteen minutes and shouts when the streetlights come on
@@ -9034,8 +9047,10 @@ kitchen has any right to be.
 > an 8-month-old, and the floor is where they land. Sweep before Kreston goes
 > down and keep his bowl separate. No cord or beaded necklace goes on a baby,
 > awake or asleep. Knot Azlyn's loose enough to pull over her head, take them
-> off before swimming and before bed, and keep the yarn and loose string up out
-> of Kreston's reach all day.
+> off before swimming and before bed, and keep the yarn and loose string up
+> out of Kreston's reach all day. At the pool stay within arm's reach of both
+> of them, close enough to take hold without a step, and hold Kreston or keep
+> him in the stroller on the tiles.
 
 <div style="page-break-after: always;"></div>
 
@@ -9685,9 +9700,12 @@ minutes has to be finished.
 > nothing, and let it run well past the point where you have had enough of it.
 
 > ⚠️ **Safety:** Standing water and a newly crawling 8-month-old. Kreston can
-> drown in the depth of a dishpan in the time it takes to answer the
-> door. Tip it out the moment she is finished, and never leave the room with it
-> full.
+> drown in the depth of a dishpan in the time it takes to answer the door. Tip
+> it out the moment she is finished, and never leave the room with it full.
+> The touch line lies on the floor with a bottle cap, cotton balls and a leaf
+> taped along it, all small enough to choke Kreston at 8 months, so keep the
+> strip out of his crawling path, press every piece of tape down hard, and
+> lift the whole thing onto the table the moment she leaves it.
 
 <div style="page-break-after: always;"></div>
 
@@ -10736,7 +10754,12 @@ the things that need two hands then.
 > dose on the bottle against her weight rather than her age, and write down
 > the time of every dose on the envelope, because you will not remember it at
 > three in the morning. Kreston is 8 months and takes nothing at all without
-> the doctor saying so, including anything left over from Azlyn.
+> the doctor saying so, including anything left over from Azlyn. Ice goes in
+> only while she sits up, crushed small under the back of a spoon, and whole
+> cubes stay in the freezer, because a cube slides back on a flat child and
+> blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -10846,6 +10869,11 @@ to anybody else the week he comes down with it himself.
 > *Ten minutes of warning and no plan. Everything here runs on what is already
 > in the house, and none of it needs the weather to cooperate.*
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Cupboard Nobody Sorts.** Everything out of one low cupboard, sorted her way, and back in before lunch.
@@ -15640,7 +15668,12 @@ them, every time, and keep her cup and his separate.
 > visible when you press a glass against it, a child too drowsy to wake
 > properly, or no wet diaper or bathroom trip in eight hours. Never give
 > aspirin to a child. Follow the dosing on the bottle by weight and write down
-> the time of every dose, because you will not remember it by evening.
+> the time of every dose, because you will not remember it by evening. Ice
+> goes in only while she sits up, crushed small under the back of a spoon, and
+> whole cubes stay in the freezer, because a cube slides back on a flat child
+> and blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -15758,6 +15791,11 @@ first ten minutes.
 Ten minutes, no plan, and a child already asking. Everything on this page uses
 what is in the house or on the walk you were taking anyway.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **The Deepest Puddle on the Street.** She stands a stick in each one and you rank them shallow, deeper, deepest.
 - **Under the Umbrella, Listening.** She sits under an open umbrella in the rain with her eyes shut and names what she hears.
@@ -18361,7 +18399,10 @@ else in the house gets a string beside it.
 > ⚠️ **Safety:** Cut string is a strangulation risk and Kreston is 10 months
 > and pulling up on everything. Tape each string flat to the wall along its
 > whole length so there is nothing hanging and no loop. Offcuts go back in the
-> bag as you make them, never on the floor. The scissors stay with you.
+> bag as you make them, never on the floor. The scissors stay with you. The
+> coin goes back in your pocket the moment she finishes the first rubbing,
+> because Kreston is 10 months, picks up single small things between finger
+> and thumb, and a coin is the size he chokes on.
 
 <div style="page-break-after: always;"></div>
 
@@ -20564,7 +20605,7 @@ predict any of it.
 
 **🧰 You need:** 1 sheet of letter paper · 1 pair of adult scissors · 1 pencil.
 
-1. Fold the sheet in three thirty times, letting her press each crease with her thumb. Open it flat and count the eight boxes.
+1. Fold the sheet in half three times, letting her press each crease with her thumb, letting her press each crease with her thumb. Open it flat and count the eight boxes.
 2. Fold it back in half the long way and cut along the center crease to the middle. You cut, she holds. Push the ends together and it opens into a book.
 3. She writes her name on the front in pencil. Everything this week goes in here.
 
@@ -21678,6 +21719,11 @@ is lying, which serves both of them and costs her nothing.
 For the morning you have ten minutes, no plan and a wet garden. No steps, no
 shopping, and nothing here takes longer to set up than it takes to do.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **Naming the Puddles:** every puddle between your door and the corner gets a name and a size word.
@@ -24710,7 +24756,9 @@ this afternoon the switch is hers.
 > Joseph is home. Never with him loose in the house. Check it sounds again
 > when she has finished. Never pull the battery to make the day easier. The
 > stool is adult only, so Azlyn goes up on your hip and never stands on it.
-> The vacuum cord goes back in the reel.
+> The vacuum cord goes back in the reel. At the pool and at the splash pad
+> stay within arm's reach of both of them, close enough to take hold without a
+> step.
 
 <div style="page-break-after: always;"></div>
 
@@ -26188,10 +26236,11 @@ past her own mark, and the marks pile up down the hall. Two-footed, one-footed,
 backward, from a run-up: the variation is hers to invent and yours to lose at.
 
 > 👶 **Kreston's Afternoon:** Watered-down paint goes in his mouth the moment
-> your back turns, so he needs his own thing at the same table height. Two inches
+> your back turns, so he needs his own thing at the same table height. One inch
 > of warm water in a roasting pan on a towel, one cup and one spoon, and he will
-> stay with it for twenty minutes. He tips it over himself at the end. That is
-> the point at which you move him, not before.
+> stay with it for twenty minutes. Stay inside arm's reach the whole time it
+> holds water, and tip it into the sink the second he turns away from it,
+> because a baby drowns in less water than that.
 
 ---
 
@@ -26581,6 +26630,11 @@ lying down is the whole requirement.
 For the morning you open this book with ten minutes and no plan. One line each,
 no steps, nothing that needs buying.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Storm Tally** — one mark on the door frame paper per rumble, read out at dinner.
@@ -26614,7 +26668,7 @@ no steps, nothing that needs buying.
 - **The Low Shelf He Can Empty** — one shelf cleared and refilled with things he may pull out and drop.
 - **Cruising for a Cracker** — the snack set at the far end of the sofa, with the furniture in between.
 - **One Word All Day** — a single object named the same way every time it comes near him.
-- **The Roasting Pan of Warm Water** — two inches of water on a towel, one cup, and you within arm's reach.
+- **The Roasting Pan of Warm Water** — one inch of water on a towel, one cup, and you within arm's reach the whole time it holds any.
 
 <div style="page-break-after: always;"></div>
 <a id="booklet-june"></a>
@@ -31454,6 +31508,11 @@ something in his hands instead of on top of her.
 - **The Fridge Inventory**, she names everything on one shelf out loud while you write it down.
 - **Grandma on Speakerphone**, she does the talking and you stay out of it.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎨 Alternative Arts & Crafts
 - **The Paper Bag Cut Flat**, a bigger sheet than any she owns and crayons in the middle of it.
 - **Chalk on the Shady Wall**, one wall she is allowed to draw on and a bucket of water to take it off.
@@ -35502,7 +35561,7 @@ the hall.
 
 ### 🌳 Get Outside: Naming the Ground With Her Eyes Shut
 
-She walked four grounds barefoot in mid-July and named each as she arrived.
+She walked five grounds barefoot in mid-July and named each as she arrived.
 Today she names them first. Shoes off, your hand on her shoulder, her
 eyes shut, and stop her a step short of each surface: mown grass, paving,
 gravel, a doormat, bare soil under a tree. She calls it, then puts a foot down
@@ -37400,6 +37459,11 @@ For the morning you open the book with ten minutes, a hot house and no plan.
 Nothing here needs a shopping trip and nothing takes longer to set up than it
 takes to run.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **One Cube in Each Hand.** Two ice cubes, one per fist, and the first hand to come up empty wins.
 - **The Coldest Thing in the Fridge.** The back of her hand on every shelf and every jar, ranked coldest to warmest.
@@ -39238,12 +39302,15 @@ boats across it until one goes under.
 > unless you are within arm's reach, and every container gets tipped out the
 > moment you stop using it. Cut bottle edges are sharp, so run a strip of tape
 > along any edge she will hold, or fold the lip over, before she carries the
-> first one out. A wet patio is slippery, so shoes on or bare feet, never socks.
-> The driveway feeds a gutter on a live road, so Kreston is in the stroller with
-> the brake on from the moment you leave the gate. At the drain the stroller
-> stays back from the curb with the grating on your side of it, and you stay
-> between Azlyn and the road for the whole walk down. Hat on, cream at eight,
-> cream again at eleven.
+> first one out. A wet patio is slippery, so shoes on or bare feet, never
+> socks. The driveway feeds a gutter on a live road, so Kreston is in the
+> stroller with the brake on from the moment you leave the gate. At the drain
+> the stroller stays back from the curb with the grating on your side of it,
+> and you stay between Azlyn and the road for the whole walk down. Hat on,
+> cream at eight, cream again at eleven. Corks, bottle caps and pebbles are
+> all choking-sized for a 14-month-old down on the same ground fetching
+> things, so the cargo comes out of a bowl in your hand and goes back into it
+> the moment a boat sinks or a race ends.
 
 <div style="page-break-after: always;"></div>
 
@@ -40341,15 +40408,17 @@ down.
 > her head across a garden, memory work she would never do to order. Sit still
 > and let her serve you. Getting up to help costs her the whole thing.
 
-> ⚠️ **Safety:** The sharp knife is yours. Make both box cuts with her standing
-> back at the fence and put it in the drawer between them. The table knife stays
-> on the board with you standing beside her, never carried across the kitchen.
-> Kreston gets his own inch of water in the yard and you stay within arm's
-> reach of him every minute it is out, then it goes over on the grass. The heat
-> is the other hazard today: stand the counter in shade, hat on, cream at eight,
-> cream again at eleven, refill the pitcher every round, and put a cup in her
-> hand each time she comes in. A hot three-year-old and a hot 14-month-old both
-> go downhill fast, and neither will tell you first.
+> ⚠️ **Safety:** The sharp knife is yours. Make both box cuts with her
+> standing back at the fence and put it in the drawer between them. The table
+> knife stays on the board with you standing beside her, never carried across
+> the kitchen. Kreston gets his own inch of water in the yard and you stay
+> within arm's reach of him every minute it is out, then it goes over on the
+> grass. The heat is the other hazard today: stand the counter in shade, hat
+> on, cream at eight, cream again at eleven, refill the pitcher every round,
+> and put a cup in her hand each time she comes in. A hot three-year-old and a
+> hot 14-month-old both go downhill fast, and neither will tell you first. An
+> ice cube is a choking hazard at 14 months, so hold the cubes back with a
+> spoon when Azlyn pours Kreston's cup and let him have his water plain.
 
 <div style="page-break-after: always;"></div>
 
@@ -41281,9 +41350,12 @@ twenty times a day.
 
 > ⚠️ **Safety:** Washable non-toxic paint only, because Kreston will get a
 > loaded brush into his mouth at some point in the hour. Wet paint on a hard
-> floor is slippery, so keep everybody kneeling and wipe spills as they happen.
-> The walk to the store runs in open sun, so hat on, cream at eight, cream again
-> at eleven. The scissors stay with you.
+> floor is slippery, so keep everybody kneeling and wipe spills as they
+> happen. The walk to the store runs in open sun, so hat on, cream at eight,
+> cream again at eleven. The scissors stay with you. Three open jars of water
+> sit at floor level for the whole hour, so use plastic cups rather than
+> glass, keep them taped down on the far side of each adult from Kreston, and
+> tip them out into the sink the moment the brushes go down.
 
 <div style="page-break-after: always;"></div>
 
@@ -42344,6 +42416,11 @@ same time as hers, and you get twenty minutes.
 > *One line each, no steps. For the morning you open the book with ten minutes
 > and no plan, or the afternoon the heat took the whole thing apart.*
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Cicada Shell Hunt**, along tree trunks and fence posts at her head height, lined up on a plate at the end.
@@ -47183,7 +47260,11 @@ her face.
 > medicine or has run past three days, or a child too drowsy to rouse. Dose
 > fever medicine by her weight, off the bottle, and write down the time of
 > every dose. If something looks wrong to you and it is not on this list, call
-> anyway.
+> anyway. Ice goes in only while she sits up, crushed small under the back of
+> a spoon, and whole cubes stay in the freezer, because a cube slides back on
+> a flat child and blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -47290,6 +47371,11 @@ ones go in a bag on her lap and she decides which of them get one more month.
 - **Everything Gray**, a bag walk that takes gray things only, laid out on the windowsill after.
 - **The Preschool Bag Audit**, everything out of the bag she carries on Monday, named, and put back.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎨 Alternative Arts & Crafts
 - **The Paper Bag Owl**, one bag, two circles, a folded beak, ten minutes start to finish.
 - **Leaves Under the Heaviest Books**, pressed on Monday, opened Friday, taped along the window.
@@ -49719,7 +49805,10 @@ they find in the gaps is an emu.
 > on the shelf between cuts, not the arm of the sofa. Check inside the box for
 > staples before either child touches it. A tall box tips, and Kreston walks
 > now and will pull on it, so keep the books in the base and keep him out of
-> the rocket while she is climbing in and out.
+> the rocket while she is climbing in and out. Bottle caps and buttons are the
+> size Kreston chokes on at 16 months, so they stay in your pocket until each
+> one is taped down, and you run a thumb along the row every morning the
+> rocket stands in the hall and press any loose one back down.
 
 <div style="page-break-after: always;"></div>
 
@@ -53203,6 +53292,11 @@ work.
 > *For the morning you open this book with ten minutes and no plan. One line
 > each, nothing to prepare, everything already in the house.*
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **The Draft Hunt** — a strip of paper towel held along every door and window to show where the wind is getting in.
 - **Hands on Everything Cold** — flat palms on the window, the fridge door, the floor and the radiator, ranked coldest to warmest.
@@ -55978,7 +56072,10 @@ into soil.
 > ⚠️ **Safety:** Trash bags are a suffocation risk. Keep them out of Kreston's
 > reach the whole time and put the spare bags away before he comes outside.
 > Wash both children's hands after leaf litter, and check the pile for glass
-> and dog mess before she puts her hands in it.
+> and dog mess before she puts her hands in it. Dried beans, lentils and rice
+> go into a 17-month-old's mouth and nose, so keep Kreston in the high chair
+> or out of the kitchen while the tub is open, and sweep the floor around the
+> table before he walks through it.
 
 <div style="page-break-after: always;"></div>
 
@@ -58081,7 +58178,11 @@ job.
 > or a child too drowsy to wake. Trust the pattern you know. Write down the
 > time and the dose of anything you give her on a piece of paper on the
 > counter, because a second adult on a long day is the way double doses
-> happen.
+> happen. Ice goes in only while she sits up, crushed small under the back of
+> a spoon, and whole cubes stay in the freezer, because a cube slides back on
+> a flat child and blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -58181,6 +58282,11 @@ it, so keep at least one of them small enough to happen.
 Ten minutes, no plan, cold rain on the glass and the lamps on at four. Pick a
 line and start.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **Fifty Steps Around the House**, counted out loud, then fifty back the other way.
 - **The Mug She Carries Herself**, she picks it, stirs the warm milk and walks it to her own chair.
@@ -62082,7 +62188,7 @@ ends.
 
 > 👶 **Infant Integration:** Kreston is 18 months, and a flame at his eye level
 > is the one thing today he has no safe part in. Run the hour with him behind a
-> closed door with another adult, or in the high chair an arm's length clear.
+> closed door with another adult, or in the high chair the far end of the table with the tray pulled to your side.
 > Outside he chases his own shadow and cannot work out why it stays attached.
 
 <div style="page-break-after: always;"></div>
@@ -62861,7 +62967,7 @@ August.
 ## 🌧️ Bad Weather Day 2 — The Floor Is the Job
 
 Freezing rain over the last of the snow, black ice on the steps, and a
-three-year-old with a full tank and nowhere to empty it. Today she works with
+four-year-old with a full tank and nowhere to empty it. Today she works with
 her feet. She polishes the hallway, climbs the stairs a dozen times, and by
 lunch she is worn out in the way a cold walk would have worn her out.
 
@@ -62969,7 +63075,7 @@ drawn around, and the year shows up in the size of them.
 
 > 🧠 **A Little Parenting Insight**
 > **Doing a job with her feet is how she gets her whole body into it.**
-> Ask a three-year-old to sit and color on a housebound day and you get
+> Ask a four-year-old to sit and color on a housebound day and you get
 > eleven minutes. Give her a job that runs through her feet and you get an
 > hour. Pushing, bracing and sliding send steady pressure through her joints,
 > and that load settles a body with nowhere to run, which is the whole trouble
@@ -63015,7 +63121,7 @@ rest and being close by.
 The center of today is a long stretch where nothing is asked of her. Two
 hours, maybe three, on the sofa or in your bed, curtains half closed and one
 lamp on. She may sleep and she may lie there watching the ceiling, and both
-count. Sit within reach with your phone or a book. A feverish three-year-old
+count. Sit within reach with your phone or a book. A feverish four-year-old
 who cannot find you spends her energy checking where you are, so stay in the
 room and let her feel you there. Line Kreston's nap up with this block and
 you get the quietest ninety minutes of the day.
@@ -63065,7 +63171,7 @@ you get the quietest ninety minutes of the day.
 > 🧠 **A Little Parenting Insight**
 > **Directing an adult is the strongest evidence of competence she can get.**
 > Flat on the sofa she has lost every job she owns. She cannot carry, climb,
-> pour or fetch, and a three-year-old measures herself with those. Directing
+> pour or fetch, and a four-year-old measures herself with those. Directing
 > you hands it back. She names the cushion, the corner, the color of the
 > blanket, and an adult moves. That loop tells her she still has an effect on
 > the world on a day her own body has stopped cooperating with her. Follow her
@@ -63160,7 +63266,7 @@ her if that is what makes it happen.
 
 > 🧠 **A Little Parenting Insight**
 > **Sour is the taste she'll learn to like on purpose, and that's a new experience.**
-> Sour reads as a warning to a small child, and a three-year-old spits out
+> Sour reads as a warning to a small child, and a four-year-old spits out
 > lemon on reflex. Then she watches you eat a wedge, tries it again, and
 > something switches over. Learning to like a taste on purpose is a new kind
 > of experience for her, and she is the one running it. A mouth coming off
@@ -63196,6 +63302,11 @@ her if that is what makes it happen.
 - **Everything That Came Out of a Box** · a hunt for what arrived this month, packing paper and all.
 - **The Laundry Basket Boat** · a basket, a cushion and a wooden spoon for an oar.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎨 Alternative Arts & Crafts
 - **Cotton Balls on Blue Paper** · glue and stick, no cutting, snow that stays up till spring.
 - **The Star You Cannot Plan** · paper folded in four, one cut across the corner, and the shape shows up when it opens.

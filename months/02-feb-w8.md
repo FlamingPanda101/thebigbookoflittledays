@@ -823,8 +823,10 @@ kitchen has any right to be.
 > an 8-month-old, and the floor is where they land. Sweep before Kreston goes
 > down and keep his bowl separate. No cord or beaded necklace goes on a baby,
 > awake or asleep. Knot Azlyn's loose enough to pull over her head, take them
-> off before swimming and before bed, and keep the yarn and loose string up out
-> of Kreston's reach all day.
+> off before swimming and before bed, and keep the yarn and loose string up
+> out of Kreston's reach all day. At the pool stay within arm's reach of both
+> of them, close enough to take hold without a step, and hold Kreston or keep
+> him in the stroller on the tiles.
 
 <div style="page-break-after: always;"></div>
 

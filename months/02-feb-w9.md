@@ -381,9 +381,12 @@ minutes has to be finished.
 > nothing, and let it run well past the point where you have had enough of it.
 
 > ⚠️ **Safety:** Standing water and a newly crawling 8-month-old. Kreston can
-> drown in the depth of a dishpan in the time it takes to answer the
-> door. Tip it out the moment she is finished, and never leave the room with it
-> full.
+> drown in the depth of a dishpan in the time it takes to answer the door. Tip
+> it out the moment she is finished, and never leave the room with it full.
+> The touch line lies on the floor with a bottle cap, cotton balls and a leaf
+> taped along it, all small enough to choke Kreston at 8 months, so keep the
+> strip out of his crawling path, press every piece of tape down hard, and
+> lift the whole thing onto the table the moment she leaves it.
 
 <div style="page-break-after: always;"></div>
 

@@ -477,6 +477,11 @@ work.
 > *For the morning you open this book with ten minutes and no plan. One line
 > each, nothing to prepare, everything already in the house.*
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **The Draft Hunt** — a strip of paper towel held along every door and window to show where the wind is getting in.
 - **Hands on Everything Cold** — flat palms on the window, the fridge door, the floor and the radiator, ranked coldest to warmest.

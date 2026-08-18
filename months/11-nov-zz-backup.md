@@ -399,7 +399,11 @@ job.
 > or a child too drowsy to wake. Trust the pattern you know. Write down the
 > time and the dose of anything you give her on a piece of paper on the
 > counter, because a second adult on a long day is the way double doses
-> happen.
+> happen. Ice goes in only while she sits up, crushed small under the back of
+> a spoon, and whole cubes stay in the freezer, because a cube slides back on
+> a flat child and blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -499,6 +503,11 @@ it, so keep at least one of them small enough to happen.
 Ten minutes, no plan, cold rain on the glass and the lamps on at four. Pick a
 line and start.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 - **Fifty Steps Around the House**, counted out loud, then fifty back the other way.
 - **The Mug She Carries Herself**, she picks it, stirs the warm milk and walks it to her own chair.

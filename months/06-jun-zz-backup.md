@@ -489,6 +489,11 @@ something in his hands instead of on top of her.
 - **The Fridge Inventory**, she names everything on one shelf out loud while you write it down.
 - **Grandma on Speakerphone**, she does the talking and you stay out of it.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎨 Alternative Arts & Crafts
 - **The Paper Bag Cut Flat**, a bigger sheet than any she owns and crayons in the middle of it.
 - **Chalk on the Shady Wall**, one wall she is allowed to draw on and a bucket of water to take it off.

@@ -397,7 +397,11 @@ her face.
 > medicine or has run past three days, or a child too drowsy to rouse. Dose
 > fever medicine by her weight, off the bottle, and write down the time of
 > every dose. If something looks wrong to you and it is not on this list, call
-> anyway.
+> anyway. Ice goes in only while she sits up, crushed small under the back of
+> a spoon, and whole cubes stay in the freezer, because a cube slides back on
+> a flat child and blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -504,6 +508,11 @@ ones go in a bag on her lap and she decides which of them get one more month.
 - **Everything Gray**, a bag walk that takes gray things only, laid out on the windowsill after.
 - **The Preschool Bag Audit**, everything out of the bag she carries on Monday, named, and put back.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎨 Alternative Arts & Crafts
 - **The Paper Bag Owl**, one bag, two circles, a folded beak, ten minutes start to finish.
 - **Leaves Under the Heaviest Books**, pressed on Monday, opened Friday, taped along the window.

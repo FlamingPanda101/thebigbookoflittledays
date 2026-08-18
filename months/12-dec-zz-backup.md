@@ -155,7 +155,7 @@ August.
 ## 🌧️ Bad Weather Day 2 — The Floor Is the Job
 
 Freezing rain over the last of the snow, black ice on the steps, and a
-three-year-old with a full tank and nowhere to empty it. Today she works with
+four-year-old with a full tank and nowhere to empty it. Today she works with
 her feet. She polishes the hallway, climbs the stairs a dozen times, and by
 lunch she is worn out in the way a cold walk would have worn her out.
 
@@ -263,7 +263,7 @@ drawn around, and the year shows up in the size of them.
 
 > 🧠 **A Little Parenting Insight**
 > **Doing a job with her feet is how she gets her whole body into it.**
-> Ask a three-year-old to sit and color on a housebound day and you get
+> Ask a four-year-old to sit and color on a housebound day and you get
 > eleven minutes. Give her a job that runs through her feet and you get an
 > hour. Pushing, bracing and sliding send steady pressure through her joints,
 > and that load settles a body with nowhere to run, which is the whole trouble
@@ -309,7 +309,7 @@ rest and being close by.
 The center of today is a long stretch where nothing is asked of her. Two
 hours, maybe three, on the sofa or in your bed, curtains half closed and one
 lamp on. She may sleep and she may lie there watching the ceiling, and both
-count. Sit within reach with your phone or a book. A feverish three-year-old
+count. Sit within reach with your phone or a book. A feverish four-year-old
 who cannot find you spends her energy checking where you are, so stay in the
 room and let her feel you there. Line Kreston's nap up with this block and
 you get the quietest ninety minutes of the day.
@@ -359,7 +359,7 @@ you get the quietest ninety minutes of the day.
 > 🧠 **A Little Parenting Insight**
 > **Directing an adult is the strongest evidence of competence she can get.**
 > Flat on the sofa she has lost every job she owns. She cannot carry, climb,
-> pour or fetch, and a three-year-old measures herself with those. Directing
+> pour or fetch, and a four-year-old measures herself with those. Directing
 > you hands it back. She names the cushion, the corner, the color of the
 > blanket, and an adult moves. That loop tells her she still has an effect on
 > the world on a day her own body has stopped cooperating with her. Follow her
@@ -454,7 +454,7 @@ her if that is what makes it happen.
 
 > 🧠 **A Little Parenting Insight**
 > **Sour is the taste she'll learn to like on purpose, and that's a new experience.**
-> Sour reads as a warning to a small child, and a three-year-old spits out
+> Sour reads as a warning to a small child, and a four-year-old spits out
 > lemon on reflex. Then she watches you eat a wedge, tries it again, and
 > something switches over. Learning to like a taste on purpose is a new kind
 > of experience for her, and she is the one running it. A mouth coming off
@@ -490,6 +490,11 @@ her if that is what makes it happen.
 - **Everything That Came Out of a Box** · a hunt for what arrived this month, packing paper and all.
 - **The Laundry Basket Boat** · a basket, a cushion and a wooden spoon for an oar.
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎨 Alternative Arts & Crafts
 - **Cotton Balls on Blue Paper** · glue and stick, no cutting, snow that stays up till spring.
 - **The Star You Cannot Plan** · paper folded in four, one cut across the corner, and the shape shows up when it opens.

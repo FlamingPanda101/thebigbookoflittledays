@@ -537,7 +537,10 @@ window under a blanket.
 > ⚠️ **Safety:** Loose birdseed on the floor near a seven-month-old who mouths
 > everything, so sweep before you put Kreston down. Wash both pairs of hands
 > after handling seed, fat and feeders. Use smooth peanut butter only, never
-> whole or chopped nuts, and check for a nut allergy before you start.
+> whole or chopped nuts, and check for a nut allergy before you start. Keep
+> the bird dish shallow and stand it where you can see it from the window, and
+> tip it out before you put Kreston down anywhere near it, because a baby
+> drowns in less water than that.
 
 <div style="page-break-after: always;"></div>
 

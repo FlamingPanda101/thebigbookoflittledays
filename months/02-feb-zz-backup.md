@@ -394,7 +394,12 @@ the things that need two hands then.
 > dose on the bottle against her weight rather than her age, and write down
 > the time of every dose on the envelope, because you will not remember it at
 > three in the morning. Kreston is 8 months and takes nothing at all without
-> the doctor saying so, including anything left over from Azlyn.
+> the doctor saying so, including anything left over from Azlyn. Ice goes in
+> only while she sits up, crushed small under the back of a spoon, and whole
+> cubes stay in the freezer, because a cube slides back on a flat child and
+> blocks her airway.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -504,6 +509,11 @@ to anybody else the week he comes down with it himself.
 > *Ten minutes of warning and no plan. Everything here runs on what is already
 > in the house, and none of it needs the weather to cooperate.*
 
+
+> ⚠️ These run under the same rules as the rest of the month: an adult within
+> arm's reach of any water, small parts up off the floor while Kreston is on
+> it, and anything taped across a doorway down and in the trash before he
+> crawls through.
 ### 🎲 Alternative Activities
 
 - **The Cupboard Nobody Sorts.** Everything out of one low cupboard, sorted her way, and back in before lunch.
