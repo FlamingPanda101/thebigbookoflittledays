@@ -182,6 +182,18 @@ a.tile.sand:hover{background:#EFE0C6;color:var(--ink)}
 .dl .go{flex:none;font-weight:700;font-size:13.5px;color:var(--orange)}
 .get .after{margin:22px 0 0;font-size:14px;line-height:1.5;color:var(--muted);max-width:64ch}
 
+.whole{margin:30px 0 0;background:var(--ink);color:var(--paper);border-radius:18px;padding:24px 26px;display:flex;flex-direction:column;gap:14px}
+.whole .k{font-family:var(--mono);font-size:11.5px;letter-spacing:0.12em;color:var(--amber)}
+.whole h2{font-weight:800;font-size:27px;line-height:1.1;letter-spacing:-0.025em;margin:0}
+.whole p{margin:0;font-size:15px;line-height:1.5;color:#D8D2E4;max-width:60ch}
+.whole .facts{display:flex;flex-wrap:wrap;gap:8px}
+.whole .fact{display:inline-flex;align-items:center;padding:7px 12px;border-radius:999px;background:rgba(250,242,228,0.12);color:var(--paper);font-weight:700;font-size:13.5px}
+.whole .acts{display:flex;gap:10px;flex-wrap:wrap;margin-top:2px}
+.whole .go{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 22px;border-radius:999px;background:var(--amber);color:#3A2300;font-weight:800;font-size:16px}
+.whole .go:hover{background:#E8A420;color:#3A2300}
+.whole .go.ghost{background:transparent;color:var(--paper);border:2px solid rgba(250,242,228,0.35);font-weight:700}
+.whole .go.ghost:hover{background:rgba(250,242,228,0.12);color:var(--paper)}
+.whole .heads{font-size:13.5px;line-height:1.5;color:#B7B1C6;margin:0}
 footer.bottom{border-top:2px solid var(--rule);padding:22px 16px 40px}
 footer.bottom .in{max-width:1000px;margin:0 auto;display:flex;gap:14px;flex-wrap:wrap;align-items:baseline;justify-content:space-between}
 footer.bottom .l{font-size:13.5px;color:var(--muted)}
@@ -480,6 +492,17 @@ footer.bottom .r{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
         '<span class="go">Open ↗</span></a>').join('') +
       '</div>' +
       '<p class="after">Each booklet opens as a print-ready document. Use your browser’s print dialog and choose <strong>Save as PDF</strong> to keep a copy, or print double-sided and spiral-bind by month.</p>' +
+      (site.whole ? '<section class="whole">' +
+        '<div class="k">ALL TWELVE AT ONCE</div>' +
+        '<h2>The whole book, one file</h2>' +
+        '<p>Every day of 2027 in a single print-ready document, with a title page. Open it, then print once or save one PDF instead of twelve.</p>' +
+        '<div class="facts"><span class="fact">' + site.whole.pages.toLocaleString('en-US') + ' pages</span>' +
+        '<span class="fact">365 days</span><span class="fact">' + site.whole.mb + ' MB</span></div>' +
+        '<div class="acts"><a class="go" href="' + site.whole.file + '" target="_blank" rel="noopener">Open the whole book ↗</a>' +
+        '<a class="go ghost" href="' + site.whole.file + '" download="The Big Book of Little Days 2027.html">Download the file</a></div>' +
+        '<p class="heads">It is a big document, so give it a moment to open and expect the print preview to take a minute to paginate all ' +
+        site.whole.pages.toLocaleString('en-US') + ' pages. If your printer struggles with a job this size, the twelve monthly booklets above print the same thing in smaller pieces.</p>' +
+        '</section>' : '') +
       '</main>';
   }
 

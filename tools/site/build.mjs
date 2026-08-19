@@ -152,11 +152,13 @@ ${pages.join('\n')}
 `;
 
 const siteMonths = [];
+const allPages = [];
 let totalPages = 0;
 for (const [mm, name] of MONTH_NAMES) {
   const mWeeks = weeks.filter(w => w.mm === mm);
   const pages = booklet(name, mWeeks.map(w => w.data));
   totalPages += pages.length;
+  allPages.push(...pages);
   const file = `${mm}-${name.toLowerCase()}.html`;
   writeFileSync(join(DOCS, 'booklets', file), bookletShell(name + ' 2027', pages));
   const dayNums = mWeeks.flatMap(w => w.data.days.map(d => d.day));
@@ -170,8 +172,30 @@ for (const [mm, name] of MONTH_NAMES) {
   console.log(`booklet ${file}: ${pages.length} pages, days ${dayNums[0]}-${dayNums[dayNums.length - 1]}`);
 }
 
+// ---- the whole book in one file, so it prints as a single job
+const SANS = "ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif";
+const MONO = "ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace";
+const titlePage = `<section class="page" data-screen-label="Title" style="box-sizing:border-box;height:100%;padding:0.42in;background:#FAF2E4;color:#1E1B33;font-family:${SANS};display:flex;flex-direction:column;justify-content:center;gap:22px">
+<div style="border-top:3px solid #1E1B33;border-bottom:3px solid #1E1B33;padding:34px 0">
+<div style="font-weight:700;font-size:13px;letter-spacing:0.16em;text-transform:uppercase;color:#5B5674">Two thousand and twenty-seven</div>
+<h1 style="font-weight:800;font-size:72px;line-height:0.98;letter-spacing:-0.03em;margin:14px 0 0;max-width:16ch">The Big Book of Little Days</h1>
+<p style="margin:20px 0 0;font-size:19px;line-height:1.4;color:#5B5674;max-width:44ch">Three hundred and sixty-five days, planned start to finish. One page a morning, from eight o'clock to dinner.</p>
+</div>
+<div style="display:flex;gap:26px;flex-wrap:wrap;font-family:${MONO};font-size:13px;color:#5B5674">
+<span>${totalPages.toLocaleString('en-US')} pages</span><span>365 days</span><span>53 weeks</span><span>12 booklets</span>
+</div>
+<div style="margin-top:auto;font-size:15px;line-height:1.5;color:#5B5674">For Azlyn &amp; Kreston · Made by Joseph for Brooklyn</div>
+</section>`;
+
+writeFileSync(join(DOCS, 'booklets', 'the-whole-book.html'),
+  bookletShell('The Whole Book 2027', [titlePage, ...allPages]));
+const wholeBytes = readFileSync(join(DOCS, 'booklets', 'the-whole-book.html')).length;
+console.log(`whole book: ${allPages.length + 1} pages, ${(wholeBytes / 1048576).toFixed(1)} MB`);
+
 writeFileSync(join(DOCS, 'data', 'site.json'), JSON.stringify({
   days: siteDays, weeks: siteWeeks, months: siteMonths, totalPages,
+  whole: { file: 'booklets/the-whole-book.html', pages: allPages.length + 1,
+           mb: Number((wholeBytes / 1048576).toFixed(1)) },
 }));
 
 console.log(`\n${dayCount} days, ${weeks.length} weeks, ${siteMonths.length} booklets, ${totalPages} pages total`);
