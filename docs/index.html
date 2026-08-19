@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Little Days · 2027</title>
+<meta name="description" content="The Big Book of Little Days — 365 planned days for 2027, one page a morning, plus twelve printable booklets.">
+<style>
+:root{
+  --paper:#FAF2E4; --ink:#1E1B33; --muted:#5B5674; --rule:#EDE3D6;
+  --orange:#E4501E; --orange-dark:#B93F14; --amber:#FFB627;
+  --wash:#F1EDE6; --blue-bg:#DFEEFA; --blue-fg:#14456B;
+  --sand-bg:#F5EAD6; --sand-fg:#7A4E06; --violet-bg:#EDEAFE; --violet-fg:#4436B8;
+  --green-bg:#DCF0D9; --green-fg:#22622C; --red-bg:#FBE9E9; --red-fg:#B3202B;
+  --sans:ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+  --serif:Georgia, 'Iowan Old Style', Palatino, serif;
+  --mono:ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace;
+}
+*{-webkit-tap-highlight-color:transparent;box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans)}
+a{color:var(--orange);text-decoration:none}
+a:hover{color:var(--orange-dark)}
+input,button{font:inherit}
+:focus-visible{outline:3px solid var(--orange);outline-offset:2px;border-radius:6px}
+@media print{.noprint{display:none}}
+@media (prefers-reduced-motion: no-preference){html{scroll-behavior:smooth}}
+
+header.top{position:sticky;top:0;z-index:50;background:rgba(250,242,228,0.94);backdrop-filter:blur(8px);border-bottom:2px solid var(--rule)}
+.topbar{max-width:1000px;margin:0 auto;padding:10px 16px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.brand{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 10px 0 4px;border-radius:999px;color:var(--ink);flex:1 1 auto;min-width:0}
+.brand:hover{background:var(--wash);color:var(--ink)}
+.brand .name{font-weight:800;font-size:17px;letter-spacing:-0.02em;white-space:nowrap}
+.brand .yr{font-family:var(--mono);font-size:11px;color:var(--muted)}
+nav.main{display:flex;gap:4px;align-items:center}
+nav.main a{display:inline-flex;align-items:center;min-height:38px;padding:0 12px;border-radius:999px;font-weight:700;font-size:14px;color:#4A4757}
+nav.main a:hover{background:var(--wash);color:#4A4757}
+.searchbox{display:flex;align-items:center;gap:8px;background:#FFFFFF;border:1.5px solid var(--rule);border-radius:999px;padding:0 14px;height:40px;flex:0 1 260px;min-width:150px}
+.searchbox span{color:var(--muted);font-size:14px}
+.searchbox input{border:0;outline:none;background:transparent;width:100%;font-size:15px;color:var(--ink);min-width:0}
+
+main{max-width:1000px;margin:0 auto;padding:28px 16px 72px}
+.hero{background:#FFFFFF;border:2px solid var(--rule);border-radius:18px;padding:24px 24px 20px;display:flex;flex-direction:column;gap:16px}
+.hero-row{display:flex;align-items:flex-start;gap:18px;flex-wrap:wrap}
+.big-num{font-weight:800;font-size:64px;line-height:0.82;letter-spacing:-0.05em;color:var(--orange)}
+.eyebrow{font-weight:700;font-size:12px;letter-spacing:0.14em;text-transform:uppercase;color:var(--muted)}
+.hero h1{font-weight:800;font-size:32px;line-height:1.06;letter-spacing:-0.025em;margin:6px 0 0}
+.dateline{font-weight:600;font-size:15px;line-height:1.4;color:var(--muted);margin-top:4px}
+.btn-row{display:flex;gap:10px;flex-wrap:wrap}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 22px;border-radius:999px;background:var(--orange);color:#FFFFFF;font-weight:800;font-size:16px}
+.btn:hover{background:var(--orange-dark);color:#FFFFFF}
+.btn.soft{background:var(--wash);color:var(--ink);font-weight:700;padding:0 20px}
+.btn.soft:hover{background:var(--rule);color:var(--ink)}
+.hero .note{margin:0;font-size:14px;line-height:1.45;color:var(--muted)}
+.tiles{margin-top:28px;display:grid;grid-template-columns:repeat(auto-fit, minmax(260px, 1fr));gap:14px}
+.tile{border-radius:14px;padding:16px 18px}
+.tile .k{font-weight:700;font-size:11.5px;letter-spacing:0.12em;text-transform:uppercase}
+.tile .v{font-weight:800;font-size:19px;line-height:1.15;margin:6px 0 4px}
+.tile .m{font-family:var(--mono);font-size:12px}
+.tile.blue{background:var(--blue-bg)} .tile.blue .k,.tile.blue .m{color:var(--blue-fg)}
+.tile.night{background:var(--ink);color:var(--paper)}
+.tile.night .k{font-family:var(--mono);font-size:11px;letter-spacing:0.12em;color:var(--amber);text-transform:none;font-weight:400}
+.tile.night p{margin:7px 0 0;font-size:14.5px;line-height:1.45}
+a.tile.sand{background:var(--sand-bg);color:var(--ink);display:block}
+a.tile.sand:hover{background:#EFE0C6;color:var(--ink)}
+.tile.sand .k{color:var(--sand-fg)}
+.tile.sand .m{font-family:var(--sans);font-size:13.5px;line-height:1.4;color:var(--muted)}
+
+.day-nav{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:14px 0}
+.day-nav a{display:inline-flex;align-items:center;min-height:44px;padding:0 16px;border-radius:999px;background:var(--wash);color:var(--ink);font-weight:700;font-size:14.5px}
+.day-nav a:hover{background:var(--rule);color:var(--ink)}
+.day-nav a.mid{background:transparent;justify-content:center;padding:0 14px;font-family:var(--mono);font-size:12px;line-height:1.3;color:var(--muted);text-align:center;font-weight:400}
+.day-nav a.mid:hover{background:var(--wash)}
+.day-head{border-bottom:3px solid var(--ink);padding-bottom:14px;display:flex;align-items:flex-end;gap:16px;flex-wrap:wrap}
+.day-head .num{font-weight:800;font-size:52px;line-height:0.82;letter-spacing:-0.05em;color:var(--orange)}
+.day-head h1{font-weight:800;font-size:30px;line-height:1.06;letter-spacing:-0.025em;margin:0}
+.day-head .dateline{font-size:14.5px;margin-top:3px}
+.lastnight{margin-top:16px;background:var(--wash);border-radius:12px;padding:13px 15px}
+.lastnight .eyebrow{font-size:11.5px;letter-spacing:0.12em}
+.lastnight p{margin:6px 0 0;font-size:14.5px;line-height:1.45}
+
+.sched{margin-top:22px}
+.sched .eyebrow{margin-bottom:10px}
+.sched-rows{display:flex;flex-direction:column;border-left:2px solid var(--rule);padding-left:12px}
+.sched-row{display:flex;gap:12px;align-items:baseline;padding:7px 0;border-bottom:1px solid var(--wash)}
+.sched-row .t{font-family:var(--mono);font-size:12px;color:var(--muted);width:106px;flex:none;white-space:nowrap}
+.sched-row .l{flex:1;min-width:0;font-size:15px;line-height:1.35}
+.sched-row .l.major{font-weight:700}
+.sched-row .d{font-family:var(--mono);font-size:11.5px;color:var(--muted);flex:none}
+
+.act{margin-top:22px;background:#FFFFFF;border:2px solid var(--rule);border-left:6px solid var(--orange);border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;gap:12px}
+.act .badge-row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.badge{display:inline-flex;align-items:center;gap:6px;background:var(--orange);color:#FFFFFF;border-radius:999px;padding:6px 12px;font-weight:800;font-size:12.5px;letter-spacing:0.06em}
+.act .eyebrow{font-size:11.5px;letter-spacing:0.12em}
+.act h2{font-weight:800;font-size:23px;line-height:1.12;letter-spacing:-0.02em;margin:0}
+.act .intro{margin:0;font-family:var(--serif);font-style:italic;font-size:15.5px;line-height:1.5;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:5px;padding:7px 12px;border-radius:999px;background:var(--blue-bg);color:var(--blue-fg);font-weight:700;font-size:13.5px}
+.mats{background:var(--sand-bg);border-radius:12px;padding:13px 15px}
+.mats .k{font-weight:700;font-size:11.5px;letter-spacing:0.12em;text-transform:uppercase;color:var(--sand-fg);margin-bottom:8px}
+.mats label{display:flex;gap:10px;align-items:flex-start;padding:6px 0;cursor:pointer;min-height:32px}
+.mats input{width:19px;height:19px;margin:1px 0 0;flex:none;accent-color:var(--orange)}
+.mats .mt{flex:1;font-size:14.5px;line-height:1.4}
+.mats .mt.done{opacity:0.45}
+.steps{margin:0;padding-left:0;list-style:none;display:flex;flex-direction:column;gap:10px}
+.steps li{display:flex;gap:12px;align-items:flex-start}
+.steps .n{flex:none;width:26px;height:26px;border-radius:999px;background:var(--wash);color:#4A4757;font-weight:800;font-size:13px;display:flex;align-items:center;justify-content:center}
+.steps .s{flex:1;font-size:15.5px;line-height:1.5;text-wrap:pretty}
+.tipbox{display:flex;gap:10px;background:#FEEDE3;border-radius:12px;padding:13px 15px;margin:0;font-weight:600;font-size:14.5px;line-height:1.45}
+
+.atw{margin-top:22px;background:var(--violet-bg);border-radius:14px;padding:18px 20px}
+.atw .eyebrow{color:var(--violet-fg)}
+.atw h2{font-weight:800;font-size:21px;line-height:1.15;letter-spacing:-0.02em;margin:8px 0 10px}
+.atw .paras{display:flex;flex-direction:column;gap:10px;font-size:15px;line-height:1.5;text-wrap:pretty}
+.atw .paras p{margin:0}
+.atw .try{display:flex;gap:10px;background:#FFFFFF;border-radius:12px;padding:13px 15px;margin:12px 0 0;font-weight:600;font-size:14.5px;line-height:1.45}
+.atw .did{margin:10px 0 0;font-family:var(--serif);font-style:italic;font-size:14.5px;line-height:1.45;color:var(--muted)}
+
+.lists{margin-top:22px;display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:14px}
+.panel{border-radius:14px;padding:16px 18px}
+.panel .k{font-weight:700;font-size:11.5px;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:8px}
+.panel ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:6px;font-size:14.5px;line-height:1.42}
+.panel.violet{background:var(--violet-bg)} .panel.violet .k{color:var(--violet-fg)}
+.panel.green{background:var(--green-bg)} .panel.green .k{color:var(--green-fg)}
+
+.grown{margin-top:26px;border-top:3px solid var(--ink);padding-top:18px}
+.babies{margin-top:14px;display:grid;grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));gap:14px}
+.baby{background:var(--blue-bg);border-radius:14px;padding:16px 18px}
+.baby .h{display:flex;align-items:baseline;justify-content:space-between;gap:8px;margin-bottom:7px}
+.baby .hh{font-weight:800;font-size:16.5px;color:var(--blue-fg)}
+.baby .w{font-family:var(--mono);font-size:11.5px;color:var(--blue-fg)}
+.baby p{margin:0;font-size:14.5px;line-height:1.45}
+.insight{margin-top:20px}
+.insight h2{font-family:var(--serif);font-weight:700;font-size:27px;line-height:1.2;letter-spacing:-0.01em;margin:10px 0 12px;max-width:34ch}
+.insight .paras{font-family:var(--serif);font-size:17px;line-height:1.62;max-width:68ch;display:flex;flex-direction:column;gap:12px;text-wrap:pretty}
+.insight .paras p{margin:0}
+.safety{margin-top:20px;display:flex;gap:10px;background:var(--red-bg);border:2px solid var(--red-fg);border-radius:12px;padding:14px 16px;align-items:flex-start}
+.safety p{margin:0;font-weight:600;font-size:14.5px;line-height:1.45}
+.safety .sk{color:var(--red-fg);font-weight:700}
+.tonight{margin-top:20px;background:var(--ink);color:var(--paper);border-radius:14px;padding:18px 20px}
+.tonight .k{font-family:var(--mono);font-size:11.5px;letter-spacing:0.12em;color:var(--amber)}
+.tonight p{margin:8px 0 0;font-size:15px;line-height:1.5}
+.tonight a{display:inline-flex;align-items:center;min-height:44px;margin-top:12px;padding:0 18px;border-radius:999px;background:var(--amber);color:#3A2300;font-weight:800;font-size:15px}
+.tonight a:hover{background:#E8A420;color:#3A2300}
+
+.browse h1{font-weight:800;font-size:34px;line-height:1.05;letter-spacing:-0.025em;margin:0 0 6px}
+.browse .sub{margin:0 0 24px;font-size:15.5px;line-height:1.5;color:var(--muted)}
+.month{margin-bottom:26px}
+.month-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:2px solid var(--ink);padding-bottom:7px;margin-bottom:12px}
+.month-head h2{font-weight:800;font-size:23px;letter-spacing:-0.02em;margin:0}
+.month-head .m{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+.wk{margin-bottom:12px}
+.wk .wt{font-weight:700;font-size:14px;line-height:1.3;margin-bottom:7px}
+.wk-days{display:flex;flex-wrap:wrap;gap:6px}
+.daychip{display:inline-flex;flex-direction:column;gap:1px;min-height:52px;justify-content:center;padding:6px 12px;border-radius:11px;background:#FFFFFF;border:1.5px solid var(--rule);color:var(--ink);max-width:210px}
+.daychip:hover{border-color:var(--orange);color:var(--ink)}
+.daychip .dm{font-family:var(--mono);font-size:10.5px;color:var(--muted)}
+.daychip .dt{font-weight:700;font-size:13.5px;line-height:1.2}
+
+.results h1{font-weight:800;font-size:28px;letter-spacing:-0.02em;margin:0 0 4px}
+.results .sub{margin:0 0 20px;font-size:14.5px;color:var(--muted)}
+.result-list{display:flex;flex-direction:column;gap:8px}
+.result{display:flex;gap:14px;align-items:baseline;background:#FFFFFF;border:1.5px solid var(--rule);border-radius:12px;padding:14px 16px;color:var(--ink);min-height:56px}
+.result:hover{border-color:var(--orange);color:var(--ink)}
+.result .rn{font-weight:800;font-size:15px;color:var(--orange);width:66px;flex:none;white-space:nowrap}
+.result .rb{flex:1 1 200px;min-width:0}
+.result .rt{display:block;font-weight:700;font-size:16px;line-height:1.25}
+.result .rs{display:block;font-size:13.5px;line-height:1.4;color:var(--muted);margin-top:2px}
+.result .rd{font-family:var(--mono);font-size:11px;color:var(--muted);flex:none}
+
+.get h1{font-weight:800;font-size:34px;line-height:1.05;letter-spacing:-0.025em;margin:0 0 8px}
+.get .lede{margin:0 0 8px;font-size:16px;line-height:1.55;color:var(--muted);max-width:64ch;text-wrap:pretty}
+.get .chips{margin:0 0 24px;gap:8px}
+.get .chip.sand{background:var(--sand-bg);color:var(--sand-fg)}
+.get .chip.green{background:var(--green-bg);color:var(--green-fg)}
+.dl-grid{display:grid;grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));gap:12px}
+.dl{display:flex;align-items:center;gap:16px;background:#FFFFFF;border:2px solid var(--rule);border-radius:14px;padding:16px 18px;color:var(--ink);min-height:72px}
+.dl:hover{border-color:var(--orange);color:var(--ink)}
+.dl .no{font-family:var(--mono);font-size:12px;color:var(--muted);flex:none}
+.dl .b{flex:1;min-width:0}
+.dl .nm{display:block;font-weight:800;font-size:20px;line-height:1.15;letter-spacing:-0.02em}
+.dl .mt{display:block;font-size:13px;color:var(--muted);margin-top:3px}
+.dl .go{flex:none;font-weight:700;font-size:13.5px;color:var(--orange)}
+.get .after{margin:22px 0 0;font-size:14px;line-height:1.5;color:var(--muted);max-width:64ch}
+
+footer.bottom{border-top:2px solid var(--rule);padding:22px 16px 40px}
+footer.bottom .in{max-width:1000px;margin:0 auto;display:flex;gap:14px;flex-wrap:wrap;align-items:baseline;justify-content:space-between}
+footer.bottom .l{font-size:13.5px;color:var(--muted)}
+footer.bottom .r{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
+</style>
+</head>
+<body>
+
+<header class="top noprint">
+  <div class="topbar">
+    <a href="#" class="brand" id="brand">
+      <span class="name">Little Days</span>
+      <span class="yr">2027</span>
+    </a>
+    <nav class="main" aria-label="Main">
+      <a href="#browse">Browse</a>
+      <a href="#get">Get the book</a>
+    </nav>
+    <div class="searchbox">
+      <span aria-hidden="true">⌕</span>
+      <input type="search" id="q" placeholder="Search 365 days" aria-label="Search the book">
+    </div>
+  </div>
+</header>
+
+<div id="view"></div>
+
+<footer class="bottom noprint">
+  <div class="in">
+    <span class="l">The Big Book of Little Days · 2027</span>
+    <span class="r" id="statusline">loading…</span>
+  </div>
+</footer>
+
+<script>
+(() => {
+  'use strict';
+  const CK = 'littledays:checks:v1';
+  const view = document.getElementById('view');
+  const qInput = document.getElementById('q');
+  const statusline = document.getElementById('statusline');
+
+  const S = { site: null, view: 'home', dayNum: null, dayData: null, q: '', checks: {} };
+  const cache = {};
+  try { S.checks = JSON.parse(localStorage.getItem(CK) || '{}'); } catch (e) {}
+
+  const plain = s => String(s || '').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&#39;/g, "'");
+  const escA = s => String(s || '').replace(/"/g, '&quot;');
+
+  function todayNumber() {
+    const now = new Date();
+    if (now.getFullYear() !== 2027) return null;
+    const start = new Date(2027, 0, 1);
+    const n = Math.floor((now - start) / 86400000) + 1;
+    return n >= 1 && n <= 365 ? n : null;
+  }
+
+  function route() {
+    const h = (location.hash || '').replace(/^#/, '');
+    const m = h.match(/^d(\d+)$/);
+    // a hash change is a deliberate navigation, so it clears any active search
+    S.q = ''; qInput.value = '';
+    if (m) {
+      const n = Math.min(365, Math.max(1, Number(m[1])));
+      S.view = 'day'; S.dayNum = n; S.dayData = null;
+      loadDay(n);
+      render();
+      return;
+    }
+    S.view = (h === 'browse' || h === 'get') ? h : 'home';
+    render();
+    window.scrollTo(0, 0);
+  }
+
+  function weekFile(wk) { return 'data/week-' + String(wk).padStart(2, '0') + '.json'; }
+
+  function loadDay(n) {
+    const wk = Math.ceil(n / 7);
+    const jobs = [fetchWeek(wk)];
+    // "done last night" needs the previous day, which for a Monday sits in last week's file
+    if (n > 1 && Math.ceil((n - 1) / 7) !== wk) jobs.push(fetchWeek(Math.ceil((n - 1) / 7)));
+    Promise.all(jobs).then(([w]) => {
+      if (S.view !== 'day' || S.dayNum !== n) return;
+      const d = w.days.find(x => x.day === n) || null;
+      S.dayData = d ? { d, week: w } : null;
+      render();
+      window.scrollTo(0, 0);
+    }).catch(e => { view.innerHTML = '<main><p style="color:var(--red-fg)">' + String(e) + '</p></main>'; });
+  }
+
+  function fetchWeek(wk) {
+    const f = weekFile(wk);
+    if (cache[f]) return Promise.resolve(cache[f]);
+    return fetch(f).then(r => { if (!r.ok) throw new Error(f + ': ' + r.status); return r.json(); })
+      .then(w => { cache[f] = w; return w; });
+  }
+
+  function toggle(key) {
+    if (S.checks[key]) delete S.checks[key]; else S.checks[key] = 1;
+    try { localStorage.setItem(CK, JSON.stringify(S.checks)); } catch (e) {}
+  }
+
+  // ---------- view builders ----------
+
+  function activityCard(d, key, badge, label) {
+    const a = d[key];
+    if (!a) return '';
+    const row = (d.schedule || []).find(x => x.label === label);
+    const chips = [];
+    if (row && row.dur) chips.push('⏱️ ' + row.dur);
+    const mats = (a.materials || []).length ? a.materials : (a.need ? [a.need] : []);
+    if (mats.length > 1) chips.push('🧰 ' + mats.length + ' items');
+    if (key === 'outside') chips.push('🌳 outdoors');
+    const steps = (a.steps && a.steps.length) ? a.steps
+      : (key === 'outside' && d.outside ? d.outside.paras : []);
+    return '<section class="act">' +
+      '<div class="badge-row"><span class="badge">' + badge + '</span>' +
+      '<span class="eyebrow">' + (row ? label + ' · ' + plain(row.time) : label) + '</span></div>' +
+      '<h2>' + plain(a.title) + '</h2>' +
+      (a.intro ? '<p class="intro">' + a.intro + '</p>' : '') +
+      '<div class="chips">' + chips.map(c => '<span class="chip">' + c + '</span>').join('') + '</div>' +
+      (mats.length > 1 ? '<div class="mats"><div class="k">🧰 You need</div>' +
+        mats.map((m, i) => {
+          const k = 'd' + d.day + ':' + key + ':m' + i;
+          const done = !!S.checks[k];
+          return '<label><input type="checkbox" data-ck="' + escA(k) + '"' + (done ? ' checked' : '') + '>' +
+            '<span class="mt' + (done ? ' done' : '') + '">' + m + '</span></label>';
+        }).join('') + '</div>' : '') +
+      (steps.length ? '<ol class="steps">' + steps.map((s, i) =>
+        '<li><span class="n">' + (i + 1) + '</span><span class="s">' + s + '</span></li>').join('') + '</ol>' : '') +
+      (a.tip ? '<p class="tipbox"><span aria-hidden="true">💡</span><span>' + a.tip + '</span></p>' : '') +
+      '</section>';
+  }
+
+  function homeView() {
+    const site = S.site;
+    const byDay = {}; site.days.forEach(d => { byDay[d.d] = d; });
+    const tn = todayNumber() || 1;
+    const t = byDay[tn];
+    const wk = site.weeks.find(w => w.w === t.w) || { h: '', dates: '' };
+    const real = !!todayNumber();
+    return '<main>' +
+      '<section class="hero">' +
+      '<div class="hero-row"><span class="big-num">' + t.d + '</span>' +
+      '<div style="flex:1 1 240px;min-width:0">' +
+      '<div class="eyebrow">' + (real ? 'Today' : 'The book starts here') + '</div>' +
+      '<h1>' + t.t + '</h1><div class="dateline">' + t.dt + '</div></div></div>' +
+      '<div class="btn-row"><a class="btn" href="#d' + t.d + '">Open the plan</a>' +
+      '<a class="btn soft" href="#browse">All 365 days</a></div>' +
+      '<p class="note">' + (real ? 'Everything for today, in order, from 8:00 AM.'
+        : 'Today is not in 2027 yet, so this opens at Day 1. Browse to jump anywhere.') + '</p>' +
+      '</section>' +
+      '<section class="tiles">' +
+      '<div class="tile blue"><div class="k">This week</div><div class="v">' + wk.h + '</div>' +
+      '<div class="m">' + wk.dates + '</div></div>' +
+      '<div class="tile night"><div class="k">TONIGHT, 9 PM</div><p>' + (t.pt || 'Nothing to prepare tonight.') + '</p></div>' +
+      '<a href="#get" class="tile sand"><div class="k">Print it</div><div class="v">Twelve booklets</div>' +
+      '<div class="m">' + site.totalPages.toLocaleString('en-US') + ' pages, US Letter, ready to print</div></a>' +
+      '</section></main>';
+  }
+
+  function dayView() {
+    const site = S.site;
+    const dd = S.dayData;
+    if (!dd) return '<main><p style="color:var(--muted)">Loading Day ' + S.dayNum + '…</p></main>';
+    const d = dd.d;
+    const byDay = {}; site.days.forEach(x => { byDay[x.d] = x; });
+    const prev = d.day > 1 ? d.day - 1 : null;
+    const next = d.day < 365 ? d.day + 1 : null;
+    const prevD = prev ? byDay[prev] : null;
+    const nextD = next ? byDay[next] : null;
+
+    let lastNight = '';
+    if (prev) {
+      const pw = cache[weekFile(Math.ceil(prev / 7))];
+      const pd = pw && pw.days.find(x => x.day === prev);
+      if (pd && pd.prepTonight) {
+        lastNight = '<div class="lastnight"><div class="eyebrow">📦 Done last night</div><p>' + pd.prepTonight + '</p></div>';
+      }
+    }
+
+    const acts =
+      activityCard(d, 'opening', '🌅 START', 'Opening Activity') +
+      activityCard(d, 'main', '🎨 MAIN EVENT', 'The Main Event') +
+      activityCard(d, 'outside', '🌳 OUTSIDE', 'Get Outside') +
+      activityCard(d, 'second', '🎨 AFTERNOON', 'Second Main Event');
+
+    const sched = (d.schedule || []).map(r => {
+      const label = /Out Again/.test(r.label) ? 'Out again · pick one' : plain(r.name || r.label);
+      const major = /Main Event|Opening Activity|Get Outside|Out Again/.test(r.label);
+      return '<div class="sched-row"><span class="t">' + plain(r.time) + '</span>' +
+        '<span class="l' + (major ? ' major' : '') + '">' + label + '</span>' +
+        '<span class="d">' + (r.dur || '') + '</span></div>';
+    }).join('');
+
+    const atw = d.aroundWorld ? '<section class="atw">' +
+      '<div class="eyebrow">🌍 Around the world · this week</div>' +
+      '<h2>' + plain(d.aroundWorld.title) + '</h2>' +
+      '<div class="paras">' + (d.aroundWorld.paras || []).map(p => '<p>' + p + '</p>').join('') + '</div>' +
+      (d.aroundWorld.tryIt ? '<p class="try"><span aria-hidden="true">✨</span><span>' + d.aroundWorld.tryIt + '</span></p>' : '') +
+      (d.aroundWorld.didYouKnow ? '<p class="did">' + d.aroundWorld.didYouKnow + '</p>' : '') +
+      '</section>' : '';
+
+    const lists = (d.alternatives || d.outAgain) ? '<section class="lists">' +
+      '<div class="panel violet"><div class="k">✨ Afternoon alternatives</div><ul>' +
+      (d.alternatives || []).map(a => '<li>' + a + '</li>').join('') + '</ul></div>' +
+      '<div class="panel green"><div class="k">🌳 Out again · pick one</div><ul>' +
+      (d.outAgain || []).map(o => '<li>' + o + '</li>').join('') + '</ul></div>' +
+      '</section>' : '';
+
+    const babies = [
+      d.infant ? '<div class="baby"><div class="h"><span class="hh">👶 Infant integration</span><span class="w">morning</span></div><p>' + d.infant + '</p></div>' : '',
+      d.krestonPM ? '<div class="baby"><div class="h"><span class="hh">👶 Kreston’s afternoon</span><span class="w">1:00 onward</span></div><p>' + d.krestonPM + '</p></div>' : ''
+    ].filter(Boolean).join('');
+
+    const insight = (d.insight && d.insight.headline) ? '<div class="insight">' +
+      '<div class="eyebrow">🧠 One thing worth knowing</div>' +
+      '<h2>' + plain(d.insight.headline) + '</h2>' +
+      '<div class="paras">' + (d.insight.paras || []).map(p => '<p>' + p + '</p>').join('') + '</div></div>' : '';
+
+    const safety = d.safety ? '<div class="safety"><span aria-hidden="true">⚠️</span>' +
+      '<p><span class="sk">Safety:</span> ' + d.safety + '</p></div>' : '';
+
+    const tonight = (d.prepTonight && next) ? '<div class="tonight">' +
+      '<div class="k">TONIGHT, 9 PM · PREP FOR DAY ' + next + '</div>' +
+      '<p>' + d.prepTonight + '</p>' +
+      '<a href="#d' + next + '">' + (nextD ? plain(nextD.t) : 'Day ' + next) + ' →</a></div>' : '';
+
+    return '<main>' +
+      '<div class="day-nav noprint">' +
+      '<a href="' + (prev ? '#d' + prev : '#browse') + '">← ' + (prevD ? 'Day ' + prev : 'Browse') + '</a>' +
+      '<a class="mid" href="#browse">' + plain(dd.week.opener ? dd.week.opener.heading : '') + '</a>' +
+      '<a href="' + (next ? '#d' + next : '#browse') + '">' + (nextD ? 'Day ' + next : 'Browse') + ' →</a></div>' +
+      '<header class="day-head"><span class="num">' + d.day + '</span>' +
+      '<div style="flex:1 1 220px;min-width:0"><h1>' + plain(d.title) + '</h1>' +
+      '<div class="dateline">' + plain(d.date) + ' · ' + plain(d.theme || '') + '</div></div></header>' +
+      lastNight +
+      '<section class="sched"><div class="eyebrow">Today, at a glance</div><div class="sched-rows">' + sched + '</div></section>' +
+      acts + atw + lists +
+      '<section class="grown"><div class="eyebrow">For the grown-up</div>' +
+      (babies ? '<div class="babies">' + babies + '</div>' : '') +
+      insight + safety + tonight +
+      '</section></main>';
+  }
+
+  function browseView() {
+    const site = S.site;
+    const byDay = {}; site.days.forEach(d => { byDay[d.d] = d; });
+    return '<main class="browse"><h1>All 365 days</h1>' +
+      '<p class="sub">Fifty-three weeks, twelve booklets. Tap any day.</p>' +
+      site.months.map(m =>
+        '<section class="month"><div class="month-head"><h2>' + m.name + '</h2>' +
+        '<span class="m">' + m.days.length + ' days · ' + m.pages + ' pages</span></div>' +
+        m.weeks.map(wn => {
+          const w = site.weeks.find(x => x.w === wn) || { days: [], h: '' };
+          return '<div class="wk"><div class="wt">' + w.h + '</div><div class="wk-days">' +
+            w.days.map(dn => {
+              const dd = byDay[dn] || { t: '', dt: '' };
+              return '<a class="daychip" href="#d' + dn + '">' +
+                '<span class="dm">Day ' + dn + ' · ' + String(dd.dt).split(',')[0] + '</span>' +
+                '<span class="dt">' + dd.t + '</span></a>';
+            }).join('') + '</div></div>';
+        }).join('') + '</section>'
+      ).join('') + '</main>';
+  }
+
+  function searchView() {
+    const site = S.site;
+    const q = S.q.trim().toLowerCase();
+    const hits = site.days.filter(d => d.q.indexOf(q) >= 0).slice(0, 60);
+    return '<main class="results">' +
+      '<h1>' + hits.length + (hits.length === 1 ? ' day matches ' : ' days match ') + '“' + S.q.trim().replace(/</g, '&lt;') + '”</h1>' +
+      '<p class="sub">Searching titles, activities, materials and insights.</p>' +
+      '<div class="result-list">' +
+      hits.map(d => '<a class="result" href="#d' + d.d + '">' +
+        '<span class="rn">Day ' + d.d + '</span>' +
+        '<span class="rb"><span class="rt">' + d.t + '</span>' +
+        '<span class="rs">' + [d.th, (d.acts || []).slice(1).join(' · ')].filter(Boolean).join(' — ') + '</span></span>' +
+        '<span class="rd">' + d.dt + '</span></a>').join('') +
+      '</div></main>';
+  }
+
+  function getView() {
+    const site = S.site;
+    return '<main class="get"><h1>Get the book</h1>' +
+      '<p class="lede">Twelve printable booklets, ' + site.totalPages.toLocaleString('en-US') +
+      ' pages of US Letter. Four pages per day plus a three-page week opener. Open a booklet and print it, or save it as a PDF from the print dialog.</p>' +
+      '<div class="chips"><span class="chip">365 days</span>' +
+      '<span class="chip sand">' + site.totalPages.toLocaleString('en-US') + ' pages</span>' +
+      '<span class="chip green">US Letter</span></div>' +
+      '<div class="dl-grid">' +
+      site.months.map(m => '<a class="dl" href="' + m.file + '" target="_blank" rel="noopener">' +
+        '<span class="no">' + m.mm + '</span>' +
+        '<span class="b"><span class="nm">' + m.name + '</span>' +
+        '<span class="mt">Days ' + m.days[0] + '–' + m.days[m.days.length - 1] + ' · ' + m.pages + ' pages</span></span>' +
+        '<span class="go">Open ↗</span></a>').join('') +
+      '</div>' +
+      '<p class="after">Each booklet opens as a print-ready document. Use your browser’s print dialog and choose <strong>Save as PDF</strong> to keep a copy, or print double-sided and spiral-bind by month.</p>' +
+      '</main>';
+  }
+
+  function render() {
+    if (!S.site) { view.innerHTML = '<main><p style="color:var(--muted)">loading…</p></main>'; return; }
+    statusline.textContent = '365 days · 53 weeks · ' + S.site.totalPages.toLocaleString('en-US') + ' pages';
+    const searching = !!S.q.trim();
+    if (searching) { view.innerHTML = searchView(); return; }
+    if (S.view === 'day') { view.innerHTML = dayView(); return; }
+    if (S.view === 'browse') { view.innerHTML = browseView(); return; }
+    if (S.view === 'get') { view.innerHTML = getView(); return; }
+    view.innerHTML = homeView();
+  }
+
+  // material checkboxes: event delegation, state in localStorage
+  view.addEventListener('change', e => {
+    const ck = e.target && e.target.getAttribute && e.target.getAttribute('data-ck');
+    if (!ck) return;
+    toggle(ck);
+    const span = e.target.nextElementSibling;
+    if (span) span.classList.toggle('done', !!S.checks[ck]);
+  });
+
+  qInput.addEventListener('input', () => { S.q = qInput.value; render(); });
+  window.addEventListener('hashchange', route);
+
+  fetch('data/site.json').then(r => r.json()).then(site => {
+    S.site = site;
+    route();
+  }).catch(e => {
+    view.innerHTML = '<main><p style="color:var(--red-fg)">Could not load the book data: ' + String(e) + '</p></main>';
+  });
+})();
+</script>
+</body>
+</html>
