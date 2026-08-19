@@ -6,6 +6,15 @@ that wrote it and stale ever since. Trust the files in `months/`, not old
 status documents. If a status claim here ever disagrees with the files, the
 files win.
 
+## Where it lives
+
+Public repo: https://github.com/FlamingPanda101/thebigbookoflittledays
+Live site:   https://flamingpanda101.github.io/thebigbookoflittledays/
+
+The site is generated into `docs/` by `node tools/site/build.mjs` and served
+by GitHub Pages from `main` `/docs`. Rebuild and push after any content edit,
+or the site keeps serving the previous text.
+
 ## What the repo holds
 
 | Piece | Files | Status |
