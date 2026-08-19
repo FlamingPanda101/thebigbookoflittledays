@@ -170,7 +170,7 @@ goes to and carries the jar to the door herself.
 - Your phone, to record one take
 
 **📝 Step-by-Step Instructions:**
-1. Sing the tune once with her name in it, so she hears the shape before she has to make one.
+1. Sing the tune you chose this morning once with her name in it, so she hears the shape before she has to make one.
 2. Hand her the spoon and take the first sheet. Say the name at the top and let her sing. Write it down word for word, wrong grammar included.
 3. Keep a slow beat on the upturned saucepan underneath her. The beat carries her over the gap where the words run out.
 4. Work through every sheet. Do not offer her a rhyme and do not tidy a line she has sung. Kreston's verse will be about his feet.

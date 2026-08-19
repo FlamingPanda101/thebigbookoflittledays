@@ -293,7 +293,7 @@ never heard, and the babies settled to those too.
 
 **🧰 You need:** 4 cold boiled eggs · 1 permanent marker · 1 egg cup.
 
-1. Hand her the marker and one egg at a time. Faces, hats, whatever she wants. Marker takes a minute to dry on a shell, so hold each one by the ends.
+1. Fetch the four boiled eggs you left cold in the fridge last night, then hand her the marker and one egg at a time. Faces, hats, whatever she wants. Marker takes a minute to dry on a shell, so hold each one by the ends.
 2. Say the rhyme together while she draws. She will reach the line about nobody putting him together again and look up at you.
 3. Stand the best one in the egg cup on the windowsill. Nobody touches him before 9:15.
 
@@ -830,7 +830,7 @@ brother.
 
 **🧰 You need:** 10 soft toys · 1 blanket · a stretch of floor.
 
-1. Tip the basket out and let her line all ten along the edge of the blanket, in whatever order she wants.
+1. Tip out the basket of ten soft toys you gathered last night and let her line all ten along the edge of the blanket, in whatever order she wants.
 2. Count the row together, touching each one as the number comes out. Let her tell you their names and write them down.
 3. Ask her who is going over the edge first. Whoever she picks goes on the end until 9:15.
 

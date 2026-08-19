@@ -273,8 +273,8 @@ footer.bottom .r{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
   function loadDay(n) {
     const wk = Math.ceil(n / 7);
     const jobs = [fetchWeek(wk)];
-    // "done last night" needs the previous day, which for a Monday sits in last week's file
-    if (n > 1 && Math.ceil((n - 1) / 7) !== wk) jobs.push(fetchWeek(Math.ceil((n - 1) / 7)));
+    // the 9 PM strip shows TOMORROW's prep, which for a Sunday sits in next week's file
+    if (n < 365 && Math.ceil((n + 1) / 7) !== wk) jobs.push(fetchWeek(Math.ceil((n + 1) / 7)));
     Promise.all(jobs).then(([w]) => {
       if (S.view !== 'day' || S.dayNum !== n) return;
       const d = w.days.find(x => x.day === n) || null;
@@ -349,7 +349,7 @@ footer.bottom .r{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
       '<section class="tiles">' +
       '<div class="tile blue"><div class="k">This week</div><div class="v">' + wk.h + '</div>' +
       '<div class="m">' + wk.dates + '</div></div>' +
-      '<div class="tile night"><div class="k">TONIGHT, 9 PM</div><p>' + (t.pt || 'Nothing to prepare tonight.') + '</p></div>' +
+      '<div class="tile night"><div class="k">TONIGHT, 9 PM · FOR TOMORROW</div><p>' + ((byDay[tn + 1] && byDay[tn + 1].pt) || 'Nothing to prepare tonight.') + '</p></div>' +
       '<a href="#get" class="tile sand"><div class="k">Print it</div><div class="v">Twelve booklets</div>' +
       '<div class="m">' + site.totalPages.toLocaleString('en-US') + ' pages, US Letter, ready to print</div></a>' +
       '</section></main>';
@@ -366,14 +366,14 @@ footer.bottom .r{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
     const prevD = prev ? byDay[prev] : null;
     const nextD = next ? byDay[next] : null;
 
-    let lastNight = '';
-    if (prev) {
-      const pw = cache[weekFile(Math.ceil(prev / 7))];
-      const pd = pw && pw.days.find(x => x.day === prev);
-      if (pd && pd.prepTonight) {
-        lastNight = '<div class="lastnight"><div class="eyebrow">📦 Done last night</div><p>' + pd.prepTonight + '</p></div>';
-      }
-    }
+    // Prep Tonight on a page is executed the night BEFORE that page's day
+    // (front matter: "read it the night before"), so a day's own prep is what
+    // got done last night, and tonight's job is tomorrow's prep.
+    const lastNight = d.prepTonight
+      ? '<div class="lastnight"><div class="eyebrow">📦 Done last night</div><p>' + d.prepTonight + '</p></div>'
+      : '';
+    const nw = next ? cache[weekFile(Math.ceil(next / 7))] : null;
+    const nd = nw ? nw.days.find(x => x.day === next) : null;
 
     const acts =
       activityCard(d, 'opening', '🌅 START', 'Opening Activity') +
@@ -417,9 +417,9 @@ footer.bottom .r{font-family:var(--mono);font-size:11.5px;color:var(--muted)}
     const safety = d.safety ? '<div class="safety"><span aria-hidden="true">⚠️</span>' +
       '<p><span class="sk">Safety:</span> ' + d.safety + '</p></div>' : '';
 
-    const tonight = (d.prepTonight && next) ? '<div class="tonight">' +
+    const tonight = (nd && nd.prepTonight) ? '<div class="tonight">' +
       '<div class="k">TONIGHT, 9 PM · PREP FOR DAY ' + next + '</div>' +
-      '<p>' + d.prepTonight + '</p>' +
+      '<p>' + nd.prepTonight + '</p>' +
       '<a href="#d' + next + '">' + (nextD ? plain(nextD.t) : 'Day ' + next) + ' →</a></div>' : '';
 
     return '<main>' +

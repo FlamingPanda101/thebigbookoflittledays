@@ -130,9 +130,9 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 
 ### 🌅 Opening Activity: Cutting the Seven Pieces
 
-**🧰 You need:** 1 cereal-box card cut to an 8-inch square · a ruler or any straight edge · 1 pencil · scissors (adult only).
+**🧰 You need:** 1 of the cereal boxes you flattened last night · a ruler or any straight edge · 1 pencil · scissors (adult only).
 
-1. Rule a line corner to corner and cut along it. Two big triangles. She holds the card flat while you cut.
+1. Cut an 8-inch square from the cereal box you flattened last night, then rule a line corner to corner and cut along it. Two big triangles. She holds the card flat while you cut.
 2. Cut one of those in half again, then work the other down into a medium triangle, two small ones, a square and a slanted four-sided piece.
 3. Seven pieces on the table and no picture yet. Let her push them round, then leave them until 9:15.
 
@@ -416,7 +416,7 @@ comes back.
 
 **🧰 You need:** the six containers · six small treasures · 1 tray.
 
-1. Lay the six out with a treasure beside each. Let her look inside and handle the lids.
+1. The six lidded containers you lined up last night are the morning's puzzle. Lay them out on the table with a treasure beside each. Let her look inside and handle the lids.
 2. She drops a treasure in and you shut them together. Name each closing out loud: screw, clip, zip, tape, knot, band.
 3. Push the tray into the middle of the table and leave it shut until 9:15.
 
@@ -686,7 +686,7 @@ herself.
 
 **🧰 You need:** the full basket · 4 bowls or paper bags · masking tape and a marker.
 
-1. Tip the basket out on the floor and sit in it with her. Half of it she has not seen for weeks and she will greet all of it.
+1. The laundry basket you filled last night holds twenty or thirty of the house's odds and ends. Tip it out on the floor and sit in the pile with her. Half of it she has not seen for weeks and she will greet all of it.
 2. Ask her to put two things together that go together. Take whatever reason she gives, including *they are both Kreston's*. Three or four times.
 3. Line the four bowls up beside the pile and say nothing about what goes in them. The sorting starts at 9:15.
 

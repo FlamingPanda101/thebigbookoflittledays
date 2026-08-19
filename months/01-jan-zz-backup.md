@@ -181,9 +181,9 @@ things.
 
 ### 🌅 Opening Activity: The Back of Her Hand
 
-**🧰 You need:** 1 metal spoon · 1 wooden spoon · 1 dish towel · a clear counter.
+**🧰 You need:** 1 metal spoon · 1 wooden spoon · 1 plastic spoon · 1 dish towel · a clear counter.
 
-1. Lay all three side by side and leave them for five minutes so they come to the same temperature as the room.
+1. Lay the metal spoon, the wooden spoon and the plastic spoon side by side on the clear counter and leave them for five minutes so they come to the same temperature as the room.
 2. Show her the test: back of the hand, held flat, counting to three. Cheek for the ones that pass.
 3. Ask her which is coldest. She picks the metal one, and the three have been sitting together the whole time. Tell her you are going hunting for the coldest thing in the house at 9:15.
 

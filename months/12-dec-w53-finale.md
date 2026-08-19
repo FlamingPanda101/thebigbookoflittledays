@@ -86,7 +86,7 @@ leaves came off. The door frame and the twelve sheets of hands follow it.
 - The empty shoebox, packing tape and a permanent marker
 
 **📝 Step-by-Step Instructions:**
-1. Scissors through the tape round the cap, yours. She tips the strips out and unties every ribbon.
+1. The bottle holds the paper strips of July's sentences, each tied with ribbon. Scissors through the tape round the cap, yours. She tips the strips out and unties every ribbon.
 2. Read her July strips out loud in the order she hands them over. She will not remember saying any of it, and she will argue with two.
 3. One strip is folded, and that one is yours. She hands it over and you read it out this time.
 4. Door frame. Shoes off, heels back, book flat on her head, pencil mark, **DEC 31** beside it. Cut a strip of paper from January's line to today's and hand her both ends.

@@ -208,7 +208,7 @@ is doing half the parenting today.
 - Half a loaf of bread, or a sleeve of crackers
 
 **📝 Step-by-Step Instructions:**
-1. Empty the vegetable bowl onto the table and let her line everything up biggest to smallest. Do not correct the order she lands on. Cans and a frozen bag line up in the row with everything else.
+1. Empty the bowl you filled from the vegetable drawer last night onto the table and let her line everything up biggest to smallest. Do not correct the order she lands on. Cans and a frozen bag line up in the row with everything else.
 2. You take the counter, the sharp knife and the hard vegetables. She takes the table, her own board, the butter knife and the soft things: mushrooms, a cooked potato, half a zucchini, and thick slices of bread when the drawer runs short.
 3. Every piece she cuts goes into her bowl, and she carries the bowl to you at the stove and tips it in. Let her make the trip eight times rather than once. The can, the lentils and the bouillon cube go in behind her, then water to cover.
 4. Lift her to see the pot before the heat goes on. Say what the top of it looks like out loud, then put her down and start it.

@@ -363,11 +363,13 @@ ${foot(ctx.monthName, `${label} · shopping${chunks.length > 1 ? ' ' + (ci + 1) 
         const i = flat.indexOf(d);
         const prev = i > 0 ? flat[i - 1] : null;
         const next = i + 1 < flat.length ? flat[i + 1] : null;
+        // A page's Prep Tonight is executed the night before its own day, so
+        // "done last night" is d's own prep and the 9 PM strip is next's.
         pages.push(...dayPages(d, {
           monthName,
           weekLabel: wk.opener.heading || label,
-          lastNight: prev ? prev.prepTonight : '',
-          tonight: next && d.prepTonight ? { day: next.day, title: next.title, prep: d.prepTonight } : null,
+          lastNight: d.prepTonight || '',
+          tonight: next && next.prepTonight ? { day: next.day, title: next.title, prep: next.prepTonight } : null,
           images: KNOWN_IMAGES[d.day] || {}
         }));
       });

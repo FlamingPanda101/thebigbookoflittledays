@@ -1,0 +1,170 @@
+[
+ {
+  "severity": "major",
+  "day": 0,
+  "problem": "Editor claimed the backup file's activities 'all open on their feet and needed nothing', but Bad Weather Day 2 (01-jan-zz-backup.md, Opening Activity 'The Back of Her Hand') fails the cold-reader test: step 1 reads 'Lay all three side by side' with no noun for what the three things are, step 3 repeats 'the three', and the You need line lists only TWO candidate objects (1 metal spoon, 1 wooden spoon, plus a dish towel and counter). The third object never exists anywhere on the page. The Insight mentions a plastic spoon, which is likely the missing third. This is a lazy pass plus a materials contradiction.",
+  "fix": "Add '1 plastic spoon' to the You need line and rewrite step 1 to name the objects: 'Lay the metal spoon, the wooden spoon and the plastic spoon side by side on the clear counter and leave them for five minutes so they come to the same temperature as the room.' Then re-read the whole day (the Infant Integration block hands Kreston 'this morning's wooden spoon and metal spoon', which still reconciles)."
+ },
+ {
+  "severity": "minor",
+  "day": 22,
+  "problem": "Called clean, but the opening ('Cutting the Seven Pieces', 01-jan-w4.md) starts one action past its own materials. Prep Tonight only flattens two cereal boxes; the You need line asserts a card already 'cut to an 8-inch square' that no instruction creates, and step 1 reads 'Rule a line corner to corner and cut along it' without naming the card. A cold reader does not know what they are ruling across or who cut the square.",
+  "fix": "Rewrite step 1 to fold in the orientation: 'Cut an 8-inch square from the cereal box you flattened last night, then rule a line corner to corner and cut along it. Two big triangles. She holds the card flat while you cut.' Re-read the day after."
+ },
+ {
+  "severity": "minor",
+  "day": 9,
+  "problem": "Called clean, and it half is: the You need line names '4 cold boiled eggs', so the object exists on the page. But step 1 ('Hand her the marker and one egg at a time') never fetches them or ties them to last night's boiling, while the editor's own Day 13 edit added exactly this tie-back to a basket the You need line already listed. Inconsistent standard.",
+  "fix": "Rewrite step 1: 'Fetch the four boiled eggs you left cold in the fridge last night, then hand her the marker and one egg at a time.' Re-read the day after."
+ },
+ {
+  "severity": "minor",
+  "day": 30,
+  "problem": "Pre-existing, not introduced by the edit: Get Outside 'Choosing Her Tree' starts a year-long tree thread (a tree that is 'hers for the year', re-photographed in April, July and October), which the settled decisions forbid ('no tree thread'). The verified Main Event edit is fine; this sits beside it on the same page.",
+  "fix": "Flag to Joseph before touching it. If confirmed as a violation, keep the walk, the arm-hug and today's photo, and cut 'to be hers for the year' and the April/July/October re-photograph schedule."
+ },
+ {
+  "severity": "minor",
+  "day": 0,
+  "problem": "Editor's report says clean:111, but the February files (02-feb-w6 through w9) hold 28 days (36-63); 9 edited leaves 19 clean, so the count is not month-scoped and casts doubt on how the report was assembled. Content itself checks out: all 9 claimed edits are present, each rewritten first step names the object, its origin, and the location, no activity changed, no materials list, Tip, Safety block, schedule row, or infant block contradicted, Main/Second step counts stay in gate (Day 41 main 6, Day 44 main 6, others untouched), edited steps stay single lines with no em dashes, banned adverbs, passives, or Wh- openers, and Day 51's Second Main 'still on the floor' line reconciles with its rewritten opening as claimed. Sampled clean openings (36, 45, 50, 53, 58, 62) all pass the cold-reader test via their You need lines.",
+  "fix": "None to the files. Have the editor scope the clean count to the month in future reports."
+ },
+ {
+  "severity": "minor",
+  "day": 65,
+  "problem": "Opening step 1 (C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/03-mar-w10.md, line ~301) now names the comforter and its origin, but the same sentence leans on 'the taped ring' with no antecedent on the page. A cold website reader who never saw Day 64 does not know a ring exists. The tent clause self-explains ('the four chairs holding this week's tent'); the ring does not, and the Safety block repeats the bare reference.",
+  "fix": "Give the ring one identifying word in step 1, e.g. 'beside the taped ring left from the tent build', keeping the step on one line. No other change."
+ },
+ {
+  "severity": "major",
+  "day": 117,
+  "problem": "Editor called this day clean and it fails the cold-reader test. Opening Activity 'Emptying the Cap Jar' step 1 reads 'She tips the jar out onto the tray.' Bare 'the jar' with no provenance anywhere in the steps: a cold reader does not learn what the caps are, that a week of saved recycling filled the jar, or that they were washed. The You need line ('the jar of washed caps') is doing work the guidance assigns to step 1, and the title names an object the steps never make real. This is the exact Day 1 defect class.",
+  "fix": "Rewrite step 1 only, no new step: 'The jar on the tray holds the bottle caps you washed and saved this week. She tips it out onto the tray. Let the noise happen.'"
+ },
+ {
+  "severity": "minor",
+  "day": 95,
+  "problem": "The edited step 1 introduces 'worktop', a Briticism, into prose ('The jar at the back of the worktop holds the two raw eggs...'). House style is US English except autumn and proper names. The word echoes Day 94's Prep Tonight line ('push it to the back of the worktop until Monday morning'), so the editor propagated an existing violation rather than inventing one, and the same word also sits in the Day 101 prep and two October insights.",
+  "fix": "Change 'worktop' to 'counter' in Day 95 step 1 and reconcile the Day 94 prep line it quotes; sweep the remaining instances (04-apr-w15.md line 408, 10-oct-w44.md lines 112 and 260) in a style pass."
+ },
+ {
+  "severity": "minor",
+  "day": 100,
+  "problem": "Pre-existing, not the editor's edit, caught on the whole-day re-read: the Safety block at 04-apr-w15.md line 393 contains the broken token '10-month- old' (space after the hyphen, mid-word wrap artifact).",
+  "fix": "Rejoin to '10-month-old' and rewrap the Safety block near 78 columns."
+ },
+ {
+  "severity": "minor",
+  "day": 132,
+  "problem": "The edited opening step 1 directs laying out 'the ribbon' beside the washed containers, and the You-need line lists it, but Prep Tonight stages only 'the rice and the packing tape beside them'. The ribbon a cold reader is told to lay out was never put out, and bare 'the ribbon' has no source until the Main Event materials list names 'Ribbon or fabric strips'.",
+  "fix": "Add the ribbon to the Day 132 Prep Tonight staging list in C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/05-may-w19.md (e.g. 'with the rice, the ribbon and the packing tape beside them'), leaving the step as written."
+ },
+ {
+  "severity": "minor",
+  "day": 176,
+  "problem": "Opening 'Nine Links Until the Fourth' was called clean but leans on the prep line for the strips' identity: the You need line says 'the cut paper strips' and step 1 says 'Count nine strips onto the table', so a cold reader never learns the strips are red, white, and blue paper cut last night; purpose and place do land (step 1 gives the sleeps-before-the-Fourth meaning, step 2 makes the chain).",
+  "fix": "Rewrite step 1 to open 'The red, white and blue strips you cut last night are the countdown chain. Count nine onto the table with her, one for every sleep before the Fourth of July.'"
+ },
+ {
+  "severity": "minor",
+  "day": 204,
+  "problem": "The new orienting sentence ties step 1 to the Prep Tonight line, but the prep reads 'Pull the blue and green paper out of the recycling onto the table', a pre-sorted pile, while step 1's rule ('blue and green stay, the rest goes back in the recycling') needs a mixed pile to sort. The edit did not create the mismatch but now points the reader straight at it.",
+  "fix": "Reword the prep to pull a mixed armful ('Pull a big armful of paper out of the recycling onto the table') or reword step 1's orientation to 'The armful of paper you pulled out of the recycling last night, blues and greens mixed through it, is the pile on the table.' Re-read the whole day after."
+ },
+ {
+  "severity": "minor",
+  "day": 203,
+  "problem": "Clean-listed day whose opening leans on bare references: 'the juice' in the You-need line and 'leave the other 1 2/3 cups for 9:15' in step 1 assume the reader knows which juice, where it stands, and its total quantity. A cold reader cannot act on 'the other 1 2/3 cups'. Borderline rather than a hard fail since juice is not an opaque object like the build box.",
+  "fix": "Rewrite step 1 along the lines of 'The juice you stood on the counter last night is the morning's whole supply. Pour a little into each cup, the same amount in both, and leave the rest, 1 2/3 cups of it, for 9:15.'"
+ },
+ {
+  "severity": "minor",
+  "day": 222,
+  "problem": "The edit calls the container 'the shallow tub' in opening step 1 (matching Prep Tonight), but the opening's You-need line says 'the tray of sand' and step 3 says 'Sweep the tray level'. One object now carries two names on the same page, which is the exact ambiguity this round exists to remove. The tray/tub wobble continues into the Main Event (materials say 'large shallow storage tub', steps say 'the tray').",
+  "fix": "Pick one word for Day 222 and use it everywhere. Prep and the new step 1 both say tub, so change the opening You-need line to 'the tub of sand', opening step 3 to 'Sweep the sand level', and Main Event step 1 'at the edge of the tray' to 'at the edge of the tub'. Re-read the whole day after."
+ },
+ {
+  "severity": "minor",
+  "day": 218,
+  "problem": "Sampled as clean. The opening passes the cold-reader test (the basket is named in the You-need line), but Prep Tonight says 'Send a laundry basket round the house tonight for every ball in it', which collects the balls the night before, while opening step 1 sends Azlyn round the house to collect the same balls into the same basket. A reader who did the prep starts the morning with a full basket and an instruction to fill it.",
+  "fix": "Rewrite Prep Tonight to stage rather than collect: leave the empty laundry basket out with the orange, the clean socks and the foil beside it. The opening keeps the collecting, which is the activity."
+ },
+ {
+  "severity": "minor",
+  "day": 0,
+  "problem": "The editor's report arithmetic does not match the files: 7 edited plus 26 clean claims 33 days, but the four 08-aug week files contain 28 days (218 through 245), leaving 21 untouched days, not 26. Either the sweep counted days outside the stated file scope or the clean count is invented, and an invented count casts doubt on how many openings were checked at all.",
+  "fix": "Have the editor state which days the clean sweep covered. The five clean openings sampled here (218, 230, 236, 238, 241) all pass the cold-reader test, so no evidence of a lazy pass surfaced beyond the bad count."
+ },
+ {
+  "severity": "minor",
+  "day": 247,
+  "problem": "Edit left an unwrapped 105-char line in the Get Outside paragraph (09-sep-w36.md line 344); prose blocks wrap near 78 columns and this prints as an overlong line.",
+  "fix": "Rewrap the paragraph at lines 343-346 to ~78 columns without changing wording."
+ },
+ {
+  "severity": "minor",
+  "day": 261,
+  "problem": "Edit left an unwrapped 107-char line in the Get Outside paragraph (09-sep-w38.md line 330).",
+  "fix": "Rewrap the paragraph at lines 329-333 to ~78 columns without changing wording."
+ },
+ {
+  "severity": "minor",
+  "day": 262,
+  "problem": "Edit left an unwrapped 111-char line in the Get Outside paragraph (09-sep-w38.md line 465).",
+  "fix": "Rewrap the paragraph at lines 464-469 to ~78 columns without changing wording."
+ },
+ {
+  "severity": "minor",
+  "day": 271,
+  "problem": "Edit left an unwrapped 111-char line in the Get Outside paragraph (09-sep-w39.md line 733).",
+  "fix": "Rewrap the paragraph at lines 731-734 to ~78 columns without changing wording."
+ },
+ {
+  "severity": "minor",
+  "day": 254,
+  "problem": "Edited step 1 says 'the bowl of soil you buried the objects in last night' while Prep Tonight and the materials list say 'dishpan of soil'; the mismatch pre-dates the edit but the whole-day re-read should have reconciled bowl vs dishpan.",
+  "fix": "Use one term for the container across Prep, materials, opening step 3, and main step 1 (dishpan matches Prep)."
+ },
+ {
+  "severity": "major",
+  "day": 278,
+  "problem": "Editor called this day clean, but the opening uses bare 'the jars' ('Count the jars along the tray with her') when Prep Tonight washed them last night. This is the exact defect class the round exists to fix: a definite reference whose antecedent lives in last night's prep. A cold reader does not know these jars were washed and staged, or where the tray sits.",
+  "fix": "Rewrite step 1 in C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/10-oct-w40.md: 'Count the jars you washed last night along the tray on the table, left to right, and let her tell you which one she thinks will end up heaviest.'"
+ },
+ {
+  "severity": "major",
+  "day": 288,
+  "problem": "Editor called this day clean, but the opening fails the cold-reader test on 'the box'. You need lists bare 'the big box' and step 3 says 'Stand it on top of the box' with no on-page antecedent; the box was stood at the end of the hallway in last night's prep. Same defect class as the Day 281 opening the editor did fix.",
+  "fix": "Rewrite step 3 in C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/10-oct-w42.md: 'Stand it on top of the big box you stood at the end of the hallway last night and step back with her. Ask what the box has to become for a nose cone to make sense, and write her answer on the side in marker.'"
+ },
+ {
+  "severity": "minor",
+  "day": 287,
+  "problem": "The edit renamed the garage 'the shoebox parking garage', which makes step 2's 'Count them into the shoebox' ambiguous: the You need line lists a separate '1 shoebox', and a cold reader can now count the cars back into the garage instead of the spare box.",
+  "fix": "In C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/10-oct-w41.md, step 2: 'Count them into the empty shoebox from the You need list out loud, one at a time. Let her lose count and start again.' or simpler: change 'the shoebox' to 'the spare shoebox'."
+ },
+ {
+  "severity": "minor",
+  "day": 304,
+  "problem": "Opening step 1 pins the sock to 'the top' and You need says bare 'the old hooded top'; it was dug out in Day 303's prep and staged in Day 304's prep, neither of which a cold reader has. The definite article assumes context the page never supplies.",
+  "fix": "In C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/10-oct-w44.md, step 1: 'Pin the empty sock to the back hem of the old hooded top you put out last night, the one she is allowed to wreck, and let her put the whole thing on.'"
+ },
+ {
+  "severity": "minor",
+  "day": 0,
+  "problem": "Report arithmetic is wrong: editor claims 5 edited + 34 clean = 39 days, but the October week files (10-oct-w40 through 10-oct-w44) contain 35 days (274-308). The coverage claim overstates by 4 days, which undermines confidence in the clean list.",
+  "fix": "Editor should re-state the clean count against the actual 35 days in the files, confirming which 30 days were checked and passed."
+ },
+ {
+  "severity": "minor",
+  "day": 332,
+  "problem": "Main Event step 1 ('Beat the yolks she separated at 8:00 smooth with the fork') re-commands an action the Opening Activity already completed: opening step 3 says 'Beat the yolks smooth with the fork' at 8:00, so a reader following the whole day beats already-smooth yolks a second time. The redundancy predates this edit, but the new '(at 8:00)' reference now points at the very step that already did the beating, in C:/Users/Josep/The-Big-Book-of-Little-Days-2027/months/11-nov-w48.md line 518.",
+  "fix": "Rewrite Main step 1 as a re-check rather than a repeat, e.g. 'Give the yolks she separated at 8:00 one more turn of the fork, cover that bowl with the dish towel and stand it in the fridge. Two of them go into the batter at 1:00.' Then re-read the whole day."
+ },
+ {
+  "severity": "minor",
+  "day": 0,
+  "problem": "Backup 'Polishing the Hall on Two Towels' (12-dec-zz-backup.md line 202): the edited step 1 now points at 8:00, but the opening's step 3 says her chosen end gets the taped finish line ('She picks which end of the hall gets the finish line, and you tape it there at 9:15'), while Main step 1 stands the basket at her chosen end and tapes the start line at the OTHER end. The two steps disagree about which end gets the tape.",
+  "fix": "Reconcile one of the two: either change the opening's step 3 to 'She picks which end of the hall gets the turning post, and you set it there at 9:15', or change Main step 1 to tape the line at the end she picked and stand the basket at the other."
+ }
+]

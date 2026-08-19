@@ -315,7 +315,7 @@ together now, and no two come out the same.
 
 **🧰 You need:** the pile of junk mail · 1 large sheet or a flattened box · masking tape.
 
-1. Sit down in the pile with her and pull pages out. Hands only, no scissors yet.
+1. The junk mail you piled on the table last night is the morning's supply. Tip it onto the floor, sit down in the pile with her and pull pages out. Hands only, no scissors yet.
 2. Ask her to find you green pages, then red ones, then yellow. Tear those into one heap per color.
 3. Tape the big sheet flat to the table so it stops sliding about. It sits there in front of her until 9:15.
 

@@ -134,7 +134,7 @@ week runs on cardboard.
 
 **🧰 You need:** the recycling pile · 3 paper bags or empty boxes · masking tape.
 
-1. Tip the pile into the middle of the floor and sit down in it with her.
+1. The recycling you emptied onto the table last night is today's building kit. Carry it to the living room, tip it into one pile in the middle of the floor, and sit down in it with her.
 2. Give her three bags and three words: **boxes**, **tubes**, **cups**. Let her sort. She will argue about the odd ones, so let the argument run.
 3. Ask which shape she thinks will hold the most weight. Do not answer. Tell her you will find out at 9:15 and leave the question hanging.
 
@@ -283,7 +283,7 @@ cool through the heat.
 
 **🧰 You need:** the big box · masking tape · 1 permanent marker.
 
-1. Let her climb in before anything else happens. She will do this anyway.
+1. The big box you stood in the living room last night is waiting for her. Let her climb in before anything else happens. She will do this anyway.
 2. Ask what it should be: house, store, boat, rocket. Write her answer on the side in marker. The decision is now fixed and it is hers.
 3. Give her the tape and let her mark where the door and the windows go. She decides now, and you cut along her marks at 9:15.
 
@@ -297,7 +297,7 @@ cool through the heat.
 - Offcut card and small boxes
 
 **📝 Step-by-Step Instructions:**
-1. Cut the door on three sides so it swings open. Do this yourself with her standing back, and say why she is standing back.
+1. Cut the door where she taped it this morning, on three sides so it swings open. Do this yourself with her standing back, and say why she is standing back.
 2. Cut two windows where she taped. Follow her marks even when they are in daft places.
 3. Hand her the offcuts and the tape and let her build a roof. It will be crooked and it will hold.
 4. Give her the marker. Every surface, inside and out, is hers to draw on.
@@ -414,7 +414,7 @@ the furniture.
 
 **🧰 You need:** cardboard tubes · masking tape · scissors · a smooth wall or the side of a closet.
 
-1. Cut two or three tubes in half lengthways so they become open channels. You cut, she holds.
+1. Fetch the cardboard tubes you piled by the stairs last night and cut two or three in half lengthways so they become open channels. You cut, she holds.
 2. Tape one channel to the wall at a slope. Roll a dried bean down it and watch where it lands.
 3. Ask her where the next one should go so the bean keeps traveling. Tape it exactly where she says, even if it will not work.
 
@@ -428,7 +428,7 @@ the furniture.
 - A wall or closet side you don't mind taping
 
 **📝 Step-by-Step Instructions:**
-1. Put the catching box on the floor at the bottom. You aim the whole run at that box.
+1. The run grows on the wall where you taped the first channel this morning. Put the catching box on the floor at the bottom of that wall. You aim the whole run at that box.
 2. Work upward. She chooses each next position, you tape it. Narrate as you go: *I'm taping this one steeper, let's see.*
 3. Send one bean down the whole run after each piece you add.
 4. It will fail somewhere. Look at where the bean stopped, change that one joint and nothing else, then test again.
@@ -680,7 +680,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 
 **🧰 You need:** the salt dough · a rolling pin · a table knife · a floured board.
 
-1. Give her a fist-sized lump and let her squash it for a few minutes before anything useful happens.
+1. The salt dough you left out overnight is this morning's clay. Give her a fist-sized lump and let her squash it for a few minutes before anything useful happens.
 2. Let her roll it out to about a finger's thickness and leave the uneven patches where they are.
 3. Cut rough rectangles with the table knife. They do not need to match. Aim for thirty and stop when she stops.
 
@@ -694,7 +694,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 - 1 pencil for scoring
 
 **📝 Step-by-Step Instructions:**
-1. Lay the cut bricks across both lined trays without touching each other.
+1. Lay the bricks she cut this morning across both lined trays without touching each other.
 2. Let her press a mark into each one with her thumb, or scratch a line with the pencil. She owns the ones she marks.
 3. Set them in the oven at its lowest setting. They need two to three hours, so put them in now and take them out around lunch.
 4. While they bake, knead the leftover dough together. Give her a big lump, take one yourself, and sit with it. Ten minutes of quiet kneading does more for a wound-up morning than any instruction.
@@ -967,7 +967,7 @@ opposite force and a new idea for her.
 - The salt dough bricks from Tuesday
 
 **📝 Step-by-Step Instructions:**
-1. Set the chairs on the tape marks with their backs outward. That is the frame.
+1. Set the chairs on the corner marks you taped this morning, with their backs outward. That is the frame.
 2. Drape the first sheet across the top and clip it to the chair backs. Clips hold where tucked edges pull loose.
 3. Ask her where the door goes. Clip that edge so it can be lifted and dropped.
 4. Send her inside with the cushions to build the floor. Leave her to it for a full ten minutes.

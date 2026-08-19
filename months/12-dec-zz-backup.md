@@ -186,7 +186,7 @@ lunch she is worn out in the way a cold walk would have worn her out.
 
 1. Towel under each foot, hands free, and walk her onto the kitchen tile. She slides. Let her fall over twice before you say anything about it.
 2. Take her to the carpet and try the same thing. Nothing moves. Then the hall, then the bathroom, then the rug by the door.
-3. Ask her which floor is the fastest and let her rank all of them out loud. She picks which end of the hall gets the finish line, and you tape it there at 9:15.
+3. Ask her which floor is the fastest and let her rank all of them out loud. She picks which end of the hall gets the turning post, and you set it there at 9:15.
 
 ### 🎨 The Main Event: Polishing the Hall on Two Towels
 
@@ -199,7 +199,7 @@ lunch she is worn out in the way a cold walk would have worn her out.
 - A clear stretch of hard floor, nothing underfoot
 
 **📝 Step-by-Step Instructions:**
-1. Stand the basket at the end she picked and tape a start line at the other. That is the course, and the walls are out of bounds.
+1. Stand the basket at the end of the hall she picked at 8:00 and tape a start line at the other. That is the course, and the walls are out of bounds.
 2. Wet two towels with the spray bottle, or dip a corner in the bowl and wring them out. Thick socks on both of you, one damp towel under each of her feet. She pushes from the start line to the basket, around it, and back, and the floor behind her comes up clean.
 3. Send her over the same strip four or five times. Skating is the fun part and the cleaning happens whether she means it or not.
 4. Swap to the dry towels for the buffing run. Tell her the job now is shine, and let her hunt for the streaks she left.
@@ -270,7 +270,7 @@ drawn around, and the year shows up in the size of them.
 > with a dark December morning. Her feet carry her weight, so a foot job pulls
 > in her legs, hips and back at the same time, and the work is heavy enough to
 > matter. She finishes worn out the way a cold walk would have worn her out.
-> Hand her the towels, name the finish line and stay out of the route she
+> Hand her the towels, name the start line and stay out of the route she
 > picks.
 
 > ⚠️ **Safety:** Towel skating happens on a clear straight run with no stairs

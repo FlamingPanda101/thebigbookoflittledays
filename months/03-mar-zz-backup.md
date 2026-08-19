@@ -44,7 +44,7 @@ Azlyn has to explain the whole place to him.
 
 **🧰 You need:** one soft toy she has not played with in weeks · a paper bag.
 
-1. Let her find him. Tell her he came in out of the rain, his home is a long way off, and he cannot leave until it stops. Point at the window. The window is doing the arguing for you today.
+1. Let her find the soft toy you sat by the front door last night. Tell her he came in out of the rain, his home is a long way off, and he cannot leave until it stops. Point at the window. The window is doing the arguing for you today.
 2. Ask her three questions and take the first answer she gives: his name, where he came from, and one thing he has never seen before.
 3. Write his name on the bag. Let her carry him around while you clear breakfast, and listen. She will start explaining the toaster to him without being asked, which is the 9:15 activity beginning an hour early.
 

@@ -272,7 +272,7 @@ week runs on cardboard.
 
 **🧰 You need:** the recycling pile · 3 paper bags or empty boxes · masking tape.
 
-1. Tip the pile into the middle of the floor and sit down in it with her.
+1. The recycling you emptied onto the table last night is today's building kit. Carry it to the living room, tip it into one pile in the middle of the floor, and sit down in it with her.
 2. Give her three bags and three words: **boxes**, **tubes**, **cups**. Let her sort. She will argue about the odd ones, so let the argument run.
 3. Ask which shape she thinks will hold the most weight. Do not answer. Tell her you will find out at 9:15 and leave the question hanging.
 
@@ -421,7 +421,7 @@ cool through the heat.
 
 **🧰 You need:** the big box · masking tape · 1 permanent marker.
 
-1. Let her climb in before anything else happens. She will do this anyway.
+1. The big box you stood in the living room last night is waiting for her. Let her climb in before anything else happens. She will do this anyway.
 2. Ask what it should be: house, store, boat, rocket. Write her answer on the side in marker. The decision is now fixed and it is hers.
 3. Give her the tape and let her mark where the door and the windows go. She decides now, and you cut along her marks at 9:15.
 
@@ -435,7 +435,7 @@ cool through the heat.
 - Offcut card and small boxes
 
 **📝 Step-by-Step Instructions:**
-1. Cut the door on three sides so it swings open. Do this yourself with her standing back, and say why she is standing back.
+1. Cut the door where she taped it this morning, on three sides so it swings open. Do this yourself with her standing back, and say why she is standing back.
 2. Cut two windows where she taped. Follow her marks even when they are in daft places.
 3. Hand her the offcuts and the tape and let her build a roof. It will be crooked and it will hold.
 4. Give her the marker. Every surface, inside and out, is hers to draw on.
@@ -552,7 +552,7 @@ the furniture.
 
 **🧰 You need:** cardboard tubes · masking tape · scissors · a smooth wall or the side of a closet.
 
-1. Cut two or three tubes in half lengthways so they become open channels. You cut, she holds.
+1. Fetch the cardboard tubes you piled by the stairs last night and cut two or three in half lengthways so they become open channels. You cut, she holds.
 2. Tape one channel to the wall at a slope. Roll a dried bean down it and watch where it lands.
 3. Ask her where the next one should go so the bean keeps traveling. Tape it exactly where she says, even if it will not work.
 
@@ -566,7 +566,7 @@ the furniture.
 - A wall or closet side you don't mind taping
 
 **📝 Step-by-Step Instructions:**
-1. Put the catching box on the floor at the bottom. You aim the whole run at that box.
+1. The run grows on the wall where you taped the first channel this morning. Put the catching box on the floor at the bottom of that wall. You aim the whole run at that box.
 2. Work upward. She chooses each next position, you tape it. Narrate as you go: *I'm taping this one steeper, let's see.*
 3. Send one bean down the whole run after each piece you add.
 4. It will fail somewhere. Look at where the bean stopped, change that one joint and nothing else, then test again.
@@ -818,7 +818,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 
 **🧰 You need:** the salt dough · a rolling pin · a table knife · a floured board.
 
-1. Give her a fist-sized lump and let her squash it for a few minutes before anything useful happens.
+1. The salt dough you left out overnight is this morning's clay. Give her a fist-sized lump and let her squash it for a few minutes before anything useful happens.
 2. Let her roll it out to about a finger's thickness and leave the uneven patches where they are.
 3. Cut rough rectangles with the table knife. They do not need to match. Aim for thirty and stop when she stops.
 
@@ -832,7 +832,7 @@ she pulls a weight back, lets go, and the swing does the work for her.
 - 1 pencil for scoring
 
 **📝 Step-by-Step Instructions:**
-1. Lay the cut bricks across both lined trays without touching each other.
+1. Lay the bricks she cut this morning across both lined trays without touching each other.
 2. Let her press a mark into each one with her thumb, or scratch a line with the pencil. She owns the ones she marks.
 3. Set them in the oven at its lowest setting. They need two to three hours, so put them in now and take them out around lunch.
 4. While they bake, knead the leftover dough together. Give her a big lump, take one yourself, and sit with it. Ten minutes of quiet kneading does more for a wound-up morning than any instruction.
@@ -1105,7 +1105,7 @@ opposite force and a new idea for her.
 - The salt dough bricks from Tuesday
 
 **📝 Step-by-Step Instructions:**
-1. Set the chairs on the tape marks with their backs outward. That is the frame.
+1. Set the chairs on the corner marks you taped this morning, with their backs outward. That is the frame.
 2. Drape the first sheet across the top and clip it to the chair backs. Clips hold where tucked edges pull loose.
 3. Ask her where the door goes. Clip that edge so it can be lifted and dropped.
 4. Send her inside with the cushions to build the floor. Leave her to it for a full ten minutes.
@@ -1490,7 +1490,7 @@ never heard, and the babies settled to those too.
 
 **🧰 You need:** 4 cold boiled eggs · 1 permanent marker · 1 egg cup.
 
-1. Hand her the marker and one egg at a time. Faces, hats, whatever she wants. Marker takes a minute to dry on a shell, so hold each one by the ends.
+1. Fetch the four boiled eggs you left cold in the fridge last night, then hand her the marker and one egg at a time. Faces, hats, whatever she wants. Marker takes a minute to dry on a shell, so hold each one by the ends.
 2. Say the rhyme together while she draws. She will reach the line about nobody putting him together again and look up at you.
 3. Stand the best one in the egg cup on the windowsill. Nobody touches him before 9:15.
 
@@ -2027,7 +2027,7 @@ brother.
 
 **🧰 You need:** 10 soft toys · 1 blanket · a stretch of floor.
 
-1. Tip the basket out and let her line all ten along the edge of the blanket, in whatever order she wants.
+1. Tip out the basket of ten soft toys you gathered last night and let her line all ten along the edge of the blanket, in whatever order she wants.
 2. Count the row together, touching each one as the number comes out. Let her tell you their names and write them down.
 3. Ask her who is going over the edge first. Whoever she picks goes on the end until 9:15.
 
@@ -2431,7 +2431,7 @@ goes to and carries the jar to the door herself.
 - Your phone, to record one take
 
 **📝 Step-by-Step Instructions:**
-1. Sing the tune once with her name in it, so she hears the shape before she has to make one.
+1. Sing the tune you chose this morning once with her name in it, so she hears the shape before she has to make one.
 2. Hand her the spoon and take the first sheet. Say the name at the top and let her sing. Write it down word for word, wrong grammar included.
 3. Keep a slow beat on the upturned saucepan underneath her. The beat carries her over the gap where the words run out.
 4. Work through every sheet. Do not offer her a rhyme and do not tidy a line she has sung. Kreston's verse will be about his feet.
@@ -3483,9 +3483,9 @@ swimming, the fourth of the year, and Saturday's aquarium is the big outing.
 
 ### 🌅 Opening Activity: Cutting the Seven Pieces
 
-**🧰 You need:** 1 cereal-box card cut to an 8-inch square · a ruler or any straight edge · 1 pencil · scissors (adult only).
+**🧰 You need:** 1 of the cereal boxes you flattened last night · a ruler or any straight edge · 1 pencil · scissors (adult only).
 
-1. Rule a line corner to corner and cut along it. Two big triangles. She holds the card flat while you cut.
+1. Cut an 8-inch square from the cereal box you flattened last night, then rule a line corner to corner and cut along it. Two big triangles. She holds the card flat while you cut.
 2. Cut one of those in half again, then work the other down into a medium triangle, two small ones, a square and a slanted four-sided piece.
 3. Seven pieces on the table and no picture yet. Let her push them round, then leave them until 9:15.
 
@@ -3769,7 +3769,7 @@ comes back.
 
 **🧰 You need:** the six containers · six small treasures · 1 tray.
 
-1. Lay the six out with a treasure beside each. Let her look inside and handle the lids.
+1. The six lidded containers you lined up last night are the morning's puzzle. Lay them out on the table with a treasure beside each. Let her look inside and handle the lids.
 2. She drops a treasure in and you shut them together. Name each closing out loud: screw, clip, zip, tape, knot, band.
 3. Push the tray into the middle of the table and leave it shut until 9:15.
 
@@ -4039,7 +4039,7 @@ herself.
 
 **🧰 You need:** the full basket · 4 bowls or paper bags · masking tape and a marker.
 
-1. Tip the basket out on the floor and sit in it with her. Half of it she has not seen for weeks and she will greet all of it.
+1. The laundry basket you filled last night holds twenty or thirty of the house's odds and ends. Tip it out on the floor and sit in the pile with her. Half of it she has not seen for weeks and she will greet all of it.
 2. Ask her to put two things together that go together. Take whatever reason she gives, including *they are both Kreston's*. Three or four times.
 3. Line the four bowls up beside the pile and say nothing about what goes in them. The sorting starts at 9:15.
 
@@ -4712,7 +4712,7 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 - The Forest Family animals, or any toy animals
 
 **📝 Step-by-Step Instructions:**
-1. Tape the torn strips to the wall as a trunk, floor to shoulder height, wider at the bottom. Overlap them until no wall shows.
+1. Tape the strips she tore this morning to the cleared wall as a trunk, floor to shoulder height, wider at the bottom. Overlap them until no wall shows.
 2. Add branches from the shorter strips. She decides how many and where, and crooked ones stay crooked.
 3. Tear leaves from the green paper or magazine pages and tape them along the branches in handfuls.
 4. Draw a line along the baseboard and run roots below it. That line is the ground.
@@ -4723,10 +4723,9 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 
 ### 🌳 Get Outside: Choosing Her Tree
 
-Walk the route and let her pick one tree to be hers for the year. She has to
-give a reason, and any reason counts. Put both arms round the trunk to see
-whether they meet, then count the big branches. Photograph her against it
-today, the last Saturday in January, and again in April, July and October.
+Walk the route and let her pick one tree. She has to give a reason, and any
+reason counts. Put both arms round the trunk to see whether they meet, then
+count the big branches. Photograph her against it today.
 
 > 👶 **Infant Integration:** Kreston is 7 months and tracks Azlyn across a room
 > now. Lay him on his back under the wall tree to look up at the leaves. Tape
@@ -4976,7 +4975,7 @@ bare corner of the tray, and the Forest Family moves in on top.
 - 1 dustpan and brush
 
 **📝 Step-by-Step Instructions:**
-1. Open the door and stand back. Let her look before anybody says a word.
+1. The flour trail you laid last night waits behind the shut door. Open it and stand back. Let her look before anybody says a word.
 2. Follow it from the start on hands and knees. Count the prints out loud and let her take over.
 3. Stop at every clue and ask the same question: what does this tell us. A chewed leaf says it eats plants, a tuft of wool says it is furry, crumbs say it went past the trash can.
 4. Find the animal at the end. She lifts whatever it is hiding under and says the name.
@@ -5653,9 +5652,9 @@ things.
 
 ### 🌅 Opening Activity: The Back of Her Hand
 
-**🧰 You need:** 1 metal spoon · 1 wooden spoon · 1 dish towel · a clear counter.
+**🧰 You need:** 1 metal spoon · 1 wooden spoon · 1 plastic spoon · 1 dish towel · a clear counter.
 
-1. Lay all three side by side and leave them for five minutes so they come to the same temperature as the room.
+1. Lay the metal spoon, the wooden spoon and the plastic spoon side by side on the clear counter and leave them for five minutes so they come to the same temperature as the room.
 2. Show her the test: back of the hand, held flat, counting to three. Cheek for the ones that pass.
 3. Ask her which is coldest. She picks the metal one, and the three have been sitting together the whole time. Tell her you are going hunting for the coldest thing in the house at 9:15.
 
@@ -6488,7 +6487,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 
 **🧰 You need:** the overnight dough, cold from the fridge · flour · a dish towel.
 
-1. Take the bowl out and let her look first. The dough has climbed the sides overnight and smells sour.
+1. Take the bowl of last night's dough out of the fridge and let her look first. The dough has climbed the sides overnight and smells sour.
 2. Give her one instruction: fist in, all the way. The whole thing sighs to a third of its height and she will laugh.
 3. Leave it under the dish towel to come to room temperature. Cold dough will not stretch, so the wait is an hour.
 
@@ -6911,7 +6910,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 - Stickers if you have them
 
 **📝 Step-by-Step Instructions:**
-1. Sit her down with the row in front of her and the cup of water beside it.
+1. Sit her down with the row of numbered plates from 8:00 in front of her and the cup of water beside it.
 2. Plate 1 first. One bite, chew, a mouthful of water, then talk about it before plate 2 comes near her.
 3. Ask what her tongue found. Soft, crunchy, holey, chewy, seedy. Write her word next to the number, and hers will include *spiky* and *like a pillow*.
 4. Work along to plate 5 with water between each one. No doubling back until the row is finished.
@@ -7299,7 +7298,7 @@ else. The rest of the week runs on paper, flour and tape.
 
 **🧰 You need:** the risen dough in its bowl, or a bought pack out of the fridge · extra flour · a timer · an envelope and a pen.
 
-1. Take the bowl out of the fridge and set it on the table in front of her. Lift the cloth and let her press one finger in. The dent stays where she put it.
+1. Take the bowl of last night's dough out of the fridge and set it on the table in front of her. Lift the cloth and let her press one finger in. The dent stays where she put it.
 2. Ask how many rolls she thinks are in there. Write her number on the back of the envelope and prop it against the bowl.
 3. Flour the table and set the timer for 9:15. The dough is warming up and nobody touches it until the timer goes. She will check it four times.
 
@@ -7468,7 +7467,7 @@ rhyme, and dots instead of a name.
 - 1 envelope, or a sheet folded and taped shut
 
 **📝 Step-by-Step Instructions:**
-1. Fold the good sheet the way she practiced. She snips it, you keep your hands off it.
+1. Fold the good sheet in half and in half again, the way she practiced at 8:00. She snips it, you keep your hands off it.
 2. Open it out flat and look at it in the window before you write on it.
 3. Ask her what the letter should say and write her rhyme in the middle of the lace. If she stalls, offer her the shape and let her fill it: *I made this, I made this thread, guess my name and get the bread.* Take whatever she gives you.
 4. Count the letters in her name on your fingers. Five. She draws five dots along the bottom of the letter.
@@ -7725,7 +7724,7 @@ place, including who sits where.
 
 **🧰 You need:** 1 shoelace or a length of string · clear tape · 1 large bead or a fat knot.
 
-1. Ask who the necklace is for, anybody in the house except Kreston, and say why. Hold the lace round that neck, loose, and let her see where the two ends meet.
+1. The shoelace is the string for the pasta necklace she threads at 9:15. Ask who it is for, anybody in the house except Kreston, and say why. Hold the lace round that neck, loose, and let her see where the two ends meet.
 2. Tie the finish knot there, or thread the big bead on and knot it in place. Everything she threads today goes in front of that mark.
 3. Wrap the other end tight in tape until it is stiff as a shoelace tip.
 
@@ -8560,7 +8559,7 @@ together now, and no two come out the same.
 
 **🧰 You need:** the pile of junk mail · 1 large sheet or a flattened box · masking tape.
 
-1. Sit down in the pile with her and pull pages out. Hands only, no scissors yet.
+1. The junk mail you piled on the table last night is the morning's supply. Tip it onto the floor, sit down in the pile with her and pull pages out. Hands only, no scissors yet.
 2. Ask her to find you green pages, then red ones, then yellow. Tear those into one heap per color.
 3. Tape the big sheet flat to the table so it stops sliding about. It sits there in front of her until 9:15.
 
@@ -9485,7 +9484,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 
 **🧰 You need:** the taped sheet or flattened boxes · 1 roll masking tape · fat crayons.
 
-1. Unroll the whole thing down the hall and let her walk the length of it in socks.
+1. Unroll the sheet you taped together last night down the hall and let her walk the length of it in socks.
 2. Have her lie down on it in three different shapes while you tape the corners to the floor. Arms out, arms in, one leg up.
 3. Ask which shape she wants to keep. That is the pose she holds at 9:15, so let her practice while you count to twenty.
 
@@ -10027,7 +10026,7 @@ of card.
 
 **🧰 You need:** the dough · food coloring · 2 bowls · a floured board.
 
-1. Split the dough in half and put a few drops of color into the middle of each lump. She pushes the color in with her thumbs.
+1. Split the playdough you made last night in half and put a few drops of color into the middle of each lump. She pushes the color in with her thumbs.
 2. Knead until the streaks disappear. It takes longer than she expects, which is the reason it sits at 8:00 and not at 9:15.
 3. Ask who she plans to build this afternoon. Let her say it out loud, then leave her the morning to change her mind, because she will.
 
@@ -10286,7 +10285,7 @@ before you get to say it.
 
 **🧰 You need:** the six filled pots · masking tape · 1 marker.
 
-1. Set the six in a row on the table and let her look at them without opening a thing.
+1. Set the six smell pots you filled last night in a row on the table and let her look at them without opening a thing.
 2. Show her how to waft: cupped hand over the top, a pull of air toward her face. Nose down on the foil gets her a lungful of cinnamon.
 3. She lines them up, the one she likes best at one end and the one she likes least at the other. Nothing gets written down yet.
 
@@ -11277,7 +11276,7 @@ a stack of dinner plates on thin sticks or balance a heavy jar on a bare head.
 
 **🧰 You need:** 1 comforter or 3 folded blankets · 4 sofa cushions · masking tape.
 
-1. Drag the comforter onto the cleared floor beside the ring, clear of the four chairs holding the tent, and let her lay it out. Fold it double where she says she is going to land.
+1. Drag the comforter you folded last night onto the cleared floor beside the taped ring left from the tent build, clear of the four chairs holding this week's tent, and let her lay it out. Fold it double where she says she is going to land.
 2. Wall the far edge with the cushions. Check what is behind her head rather than in front of her, and move the coffee table now.
 3. Run a strip of tape along the near edge as the start line. She will test the mat by throwing herself on it, which is the test you wanted.
 
@@ -11569,7 +11568,7 @@ take an hour to build and the walking takes the rest.
 - Masking tape for the lifting line
 
 **📝 Step-by-Step Instructions:**
-1. She crumples the newspaper, you pack it, until a thumb pressed into the box meets no give.
+1. The two cereal boxes are the barbell weights. She crumples the newspaper, you pack it into each box, until a thumb pressed into the side meets no give.
 2. Push one end of the broom handle into each box and tape the joint round and round. That joint is the whole barbell, so use more tape than looks sensible.
 3. Write a giant **100** on each box. Let her say the number and copy it underneath.
 4. Tape the lifting line at the far end of the room from Kreston. Lift from the line: to her knees, to her shoulders, over her head. Count each one out loud.
@@ -12375,7 +12374,7 @@ top let heat reach the middle.
 
 **🧰 You need:** 2–3 egg cartons · scissors · 1 permanent marker.
 
-1. Cut the lids off so you are left with the trays of cups. She counts them as they come free and you stop the counting at twelve.
+1. Cut the lids off the egg cartons so you are left with the trays of cups. She counts them as they come free and you stop the counting at twelve.
 2. Number the cups one to twelve in marker while she watches. She will want to write some herself, so hand the pen over and take whatever comes.
 3. Give her the rule now: twelve cups, twelve things, no two the same. Leave her the rest of the hour to decide where she wants to look first.
 
@@ -12665,7 +12664,7 @@ lunch takes the corner of the living room and holds all three of you.
 - 1 old dish towel
 
 **📝 Step-by-Step Instructions:**
-1. Stand the crate where it will live and check the top against her waist.
+1. Stand the crate in the yard where the kitchen will live and check the top against her waist.
 2. Sit the bowl on top and draw round it. Cut a finger inside your line so the rim of the bowl holds it up. Knife back on the shelf between cuts.
 3. Drop the bowl in. That is the sink.
 4. Tape a length of string along the front and clip the clothespins to it. Every utensil now has a place to hang.
@@ -12789,7 +12788,7 @@ afternoons between now and October.
 
 **🧰 You need:** the frozen tub · 1 deep tray or roasting pan · 1 old towel.
 
-1. Run the outside of the tub under the warm tap for ten seconds and turn the block out into the tray. It lands with a thump she will want repeated.
+1. The ice-cream tub you froze last night holds the ice block, toys and all. Run the outside of the tub under the warm tap for ten seconds and turn the block out into the tray. It lands with a thump she will want repeated.
 2. Let her walk round it and find every object trapped inside. Count them out loud so you both know how many she is going for.
 3. Ask which one comes out first. Take the guess and leave the block in the tray until 9:15.
 
@@ -13850,7 +13849,7 @@ and nothing she has not said.
 
 **🧰 You need:** the loaded tray · 1 mesh produce bag.
 
-1. Lay the seven materials in a line and let her handle every one. Name them as she picks them up and let her tell you how each one feels.
+1. Lay the seven nest materials you loaded onto the tray last night in a line and let her handle every one. Name them as she picks them up and let her tell you how each one feels.
 2. Push a strand of grass through a hole in the empty mesh bag and pull it out again. Do it twice and say nothing about why.
 3. Tell her the rule now so it has an hour to sink in: seven things on the tray, and at 9:15 she picks three.
 
@@ -14374,7 +14373,7 @@ and the paper bin set up on Friday stays out until somebody needs the tub back.
 
 **🧰 You need:** the newspaper stack · junk mail · the tub on its sheet.
 
-1. Sit her on the sheet beside the tub and show her how to tear one sheet of newspaper down its length.
+1. The storage tub you set out on the bedsheet last night is the week's nest bin. Sit her on the sheet beside it and show her how to tear one sheet of newspaper down its length.
 2. Hand her the pile. She tears, you tear, and it all goes in the tub as it comes.
 3. Fill it past her wrists. Tell her something is buried under there and leave it at that until 9:15.
 
@@ -14391,7 +14390,7 @@ and the paper bin set up on Friday stays out until somebody needs the tub back.
 - 1 scrap of paper, 1 marker and masking tape for the total
 
 **📝 Step-by-Step Instructions:**
-1. Basket beside her, hands only, no tools. She digs the eggs out one at a time.
+1. The plastic eggs you buried in the tub last night sit under the torn paper. Basket beside her, hands only, no tools. She digs them out one at a time.
 2. Count them into the basket out loud. Write the total on a scrap and tape it to the tub.
 3. Hand over the cups, the scoop, the spoon and the sieve.
 4. Turn your back while she reburies them. Hunt when she says go, and miscount on purpose so she can put you right.
@@ -14664,7 +14663,7 @@ builds it.
 
 **🧰 You need:** the paper trail laid last night · the empty saucer · her basket.
 
-1. Send her to the doorstep first. The carrot is gone and the trail starts there.
+1. Send her to the doorstep first. The carrot she set out for the rabbit last night is gone and the paper trail starts at the empty saucer.
 2. Follow it at her pace. Let her carry every piece rather than tidying behind her.
 3. The basket is at the end of it. Sit on the floor while she goes through it and do not rush her toward 9:15.
 
@@ -15354,7 +15353,7 @@ Azlyn has to explain the whole place to him.
 
 **🧰 You need:** one soft toy she has not played with in weeks · a paper bag.
 
-1. Let her find him. Tell her he came in out of the rain, his home is a long way off, and he cannot leave until it stops. Point at the window. The window is doing the arguing for you today.
+1. Let her find the soft toy you sat by the front door last night. Tell her he came in out of the rain, his home is a long way off, and he cannot leave until it stops. Point at the window. The window is doing the arguing for you today.
 2. Ask her three questions and take the first answer she gives: his name, where he came from, and one thing he has never seen before.
 3. Write his name on the bag. Let her carry him around while you clear breakfast, and listen. She will start explaining the toaster to him without being asked, which is the 9:15 activity beginning an hour early.
 
@@ -16317,7 +16316,7 @@ has spent three months hearing you say be careful.
 **Theme:** Egg-cellent Science
 
 ### 🌙 Prep Tonight
-> Boil three eggs for the fridge and snip a length of string into short worms for the afternoon. Stand two raw eggs in a jar, cover them with white vinegar and push it to the back of the worktop until Monday morning.
+> Boil three eggs for the fridge and snip a length of string into short worms for the afternoon. Stand two raw eggs in a jar, cover them with white vinegar and push it to the back of the counter until Monday morning.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: No Hands Allowed
@@ -16477,7 +16476,7 @@ fails at the other three.
 
 **🧰 You need:** the jar of vinegar eggs · 1 bowl of cool water · paper towels.
 
-1. Lift both eggs out over the bowl. They are heavier than she expects and the shell has gone. A day and a half in vinegar ate it.
+1. The jar at the back of the counter holds the two raw eggs you covered with vinegar on Saturday night. Lift both out over the bowl. They are heavier than she expects and the shell has gone. A day and a half in vinegar ate it.
 2. Rub the last white grit off under the water with your thumb. Let her do the second, flat hands, no fingers pushing.
 3. Roll them dry on paper towels and let her hold one in two cupped palms. Ask what happened to the shell and leave her answer until 9:15.
 
@@ -16901,7 +16900,7 @@ this one she can shake.
 - 1 knife (**adult only**)
 
 **📝 Step-by-Step Instructions:**
-1. Both bowls out of the fridge, three eggs in each. A tablespoon of milk between them, half a teaspoon of soy each, the pinch of sugar split. She stirs hers with her fork.
+1. The two bowls of egg you both beat at 8:00 come out of the fridge, three eggs in each. A tablespoon of milk between them, half a teaspoon of soy each, the pinch of sugar split. She stirs hers with her fork.
 2. Both pans on a low heat with a smear of oil. She stands beside you at the stovetop, your body between her and the burner, and you hold her pan handle throughout.
 3. She pours a thin layer into her pan, enough to coat the bottom. Wait until the top stops looking wet.
 4. Spatula in her hand with yours over it. Roll the sheet from the far edge toward you, push the roll back, oil the gap, pour the next layer in and lift the roll so the raw egg runs underneath.
@@ -17300,7 +17299,7 @@ out.
 - 1 pitcher of water
 
 **📝 Step-by-Step Instructions:**
-1. One scoop rule. The yogurt pot is the only thing that moves soil, and she works along the row filling every container to the top.
+1. This morning's row of containers stands on the sheet. One scoop rule: the yogurt pot is the only thing that moves soil, and she works along the row filling every container to the top.
 2. Do not count the scoops out loud. Ask which one is taking forever, and which was full before she started.
 3. With all of them full, ask which holds the most. Take her answer, then pick out those two. She tips the second one into the dishpan to empty it, then pours the first one into it: overflowing means the first holds more, and coming up short means the second does.
 4. Run the row that way, winner against the next, emptying the loser into the bowl each time, until they stand in an order she found by pouring. It will not be her 8:00 order.
@@ -17377,7 +17376,7 @@ minutes.
 > land on top of it later.
 
 > ⚠️ **Safety:** A bucket with water in it is a drowning hazard for a
-> 10-month- old who cruises and pulls up on things. Tip every bucket and bowl
+> 10-month-old who cruises and pulls up on things. Tip every bucket and bowl
 > out the moment you finish with it, and keep dried beans and small stones off
 > the floor while he is down there. Untie the hanger and put the string away
 > the moment the weighing stops, because a hanging loop at his height is a
@@ -17392,7 +17391,7 @@ minutes.
 **Theme:** Garden Discovery
 
 ### 🌙 Prep Tonight
-> Stand the celery on the worktop with the leaves left on, and put three jars, the blue and red food coloring, a marker and paper beside it.
+> Stand the celery on the counter with the leaves left on, and put three jars, the blue and red food coloring, a marker and paper beside it.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Three Jars of Color
@@ -17676,7 +17675,7 @@ the only person who knows what.
 
 **🧰 You need:** the clipboard · 1 pencil · a walk round the house.
 
-1. Take her round with the clipboard under her arm and ask the same question at every stop. Does this one need something today?
+1. The clipboard you made last night goes under her arm. Take her round the house and ask the same question at every stop. Does this one need something today?
 2. She draws whoever makes the list: the celery jars, the fork garden, the pots on the sill, the birds outside, Kreston, you. One line each, no help.
 3. She numbers the order she wants, and you follow it at 9:15 even where it makes no sense.
 
@@ -19283,7 +19282,7 @@ the year, and it wants a walk past and a bag every week from here.
 
 **🧰 You need:** the washed recycling · the old sheet · 4 cardboard boxes or paper bags.
 
-1. Shake the sheet so everything slides into one heap in the middle, then get down on the floor with her. You took the sharp things out last night, so all of it is safe in her hands.
+1. The washed card and plastic you left on the old sheet by the back door last night are today's sorting pile. Shake the sheet so everything slides into one heap in the middle, then get down on the floor with her. You took the sharp things out last night, so all of it is safe in her hands.
 2. Pick things up one at a time and say what each one is made of. Card. Paper. Plastic. Give her the word for the stuff, not the object.
 3. Stand the four boxes in a row along the edge of the sheet. They get their labels at 9:15, so leave them empty.
 
@@ -19711,7 +19710,7 @@ Everything that floated this morning gets a second job.
 - 1 old towel for the floor
 
 **📝 Step-by-Step Instructions:**
-1. Bowl on the tray on the table, old towel on the floor where she stands. Pour half the water off and keep it to top up with.
+1. The bowl of paper she soaked at 8:00 goes on the tray on the table, old towel on the floor where she stands. Pour half the water off and keep it to top up with.
 2. Hands before tools. She squeezes handfuls into lumps and drops them back for ten minutes, until the pieces stop looking like paper.
 3. Masher next. She stands, leans her weight over the bowl and works it, and can hold that for twenty minutes.
 4. Add the water back a splash at a time as it stiffens. Aim for thick oatmeal, not soup.
@@ -19832,7 +19831,7 @@ frame is a sheet of paper. She should get five or six out of that bowl.
 
 **🧰 You need:** the jar of washed caps · the button tin · 1 tray · 10 paper cups.
 
-1. She tips the jar out onto the tray. Let the noise happen.
+1. The jar on the tray holds the bottle caps you washed and saved this week. She tips it out onto the tray. Let the noise happen.
 2. Spread them into one flat layer and let her count as far as her counting goes. Somewhere past twelve it wanders, which is right for three.
 3. A household saves about eight caps a week, so tip the buttons out beside them to make the number up. Stand the ten cups in a line along the back of the tray and tell her every cup gets exactly ten things at 9:15.
 
@@ -19928,8 +19927,8 @@ colors.
 > needs the cups in a row, the count of the cups, and your voice going ten,
 > twenty, thirty across the top of them until the pattern arrives on its own.
 
-> ⚠️ **Safety:** Bottle caps are the classic choking object for a 10-month-
-> old, and buttons and coins are worse. Kreston cruises the furniture and has
+> ⚠️ **Safety:** Bottle caps are the classic choking object for a
+> 10-month-old, and buttons and coins are worse. Kreston cruises the furniture and has
 > a working pincer grip, so he stays in the high chair or out of the room the
 > whole time any of it is loose. Count them out and count them back in, work
 > at table height, sweep the floor before you put him down, and the jar and
@@ -22284,7 +22283,7 @@ questions for dinner and a name at every seat.
 
 **🧰 You need:** 1 tray · breakfast · 1 sheet of paper · 1 pen.
 
-1. Azlyn carries the tray in with both hands and Joseph carries anything hot behind her. She puts it down wherever it lands.
+1. Joseph loads breakfast onto the tray in the kitchen, and Azlyn carries it in to you with both hands while he carries anything hot behind her. She puts it down wherever it lands.
 2. Six questions. She asks, you answer out loud: your favorite thing this year, the funniest thing Azlyn has said, the best day, one thing you want before next May, what Kreston did that you want to remember, and one thing you would tell yourself last May.
 3. Joseph writes the six answers down word for word and props the paper where nobody moves it. They go on the card at 9:15.
 
@@ -22661,7 +22660,7 @@ afternoon they get fixed, and she does the pulling.
 **Theme:** Mother's Day & Family Love
 
 ### 🌙 Prep Tonight
-> Wash a plastic bottle with its screw lid, an empty wipes tub and a cardboard tube and leave them draining, with the rice and the packing tape beside them.
+> Wash a plastic bottle with its screw lid, an empty wipes tub and a cardboard tube and leave them draining, with the rice, the ribbon and the packing tape beside them.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Table With No Instructions
@@ -22685,7 +22684,7 @@ afternoon they get fixed, and she does the pulling.
 
 **🧰 You need:** the washed bottle, tub and tube · the rice · the ribbon · Kreston on the floor where she can see him.
 
-1. Lay it out in a row before she sits down and put nothing else on the table.
+1. Lay the bottle, the tub and the tube you washed last night out in a row with the rice and the ribbon beside them, before she sits down, and put nothing else on the table.
 2. Tell her one thing and stop: today she is making a toy for Kreston, and this is everything there is. Offer no ideas, not even when she asks.
 3. Sit down with your coffee and let her handle everything. She picks things up and puts them down for ten minutes.
 
@@ -22709,7 +22708,7 @@ afternoon they get fixed, and she does the pulling.
 5. Post everything she has made through the cardboard tube. Anything that drops through is small enough to choke him and stays off the floor today.
 6. She writes his name on the bottle in marker, or her version of it. Put it in his hands and watch.
 
-> 💡 **Tip:** Let the toy be ugly. Her design, her tape, her amount of rice. What he loves is that it is loud and new.
+> 💡 **Tip:** Let the toy be ugly. Her design, her tape, her amount of rice. He loves that it is loud and new.
 
 ### 🌳 Get Outside: Grass Under His Feet
 
@@ -22780,8 +22779,8 @@ finds out which ones he wants.
 > escapes, nothing that fits through the cardboard tube, no ribbon or string
 > longer than a hand's width, no batteries, and no chipped or sharp rims. He
 > never has any of it out of your sight. The washing water is hand-hot and
-> stays up on the counter, out of his reach, and gets poured away as soon as
-> the last thing is washed. The scissors stay with you.
+> stays up on the counter, out of his reach, and you pour it away as soon as
+> you wash the last thing. The scissors stay with you.
 
 <div style="page-break-after: always;"></div>
 
@@ -23072,7 +23071,7 @@ Keep Friday's bubble mix and Monday's magnifier where you can find them again.
 
 **🧰 You need:** 1 liter warm water · 100 ml dish soap · 2 tbsp sugar · 1 lidded pitcher · 1 long spoon.
 
-1. She pours the warm water in, then the dish soap down the inside so it slides under the surface.
+1. She pours the warm water into the pitcher, then the dish soap down the inside so it slides under the surface.
 2. Sugar in. Stir slow with the spoon, ten turns, and stop. Fast stirring makes foam, and foam kills a big bubble.
 3. Lid on, pitcher on the windowsill. It sits until 9:15.
 
@@ -23383,7 +23382,7 @@ what the sun leaves.
 - Paper and a marker
 
 **📝 Step-by-Step Instructions:**
-1. Lay them out in a row, worst first. Pick three to mend for real, the rest go back in the box.
+1. Lay the broken things out in a row, worst first. Pick three to mend for real, the rest go back in the box.
 2. Torn page or card: masking tape along the back of the tear, her thumbs pressing from the middle out. Damp cloth for sticky fingers.
 3. Snapped plastic or wood: white school glue on both faces, wrap string round twice, clamp the bulldog clip on. Packing tape round a split handle where glue will not hold.
 4. Stuck rather than broken gets a different fix: a bar of soap rubbed down a sticking zipper, a drop of oil in a squeaking hinge. She works each one back and forth until it moves.
@@ -23637,7 +23636,7 @@ an afternoon and she will not want to stop.
 
 **🧰 You need:** thin paper, 10 sheets · 1 marker · the table.
 
-1. Show her one fold: corner onto corner, hold them together, then press the crease flat with a thumbnail from the middle out.
+1. Take one sheet of the thin paper and show her one fold: corner onto corner, hold them together, then press the crease flat with a thumbnail from the middle out.
 2. She folds the other nine. They will not all match at the corners, which does not matter today.
 3. Number the backs 1 to 10 with the marker and stack them folded. Tell her the paint goes on one side only.
 
@@ -24320,7 +24319,7 @@ Trinidad he became **Anancy**, still small, still winning.
 
 **🧰 You need:** 6 small toys of her choosing · 1 roll masking tape.
 
-1. Tape a square on the floor near the chairs, big enough for all six toys, and stand them in it while she watches.
+1. Tape a square on the floor beside the two chairs you stood against the wall last night, big enough for all six toys, and stand them in it while she watches.
 2. Inside the square is water and nothing comes out of it by hand. Ask her how she would get them out, then leave the problem alone.
 3. Tell her the machine that lifts them out goes up at 9:15. An hour of walking round them is half of what makes it matter.
 
@@ -25401,7 +25400,7 @@ two minutes of silence, buses and trains included.
 
 **🧰 You need:** every printed photograph in the house · the kitchen table, cleared.
 
-1. Spread them face up across the whole table. If they all live on your phone, pick ten and go one at a time.
+1. Spread the photographs face up across the whole table. If they all live on your phone, pick ten and go one at a time.
 2. She names who she can. You name the rest, and say the relationship with the name: that is Joseph's mom, so she is your grandma.
 3. Count the people the family has. She will land on a different number every time, so take the last one and tell her they each get a card at 9:15.
 
@@ -25416,7 +25415,7 @@ two minutes of silence, buses and trains included.
 - A door or a blank stretch of wall
 
 **📝 Step-by-Step Instructions:**
-1. Start at the bottom, at her eye height. Azlyn and Kreston, one card each. She draws the faces, you write the names in marker.
+1. Pick the door or stretch of wall the family is going up on and start at the bottom, at her eye height. Azlyn and Kreston, one card each. She draws the faces, you write the names in marker.
 2. Row above: you and Joseph. Say it while you tape. I am your mom, Joseph is your dad, and we are Kreston's mom and dad as well.
 3. Row above that: grandparents. Tape a photograph onto the card where you have one, and she draws the ones you do not.
 4. Run a strip of masking tape from each parent down to each of their children, so the lines are there to point at.
@@ -26217,7 +26216,7 @@ indoors and then bring her down again after lunch.
 
 **🧰 You need:** the paper recycling, newspaper and junk mail · 1 laundry basket · 1 marker · masking tape.
 
-1. Sit on the floor with the pile between you and show her one ball: a sheet crushed in two hands until it stops making noise. Loose ones fly wrong, so squeeze yours hard where she can see it.
+1. Sit on the floor with the pile of paper recycling you stood by the sofa last night between you and show her one ball: a sheet crushed in two hands until it stops making noise. Loose ones fly wrong, so squeeze yours hard where she can see it.
 2. Count them into the basket out loud as she goes. Fifty is the target and thirty is a working morning.
 3. Write the number on a strip of tape and stick it to the basket. She will beat it before lunch and want the number changed.
 
@@ -27224,7 +27223,7 @@ been told he is allowed to destroy something.
 
 **🧰 You need:** the two frozen trays · 1 metal baking tray · 1 old towel.
 
-1. Twist each tray over the metal one and let her push the cubes out from underneath. A few snap off their sticks, and the broken ones still work, so they stay on the tray.
+1. The two trays you filled with colored water last night have frozen into paint cubes, a craft stick standing in each. Twist each tray over the metal one and let her push the cubes out from underneath. A few snap off their sticks, and the broken ones still work, so they stay on the tray.
 2. Sort them into color piles on the tray and count each pile out loud.
 3. Stand the tray on the table out of Kreston's reach, drop the towel by the back door and go and find your shoes. They are melting already.
 
@@ -27626,7 +27625,7 @@ Nothing has happened out there for four hours. Go and look anyway.
 
 **🧰 You need:** the bowl of cabbage water · 1 sieve · 1 pitcher.
 
-1. Hold the sieve over the pitcher and let her pour the bowl through it. The cabbage stays behind, the color goes through.
+1. The cabbage you covered with boiling water last night has turned the water in the bowl deep purple. Hold the sieve over the pitcher and let her pour the bowl through it. The cabbage stays behind, the color goes through.
 2. Hold the pitcher against the window. It reads purple in the light and near black on the table.
 3. Stand the pitcher at her place and tell her this water changes color six times before lunch. Do not say how.
 
@@ -30178,7 +30177,7 @@ there until dinner.
 
 **🧰 You need:** the cut paper strips · 1 glue stick or masking tape · 1 permanent marker.
 
-1. Count nine strips onto the table with her, one for every sleep before the Fourth of July.
+1. The red, white and blue strips you cut last night are the countdown chain. Count nine onto the table with her, one for every sleep before the Fourth of July.
 2. Loop the first strip and stick it. Thread the next through and stick that. She sticks, you hold the join.
 3. Hang it where she can reach the bottom link and write **9** on that link. She tears one off each morning. Push the leftover strips aside; the float wants them after lunch.
 
@@ -30189,7 +30188,7 @@ there until dinner.
 - Dried rice, half a cup
 - 1 roll masking tape
 - 2 paper plates
-- 1 empty tin or a small saucepan
+- 1 empty can or a small saucepan
 - 1 wooden spoon
 - Red, white and blue paper, or plain paper and markers
 - 1 stick or a second wooden spoon for the flag pole
@@ -30198,7 +30197,7 @@ there until dinner.
 
 **📝 Step-by-Step Instructions:**
 1. Shaker first. Tape one end of a tube shut, three strips across and three round the rim. She pours in the half cup of rice. Seal the far end the same way.
-2. Drum next. Lay both paper plates face down over the mouth of the tin and tape the rims all the way round. Two plates: one splits inside ten minutes. The wooden spoon is the beater.
+2. Drum next. Lay both paper plates face down over the mouth of the can and tape the rims all the way round. Two plates: one splits inside ten minutes. The wooden spoon is the beater.
 3. Horn last. She hums down the second cardboard tube. Low, high, her own name, Kreston's name.
 4. Cut the fabric scraps and ribbon into eight streamers about a hand long. The scissors are yours.
 5. She tapes the streamers along the top of the stick, then a sheet of red, white and blue paper below them. Plain paper works if she colors it first.
@@ -30285,7 +30284,7 @@ marks 6 March with drumming and school parades.
 > step, and matching a movement to a rhythm is one of the harder things a
 > three-year-old body does. She is holding a pattern in her ears and putting
 > her feet inside it. Doing that alongside other people, in time with them, is
-> where a lot of her sense of belonging to a group is built this year.
+> where she builds a lot of her sense of belonging to a group this year.
 
 > ⚠️ **Safety:** Dried rice in a shaker with a walking 12-month-old who mouths
 > everything: tape both ends shut, check them each time it comes back, and
@@ -30868,7 +30867,7 @@ eleven is fine.
 **🧰 You need:** the pile by the back door · 1 laundry basket · 1 rug or picnic blanket.
 
 1. Tell her the plan before she asks: today the table is outside and it stays out until dinner.
-2. Load the basket together and let her carry it out in as many trips as she wants. Trips are the activity.
+2. The pile by the back door is the day's kit: the old sheet, the markers, the string, the clothespins, the chalk and the shallow dish for the birds. Load it into the basket together and let her carry it out in as many trips as she wants. Trips are the activity.
 3. Spread the rug in the shade the house casts at 8:00, and say the shade will move and so will the rug.
 
 ### 🎨 The Main Event: Twenty Flags on a String
@@ -31002,7 +31001,7 @@ whining. Azlyn draws the shape herself and you follow it.
 
 **🧰 You need:** the paper chain · 1 permanent marker.
 
-1. She tears off today's link and holds the chain up. Three left, and she can see all three at once now.
+1. The paper chain on the wall counts the sleeps left before the Fourth of July. She tears off today's link and holds the chain up. Three left, and she can see all three at once now.
 2. Count them with her: Friday, Saturday, Sunday. Say what happens on each, in order, the same way every morning from here.
 3. Write **3** on the bottom link and hang it back up. Leave the question of whose birthday it is for the Morning Meeting.
 
@@ -33453,7 +33452,7 @@ Five bottles get taped to the fence with a bucket at the bottom.
 
 **🧰 You need:** the pile from last night · 1 old towel to lay it on · her.
 
-1. Walk the garden and add to the heap: the trike, the rain boots, the plastic animals, the doll that has lived under the hedge since June.
+1. The heap by the back door is the grubby outdoor toys you piled up last night. Walk the garden and add to it: the trike, the rain boots, the plastic animals, the doll that has lived under the hedge since June.
 2. Lay it out on the towel in a line, grubbiest at one end. She sets the order.
 3. Ask which will take the longest. Leave the line where it is; at 9:15 she works down it.
 
@@ -33745,7 +33744,7 @@ before anybody starts.
 - Sun hats and sun cream
 
 **📝 Step-by-Step Instructions:**
-1. Sun cream and hats before anything comes out of the basket. Everything after nine happens outdoors.
+1. Sun cream and hats before anything comes out of the basket of the week's things she packed at eight. Everything after nine happens outdoors.
 2. Two chairs on the grass with their backs together, the other two a body's length away, or one chair at each end of the clothesline. Clip the sheet along the backs with all eight pegs, curved into a corner.
 3. Towels down inside it, edge to edge, until no grass shows. Shoes come off at the edge.
 4. She unpacks the basket: boats in a row, the sea bottle in the sun, a name stone in each corner, the box of sand at one end.
@@ -34417,7 +34416,7 @@ stays in this kitchen for years.
 
 **🧰 You need:** 1 sheet of paper · 1 pen · masking tape.
 
-1. Write the four names down the page, one under the other, and read them out.
+1. Write the name of everyone in the house down the page, one under the other, and read the four out.
 2. Ask her one thing each person does. Actions, so *he carries me upstairs* rather than *he is kind*. Write it word for word.
 3. Tape the list to the fridge at her height. The four pots at 9:15 take their names off it.
 
@@ -34706,7 +34705,7 @@ she controls by the end of it.
 - 1 paper bag to carry them in
 
 **📝 Step-by-Step Instructions:**
-1. Lay a sheet flat. Write the name across the top with the marker and the reason underneath in her words.
+1. Lay a sheet flat. Write the first name from the list she made at eight across the top with the marker and her reason underneath in her words.
 2. She turns it over and draws a scoop on the back in that person's color, felt pens or crayons as she likes.
 3. Roll it so the writing ends up inside, tape the seam, and trim the top edge level. The scissors are yours and go back on the shelf between cones.
 4. Work down the list. At four cones, offer to leave the rest until after lunch and take her answer as given.
@@ -34822,7 +34821,7 @@ waits in the freezer with a place set at the table.
 
 **🧰 You need:** the juice · 2 cups · 1 tsp sugar · half a lemon · 1 spoon.
 
-1. Pour a little juice into each cup, the same amount in both, and leave the other 1 2/3 cups for 9:15.
+1. The juice you stood on the counter last night is the morning's whole supply. Pour a little into each cup, the same amount in both, and leave the rest, 1 2/3 cups of it, for 9:15.
 2. Stir the teaspoon of sugar and a squeeze of lemon into the second cup until the grains are gone.
 3. She tastes both and calls which is sweeter. Tell her sweet water freezes soft enough to scrape and plain water freezes into a brick, and the tray goes in at 9:15.
 
@@ -35064,7 +35063,7 @@ house with a blue flashlight.
 **Theme:** Under the Sea
 
 ### 🌙 Prep Tonight
-> Pull the blue and green paper out of the recycling onto the table with three sheets of thick paper, and find a blue sheet or two blue trash bags for the afternoon.
+> Pull a big armful of paper out of the recycling onto the table with three sheets of thick paper, and find a blue sheet or two blue trash bags for the afternoon.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: The Blue Paper Hunt
@@ -35088,7 +35087,7 @@ house with a blue flashlight.
 
 **🧰 You need:** the paper pile · 1 shallow tray · 1 paper bag.
 
-1. Sit down in the pile with her. One rule: blue and green stay, the rest goes back in the recycling.
+1. The paper you pulled out of the recycling last night is the pile on the table. Sit down in the pile with her. One rule: blue and green stay, the rest goes back in the recycling.
 2. She tears as she goes. Torn pieces into the tray, and the four or five scraps she likes best into the paper bag, which is hers.
 3. Lay the blues along the table edge, palest to darkest. The pale ones live at the top of the sea and the dark ones at the bottom. Leave it there.
 
@@ -35508,7 +35507,7 @@ number chalked under each tub at the moment it gives up.
 
 **🧰 You need:** the cut-open boxes · 4 heavy stones, bricks or shoes · 1 old towel.
 
-1. Carry the boards out to the shady side of the path together, one end each.
+1. The boxes you cut open flat last night are today's painting boards. Carry the boards out to the shady side of the path together, one end each.
 2. Lay them edge to edge into one long strip and weight the corners with the stones so the wind cannot lift them.
 3. Rub the towel over the damp patches and let her walk the whole length in bare feet. She knows how long her sea is before a brush touches it.
 
@@ -36337,7 +36336,7 @@ and leave the ground as they found it.
 
 **🧰 You need:** a bag of green beans · 2 bowls · 1 low step or upturned crate.
 
-1. Sit her on the step in the shade with the full bowl on her lap and the empty one beside her.
+1. Tip the beans into one bowl, then sit her on the step in the shade with the full bowl on her lap and the empty one beside her.
 2. Show her the snap once. Hold a bean at both ends, bend it until it goes, then break each half again.
 3. Leave her to it and go and get the foil out. The parcels need two handfuls at quarter past nine, and she will fill all four.
 
@@ -37784,7 +37783,7 @@ what it is for.
 **Theme:** Sports & Team Play
 
 ### 🌙 Prep Tonight
-> Send a laundry basket round the house tonight for every ball in it, and leave an orange, clean socks and a sheet of foil beside it.
+> Leave the empty laundry basket out tonight with an orange, clean socks and a sheet of foil beside it.
 
 ### ⏰ At-a-Glance Schedule
 - **8:00–9:00 AM** — 🌅 Opening Activity: Rounding Up the Balls
@@ -38350,17 +38349,17 @@ teddy scale. Everything shrinks except the number of stations.
 - **2:30–3:30 PM** — 🌳 Out Again: **Swimming** (60 min)
 - **3:30–4:00 PM** — Snack & Free Play
 - **4:00–4:15 PM** — 🧹 Her Job: Cups and Forks After Swimming
-- **4:15–5:00 PM** — Quiet Play: The Sand Tray on the Back Step
+- **4:15–5:00 PM** — Quiet Play: The Sand Tub on the Back Step
 - **5:00–5:45 PM** — 🛁 Wind-Down: Rinsing the Chlorine Out
 - **6:00 PM** — **Dinner**
 
 ### 🌅 Opening Activity: Raking the Sand Flat
 
-**🧰 You need:** the tray of sand · 1 pitcher of water · her two hands.
+**🧰 You need:** the tub of sand · 1 pitcher of water · her two hands.
 
-1. Walk her fingers through the dry sand, then pour half the pitcher over one end while she stirs.
+1. The play sand you tipped into the shallow tub last night is today's landing pit. Stand it on the paving, walk her fingers through the dry sand, then pour half the pitcher over one end while she stirs.
 2. Press your flat hand into the damp end, then the dry end. Damp sand keeps the print and dry sand fills it in.
-3. Sweep the tray level with the side of her forearm and smooth it with her palms. She resets it after every jump.
+3. Sweep the sand level with the side of her forearm and smooth it with her palms. She resets it after every jump.
 
 ### 🎨 The Main Event: Where Her Heels Land
 
@@ -38374,7 +38373,7 @@ teddy scale. Everything shrinks except the number of stations.
 - 1 permanent marker
 
 **📝 Step-by-Step Instructions:**
-1. Chalk a take-off line on the paving at the edge of the tray. Her toes go behind it.
+1. Chalk a take-off line on the paving at the edge of the tub. Her toes go behind it.
 2. First jump: arms at her sides, no run-up. Push a craft stick in behind the dent her heels leave.
 3. Cut a string from the chalk line to the stick. Write **ONE** on the stick and tie the string round it.
 4. Smooth the sand, damp it from the pitcher if it has gone crumbly, and jump again with her arms swinging. Mark it, cut a second string, label that stick **TWO**.
@@ -38454,7 +38453,7 @@ house on the line.
 > it in his mouth and rub it into his eyes at 14 months, so he gets a
 > dishwashing bowl of his own sand, set well clear of the landing end, and you
 > stay close enough to touch him. Azlyn comes down heels first into the big
-> tray, so keep him out of it. Tip any standing water out of the tray before
+> tub, so keep him out of it. Tip any standing water out of the tub before
 > either child gets near it. He stays within arm's reach at the pool as well.
 > A morning on open paving is a morning in full sun: hat on, cream at eight,
 > cream again at eleven. The scissors stay with you.
@@ -39321,7 +39320,7 @@ she packed on Friday and hunts for her seat number.
 
 **🧰 You need:** the cut bottles · packing tape · the back step.
 
-1. Carry them out two at a time and lay them end to end down the patio, overlapping each by a hand's width.
+1. The plastic bottles you cut in half last night are the canal channels. Carry them out two at a time and lay them end to end down the patio, overlapping each by a hand's width.
 2. Ask her which end should be at the top. Prop that end on the back step and let her look down the line.
 3. Tape the first two together while she holds them steady. Leave the rest of the joins for 9:15.
 
@@ -39490,7 +39489,7 @@ boats across it until one goes under.
 - Her passport, for the stamp on page five
 
 **📝 Step-by-Step Instructions:**
-1. Roll the rested dough into walnut-sized balls. She rolls and counts, and one will come out enormous and need splitting.
+1. The dough she mixed at 8:00 has had its half hour under the towel. Roll it into walnut-sized balls. She rolls and counts, and one will come out enormous and need splitting.
 2. Tear two squares of parchment paper. One flat on a dinner plate, a ball in the middle, the second square on top.
 3. Second plate on top, and she presses down with both hands and all her weight. Peel the paper back and look.
 4. Pan on a medium heat, dry, no oil. Forty-five seconds a side, and it puffs in the middle when it is done. You stay at the stovetop throughout.
@@ -40022,7 +40021,7 @@ lasts about a minute.
 
 **🧰 You need:** the torn ticket blanks · 1 permanent marker · 1 shoebox or ice-cream tub.
 
-1. Name everyone who will be in the yard today, Kreston included, and lay a blank on the table for each.
+1. The ticket blanks you tore from the cereal boxes last night are the morning's printing stock. Name everyone who will be in the yard today, Kreston included, and lay a blank on the table for each.
 2. Tell her everybody gets two. She adds a second blank to each, working down the table in pairs.
 3. Count the pairs together, write the total on the shoebox lid in marker and sweep the blanks in. She prints them at quarter past nine.
 
@@ -40326,7 +40325,7 @@ instead of looking at it.
 - 1 permanent marker for the names
 
 **📝 Step-by-Step Instructions:**
-1. Lay the slips face up in a row. She picks the order she works in.
+1. Lay the six slips everyone drew on at 8:00 face up in a row. She picks the order she works in.
 2. Take the first slip and ask what it needs before either of you touches the paper. A crown needs card, a snake needs string, a flag needs a straw.
 3. She makes it. She cuts paper with her own scissors, you cut card with yours, and a peg holds anything upright while the tape dries.
 4. Crayons and felt tips last, and she decides when it is finished rather than you.
@@ -40459,7 +40458,7 @@ this morning.
 - Paper and crayons for the menu card
 
 **📝 Step-by-Step Instructions:**
-1. Cut the four top flaps off the box and set them aside for the awning. Tape the base flaps shut with packing tape, then stand the box upside down on the chalk cross so the taped base is the counter top. Press down on it once with the flat of your hand.
+1. Cut the four top flaps off the box and set them aside for the awning. Tape the base flaps shut with packing tape, then stand the box upside down on the cross you chalked at 8:00 so the taped base is the counter top. Press down on it once with the flat of your hand.
 2. Measure it against her. A counter she serves over comes to her chest, so cut the box down to that height or stand it on the upturned crate. The knife goes back in the drawer before she is beside the box again.
 3. Tape the four cut flaps edge to edge into one panel. Tape one long edge of it to the fence behind her and prop the free edge out on the broom handle, so the awning throws shade onto the counter rather than behind it.
 4. Dish towel over the top, squared up by her. Send her to pick whatever is flowering for the jam jar, and cut nothing without asking her.
@@ -41803,7 +41802,7 @@ house is tidier at half past two than it was at one.
 - 1 bell
 
 **📝 Step-by-Step Instructions:**
-1. Everybody sits on a cushion on the tape. One rule for the whole hour: the sound travels one way round the circle and never jumps across the middle.
+1. Everybody sits on a cushion on the tape circle from 8:00. One rule for the whole hour: the sound travels one way round the circle and never jumps across the middle.
 2. Start with a clap. You clap once, the person on your left claps once, and it goes round until it comes back to you. Three times.
 3. Add the shaker. One shake each, passed hand to hand, and nobody shakes it out of turn. She will police this harder than you do.
 4. Pass the beanbag round instead. Whoever holds it makes any sound at all, and the next person copies it before passing it on.
@@ -42788,9 +42787,9 @@ day indoors.
 
 ### 🌅 Opening Activity: What Goes Out Today
 
-**🧰 You need:** newspaper · packing tape · 1 permanent marker · the 6 small things from the table.
+**🧰 You need:** newspaper · packing tape · 1 permanent marker · 6 small things from round the house.
 
-1. Six things on the table, each small enough for one hand: soap, a spoon, a hairbrush, a ball of socks. She picks them.
+1. Send her round the house for six things, each small enough for one hand: soap, a spoon, a hairbrush, a ball of socks. She picks them, and they line up on the kitchen table.
 2. She wraps each one in a sheet of newspaper while you hold the tape. Lumpy is the correct shape for a parcel.
 3. Number them **1** to **6** in marker, big enough to read from standing. All six have to be somewhere else by tonight.
 
@@ -42973,11 +42972,11 @@ building site.
 
 ### 🌳 Get Outside: The Map on the Clipboard
 
-Take the walking copy out and walk the streets it covers, warm enough on the
-first Saturday in September to go slow. It sits on the clipboard and she holds
-it herself. At every place she marked, stand in front of the real one and let
-her put a crayon cross on the paper. Turn the clipboard with her at the
-corners.
+Take the walking copy of this morning's map out and walk the streets it
+covers, warm enough on the first Saturday in September to go slow. It sits
+on the clipboard and she holds it herself. At every place she marked, stand
+in front of the real one and let her put a crayon cross on the paper. Turn
+the clipboard with her at the corners.
 
 > 👶 **Infant Integration:** Kreston is 14 months and scribbles with a whole
 > fist. Give him one crayon and the far corner of the map, and let whatever he
@@ -43363,7 +43362,7 @@ under it.
 
 **🧰 You need:** the 2 frozen washcloths · 1 plate.
 
-1. Open the freezer and let her take both washcloths out. Stiff as boards, and she has not met that before.
+1. Open the freezer and let her take out the two washcloths you froze last night. Stiff as boards, and she has not met that before.
 2. One on a plate on the table to thaw where she can watch it, one back in for 9:15.
 3. Ask her to name every way she knows of getting cooler. Take the list as it comes, then open the windows on the shady side.
 
@@ -43509,7 +43508,7 @@ hall is the coolest strip of the house at one o'clock.
 
 **🧰 You need:** every book in the house · 1 laundry basket or a big bag.
 
-1. Give her the basket and a route: her room, the car, under the sofa, the pile by your bed, the one in the bathroom.
+1. Give her the basket and a route for every book in the house: her room, the car, under the sofa, the pile by your bed, the one in the bathroom.
 2. She tips the lot out in the middle of the floor. A three-year-old sitting in a heap of every book she owns is worth the mess.
 3. Ask how many she thinks there are, count the first ten together, and leave the rest for quarter past nine.
 
@@ -43645,7 +43644,7 @@ Kreston, the teddies and whoever else is in the house.
 
 **🧰 You need:** the emptied first aid box · 1 tray · 1 trash bag.
 
-1. Tip what is left onto the tray. Bandages, bandages, a triangle of cloth nobody has ever used, tweezers you keep hold of.
+1. The medicines came out of the first aid box last night and went up high. Tip what is left onto the tray. Bandages, bandages, a triangle of cloth nobody has ever used, tweezers you keep hold of.
 2. She sorts it in two: things that go on the outside of a person and things that do not. You read the dates, and the old ones go in the trash bag.
 3. Everything usable goes back in. Tell her the next box she packs is for the inside of a person.
 
@@ -43762,7 +43761,7 @@ map, and Friday's bag comes off the hook to carry them.
 ### 🎯 What This Week Is About
 
 Azlyn goes out with something to carry and comes back with something in it,
-seven days running. A six-cup box on Friday, a bowl of soil with six things
+seven days running. A six-cup box on Friday, a dishpan of soil with six things
 buried in it on Saturday, ten taped objects hidden round the yard on Sunday, a
 rucksack that empties one stop at a time on Wednesday. The finds table by the
 window goes up on Friday and stays up until Thursday, so everything she brings
@@ -43924,8 +43923,9 @@ week runs on soil, water, chalk and whatever the hedge is holding.
 
 ### 🌳 Get Outside: One Thing for Every Cup
 
-The same hedge is heavy with fruit and strung with old webs, and nothing has
-come off the trees yet. Walk the usual route with six jobs instead of one.
+The hedge on your usual route is heavy with fruit and strung with old webs,
+and nothing has come off the trees yet. Walk that route with the morning's
+finds box on her hip and six jobs instead of one.
 Rough is easy, yellow is easy, and something with a hole in it will take her
 the longest. Six cups is the quota, so the seventh good stone stays where it
 is.
@@ -44053,7 +44053,7 @@ Australian native plant grown as a major food crop anywhere on earth.
 
 1. Line the three tools up on the tray and give each one its job: the spoon lifts, the sieve catches, the brush uncovers.
 2. Tip the cup of dry soil onto the tray. She scoops with the spoon, shakes it through the sieve, and brushes the last off her palm.
-3. Tell her something is buried in the bowl outside and these three tools are how it comes out. Do not tell her how many.
+3. Tell her something is buried in the dishpan outside and these three tools are how it comes out. Do not tell her how many.
 
 ### 🎨 The Main Event: What the Soil Was Hiding
 
@@ -44068,7 +44068,7 @@ Australian native plant grown as a major food crop anywhere on earth.
 - Old clothes
 
 **📝 Step-by-Step Instructions:**
-1. Old clothes on before the door opens. Set the bowl on the ground and stand the tray on the back step or a chair beside it, above Kreston's reach.
+1. Old clothes on before the door opens. Set the dishpan of soil you buried the objects in last night on the ground, and stand the tray on the back step or a chair beside it, above Kreston's reach.
 2. She digs with the spoon and every spoonful goes through the sieve, held over the tray.
 3. Anything the sieve catches gets the toothbrush before it goes on the tray.
 4. Rinse the caked ones in the pitcher and let her decide which need it.
@@ -44097,7 +44097,7 @@ You set it out and then you stop. Ninety minutes, one bucket of water, the
 soil she dug, and no instruction from you.
 
 **🧰 Complete Materials List:**
-- The dug soil, still in its bowl
+- The dug soil, still in its dishpan
 - 1 bucket of water
 - Old pans, spoons and 1 pitcher
 - 1 old sheet to work on
@@ -44106,7 +44106,7 @@ soil she dug, and no instruction from you.
 - A chair and a drink for you
 
 **📝 Step-by-Step Instructions:**
-1. Spread the old sheet on the ground and stand the bowl of soil in the middle.
+1. Spread the old sheet on the ground and stand the dishpan of soil in the middle.
 2. Set the bucket at one end and heap the pans, spoons and pitcher beside it. Say nothing about what it is for.
 3. Settle Kreston first. Indoors with another adult, or out on the sheet beside you with a hand's depth of water in his own bowl and the bucket within your arm's reach. The hands-off part of this afternoon is for Azlyn and never for him.
 4. Take a drink outside and sit down where she can see you. When she asks what to do, tell her you do not know, and mean it.
@@ -44198,7 +44198,7 @@ soil she dug, and no instruction from you.
 
 **🧰 You need:** 10 objects from round the house, every one of them too big to fit through a toilet-roll tube · 1 roll bright masking tape or electrical tape · 1 bag.
 
-1. Tip the ten onto the table and count them out loud, sliding each one across as you say its number.
+1. Tip the ten out of the bag you filled last night onto the table and count them out loud, sliding each one across as you say its number.
 2. She tears a strip of tape for each and sticks it on so a flash of color shows from any angle. Crooked is fine and crooked is easier to spot.
 3. Count them back into the bag, ten out and ten in, then send her upstairs while you hide them.
 
@@ -45022,7 +45022,7 @@ and cinnamon in the middle.
 - This morning's grid plan
 
 **📝 Step-by-Step Instructions:**
-1. Rule the panel into squares with the pencil, the same number across and down as her plan. A hand span each.
+1. Rule the flat panel you cut from the box last night into squares with the pencil, the same number across and down as her plan. A hand span each.
 2. Sort the colored paper into piles by color. Cereal boxes do not tear, so cut those with the adult scissors while she works the soft paper with the child-safe pair.
 3. Read the plan a row at a time, top left first. She names the color, goes to that pile and cuts a square.
 4. Glue each one down as it is cut. Cut twenty first and she loses track of where they go.
@@ -45153,7 +45153,7 @@ of him.
 
 **🧰 You need:** the cut paper circles, 6–8 · crayons or felt tips · ribbon or wool · 6–8 clothespins · 1 permanent marker.
 
-1. Hand her the circles and let her decorate them. They are prizes, and a prize should look like one.
+1. Hand her the circles you cut from the cereal box last night and let her decorate them. They are prizes, and a prize should look like one.
 2. Lay two lengths of ribbon down the back of each circle and clip a peg over both.
 3. Write **BEST BLUE**, **BEST RED** and **BEST YELLOW** on three of them in marker while she watches. The rest stay blank.
 
@@ -45179,11 +45179,12 @@ of him.
 
 ### 🌳 Get Outside: The Best Door on the Street
 
-Write **BEST RED DOOR** on one blank circle and **BEST BLUE DOOR** on another
-before you go, then judge the street. Walk one side and stop where she stops.
-Doors come in colors nobody would put on a wall: mailbox red, sage green, a
-black gloss that holds the sky in it. Let her pick a winner for each, and hold a
-rosette up from the sidewalk for each one without going up anybody's path.
+Write **BEST RED DOOR** on one of the morning's blank rosettes and
+**BEST BLUE DOOR** on another before you go, then judge the street. Walk
+one side and stop where she stops. Doors come in colors nobody would put on
+a wall: mailbox red, sage green, a black gloss that holds the sky in it.
+Let her pick a winner for each, and hold a rosette up from the sidewalk for
+each one without going up anybody's path.
 
 > 👶 **Infant Integration:** Kreston is 15 months and points at everything he
 > wants named. Doors sit at his height and each one is a single flat color,
@@ -45314,13 +45315,14 @@ its color on a saucer.
 
 ### 🌳 Get Outside: Finding the Rooms From Outside
 
-Roll the plan up, carry it out and stand where you can see the whole front of
-the house. Every room she colored in is behind that wall, and she has never once
-had to think about it. Ask her where the kitchen is from out here and let her
-point at the brick rather than the paper. Walk round to the back if you can get
-there and ask again, because her answer has to change and the house does not.
-Finish on the front door, the one thing that is on the paper and in front of her
-at the same time.
+Roll up the morning's plan of the downstairs, carry it out and stand where
+you can see the whole front of the house. Every room she colored in is
+behind that wall, and she has never once had to think about it. Ask her
+where the kitchen is from out here and let her point at the brick rather
+than the paper. Walk round to the back if you can get there and ask again,
+because her answer has to change and the house does not. Finish on the
+front door, the one thing that is on the paper and in front of her at the
+same time.
 
 > 👶 **Infant Integration:** Kreston is 15 months and walks through the middle of
 > whatever is happening, so the plan travels rolled up rather than spread on the
@@ -46671,9 +46673,10 @@ pegs on the line to win.
 ### 🌳 Get Outside: Prowling Through the Leaves
 
 The leaves along the path edges are down in drifts now. She goes out as the
-animal and moves as it moves: stalking the drifts, freezing behind a wall,
-pouncing on nothing. Find a hedge she can hide inside and come looking for her.
-Use her animal's name where other people can hear it.
+animal you painted on her this morning and moves as it moves: stalking the
+drifts, freezing behind a wall, pouncing on nothing. Find a hedge she can
+hide inside and come looking for her. Use her animal's name where other
+people can hear it.
 
 > 👶 **Infant Integration:** Kreston is 15 months, and a painted face on the
 > person who feeds him takes easing into. Let him watch you paint your own
@@ -47224,7 +47227,7 @@ is doing half the parenting today.
 - Half a loaf of bread, or a sleeve of crackers
 
 **📝 Step-by-Step Instructions:**
-1. Empty the vegetable bowl onto the table and let her line everything up biggest to smallest. Do not correct the order she lands on. Cans and a frozen bag line up in the row with everything else.
+1. Empty the bowl you filled from the vegetable drawer last night onto the table and let her line everything up biggest to smallest. Do not correct the order she lands on. Cans and a frozen bag line up in the row with everything else.
 2. You take the counter, the sharp knife and the hard vegetables. She takes the table, her own board, the butter knife and the soft things: mushrooms, a cooked potato, half a zucchini, and thick slices of bread when the drawer runs short.
 3. Every piece she cuts goes into her bowl, and she carries the bowl to you at the stove and tips it in. Let her make the trip eight times rather than once. The can, the lentils and the bouillon cube go in behind her, then water to cover.
 4. Lift her to see the pot before the heat goes on. Say what the top of it looks like out loud, then put her down and start it.
@@ -48277,7 +48280,7 @@ Thursday.
 
 **🧰 You need:** 8 jam jars on a tray · 1 pitcher of water · 1 small cup for pouring.
 
-1. Count the jars along the tray with her, left to right, and let her tell you which one she thinks will end up heaviest.
+1. Count the jars you washed last night along the tray on the table, left to right, and let her tell you which one she thinks will end up heaviest.
 2. She pours eight cupfuls into jar one and seven into jar two, counting each pour out loud as it goes in. The row empties out as it goes along.
 3. Stop there and leave the other six. Ask her what she thinks jar eight will look like when it only gets one, and tell her she fills the rest at 9:15.
 
@@ -48778,7 +48781,7 @@ instead of starting anything new.
 
 **🧰 You need:** the big box · 1 permanent marker · 5 paper plates.
 
-1. Stand the box up and let her climb into it, which she will do first anyway.
+1. Stand up the big box you emptied last night, still beside the table, and let her climb into it, which she will do first anyway.
 2. Hold a paper plate flat against the outside while she draws round it with the marker. Four wheels, in the places she picks, even if one ends up near the roof.
 3. The fifth plate is the steering wheel. She marks its spot on the inside front and chooses where the horn goes.
 
@@ -49469,7 +49472,7 @@ blankets over the top turn it into somewhere she drives through and then stays.
 
 **🧰 You need:** 1 toy vehicle · 1 sheet of paper · 1 pencil.
 
-1. Put the vehicle in her hands and ask her to name one part of it. Write every word she gives you down the sheet as she says it.
+1. Put the vehicle you picked from the fleet last night in her hands and ask her to name one part of it. Write every word she gives you down the sheet as she says it.
 2. She will run dry at about six. Turn the vehicle over and let her find three more underneath.
 3. Read the list back to her in her own words. Leave it on the table beside where she draws at 9:15.
 
@@ -49601,10 +49604,10 @@ different one on every page, small enough to go in a bag and out of the house.
 
 ### 🌅 Opening Activity: Emptying the Garage
 
-**🧰 You need:** the parking garage · the fleet · 1 shoebox.
+**🧰 You need:** the parking garage · the fleet · 1 spare shoebox.
 
-1. Take every car out of the parking garage and line them up on the floor.
-2. Count them into the shoebox out loud, one at a time. Let her lose count and start again.
+1. The shoebox parking garage from Sunday came in last night with the rest of the week's builds. Take every car out of it and line them up on the floor.
+2. Count them into the spare shoebox out loud, one at a time. Let her lose count and start again.
 3. Ask where each one needs to get to today. The road you build at 9:15 has to reach all of them.
 
 ### 🎨 The Main Event: One Road Through the Whole House
@@ -49867,7 +49870,7 @@ stroller.
 
 1. Roll the card into a cone, wide end down. You hold the point, she tapes the seam and then the rest of it however she likes.
 2. Wrap the cone in foil and let her press it down onto the card. The creases stay in.
-3. Stand it on top of the box and step back with her. Ask what the box has to become for a nose cone to make sense, and write her answer on the side in marker.
+3. Stand it on top of the big box you stood at the end of the hallway last night and step back with her. Ask what the box has to become for a nose cone to make sense, and write her answer on the side in marker.
 
 ### 🎨 The Main Event: The Rocket She Fits Inside
 
@@ -50551,7 +50554,7 @@ write her reason on each thing.
 
 **🧰 You need:** the picture recipe card · 4 small bowls · 2 cups rolled oats (200 g) · 2 tbsp cocoa · 3 tbsp honey or corn syrup · 2 tbsp shredded coconut.
 
-1. Sit her in front of the card and go along the pictures with your finger, left to right. Read the pictures, leave the words.
+1. Sit her in front of the picture recipe you drew last night and go along the pictures with your finger, left to right. Read the pictures, leave the words.
 2. One bowl under each picture. She tips the oats in and levels the cocoa, you do the syrup, and the coconut goes in last.
 3. Line the four bowls up in the order the pictures give. Ask which comes first and let her move them if she disagrees.
 
@@ -52013,7 +52016,7 @@ carries straight through them.
 ---
 
 > 👶 **Kreston is 16 months this week**. He stacks four blocks, copies whatever
-> your hands are doing at the worktop, and has ten or more words he uses on
+> your hands are doing at the counter, and has ten or more words he uses on
 > everything that looks close enough.
 
 ---
@@ -52161,7 +52164,7 @@ Desert gave up the first nest of eggs anybody had seen.
 > goes back to white.
 
 > ⚠️ **Safety:** The oven is on low for two hours with Kreston copying
-> everything that happens at a worktop, so keep him out of the kitchen while
+> everything that happens at a counter, so keep him out of the kitchen while
 > the tray moves. Salt dough and neat food coloring are both dangerous
 > swallowed, so they stay at your end of the table and both children get their
 > hands washed before they leave the room. Battery tealights only, because a
@@ -52334,7 +52337,7 @@ The cut-out gets a wall, a name and a neighbor her own height.
 
 **🧰 You need:** the old hooded top · 1 old sock · 2 safety pins.
 
-1. Pin the empty sock to the back hem of the top and let her put the whole thing on.
+1. Pin the empty sock to the back hem of the old hooded top you put out last night, the one she is allowed to wreck, and let her put the whole thing on.
 2. Send her down the hall, onto a chair and up two stairs in it. A tail that catches on a stair gets shortened now.
 3. Ask where the spikes start and where they stop. She marks both places with a finger, and six arrive at 9:15.
 
@@ -52619,7 +52622,7 @@ path to it.
 
 **🧰 You need:** the oat tray with the bones buried · 1 large spoon · 1 pastry brush.
 
-1. She digs with the spoon until she turns up the first one, then swaps to the brush, which slows the finding down.
+1. The oat tray hides half the cardboard bones you cut last night. She digs with the spoon until she turns up the first one, then swaps to the brush, which slows the finding down.
 2. Every bone she lifts out goes on the table in a line, notches showing.
 3. She counts what she has. Tell her how many are still under the oats, and she keeps going until the tray is empty.
 
@@ -53726,7 +53729,7 @@ covers it, and she will ask again next year.
 - 1 pair of adult scissors (**adult only**)
 
 **📝 Step-by-Step Instructions:**
-1. Lay the track first. Two lines of masking tape down the middle of the room, wide enough for her to walk between.
+1. Lay the track first. Two lines of masking tape down the middle of the living room, wide enough for her to walk between.
 2. Tape out a field for each pile she made at 8:00, on the side she left it. Follow her layout even where it wastes half the floor.
 3. Cut two boxes down to ankle height so she can lift animals in over the wall. She stands back while you cut, and says where the gate goes.
 4. Stand the tubs and small boxes as the barn and the shed. She chooses which is which.
@@ -53880,7 +53883,7 @@ sweeter than a cow's.
 - 2 old towels
 
 **📝 Step-by-Step Instructions:**
-1. Towels down first, one under the working spot and one folded by the door.
+1. Towels down first on the kitchen floor, one under the milking spot and one folded by the door.
 2. Build the cow. Box on its side, flaps taped shut with packing tape, a face on one end in marker. She picks the head end.
 3. Fill a glove with warm water, tested on the inside of your wrist. Twist the wrist end over and tape it shut hard.
 4. Prick four fingertips once each with the pin over the sink, because a cow has four teats. Leave the thumb. Tape the glove under the box so all four fingers hang at her sitting height.
@@ -54016,7 +54019,7 @@ while she watches.
 - 1 permanent marker
 
 **📝 Step-by-Step Instructions:**
-1. Start with the pig. Tape wool scraps over its head until it has a proper wig, and let her say how much is enough.
+1. Fetch the toy animals to the table, beside the four things she lined up at 8:00, and start with the pig. Tape wool scraps over its head until it has a proper wig, and let her say how much is enough.
 2. The goat gets the coat. Sock over the body, head out of the top, and she does the pulling.
 3. The hen gets a pen. Box on its side, hen in, and write **PEN** on the front in marker while she watches each letter arrive.
 4. The duck gets the truck. She loads it and drives it the length of the room, saying both words every trip.
@@ -54150,7 +54153,7 @@ the rug up before anybody puts boots on.
 - 1 basket or a tray to carry the finds in
 
 **📝 Step-by-Step Instructions:**
-1. Lay the three dish towels out with a gap between them. Write **c**, **s** and **p** on the three cards and stand one on each towel.
+1. Lay the three dish towels out on the table with a gap between them. Write **c**, **s** and **p** on the three cards and stand one on each towel.
 2. Say *cow*, stretching the front of it until it is silly, and ask what she hears at the start. Put the cow on the **c** towel.
 3. Do *sheep* and *pig* the same way, one onto each of the other towels.
 4. Hand her the basket and let her post the rest, animal by animal and object by object. Cup, spoon, clothespin, corn, sock, pan, saucer. Say every word out loud first.
@@ -54542,7 +54545,7 @@ apart into two things with two names. Cheese on bread by five thirty.
 **🧰 You need:** the five sheep shapes · 1 bag of cotton balls · 1 glue stick.
 
 1. Count the cotton balls out of the bag onto the table with her, and remember the number.
-2. She glues them over the five sheep until no card shows through. A thin sheep is no fun to shear.
+2. She glues them over the five card sheep you cut out last night until no card shows through. A thin sheep is no fun to shear.
 3. Stand them on the windowsill to dry. Say **shhheep** and **shhhears** with the front stretched, and tell her shearing starts at 9:15.
 
 ### 🎨 The Main Event: Shearing Day
@@ -54556,7 +54559,7 @@ apart into two things with two names. Cheese on bread by five thirty.
 - 1 marker
 
 **📝 Step-by-Step Instructions:**
-1. Check the glue is dry. Any bald patch gets one more cotton ball, glued or brushed on.
+1. Check the wool she glued onto the sheep at 8:00 is dry. Any bald patch gets one more cotton ball, glued or brushed on.
 2. Hand her the safety scissors and start with sheep one. She cuts the wool off close to the card, and every scrap goes in the paper bag.
 3. Number the back of each sheep 1 to 5 in marker as it comes off.
 4. Shear the rest. It takes longer than you expect, her hand will ache, and she will not want help.
@@ -55518,7 +55521,7 @@ which one holds the heat.
 - 1 cushion each
 
 **📝 Step-by-Step Instructions:**
-1. A cushion down for each of you. She stands at one end with Kreston beside her, and you sit at the far end with the tray.
+1. A cushion down for each of you along the cleared hallway. She stands at one end with Kreston beside her, and you sit at the far end with the tray.
 2. Build the sounds one at a time and name each: fingertips on the floor is the first rain, the bedsheet shaken is wind, the rain tube tipped is the downpour, the flashlight is lightning, the tray and spoon are thunder.
 3. Give her the shape and nothing else. A storm starts small, builds, and stops. She calls each sound and whoever has it does it.
 4. Run it once with her conducting. She will go to the thunder inside ten seconds, so let that storm be short and start again.
@@ -55905,7 +55908,7 @@ children busy and out of a hot kitchen while the house fills up.
 - 1 sharp knife (**adult only**)
 
 **📝 Step-by-Step Instructions:**
-1. Empty the four bowls back onto the table. Potatoes first: she lifts one, you wipe it with the dish towel, she says the number, and it goes into the bowl.
+1. Empty the four bowls she filled at 8:00 back onto the table. Potatoes first: she lifts one, you wipe it with the dish towel, she says the number, and it goes into the bowl.
 2. Chalk the total beside the bowl. Do the apples the same way, then the onions.
 3. When she skips a number, say nothing and start that bowl again from one.
 4. Nuts next, the hard bowl: all one color, all one size. Lay them in a long line and let her walk a finger along the row.
@@ -56577,7 +56580,7 @@ posted into the month they belong to. The wheel is how she finds them.
 
 **🧰 You need:** the board · a stack of books · 1 orange.
 
-1. Lay the board flat on the floor and roll the orange along it. It goes nowhere.
+1. The board you stood against the wall last night is this morning's hill. Lay it flat on the floor and roll the orange along it. It goes nowhere.
 2. Slide one book under the top end and roll the orange again. She pushes the book under.
 3. Ask her what happens with two books. Take her prediction, do not test it yet, and tell her the whole hill gets built at 9:15.
 
@@ -57026,7 +57029,7 @@ Thursday as parts of a dinner nobody helped her design.
 - Paper and a marker for the scores
 
 **📝 Step-by-Step Instructions:**
-1. Dish towel flat, three bowls on it, paper and marker alongside. Head the sheet **HANDS** and **TOOL**.
+1. Dish towel flat on the table, three bowls on it, paper and marker alongside. Head the sheet **HANDS** and **TOOL**.
 2. Two potatoes into the first bowl. She mashes one half with the two forks while you count thirty out loud, then the other half with the masher, same count. She calls the winner.
 3. Break the other two open and push a lump of each through the garlic press, or squash them under the flat of a knife. They come out in threads.
 4. Cheese into the second bowl: thirty counts of her fork down the cut face, then thirty with you holding the box grater and her pushing the block.
@@ -57168,7 +57171,7 @@ millet, four thousand years ago.
 
 **🧰 You need:** the measured flour · 3 eggs · a clear table or a big board.
 
-1. Tip the flour into one heap in the middle of the table and let her flatten the top with her palm.
+1. Tip the flour you measured out last night into one heap in the middle of the table and let her flatten the top with her palm.
 2. She pushes a fist down through the middle, then walks her fingers round the inside until the walls stand up on their own.
 3. Crack the eggs into her well one at a time while she watches for a leak. Leave it standing there until 9:15.
 
@@ -57325,7 +57328,7 @@ dinner.
 - 1 clean dish towel
 
 **📝 Step-by-Step Instructions:**
-1. Beat the yolks smooth with the fork, cover that bowl with the dish towel and stand it in the fridge. Two of them go into the batter at 1:00.
+1. Give the yolks she separated at 8:00 one more turn of the fork, cover that bowl with the dish towel and stand it in the fridge. Two of them go into the batter at 1:00.
 2. Pinch of salt over the whites. She whisks while you count sixty, then you take sixty, then her again. With no whisk in the house, the whites go in the jam jar with the lid on and she shakes.
 3. Stop at the loose foam stage. Lift the whisk out and show her the trail it leaves in the surface, then hand it straight back.
 4. Once the foam turns white and holds a mark, rain the tablespoon of sugar in while somebody keeps whisking.
@@ -57590,7 +57593,7 @@ order she decides.
 
 **🧰 You need:** the five covered bowls · 1 saucer · 1 glass of water.
 
-1. Uncover the bowls and let her smell each one with her eyes shut. Name them as she goes.
+1. Uncover the five bowls you set out last night, salt, sugar, dried herbs, pepper and vinegar, and let her smell each one with her eyes shut. Name them as she goes.
 2. A pinch of each onto the saucer, licked off a wet fingertip with a swig of water in between. She pulls a face at the vinegar and goes back to it twice.
 3. Ask her which one she would put in food. Take the answer as it comes and tell her the bowl she is fixing arrives at 9:15.
 
@@ -58735,7 +58738,7 @@ street built in a doorway.
 - Scrap paper and cereal-box card
 
 **📝 Step-by-Step Instructions:**
-1. Cut the doors on three sides so they swing, and the windows on her marks, including the one at ankle height. She stands back while you cut, and the knife goes out of reach between buildings.
+1. The boxes she marked at 8:00 stand in two rows facing each other on the living room floor. Cut the doors on three sides so they swing, and the windows on her marks, including the one at ankle height. She stands back while you cut, and the knife goes out of reach between buildings.
 2. Fold cereal-box card into a peak for each roof and tape it on. She holds, you tape, or swap if she wants the tape.
 3. Hand her the marker. Bricks, curtains, a cat in a window, whatever she puts on a wall stays there.
 4. Tear scrap paper into awnings, a doorstep and a mat for the buildings that need them.
@@ -58879,7 +58882,7 @@ story twice.
 - Scissors (**adult only**)
 
 **📝 Step-by-Step Instructions:**
-1. Start with the villager she cares about most. She draws the face and the eyes come out too big.
+1. The fabric-wrapped bodies from 8:00 are the villagers. Start with the one she cares about most. She draws the face and the eyes come out too big.
 2. Cut a short bundle of yarn for hair, hold it to the head and wind tape around it. You cut, and the scissors go back beside you each time.
 3. Cut fabric into aprons and coats for the ones with a job. A dish towel makes eight aprons and nobody misses it.
 4. Work down the line, asking what each villager does before she draws it. A baker gets a different face from a dog.
@@ -59181,7 +59184,7 @@ hand things through.
 - 1 tray and 1 dish towel
 
 **📝 Step-by-Step Instructions:**
-1. The hills are dry. She carries them over and stands them on the far bank before anything else moves, and then picks which building gets made big. She will pick the shop, and if she picks Grandma's you build Grandma's.
+1. The hills are dry. She carries them over and stands them on the far bank of Sunday's foil river before anything else moves, and then picks which building gets made big. She will pick the shop, and if she picks Grandma's you build Grandma's.
 2. Stand the very large box on end with one side open and cut a serving hatch in one side at her chest height, or set four dining chairs in a square and drape the bedsheet over their backs, one gap left as the window.
 3. On the sheet version, tape the sheet to the chair backs at all four corners so the roof holds with nothing sitting on top of it.
 4. Wedge the shoebox in the window as the counter and write the shop name across the front, the name it carries on the street.
@@ -60074,7 +60077,7 @@ them until the pet shop at 2:30.
 
 **🧰 You need:** 1 sheet of paper · crayons · 1 wooden spoon.
 
-1. Ask which four animals are in the show. Write the names down the page in crayon in her order and let her draw a small one beside each.
+1. The morning builds an animal show for Kreston. Ask which four animals are in the show. Write the names down the page in crayon in her order and let her draw a small one beside each.
 2. Practice one entrance each: how it walks on, the noise it makes, how it gets off again. Do them with her, and be terrible at it.
 3. Hand her the wooden spoon and let her announce all four names into it. Tell her Kreston is the audience and the doors open at 9:15.
 
@@ -60617,7 +60620,7 @@ it is lying on the hallway floor.
 
 **🧰 You need:** the trail, left where it is · 1 flashlight · paper and 1 marker.
 
-1. Let her find it. Say nothing and follow with the flashlight; it is still dark at eight.
+1. The flour trail you laid last night waits on the kitchen floor. Let her find it. Say nothing and follow with the flashlight; it is still dark at eight.
 2. Kneel at one clear print and count the toes, then put her hand beside it for the size.
 3. Write her first guess at the top of the paper. Nobody checks it until 9:15.
 
@@ -62392,7 +62395,7 @@ She makes it again, small enough to lose.
 
 **🧰 You need:** 1 metal tray · 1 cup of water · 1 wet washcloth · 1 hair tie.
 
-1. Tie her hair back first, and say why while you do it.
+1. Tie her hair back first, because candles burn at 9:15, and say why while you do it.
 2. She carries each thing to the table: tray in the middle, water and cloth on your side, inside your reach and not hers.
 3. Ask what each is for. She gets the water first guess. Tell her the cloth smothers and leave that word with her until 9:15.
 
@@ -62687,7 +62690,7 @@ The ten prints are done, and now they go under the oats.
 - 1 roll tape
 
 **📝 Step-by-Step Instructions:**
-1. Tip the tray out on the floor in front of her. You stay on the sofa the whole hour.
+1. Tip the tray of candy she gathered at 8:00 out on the floor in front of her. You stay on the sofa the whole hour.
 2. One kind per cup of the muffin tin. Her categories, so everything gold may end up together.
 3. Count each cup out loud with her. She says the number, you write it on the paper with the marker.
 4. She names each group. Write her name for it, tear the paper into labels, tape one to each cup.
@@ -62827,7 +62830,7 @@ lighting the candles.
 - 1 marker
 
 **📝 Step-by-Step Instructions:**
-1. She picks the spot. A side table, a tray on a shelf, the end of the bookcase, out of the traffic and off the floor.
+1. She picks the spot where the photos will stand: a side table, a tray on a shelf, the end of the bookcase, out of the traffic and off the floor.
 2. Cloth over it. She straightens it until she is satisfied.
 3. One photo per name on her list. Anyone with no print, she draws on card.
 4. Fold each card strip into an L, tape a photo to the upright, stand it up. She says each name out loud.
@@ -63003,7 +63006,7 @@ leaves came off. The door frame and the twelve sheets of hands follow it.
 - The empty shoebox, packing tape and a permanent marker
 
 **📝 Step-by-Step Instructions:**
-1. Scissors through the tape round the cap, yours. She tips the strips out and unties every ribbon.
+1. The bottle holds the paper strips of July's sentences, each tied with ribbon. Scissors through the tape round the cap, yours. She tips the strips out and unties every ribbon.
 2. Read her July strips out loud in the order she hands them over. She will not remember saying any of it, and she will argue with two.
 3. One strip is folded, and that one is yours. She hands it over and you read it out this time.
 4. Door frame. Shoes off, heels back, book flat on her head, pencil mark, **DEC 31** beside it. Cut a strip of paper from January's line to today's and hand her both ends.
@@ -63241,7 +63244,7 @@ lunch she is worn out in the way a cold walk would have worn her out.
 
 1. Towel under each foot, hands free, and walk her onto the kitchen tile. She slides. Let her fall over twice before you say anything about it.
 2. Take her to the carpet and try the same thing. Nothing moves. Then the hall, then the bathroom, then the rug by the door.
-3. Ask her which floor is the fastest and let her rank all of them out loud. She picks which end of the hall gets the finish line, and you tape it there at 9:15.
+3. Ask her which floor is the fastest and let her rank all of them out loud. She picks which end of the hall gets the turning post, and you set it there at 9:15.
 
 ### 🎨 The Main Event: Polishing the Hall on Two Towels
 
@@ -63254,7 +63257,7 @@ lunch she is worn out in the way a cold walk would have worn her out.
 - A clear stretch of hard floor, nothing underfoot
 
 **📝 Step-by-Step Instructions:**
-1. Stand the basket at the end she picked and tape a start line at the other. That is the course, and the walls are out of bounds.
+1. Stand the basket at the end of the hall she picked at 8:00 and tape a start line at the other. That is the course, and the walls are out of bounds.
 2. Wet two towels with the spray bottle, or dip a corner in the bowl and wring them out. Thick socks on both of you, one damp towel under each of her feet. She pushes from the start line to the basket, around it, and back, and the floor behind her comes up clean.
 3. Send her over the same strip four or five times. Skating is the fun part and the cleaning happens whether she means it or not.
 4. Swap to the dry towels for the buffing run. Tell her the job now is shine, and let her hunt for the streaks she left.
@@ -63325,7 +63328,7 @@ drawn around, and the year shows up in the size of them.
 > with a dark December morning. Her feet carry her weight, so a foot job pulls
 > in her legs, hips and back at the same time, and the work is heavy enough to
 > matter. She finishes worn out the way a cold walk would have worn her out.
-> Hand her the towels, name the finish line and stay out of the route she
+> Hand her the towels, name the start line and stay out of the route she
 > picks.
 
 > ⚠️ **Safety:** Towel skating happens on a clear straight run with no stairs

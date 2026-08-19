@@ -46,7 +46,7 @@ indoors and then bring her down again after lunch.
 
 **🧰 You need:** the paper recycling, newspaper and junk mail · 1 laundry basket · 1 marker · masking tape.
 
-1. Sit on the floor with the pile between you and show her one ball: a sheet crushed in two hands until it stops making noise. Loose ones fly wrong, so squeeze yours hard where she can see it.
+1. Sit on the floor with the pile of paper recycling you stood by the sofa last night between you and show her one ball: a sheet crushed in two hands until it stops making noise. Loose ones fly wrong, so squeeze yours hard where she can see it.
 2. Count them into the basket out loud as she goes. Fifty is the target and thirty is a working morning.
 3. Write the number on a strip of tape and stick it to the basket. She will beat it before lunch and want the number changed.
 

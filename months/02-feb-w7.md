@@ -164,7 +164,7 @@ else. The rest of the week runs on paper, flour and tape.
 
 **🧰 You need:** the risen dough in its bowl, or a bought pack out of the fridge · extra flour · a timer · an envelope and a pen.
 
-1. Take the bowl out of the fridge and set it on the table in front of her. Lift the cloth and let her press one finger in. The dent stays where she put it.
+1. Take the bowl of last night's dough out of the fridge and set it on the table in front of her. Lift the cloth and let her press one finger in. The dent stays where she put it.
 2. Ask how many rolls she thinks are in there. Write her number on the back of the envelope and prop it against the bowl.
 3. Flour the table and set the timer for 9:15. The dough is warming up and nobody touches it until the timer goes. She will check it four times.
 
@@ -333,7 +333,7 @@ rhyme, and dots instead of a name.
 - 1 envelope, or a sheet folded and taped shut
 
 **📝 Step-by-Step Instructions:**
-1. Fold the good sheet the way she practiced. She snips it, you keep your hands off it.
+1. Fold the good sheet in half and in half again, the way she practiced at 8:00. She snips it, you keep your hands off it.
 2. Open it out flat and look at it in the window before you write on it.
 3. Ask her what the letter should say and write her rhyme in the middle of the lace. If she stalls, offer her the shape and let her fill it: *I made this, I made this thread, guess my name and get the bread.* Take whatever she gives you.
 4. Count the letters in her name on your fingers. Five. She draws five dots along the bottom of the letter.
@@ -590,7 +590,7 @@ place, including who sits where.
 
 **🧰 You need:** 1 shoelace or a length of string · clear tape · 1 large bead or a fat knot.
 
-1. Ask who the necklace is for, anybody in the house except Kreston, and say why. Hold the lace round that neck, loose, and let her see where the two ends meet.
+1. The shoelace is the string for the pasta necklace she threads at 9:15. Ask who it is for, anybody in the house except Kreston, and say why. Hold the lace round that neck, loose, and let her see where the two ends meet.
 2. Tie the finish knot there, or thread the big bead on and knot it in place. Everything she threads today goes in front of that mark.
 3. Wrap the other end tight in tape until it is stiff as a shoelace tip.
 

@@ -443,7 +443,7 @@ This afternoon her recipe becomes a page in a book with her name on the front.
 
 **🧰 You need:** the overnight dough, cold from the fridge · flour · a dish towel.
 
-1. Take the bowl out and let her look first. The dough has climbed the sides overnight and smells sour.
+1. Take the bowl of last night's dough out of the fridge and let her look first. The dough has climbed the sides overnight and smells sour.
 2. Give her one instruction: fist in, all the way. The whole thing sighs to a third of its height and she will laugh.
 3. Leave it under the dish towel to come to room temperature. Cold dough will not stretch, so the wait is an hour.
 
@@ -866,7 +866,7 @@ A jar, a tight lid, and everybody in the house taking a turn.
 - Stickers if you have them
 
 **📝 Step-by-Step Instructions:**
-1. Sit her down with the row in front of her and the cup of water beside it.
+1. Sit her down with the row of numbered plates from 8:00 in front of her and the cup of water beside it.
 2. Plate 1 first. One bite, chew, a mouthful of water, then talk about it before plate 2 comes near her.
 3. Ask what her tongue found. Soft, crunchy, holey, chewy, seedy. Write her word next to the number, and hers will include *spiky* and *like a pillow*.
 4. Work along to plate 5 with water between each one. No doubling back until the row is finished.

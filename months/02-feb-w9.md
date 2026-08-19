@@ -144,7 +144,7 @@ back into a lump, and the touch line lasts until somebody needs the cardboard.
 
 **🧰 You need:** the taped sheet or flattened boxes · 1 roll masking tape · fat crayons.
 
-1. Unroll the whole thing down the hall and let her walk the length of it in socks.
+1. Unroll the sheet you taped together last night down the hall and let her walk the length of it in socks.
 2. Have her lie down on it in three different shapes while you tape the corners to the floor. Arms out, arms in, one leg up.
 3. Ask which shape she wants to keep. That is the pose she holds at 9:15, so let her practice while you count to twenty.
 
@@ -686,7 +686,7 @@ of card.
 
 **🧰 You need:** the dough · food coloring · 2 bowls · a floured board.
 
-1. Split the dough in half and put a few drops of color into the middle of each lump. She pushes the color in with her thumbs.
+1. Split the playdough you made last night in half and put a few drops of color into the middle of each lump. She pushes the color in with her thumbs.
 2. Knead until the streaks disappear. It takes longer than she expects, which is the reason it sits at 8:00 and not at 9:15.
 3. Ask who she plans to build this afternoon. Let her say it out loud, then leave her the morning to change her mind, because she will.
 
@@ -945,7 +945,7 @@ before you get to say it.
 
 **🧰 You need:** the six filled pots · masking tape · 1 marker.
 
-1. Set the six in a row on the table and let her look at them without opening a thing.
+1. Set the six smell pots you filled last night in a row on the table and let her look at them without opening a thing.
 2. Show her how to waft: cupped hand over the top, a pull of air toward her face. Nose down on the foil gets her a lungful of cinnamon.
 3. She lines them up, the one she likes best at one end and the one she likes least at the other. Nothing gets written down yet.
 

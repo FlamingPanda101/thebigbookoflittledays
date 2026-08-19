@@ -307,7 +307,7 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 - The Forest Family animals, or any toy animals
 
 **📝 Step-by-Step Instructions:**
-1. Tape the torn strips to the wall as a trunk, floor to shoulder height, wider at the bottom. Overlap them until no wall shows.
+1. Tape the strips she tore this morning to the cleared wall as a trunk, floor to shoulder height, wider at the bottom. Overlap them until no wall shows.
 2. Add branches from the shorter strips. She decides how many and where, and crooked ones stay crooked.
 3. Tear leaves from the green paper or magazine pages and tape them along the branches in handfuls.
 4. Draw a line along the baseboard and run roots below it. That line is the ground.
@@ -318,10 +318,9 @@ Japanese doctors send patients out to do it, and the walk counts as treatment.
 
 ### 🌳 Get Outside: Choosing Her Tree
 
-Walk the route and let her pick one tree to be hers for the year. She has to
-give a reason, and any reason counts. Put both arms round the trunk to see
-whether they meet, then count the big branches. Photograph her against it
-today, the last Saturday in January, and again in April, July and October.
+Walk the route and let her pick one tree. She has to give a reason, and any
+reason counts. Put both arms round the trunk to see whether they meet, then
+count the big branches. Photograph her against it today.
 
 > 👶 **Infant Integration:** Kreston is 7 months and tracks Azlyn across a room
 > now. Lay him on his back under the wall tree to look up at the leaves. Tape
@@ -571,7 +570,7 @@ bare corner of the tray, and the Forest Family moves in on top.
 - 1 dustpan and brush
 
 **📝 Step-by-Step Instructions:**
-1. Open the door and stand back. Let her look before anybody says a word.
+1. The flour trail you laid last night waits behind the shut door. Open it and stand back. Let her look before anybody says a word.
 2. Follow it from the start on hands and knees. Count the prints out loud and let her take over.
 3. Stop at every clue and ask the same question: what does this tell us. A chewed leaf says it eats plants, a tuft of wool says it is furry, crumbs say it went past the trash can.
 4. Find the animal at the end. She lifts whatever it is hiding under and says the name.
